@@ -1,0 +1,20 @@
+{
+ "version": 1,
+ "batches": [
+  {
+   "file": "pages/tx/texas-state-pages-1.json"
+  },
+  {
+   "file": "pages/tx/texas-city-pages-1.json"
+  },
+  {
+   "file": "pages/tx/texas-city-ptax-1.json"
+  },
+  {
+   "file": "pages/tx/texas-county-records-1.json"
+  },
+  {
+   "file": "pages/tx/texas-state-pages-2.json"
+  }
+ ]
+}
