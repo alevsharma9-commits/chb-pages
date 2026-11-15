@@ -1,61 +1,73 @@
 {
-  "slug": "pennsylvania-closing-costs",
-  "sections": [
-    {
-      "h2": "What closing costs does a Pennsylvania home seller face?",
-      "html": "<p>The one charge written into Pennsylvania law for nearly every deed is the realty transfer tax, and it is usually the largest line a seller can predict in advance. Other charges, such as a loan payoff, agent compensation and title work, depend on your contract and your lender, so ask your settlement agent for a written estimate before you sign.</p><p>The Department of Revenue describes the state tax as 1 percent of the value of the real estate, including improvements contracted for, transferred by deed, instrument, long-term lease or other writing. County recorders of deeds collect it at recording, usually together with a local transfer tax set by the school district and municipality. That local piece is why a closing in one Pennsylvania town can cost far more in transfer tax than a closing in the next county over.</p><ul><li>State realty transfer tax: 1 percent of value.</li><li>Local realty transfer tax: set by the municipality and school district, so it varies by address.</li><li>Recording fees: paid to the county, and in Allegheny County by a separate check from the transfer tax.</li></ul>"
-    },
-    {
-      "h2": "How much is the Pennsylvania realty transfer tax by place?",
-      "html": "<p>The combined rate depends on where the house sits. Allegheny County says its transfer tax ranges from 2 percent to 5 percent of the total consideration, with 1 percent going to the state and the rest to the municipality and school district. Philadelphia lists 3.578 percent for the City plus 1 percent for the Commonwealth, a total of 4.578 percent.</p><p>The Allegheny County Real Estate Division publishes worked examples that show how the pieces stack. A $40,000 house in Shaler Township carries a 2 percent total, while the same price inside the City of Pittsburgh carries 5 percent. For a house elsewhere in the state, ask the county recorder of deeds for the municipality and school district rates that apply to the parcel.</p><table><caption>Transfer tax on a $40,000 sale in two Allegheny County locations (source: Allegheny County Real Estate Division)</caption><thead><tr><th>Layer</th><th>Shaler Township</th><th>City of Pittsburgh</th></tr></thead><tbody><tr><td>State</td><td>1% ($400)</td><td>1% ($400)</td></tr><tr><td>Municipality</td><td>0.5% ($200)</td><td>3% ($1,200)</td></tr><tr><td>School district</td><td>0.5% ($200)</td><td>1% ($400)</td></tr><tr><td>Total</td><td>2% ($800)</td><td>5% ($2,000)</td></tr></tbody></table>"
-    },
-    {
-      "h2": "Who pays the transfer tax, the buyer or the seller?",
-      "html": "<p>Both sides are legally on the hook, and the contract decides who actually writes the check. Under 61 Pa. Code 91.111, paying the tax is the joint and several duty of the parties, and they may split it as they agree, though the Commonwealth keeps its rights against both.</p><p>Philadelphia describes the common habit directly: the tax is usually split evenly between buyer and seller, which is not a legal requirement. The City can collect 100 percent from either party, so a seller who agreed to pay half still has an interest in seeing the full amount paid at settlement. Read the transfer tax clause in your agreement of sale, because a buyer can offer to absorb it as part of negotiation.</p>"
-    },
-    {
-      "h2": "What value is the tax calculated on?",
-      "html": "<p>In an ordinary arm's length sale, the tax base is the total agreed consideration paid or to be paid. Section 91.132 adds that liens existing before the transfer and not removed by it count toward value, whether or not the buyer assumes the debt.</p><p>Some transfers use a computed value instead. Under 61 Pa. Code 91.135 that covers foreclosure, judicial and tax sales, gifts or nominal-consideration transfers, exchanges for stock or partnership interests, and transactions that are not bona fide sales. Philadelphia explains the method: take the assessed value from the Office of Property Assessment, apply the common level ratio set each year by the State Tax Equalization Board, and multiply the result by the tax rate. Allegheny County notes that new common level ratio factors take effect each year on July 1.</p>"
-    },
-    {
-      "h2": "Which transfers escape the tax?",
-      "html": "<p>Several categories are excluded, but the exclusion must be claimed on the paperwork. The Department of Revenue lists certain transfers among family members, transfers to governmental units, between religious organizations, to shareholders or partners, and to or from nonprofit industrial development agencies, plus deeds to burial sites, certain farm and real estate company transfers, and property passed by will or intestate succession.</p><ul><li>Spouses, parents and children, grandparents and grandchildren, and siblings fall within the family exclusion in 61 Pa. Code 91.193, and Philadelphia asks for documentation of the relationship.</li><li>A devise by will or under intestate law, made for no or nominal consideration, is not taxable, but a transfer under an option to purchase in a will is taxable.</li><li>Philadelphia says transfer tax is still due if mortgages, liens or debts on the property are not paid at the time of transfer.</li><li>A sale by an estate to a buyer is taxable. Philadelphia gives the example of property willed to several people and then sold to one of them.</li></ul>"
-    },
-    {
-      "h2": "What paperwork and deadlines go with the tax?",
-      "html": "<p>A statement of value, filed in duplicate with the deed, is the key form. It states the true, full and complete value and, if you claim an exclusion, the reason the document is not taxable. Section 91.112 lets the parties skip it when the deed itself states the full value and no exclusion is claimed, and a familial transfer can skip it if the deed clearly states the relationship. Allegheny County calls its version PA form REV-183.</p><p>Philadelphia says the tax is due when the document is presented for recording, and acquirers must pay within 30 days after the real estate is acquired. Misrepresenting the transaction or failing to record it can bring penalties of up to 50 percent of the tax due. Paying by mail there takes three certified checks: one to the Recorder of Deeds, one to the City and one to the Commonwealth. In Allegheny County, expect one check for transfer tax and a separate one for recording fees.</p>"
-    },
-    {
-      "h2": "How does this apply to an inherited or as-is Pennsylvania house?",
-      "html": "<p>A house you inherit can pass to you without transfer tax, but selling it afterward is an ordinary taxable sale. The exclusion in 91.159 covers the devise itself, not a later deed from you to a purchaser, so plan for the full state and local rate at closing unless another exclusion fits.</p><p>If heirs divide property among themselves, 91.159 also treats a division in kind as taxable only to the extent someone takes more than an undivided share, or pays consideration. A buyer who purchases an as-is, tenant-occupied or repair-heavy house pays the same percentage as any other buyer, because the tax follows the price and the liens, not the condition. Ask the county recorder of deeds for the current local rate before you agree on a net figure.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Does Pennsylvania charge a state transfer tax on every home sale?",
-      "a": "Yes, the state tax is 1 percent of the value of the real estate, unless the transfer is excluded. Excluded transfers include certain family transfers and property passed by will or intestate succession, and the exclusion has to be claimed on the filing."
-    },
-    {
-      "q": "Is the Philadelphia transfer tax higher than the rest of Pennsylvania?",
-      "a": "Philadelphia lists 4.578 percent in total, made up of 3.578 percent for the City and 1 percent for the Commonwealth. Allegheny County reports a range of 2 percent to 5 percent, so the City of Pittsburgh reaches the top of that range while smaller municipalities sit lower."
-    },
-    {
-      "q": "Can the buyer pay the whole transfer tax?",
-      "a": "Yes, the parties may agree on who pays under 61 Pa. Code 91.111. The Commonwealth keeps its rights against both parties, so the deal terms between you and the buyer do not remove the seller's legal exposure if the tax goes unpaid."
-    },
-    {
-      "q": "Do liens on the house raise the taxable value?",
-      "a": "Yes, in a bona fide sale the value includes liens that existed before the transfer and were not removed by it, whether or not the buyer assumes the underlying debt. Liens paid off at closing do not add to the value."
-    },
-    {
-      "q": "Where do I find the local rate for my address?",
-      "a": "Ask the recorder of deeds in the county where the house sits. That office collects the state tax and the local tax together at recording and can name the municipal and school district rates for the parcel."
-    }
-  ],
-  "sources": [
-    {"title": "Realty Transfer Tax, Pennsylvania Department of Revenue", "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"},
-    {"title": "61 Pa. Code Chapter 91, Realty Transfer Tax", "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/chap91toc.html&d=reduce"},
-    {"title": "Realty Transfer Tax, City of Philadelphia", "url": "https://www.phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/realty-transfer-tax/"},
-    {"title": "Realty Transfer Taxes, Allegheny County Real Estate Division", "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"}
-  ]
+ "slug": "pennsylvania-closing-costs",
+ "sections": [
+  {
+   "h2": "What closing costs does a Pennsylvania home seller face?",
+   "html": "<p>The one charge written into Pennsylvania law for nearly every deed is the realty transfer tax, and it is usually the largest line a seller can predict in advance. Other charges, such as a loan payoff, agent compensation and title work, depend on your contract and your lender, so ask your settlement agent for a written estimate before you sign.</p><p>The Department of Revenue describes the state tax as 1 percent of the value of the real estate, including improvements contracted for, transferred by deed, instrument, long-term lease or other writing. County recorders of deeds collect it at recording, usually together with a local transfer tax set by the school district and municipality. That local piece is why a closing in one Pennsylvania town can cost far more in transfer tax than a closing in the next county over.</p><ul><li>State realty transfer tax: 1 percent of value.</li><li>Local realty transfer tax: set by the municipality and school district, so it varies by address.</li><li>Recording fees: paid to the county, and in Allegheny County by a separate check from the transfer tax.</li></ul>"
+  },
+  {
+   "h2": "How much is the Pennsylvania realty transfer tax by place?",
+   "html": "<p>The combined rate turns on the property's location. Allegheny County says its transfer tax ranges from 2 percent to 5 percent of the total consideration, with 1 percent going to the state and the rest to the municipality and school district. Philadelphia lists 3.578 percent for the City plus 1 percent for the Commonwealth, a total of 4.578 percent.</p><p>The Allegheny County Real Estate Division publishes worked examples that show how the pieces stack. A $40,000 house in Shaler Township carries a 2 percent total, while the same price inside the City of Pittsburgh carries 5 percent. For a house elsewhere in the state, ask the county recorder of deeds for the municipality and school district rates that apply to the parcel.</p><table><caption>Transfer tax on a $40,000 sale in two Allegheny County locations (source: Allegheny County Real Estate Division)</caption><thead><tr><th>Layer</th><th>Shaler Township</th><th>City of Pittsburgh</th></tr></thead><tbody><tr><td>State</td><td>1% ($400)</td><td>1% ($400)</td></tr><tr><td>Municipality</td><td>0.5% ($200)</td><td>3% ($1,200)</td></tr><tr><td>School district</td><td>0.5% ($200)</td><td>1% ($400)</td></tr><tr><td>Total</td><td>2% ($800)</td><td>5% ($2,000)</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Who pays the transfer tax, the buyer or the seller?",
+   "html": "<p>Both sides are legally on the hook, and the contract decides who actually writes the check. Under 61 Pa. Code 91.111, paying the tax is the joint and several duty of the parties, and they may split it as they agree, though the Commonwealth keeps its rights against both.</p><p>Philadelphia describes the common habit directly: the tax is usually split evenly between buyer and seller, which is not a legal requirement. The City can collect 100 percent from either party, so a seller who agreed to pay half still has an interest in seeing the full amount paid at settlement. Read the transfer tax clause in your agreement of sale, because a buyer can offer to absorb it as part of negotiation.</p>"
+  },
+  {
+   "h2": "What value is the tax calculated on?",
+   "html": "<p>In an ordinary arm's length sale, the tax base is the total agreed consideration paid or to be paid. Section 91.132 adds that liens existing before the transfer and not removed by it count toward value, whether or not the buyer assumes the debt.</p><p>Some transfers use a computed value instead. Under 61 Pa. Code 91.135 that covers foreclosure, judicial and tax sales, gifts or nominal-consideration transfers, exchanges for stock or partnership interests, and transactions that are not bona fide sales. Philadelphia explains the method: take the assessed value from the Office of Property Assessment, apply the common level ratio set each year by the State Tax Equalization Board, and multiply the result by the tax rate. Allegheny County notes that new common level ratio factors take effect each year on July 1.</p>"
+  },
+  {
+   "h2": "Which transfers escape the tax?",
+   "html": "<p>Several categories are excluded, but the exclusion must be claimed on the paperwork. The Department of Revenue names certain transfers among family members, transfers to governmental units, between religious organizations, to shareholders or partners, and to or from nonprofit industrial development agencies, plus deeds to burial sites, certain farm and real estate company transfers, and property passed by will or intestate succession.</p><ul><li>Spouses, parents and children, grandparents and grandchildren, and siblings fall within the family exclusion in 61 Pa. Code 91.193, and Philadelphia asks for documentation of the relationship.</li><li>A devise by will or under intestate law, made for no or nominal consideration, is not taxable, but a transfer under an option to purchase in a will is taxable.</li><li>Philadelphia says transfer tax is still due if mortgages, liens or debts on the property are not paid at the time of transfer.</li><li>A sale by an estate to a buyer is taxable. Philadelphia gives the example of property willed to several people and then sold to one of them.</li></ul>"
+  },
+  {
+   "h2": "What paperwork and deadlines go with the tax?",
+   "html": "<p>A statement of value, filed in duplicate with the deed, is the key form. It states the true, full and complete value and, if you claim an exclusion, the reason the document is not taxable. Section 91.112 lets the parties skip it when the deed itself states the full value and no exclusion is claimed, and a familial transfer can skip it if the deed clearly states the relationship. Allegheny County calls its version PA form REV-183.</p><p>Philadelphia says the tax is due when the document is presented for recording, and acquirers must pay within 30 days of acquiring the real estate. Misrepresenting the transaction or failing to record it can bring penalties of up to 50 percent of the tax due. Paying by mail there takes three certified checks: one to the Recorder of Deeds, one to the City and one to the Commonwealth. In Allegheny County, expect one check for transfer tax and a separate one for recording fees.</p>"
+  },
+  {
+   "h2": "How does this apply to an inherited or as-is Pennsylvania house?",
+   "html": "<p>A house you inherit can pass to you without transfer tax, but selling it afterward is an ordinary taxable sale. The exclusion in 91.159 covers the devise itself, not a later deed from you to a purchaser, so plan for the full state and local rate at closing unless another exclusion fits.</p><p>If heirs divide property among themselves, 91.159 also treats a division in kind as taxable only to the extent someone takes more than an undivided share, or pays consideration. A buyer who purchases an as-is, tenant-occupied or repair-heavy house pays the same percentage as any other buyer, because the tax follows the price and the liens, not the condition. Ask the county recorder of deeds for the current local rate before you agree on a net figure.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Pennsylvania charge a state transfer tax on every home sale?",
+   "a": "Yes, the state tax is 1 percent of the value of the real estate, unless the transfer is excluded. Excluded transfers include certain family transfers and property passed by will or intestate succession, and the exclusion has to be claimed on the filing."
+  },
+  {
+   "q": "Is the Philadelphia transfer tax higher than the rest of Pennsylvania?",
+   "a": "Philadelphia lists 4.578 percent in total, made up of 3.578 percent for the City and 1 percent for the Commonwealth. Allegheny County reports a range of 2 percent to 5 percent, so the City of Pittsburgh reaches the top of that range while smaller municipalities sit lower."
+  },
+  {
+   "q": "Can the buyer pay the whole transfer tax?",
+   "a": "Yes, the parties may agree on who pays under 61 Pa. Code 91.111. The Commonwealth keeps its rights against both parties, so the deal terms in your contract with the buyer do not remove the seller's legal exposure if the tax goes unpaid."
+  },
+  {
+   "q": "Do liens on the house raise the taxable value?",
+   "a": "Yes, in a bona fide sale the value includes liens that existed before the transfer and were not removed by it, whether or not the buyer assumes the underlying debt. Liens paid off at closing do not add to the value."
+  },
+  {
+   "q": "Where do I find the local rate for my address?",
+   "a": "Call the recorder of deeds for your house's county. That office collects the state tax and the local tax together at recording and can name the municipal and school district rates for the parcel."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Realty Transfer Tax, Pennsylvania Department of Revenue",
+   "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"
+  },
+  {
+   "title": "61 Pa. Code Chapter 91, Realty Transfer Tax",
+   "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/chap91toc.html&d=reduce"
+  },
+  {
+   "title": "Realty Transfer Tax, City of Philadelphia",
+   "url": "https://www.phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/realty-transfer-tax/"
+  },
+  {
+   "title": "Realty Transfer Taxes, Allegheny County Real Estate Division",
+   "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"
+  }
+ ]
 }

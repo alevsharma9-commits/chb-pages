@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What written notice must a Pennsylvania landlord give before an eviction?",
-   "html": "<p>A landlord must start with a written Notice to Quit, and the number of days depends on why the tenancy is ending. The Office of Attorney General's tenant and landlord guide cites the Landlord and Tenant Act, 68 P.S. 250.501(b) and 250.505-A, for the time periods.</p><p>The notice does not end the tenancy by itself. It starts a clock, and if the tenant is still in the house when the clock runs out, the landlord has to go to court for possession. Self-help such as changing locks or removing belongings is not part of the process the guide describes.</p><table><caption>Notice to Quit periods by reason for eviction (source: Pennsylvania Office of Attorney General tenant and landlord guide)</caption><thead><tr><th>Reason</th><th>Days to leave voluntarily</th></tr></thead><tbody><tr><td>Failure to pay rent</td><td>10</td></tr><tr><td>Use of illegal drugs</td><td>10</td></tr><tr><td>Other lease breach, lease of one year or less or indeterminate term</td><td>15</td></tr><tr><td>Other lease breach, lease longer than one year</td><td>30</td></tr></tbody></table>"
+   "html": "<p>A landlord must start with a written Notice to Quit, and the length of that notice turns on the reason for ending the tenancy. The Office of Attorney General's tenant and landlord guide cites the Landlord and Tenant Act, 68 P.S. 250.501(b) and 250.505-A, for the time periods.</p><p>The notice does not end the tenancy by itself. It starts a clock, and if the tenant is still in the house when the clock runs out, the landlord has to go to court for possession. Self-help such as changing locks or removing belongings is not part of the process the guide describes.</p><table><caption>Notice to Quit periods by reason for eviction (source: Pennsylvania Office of Attorney General tenant and landlord guide)</caption><thead><tr><th>Reason</th><th>Days to leave voluntarily</th></tr></thead><tbody><tr><td>Failure to pay rent</td><td>10</td></tr><tr><td>Use of illegal drugs</td><td>10</td></tr><tr><td>Other lease breach, lease of one year or less or indeterminate term</td><td>15</td></tr><tr><td>Other lease breach, lease longer than one year</td><td>30</td></tr></tbody></table>"
   },
   {
    "h2": "How is a Notice to Quit delivered, and can the lease waive it?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "What happens after the notice period ends?",
-   "html": "<p>The landlord files a Landlord-Tenant Complaint. That filing goes to the Magisterial District Court for the county, to the Philadelphia Municipal Court in Philadelphia, or to the Housing Court in Allegheny County. The complaint asks for possession and may also ask for back rent or damages.</p><p>The court issues a summons with a hearing date, mails it to the tenant's last known address by first-class mail, and has a sheriff or certified constable serve it in person or by posting it. A tenant with a claim against the landlord, such as a breach of the implied warranty of habitability, must file a counterclaim before the hearing date. A tenant who misses the hearing loses by default.</p>"
+   "html": "<p>The landlord files a Landlord-Tenant Complaint. That filing goes to the Magisterial District Court for the county, to the Philadelphia Municipal Court in Philadelphia, or to the Housing Court in Allegheny County. The complaint asks for possession and may also ask for back rent or damages.</p><p>The court issues a summons with a hearing date, mails it to the tenant's last known address by first-class mail, and has a sheriff or certified constable serve it in person or by posting it. A tenant with a claim against the landlord, such as a breach of the implied warranty of habitability, must file a counterclaim before the hearing date. A tenant who misses the hearing loses by default.</p><p>Because each court follows its own local rules, a landlord or tenant should look up the rules for the specific court named on the summons before the hearing date arrives.</p>"
   },
   {
    "h2": "How do the hearing and an appeal work?",
@@ -37,7 +37,7 @@
   },
   {
    "q": "Can a Pennsylvania landlord evict without a court order?",
-   "a": "No, the landlord must file a complaint, win a judgment, wait 10 days, and obtain an order of possession served by a sheriff or certified constable. Forcible removal is possible only on the 11th day after the order is served."
+   "a": "No, the landlord must file a complaint, win a judgment, wait 10 days, and obtain an order of possession served by a sheriff or certified constable. Even then, forcible removal can happen only on the 11th day after service of that order, and the landlord may not act alone."
   },
   {
    "q": "Can a tenant stop an eviction by paying the rent owed?",

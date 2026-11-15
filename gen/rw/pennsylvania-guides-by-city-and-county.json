@@ -1,61 +1,89 @@
 {
-  "slug": "pennsylvania-guides-by-city-and-county",
-  "sections": [
-    {
-      "h2": "What should a Pennsylvania home seller know about the state before reading local guides?",
-      "html": "<p>Pennsylvania is a large, mostly owner-occupied state, and the rules that touch a sale change a good deal from one county to the next. The Census Bureau estimates 13,059,432 residents as of July 1, 2025, living in 5,274,853 households, and it puts the owner-occupied housing rate for 2020 to 2024 at 69.3 percent.</p><p>The same QuickFacts table reports a median value of owner-occupied homes of $254,500 and a median gross rent of $1,209. Those are statewide medians, so a house in Philadelphia, a Pittsburgh suburb and a rural northern county will each sit far from them. The local guides on this site explain how taxes, recording and tenancy rules work where the house actually is.</p>"
-    },
-    {
-      "h2": "How is Pennsylvania divided into counties?",
-      "html": "<p>The state has 67 counties, and each one runs its own assessment office, recorder of deeds and courts. Populations in the county table on Wikipedia range from 4,211 in Cameron County to 1,574,281 in Philadelphia County, and land area ranges from 132 square miles in Montour County to 1,244 square miles in Lycoming County.</p><p>Philadelphia is unusual. The city and county were consolidated in 1854, and after a 1951 referendum the remaining county government functions were merged into the city, so one government handles what elsewhere belongs to a city and a county. Elsewhere, the county seat is where deeds are recorded and many court filings are made.</p><table><caption>Five of the most populous counties and their seats (source: Wikipedia, list of counties in Pennsylvania)</caption><thead><tr><th>County</th><th>County seat</th><th>Population listed</th></tr></thead><tbody><tr><td>Philadelphia</td><td>Philadelphia</td><td>1,574,281</td></tr><tr><td>Allegheny</td><td>Pittsburgh</td><td>1,225,035</td></tr><tr><td>Montgomery</td><td>Norristown</td><td>877,643</td></tr><tr><td>Bucks</td><td>Doylestown</td><td>647,828</td></tr><tr><td>Delaware</td><td>Media</td><td>580,937</td></tr></tbody></table>"
-    },
-    {
-      "h2": "Where do local rules for sellers differ most?",
-      "html": "<p>Three areas show the sharpest local differences: transfer tax at closing, homestead relief on the property tax bill, and the court that hears an eviction. Check each against the county where your house sits.</p><ul><li>Transfer tax: the state tax is 1 percent everywhere, but Allegheny County reports a total of 2 percent to 5 percent, and Philadelphia lists 4.578 percent. A $40,000 house in Shaler Township carries 2 percent, while the same price in the City of Pittsburgh carries 5 percent.</li><li>Homestead relief: the statewide school exclusion needs an application by March 1 before the tax year, Allegheny County runs a county-only exclusion under Act 50, and Philadelphia gives $100,000 off the taxable assessed value with a December 1 filing date.</li><li>Eviction court: most counties use the Magisterial District Court, while Philadelphia uses its Municipal Court and Allegheny County uses its Housing Court.</li></ul>"
-    },
-    {
-      "h2": "Which statewide topics affect almost every Pennsylvania sale?",
-      "html": "<p>Four statewide rules show up in most transactions. Each has a dedicated page on this site that goes into more depth than a directory can.</p><ul><li>Closing costs: the realty transfer tax is imposed on the value of the real estate transferred by deed, with the state's 1 percent collected by county recorders of deeds, often together with a local tax.</li><li>Homestead exclusion: a primary residence can qualify for a reduction in assessed value before school tax is computed, as long as the owner applies by the March 1 deadline.</li><li>Eviction notice: a Notice to Quit gives 10, 15 or 30 days depending on the reason and the lease, and a court order is required before removal.</li><li>Recording: the county recorder of deeds records the deed, collects tax with a statement of value when required, and charges its own recording fees.</li></ul><p>Use the county your house sits in as the starting point. The recorder of deeds, the assessment office and the court clerk are the three offices that can confirm figures for a particular parcel.</p>"
-    },
-    {
-      "h2": "How do I read a Pennsylvania county or city guide on this site?",
-      "html": "<p>Each local guide follows the same order: who runs the office, what the main fee or deadline is, where to find the form, and what to ask before closing. County guides concentrate on records and recording, city guides on the neighborhood and the rules a seller meets there, and statewide guides on law that applies in every county.</p><p>Where a local detail changes from year to year, such as a recording fee schedule or a local tax rate, the guide points you to the office that publishes it instead of printing a number that could go stale. Allegheny County, for example, publishes its recording fees by calendar year and the common level ratio each July 1. Expect the same pattern in other counties: ask the recorder of deeds for the current fee schedule and the assessor for the current ratio.</p>"
-    },
-    {
-      "h2": "When should I contact a county office before a sale?",
-      "html": "<p>Contact the county before you list, and again before you set a closing date. Ask the recorder of deeds which local transfer tax rates apply to the parcel and how recording fees are paid, ask the assessment office whether a homestead exclusion is on the property, and ask the treasurer or tax collector for the status of the current bill.</p><p>If a tenant lives in the house, confirm whether a Notice to Quit has been served and whether any complaint is pending in the court that covers the property. The Attorney General's guide describes the Notice to Quit, hearing and order of possession steps in order. If the house came to you through an estate, the recorder can tell you which family or will-based exclusions apply to the deed you plan to sign, since an excluded devise and a later sale are treated differently.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "How many counties does Pennsylvania have?",
-      "a": "Pennsylvania has 67 counties. Philadelphia County is coterminous with the City of Philadelphia, which consolidated its municipalities in 1854 and merged remaining county functions into the city after a 1951 referendum."
-    },
-    {
-      "q": "What is the typical home value in Pennsylvania?",
-      "a": "The Census Bureau reports a median value of owner-occupied housing units of $254,500 for 2020 to 2024. That is a statewide median, so values in a particular county or neighborhood can sit well above or below it."
-    },
-    {
-      "q": "Is the property transfer tax the same in every county?",
-      "a": "No, the state portion is 1 percent everywhere, but local rates are added by municipality and school district. Allegheny County reports totals from 2 percent to 5 percent, and Philadelphia lists 4.578 percent."
-    },
-    {
-      "q": "Do I apply for homestead relief in the same way everywhere?",
-      "a": "No, the statewide school exclusion is filed with the county assessment office by March 1, Allegheny County runs a separate county-only Act 50 exclusion, and Philadelphia uses its own application with a December 1 deadline."
-    },
-    {
-      "q": "Which office should I ask about a local fee or rate?",
-      "a": "Ask the county recorder of deeds for transfer tax and recording fees, the county assessment office for homestead and valuation questions, and the court clerk for eviction filings. Each office publishes or confirms the current figure for your parcel."
-    }
-  ],
-  "sources": [
-    {"title": "QuickFacts: Pennsylvania, U.S. Census Bureau", "url": "https://www.census.gov/quickfacts/fact/table/PA/HSD410224"},
-    {"title": "List of counties in Pennsylvania, Wikipedia", "url": "https://en.wikipedia.org/wiki/List_of_counties_in_Pennsylvania"},
-    {"title": "Realty Transfer Taxes, Allegheny County Real Estate Division", "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"},
-    {"title": "Realty Transfer Tax, City of Philadelphia", "url": "https://www.phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/realty-transfer-tax/"},
-    {"title": "Realty Transfer Tax, Pennsylvania Department of Revenue", "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"},
-    {"title": "Property Tax Relief Through Homestead Exclusion, PA DCED", "url": "https://dced.pa.gov/local-government/property-tax-relief-homestead-exclusion/"},
-    {"title": "Get the Homestead Exemption, City of Philadelphia", "url": "https://phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/get-the-homestead-exemption"},
-    {"title": "Consumer Guide to Tenant and Landlord Rights, Pennsylvania Office of Attorney General", "url": "https://www.attorneygeneral.gov/wp-content/uploads/ConsumerTenant-Landlord-Guide.pdf"}
-  ]
+ "slug": "pennsylvania-guides-by-city-and-county",
+ "sections": [
+  {
+   "h2": "What should a Pennsylvania home seller know about the state before reading local guides?",
+   "html": "<p>Pennsylvania is large and mostly owner-occupied, and the rules that touch a sale shift from one county to the next. QuickFacts counts 5,274,853 households for 2020 to 2024 and an owner-occupied housing rate of 69.3 percent, with a population estimate of 13,059,432 for mid-2025.</p><p>The same table lists a statewide median home value of $254,500 and median gross rent of $1,209. A house in Philadelphia, a Pittsburgh suburb or a rural northern county will each land far from those medians, so the local guides on this site look at taxes, recording and tenancy rules where the house actually is.</p>"
+  },
+  {
+   "h2": "How is Pennsylvania divided into counties?",
+   "html": "<p>The state has 67 counties, and each one runs its own assessment office, recorder of deeds and courts. Populations in the county table on Wikipedia range from 4,211 in Cameron County to 1,574,281 in Philadelphia County, and land area ranges from 132 square miles in Montour County to 1,244 square miles in Lycoming County.</p><p>Philadelphia is unusual. The city and county were consolidated in 1854, and after a 1951 referendum the remaining county government functions were merged into the city, so one government handles what elsewhere belongs to a city and a county. Elsewhere, the county seat is where deeds are recorded and many court filings are made.</p><table><caption>Five of the most populous counties and their seats (source: Wikipedia, list of counties in Pennsylvania)</caption><thead><tr><th>County</th><th>County seat</th><th>Population listed</th></tr></thead><tbody><tr><td>Philadelphia</td><td>Philadelphia</td><td>1,574,281</td></tr><tr><td>Allegheny</td><td>Pittsburgh</td><td>1,225,035</td></tr><tr><td>Montgomery</td><td>Norristown</td><td>877,643</td></tr><tr><td>Bucks</td><td>Doylestown</td><td>647,828</td></tr><tr><td>Delaware</td><td>Media</td><td>580,937</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What does the Census say about housing and households across Pennsylvania?",
+   "html": "<p>The 2020 Census counted 13,002,700 people, and the Bureau's July 1, 2025 estimate is 13,059,432, a 0.4 percent change from the April 2020 base. Land area is 44,742.27 square miles, which works out to 290.6 people per square mile in 2020, so the density figure hides the gap between crowded southeastern suburbs and thinly settled northern counties.</p><ul><li>Housing units: 5,882,221 as of July 1, 2025, with 25,709 building permits recorded in 2025.</li><li>Stability: 89.3 percent of residents aged one and older lived in the same house a year earlier (2020 to 2024).</li><li>Costs: median selected monthly owner costs are $1,762 with a mortgage and $644 without one.</li><li>Income: median household income is $77,971 in 2024 dollars, and the mean commute is 26.3 minutes.</li></ul><p>These numbers describe the state as a whole. Philadelphia's resident count alone is about 12 percent of that total, using the county table above. A seller in a single county should look at the county's own QuickFacts page for a closer comparison.</p>"
+  },
+  {
+   "h2": "Where do local rules for sellers differ most?",
+   "html": "<p>Three areas show the sharpest local differences: transfer tax at closing, homestead relief on the property tax bill, and the court that hears an eviction. Check each against the county where your house sits.</p><ul><li>Transfer tax: the state tax is 1 percent everywhere, but Allegheny County reports a total of 2 percent to 5 percent, and Philadelphia lists 4.578 percent. A $40,000 house in Shaler Township carries 2 percent, while the same price in the City of Pittsburgh carries 5 percent.</li><li>Homestead relief: the statewide school exclusion needs an application by March 1 before the tax year, Allegheny County runs a county-only exclusion under Act 50, and Philadelphia gives $100,000 off the taxable assessed value with a December 1 filing date.</li><li>Eviction court: most counties use the Magisterial District Court, while Philadelphia uses its Municipal Court and Allegheny County uses its Housing Court.</li></ul><p>Smaller differences also matter. The Allegheny County Real Estate Division collects transfer tax at the moment the deed is recorded and takes it by a separate check from the recording fees, while Philadelphia requires the tax within 30 days of acquiring the property and allows payment online, in person or by mail. A seller who owns in more than one county should read each county's instructions separately, because forms, payment methods and deadlines are not interchangeable.</p>"
+  },
+  {
+   "h2": "Which statewide topics affect almost every Pennsylvania sale?",
+   "html": "<p>Four statewide rules show up in most transactions. Each has a dedicated page on this site that goes into more depth than a directory can.</p><ul><li>Closing costs: the realty transfer tax is imposed on the value of the real estate transferred by deed, with the state's 1 percent collected by county recorders of deeds, often together with a local tax.</li><li>Homestead exclusion: a primary residence can qualify for a reduction in assessed value before school tax is computed, as long as the owner applies by the March 1 deadline.</li><li>Eviction notice: a Notice to Quit gives 10, 15 or 30 days depending on the reason and the lease, and a court order is required before removal.</li><li>Recording: the recorder of deeds in each county accepts the deed, collects tax with a statement of value when required, and charges its own recording fees.</li></ul><p>Use the county your house sits in as the starting point. The recorder of deeds, the assessment office and the court clerk are the three offices that can confirm figures for a particular parcel.</p>"
+  },
+  {
+   "h2": "How do local figures reach a Pennsylvania seller?",
+   "html": "<p>Many local figures are published by the office that sets them and change over time, such as a recording fee schedule or a local tax rate. Allegheny County, for example, publishes its recording fees by calendar year and says the Department of Revenue releases new common level ratio factors by county each year, effective July 1.</p><p>Expect the same pattern elsewhere: ask the recorder of deeds for the current fee schedule and the local transfer tax rates, and ask the assessor for the ratio and the assessment on your parcel. Treat any figure in a general guide as a pointer to the office that holds the current number.</p>"
+  },
+  {
+   "h2": "When should I contact a county office before a sale?",
+   "html": "<p>Reach out to the county before you list, and once more when a closing date is being chosen. Ask the recorder of deeds which local transfer tax rates apply to the parcel and how recording fees are paid, ask the assessment office whether a homestead exclusion is on the property, and ask the treasurer or tax collector for the status of the current bill.</p><p>If a tenant lives in the house, confirm whether a Notice to Quit has been served and whether any complaint is pending in the court that covers the property. The Attorney General's guide describes the Notice to Quit, hearing and order of possession steps in order. If the house came to you through an estate, the recorder can tell you which family or will-based exclusions apply to the deed you plan to sign, since an excluded devise and a later sale are treated differently.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many counties does Pennsylvania have?",
+   "a": "Pennsylvania has 67 counties. Philadelphia County is coterminous with the City of Philadelphia, which consolidated its municipalities in 1854 and merged remaining county functions into the city after a 1951 referendum."
+  },
+  {
+   "q": "What is the typical home value in Pennsylvania?",
+   "a": "The Census Bureau lists $254,500 as the median value of owner-occupied units for 2020 to 2024. That is a statewide middle point, and a particular county or neighborhood can land far higher or lower."
+  },
+  {
+   "q": "Is the property transfer tax the same in every county?",
+   "a": "No, the state portion is 1 percent everywhere, but local rates are added by municipality and school district. Allegheny County reports totals from 2 percent to 5 percent, and Philadelphia lists 4.578 percent."
+  },
+  {
+   "q": "Do I apply for homestead relief in the same way everywhere?",
+   "a": "No, the statewide school exclusion is filed with the county assessment office by March 1, Allegheny County runs a separate county-only Act 50 exclusion, and Philadelphia uses its own application with a December 1 deadline."
+  },
+  {
+   "q": "Which office should I ask about a local fee or rate?",
+   "a": "Ask the county recorder of deeds for transfer tax and recording fees, the county assessment office for homestead and valuation questions, and the court clerk for eviction filings. Each office publishes or confirms the current figure for your parcel."
+  }
+ ],
+ "sources": [
+  {
+   "title": "QuickFacts: Pennsylvania, U.S. Census Bureau",
+   "url": "https://www.census.gov/quickfacts/fact/table/PA/HSD410224"
+  },
+  {
+   "title": "List of counties in Pennsylvania, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_counties_in_Pennsylvania"
+  },
+  {
+   "title": "Realty Transfer Taxes, Allegheny County Real Estate Division",
+   "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"
+  },
+  {
+   "title": "Realty Transfer Tax, City of Philadelphia",
+   "url": "https://www.phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/realty-transfer-tax/"
+  },
+  {
+   "title": "Realty Transfer Tax, Pennsylvania Department of Revenue",
+   "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"
+  },
+  {
+   "title": "Property Tax Relief Through Homestead Exclusion, PA DCED",
+   "url": "https://dced.pa.gov/local-government/property-tax-relief-homestead-exclusion/"
+  },
+  {
+   "title": "Get the Homestead Exemption, City of Philadelphia",
+   "url": "https://phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/get-the-homestead-exemption"
+  },
+  {
+   "title": "Consumer Guide to Tenant and Landlord Rights, Pennsylvania Office of Attorney General",
+   "url": "https://www.attorneygeneral.gov/wp-content/uploads/ConsumerTenant-Landlord-Guide.pdf"
+  }
+ ]
 }

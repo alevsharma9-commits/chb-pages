@@ -1,0 +1,77 @@
+{
+ "slug": "pennsylvania-inheritance-tax",
+ "sections": [
+  {
+   "h2": "How does Pennsylvania inheritance tax work when you inherit a house?",
+   "html": "<p>Pennsylvania charges inheritance tax on property that passes at death, and the rate depends on how closely the heir is related to the person who died. A house is valued like any other asset, so an heir who keeps it, rents it or sells it still sits inside the same tax calculation. The Department of Revenue describes the tax as a percentage of the value of a decedent's estate transferred to beneficiaries by will, to heirs by intestacy and to transferees by operation of law.</p><p>The tax is a Pennsylvania matter separate from the federal system and separate from the realty transfer tax that applies when a deed changes hands for a price. Heirs who plan to sell should keep three questions apart: what the estate owes the state, who has authority to sign a deed, and what the buyer's closing will cost. This page covers the first and touches the other two.</p>"
+  },
+  {
+   "h2": "What are the Pennsylvania inheritance tax rates by heir?",
+   "html": "<p>The state sets four rates, from zero up to fifteen percent. The department's overview page lists them as follows.</p><table><caption>Pennsylvania inheritance tax rates by relationship to the decedent (Department of Revenue, Inheritance Tax overview)</caption><thead><tr><th>Who receives the property</th><th>Rate</th></tr></thead><tbody><tr><td>Surviving spouse, or a parent receiving from a child aged 21 or younger</td><td>0 percent</td></tr><tr><td>Direct descendants and lineal heirs</td><td>4.5 percent</td></tr><tr><td>Siblings</td><td>12 percent</td></tr><tr><td>Other heirs</td><td>15 percent</td></tr></tbody></table><p>Charitable organizations, exempt institutions and government entities are exempt. Property that spouses owned jointly is also exempt from inheritance tax.</p><p>Two narrower exemptions matter for real estate. Certain farm land and other agricultural property is exempt for decedents who died after June 30, 2012, when it goes to eligible recipients. Personal property from the estate of a service member who died from an injury or illness received on active duty is exempt for deaths on or after September 6, 2022. The department points to Inheritance Tax Informational Notice 2012-01 for the farm rules.</p>"
+  },
+  {
+   "h2": "When is the tax due, and what is the three month discount?",
+   "html": "<p>The tax is due on the date of death and becomes delinquent nine months later. If it is paid within three months of death, the state allows a 5 percent discount. Both rules come from the Department of Revenue's overview and payment pages.</p><p>For a house, the discount creates a timing choice. An heir who can pay quickly saves five percent of the tax, but an estate that holds mostly real estate may have little cash in the first ninety days. Selling the house early can fund the payment, which is one reason heirs ask about a fast sale. If the estate cannot pay in full, the department's payment page describes payment plans and tells taxpayers who cannot pay in full to contact the department.</p><ul><li>Pennsylvania residents pay through the Register of Wills in the county where the decedent lived.</li><li>Non-residents pay the Department of Revenue directly.</li><li>Plan the sale date around the nine month mark, since delinquency starts then.</li></ul>"
+  },
+  {
+   "h2": "Who signs the deed to sell an inherited house?",
+   "html": "<p>The personal representative signs, after the Register of Wills grants letters. Under 20 Pa.C.S. 3351, a personal representative may sell real property not specifically devised, and may sell specifically devised property with the joinder of the devisee. Unless the will says otherwise, that sale can be public or private.</p><p>Where the will denies the power to sell, or where it is advisable that a sale have the effect of a judicial sale, section 3353 sends the request to the orphans' court division of the county that granted letters. A buyer then receives clear title under section 3357, which passes the decedent's full title free of legacy liens and estate debts if the representative gave any bond the law requires. Ask the title company which documents it needs before it will insure the deed.</p><p>The same title adds a paperwork duty that touches tax: under section 3301(c), the personal representative files the inventory by the date the account is filed or the due date, with extensions, for the inheritance tax return, whichever comes first.</p>"
+  },
+  {
+   "h2": "Does the realty transfer tax apply to an inherited house?",
+   "html": "<p>Passing a house to an heir by will or intestacy is exempt from the realty transfer tax, but a later sale to a buyer is a deed transfer that the tax reaches. The department lists property passed by testate or intestate succession among the exempt transfers.</p><p>The state rate is 1 percent of the value of real estate transferred by deed. County Recorders of Deeds collect it, often together with an added local tax, and send the state's share to the department. Grantor and grantee are jointly and severally liable, so ask the closing agent how it will be settled. Ask the Recorder of Deeds for the local rate in the county where the house sits, since that figure varies.</p>"
+  },
+  {
+   "h2": "Who inherits the house when there is no will?",
+   "html": "<p>Intestacy rules in 20 Pa.C.S. 2102 and 2103 decide it, and they also decide the tax rate each person pays. A surviving spouse takes the entire intestate estate when the decedent left no issue and no parent. With surviving issue who are all issue of the spouse as well, the spouse takes the first $30,000 plus one-half of the balance, and the children share the rest.</p><p>If the decedent left a spouse and children from another relationship, the spouse takes one-half of the intestate estate. Where several heirs share a house, each heir's slice is taxed at that heir's own rate, so a sale that splits proceeds among a child and a sibling produces two different percentages. Ask the Register of Wills to confirm the heirs on the petition before anyone signs a listing agreement.</p>"
+  },
+  {
+   "h2": "What changed for estates with no family heirs?",
+   "html": "<p>Act 50 of 2025 changed who inherits when no relatives exist. Before January 16, 2026, the Commonwealth was the first statutory heir in that situation. The law now sends the estate first to an endowed community fund in the decedent's municipality, then in the school district, then in the county, and only after those the Commonwealth.</p><p>This matters to a distant relative or a friend named nowhere in a will: the question of who qualifies as an heir sits ahead of any tax rate. The order of succession itself is in 20 Pa.C.S. 2103, which runs from issue to parents, to the issue of the parents, to grandparents and then to more remote lines.</p>"
+  },
+  {
+   "h2": "What should an heir do before listing the house?",
+   "html": "<p>Work through the steps in order, because each one unlocks the next.</p><ul><li>Confirm that letters have been granted by the Register of Wills in the county of the decedent's last principal residence.</li><li>Ask the Register of Wills what value documentation the inheritance tax return needs for the house.</li><li>Decide whether to pay within three months for the 5 percent discount.</li><li>Ask the title company whether the sale needs the joinder of a specific devisee.</li><li>Ask the county Recorder of Deeds for the local transfer tax rate and recording fees.</li></ul><p>A cash buyer can close without repairs or showings, which helps when an estate is paying carrying costs on an empty house. The estate still needs letters, a signing representative and tax payment planning before closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I owe inheritance tax if I inherit my parent's house in Pennsylvania?",
+   "a": "Yes, at 4.5 percent of the value you receive, because a child is a direct descendant. The surviving spouse pays 0 percent. A sibling pays 12 percent and other heirs pay 15 percent."
+  },
+  {
+   "q": "Is there a discount for paying early?",
+   "a": "Yes. The Department of Revenue allows a 5 percent discount if the tax is paid within three months of the date of death. After nine months the tax is delinquent."
+  },
+  {
+   "q": "Where do I pay inheritance tax for a Pennsylvania resident?",
+   "a": "You pay the Register of Wills in the county where the decedent lived. Payments for non-residents go to the Department of Revenue instead."
+  },
+  {
+   "q": "Can I sell the inherited house before the tax is paid?",
+   "a": "Yes, if the personal representative holds letters and the title company is satisfied, and the tax can be paid from the estate or from sale proceeds. Ask the title company how it wants that handled at closing."
+  },
+  {
+   "q": "Is the property I inherit taxed twice when I sell it?",
+   "a": "No. The inheritance tax applies once to the transfer at death. A sale later adds the realty transfer tax, which is 1 percent at the state level plus any local rate, and succession itself is exempt from that tax."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Pennsylvania Department of Revenue, Inheritance Tax",
+   "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/inheritance-tax"
+  },
+  {
+   "title": "Pennsylvania Department of Revenue, Make an Inheritance Tax Payment",
+   "url": "https://www.pa.gov/services/revenue/make-an-inheritance-tax-payment"
+  },
+  {
+   "title": "Pennsylvania Department of Revenue, Realty Transfer Tax",
+   "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"
+  },
+  {
+   "title": "Pennsylvania Consolidated Statutes, Title 20 (Decedents, Estates and Fiduciaries)",
+   "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/20/20.HTM"
+  }
+ ]
+}
