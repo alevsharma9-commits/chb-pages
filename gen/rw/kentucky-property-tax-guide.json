@@ -7,11 +7,11 @@
     },
     {
       "h2": "What is the way to contest a Kentucky assessment?",
-      "html": "<p>Request a conference with the PVA or a deputy first. If that conversation leaves you unsatisfied, you file a short written petition at the clerk's office giving your reasons, the parcel you mean and the value you believe is right. Conferences can be held by telephone when you ask.</p><p>The roll opens to the public on the first Monday in May for 13 days. Your petition is due by the end of the next workday after that window shuts. When a PVA asks and the state agrees, the cutoff can slide by up to 25 days. Skip the local board, or fail to show up for your hearing, and the later state appeal is closed to you.</p><ul><li>The local board of assessment appeals sits between 25 and 35 days after the roll closes, with a public hearing on each protest.</li><li>Evidence decides the outcome: sales listings, construction costs, insurance policies, mortgages or loans. A protest with no supporting facts must be denied.</li><li>You may make an audio recording of your hearing.</li><li>Anyone paid to speak for you must hold one of the roles listed in the statute, such as attorney, CPA, tax consultant, licensed broker, appraiser or your own employee, and must carry your written authorization.</li></ul><p>Filing does not pause collection. KRS 133.120(9) has you pay on the figure you claimed in the petition, and if the final value ends up higher you owe the difference plus interest.</p>"
+      "html": "<p>Request a conference with the PVA or a deputy first. If that conversation leaves you unsatisfied, you file a short written petition at the clerk's office giving your reasons, the parcel you mean and the value you believe is right. Conferences can be held by telephone when you ask.</p><p>The roll opens to the public on the first Monday in May for 13 days. Your petition is due by the end of the next workday after that window shuts. When a PVA asks and the state agrees, the cutoff can slide by up to 25 days. Skip the local board, or fail to show up for your hearing, and the later state appeal is closed to you.</p><ul><li>The local board of assessment appeals sits between 25 and 35 days after the roll closes, with a public hearing on each protest.</li><li>Evidence decides the outcome: sales listings, construction costs, insurance policies, mortgages or loans. A protest with no supporting facts must be denied.</li><li>You may make an audio recording of your hearing.</li><li>Anyone paid to speak for you must hold one of the roles listed in the statute, such as attorney, CPA, tax consultant, licensed broker, appraiser or your own employee, and must carry your written authorization.</li></ul><p>Filing does not pause collection. KRS 133.120(9) has you pay on the figure you claimed in the petition, and if the final value ends up higher you owe the difference plus interest. Bills are sometimes printed before an appeal wraps up, in which case your claimed value is used and a supplemental bill follows for anything the board adds.</p>"
     },
     {
       "h2": "Where does a Kentucky owner go after losing at the county board?",
-      "html": "<p>The next stop is the Kentucky Board of Tax Appeals, reached under KRS 49.220. A petition has to arrive within 30 days after the date the county board's decision was mailed, and the state board rehears the matter from scratch rather than reviewing a record.</p><p>The county board owes you a written explanation whenever it changes a value, and it has to inspect the parcel in person on request from you or the PVA. The legislature amended KRS 133.120 effective July 15, 2026, so read the current wording before filing.</p>"
+      "html": "<p>The next stop is the Kentucky Board of Tax Appeals, reached under KRS 49.220. A petition has to arrive inside 30 days of the mailing date on the county board's decision, and the state board rehears the matter from scratch rather than reviewing a record.</p><p>The county board owes you a written explanation whenever it changes a value, and it has to inspect the parcel in person on request from you or the PVA. The legislature amended KRS 133.120 effective July 15, 2026, so read the current wording before filing.</p>"
     },
     {
       "h2": "What does a typical Kentucky tax year look like on the calendar?",
@@ -19,7 +19,7 @@
     },
     {
       "h2": "Who decides the rate that gets multiplied against the assessment?",
-      "html": "<p>Every taxing body picks its own rate, but House Bill 44 boxes in the choices. A body can roll its rate back to the compensating level, which keeps income from existing property flat, or choose a rate that lifts that income by no more than 4 percent after a public hearing. Going above the 4 percent line opens the door to a petition and a recall vote. Rates are written as cents per $100 of value.</p><p>On the state side, the Department of Revenue announced a 2025 real property rate of 10.6 cents per $100, down from 10.9 the year before. Assessments were projected to climb 7.54 percent, and the statute limits state revenue growth from existing property to 4 percent. Cities, school districts, counties and special districts stack their own rates on top, so the full rate varies with the parcel's location.</p>"
+      "html": "<p>Every taxing body picks its own rate, but House Bill 44 boxes in the choices. A body can roll its rate back to the compensating level, which keeps income from existing property flat, or choose a rate that lifts that income by no more than 4 percent after a public hearing. Going above the 4 percent line opens the door to a petition and a recall vote. Rates are quoted in cents for each $100 of value.</p><p>On the state side, the Department of Revenue announced a 2025 real property rate of 10.6 cents on each $100 of assessed value, down from 10.9 the year before. Assessments were projected to climb 7.54 percent, and the statute limits state revenue growth from existing property to 4 percent. Cities, school districts, counties and special districts stack their own rates on top, so the full rate varies with the parcel's location.</p>"
     },
     {
       "h2": "What are the consequences of leaving a Kentucky tax bill unpaid?",
@@ -27,16 +27,16 @@
     },
     {
       "h2": "What property tax steps matter when a Kentucky house is being sold?",
-      "html": "<p>Learn the balance before the listing goes live. The sheriff can give you the amount on the current bill, and the clerk can say whether a certificate of delinquency sits against the parcel. Counties must post their delinquent lists on a county website and in the newspaper at least 30 days ahead of a sale.</p><p>The seller also owes the real estate transfer tax, fifty cents per $500 of value, collected when the deed is recorded. A foreclosure transfer or a surrender in lieu of foreclosure falls outside it. A homestead exemption on the property should be reported to the PVA at transfer, and organizations with a Section 170 exemption such as churches or libraries use Revenue Form 62A023.</p>"
+      "html": "<p>Learn the balance before the listing goes live. The sheriff can give you the amount on the current bill, and the clerk can say whether a certificate of delinquency sits against the parcel. Counties must post their delinquent lists on a county website and in the newspaper at least 30 days ahead of a sale.</p><p>The seller also owes the real estate transfer tax, a charge of $0.50 on every $500 of declared value, which the clerk takes at recording. A foreclosure transfer or a surrender in lieu of foreclosure falls outside it. A homestead exemption on the property should be reported to the PVA at transfer, and organizations with a Section 170 exemption such as churches or libraries use Revenue Form 62A023.</p>"
     }
   ],
   "faqs": [
     {
       "q": "When does a Kentucky property tax bill arrive and when is it due?",
-      "a": "Sheriffs mail bills in the fall, usually effective October 1 or November 1. Payment with a 2 percent discount runs through November 1, and face value is accepted through December 31."
+      "a": "Sheriffs mail bills in the fall, with collection starting October 1 or November 1 depending on the county. Payment with a 2 percent discount runs through November 1, and face value is accepted through December 31."
     },
     {
-      "q": "What is the deadline to protest a valuation?",
+      "q": "Until what day can I protest my valuation?",
       "a": "The petition is due one workday after the 13 day inspection window ends. That window starts on the first Monday in May, and a PVA conference has to happen before you file."
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "q": "Who fixes the state real property rate?",
-      "a": "The Department of Revenue sets it each year by July 1 under KRS 132.020. The 2025 figure was 10.6 cents per $100 of assessed value."
+      "a": "The Department of Revenue sets it each year by July 1 under KRS 132.020. For 2025 it landed at 10.6 cents on each $100 of assessed value."
     }
   ],
   "sources": [

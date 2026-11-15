@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What role does the Greenup County Clerk play in a sale?",
-   "html": "<p>The Clerk puts the sale on the public record by recording the deed and any mortgage. Its own list of services covers vehicle registration and titling, recordings, marriage licenses, notary bonds, elections and the sale of the delinquent tax bill. For a seller, recordings and delinquent bills are the two that matter.</p>\n<p>Deeds are filed in the county where the land sits, so a house in Greenup, Flatwoods, Raceland, Russell, South Shore, Worthington or Wurtland is recorded here. Documents can go through an e-recording vendor or be brought to a counter. Ask the title company or closing attorney who handles the recording and the transfer tax, and keep the recorded copy.</p>\n<p>The Clerk also takes the unpaid tax bills that the sheriff passes along after April 15 and runs the sale of those bills. Our Greenup County property tax guide covers that side in detail.</p>"
+   "html": "<p>The Clerk puts the sale on the public record by recording the deed and any mortgage. Its own list of services covers vehicle registration and titling, recordings, marriage licenses, notary bonds, elections and the sale of the delinquent tax bill. For a seller, recordings and delinquent bills are the two that matter.</p>\n<p>A house in Greenup, Flatwoods, Raceland, Russell, South Shore, Worthington or Wurtland is recorded in this office, because deeds go to the clerk of the county where the land sits. Documents can go through an e-recording vendor or be brought to a counter. Ask the title company or closing attorney who handles the recording and the transfer tax, and keep the recorded copy.</p>\n<p>The Clerk also takes the unpaid tax bills that the sheriff passes along after April 15 and runs the sale of those bills. Our Greenup County property tax guide covers that side in detail.</p>"
   },
   {
    "h2": "Where are the Clerk's offices and what hours do they keep?",
@@ -22,22 +22,26 @@
    "html": "<p>Yes. The Clerk lists five e-recording vendors: Indecomm, Hopdox, CSC, Simplifile and ePN, which let a closing agent submit documents without a trip to the courthouse. Individuals can search records through eCCLIX, an online version of the County Clerk Indexing system used by a large share of Kentucky clerks.</p>\n<ul>\n<li>Private citizens who search for personal reasons can use Greenup County records at no charge, up to five searches a day.</li>\n<li>Commercial users, such as title searchers and surveyors, pay a subscription and can add other counties.</li>\n<li>eCCLIX lets users view or print documents filed by more than 85 Kentucky clerk offices.</li>\n</ul>\n"
   },
   {
+   "h2": "Which liens and probate papers does the Greenup County Clerk record?",
+   "html": "<p>The recording schedule covers more than deeds, and several items on it come up when a house is inherited or has a dispute attached. A few of the lower-cost items show how the Clerk prices different filings.</p>\n<ul>\n<li>Affidavit of descent, $50, and will, $47: the papers an heir often records to show how a house passed.</li>\n<li>Power of attorney, $50, and its revocation, $46.</li>\n<li>Inheritance tax lien and its release, $5 each.</li>\n<li>State tax lien, $5, against $46 for a federal tax lien and $46 for its release.</li>\n<li>Mechanic lien, $46, and a bond to release a mechanic lien, $60.</li>\n<li>Judgment lien and lis pendens notice, $46 each.</li>\n</ul>\n<p>A recorded lien shows up in a buyer's title search, so find out which ones are on file before a sale. Each release is a separate filing with its own fee, and releases are recorded in the same Clerk's office. Ask the Clerk for current copies of any lien you find.</p>"
+  },
+  {
    "h2": "How does the DOCALERT fraud notice work?",
-   "html": "<p>DOCALERT is a free service the Clerk's office offers through Software Management, LLC. You give a name and an email address, and the system sends a message whenever a mortgage or deed under your personal or business name is recorded in Greenup County.</p>\n<p>It suits anyone who owns a house they do not live in: a landlord, an heir holding a parent's home, or an owner of a vacant property. If a deed or mortgage you never signed is recorded, the message gives you a reason to call the Clerk and an attorney.</p>"
+   "html": "<p>DOCALERT is a free service the Clerk's office offers through Software Management, LLC. Signing up takes a name and an email address. After that, any mortgage or deed filed in Greenup County under your personal or business name triggers a message to you.</p>\n<p>It suits anyone who owns a house they do not live in: a landlord, an heir holding a parent's home, or an owner of a vacant property. If a deed or mortgage you never signed is recorded, the message gives you a reason to call the Clerk and an attorney.</p>"
   },
   {
    "h2": "How does the Clerk handle delinquent property tax?",
-   "html": "<p>Every unpaid real property bill reaches the Clerk from the sheriff on April 15, and a lien is recorded against each parcel. Bills still open later are sold. The Clerk's delinquent taxes page links third-party purchaser information, an application and the state's delinquent tax listing.</p>\n<p>Under the state process, the sale lands 90 to 135 days after the transfer, the county attorney sends notices, and the bills are advertised 30 to 45 days ahead. Interest runs at 1 percent per month, with commissions and a lien recording and release fee on top. Payments before the sale go through the Clerk's office. After it, the lien belongs to a third-party purchaser and you pay that buyer.</p>\n<p>A seller with a bill at the Clerk should hold a written payoff and have the closing agent pay it from proceeds, so the lien release is recorded with the deed.</p>"
+   "html": "<p>Every unpaid real property bill reaches the Clerk from the sheriff on April 15, and a lien is recorded against each parcel. Bills still open later are sold. The Clerk's delinquent taxes page links third-party purchaser information, an application and the state's delinquent tax listing.</p>\n<p>Under the state process, the sale lands 90 to 135 days after the transfer, the county attorney sends notices, and the bills are advertised 30 to 45 days ahead. Interest runs at 1 percent per month, with commissions and a lien recording and release fee on top. Payments before the sale go through the Clerk's office. After it, the lien belongs to a third-party purchaser and you pay that buyer.</p>\n<p>If your bill is already at the Clerk, get the payoff in writing and have it paid from proceeds, so the lien release is recorded alongside the deed.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What does the Greenup County Clerk charge for a deed?",
-   "a": "The Clerk quotes $50 for the first five pages and $3 per added page, plus transfer tax of $1.00 per $1,000 paid. Call the office for the total on your document."
+   "a": "$50 covers the first five pages and each added page is $3, with transfer tax of $1.00 per $1,000 paid on top. Call the office for the total on your document."
   },
   {
    "q": "When is the Greenup County Clerk open?",
-   "a": "Monday to Friday, 9:00 a.m. to 4:30 p.m., at the courthouse, Flatwoods and South Shore offices. The South Shore branch closes from noon to 1:00 p.m."
+   "a": "Weekdays from 9:00 a.m. to 4:30 p.m. at the courthouse, Flatwoods and South Shore offices, with South Shore closed for lunch from noon to 1:00 p.m."
   },
   {
    "q": "What phone numbers reach the Greenup County Clerk?",
@@ -49,7 +53,7 @@
   },
   {
    "q": "What does DOCALERT send?",
-   "a": "A free email whenever a deed or mortgage is recorded under your name or business name. Signing up needs only a name and an email address."
+   "a": "A free email notice that arrives when a deed or mortgage is recorded in your name or your business name. Registration needs a name and an email address."
   }
  ],
  "sources": [
