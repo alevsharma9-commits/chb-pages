@@ -5,6 +5,7 @@ def body(c):
     c=re.sub(r"<div class=.wsp-related.*?</div>\s*</div>|<div class=.wsp-related.>.*?</div>","",c,flags=re.S)
     c=re.sub(r"<div class=.chb-cta.*?</div>","",c,flags=re.S)
     c=re.sub(r"<p><em>Last updated[^<]*</em></p>","",c)
+    c=re.sub(r"<p><em>This is general information about[^<]*</em></p>","",c)
     c=re.sub(r"<h2[^>]*>Sources</h2>.*?(?=<h2|$)","",c,flags=re.S)
     t=re.sub(r"<[^>]+>"," ",c)
     return re.findall(r"[a-z0-9']+",t.lower())
