@@ -6,3 +6,4 @@
 - Uniqueness: pages merged before the overlap gate (batches b0289 to b0346) are mostly 70 to 85% unique. Rework pass needed.
 - Publishing: the live updater (WPCode #43678) processes each manifest file once. After the last merge, reset chb_up_done again (Tools > CHB Page Updater > Reset progress).
 - tennessee-eviction-notice has a single source (Tennessee Courts presentation).
+- luzerne-county-pa-recorder-of-deeds: fees from Nov 2025 schedule; July 1 2026 schedule unopened. Recheck. pennsylvania-eviction-notice: one source.

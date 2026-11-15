@@ -19,11 +19,15 @@
   },
   {
    "h2": "What does the Philadelphia housing market look like in Census data?",
-   "html": "<p>Philadelphia covers about 134 square miles, with a July 2025 population estimate of 1,574,281. William Penn's original plan covered only the area between Vine and South Streets and the Delaware and Schuylkill Rivers, and the old districts that the 1854 consolidation absorbed, such as Southwark and Kensington, survive as neighborhood names.</p><ul><li>Median value of an owner-occupied home: $243,100 for 2020 through 2024.</li><li>Owner-occupied housing rate: 51.8 percent.</li><li>Median gross rent: $1,397 a month, with 679,428 households averaging 2.26 people.</li><li>Median household income: $61,953, and 21.4 percent of residents in poverty.</li><li>Mean commute: 31.7 minutes.</li></ul><p>Interstates 76, 95 and 676 serve the city, and the county's highest point, 432 feet, sits in Chestnut Hill.</p>"
+   "html": "<p>Philadelphia covers about 134 square miles, with a July 2025 population estimate of 1,574,281. William Penn's original plan covered only the area between Vine and South Streets and the Delaware and Schuylkill Rivers, and the old districts that the 1854 consolidation absorbed, such as Southwark and Kensington, survive as neighborhood names.</p><ul><li>Typical owned home value: $243,100 for 2020 through 2024.</li><li>Share of households that own: 51.8 percent.</li><li>Median gross rent: $1,397 a month, with 679,428 households averaging 2.26 people.</li><li>Median household income: $61,953, and 21.4 percent of residents in poverty.</li><li>Mean commute: 31.7 minutes.</li></ul><p>Interstates 76, 95 and 676 serve the city, and the county's highest point, 432 feet, sits in Chestnut Hill.</p>"
+  },
+  {
+   "h2": "Which relief programs can Philadelphia homeowners apply for?",
+   "html": "<p>The City runs several programs that cut a bill or spread it out, and the Tax Center has a combined application that checks eligibility for five of them at once. Owners already enrolled generally do not reapply unless the property changes hands.</p><ul><li>The Homestead Exemption takes $100,000 off the taxable assessment of an owner-occupied home in 2027, and the City says most owners save about $1,399.</li><li>The Real Estate Tax installment plan lets seniors and income-qualified owners pay the year in monthly installments instead of one lump sum.</li><li>The senior and low-income freezes hold the tax at its current level even if rates or values climb.</li><li>The Longtime Owner Occupants Program caps the taxable value for owners of ten or more years whose assessment jumped 50 percent in a year or 75 percent over five.</li><li>A credit applies to the City portion for reserve and National Guard members called to active duty.</li></ul><p>Pennsylvania's own Property Tax/Rent Rebate program for seniors and adults with disabilities does not require a City tax receipt.</p>"
   },
   {
    "h2": "How can I sell a Philadelphia house when tax is due?",
-   "html": "<p>The tax debt does not block a sale. It is paid from the proceeds at settlement, so the closing figure simply needs to cover it.</p><ol><li>Look up the balance on the Philadelphia Tax Center by address or OPA number.</li><li>Search water-lien.phila.gov and send a water payoff form at least 30 days before settlement.</li><li>Ask a housing counselor about an OOPA first if you want to stay in the home.</li><li>Order a title search to catch trash fee, abatement and other liens.</li><li>Budget for the 4.578 percent realty transfer tax and the deed recording fee.</li></ol><p>A seller on a short clock can ask for a cash offer, since the title company pays the City from the proceeds either way.</p>"
+   "html": "<p>The tax debt does not block a sale. The closing figure simply has to cover what the City is owed.</p><ol><li>Look up the balance on the Philadelphia Tax Center by address or OPA number.</li><li>Search water-lien.phila.gov and send a water payoff form at least 30 days before settlement.</li><li>Ask a housing counselor about an OOPA first if you want to stay in the home.</li><li>Order a title search to catch trash fee, abatement and other liens.</li><li>Budget for the 4.578 percent realty transfer tax and the deed recording fee.</li></ol><p>A seller on a short clock can ask for a cash offer, and the title company settles the City's claim at the table.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +49,7 @@
   },
   {
    "q": "Does the buyer or seller pay the Philadelphia tax at closing?",
-   "a": "The seller pays what is owed through closing, usually from the sale proceeds. Both parties normally split the 4.578 percent transfer tax, though the City may collect it from either."
+   "a": "The seller pays what is owed through closing out of the seller's side of the settlement statement. Both parties normally split the 4.578 percent transfer tax, though the City may collect it from either."
   }
  ],
  "sources": [
@@ -76,6 +80,10 @@
   {
    "title": "U.S. Census Bureau QuickFacts: Philadelphia city, Pennsylvania",
    "url": "https://www.census.gov/quickfacts/fact/table/philadelphiacitypennsylvania/PST045224"
+  },
+  {
+   "title": "City of Philadelphia to Mail 2027 Property Assessments (Department of Revenue)",
+   "url": "https://www.phila.gov/2026-06-30-city-of-philadelphia-to-mail-2027-property-assessments-and-launch-expanded-outreach-to-connect-homeowners-to-tax-relief/"
   },
   {
    "title": "Philadelphia County, Pennsylvania (Wikipedia)",
