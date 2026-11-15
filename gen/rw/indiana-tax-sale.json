@@ -1,0 +1,105 @@
+{
+ "slug": "indiana-tax-sale",
+ "sections": [
+  {
+   "h2": "How does an Indiana tax sale work?",
+   "html": "<p>An Indiana tax sale is a public auction of a delinquent parcel, and the sale is subject to redemption. The county auditor publishes a notice listing the eligible properties, and the auditor and treasurer then apply to the court for a judgment and an order of sale, as laid out in <a href=\"https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-24/section-6-1-1-24-2\">IC 6-1.1-24-2</a>.</p><p>The notice names the owner (or at least one owner), gives the parcel key number and street address, and states the sale place, dates and times. If the sale is online, it must say so and explain how to join. An owner who wants to contest the judgment must file a defense with the court and serve the auditor and treasurer before the earliest application date in the notice, and the court sets a hearing at least seven days before the advertised sale.</p><p>Buyers at the sale are not buying the house outright. They are buying the county's lien, and the owner can still pay to get the property back during the redemption period.</p>"
+  },
+  {
+   "h2": "What is the minimum bid at an Indiana tax sale?",
+   "html": "<p>The minimum bid is the total of the delinquent tax and the costs of running the sale, and no parcel sells for less. The statute lists five pieces that make up that figure.</p><ul><li>Delinquent taxes and special assessments.</li><li>Taxes and assessments due in the sale year, whether or not yet delinquent.</li><li>Penalties on the delinquencies.</li><li>An auditor fee equal to the greater of $25 or postage and publication costs, plus other actual costs tied to the sale.</li><li>Unpaid costs from a prior tax sale.</li></ul><p>A buyer can bid above the minimum. The extra money is called the overbid, and it matters to the owner because it can become surplus later in this guide.</p>"
+  },
+  {
+   "h2": "How long do you have to redeem a house after a tax sale?",
+   "html": "<p>An owner usually has one year from the date of sale to redeem, and 120 days if the property was sold to a qualified purchasing agency. That rule is in <a href=\"https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-25/section-6-1-1-25-4\">IC 6-1.1-25-4</a>.</p><p>Other situations change the clock:</p><ul><li>Property on the county's vacant and abandoned list has no right to redeem.</li><li>If the county acquires a lien that is not sold as a certificate, redemption runs 120 days from the day the lien is acquired.</li><li>A parcel that was offered but did not sell gets 120 days from the end of the sale.</li></ul><p>Marion County repeats the two main periods on its <a href=\"https://www.indy.gov/activity/find-property-redemption-amount\">redemption amount page</a>: one year from the sale date for a sold parcel and 120 days for a parcel that was offered but did not sell.</p><p>The treasurer and an owner may also agree in writing to extend redemption by one year, as long as the owner pays the full redemption amount before the extended period ends. If the owner breaks that agreement, the treasurer can end it with 30 days' written notice.</p>"
+  },
+  {
+   "h2": "How much does it cost to redeem?",
+   "html": "<p>The redemption amount is built from several parts, set out in <a href=\"https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-25/section-6-1-1-25-2\">IC 6-1.1-25-2</a>. The base is 110 percent of the minimum bid if you redeem within six months of the sale, or 115 percent if you redeem after six months but within the year.</p><table><thead><tr><th>Component</th><th>Rule</th></tr></thead><tbody><tr><td>Base amount</td><td>110% of minimum bid within 6 months; 115% after that</td></tr><tr><td>Overbid</td><td>Amount the price exceeded the minimum bid, plus 5% per year (sales after June 30, 2014)</td></tr><tr><td>Taxes the buyer paid after the sale</td><td>Reimbursed with 5% per year interest (sales after June 30, 2014)</td></tr><tr><td>Certified costs</td><td>Attorney fees, notice costs and title search costs, certified to the auditor</td></tr><tr><td>New delinquencies</td><td>Taxes, penalties and fees that became delinquent after the sale</td></tr></tbody></table><p>Because the base percentage jumps after six months, redeeming early is cheaper.</p>"
+  },
+  {
+   "h2": "What does a tax deed do to the owner's title?",
+   "html": "<p>If nobody redeems, the buyer can petition for a tax deed, and that deed ends the owner's interest. Under IC 6-1.1-25-4, the deed conveys a fee simple absolute, free of most liens, with exceptions such as recorded easements and governmental police powers.</p><p>The deed has a deadline too. The auditor cannot issue or record it unless, within 150 days after the court hearing that grants the buyer's petition, the court order and sales disclosure form are filed, recording fees are paid, and all outstanding property taxes are paid.</p><p>An owner who sits on a house after a sale has a short and costly path left. The practical choice is to redeem or sell before the deed issues.</p>"
+  },
+  {
+   "h2": "Do you get money back if the house sells above the minimum bid?",
+   "html": "<p>Possibly. If a parcel sells for more than the minimum bid and is not redeemed, the former owner of record may have a right to the surplus, as noted in the sale notice requirements and in <a href=\"https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-24/section-6-1-1-24-7\">IC 6-1.1-24-7</a>.</p><p>The buyer's payment goes first to the taxes, assessments, penalties and costs, then to other delinquent taxes, and any remainder goes into a tax sale surplus fund.</p><ul><li>The owner of record may file a verified claim for the surplus.</li><li>If the auditor and treasurer approve, the auditor issues a warrant for the amount due.</li><li>Surplus not claimed within three years after receipt goes to the county general fund.</li></ul><p>Claims through a contract holder, executor, attorney in fact or guardian are routed through the court, and a court may direct payment only within three years after the sale. Indiana also limits agreements for recovering surplus money, and the attorney general enforces those limits.</p>"
+  },
+  {
+   "h2": "How does Marion County run its tax sale?",
+   "html": "<p>Marion County runs an online tax lien sale each year, with the 2026 sale scheduled for October 13 through 16 from 9 a.m. to 4 p.m. Its <a href=\"https://www.indy.gov/activity/prepare-for-a-tax-sale\">bidder page</a> says the non-profit portion runs first, then the regular portion, and that parcels are auctioned in numeric order without a break between townships.</p><p>Bidders for the regular portion post a $2,500 deposit, and registration closed October 7 at 3 p.m. New bidders without bank credit evidence were approved for $100,000 as individuals or $250,000 as companies.</p><p>Marion is a consolidated city county, so the surplus rule differs from other counties. The treasurer may pay taxes that come due during the redemption period out of the surplus held in the owner's name.</p><p>Owners can check whether a parcel sold with the <a href=\"https://www.indy.gov/activity/find-a-sold-tax-sale-property\">sold parcel finder</a>. Tax sale questions go to the Auditor at MCATaxSale@indy.gov.</p>"
+  },
+  {
+   "h2": "How can you stop a tax sale in Marion County?",
+   "html": "<p>You stop it by paying everything owed before the cutoff. For 2026, that meant all unpaid taxes, penalties and special assessments, solid waste and stormwater fees, and a $325 administration fee by October 8 at 4:30 p.m., per the Treasurer's <a href=\"https://www.indy.gov/activity/stop-a-tax-sale\">Stop a Tax Sale page</a>.</p><p>On the day of the public auction, the Treasurer collects payment after 8 a.m. in room 1001 of the City-County Building. Personal and business checks are refused.</p><p>Selling the house before the auction is another way out. A buyer's closing pays the tax from the proceeds, and the parcel never reaches the sale. A seller who has already received notice should call (317) 327-4444 to confirm what is owed.</p>"
+  },
+  {
+   "h2": "What should an Indiana seller weigh before the sale date?",
+   "html": "<p>The decision comes down to timing, money and the condition of the house.</p><ul><li>Check the redemption figure first, because it rises after six months.</li><li>Ask whether the parcel is on the vacant and abandoned list, where no redemption exists.</li><li>Find out whether the home has equity above the tax debt. If it does, selling protects that equity.</li><li>Keep copies of every notice you receive.</li></ul><p>Cash Home Buyers buys houses as-is, including ones facing a tax sale. We can walk through the numbers with you and the title company.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I still redeem my Indiana house after the tax sale?",
+   "a": "Yes, in most cases. You generally have one year from the date of sale, or 120 days if the property was sold to a qualified purchasing agency. Parcels on the vacant and abandoned list have no redemption right."
+  },
+  {
+   "q": "What is the redemption percentage in Indiana?",
+   "a": "It is 110 percent of the minimum bid within six months of the sale and 115 percent after six months but within the year. Other costs and interest are added on top."
+  },
+  {
+   "q": "Who buys at an Indiana tax sale?",
+   "a": "Registered bidders. In Marion County for 2026, regular bidders posted a $2,500 deposit and registered by October 7."
+  },
+  {
+   "q": "Can I get the surplus if my house sold above the minimum bid?",
+   "a": "Possibly. If the property is not redeemed, the owner of record may file a verified claim. Unclaimed surplus goes to the county general fund after three years."
+  },
+  {
+   "q": "How do I stop a Marion County tax sale?",
+   "a": "Pay the full balance, including penalties, fees and the $325 administration fee, by the posted deadline. The Treasurer takes cash, certified checks, cashier's checks or money orders only."
+  },
+  {
+   "q": "Can I sell my house before it goes to tax sale?",
+   "a": "Yes. A sale that closes before the auction lets the title company pay the tax debt from the proceeds. Confirm the payoff amount and the sale date with the county first."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IC 6-1.1-24-2 Notice of tax sale",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-24/section-6-1-1-24-2"
+  },
+  {
+   "title": "IC 6-1.1-25-4 Redemption periods and tax deeds",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-25/section-6-1-1-25-4"
+  },
+  {
+   "title": "IC 6-1.1-25-2 Redemption amount",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-25/section-6-1-1-25-2"
+  },
+  {
+   "title": "IC 6-1.1-24-7 Payment and tax sale surplus fund",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-24/section-6-1-1-24-7"
+  },
+  {
+   "title": "IC 6-1.1-24-1.5 Vacant or abandoned list",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-24/section-6-1-1-24-1-5"
+  },
+  {
+   "title": "indy.gov Prepare for a Tax Sale",
+   "url": "https://www.indy.gov/activity/prepare-for-a-tax-sale"
+  },
+  {
+   "title": "indy.gov Stop a Tax Sale",
+   "url": "https://www.indy.gov/activity/stop-a-tax-sale"
+  },
+  {
+   "title": "indy.gov Find Property Redemption Amount",
+   "url": "https://www.indy.gov/activity/find-property-redemption-amount"
+  },
+  {
+   "title": "indy.gov Find a Sold Tax Sale Property",
+   "url": "https://www.indy.gov/activity/find-a-sold-tax-sale-property"
+  }
+ ]
+}

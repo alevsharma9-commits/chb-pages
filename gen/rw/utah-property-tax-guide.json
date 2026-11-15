@@ -1,0 +1,113 @@
+{
+ "slug": "utah-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How does Utah assess residential property for tax?",
+   "html": "<p>Utah taxes property on its fair market value as of January 1, and a primary residence gets a 45% reduction in that value. The rule sits in <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S103.html\">Utah Code 59-2-103</a>, which says all taxable property is valued at a uniform and equal rate unless the law says otherwise.</p><p>The State Tax Commission's property tax site puts the same idea in plain terms: taxable value on a qualifying home is 55% of market value. Most Utah residences receive the exemption. A few limits apply.</p><ul><li>No more than one acre of land per residential unit qualifies.</li><li>The exemption covers one primary residence per household, with exceptions for homes that are a tenant's primary residence.</li><li>Property that becomes residential after January 1 can still qualify if it is used as a residence for 183 or more consecutive days that year.</li><li>Transient use and condominiums in rental pools do not qualify, per the Tax Commission.</li></ul>"
+  },
+  {
+   "h2": "Who sets the value and who bills the tax in Utah?",
+   "html": "<p>The county assessor values your property, the county auditor mails the valuation notice, and the county treasurer collects the money. Utah runs property tax at the county level for homes, so the office you call depends on the question.</p><p>Utah has 29 counties, and the code sorts them into classes that change a few notice rules. A county of the first class, for example, publishes tax sale notices on its website, while smaller classes use newspapers. All of them follow the same statewide calendar, but forms, payment portals and office hours differ. If you own a house in a rural county, check that county's treasurer page for how to pay and for any local deferral process.</p>"
+  },
+  {
+   "h2": "When does the Utah valuation notice arrive?",
+   "html": "<p>By July 22 each year, the county auditor must send a notice of property valuation and tax changes to every owner on the assessment roll. <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S919.1.html\">Utah Code 59-2-919.1</a> requires the mailing at least 10 days before the county board of equalization meets and before any taxing entity holds its hearing on a proposed rate increase.</p><p>The notice must show the assessor's value, the taxable value, last year's tax, the tax at the current rate, and instructions for appealing, including the deadline. Residential notices must also say that owners who are 65 or older, disabled, or in extreme hardship may qualify to defer tax on a primary residence. Owners can elect electronic notice, and the county must fall back to mail if it cannot confirm receipt.</p><p>If you are selling, read this notice before listing or signing a contract. The value on it is the starting point for next year's tax bill, and the appeal clock starts when it is mailed.</p>"
+  },
+  {
+   "h2": "How do you appeal a Utah property valuation?",
+   "html": "<p>Apply to the county board of equalization by the later of September 15 or 45 days after the auditor sends the valuation notice. That deadline is in <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1004.html\">Utah Code 59-2-1004</a>, and the board generally has 60 days from the application to decide, with a possible extension from the Tax Commission.</p><p>If the county board's answer is not acceptable, the next level is the State Tax Commission. Under <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1006.html\">59-2-1006</a>, the notice of appeal goes to the county auditor within 30 days after the board's final action. The commission may admit more evidence and adjust the value. It weighs the accuracy and comparability of evidence, including sale prices of comparable property under contract as of the lien date, and offering prices of property that was listed but did not sell.</p><p>The commission must decide real property appeals by March 1 of the following year. It also adjusts values when the property deviates by 5% or more, up or down, from comparable properties after an equalization issue is raised.</p>"
+  },
+  {
+   "h2": "What are the Utah property tax dates?",
+   "html": "<p>Tax notices go out by November 1, taxes are due November 30, and a payment that arrives or is postmarked later is delinquent. The table lists the dates that matter most to an owner who may sell.</p><table><thead><tr><th>Date</th><th>Event</th><th>Source</th></tr></thead><tbody><tr><td>January 1</td><td>Valuation date for market value, and the date the annual tax lien attaches</td><td>59-2-103; 59-2-1325</td></tr><tr><td>By July 22</td><td>Valuation notice mailed by the county auditor</td><td>59-2-919.1</td></tr><tr><td>September 15 or 45 days after notice</td><td>Appeal deadline to the county board, whichever is later</td><td>59-2-1004</td></tr><tr><td>September 1</td><td>Common deadline for abatement, senior deferral and exemption claims</td><td>Tax Commission Pub 36</td></tr><tr><td>By November 1</td><td>County treasurer mails the tax notice</td><td>59-2-1317</td></tr><tr><td>November 30</td><td>Taxes due, moved to the next business day if it falls on a weekend or holiday</td><td>59-2-1331</td></tr><tr><td>By December 31</td><td>Notice of delinquency to unpaid owners</td><td>59-2-1332.5</td></tr><tr><td>January 31</td><td>Last day to pay delinquent tax and penalty before interest runs from January 1</td><td>59-2-1331</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What does it cost to pay Utah property tax late?",
+   "html": "<p>A delinquent bill carries a penalty of 2.5% of the delinquent amount or $10, whichever is greater. If the delinquent taxes, tax notice charges and the penalty are all paid by the following January 31, the penalty is 1% or $10 instead.</p><p>After January 31, interest runs on an annual basis from the January 1 following delinquency. The rate is 6% plus the federal funds target rate on that January 1, but never less than 7% or more than 10%, as written in <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1331.html\">59-2-1331</a>. When a delinquency goes past a year, each later year adds its own interest until the taxes are paid or the property is sold at a tax sale.</p><p>The treasurer can accept payments of $10 or more toward the current year before the delinquency date. Owners who pay part of a bill may direct how it is split between property tax, assessments, past-due district fees and other charges on the notice.</p>"
+  },
+  {
+   "h2": "What are tax notice charges, and why do they matter when selling?",
+   "html": "<p>Tax notice charges are extra items the county adds to the property tax bill, and they have the same priority as the tax itself. <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1317.html\">Utah Code 59-2-1317</a> lists examples such as liens for unpaid municipal water, unpaid abatement fees, special district fees, irrigation district charges and assessment area payments.</p><p>A delinquent tax notice charge can start the tax sale process just as unpaid tax does. The statute also requires a warning on the bill when prior taxes or charges are delinquent on the parcel, and a notice about assessment area charges that paying one bill may not pay off the full amount owed or release the lien.</p><p>For a seller, that means the number on the tax bill may not tell the whole story. Ask the treasurer for a payoff figure that includes charges, interest and penalties before closing.</p>"
+  },
+  {
+   "h2": "What relief programs exist for Utah homeowners?",
+   "html": "<p>Utah offers abatements, deferrals and exemptions through the counties, with income and age tests set in State Tax Commission Publication 36. The figures below come from the September 2026 revision of that publication.</p><ul><li>Homeowner low-income abatement: up to $1,412 for owner-occupants with 2025 income under $44,221 who meet an age, disability or prior-credit test.</li><li>Mandatory senior deferral: age 75 or older, income not over $88,442, interest at half the normal rate, reapply each year.</li><li>Veterans with a disability: up to $535,459 of taxable value on a residence for veterans with at least a 10% service-connected disability.</li><li>Blind exemption: up to $11,500 of taxable value, no age or income limit.</li><li>Deadline for most claims: September 1.</li></ul><p>A county legislative body can also accept less than the full tax due or defer it when it finds that serves the best interests of the owner, the county and the state, under <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1347.html\">59-2-1347</a>. Any deferred amount becomes a recorded lien, bears interest, and is due when the property is sold or otherwise conveyed.</p>"
+  },
+  {
+   "h2": "What happens to property tax when a Utah owner sells?",
+   "html": "<p>Taxes for the year are a lien from January 1, so any unpaid balance is normally settled at closing. A seller should expect the closing agent to confirm the amount with the county treasurer.</p><p>A change in ownership also triggers a residential exemption check. Under <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S103.5.html\">59-2-103.5</a>, after an ownership interest changes the county assessor sends the owner a notice, and the new owner must return a signed residential declaration within 90 days. A second notice gives 30 more days before the exemption is lost for that year. A seller who stops living in the home should also notify the county board of equalization that the residence no longer qualifies, unless they moved to another primary residence that qualifies.</p>"
+  },
+  {
+   "h2": "What do property tax problems look like for Utah sellers?",
+   "html": "<p>Tax trouble usually shows up as a deferral lien, a delinquent bill nobody opened, or a changed exemption after a transfer. Each has a different fix.</p><ul><li>Deferral lien: the deferred tax and interest are due at sale, so ask the county for the balance.</li><li>Delinquent bill: pay by January 31 to keep penalty at 1%, or negotiate a payoff before a tax sale approaches.</li><li>Lost exemption: file the declaration within the county's deadline or appeal by the September 15 cutoff.</li><li>Inherited house: the bill may still go to the old owner, so update the mailing address.</li></ul><p>If the house also needs repairs or has become a burden, a cash sale as-is can pay these balances from proceeds and close without the owner fixing anything first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are Utah property taxes due?",
+   "a": "November 30, or the next business day if that date falls on a weekend or holiday. Notices go out by November 1, and a bill paid or postmarked after the due date is delinquent."
+  },
+  {
+   "q": "What is the Utah residential property tax exemption?",
+   "a": "A 45% reduction in the fair market value of a primary residence, limited to one acre of land per unit and one primary residence per household. The taxable value is 55% of market value."
+  },
+  {
+   "q": "How long do I have to appeal my Utah property value?",
+   "a": "You have until the later of September 15 or 45 days after the county auditor sends your valuation notice. After that, a board decision can be appealed to the State Tax Commission within 30 days."
+  },
+  {
+   "q": "What is the penalty for paying Utah property tax late?",
+   "a": "2.5% of the delinquent amount or $10, whichever is greater. It drops to 1% if everything is paid by January 31. Interest from January 1 applies after that."
+  },
+  {
+   "q": "Can I defer my Utah property tax?",
+   "a": "Some owners can. Utah Publication 36 describes a mandatory senior deferral for owners 75 and older meeting income tests, and counties may grant other deferrals. Deferred tax becomes a lien due when the property is sold."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Utah Code 59-2-103 residential exemption",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S103.html"
+  },
+  {
+   "title": "Utah Code 59-2-103.5 exemption procedures",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S103.5.html"
+  },
+  {
+   "title": "Utah Code 59-2-919.1 valuation notice",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S919.1.html"
+  },
+  {
+   "title": "Utah Code 59-2-1006 appeal to commission",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1006.html"
+  },
+  {
+   "title": "Utah Code 59-2-1317 tax notice",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1317.html"
+  },
+  {
+   "title": "Utah Code 59-2-1331 due date and penalty",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1331.html"
+  },
+  {
+   "title": "Utah Code 59-2-1332.5 delinquency notice",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1332.5.html"
+  },
+  {
+   "title": "Utah Code 59-2-1347 adjustment or deferral",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1347.html"
+  },
+  {
+   "title": "Utah State Tax Commission property tax division",
+   "url": "https://propertytax.utah.gov/"
+  },
+  {
+   "title": "Utah State Tax Commission Publication 36",
+   "url": "https://tax.utah.gov/forms-pubs/pub-36"
+  },
+  {
+   "title": "List of counties in Utah (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/List_of_counties_in_Utah"
+  }
+ ]
+}
