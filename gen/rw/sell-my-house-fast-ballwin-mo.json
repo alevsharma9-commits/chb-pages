@@ -11,7 +11,7 @@
   },
   {
    "h2": "What do Ballwin homes cost to own?",
-   "html": "<p>The Census Bureau's 2020 to 2024 figures show a high-value, owner-heavy city. About 84 percent of housing units are owner-occupied, and the median owner-occupied home is valued at $377,100.</p>\n<table>\n<caption>Ballwin housing and household figures, Census QuickFacts</caption>\n<thead><tr><th>Measure</th><th>Ballwin</th></tr></thead>\n<tbody>\n<tr><td>Median value of owner-occupied homes</td><td>$377,100</td></tr>\n<tr><td>Owner-occupied housing rate</td><td>84.2%</td></tr>\n<tr><td>Median owner cost with a mortgage</td><td>$2,128 per month</td></tr>\n<tr><td>Median owner cost without a mortgage</td><td>$761 per month</td></tr>\n<tr><td>Median gross rent</td><td>$1,418</td></tr>\n<tr><td>Median household income</td><td>$124,626</td></tr>\n<tr><td>Mean travel time to work</td><td>25.5 minutes</td></tr>\n</tbody>\n</table>\n<p>Source: <a href=\"https://www.census.gov/quickfacts/fact/table/ballwincitymissouri/PST045224\">U.S. Census Bureau QuickFacts, Ballwin</a>. The same source reports that 65.2 percent of adults hold a bachelor's degree and that median household income is $124,626.</p>"
+   "html": "<p>The Census Bureau's 2020 to 2024 figures show a high-value, owner-heavy city. About 84 percent of housing units are owner-occupied, and the midpoint home owned by its occupant is valued at $377,100.</p>\n<table>\n<caption>Ballwin housing and household figures, Census QuickFacts</caption>\n<thead><tr><th>Measure</th><th>Ballwin</th></tr></thead>\n<tbody>\n<tr><td>Home value, owner-occupied midpoint</td><td>$377,100</td></tr>\n<tr><td>Owner-occupied share of homes</td><td>84.2%</td></tr>\n<tr><td>Owner cost, mortgaged</td><td>$2,128 per month</td></tr>\n<tr><td>Owner cost, no mortgage</td><td>$761 per month</td></tr>\n<tr><td>Gross rent, midpoint</td><td>$1,418</td></tr>\n<tr><td>Household income, midpoint</td><td>$124,626</td></tr>\n<tr><td>Commute to work, average</td><td>25.5 minutes</td></tr>\n</tbody>\n</table>\n<p>Figures from the <a href=\"https://www.census.gov/quickfacts/fact/table/ballwincitymissouri/PST045224\">Ballwin QuickFacts page</a>. The same source reports that 65.2 percent of adults hold a bachelor's degree and that household income has a midpoint of $124,626.</p>"
   },
   {
    "h2": "Does Ballwin require an inspection before I sell?",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "How do property taxes work for a Ballwin seller?",
-   "html": "<p>Ballwin houses are taxed through St. Louis County. Real estate tax is due or postmarked by December 31, and bills paid late carry up to 18 percent interest per year plus a 2 percent penalty, according to the county Collector of Revenue.</p>\n<p>Assessment follows state law. Under RSMo 137.115 residential property is assessed at 19 percent of true value, and new values are set as of January 1 of each odd-numbered year, so 2027 is a reassessment year. An owner who disagrees appeals to the St. Louis County Board of Equalization between May 1 and the second Monday in July. For 2026 that deadline was July 13, which has passed, and the next window opens in 2027. After the board, the State Tax Commission hears appeals filed by September 30 or within 30 days of the board's action, whichever is later.</p>\n<p>At closing the title company normally splits the year's tax between seller and buyer. Ask the St. Louis County Collector for a current balance before you list, and clear any delinquent year ahead of the sale.</p>"
+   "html": "<p>Ballwin houses are taxed through St. Louis County. Real estate tax is due or postmarked by December 31, and bills paid late carry up to 18 percent interest per year plus a 2 percent penalty, according to the county Collector of Revenue.</p>\n<p>Assessment follows state law. Under RSMo 137.115 residential property is assessed at 19 percent of true value, and new values are set as of January 1 of each odd-numbered year, so 2027 is a reassessment year. An owner who disagrees appeals to the St. Louis County Board of Equalization between May 1 and the second Monday in July. For 2026 that deadline was July 13, which has passed, and the next window opens in 2027. After the board, the State Tax Commission hears appeals filed by September 30 or thirty days after the board acts, whichever falls later.</p>\n<p>At closing the title company normally splits the year's tax between seller and buyer. Ask the St. Louis County Collector for a current balance before you list, and clear any delinquent year ahead of the sale.</p>"
   },
   {
    "h2": "How is the deed recorded after a Ballwin sale?",
@@ -44,12 +44,12 @@
    "a": "By December 31, paid or postmarked. St. Louis County charges up to 18 percent interest per year plus a 2 percent penalty on late taxes."
   },
   {
-   "q": "How much does it cost to record a deed in St. Louis County?",
+   "q": "What will a St. Louis County deed filing run me?",
    "a": "$26 for the first page and $3 for each added page, plus a $25 fee if the document is non-standard. The Recorder of Deeds is in Clayton at 41 S. Central Ave."
   },
   {
    "q": "What is the median home value in Ballwin?",
-   "a": "The Census Bureau's 2020 to 2024 estimate is $377,100 for owner-occupied homes. Ballwin's estimated population was 30,901 on July 1, 2025."
+   "a": "The Census Bureau's 2020 to 2024 midpoint is $377,100 for homes their owners live in. Ballwin's estimated population was 30,901 on July 1, 2025."
   }
  ],
  "sources": [
