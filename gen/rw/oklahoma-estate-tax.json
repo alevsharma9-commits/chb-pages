@@ -1,0 +1,93 @@
+{
+ "slug": "oklahoma-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Oklahoma charge an estate tax when someone dies?",
+   "html": "<p>Not for anyone who died on or after January 1, 2010. Oklahoma repealed the state estate tax statutes at 68 O.S. Sections 801 to 803 effective that date, and the Oklahoma lien statute says no estate tax lien attaches to estate property for those deaths.</p><p>For heirs holding a house, this takes one worry off the table. There is no Oklahoma estate tax return to prepare and no state tax lien to clear before the house can be sold. What remains is federal law, the probate court process, and the income tax questions that come up once the house is sold.</p><p>This page explains each of those pieces in the order an heir meets them. It is general information about Oklahoma rules, not legal advice, and an estate attorney can confirm how it applies to a specific death.</p>"
+  },
+  {
+   "h2": "What does the estate tax lien statute say about title?",
+   "html": "<p>Under 68 O.S. Section 804.1, a house can pass with a clear title as far as estate tax is concerned, and no court order is needed to prove it. The statute covers two groups of deaths.</p><ul><li>Deaths on or after January 1, 2010: no estate tax lien attaches to property passing through the estate, by joint tenancy or otherwise. No order exempting estate tax liability is needed to release the property or make title marketable.</li><li>Deaths before January 1, 2010: any estate tax lien ends ten years after the date of death, and again no court order is needed to make the title marketable.</li></ul><p>The section was added in 2010 and amended in 2017. A title company reading an old chain of title for a long-vacant inherited house may still ask about a pre-2010 death, so the date of death is a fact to have ready.</p>"
+  },
+  {
+   "h2": "When does a federal estate tax return matter?",
+   "html": "<p>Only for very large estates. The IRS says a federal return is required when the gross estate, plus adjusted taxable gifts and the specific gift tax exemption, is valued above the filing threshold for the year of death.</p><table><thead><tr><th>Year of death</th><th>Federal filing threshold</th></tr></thead><tbody><tr><td>2025</td><td>$13,990,000</td></tr><tr><td>2026</td><td>$15,000,000</td></tr></tbody></table><p>Most Oklahoma family homes are far below those numbers. The IRS also notes that a surviving spouse can elect to take over the unused exemption of the person who died, called portability, but the election is made on a timely filed estate tax return. A spouse who wants that option should talk to a preparer even when no tax is due.</p>"
+  },
+  {
+   "h2": "What do heirs owe in income tax after selling an inherited house?",
+   "html": "<p>Often very little, because the heir's basis is generally the home's fair market value at the date of death. IRS Publication 551 states the rule and allows an alternate valuation date when the estate's personal representative elects it.</p><p>If the house sells for about what it was worth at death, the gain is close to zero. Gain only appears if the sale price rises above that starting value, or if the heir fixes up the house first, which adds to basis. We suggest keeping the appraisal, the estate inventory and every repair receipt together.</p><p>One exception: when the person who died received the house as a gift from you or your spouse within the year before death, your basis is the earlier adjusted basis. Our <a href=\"/oklahoma-capital-gains-tax/\">Oklahoma capital gains tax</a> guide covers the Oklahoma return side of the sale.</p>"
+  },
+  {
+   "h2": "Can a smaller Oklahoma estate skip some probate steps?",
+   "html": "<p>Yes, within limits. Under 58 O.S. Section 241, a court can skip some or all regular probate steps when the estate's real and personal property totals no more than $150,000, and the personal representative applies after being appointed.</p><p>The statute does not call this by a nickname, but it lays out a shorter path with fixed notice periods. The court must first confirm the estate is under the limit, and it may order an inventory and an appraisal unless it finds one unnecessary.</p><table><thead><tr><th>Step</th><th>Period in 58 O.S. 241</th></tr></thead><tbody><tr><td>Publish notice to creditors and hearing</td><td>Once a week for two consecutive weeks</td></tr><tr><td>Creditors file claims</td><td>Within 30 days after publication</td></tr><tr><td>Mailed notice to interested persons</td><td>At least 10 days before the hearing</td></tr><tr><td>Hearing date</td><td>At least 35 days after first publication</td></tr><tr><td>Final account and distribution petition</td><td>At least 5 days before the order</td></tr></tbody></table><p>Even under this shorter path, the statute states that it does not affect a lien for any estate or transfer tax due. For a house, the practical point is that the court order naming the heirs is what lets a buyer receive a deed, so timing a sale means counting those weeks.</p>"
+  },
+  {
+   "h2": "How does probate differ across Oklahoma's 77 counties?",
+   "html": "<p>Probate is filed in a county, and the same statutes apply across Oklahoma's 77 counties. The Wikipedia county list shows how uneven those counties are, with Oklahoma County at 822,125 people, Tulsa County at 698,782, Cleveland County at 303,973 and Cimarron County at only 2,059.</p><p>The notice must be published in a newspaper of general circulation in the county where probate is filed, or in an adjoining county's paper if the county has none. A small county may offer few publication choices. An heir living out of state should ask the court clerk where the case is filed and when the next hearing can be set.</p><p>If the house sits in Oklahoma County, our <a href=\"/oklahoma-county-ok-property-tax-guide/\">Oklahoma County property tax guide</a> explains the assessor and treasurer dates that run alongside the probate.</p>"
+  },
+  {
+   "h2": "What is the Nontestamentary Transfer of Property Act?",
+   "html": "<p>It is the Oklahoma law that sits at 58 O.S. Sections 1251 and following, and it took effect on November 1, 2008. The section we read gives only the short title, so we do not describe what it permits here.</p><p>If the person who died left paperwork that passes the house outside of a will, an estate attorney can say whether the Act applies and whether probate is needed at all before a sale. That answer changes the timeline more than any tax rule does.</p>"
+  },
+  {
+   "h2": "What should an heir do before selling an inherited Oklahoma house?",
+   "html": "<p>Start with the date of death and the court case status, then line up the tax and title papers.</p><ul><li>Get certified copies of the death certificate and, once issued, the court order or letters naming who can sign.</li><li>Order an appraisal or ask the personal representative for the estate inventory, since that value is your basis.</li><li>Check whether the death was before or after January 1, 2010, for the lien rule.</li><li>Find the property tax account and the last payment, because the county bills the parcel regardless of who owns it.</li><li>Note that Oklahoma charges a documentary stamp tax of 75 cents per $500 of consideration under 68 O.S. Section 3201 when the deed is delivered.</li><li>Ask a title company for a payoff figure on any mortgage or lien before choosing a closing date.</li></ul><p>If the home needs repairs or has been vacant, an as-is cash sale can shorten the work. We buy houses in Oklahoma as they stand, and any offer is written for the specific property.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there an Oklahoma estate tax in 2026?",
+   "a": "No. The state estate tax statutes at 68 O.S. Sections 801 to 803 were repealed effective January 1, 2010, and no estate tax lien attaches for later deaths."
+  },
+  {
+   "q": "Does a federal estate tax return apply to my parent's house?",
+   "a": "Only if the whole estate is above the IRS filing threshold, which is $15,000,000 for deaths in 2026 and $13,990,000 for 2025."
+  },
+  {
+   "q": "Do I need a court order to prove the title is free of estate tax?",
+   "a": "No. Under 68 O.S. Section 804.1, no order is required to release the property or make title marketable for deaths after 2009, and ten years after death ends any older lien."
+  },
+  {
+   "q": "What value do I use when I sell an inherited house?",
+   "a": "Generally the fair market value at the date of death, per IRS Publication 551, unless the personal representative elected an alternate valuation date."
+  },
+  {
+   "q": "How long does a small estate probate take in Oklahoma?",
+   "a": "Under 58 O.S. Section 241, the hearing must be at least 35 days after the first notice is published, so plan for more than five weeks before the final order."
+  },
+  {
+   "q": "Can I sell an inherited house before probate is finished?",
+   "a": "That depends on who has the authority to sign, which the court order or letters show. Ask the probate attorney or the title company before listing or accepting an offer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "68 O.S. 804.1, Estate tax lien (Justia)",
+   "url": "https://law.justia.com/codes/oklahoma/title-68/section-68-804-1/"
+  },
+  {
+   "title": "IRS, Estate tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
+  },
+  {
+   "title": "IRS Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "58 O.S. 241, Probate procedure for smaller estates (Justia)",
+   "url": "https://law.justia.com/codes/oklahoma/title-58/section-58-241/"
+  },
+  {
+   "title": "58 O.S. 1251, Nontestamentary Transfer of Property Act (Justia)",
+   "url": "https://law.justia.com/codes/oklahoma/title-58/section-58-1251/"
+  },
+  {
+   "title": "68 O.S. 3201, Documentary stamp tax on deeds (Justia)",
+   "url": "https://law.justia.com/codes/oklahoma/title-68/section-68-3201/"
+  },
+  {
+   "title": "List of counties in Oklahoma (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/List_of_counties_in_Oklahoma"
+  }
+ ]
+}

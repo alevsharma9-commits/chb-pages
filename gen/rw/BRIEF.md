@@ -32,3 +32,6 @@ Pages are checked for 5-word phrase overlap with every other page on the site; a
 
 ## Research tools (FINAL, overrides every earlier tool section)
 Firecrawl is out of credits: do NOT use any mcp__Firecrawl__ tool. Use WebSearch to find pages and WebFetch to open them. If a WebFetch fails on a page, try another official page; never use curl, Bash or any proxy to fetch pages. About 6 to 10 page reads per page you write.
+
+## Site preference (keeps approval prompts low)
+Each new website can trigger an approval prompt for the owner. Do most reading on a small set of sites: en.wikipedia.org, law.justia.com, census.gov, the state's main .gov sites (legislature, tax/revenue agency, courts). Open at most 2 or 3 county or city sites per page, only for facts you cannot get elsewhere (tax dates, office contacts, local rules). Never use Firecrawl.

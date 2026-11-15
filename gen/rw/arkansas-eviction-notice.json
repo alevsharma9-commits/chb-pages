@@ -1,0 +1,97 @@
+{
+ "slug": "arkansas-eviction-notice",
+ "sections": [
+  {
+   "h2": "What written notice does an Arkansas landlord give before filing an eviction?",
+   "html": "<p>It depends on the reason. For unpaid rent, the Arkansas Attorney General describes a three-day written notice to vacate, while the statute treats rent that stays unpaid five days past its due date as legal notice that the landlord may start eviction.</p><p>Other problems follow a different clock. If a tenant breaks the lease in some way other than paying late, <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-701/\">Ark. Code 18-17-701</a> lets the landlord deliver a written notice that names the acts or omissions and warns that the rental agreement will end no sooner than 14 days after receipt. A tenant who fixes the problem inside that window keeps the lease, as long as the problem can be fixed.</p><p>Arkansas also has an older criminal statute for rent defaults. Under <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-16/subchapter-1/section-18-16-101/\">Ark. Code 18-16-101</a>, a tenant who willfully refuses to leave after ten days' written notice commits a misdemeanor, with a fine of $1 to $25 for each day. Most landlords never use it, but owners reading old forms will see the ten-day figure and wonder why it differs from the three-day notice.</p><table><thead><tr><th>Situation</th><th>Notice or trigger</th><th>Where it comes from</th></tr></thead><tbody><tr><td>Rent unpaid</td><td>Three days' written notice to vacate (Attorney General summary); five days past due date gives the right to begin eviction</td><td>Attorney General page; Ark. Code 18-17-901(b)</td></tr><tr><td>Other lease breach</td><td>Written notice, termination no sooner than 14 days after receipt if not cured</td><td>Ark. Code 18-17-701(a)</td></tr><tr><td>Week-to-week tenancy</td><td>Written notice at least 7 days before the end date</td><td>Ark. Code 18-17-704(a)</td></tr><tr><td>Month-to-month tenancy</td><td>Written notice at least 30 days before the end date</td><td>Ark. Code 18-17-704(b)</td></tr><tr><td>Rent default, criminal track</td><td>Ten days' written notice, then a misdemeanor if the tenant willfully stays</td><td>Ark. Code 18-16-101</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How does an eviction case move once the notice period ends?",
+   "html": "<p>The landlord files in district court. Under <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-902/\">Ark. Code 18-17-902</a>, the filing is a complaint plus an affidavit of eviction signed by someone with personal knowledge of the grounds. The court then issues an order telling the tenant to leave or show cause why not within ten calendar days of service.</p><p>The Attorney General's tenant guide gives a slightly different picture of the tenant's side. It says that after the summons arrives the tenant has five days to object in writing to the court clerk, and that without an objection the county sheriff can remove the tenant. The two descriptions come from different sources and different procedures, so a landlord planning a sale date should confirm the exact deadline with the district court clerk handling the case.</p><p>If the tenant shows up and contests, <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-905/\">section 18-17-905</a> says the court hears it like any other civil case. Either side may appeal, and <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-909/\">section 18-17-909</a> sends the appeal through the normal civil route. An appeal is the step that most often stretches a timeline past what an owner expected.</p><ul><li>Step one: written notice that matches the reason for the eviction.</li><li>Step two: complaint and affidavit filed in district court.</li><li>Step three: order to vacate or show cause, served on the tenant.</li><li>Step four: hearing if the tenant contests, or sheriff removal if no one objects.</li><li>Step five: possible appeal by either party.</li></ul>"
+  },
+  {
+   "h2": "Can an Arkansas landlord end a lease just because they want to sell?",
+   "html": "<p>Yes, in most month-to-month and oral arrangements. The Attorney General states that a landlord may give notice of lease termination for any reason, one rental period's notice for an oral lease, or as the written lease provides.</p><p>That matters to anyone who has decided to sell a rental house. A fixed-term written lease still controls until it ends, so the owner reads the term and any renewal language first. A month-to-month tenant, by contrast, can be given a written notice of at least 30 days under section 18-17-704. Landlords who need to sell on a short timeline sometimes pick a termination date that lines up with a target closing.</p><p>Keep the paper trail clean. Dates on the notice, proof of delivery and a copy of the lease all become evidence if the tenant stays and the case goes to court.</p>"
+  },
+  {
+   "h2": "What happens if the tenant stays after the lease ends?",
+   "html": "<p>The landlord may bring an action for possession. Section 18-17-704(c) covers holdovers: if the tenant remains without consent after the term ends or the agreement is terminated, the landlord can sue, and attorney's fees are available when the holdover is not in good faith.</p><p>A willful holdover carries a heavier remedy. The statute allows recovery of an amount up to three months of periodic rent, or twice the actual damages, whichever is greater, plus reasonable attorney's fees. The landlord also needs to avoid accepting rent in a way that looks like consent to continued occupancy, since section 18-17-704(c)(4) points back to the rule for tenants who stay with the landlord's agreement.</p><p>Where the court rules for the tenant, <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-908/\">section 18-17-908</a> says the tenant keeps possession until the tenancy ends by agreement or law, until rent goes unpaid, or until another eviction succeeds. That is one reason a sale contract with a tenant in the house should leave room for delay.</p>"
+  },
+  {
+   "h2": "What happens to belongings and the deposit when a tenant leaves?",
+   "html": "<p>Arkansas treats property left in the dwelling after a lease ends as abandoned. The Attorney General says the landlord may dispose of it as the landlord sees fit, without recourse by the tenant, and that the property is subject to a lien for sums the tenant agreed to pay.</p><p>Deposits have their own rules, but only for larger landlords. The state's security-deposit law applies to those who rent six or more dwellings. For them, the deposit cannot exceed two months' rent, it must be returned within 60 days of move-out, and any deduction needs an itemized written list inside the same 60 days. An owner with one or two rental houses is outside that statute, though the lease may still set its own terms.</p><ul><li>Photograph the empty house and any left items before touching them.</li><li>Keep receipts for repairs charged against a deposit.</li><li>Send the itemized list to the forwarding address within the 60 days where the law applies.</li><li>Do not change locks or shut off utilities to push a tenant out. Use the court process.</li></ul>"
+  },
+  {
+   "h2": "What does an eviction cost in time and money?",
+   "html": "<p>The filing fee is set by Ark. Code 16-17-705, as cross-referenced in section 18-17-902, and the district court clerk can quote the current amount. Time is the larger cost. Notice days, service on the tenant, a hearing date and any appeal all add up, and each rental month lost during that period is income the owner does not get back.</p><p>Attorney's fees are recoverable in some cases. Section 18-17-701 allows them for willful noncompliance other than nonpayment, and for nonpayment not made in good faith, only when the landlord is represented by an attorney.</p><p>Add to that the cost of repairs after move-out. Rental houses that have been through an eviction often need paint, flooring or cleanout work before they can be listed with a traditional agent.</p>"
+  },
+  {
+   "h2": "How does a pending eviction affect selling the house?",
+   "html": "<p>It narrows the choices. A conventional buyer financed by a lender usually wants possession, an inspection and a repaired house, none of which is easy while a tenant is contesting. Some owners wait out the court process and then list. Others sell the property with the tenant or the open case attached, to a buyer who is willing to take on that risk.</p><p>A cash buyer purchases as-is and does not depend on lender repair requirements, which can matter when the house has damage from a difficult tenancy. Whether a sale makes sense before the eviction ends depends on the lease, the notice already served, and the state of the court file. An owner who wants to understand those facts can speak with an Arkansas attorney or the district court clerk before signing a contract.</p><p>The Attorney General also reminds owners that the Fair Housing Act applies to the sale and rental of homes. Advertising or terms that show a preference based on race, color, religion, sex, disability, familial status or national origin are barred, whether the house is rented or sold.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the notice period for nonpayment of rent in Arkansas?",
+   "a": "Three days' written notice to vacate is the figure the Arkansas Attorney General gives for nonpayment. Separately, Ark. Code 18-17-901(b) treats rent unpaid five days after the due date as legal notice that the landlord may begin eviction proceedings."
+  },
+  {
+   "q": "How long is the notice for a month-to-month tenant in Arkansas?",
+   "a": "A landlord or tenant ends a month-to-month tenancy with written notice at least 30 days before the termination date under Ark. Code 18-17-704(b). A week-to-week tenancy needs at least seven days."
+  },
+  {
+   "q": "Can an Arkansas tenant be arrested for not leaving after notice?",
+   "a": "Possibly. Ark. Code 18-16-101 makes it a misdemeanor to willfully refuse to leave after ten days' written notice for failure to pay rent, with a fine of $1 to $25 per day. Landlords more often use the civil eviction route."
+  },
+  {
+   "q": "Who removes a tenant after an eviction order in Arkansas?",
+   "a": "The county sheriff. The Attorney General's guide says a tenant who does not file a written objection can be removed by the sheriff, and the summons in a rent case is directed to the sheriff of the county where the complaint is filed."
+  },
+  {
+   "q": "Does an Arkansas landlord need a lawyer to evict?",
+   "a": "The statutes allow the landlord or the landlord's agent to file the complaint and affidavit. A lawyer is required only to collect attorney's fees, which section 18-17-701 allows when the landlord is represented by an attorney."
+  },
+  {
+   "q": "What if I want to sell the house while the tenant is still there?",
+   "a": "You can discuss a sale, but the tenant keeps rights until the lease ends or a court orders them out. Check the lease term, the notices served and the court file, then speak with an attorney before agreeing to a closing date."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ark. Code 18-17-701, Noncompliance with rental agreement",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-701/"
+  },
+  {
+   "title": "Ark. Code 18-17-901, Grounds for eviction of tenant",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-901/"
+  },
+  {
+   "title": "Ark. Code 18-17-902, Eviction proceeding",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-902/"
+  },
+  {
+   "title": "Ark. Code 18-17-704, Periodic tenancy and holdover remedies",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-704/"
+  },
+  {
+   "title": "Ark. Code 18-17-905, Trial of issue",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-905/"
+  },
+  {
+   "title": "Ark. Code 18-17-909, Appeal",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-909/"
+  },
+  {
+   "title": "Ark. Code 18-16-101, Failure to pay rent, refusal to vacate",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-16/subchapter-1/section-18-16-101/"
+  },
+  {
+   "title": "Ark. Code 18-16-505, Summons and notice",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-16/subchapter-5/section-18-16-505/"
+  },
+  {
+   "title": "Arkansas Attorney General, Landlord and Tenant Rights",
+   "url": "https://arkansasag.gov/divisions/public-protection/homes/landlord-and-tenant-rights/"
+  }
+ ]
+}
