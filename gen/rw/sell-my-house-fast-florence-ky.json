@@ -7,7 +7,7 @@
   },
   {
    "h2": "How does the Florence housing market compare with nearby Kentucky cities?",
-   "html": "<p>Florence has the highest rents and the oldest age profile of the four cities in this group, and its median home value is the second lowest of the four. Nearly one in five residents is 65 or older.</p>\n<table>\n<caption>Florence snapshot from Census Bureau QuickFacts, with a transfer tax estimate for the median home value</caption>\n<thead><tr><th>Item</th><th>Florence</th></tr></thead>\n<tbody>\n<tr><td>2020 census population</td><td>31,946</td></tr>\n<tr><td>Residents age 65 and over</td><td>19.6%</td></tr>\n<tr><td>Owner-occupied housing rate, 2020 to 2024</td><td>57.5%</td></tr>\n<tr><td>Median value of owner-occupied homes</td><td>$210,700</td></tr>\n<tr><td>Median gross rent</td><td>$1,329</td></tr>\n<tr><td>Median household income</td><td>$71,003</td></tr>\n<tr><td>Land area per the 2020 census</td><td>10.70 square miles</td></tr>\n</tbody>\n</table>\n<p>At 10.7 square miles of land, Florence packs about 2,986 people into each square mile, the densest of the four.</p>"
+   "html": "<p>Florence has the highest rents and the oldest age profile of the four cities in this group, and its median home value is the second lowest of the four. Nearly one in five residents is 65 or older.</p>\n<table>\n<caption>Florence snapshot drawn from Census Bureau QuickFacts</caption>\n<thead><tr><th>Item</th><th>Florence</th></tr></thead>\n<tbody>\n<tr><td>2020 census population</td><td>31,946</td></tr>\n<tr><td>Residents age 65 and over</td><td>19.6%</td></tr>\n<tr><td>Homes lived in by their owners</td><td>57.5%</td></tr>\n<tr><td>Middle value of an owner-held house</td><td>$210,700</td></tr>\n<tr><td>Median gross rent</td><td>$1,329</td></tr>\n<tr><td>Median household income</td><td>$71,003</td></tr>\n<tr><td>Land area per the 2020 census</td><td>10.70 square miles</td></tr>\n</tbody>\n</table>\n<p>At 10.7 square miles of land, Florence packs about 2,986 people into each square mile, the densest of the four.</p>"
   },
   {
    "h2": "Where is Florence and what drives demand?",
@@ -22,7 +22,7 @@
    "html": "<p>Boone County describes seven tax lines on every bill: the state, the county, the school district, the extension district, the library, the Northern Kentucky Health Department and a fire district. Florence property owners pay a city property tax as well, along with a flat 911 fee of $75 per year for each occupied dwelling, which took effect in 2018.</p>\n<p>The county says its bills reach owners each October. The Boone County Property Valuation Administrator is a state office, and the Fiscal Court sets only the county's own rate. Two things set the amount: the assessed value from the PVA and the rate each taxing entity adopts. The sheriff collects the bill and does not set either one.</p>\n<p>Read the payment dates printed on your own bill, or ask the Boone County Sheriff. State law moves unpaid bills to the county clerk on April 15 after a 10% penalty and a sheriff's add-on fee, and the clerk adds interest at 1% per month.</p>"
   },
   {
-   "h2": "How do I appeal a Florence assessment before I sell?",
+   "h2": "Can I challenge a Florence assessment before selling?",
    "html": "<p>Kentucky's appeal process runs on tight deadlines, and the sequence below follows the Department of Revenue's calendar.</p>\n<ul>\n<li>The tax roll opens for public inspection on the first Monday in May and stays open for 13 days.</li>\n<li>You must first hold a conference with the PVA or a deputy.</li>\n<li>After the conference, the appeal is filed at the county clerk's office by the end of the next working day after the inspection period closes.</li>\n<li>The local board of assessment appeals meets 25 to 35 days after inspection ends and wants documents: sales listings, construction costs, insurance policies and property characteristics.</li>\n<li>An owner who files and then fails to appear cannot continue to the Kentucky Claims Commission.</li>\n</ul>\n<p>Homeowners 65 or older and totally disabled owners can apply to the PVA for the homestead exemption, which is $49,100 for the 2025 and 2026 assessment years.</p>"
   },
   {
@@ -31,12 +31,12 @@
   },
   {
    "h2": "Which sale route fits a Florence house?",
-   "html": "<p>List with an agent if the house is in good shape and your timeline is flexible. Sell privately if you have a buyer and an attorney to handle the contract and deed. Take a cash offer if repairs, tenants, probate or back taxes make a financed sale hard. At the Census median home value of $210,700, the seller's transfer tax under KRS 142.050 is about $211, collected by the county clerk at recording, so the larger costs usually come from the mortgage payoff and repairs.</p>"
+   "html": "<p>An agent makes sense when the house is in good shape and the calendar is flexible. A private sale works with a buyer in hand and an attorney drafting the deed. A cash offer is the practical choice when repairs, tenants, probate or back taxes stand in the way of a financed sale. At the Census median home value of $210,700, the seller's transfer tax under KRS 142.050 is about $211, collected by the county clerk at recording, so the larger costs usually come from the mortgage payoff and repairs.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Is there a city property tax in Florence?",
+   "q": "Do Florence owners pay city property tax?",
    "a": "Yes. Boone County says owners in incorporated cities, including Florence, pay a city property tax in addition to the county's seven bill lines. Confirm the amounts on your own bill or with the Boone County Sheriff."
   },
   {
@@ -48,12 +48,12 @@
    "a": "No. The city's permit is granted only to the applicant at the address and cannot be transferred to another person or entity. A new owner has to apply on their own, and most residential zones also need a conditional use permit."
   },
   {
-   "q": "What is the deadline to appeal a Boone County assessment?",
+   "q": "By when must a Boone County assessment appeal be filed?",
    "a": "You have until the close of the working day after the tax roll inspection period ends, and you must hold a conference with the PVA before filing at the county clerk. The inspection period opens the first Monday in May and lasts 13 days."
   },
   {
    "q": "How much transfer tax would I owe selling a Florence house?",
-   "a": "Kentucky charges the seller fifty cents per $500 of value. A house valued at Florence's Census median of $210,700 would owe about $211, collected when the deed is recorded."
+   "a": "Kentucky charges the seller fifty cents per $500 of value. A house valued at Florence's Census median of $210,700 would owe about $211, collected as the deed is entered in the county record."
   }
  ],
  "sources": [
