@@ -1,0 +1,77 @@
+{
+ "slug": "connecticut-estate-tax",
+ "sections": [
+  {
+   "h2": "What does the Connecticut estate tax actually tax?",
+   "html": "<p>Connecticut taxes the transfer of a dead person's estate, and the tax is imposed on the estate of each person who was a state resident at death. The rules sit in Chapter 217 of the General Statutes, mainly section 12-391.</p>\n<p>For deaths on or after January 1, 2023, the statute sets no tax up to the federal basic exclusion amount and a 12 percent rate on the part above it. The tax payable is capped at $15 million, and that cap is reduced by Connecticut gift taxes paid since 2016.</p>\n<p>The tax base is called the Connecticut taxable estate. For recent deaths it is the federal gross estate less allowable deductions, plus Connecticut taxable gifts made since 2005 that are not already in the gross estate, plus any Connecticut gift tax paid on gifts made in the three years before death. The state deduction for estate taxes paid is disregarded.</p>\n<p>An executor or other filer deals with the Department of Revenue Services. The Probate Court also receives estate tax returns and return information under the chapter, and it can issue certain lien releases, as explained below.</p>"
+  },
+  {
+   "h2": "How has the Connecticut exemption changed?",
+   "html": "<p>The amount of an estate that escapes Connecticut tax has risen sharply over the past several years, and it now follows the federal figure. The table shows the threshold in the statute for each year of death.</p>\n<table>\n<thead><tr><th>Year of death</th><th>Estate not taxed up to</th><th>Rate on the excess</th></tr></thead>\n<tbody>\n<tr><td>2011 to 2017</td><td>$2,000,000</td><td>7.2 percent at the first bracket, rising by bracket</td></tr>\n<tr><td>2018</td><td>$2,600,000</td><td>7.2 percent at the first bracket</td></tr>\n<tr><td>2019</td><td>$3,600,000</td><td>7.8 percent at the first bracket</td></tr>\n<tr><td>2020</td><td>$5,100,000</td><td>10 percent at the first bracket</td></tr>\n<tr><td>2021</td><td>$7,100,000</td><td>10.8 percent at the first bracket</td></tr>\n<tr><td>2022</td><td>$9,100,000</td><td>11.6 percent at the first bracket</td></tr>\n<tr><td>2023 and after</td><td>Federal basic exclusion amount</td><td>12 percent flat</td></tr>\n</tbody>\n</table>\n<p>Which exemption figure applies depends on the date of death, not the date of the sale. An heir selling a house from an estate of someone who died in 2021 follows that year's schedule, even if the closing happens years later.</p>\n<p>The figure for 2026 deaths is stated near the top of this page from the Department of Revenue Services.</p>"
+  },
+  {
+   "h2": "Why does the estate tax matter if you are selling an inherited house?",
+   "html": "<p>It matters because the estate tax is a lien in favor of Connecticut on the real property that was transferred. Under section 12-398(d), the lien runs from the due date until the tax is paid, with interest and costs.</p>\n<p>The statute limits how far that lien reaches. It is not valid against a lienor, mortgagee, judgment creditor or bona fide purchaser until notice of it is filed or recorded in the town clerk's office or wherever such liens are recorded. A recorded notice would show up in a title search and could hold up a sale.</p>\n<p>The statute also gives two tools for a clean closing:</p>\n<ul>\n<li>A certificate that the tax on the transfer of the property has been paid. It can be recorded with the town clerk and is conclusive proof that the tax was paid and the lien discharged.</li>\n<li>A certificate of release of lien on the decedent's interest in the real property. It can be recorded and is conclusive proof that the property is released from the lien.</li>\n</ul>\n<p>An estate under the threshold owes no estate tax, and the practical task is then to get paperwork showing that nothing is due.</p>"
+  },
+  {
+   "h2": "Who issues the certificate of release of lien in Connecticut?",
+   "html": "<p>The Probate Court issues it in most cases, and the Commissioner of Revenue Services issues it when the return must be filed with the Department. The statute says a person is entitled to a release when the court or the Commissioner finds, on satisfactory evidence, that payment of the tax is adequately assured or that no tax is due.</p>\n<p>The court that acts is the probate court for the district where the decedent lived at death. If the decedent lived out of state, it is the probate court for the district where the real estate or tangible property is located.</p>\n<p>An heir or executor planning a sale can follow this order of questions:</p>\n<ul>\n<li>Did the decedent live in Connecticut, or only own property here?</li>\n<li>Is the Connecticut taxable estate under the threshold for the year of death?</li>\n<li>Does a return have to be filed with the Department of Revenue Services, which would route the release through it?</li>\n<li>Has the release been recorded in the land records of the town where the house stands?</li>\n</ul>\n<p>The statute also lets the Commissioner adopt regulations that set the evidence a court or the Department must see before it finds that payment is assured, so ask the probate clerk what that court expects in your case.</p>"
+  },
+  {
+   "h2": "What if the person who died lived outside Connecticut?",
+   "html": "<p>Connecticut can tax the Connecticut real estate of a nonresident who died. The statute lets the state tax all real property in Connecticut and tangible personal property with an actual situs here, and it applies the tax to a fraction of the estate based on the share located in the state.</p>\n<p>There is also a rule for houses held in an entity. For a nonresident, real property owned by a partnership, S corporation or single-member LLC is treated as personally owned by the decedent in proportion to their ownership if the entity did not carry on a profit business, the ownership was not for a valid business purpose, or the property was acquired without a bona fide sale for full consideration while the decedent kept an interest or power.</p>\n<p>Residency itself is presumed. Section 12-391(h) says each decedent is presumed to have died a Connecticut resident, and the estate carries the burden of proving nonresidency. A filer who believes the decedent was a nonresident may request a determination of domicile after the return is filed, but only once 270 days have passed since the due date and within three years of it. The Commissioner then has 180 days to decide.</p>"
+  },
+  {
+   "h2": "What happens if the federal estate tax figure changes later?",
+   "html": "<p>If the federal estate tax is changed or corrected after filing, the filer must send Connecticut an amended return within 90 days of the final determination. Section 12-398 sets that deadline, along with the rule for an amended federal return, which also triggers a 90-day amended Connecticut filing.</p>\n<p>If the Commissioner finds additional tax due, the estate receives a notice with the extra tax and interest at 1 percent per month or fraction of a month, counted from when the original tax was due. The estate has 30 days from the mailing date to pay in cash, check, draft or money order payable to the Commissioner of Revenue Services.</p>\n<p>If instead the estate overpaid and got no federal credit for the overpayment, the State Treasurer pays the refund on order of the Comptroller. Heirs who plan to sell should keep this possibility in mind when deciding how much of the sale proceeds to hold back before distributing.</p>"
+  },
+  {
+   "h2": "Can other people read a Connecticut estate tax return?",
+   "html": "<p>Generally no. Section 12-398(c) bars a probate court from disclosing estate tax returns and return information to any person or state or municipal agency, with limited exceptions.</p>\n<p>The court must give the returns on request to the Probate Court Administrator and the Commissioner of Revenue Services. It may also share them with an executor, administrator, trustee, grantee, donee, beneficiary, surviving joint owner or other interested party who shows the court a material interest affected by the return.</p>\n<p>For a buyer or title company, that means they will usually see a recorded certificate rather than the return itself. For an heir, it means you may need to show the court why you need access.</p>"
+  },
+  {
+   "h2": "Does the estate tax replace property tax on the house?",
+   "html": "<p>No. The estate tax and local property tax are separate bills, and an inherited house keeps generating property tax while the estate is open. Under section 12-146 an unpaid tax or installment becomes delinquent after the first day of the following month and carries interest at 18 percent a year.</p>\n<p>That interest keeps running even after a judgment for the town, and each part of a month counts as a full month. A slow estate can therefore see a property tax balance grow while the estate tax and probate steps are worked out.</p>\n<p>Sellers of an inherited Connecticut house often need to settle several items before closing:</p>\n<ul>\n<li>Proof from the Probate Court or the Department of Revenue Services on the estate tax lien.</li>\n<li>A payoff from the town tax collector for any unpaid property tax and interest.</li>\n<li>Any mortgage or other lien on the house.</li>\n<li>Authority for the executor or administrator to sign the deed.</li>\n</ul>"
+  },
+  {
+   "h2": "What should you ask the state before selling?",
+   "html": "<p>We could not confirm on an opened official page whether Connecticut charges a separate inheritance tax on heirs, so ask the Department of Revenue Services or a probate attorney before assuming the answer. The statutes read for this page impose an estate tax on the transfer of the estate.</p>\n<p>We also did not open the Department's current filing instructions, so read the due date and extension rules above alongside the DRS form instructions.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Connecticut have an estate tax?",
+   "a": "Yes. Section 12-391 of the General Statutes taxes the transfer of the estate of a Connecticut resident, and of a nonresident's Connecticut real property."
+  },
+  {
+   "q": "What is the Connecticut estate tax rate?",
+   "a": "For deaths on or after January 1, 2023, the statute sets a 12 percent rate on the part of the estate above the federal basic exclusion amount, with tax payable capped at $15 million."
+  },
+  {
+   "q": "Is the estate tax a lien on an inherited house?",
+   "a": "Yes. Section 12-398(d) makes the tax a lien on the transferred real property until paid, but it is not valid against a mortgagee, judgment creditor or good-faith buyer until notice is recorded with the town clerk."
+  },
+  {
+   "q": "How do I get a lien release to sell an inherited house?",
+   "a": "Ask for a certificate of release of lien. The Probate Court issues it in most cases, and the Commissioner of Revenue Services issues it when a return must be filed with the Department."
+  },
+  {
+   "q": "What if the estate owes more after a federal change?",
+   "a": "The filer must send an amended return within 90 days. Additional tax carries interest at 1 percent per month and is due within 30 days of the notice."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Connecticut General Statutes section 12-391 (Estate tax)",
+   "url": "https://law.justia.com/codes/connecticut/title-12/chapter-217/section-12-391/"
+  },
+  {
+   "title": "Connecticut General Statutes section 12-398 (Lien and release)",
+   "url": "https://law.justia.com/codes/connecticut/title-12/chapter-217/section-12-398/"
+  },
+  {
+   "title": "Connecticut General Statutes section 12-146 (Delinquent tax interest)",
+   "url": "https://law.justia.com/codes/connecticut/title-12/chapter-204/section-12-146/"
+  }
+ ]
+}
