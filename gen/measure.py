@@ -2,7 +2,9 @@ import json,glob,re,collections,sys,statistics
 def body(c):
     c=re.sub(r"<script.*?</script>|<style.*?</style>","",c,flags=re.S)
     c=re.sub(r"<div class=.wsp-hero.*?(?=<h2)","",c,count=1,flags=re.S)
-    c=re.sub(r"<div class=.wsp-related.>.*?</div>","",c,flags=re.S)
+    c=re.sub(r"<div class=.wsp-related.*?</div>\s*</div>|<div class=.wsp-related.>.*?</div>","",c,flags=re.S)
+    c=re.sub(r"<div class=.chb-cta.*?</div>","",c,flags=re.S)
+    c=re.sub(r"<p><em>Last updated[^<]*</em></p>","",c)
     c=re.sub(r"<h2[^>]*>Sources</h2>.*?(?=<h2|$)","",c,flags=re.S)
     t=re.sub(r"<[^>]+>"," ",c)
     return re.findall(r"[a-z0-9']+",t.lower())
