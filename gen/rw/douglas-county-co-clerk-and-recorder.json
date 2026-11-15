@@ -7,7 +7,7 @@
   },
   {
    "h2": "Is there a way to watch for title fraud in Douglas County?",
-   "html": "<p>Yes. The Recording Division offers a free fraud detection service that alerts you any time a document is recorded in your name or on your property.</p><p>This service is aimed at \"title theft,\" where someone records a false deed. It is worth signing up for if you own a vacant house, a rental or an inherited property that nobody visits often. Vacant properties are the ones where a bad filing can sit unnoticed for months.</p><p>Sign up before you list, and keep the alert on while a sale is pending so you see your own deed hit the record.</p>"
+   "html": "<p>Yes. The Recording Division offers a free fraud detection service that alerts you any time a document is recorded in your name or on your property.</p><p>This service is aimed at \"title theft,\" where someone records a false deed. It is worth signing up for if you own a vacant house, a rental or an inherited property that nobody visits often. Vacant properties are the ones where a bad filing can sit unnoticed for months.</p><p>Sign up before you list, and keep the alert on while a sale is pending so you see your own deed hit the record.</p><p>If an alert ever shows a filing you do not recognize, call the Clerk and Recorder's office and your title company right away. The office is open Monday through Friday during business hours, and a quick call is cheaper than untangling a bad deed after a sale falls through.</p>"
   },
   {
    "h2": "Where is the recording office, and who can use it?",
@@ -65,7 +65,11 @@
   },
   {
    "q": "What are the land records hours?",
-   "a": "Monday through Friday, 8:00 a.m. to 5:00 p.m., at 301 Wilcox Street, Castle Rock."
+   "a": "Monday through Friday, 8:00 a.m. to 5:00 p.m., at 301 Wilcox Street, Castle Rock. Mail goes to P.O. Box 1360, Castle Rock, CO 80104, with checks payable to Douglas County Clerk & Recorder."
+  },
+  {
+   "q": "Does Douglas County record deeds for sales of inherited houses?",
+   "a": "Yes. The Recording Division records the deeds and mortgages for real estate in the county, whatever the type of sale. A title company usually prepares and submits the paperwork for you."
   }
  ],
  "sources": [
