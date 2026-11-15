@@ -1,0 +1,105 @@
+{
+ "slug": "utah-tax-sale",
+ "sections": [
+  {
+   "h2": "How does a Utah tax sale work from start to finish?",
+   "html": "<p>A Utah tax sale is a county auction of real property whose taxes have stayed unpaid for four years. The county does not take the house at the first missed payment. It moves through a fixed sequence, and the owner can stop the process at almost any point before the auction by paying what is owed.</p><table><thead><tr><th>Stage</th><th>What happens</th><th>Source</th></tr></thead><tbody><tr><td>Delinquency</td><td>Tax unpaid after the November 30 due date, then penalty and interest</td><td>59-2-1331</td></tr><tr><td>Four years pass</td><td>Property not redeemed by the following March 15 goes on the tax sale listing</td><td>59-2-1343</td></tr><tr><td>Notice</td><td>Auditor mails notice to the owner, any occupant and other interests of record</td><td>59-2-1351</td></tr><tr><td>Sale</td><td>Public auction in May or June, in person or online</td><td>59-2-1351</td></tr><tr><td>Deed</td><td>County auditor issues a tax deed after the governing body accepts the bid</td><td>59-2-1351.1</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What counts as delinquent, and what does waiting cost?",
+   "html": "<p>Taxes are delinquent if paid or postmarked after November 30, or the next business day when that date lands on a weekend or holiday. From there the cost grows in two steps, spelled out in <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1331.html\">Utah Code 59-2-1331</a>.</p><ul><li>A penalty of 2.5% of the delinquent amount or $10, whichever is greater, or 1% if everything is paid by January 31.</li><li>Interest from the following January 1 at 6% plus the federal funds target rate, held between 7% and 10%.</li><li>Added interest for each later year of delinquency, until the account is settled by redemption or sale.</li></ul><p>Tax notice charges count too. A delinquent charge such as an unpaid special district fee or assessment can start the same clock as unpaid tax, according to <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1317.html\">59-2-1317</a>.</p>"
+  },
+  {
+   "h2": "When does a delinquent Utah property actually go on the tax sale list?",
+   "html": "<p>The county treasurer lists property for sale if it is still not redeemed by March 15 following four years from the date the tax or charge became delinquent. <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1343.html\">Utah Code 59-2-1343</a> then has the treasurer file that tax sale listing with the county auditor.</p><p>As an illustration of how that reads, a bill that went delinquent right after the November 30 due date in 2021 would reach the listing step in March 2026 and the auction in May or June of 2026. The same statute says a deferred tax or charge becomes delinquent only if full payment is not made before the five-year deferral period ends.</p><p>That long runway is why many owners are surprised. The bill may have been unpaid for years with no one living in the house, while the notices went to an old address.</p>"
+  },
+  {
+   "h2": "How can an owner redeem property before the Utah tax sale?",
+   "html": "<p>Anyone can redeem on behalf of the record owner at any time before the sale by paying the county treasurer every delinquent tax, tax notice charge, interest amount, penalty and administrative cost. <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1346.html\">Utah Code 59-2-1346</a> lets someone other than the owner pay, which helps when a relative or lender steps in.</p><p>Before the redemption period ends, the treasurer must accept payments of at least $10 on account, with any final payment allowed in any amount. Payments are applied to the most recent year first, starting with interest and administrative costs, then penalty, then tax. Salt Lake County's tax sale page adds that partial payments do not redeem a property and that redemption within roughly three weeks of the sale must be paid in cash or bank-certified funds.</p><p>Redemption leaves ownership unchanged. The deed stays in the current owner's name and the account is cleared.</p>"
+  },
+  {
+   "h2": "Can the county reduce or defer what is owed?",
+   "html": "<p>Yes, in some cases. <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1347.html\">Utah Code 59-2-1347</a> lets a county legislative body accept less than the full amount or defer the tax when it finds that the best human interests and the interests of the state and county are served.</p><p>The applicant describes the property, its current value, the delinquent taxes, interest and penalties, and the amount proposed to be paid or deferred. The county cannot grant a deferral without written consent from the holder of any mortgage or trust deed. Deferred tax is recorded as a lien that bears interest and is due when the property is sold or otherwise conveyed. So a deferral can slow a sale down, but the balance still has to be paid at closing.</p>"
+  },
+  {
+   "h2": "How is notice of a Utah tax sale given?",
+   "html": "<p>The county auditor must send notice by certified and first class mail, or first class mail plus a tracked delivery service, to the last known recorded owner, the occupant of any improved property, and other interests of record as of the preceding March 15. The mailing rules are in <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1351.html\">Utah Code 59-2-1351</a>.</p><p>Public notice depends on the county's class.</p><ul><li>First class county: notice on the county website at least four weeks before the sale, plus a newspaper ad with the web address.</li><li>Other classes: a newspaper notice once a week for the four weeks before the sale, or five public postings if the county has no newspaper, plus the state public notice site.</li></ul><p>The notice names the last known owner, the parcel number and the legal description. It warns that bids below the total taxes, charges, interest, penalty and costs will not be accepted.</p>"
+  },
+  {
+   "h2": "What happens at the auction itself?",
+   "html": "<p>The auditor offers the parcels at public auction and sells each to the highest bidder for cash, in May or June. The sale can take place at the front door of the county courthouse or through an electronic process that matches the in-person format, so the public can watch and bid.</p><p>Salt Lake County ran its 2026 sale online through Public Surplus on May 27, 2026. Bidders registered about a week ahead and posted a $500 deposit by wire, according to the county page. Other counties run their own formats, so check the county auditor's site for the date and rules.</p><p>The governing body may accept the highest bid for the whole parcel, or a bid that pays all taxes and costs for a smaller piece of the parcel. It must reject bids on a thin strip around the perimeter or on a strip that cuts off access to the rest. The county legislative body can also decide that none of the bids is acceptable.</p>"
+  },
+  {
+   "h2": "What does the winning bidder get, and what happens to extra money?",
+   "html": "<p>The bidder receives a tax deed conveying the property in fee simple, issued by the county auditor and recorded by the county recorder. <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1351.1.html\">Utah Code 59-2-1351.1</a> says the deed recites the total paid, the years of assessment and delinquency, the property description and the buyer's name.</p><p>A bidder cannot back out once the sale of a parcel is closed. The county can enforce the bid by judgment, plus interest and attorney fees. Any money above what is needed to cover taxes, charges, penalties, interest and costs is treated as unclaimed property under the state's unclaimed property act. Salt Lake County says its deed is issued within 60 days, after the county council ratifies the sale.</p><p>If a tax title later proves invalid, the purchaser holds a lien for the amount paid, up to the taxes, interest and penalties, under <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1352.html\">59-2-1352</a>.</p>"
+  },
+  {
+   "h2": "Can you sell a Utah house before the tax sale?",
+   "html": "<p>Yes. Until the auction, the owner still holds title and can sell, and the delinquent balance is paid out of the sale. The buyer or title company will request a payoff from the county treasurer, and the payoff must cover tax, tax notice charges, interest, penalty and costs.</p><p>Timing is the main constraint. Because the sale is held in May or June and redemption must be completed beforehand, an owner who waits until the notice arrives may have only a few weeks. A cash purchase that closes quickly can fit that window, and the owner does not need to repair the house first.</p><ul><li>Ask the county treasurer for a written payoff amount and its good-through date.</li><li>Confirm whether any deferral lien or assessment charge is on the bill.</li><li>Check the county auditor's calendar for the exact sale date.</li></ul>"
+  },
+  {
+   "h2": "What do sellers facing a Utah tax sale usually deal with?",
+   "html": "<p>Owners who reach this stage often have several problems at once. Many are heirs or out-of-state owners, and many have a vacant house.</p><ul><li>Unopened mail, since notices go to the last known address.</li><li>An estate that has not been probated, so no one has authority to pay or sell.</li><li>Back taxes plus a mortgage, which both come out of any sale.</li><li>Little cash for the redemption amount in one payment.</li></ul><p>Utah's <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1346.html\">redemption statute</a> lets installments of at least $10 count toward the balance, but the full amount must be paid before the sale. A buyer cannot erase the debt, only pay it at closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long before a Utah tax sale can I still redeem my property?",
+   "a": "Up to the sale itself. Utah Code 59-2-1346 allows redemption at any time before the sale, which is held in May or June after four years of delinquency. Pay the full amount to the county treasurer."
+  },
+  {
+   "q": "How many years of unpaid taxes lead to a Utah tax sale?",
+   "a": "Four. A property not redeemed by March 15 following four years from the date the tax or charge became delinquent is placed on the tax sale listing under Utah Code 59-2-1343."
+  },
+  {
+   "q": "Does a Utah tax sale buyer get clear ownership?",
+   "a": "The auditor issues a tax deed conveying the property in fee simple, and the deed is prima facie evidence that the proceedings were regular. If the tax title is later found invalid, the buyer has a lien for the amount paid."
+  },
+  {
+   "q": "What happens to extra bid money at a Utah tax sale?",
+   "a": "Money above the taxes, charges, penalty, interest and costs is treated as unclaimed property under Utah's unclaimed property act, not kept by the county."
+  },
+  {
+   "q": "Can I sell my house if it is already on the Utah tax sale list?",
+   "a": "Yes, as long as the sale has not happened. The unpaid balance is paid from the proceeds at closing, so get a payoff figure from the county treasurer first and check the auction date with the county auditor."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Utah Code 59-2-1331 due date and penalty",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1331.html"
+  },
+  {
+   "title": "Utah Code 59-2-1317 tax notice",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1317.html"
+  },
+  {
+   "title": "Utah Code 59-2-1343 tax sale listing",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1343.html"
+  },
+  {
+   "title": "Utah Code 59-2-1346 redemption",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1346.html"
+  },
+  {
+   "title": "Utah Code 59-2-1347 adjustment or deferral",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1347.html"
+  },
+  {
+   "title": "Utah Code 59-2-1351 notice of tax sale",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1351.html"
+  },
+  {
+   "title": "Utah Code 59-2-1351.1 bids and deeds",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1351.1.html"
+  },
+  {
+   "title": "Utah Code 59-2-1352 invalid tax title lien",
+   "url": "https://le.utah.gov/xcode/Title59/Chapter2/59-2-S1352.html"
+  },
+  {
+   "title": "Salt Lake County property tax sale",
+   "url": "https://www.saltlakecounty.gov/property-tax/property-tax-sale/"
+  }
+ ]
+}
