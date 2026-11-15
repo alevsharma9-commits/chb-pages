@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "Who bills and collects property tax in Tipton County?",
-   "html": "<p>Three separate offices touch a Tipton County tax bill. The Assessor, Will Carter, values every parcel. The county commission and each city council set rates. The Trustee mails the bills and takes the money. The Assessor's own page lists three things the office does not do: it does not set the rate, send bills or collect taxes.</p>\n<p>The Trustee works from 1 Pleasant Avenue, Room 203, in Covington (mailing address PO Box 487, Covington, TN 38019), phone 901-476-0211, weekdays 8:00 to 5:00. During tax season a second counter opens at Munford City Hall, 1397 Munford Avenue, every Wednesday from the first Wednesday in October through February 24, 2027, with Veterans Day and December 23 skipped. Questions about value or a mailing address go to the Assessor at 901-476-0213, the number the City of Covington gives on its tax page.</p>\n<p>City tax is separate. The Trustee's page says city taxes are not collected at the county counter, and it lists the municipal offices:</p>\n<ul>\n<li>Covington, 200 W Washington Avenue, 901-476-9613</li>\n<li>Atoka, 334 Atoka-Munford Avenue, 901-837-5300</li>\n<li>Brighton, 1270 Old Highway 51 S, 901-476-8661</li>\n<li>Mason, 12157 Main Street, 901-294-3525</li>\n<li>Munford, 1397 Munford Avenue, 901-837-0171</li>\n</ul>\n<p>Covington says its own tax is due October 1 and delinquent March 1, with no partial payments, and quotes a city rate of $1.0128 per $100 of assessed value. A Covington house therefore carries a county bill and a city bill.</p>"
+   "html": "<p>Three separate offices touch a Tipton County tax bill. The Assessor, Will Carter, values every parcel. The county commission and each city council set rates. The Trustee mails the bills and takes the money. The Assessor's own page lists three things the office does not do: it does not set the rate, send bills or collect taxes.</p>\n<p>The Trustee works from 1 Pleasant Avenue, Room 203, in Covington (mailing address PO Box 487, Covington, TN 38019), phone 901-476-0211, weekdays 8:00 to 5:00. During tax season a second counter opens at Munford City Hall, 1397 Munford Avenue, every Wednesday from the first Wednesday in October through February 24, 2027, with Veterans Day and December 23 skipped. Questions about value or a mailing address go to the Assessor at 901-476-0213, the number the City of Covington gives on its tax page.</p>\n<p>City tax is separate. The Trustee's page says city taxes are not collected at the county counter, and it lists the municipal offices:</p>\n<ul>\n<li>Covington, 200 W Washington Avenue, 901-476-9613</li>\n<li>Atoka, 334 Atoka-Munford Avenue, 901-837-5300</li>\n<li>Brighton, 1270 Old Highway 51 S, 901-476-8661</li>\n<li>Mason, 12157 Main Street, 901-294-3525</li>\n<li>Munford, 1397 Munford Avenue, 901-837-0171</li>\n</ul>\n<p>Covington's tax page sets its own due date at October 1 and its delinquency date at March 1, refuses partial payments, and quotes a city rate of $1.0128 for each $100 of assessed value. A Covington house therefore carries a county bill and a city bill.</p>"
   },
   {
-   "h2": "What is Tipton County like, and why does it matter for a tax bill?",
-   "html": "<p>Tipton County sits on the western edge of Tennessee, with the Mississippi River as its western boundary and Covington as the county seat. It covers 473 square miles, was formed on October 29, 1823 from part of Shelby County, and belongs to the Memphis metropolitan area. U.S. Highway 51 runs north to south through Covington. The county also lies on the southeastern edge of the New Madrid Seismic Zone, which Wikipedia notes as an area of high earthquake risk.</p>\n<p>Towns inside the county are Atoka, Brighton, Burlison, Garland, Gilt Edge and Mason, plus the cities of Covington and Munford. Covington's South Main Historic District holds about 50 homes from the late 1800s and early 1900s, and it is on the National Register of Historic Places.</p>\n<p>Census Bureau QuickFacts for Tipton County:</p>\n<ul>\n<li>62,287 residents in July 2025, up 2.2% from the April 2020 base</li>\n<li>25,033 housing units, with 76.3% owner-occupied for 2020 to 2024</li>\n<li>Median owner-occupied home value of $240,600, and median gross rent of $1,013</li>\n<li>Median household income of $74,127, with a mean commute of 32.9 minutes</li>\n<li>139 building permits issued in 2025</li>\n</ul>\n"
+   "h2": "How does Tipton County's setting shape home values?",
+   "html": "<p>Tipton County sits on the western edge of Tennessee, with the Mississippi River as its western boundary and Covington as the county seat. It covers 473 square miles, was formed on October 29, 1823 from part of Shelby County, and belongs to the Memphis metropolitan area. U.S. Highway 51 runs north to south through Covington. The county also lies on the southeastern edge of the New Madrid Seismic Zone, which Wikipedia notes as an area of high earthquake risk.</p>\n<p>Towns inside the county are Atoka, Brighton, Burlison, Garland, Gilt Edge and Mason, plus the cities of Covington and Munford. Covington's South Main Historic District keeps about 50 homes from the late 1800s and early 1900s, and the district is federally registered.</p>\n<p>The Census Bureau's QuickFacts table gives this picture of the county:</p>\n<ul>\n<li>Population of 62,287 as of July 2025, a 2.2% rise since April 2020</li>\n<li>25,033 housing units, and 76.3% of occupied ones owned by their residents (2020 to 2024)</li>\n<li>Typical owned home worth $240,600, and typical rent of $1,013</li>\n<li>Household income around $74,127, with workers averaging 32.9 minutes to get to a job</li>\n<li>Only 139 building permits in 2025</li>\n</ul>\n"
   },
   {
    "h2": "How is a Tipton County tax bill figured?",
@@ -19,28 +19,28 @@
   },
   {
    "h2": "What is the route for disputing a Tipton County value?",
-   "html": "<p>A Tipton County owner who thinks the roll overstates a house has two steps. First comes the local County Board of Equalization. The Assessor posts the roll for public viewing in May and mails notices on parcels whose value moved, and the board's ruling closes out the roll for that year. Second comes Nashville: the State Board of Equalization takes a filing up to August 1, or 45 days after the local notice went out, whichever is later. August 1 has already gone by for 2026, so read the date printed on your notice.</p>\n<p>Facts and numbers carry a hearing. The state's guidance names three kinds of proof:</p>\n<ul>\n<li>Recent sales of look-alike homes nearby, with adjustments for size, age and condition</li>\n<li>A written appraisal from a professional who is ready to testify</li>\n<li>Your own figure for the value, backed by reasons</li>\n</ul>\n<p>Pay the part of the tax you do not dispute before March 1, along with any older delinquent tax. The State Board's phone line is 615-401-7883.</p>"
+   "html": "<p>A Tipton County owner who thinks the roll overstates a house has two steps. First comes the local County Board of Equalization. The Assessor posts the roll for public viewing in May and mails notices on parcels whose value moved, and the board's ruling closes out the roll for that year. Second comes Nashville, where the state's equalization board takes a filing up to August 1, or 45 days after the local notice went out, whichever is later. August 1 has already gone by for 2026, so read the date printed on your notice.</p>\n<p>Facts and numbers carry a hearing. The state's guidance names three kinds of proof:</p>\n<ul>\n<li>Recent sales of look-alike homes nearby, with adjustments for size, age and condition</li>\n<li>A written appraisal from a professional who is ready to testify</li>\n<li>Your own figure for the value, backed by reasons</li>\n</ul>\n<p>Pay the part of the tax you do not dispute before March 1, along with any older delinquent tax. The State Board's phone line is 615-401-7883.</p>"
   },
   {
    "h2": "What property tax relief is available in Tipton County?",
    "html": "<p>The state reimburses part or all of the tax for low-income elderly and disabled homeowners, disabled veterans, and widows or widowers of disabled veterans. The state's page dates the program to 1973. The Trustee's 2026 income cap is $38,470 from every source, for the applicant, spouse and any other owner, measured on 2025 income. Because it is a reimbursement and not an exemption, the bill is paid first.</p>\n<p>Paperwork differs by group. Elderly applicants bring 2025 income proof and a Medicare or Social Security card. Disabled applicants bring proof of age plus a benefits letter when the payer is not Social Security. Veterans sign an F-16 and show ID. Mobile home owners add a title, bill of sale or affidavit of affixation. The office begins the 2026 process in October, so call 901-476-0211 to book.</p>"
   },
   {
-   "h2": "What happens to the tax bill when a Tipton County house sells?",
+   "h2": "What becomes of the 2026 bill if a Tipton County house sells?",
    "html": "<p>The January 1 owner is on the roll, so a house sold in the fall still carries a bill in the seller's name. At closing the title company normally splits the year, and the buyer takes over from there. A seller with unpaid tax should ask the Trustee for the exact payoff, including any interest, before setting a closing date.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the Tipton County property tax rate for 2026?",
-   "a": "The county rate for 2026 is $1.3417 per $100 of assessed value, down from $1.5217 in 2025. City tax is billed separately, and Covington lists $1.0128 per $100."
+   "q": "What rate applies to a Tipton County house in 2026?",
+   "a": "The 2026 county rate is $1.3417 for each $100 of assessed value, lower than the $1.5217 charged in 2025. City tax is billed separately, and Covington lists $1.0128 per $100."
   },
   {
-   "q": "When are Tipton County property taxes due?",
-   "a": "They are due from the first Monday in October and can be paid without interest through February 28. Interest of 1.5 percent a month starts on March 1."
+   "q": "How long can I wait to pay Tipton County tax before interest begins?",
+   "a": "The last interest-free day is February 28. Billing opens on the first Monday in October, and each month after that date adds 1.5 percent."
   },
   {
-   "q": "Where do I pay property tax in Tipton County?",
+   "q": "Where can I hand over a Tipton County tax payment?",
    "a": "Pay at the Trustee's office at 1 Pleasant Avenue, Room 203, in Covington, or on Wednesdays at Munford City Hall during tax season. Online, phone and bank draft payments are also offered by the Trustee."
   },
   {
@@ -48,8 +48,8 @@
    "a": "Only on a parcel that another agency has already paid, such as a lender. The Trustee says refunds are not issued for any other reason."
   },
   {
-   "q": "Who do I call about my Tipton County assessment?",
-   "a": "Call the Property Assessor at 901-476-0213. The Assessor can review a value and explain how to reach the County Board of Equalization."
+   "q": "Which number reaches the Tipton County Assessor?",
+   "a": "The Assessor's line is 901-476-0213. That office can talk through a value and explain how to get on the county board's schedule."
   }
  ],
  "sources": [
