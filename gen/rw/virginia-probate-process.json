@@ -1,0 +1,137 @@
+{
+ "slug": "virginia-probate-process",
+ "sections": [
+  {
+   "h2": "Where does a Virginia probate case start?",
+   "html": "<p>A will is offered for probate in the circuit court of the county or independent city where the person who died had a known residence. If there was no known residence, the next choices are a county or city where real estate lies that the person owned or devised, then the place of death or where the person had other estate (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter4/section64.2-443/\">Va. Code 64.2-443</a>).</p><p>Virginia has 95 counties and 38 independent cities, and each one has its own circuit court clerk. A nursing home stay does not change the starting point: the place of legal residence is presumed to be the same as it was before the person became a patient.</p><p>The clerk, or a qualified deputy clerk, can admit a will to probate, appoint and qualify executors and administrators, and take their bonds, with the same effect as the court itself (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter4/section64.2-444/\">Va. Code 64.2-444</a>). Anyone interested in the probate may appeal a clerk's order to the circuit court within six months, without posting a bond, and the court then hears the matter fresh (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter4/section64.2-445/\">Va. Code 64.2-445</a>).</p>"
+  },
+  {
+   "h2": "Who can act for the estate when there is a will, and when there is not?",
+   "html": "<p>With a will, the named executor acts. If the will names no executor, or the executor refuses, fails to give bond, dies, resigns or is removed, the court or clerk may grant administration with the will annexed. The first in line is a residual or substantial legatee or that person's designee. If that person does not apply within 30 days, administration can go to someone who would have been entitled to it had there been no will (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-500/\">Va. Code 64.2-500</a>).</p><p>Without a will, the timing of who may apply is spelled out by statute. The table below summarizes the order in <a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-502/\">Va. Code 64.2-502</a>.</p><table><thead><tr><th>Time since death</th><th>Who may be granted administration</th></tr></thead><tbody><tr><td>First 30 days</td><td>A sole distributee, or one distributee holding written waivers from all other competent distributees</td></tr><tr><td>After 30 days</td><td>The first distributee, or designee, who applies (with a hearing if several gave notice of intent during the first 30 days)</td></tr><tr><td>After 45 days</td><td>A nonprofit charitable organization that was conservator or guardian, after a diligent search and certified mail notice</td></tr><tr><td>After 60 days</td><td>A creditor or other person, after a diligent search for distributees and certified mail notice at least 30 days before applying</td></tr></tbody></table><p>The clerk must be satisfied that the applicant is suitable and competent. The applicant signs under oath that he or she is not under a legal disability and has not been convicted of certain felonies involving fraud, theft or similar offenses, with an exception when the convicted person is the sole distributee.</p>"
+  },
+  {
+   "h2": "What is the small asset affidavit, and does it help with a house?",
+   "html": "<p>The small asset affidavit lets successors collect certain assets without opening a full estate, but it covers personal property, not a deed to real estate. It applies when the entire personal probate estate is $75,000 or less (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter6/section64.2-601/\">Va. Code 64.2-601</a>).</p><p>The affidavit is made by all known successors on a form prepared by the Office of the Executive Secretary of the Supreme Court of Virginia. It must state:</p><ul><li>that the personal probate estate does not exceed $75,000;</li><li>that at least 60 days have passed since the death;</li><li>that no application for a personal representative is pending or granted anywhere;</li><li>that any will was duly probated;</li><li>who the successors are and who is designated to receive the asset, with a fiduciary duty to safeguard and deliver it.</li></ul><p>A house is real estate, so heirs who want to sell it usually need a personal representative or a will that gives someone the power to sell. If you are unsure which route fits your family, the circuit court clerk in the county or city can explain the paperwork the court accepts.</p>"
+  },
+  {
+   "h2": "Can an executor sell the house?",
+   "html": "<p>An executor can sell real estate when the will directs that it be sold and names no one else to do the selling. In that case the executor has the power to sell and convey the property and to receive the proceeds (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-521/\">Va. Code 64.2-521</a>).</p><p>If no executor qualifies, or those who qualified have died, resigned or been removed, an administrator with the will annexed holds that power, unless the will clearly says otherwise. When the will is silent about a sale, or the estate has no will, the heirs often sign the deed together, which is why a title company will want to see the court's grant of authority and the names of every heir.</p>"
+  },
+  {
+   "h2": "What deadlines and costs come with a Virginia estate?",
+   "html": "<p>The personal representative must file an inventory with the commissioner of accounts within four months after the order giving authority. It lists the personal estate and all real estate over which the representative has the power of sale, with a market value placed on each item as of the date of death (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter13/section64.2-1300/\">Va. Code 64.2-1300</a>). Reasonable expenses of determining those values count as costs of administration.</p><p>A probate tax applies to every will probated or grant of administration, at 10 cents for each $100 of estate value, and it does not apply to estates of $15,000 or less (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter17/section58.1-1712/\">Va. Code 58.1-1712</a>).</p><table><thead><tr><th>Item</th><th>Rule</th><th>Statute</th></tr></thead><tbody><tr><td>Inventory</td><td>Within four months of qualification</td><td>64.2-1300</td></tr><tr><td>Probate tax</td><td>10 cents per $100; none at $15,000 or less</td><td>58.1-1712</td></tr><tr><td>Small asset affidavit</td><td>Personal estate of $75,000 or less, 60 days after death</td><td>64.2-601</td></tr><tr><td>Appeal of clerk order</td><td>Six months, no bond</td><td>64.2-445</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Who gets paid first from the estate?",
+   "html": "<p>When estate assets cannot cover every claim, Virginia pays in a set order, and administration costs come first. Next come the family allowances, funeral expenses up to $5,000, and debts and taxes with preference under federal law. After those are medical and hospital bills of the last illness (capped at $4,000 per hospital or nursing home and $550 per person providing services or goods), then debts and taxes due the Commonwealth, certain fiduciary debts, child support arrears, and debts and taxes due localities. All other claims share what is left (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-528/\">Va. Code 64.2-528</a>).</p>"
+  },
+  {
+   "h2": "What happens to a mortgage on an inherited Virginia house?",
+   "html": "<p>In general, a mortgage stays with the property. Unless the will, a revocable trust or a transfer on death deed clearly says otherwise, specifically devised real property passes subject to any lien in place at the date of death, without a right to have the estate pay it off first. A general instruction in the will to pay debts does not change that (<a href=\"https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-531/\">Va. Code 64.2-531</a>).</p><p>The personal representative may send the lender written notice by certified mail, and the creditor then has until the later of one year after qualification or six months after the notice to file a claim with the commissioner of accounts. The statute also gives the representative a path to sell specifically devised property subject to a claim if the estate is not released within the time it sets.</p>"
+  },
+  {
+   "h2": "What transfer taxes apply when the house is sold?",
+   "html": "<p>A deed admitted to record carries a state recordation tax of 25 cents on every $100 of the greater of the deed's consideration or the property's most recent tax assessment (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter8/section58.1-801/\">Va. Code 58.1-801</a>). A separate grantor tax of 50 cents per $500 applies to a deed for realty that was sold, and the seller pays it unless buyer and seller arrange otherwise (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter8/section58.1-802/\">Va. Code 58.1-802</a>).</p><p>The consideration must be on the first page of the deed, and the clerk certifies that the tax was paid before recording. Local recordation taxes may also apply, so ask the circuit court clerk for the current total in the county or city where the house stands.</p>"
+  },
+  {
+   "h2": "What about unpaid property taxes on an estate house?",
+   "html": "<p>Real estate taxes are a lien that ranks ahead of other liens until paid, and the buyer or the trustee at a sale must see that sale proceeds go to the taxes due (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter33/section58.1-3340/\">Va. Code 58.1-3340</a>). The estate should expect any back taxes to be settled at closing.</p><p>Local governing bodies set due dates, penalties and interest by ordinance. A late payment caused by the taxpayer's death or a medically determinable impairment is presumed not to be the taxpayer's fault if paid within 30 days of the due date, or within 120 days after a fiduciary qualifies, though interest keeps running (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3916/\">Va. Code 58.1-3916</a>).</p>"
+  },
+  {
+   "h2": "How does probate look across Virginia?",
+   "html": "<p>The same statutes apply everywhere in the Commonwealth, but the county or city handling your case sets the practical pace. Virginia has a population of about 8.88 million, and more than one-third of residents live in Northern Virginia, home to the state's largest jurisdiction, Fairfax County. The state spans the Tidewater coastal plain, the Piedmont, the Blue Ridge, the Shenandoah Valley and the southwestern Cumberland region (<a href=\"https://en.wikipedia.org/wiki/Virginia\">Wikipedia, Virginia</a>).</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need probate to sell a house in Virginia?",
+   "a": "In most cases, yes. If the house is titled only in the decedent's name, a personal representative or a will that gives power of sale is usually needed before a buyer's title company will insure the sale. A small asset affidavit covers personal property up to $75,000, not a deed."
+  },
+  {
+   "q": "How long do I have to inventory the estate?",
+   "a": "Four months after the order that gives the personal representative authority. The inventory goes to the commissioner of accounts and lists real estate over which the representative holds the power of sale."
+  },
+  {
+   "q": "Can a creditor be appointed to run an estate?",
+   "a": "Yes, but only after 60 days from the death, and only after a diligent search for distributees and certified mail notice sent at least 30 days before the application."
+  },
+  {
+   "q": "Is there a Virginia probate tax?",
+   "a": "Yes. It is 10 cents for each $100 of estate value, and estates of $15,000 or less are exempt."
+  },
+  {
+   "q": "Does a mortgage have to be paid off before heirs can inherit?",
+   "a": "Generally no. A specifically devised house passes subject to its mortgage unless the will or trust clearly directs payoff. The lender can still file a claim with the commissioner of accounts within the statutory time."
+  },
+  {
+   "q": "Can an heir sell the house before probate is finished?",
+   "a": "The sale itself needs someone with authority to convey, such as a qualified personal representative. Ask the circuit court clerk what papers the court issues, and ask a Virginia attorney about your facts."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Va. Code 64.2-443 Jurisdiction of probate of wills",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter4/section64.2-443/"
+  },
+  {
+   "title": "Va. Code 64.2-444 Clerks may probate wills",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter4/section64.2-444/"
+  },
+  {
+   "title": "Va. Code 64.2-445 Appeal from order of clerk",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter4/section64.2-445/"
+  },
+  {
+   "title": "Va. Code 64.2-500 Administration with the will annexed",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-500/"
+  },
+  {
+   "title": "Va. Code 64.2-502 Administration of intestate estate",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-502/"
+  },
+  {
+   "title": "Va. Code 64.2-521 Sale of real estate devised to be sold",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-521/"
+  },
+  {
+   "title": "Va. Code 64.2-528 Order of payment of debts",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-528/"
+  },
+  {
+   "title": "Va. Code 64.2-531 Nonexoneration",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter5/section64.2-531/"
+  },
+  {
+   "title": "Va. Code 64.2-601 Small asset by affidavit",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter6/section64.2-601/"
+  },
+  {
+   "title": "Va. Code 64.2-1300 Inventories",
+   "url": "https://law.lis.virginia.gov/vacode/title64.2/chapter13/section64.2-1300/"
+  },
+  {
+   "title": "Va. Code 58.1-1712 Probate tax",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter17/section58.1-1712/"
+  },
+  {
+   "title": "Va. Code 58.1-801 Recordation tax",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter8/section58.1-801/"
+  },
+  {
+   "title": "Va. Code 58.1-802 Grantor tax",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter8/section58.1-802/"
+  },
+  {
+   "title": "Va. Code 58.1-3340 Lien for taxes",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter33/section58.1-3340/"
+  },
+  {
+   "title": "Va. Code 58.1-3916 Local due dates, penalties",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3916/"
+  },
+  {
+   "title": "Virginia, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Virginia"
+  }
+ ]
+}

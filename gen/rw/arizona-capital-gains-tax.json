@@ -1,0 +1,89 @@
+{
+ "slug": "arizona-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "How does Arizona tax the gain when you sell a house?",
+   "html": "<p>Arizona taxes a house sale gain through its individual income tax, and it lets you subtract part of a long-term gain. Under <a href=\"https://www.azleg.gov/ars/43/01011.htm\">A.R.S. 43-1011</a>, the state taxes the entire taxable income of residents and the Arizona-source income of nonresidents. A house is a capital asset, so a profit on the sale lands in that income unless a rule removes it.</p><p>Arizona has no separate capital gains tax line. The gain is a piece of your ordinary return, and the only gain-specific relief in the statute is a subtraction found in <a href=\"https://www.azleg.gov/ars/43/01022.htm\">A.R.S. 43-1022</a>, paragraph 22. That paragraph removes a share of net long-term capital gain that is included in federal adjusted gross income.</p><p>Two questions decide what you owe on a house: how much of the gain the federal home sale exclusion removes, and whether the rest qualifies for the Arizona subtraction.</p>"
+  },
+  {
+   "h2": "What is the Arizona capital gains subtraction and who qualifies?",
+   "html": "<p>The subtraction is 25 percent of your net long-term capital gain for tax years beginning after December 31, 2014, but only for assets acquired after December 31, 2011. The statute phased it in: ten percent for 2012, twenty percent for 2013, then twenty-five percent from 2014 forward.</p><p>The phase-in table in paragraph 22 reads as follows.</p><table><thead><tr><th>Tax years beginning</th><th>Share of net long-term gain subtracted</th></tr></thead><tbody><tr><td>After Dec. 31, 2012 through Dec. 31, 2013</td><td>10 percent</td></tr><tr><td>After Dec. 31, 2013 through Dec. 31, 2014</td><td>20 percent</td></tr><tr><td>After Dec. 31, 2014</td><td>25 percent</td></tr></tbody></table><p>A house bought before 2012 does not qualify, because the rule keys to the date the asset was acquired. If you cannot verify the acquisition date, the statute says the subtraction is not allowed, so keep the closing statement from your purchase.</p>"
+  },
+  {
+   "h2": "Does the federal home sale exclusion help an Arizona seller?",
+   "html": "<p>Yes. The IRS lets you exclude up to $250,000 of gain on your main home, or up to $500,000 if you file jointly, and the excluded amount never reaches your federal adjusted gross income. Arizona's subtraction only applies to gain that is included in federal adjusted gross income, so the exclusion comes first and the state subtraction works on what is left.</p><p>The <a href=\"https://www.irs.gov/taxtopics/tc701\">IRS explains the tests</a> this way:</p><ul><li>Ownership test: you owned the home at least 24 months out of the last 5 years before the sale.</li><li>Use test: you lived in it as your residence at least 24 months of that 5-year period. The 24 months of ownership and the 24 months of use do not have to fall in the same two years.</li><li>For a joint return, either spouse can meet the ownership test, but both must meet the use test.</li><li>You generally cannot use the exclusion if you excluded gain on another home during the two years before this sale.</li></ul><p>An Arizona rental house or a house you never lived in will usually fail the use test, which means the whole gain can be taxable.</p>"
+  },
+  {
+   "h2": "Do you have to report a house sale if the gain is excluded?",
+   "html": "<p>Often yes. The IRS says that if you receive an information return such as Form 1099-S, you must report the sale even when the gain is excludable, and you must report it when you cannot exclude all of the gain.</p><p>Reporting runs through Form 8949 and Schedule D of Form 1040. For rules and worksheets the IRS points sellers to Publication 523, Selling Your Home.</p><p>If you sell in an installment arrangement, the IRS notes that the home sale exclusion remains available even when part of the price is paid in a later year.</p>"
+  },
+  {
+   "h2": "How do federal long-term and short-term gain rules affect an Arizona house sale?",
+   "html": "<p>A house held more than one year produces a long-term gain, and a house held one year or less produces a short-term gain taxed as ordinary income. The <a href=\"https://www.irs.gov/taxtopics/tc409\">IRS Topic 409</a> sets the line there, counting from the day after you acquired the asset through the day you sold it.</p><p>That line matters twice for an Arizona seller. Federally, long-term gain can qualify for lower rates. For Arizona, paragraph 22 reaches only long-term gain, so a house flipped inside a year cannot use the 25 percent subtraction.</p><p>For tax years beginning in 2025, the IRS lists these federal thresholds for the 0 percent rate on net capital gain:</p><table><thead><tr><th>Filing status</th><th>0 percent rate up to taxable income of</th></tr></thead><tbody><tr><td>Single or married filing separately</td><td>$48,350</td></tr><tr><td>Married filing jointly or qualifying surviving spouse</td><td>$96,700</td></tr><tr><td>Head of household</td><td>$64,750</td></tr></tbody></table><p>The IRS says the rate on most net capital gain is no higher than 15 percent for most individuals, with a 20 percent rate above the 15 percent band. Unrecaptured section 1250 gain from real property is taxed at a maximum of 25 percent, which can matter if you claimed depreciation on a rental.</p>"
+  },
+  {
+   "h2": "What happens if you inherited or were given the house?",
+   "html": "<p>For the Arizona subtraction, an heir or recipient of a gift is treated as having acquired the asset on the date the previous owner acquired it. The statute says a transferee who receives an asset by gift or at the death of the transferor is considered to have acquired it when the transferor did.</p><p>In practice that means an inherited Arizona house bought by a parent in 2005 would fail the post-2011 acquisition test, even if you inherited it last year. A house the parent bought in 2015 would pass it.</p><p>Your federal basis in an inherited or gifted house is not set by what you paid, and the IRS sends readers to Publication 551 for that rule. Because basis drives the size of the gain, get the date-of-death value documented, for example with an appraisal, before you list or sign a sale contract.</p>"
+  },
+  {
+   "h2": "How do capital losses and the Arizona statute interact on a house?",
+   "html": "<p>A loss on your own home is not deductible. IRS Topic 409 states that losses from the sale of personal-use property, such as your home or car, are not tax deductible.</p><p>If the house was an investment and you sold at a gain, Arizona also lists a subtraction for the amount by which a capital loss carryover under A.R.S. 43-1029 exceeds the federal carryover, so a carryover from earlier years can matter. The federal limit on using net capital losses against other income is $3,000 a year ($1,500 if married filing separately), with the rest carried forward.</p><p>Talk to a tax professional before relying on any loss, since your return may include items that this guide does not cover.</p>"
+  },
+  {
+   "h2": "What are the Arizona steps for recording a sale and how do they relate to tax?",
+   "html": "<p>Arizona county recorders require a sworn statement of sale details with each recorded deed. Under <a href=\"https://www.azleg.gov/ars/11/01133.htm\">A.R.S. 11-1133</a>, each deed and any sale contract must have an affidavit of legal value attached at recording, signed by buyer and seller or an agent.</p><p>The affidavit must disclose these facts, among others:</p><ul><li>Buyer and seller names and mailing addresses</li><li>The legal description, situs address and assessor's parcel number</li><li>The date of sale and total consideration paid</li><li>Whether the financing was cash, a new third-party loan, seller financing, an assumption, or an exchange</li><li>Whether the house will be owner-occupied or rented</li></ul><p>The county recorder must refuse to record a deed without a complete affidavit unless the document carries a listed exemption. The sale price on this form is the same figure you will use to compute your gain, so make sure it matches the settlement statement.</p>"
+  },
+  {
+   "h2": "What should a seller keep to prove the gain?",
+   "html": "<p>Keep the purchase closing statement, receipts for improvements, and the final settlement statement from the sale. IRS Topic 703 says basis is generally what you paid, that improvements that add value increase it, and that allowable depreciation and insurance reimbursements for casualty losses reduce it.</p><p>A short checklist for an Arizona seller:</p><ul><li>Closing statement from the purchase, which also proves the acquisition date for the 25 percent subtraction</li><li>Invoices for additions, a new roof, a new HVAC system, and similar capital work</li><li>The 1099-S or settlement statement showing gross proceeds</li><li>Records of days lived in the home, to prove the ownership and use tests</li><li>Any prior-year capital loss carryover worksheets</li></ul><p>If the house needs work and you sell it as-is, only improvements you actually paid for can raise your basis.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Arizona have its own capital gains tax rate?",
+   "a": "No. Arizona taxes a house sale gain as part of your individual income, and the statute offers a subtraction of 25 percent of net long-term capital gain from assets acquired after December 31, 2011. For the current income tax rate that applies to your return, ask the Arizona Department of Revenue or a tax professional."
+  },
+  {
+   "q": "Can I use the 25 percent subtraction on a house I bought in 2008?",
+   "a": "No. The subtraction in A.R.S. 43-1022 applies only to gain from an asset acquired after December 31, 2011, so a 2008 purchase does not qualify."
+  },
+  {
+   "q": "What if I cannot prove when my parent bought the house I inherited?",
+   "a": "The subtraction is denied. The statute says that if the acquisition date cannot be verified, no subtraction is allowed, and for an inherited house the date that counts is the one on which the person who died acquired it."
+  },
+  {
+   "q": "Do I owe tax if I lived in the house for two years?",
+   "a": "You may owe nothing federally on gain up to $250,000, or $500,000 on a joint return, if you meet the ownership and use tests. Any gain above those limits is still reported and may be taxed, and you must report the sale if you receive a 1099-S."
+  },
+  {
+   "q": "Is a loss on my house deductible in Arizona?",
+   "a": "No. The IRS says losses from the sale of personal-use property such as a home are not deductible."
+  }
+ ],
+ "sources": [
+  {
+   "title": "A.R.S. 43-1011 Taxes and tax rates",
+   "url": "https://www.azleg.gov/ars/43/01011.htm"
+  },
+  {
+   "title": "A.R.S. 43-1022 Subtractions from Arizona gross income",
+   "url": "https://www.azleg.gov/ars/43/01022.htm"
+  },
+  {
+   "title": "A.R.S. 11-1133 Affidavit of legal value",
+   "url": "https://www.azleg.gov/ars/11/01133.htm"
+  },
+  {
+   "title": "IRS Topic 701 Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409 Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703 Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  }
+ ]
+}

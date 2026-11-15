@@ -1,0 +1,105 @@
+{
+ "slug": "arizona-eviction-process",
+ "sections": [
+  {
+   "h2": "What are the steps of an Arizona eviction from filing to move-out?",
+   "html": "<p>An Arizona eviction moves from a written notice to a filed complaint, a short summons period, a hearing, a judgment, and then a writ of restitution that is carried out by law enforcement. For a rent case the whole path is measured in days or a few weeks, and each step has a rule behind it.</p><table><thead><tr><th>Step</th><th>What the rules say</th></tr></thead><tbody><tr><td>Notice period ends</td><td>Landlord cannot file a nonpayment case until after the last day of the five-day notice</td></tr><tr><td>Complaint filed</td><td>Summons issues the day the complaint is filed under A.R.S. 33-1377</td></tr><tr><td>Return date</td><td>Not more than six nor less than three days from the summons date</td></tr><tr><td>Service</td><td>At least two days before the return day</td></tr><tr><td>Judgment</td><td>Possession, late charges, costs and, at the landlord's option, unpaid rent</td></tr><tr><td>Writ of restitution</td><td>Not issued until five calendar days after judgment under A.R.S. 12-1178</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How does service of the summons work?",
+   "html": "<p>The summons and complaint must be delivered to the tenant in one of two ways: personal service, or posting plus mailing. The Arizona courts' information sheet says the papers are generally served by a constable, sheriff or process server, either personally or by posting in an obvious place and mailing by certified mail.</p><p>Under <a href=\"https://www.azleg.gov/ars/33/01377.htm\">A.R.S. 33-1377(B)</a>, the tenant is deemed to have received the summons three days after mailing when personal service was attempted, a copy was conspicuously posted on the main entrance within one day of issuance, and the summons was sent certified mail return receipt requested the same day.</p><p>The courts also say that a copy of the lease and related addenda must go with the complaint, and for a nonpayment case an accounting of charges and payments for the preceding six months must be attached.</p>"
+  },
+  {
+   "h2": "What can a tenant do after being served?",
+   "html": "<p>The tenant may file a written answer or answer orally in open court on the record, and the court may order a written answer if it sets a trial date. The court's information sheet lists common defenses.</p><ul><li>Rent was paid in full and on time, shown with proof of payment.</li><li>The landlord accepted rent with knowledge of the default without a signed writing setting the terms, which ties to A.R.S. 33-1371.</li><li>The tenant made repairs after proper notice and a licensed contractor did the work, with the cost, up to $300 or half the monthly rent, whichever is greater, subtracted from rent.</li><li>The tenant lives in subsidized housing with different rent rules.</li></ul><p>The trial may be postponed for good cause supported by an affidavit for not more than three days in a justice court or five days in superior court.</p>"
+  },
+  {
+   "h2": "Can a tenant stop the eviction by paying?",
+   "html": "<p>Often yes, but the price rises as the case moves forward. Under <a href=\"https://www.azleg.gov/ars/33/01368.htm\">A.R.S. 33-1368(B)</a>, before the landlord files, the rental agreement is reinstated if the tenant tenders all past due rent and a reasonable late fee set out in a written rental agreement.</p><p>After the case is filed, reinstatement requires past due rent, late fees, attorney fees and court costs. After a judgment for the landlord, reinstatement is solely at the landlord's discretion.</p><p>For a house owner planning a sale, this matters: a tenant who pays in full before judgment keeps the lease, and the house stays tenant-occupied.</p>"
+  },
+  {
+   "h2": "What does the judgment and writ of restitution do?",
+   "html": "<p>If the landlord wins, the court gives judgment for possession of the premises, late charges stated in the rental agreement, costs and, at the landlord's option, unpaid rent through the rental period, and grants a writ of restitution. This is set out in 33-1377(F).</p><p>The writ is held back for a short period. <a href=\"https://www.azleg.gov/ars/12/01178.htm\">A.R.S. 12-1178</a> says no writ of restitution may issue until five calendar days after judgment, and filing a motion to set aside does not suspend or delay it unless a judge finds good cause.</p><p>A defendant who has been lawfully served with a writ and who remains in or returns to the dwelling without the owner's permission commits criminal trespass in the third degree. After a finding against the defendant, the court must give notice of that rule.</p>"
+  },
+  {
+   "h2": "What happens to the tenant's belongings and the utilities?",
+   "html": "<p>The landlord may discontinue landlord-provided utilities the day after the writ is executed, and must then follow the personal property rules. <a href=\"https://www.azleg.gov/ars/33/01370.htm\">A.R.S. 33-1370</a> requires the landlord to hold the tenant's personal property for fourteen calendar days after retaking possession and use reasonable care in moving and holding it.</p><p>After that period, if the tenant has made no reasonable effort to recover it, the landlord may donate or sell the property. Sale proceeds go toward the tenant's outstanding rent and covered costs, and any excess is mailed to the tenant. The landlord must keep records for twelve months after a sale.</p><p>The tenant may obtain clothing, tools of a trade, and identification or financial documents even before storage costs are paid.</p>"
+  },
+  {
+   "h2": "What if the tenant leaves without telling the landlord?",
+   "html": "<p>The statute defines abandonment, and the landlord must follow a notice process before retaking the unit. Abandonment means the tenant is absent for at least seven days without notice, rent unpaid for ten days and no evidence of occupancy beyond belongings, or absent for at least five days with rent unpaid for five days and none of the tenant's property in the unit.</p><p>The landlord then sends a notice of abandonment by certified mail and posts it on the door for five days. After five days from posting and mailing, the landlord may retake the unit if no personal property remains. Money held as a security deposit is then forfeited and applied to rent and reasonable costs.</p>"
+  },
+  {
+   "h2": "How are security deposits handled on a rented house that is sold?",
+   "html": "<p>The landlord's successor in interest is bound by the deposit rules. <a href=\"https://www.azleg.gov/ars/33/01321.htm\">A.R.S. 33-1321</a> says the holder of the landlord's interest at the time the tenancy ends is bound by the section, so a buyer takes on the refund duty.</p><p>The deposit cannot exceed one and one-half month's rent, and within fourteen days after the tenancy ends and the tenant demands it, excluding weekends and holidays, the landlord must provide an itemized list of deductions. A landlord who fails to comply may owe the tenant twice the amount wrongfully withheld.</p>"
+  },
+  {
+   "h2": "Can unauthorized occupants be removed differently from tenants?",
+   "html": "<p>Yes, in narrow cases. <a href=\"https://www.azleg.gov/ars/12/01173.htm\">A.R.S. 12-1173</a> treats certain unauthorized occupants of a residence as forcible detainers if they refuse a reasonable request to leave and every one of several conditions is met.</p><ul><li>The person asking is the owner or the owner's authorized agent.</li><li>The property is a residence or used for residential purposes, and the person is unlawfully there.</li><li>The occupant is not a current or former tenant, a family member, or someone with a prior agreement to live there.</li><li>No litigation is pending between the owner and the occupant.</li></ul><p>For an action against an unauthorized person, a writ of restitution issues immediately after the court signs any judgment. A tenant at will or a month-to-month tenant whose tenancy has ended is a separate category under the same statute.</p>"
+  },
+  {
+   "h2": "How does a pending eviction affect selling a rented Arizona house?",
+   "html": "<p>It adds risk and time but does not stop a sale by itself. A buyer who pays cash and buys as-is can take the house subject to the lease or wait for possession, and the choice depends on the court's progress.</p><ul><li>A tenant who cures before judgment keeps the lease.</li><li>The writ cannot issue for five calendar days after judgment.</li><li>The landlord must show the house only on at least two days' notice at reasonable times.</li><li>Belongings left behind are held fourteen days before disposal.</li></ul><p>If you want to avoid managing those steps, a direct sale to a cash buyer can include a move-out date agreed in writing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does an Arizona eviction take?",
+   "a": "The court summons is returnable three to six days after it is issued, and a writ of restitution cannot issue until five calendar days after judgment. The total depends on notice, service, any postponement and the sheriff or constable schedule."
+  },
+  {
+   "q": "Can a tenant stay by paying after the case is filed?",
+   "a": "Yes, if they pay all past due rent, late fees, attorney fees and court costs, and the landlord has not yet obtained judgment. After judgment, reinstatement is at the landlord's discretion."
+  },
+  {
+   "q": "How long must a landlord keep tenant belongings?",
+   "a": "Fourteen calendar days after retaking possession under A.R.S. 33-1370, then the landlord may donate or sell them."
+  },
+  {
+   "q": "Is a tenant who stays after the writ breaking the law?",
+   "a": "Yes. A tenant who is lawfully served with a writ of restitution and remains in or returns to the dwelling without permission commits criminal trespass in the third degree."
+  },
+  {
+   "q": "Does the new owner get the security deposit duty?",
+   "a": "Yes. A.R.S. 33-1321 states that the holder of the landlord's interest when the tenancy ends is bound by the deposit rules."
+  }
+ ],
+ "sources": [
+  {
+   "title": "A.R.S. 33-1377 Special detainer actions",
+   "url": "https://www.azleg.gov/ars/33/01377.htm"
+  },
+  {
+   "title": "A.R.S. 33-1368 Noncompliance with rental agreement by tenant",
+   "url": "https://www.azleg.gov/ars/33/01368.htm"
+  },
+  {
+   "title": "A.R.S. 12-1178 Judgment; writ of restitution",
+   "url": "https://www.azleg.gov/ars/12/01178.htm"
+  },
+  {
+   "title": "A.R.S. 33-1370 Abandonment; personal property",
+   "url": "https://www.azleg.gov/ars/33/01370.htm"
+  },
+  {
+   "title": "A.R.S. 33-1321 Security deposits",
+   "url": "https://www.azleg.gov/ars/33/01321.htm"
+  },
+  {
+   "title": "A.R.S. 12-1173 Definition of forcible detainer",
+   "url": "https://www.azleg.gov/ars/12/01173.htm"
+  },
+  {
+   "title": "A.R.S. 33-1343 Access",
+   "url": "https://www.azleg.gov/ars/33/01343.htm"
+  },
+  {
+   "title": "A.R.S. 33-1371 Acceptance of partial payments",
+   "url": "https://www.azleg.gov/ars/33/01371.htm"
+  },
+  {
+   "title": "Arizona Courts: Non-Payment of Rent information sheet",
+   "url": "https://www.azcourts.gov/legalinfohub/Legal-Info-Sheets/Landlord/Tenant-Disputes-amp-Eviction/Non-Payment-of-Rent"
+  }
+ ]
+}
