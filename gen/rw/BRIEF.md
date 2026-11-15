@@ -35,3 +35,6 @@ Firecrawl is out of credits: do NOT use any mcp__Firecrawl__ tool. Use WebSearch
 
 ## Site preference (keeps approval prompts low)
 Each new website can trigger an approval prompt for the owner. Do most reading on a small set of sites: en.wikipedia.org, law.justia.com, census.gov, the state's main .gov sites (legislature, tax/revenue agency, courts). Open at most 2 or 3 county or city sites per page, only for facts you cannot get elsewhere (tax dates, office contacts, local rules). Never use Firecrawl.
+
+## HasData (optional, non-government only)
+mcp__HasData__hasdata_web_scraping_web_scraping_scrapeWebPage (proxyType datacenter, jsRendering false, outputFormat markdown) works only for non-government pages with no bot challenge (city/county .com or .org sites, chambers, local news). It refuses .gov sites, Wikipedia rate-limits it, Justia serves a captcha. Never use residential proxies or try to get past a captcha. Government pages and statutes: WebFetch only.
