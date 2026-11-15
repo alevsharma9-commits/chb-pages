@@ -1,0 +1,58 @@
+{
+  "slug": "pennsylvania-landlord-tenant-law-tenant-rights",
+  "sections": [
+    {
+      "h2": "What law governs landlords and tenants in Pennsylvania?",
+      "html": "<p>The main statute is the Landlord and Tenant Act, 68 P.S. 250.101 and following. The Attorney General's consumer guide also lists the Unfair Trade Practices and Consumer Protection Law, the Utility Service Tenant Rights Act, the Pennsylvania Human Relations Act and the federal Fair Housing Act as rules that reach rentals. Philadelphia and Pittsburgh add city codes on top of the state rules.</p><p>A landlord who plans to sell a rented house needs this framework, because the tenant's rights do not disappear when a deed is signed. The guide notes that lease terms such as rent generally cannot change until the lease is renewed, unless both sides agree in writing. A buyer who takes an occupied house takes it with that tenant and that lease in place.</p>"
+    },
+    {
+      "h2": "What is the difference between a lease and a periodic tenancy?",
+      "html": "<p>A fixed-term lease ends when its period ends unless renewed. A periodic tenancy, either month-to-month or year-to-year, renews automatically. Under 68 P.S. 250.501(b), either side gives at least 15 days' notice before the current term ends to stop the renewal.</p><p>A lease of three years or less can be oral or written. A lease longer than three years must be in writing. For a seller, the practical point is to learn what kind of tenancy exists before marketing the house: a month-to-month tenant renews each term unless notice is given, while a written lease sets terms that generally cannot change mid-term. Ask the tenant for a copy of anything signed.</p>"
+    },
+    {
+      "h2": "How much security deposit can a Pennsylvania landlord hold?",
+      "html": "<p>During the first year of a lease the deposit cannot exceed two months' rent. At the start of the second year it cannot exceed one month's rent, under 68 P.S. 250.511a. At the beginning of the third year, any deposit over $100 must sit in an interest bearing account unless the landlord obtains a bond.</p><ul><li>The landlord must tell the tenant in writing the name and address of the bank holding the deposit (68 P.S. 250.511b).</li><li>A tenant who stays two or more years is entitled to interest starting in the 25th month, less a one percent fee the landlord may keep.</li><li>Within 30 days after move-out the landlord must return the deposit or send a list of damages and repair costs.</li><li>A landlord who misses the 30 days may keep none of the deposit, and the tenant may sue for double the amount minus actual damages.</li></ul><p>The guide describes the deposit as money that belongs to the tenant and is held by the landlord for protection against actual damages or unpaid rent. When a rented house is sold, ask the closing agent how the buyer will account for it.</p>"
+    },
+    {
+      "h2": "What notice must a landlord give before evicting a tenant?",
+      "html": "<p>Eviction starts with a written Notice to Quit, and the number of days depends on the reason. Self-help is prohibited, so a landlord may not change the locks or shut off utilities to push a tenant out.</p><table><caption>Notice to Quit periods under 68 P.S. 250.501 (Attorney General Consumer Guide to Tenant and Landlord Rights)</caption><thead><tr><th>Reason for eviction</th><th>Days to leave</th></tr></thead><tbody><tr><td>Nonpayment of rent or use of illegal drugs</td><td>10</td></tr><tr><td>Other lease breach, lease of one year or less or indeterminate term</td><td>15</td></tr><tr><td>Other lease breach, lease longer than one year</td><td>30</td></tr></tbody></table><p>The notice may be handed to the tenant, left at the main building of the leased property, or posted conspicuously on it. The guide warns that many leases include a Waiver of Notice to Quit clause, and when it is validly waived, the landlord may go straight to court. The Attorney General encourages landlords not to include one.</p>"
+    },
+    {
+      "h2": "How does the eviction case move through court?",
+      "html": "<p>If the tenant does not leave, the landlord files a Landlord-Tenant Complaint with the county's Magisterial District Court, or with the Philadelphia Municipal Court, or with the Housing Court in Allegheny County. The court issues a summons with a hearing date. A tenant who misses the hearing loses by default.</p><p>After the hearing the judge issues a Notice of Judgment, at the end of the hearing or within three days. A tenant has 10 days after entry of judgment to appeal to the court of common pleas. The appeal stops an eviction only if the tenant deposits three months' rent or the amount the judge ordered, whichever is less, and keeps depositing rent monthly. A low-income tenant can file an affidavit and deposit one third of a month's rent. A domestic violence survivor has 30 days to appeal.</p><p>The landlord then waits 10 days after judgment before asking for an order of possession. The order requires the tenant to leave within 10 days after service, and on the 11th day a constable or sheriff can remove the tenant. Items left behind require written notice, and the tenant has 10 days from the postmark to retrieve them or ask for storage for up to 30 days.</p>"
+    },
+    {
+      "h2": "What can a tenant demand about repairs and access?",
+      "html": "<p>Every Pennsylvania lease carries an implied warranty of habitability, and the landlord cannot waive it by lease clause. The guide gives examples of failure: no heat in winter, no hot or cold running water, rodent infestation, a leaking roof, unsafe floors or stairs, and broken door or window locks. The tenant should notify the landlord and allow a reasonable chance to fix it before using any remedy. Remedies the guide lists include repair and deduct, moving out, withholding rent, suing, and raising the defect as a defense to eviction. The guide advises legal advice first, because a misused remedy can lead to eviction.</p><p>The implied covenant of quiet enjoyment gives the tenant the right to use the unit without unreasonable interference. In return, the tenant must allow reasonable access for maintenance, repairs and showing the unit to a future tenant. Showings to a buyer are not named in the guide, so a seller should arrange visits with the tenant in writing and give notice well ahead.</p>"
+    },
+    {
+      "h2": "How do these rules affect selling a rental house?",
+      "html": "<p>The effect depends on whether the house will be sold occupied or vacant. A cash buyer can purchase with the tenant in place and take over the lease, or can wait for the lease to end. If the plan is a vacant sale, the guide says there is no stand-alone right to end a lease early, so the timing depends on the lease terms, notice rules and any written agreement the parties reach. Talk to an attorney before offering a move-out date.</p><ul><li>Gather the lease, rent ledger and deposit records before listing.</li><li>Confirm which Notice to Quit period fits the reason for ending the tenancy.</li><li>Check the city code in Philadelphia or Pittsburgh for added tenant rules.</li><li>Ask the title company how it wants the deposit handled at closing.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I sell a house that has a tenant in it in Pennsylvania?",
+      "a": "Yes. The sale does not end the tenant's lease by itself, and lease terms such as rent generally stay in place until renewal unless both sides agree in writing. A buyer can take the house with the tenant or wait for the lease to end."
+    },
+    {
+      "q": "How many days notice does a tenant get to leave?",
+      "a": "Ten days for nonpayment of rent or illegal drug use. For other breaches it is 15 days on a lease of one year or less and 30 days on a lease longer than one year."
+    },
+    {
+      "q": "Can a landlord change the locks to remove a tenant?",
+      "a": "No. Self-help eviction is prohibited. The landlord must serve a Notice to Quit, win a court judgment and obtain an order of possession before a constable or sheriff can remove the tenant."
+    },
+    {
+      "q": "How much can a landlord charge for a security deposit?",
+      "a": "Up to two months' rent during the first year of a lease and up to one month's rent beginning the second year. After the third year begins, deposits over $100 must go into an interest bearing account unless the landlord holds a bond."
+    },
+    {
+      "q": "How long does a landlord have to return a deposit?",
+      "a": "Thirty days after the tenant moves out. The landlord must return it or send a list of damages and costs, and one who misses the deadline may keep none of the deposit and can owe double the amount minus actual damages."
+    }
+  ],
+  "sources": [
+    {"title": "Pennsylvania Office of Attorney General, Consumer Guide to Tenant and Landlord Rights", "url": "https://cdn.attorneygeneral.gov/wp-content/uploads/ConsumerTenant-Landlord-Guide.pdf"}
+  ]
+}
