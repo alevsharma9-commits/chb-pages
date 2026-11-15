@@ -11,49 +11,49 @@
   },
   {
    "h2": "What do the Census figures say about Todd County homes?",
-   "html": "<p>Todd County had 12,972 residents in July 2025, up 5.9 percent from the 2020 base after a small dip in the 2020 count. For a seller, the housing numbers matter most:</p>\n<ul>\n<li>The median owner-occupied home is valued at $166,700, the lowest of the four counties in this set.</li>\n<li>76.0 percent of homes are owner-occupied, among 4,559 households.</li>\n<li>Median gross rent is $851, higher than in Taylor and Trigg counties.</li>\n<li>The county had 5,313 housing units in 2025 and 40 building permits.</li>\n<li>Median household income is $61,103, and the mean commute is 27.8 minutes.</li>\n</ul>\n<p>The 2020 census recorded 10.8 percent of housing units as vacant and 30.0 percent of occupied homes as rented. Retail sales in 2022 came to $150.3 million.</p>"
+   "html": "<p>Todd County counted 12,972 residents in July 2025, up 5.9 percent from the 2020 base after a small slide during the 2010s. The housing figures matter most to a seller:</p>\n<ul>\n<li>A typical owner-occupied home is worth $166,700, the lowest figure of the four counties in this comparison.</li>\n<li>Owners live in 76.0 percent of homes, across 4,559 households.</li>\n<li>Gross rent in the middle of the range is $851, above Taylor and Trigg.</li>\n<li>5,313 housing units stood in the county in 2025, and 40 building permits were issued.</li>\n<li>Household income sits at $61,103, and the trip to work averages 27.8 minutes.</li>\n</ul>\n<p>In 2020, 10.8 percent of housing units were vacant and 30.0 percent of occupied homes were rented. Retail sales for 2022 came to $150.3 million. Todd also has the youngest population of the four, with 27.2 percent of residents under 18 and 7.6 percent under 5.</p>"
+  },
+  {
+   "h2": "How has Todd County's population moved over time?",
+   "html": "<p>The headcount peaked around the start of the twentieth century and has hovered near 12,000 for decades. The county has not grown steadily the way Spencer has.</p>\n<table><caption>Todd County population by census year (source: Census Bureau figures as listed for Todd County)</caption><thead><tr><th>Year</th><th>Residents</th></tr></thead><tbody>\n<tr><td>1900</td><td>17,371</td></tr>\n<tr><td>1950</td><td>12,890</td></tr>\n<tr><td>1970</td><td>10,823</td></tr>\n<tr><td>2000</td><td>11,971</td></tr>\n<tr><td>2010</td><td>12,460</td></tr>\n<tr><td>2020</td><td>12,243</td></tr>\n<tr><td>2025 estimate</td><td>12,972</td></tr>\n</tbody></table>\n<p>A long plateau like this tends to leave an older housing stock, so ask the PVA what condition and age were recorded for your house.</p>"
   },
   {
    "h2": "When do Todd County property tax bills go delinquent?",
-   "html": "<p>Kentucky law sets the calendar, and Todd County follows it. Under the regular schedule a bill is due by December 31 of the assessment year. Paying by November 1 saves 2 percent, a payment between November 2 and December 31 owes only the face amount, and paying in January adds 5 percent. After January 31 the penalty is 10 percent, plus the sheriff's add-on fee.</p>\n<p>At the close of business on April 15, the sheriff hands every unpaid bill to the county clerk. A lien is recorded against the property, and the bill is then called a certificate of delinquency. Interest of 1 percent per month starts, and the clerk, county attorney and recording fees follow.</p>"
-  },
-  {
-   "h2": "How much does a Todd County delinquent bill cost over time?",
-   "html": "<p>The Department of Revenue publishes a worked example for a bill with a $1,000 face amount, assuming a 4 percent sheriff's commission. The same pattern applies to a Todd County certificate, though the actual commission rates come from the local offices.</p>\n<table><caption>Illustrative cost of a $1,000 delinquent bill at each stage (source: Kentucky Department of Revenue worked example)</caption><thead><tr><th>Stage</th><th>Total due</th></tr></thead><tbody>\n<tr><td>Certificate when it reaches the clerk</td><td>$1,254.00</td></tr>\n<tr><td>Paid within five business days</td><td>$1,387.79</td></tr>\n<tr><td>Paid after the county attorney's first notice</td><td>$1,611.30</td></tr>\n<tr><td>Paid in May, second month of interest</td><td>$1,627.61</td></tr>\n<tr><td>Paid in June after advertising</td><td>$1,659.90</td></tr>\n<tr><td>Amount a third-party purchaser pays at the sale</td><td>$1,704.21</td></tr>\n</tbody></table>\n<p>Waiting adds money quickly, and the county attorney's fee is waived only when the owner pays inside the first five business days. Once a purchaser buys the certificate, the lien is assigned to that company and the owner pays the purchaser.</p>"
+   "html": "<p>The sheriff's file closes at the end of the day on April 15. Every bill still open then goes to the county clerk, a lien is recorded, and the bill takes the name certificate of delinquency. Before that date, the state's schedule decides the cost: a 2 percent reduction through November 1, the printed amount until year end, 5 percent more in January, then 10 percent plus the sheriff's add-on fee.</p>\n<p>After transfer, interest of 1 percent a month runs, and clerk and attorney commissions follow. The Department of Revenue's sample shows a $1,000 bill reaching $1,254 on arrival at the clerk, costing $1,387.79 if paid within five business days, and costing a third-party purchaser $1,704.21 at the sale. Waiting adds money fast, and the attorney's commission is waived only during that first five-day window.</p>"
   },
   {
    "h2": "When does the Todd County tax sale happen?",
-   "html": "<p>State law puts the sale 90 to 135 days after bills reach the clerk, which for a regular schedule means a date between July 14 and August 28. The county clerk publishes the dates for each year in order: a half-page advertisement, the advertisement of the full list, the deadline for third-party registration, and finally the sale, which starts at 9 AM.</p>\n<p>Buyers who want up to three bills register with the county. Anyone buying more than three registers with the state instead. The clerk's page notes that buying a tax bill does not mean the purchaser owns the property, only that a lien is placed on it. Before the sale, the county attorney mails a 30-day notice and, if needed, a second notice within 60 days, and the delinquent list must run in the local newspaper 30 to 45 days ahead of the sale.</p>"
+   "html": "<p>Kentucky places the sale between 90 and 135 days after the clerk receives the bills, which on a regular schedule means July 14 through August 28. Each year the clerk lists the sequence in order: a half-page notice, the published list, the deadline for outside buyers to register, and the sale itself, which begins at 9 AM.</p>\n<p>A buyer of up to three bills registers with the county, while anyone wanting more than three registers with the state. The clerk stresses that buying a bill does not make the purchaser the owner; it places a lien on the house, and the owner then pays the purchaser, who may add costs. Owners get two mailed notices from the county attorney before the sale, and the list appears in the newspaper 30 to 45 days ahead.</p>"
   },
   {
-   "h2": "What is the process for disputing a Todd County assessment?",
-   "html": "<p>The county FAQ sends valuation disputes to the PVA in the courthouse. A conference is a required first step. The tax roll then lies open for thirteen days beginning the first Monday in May, and a written appeal must reach the county clerk by the close of business on the day after the period ends.</p>\n<p>The local board of assessment appeals meets 25 to 35 days later for no more than five days. It looks for evidence such as comparable sales, an appraisal, cost of construction or insurance records, and it rejects appeals that lack them. Missing the local board means no later review by the Kentucky Claims Commission. A person paid to speak for the owner must be a professional such as an attorney, accountant, broker or appraiser, and must carry written authorization.</p>"
+   "h2": "How do I dispute a Todd County assessment?",
+   "html": "<p>The county FAQ sends valuation questions to the PVA in the courthouse, extension 504. A conference there is mandatory. The appeal itself is filed with the clerk the workday after the May viewing period closes, and a panel of area property owners hears it a few weeks later, for as many as five days.</p>\n<p>The panel wants evidence: nearby sales, an appraisal, construction costs or insurance records. If an owner does not file locally or skips the hearing, the Kentucky Claims Commission is off the table. Paid representatives must be professionals such as attorneys, accountants, brokers or appraisers and must hold written authorization.</p>"
   },
   {
-   "h2": "Does Todd County have a homestead exemption, and how does it affect a sale?",
-   "html": "<p>Kentucky's homestead exemption applies in Todd County for owners at least 65 or totally disabled. The Department of Revenue set the deduction at $49,100 for 2025 and 2026, and the application goes to the Todd County PVA by December 31. Because the benefit belongs to the owner, a buyer must apply again.</p>\n<p>When selling, request a payoff from the sheriff and ask the clerk about any older certificate. Kentucky treats each year's tax as the personal debt of the owner on January 1, and a delinquent lien stays with the property for up to eleven years, so the closing agent should see a clean record before funds are released.</p>"
+   "h2": "What does the homestead exemption mean for a Todd County sale?",
+   "html": "<p>The exemption removes $49,100 of assessed value for 2025 and 2026 from a home owned and lived in by someone past 65 or totally disabled. The Todd County PVA takes applications through December 31. The benefit belongs to the owner and not the house, so a buyer files again.</p>\n<p>For closing, ask the sheriff for a payoff and the clerk about any older certificate. Each year's bill is the January 1 owner's personal debt, and a delinquent lien can remain for up to eleven years, so a title agent will want a clean record before releasing funds.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Where do I pay Todd County property taxes?",
-   "a": "Pay at the Todd County Sheriff's Office, 202 East Washington Street inside the courthouse, or call (270) 265-9966 ext. 208. The sheriff's website shows bills online, so confirm with the office how payments are accepted."
+   "q": "Where is a Todd County property tax bill paid?",
+   "a": "At the sheriff's office on the courthouse's ground floor at 202 East Washington Street, extension 208 of (270) 265-9966. The sheriff's website lets you view bills, and the office can tell you which payment methods it takes."
   },
   {
-   "q": "Who do I call if my Todd County assessment seems wrong?",
-   "a": "Call the PVA at (270) 265-9966 ext. 504 and request a conference. That meeting is required before any appeal can go to the local board of assessment appeals."
+   "q": "Who reviews a Todd County assessment I disagree with?",
+   "a": "The PVA, at extension 504. Ask for a conference, since the local board will not hear an appeal from an owner who skipped that meeting."
   },
   {
-   "q": "What is the Todd County homestead exemption amount?",
-   "a": "It is $49,100 for the 2025 and 2026 tax periods. Owners must be 65 or older, or totally disabled, and apply with the PVA before December 31."
+   "q": "What is the Todd County homestead deduction?",
+   "a": "$49,100 through the 2026 tax period, for owners past 65 or totally disabled. File with the PVA before the end of the year."
   },
   {
-   "q": "Can a company buy my overdue Todd County tax bill?",
-   "a": "Yes. After April 15 the bill sits with the clerk, and a third-party purchaser can buy it at the annual sale. That company then holds the lien and collects from you."
+   "q": "Can an investor buy my delinquent Todd County bill?",
+   "a": "Yes. After April 15 the bill sits at the clerk's office, and an outside purchaser can buy it at the yearly sale and then collect from you."
   },
   {
-   "q": "Can I sell a Todd County house with unpaid property tax?",
-   "a": "Yes, as long as the amount owed is paid from the sale. Ask the sheriff and the clerk for written payoffs so no certificate surprises the buyer's closing agent."
+   "q": "Can a Todd County house with unpaid tax be sold?",
+   "a": "Yes, so long as the amount owed is paid from the sale. Get written payoffs from the sheriff and clerk so the buyer's closing agent sees no surprises."
   }
  ],
  "sources": [
