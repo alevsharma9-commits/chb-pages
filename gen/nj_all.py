@@ -25,7 +25,7 @@ SP=[('new-jersey-property-tax-guide','New Jersey Property Tax Guide: Appeals','O
 def mk(slug,h1,rt,rd,fk,h2,hp,body,faqs,crumb,cards,srcs):
     rd=rd if len(rd)<=155 else rd[:152].rsplit(' ',1)[0]+'.'
     rt=rt if len(rt)<=62 else rt[:62].rsplit(' ',1)[0]
-    full=(f"<p><em>Last updated {DATE}. Citations come from New Jersey statutes and official agency pages linked in Sources. Where we could not confirm something on an official page, we say so.</em></p>"+body+f"<h2>{esc(crumb)} FAQ</h2>"+faq_html(faqs)+related('New Jersey',cards)+sources(srcs)+DISCLAIM('New Jersey','attorney or tax professional')+schema(faqs,[('Home',SITE),('New Jersey',SITE+'we-buy-houses-in-ohio/'),(crumb,SITE+slug+'/')]))
+    full=(f"<p><em>Last updated {DATE}. Citations come from New Jersey statutes and official agency pages linked in Sources. Where we could not confirm something on an official page, we say so.</em></p>"+body+f"<h2>{esc(crumb)} FAQ</h2>"+faq_html(faqs)+related('New Jersey',cards)+sources(srcs)+DISCLAIM('New Jersey','attorney or tax professional')+schema(faqs,[('Home',SITE),('New Jersey',SITE+'we-buy-houses-in-new-jersey/'),(crumb,SITE+slug+'/')]))
     return wrap(slug,h1,hero('New Jersey',h1,h2,hp),full,rt,rd,fk)
 def sec(t,i): return f"<h2>{t}</h2>"+ul(i) if i else ''
 CTAA=cta('Selling in New Jersey?','We buy New Jersey houses as-is, with no commission, no repairs and no closing costs to you.')
