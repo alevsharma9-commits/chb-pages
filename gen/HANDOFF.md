@@ -32,14 +32,16 @@ Standing rules from the owner (Alev Sharma, signs as Victoria Sharma):
 - Finished list: gen/rw/finished.txt (233 ids merged so far, through b0267).
 - Merge script: gen/rw/cycle.sh. Other tools in gen/rw: dashfix.py, merge_rw.py, polish.py, nosrc.py, fixes.py, measure.py, finish.py, _count.py.
 
-## 3. Current state (Nov 15, 13:50 PT)
+## 3. Current state (Nov 15, about 14:05 PT, final for this session)
 
-- 1,120 of 3,716 pages are over 1,200 words. That is 1,074 originals plus 46 state hubs.
-- About 2,596 pages (649 batches, b0268 to b0916) have no draft yet.
-- The 80% unique count is 735 pages, down from about 750 because the hubs repeat directory text. Roughly 76 or more rewritten pages are under 80% unique and need rework.
-- All 46 out-of-state hubs are rewritten, built, pushed, and spot checked live (SC, TX, FL, OH). Each hub lists counties as H3 headings with county guide links and city links, like the California hub.
-- 20 rewrite agents were launched at 13:40 for b0268 to b0287 (sonnet, background). They are not merged yet. Their drafts will appear as gen/rw/<slug>.json.
-- Last git commit: 11faac5 "Add final 10 state hubs".
+- 1,204 of 3,716 pages are over 1,200 words (1,158 originals plus 46 state hubs).
+- 254 batch ids are in gen/rw/finished.txt (all merged and pushed, last commit 8d9fcc2 "Rewrite b0288").
+- 628 batches still have no draft: b0289 onward (b0268 to b0288 are all done). That is about 2,512 pages.
+- The 80% unique count is 754 pages. It moves up and down as batches merge because the Virginia and Arizona pages share statute wording. Rework the pages under 80% after the bulk rewrite.
+- All 46 out-of-state hubs are done and live (spot checked SC, TX, FL, OH).
+- NO agents are running. No new agents were launched after the user asked to stop. The user is handing this to a Claude Code session.
+- Known quality issue: 27 merged drafts still contain process-commentary wording (see section 10). Fix before or during the next pass.
+- Research limits seen this session: WebFetch hits its hourly cap on the first call, WebSearch has a small per-turn budget. Agents read pages through Claude in Chrome (own tab, text only). Many official county and city sites were blocked in Chrome ("could not verify safety category") or returned 404 on guessed URLs. Expect thin local sourcing: pages tell readers to ask the Treasurer, Assessor or Clerk.
 
 ## 4. The loop (repeat until no batches are left)
 
