@@ -52,6 +52,10 @@
    "a": "Yes. The city requires a $150 license, renewed each year, and a responsible agent within 30 miles who can respond around the clock."
   },
   {
+   "q": "Is Commerce City mostly owner-occupied?",
+   "a": "Yes. The Census Bureau reports a 77.2% owner-occupied housing rate for 2020 to 2024, the highest of the four Colorado cities we compared, with 22,415 households in the city."
+  },
+  {
    "q": "Which school district is my Commerce City house in?",
    "a": "It depends on the address. Both Adams County School District 27J and Adams 14 include parts of the city, so check the district's boundary lookup."
   }
