@@ -1,0 +1,97 @@
+{
+ "slug": "michigan-eviction-notice",
+ "sections": [
+  {
+   "h2": "What written notice must a Michigan landlord give before an eviction case?",
+   "html": "<p>The notice depends on why the landlord wants the tenant out. A missed rent payment triggers a 7-day notice, a month-to-month tenancy needs one month, and a year-to-year tenancy needs a notice that ends the lease a full year after service. The legal source for most of these is MCL 554.134, with the court filing rules in MCL 600.5714.</p><p>Michigan's court administrators publish fill-in forms for each notice. The Demand for Possession for nonpayment is form DC 100a, the general Notice to Quit is DC 100c, and the drug activity notice is DC 100e. Each form has a tenant copy and a court copy, and the landlord keeps the court copy with proof of how and when the tenant received the notice.</p>"
+  },
+  {
+   "h2": "What are the Michigan notice types and their time periods?",
+   "html": "<table><caption>Michigan eviction notice types and days, from MCL 554.134 and MCL 600.5714</caption><thead><tr><th>Reason</th><th>Notice period</th><th>Statute</th></tr></thead><tbody><tr><td>Nonpayment of rent</td><td>7 days</td><td>554.134(2); 600.5714(1)(a)</td></tr><tr><td>Month-to-month or at-will tenancy</td><td>1 month, or the rent interval if shorter than 3 months</td><td>554.134(1)</td></tr><tr><td>Year-to-year tenancy</td><td>Ends 1 year after service</td><td>554.134(3)</td></tr><tr><td>Controlled substance on the premises, with a formal police report</td><td>24 hours</td><td>554.134(4); 600.5714(1)(b)</td></tr><tr><td>Caused or threatened physical injury to someone, police notified</td><td>7 days</td><td>600.5714(1)(e)</td></tr><tr><td>Serious health hazard or extensive damage</td><td>7 days after demand to leave or repair</td><td>600.5714(1)(d)</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How must a Michigan landlord deliver the notice?",
+   "html": "<p>The court forms list four valid ways to serve it:</p><ul><li>Hand it to the tenant in person.</li><li>Give it on the premises to a family or household member or the tenant's employee, with a request to pass it on.</li><li>Send it by first-class mail to the tenant's last known address. For mail, MCL 600.5718 sets the service date as the next regular delivery day after mailing.</li><li>Email it, but only if the tenant has consented to electronic service in writing and the consent was confirmed by a reply.</li></ul><p>The forms warn about improper service. Slipping the notice under the door, leaving it outside the door, attaching it to the property or mailing it by a method that requires a signature are all examples that can sink the later court case. The 7-day nonpayment form is the minimum, and the lease or another law may require a longer period.</p>"
+  },
+  {
+   "h2": "What happens after the Michigan notice period ends?",
+   "html": "<p>The landlord can file a complaint in district court. Forms DC 102a (nonpayment), DC 102b (damage or health hazard) and DC 102c (other possession claims) are used for this, with the notice attached. The court then issues a summons.</p><ul><li>The summons normally sets trial within 10 days of issuance and must be served at least 3 days before that date. A court that adopts a local rule may use 5 days after service instead.</li><li>A summary proceeding is heard within 7 days after the tenant appears or the trial date arrives, with adjournments only by stipulation.</li><li>A case based on the 24-hour drug activity notice is heard on the day the tenant appears and is adjourned only for extraordinary reasons.</li></ul><p>If the court finds for the landlord on nonpayment, it fixes the amount due at trial and subtracts any rent excused by the landlord's breach of the lease or statutory covenants. The tenant can stop the writ by paying that amount plus taxed costs within the time provided (MCL 600.5741 and 600.5744(7)).</p>"
+  },
+  {
+   "h2": "When can a sheriff or court officer actually remove a Michigan tenant?",
+   "html": "<p>Only after the court orders it. MCL 600.5744 directs the court to issue a writ of restitution commanding a court officer, bailiff or sheriff to put the landlord in possession and remove occupants and property. In the usual case the writ cannot issue until 10 days after the judgment for possession.</p><p>Immediate writs are allowed on conditions the court sets, for example when the premises have been ordered vacated for lack of a housing certificate, when entry was forcible, when the occupant is a trespasser, when the tenant is causing a serious health hazard or extensive damage, or in a drug activity case. If the judgment is for forfeiture of a land contract, the wait is 90 days when less than half the price has been paid and six months when half or more has been paid.</p>"
+  },
+  {
+   "h2": "Can a Michigan landlord lock out a tenant or shut off utilities?",
+   "html": "<p>No. MCL 600.2918 treats force, changing locks without handing over keys, boarding up the premises, removing doors or windows, keeping or destroying the tenant's belongings, and cutting off heat, water, electric or gas as unlawful interference. A tenant can recover actual damages or $200, whichever is greater, for each occurrence.</p><p>A person who is forcibly put out of land can recover three times actual damages or $200, whichever is greater, plus possession. An action to regain possession must be filed within 90 days after the cause arises or is discovered, and a damages action within one year. The section cannot be waived in a lease. Exceptions cover court orders, brief entry for repairs or inspection, and good-faith belief that the tenant has abandoned and left rent unpaid.</p>"
+  },
+  {
+   "h2": "How does an eviction notice affect selling a Michigan house?",
+   "html": "<p>A rented house can usually sell with the tenant in place, but the seller cannot use a sale to skip the notice rules. The tenancy still ends only by the notice or court process above, so a cash buyer who wants the house empty must either wait out the lease or have the seller serve a correct notice first.</p><p>A few sale situations have their own rules. After a mortgage foreclosure sale or an execution sale, a person who stays in the house past the redemption period can be removed by summary proceedings under MCL 600.5714(1)(g). After a probate-licensed sale by a personal representative, the same remedy applies under paragraph (h). Following a foreclosure sale, the purchaser may inspect and, if inspection is unreasonably refused or damage is imminent, may start summary proceedings after giving the mortgagor 7 days' written notice to repair (MCL 600.3238).</p><p>Ask the district court clerk in the county where the house sits for the local rules and filing fee before you start.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days is a Michigan eviction notice for unpaid rent?",
+   "a": "Seven days. MCL 554.134(2) lets a landlord end the tenancy by a written 7-day notice to quit, and MCL 600.5714(1)(a) allows summary proceedings if the tenant holds over 7 days after a written demand for possession. The lease can require longer."
+  },
+  {
+   "q": "Can a Michigan landlord evict someone with a 24-hour notice?",
+   "a": "Only for controlled substance activity when the lease has a termination clause and a formal police report has been filed. Under MCL 554.134(4) the notice is 24 hours. Other violations use longer notice periods."
+  },
+  {
+   "q": "Does a Michigan landlord need a court order to remove a tenant?",
+   "a": "Yes. After the notice period the landlord must file a complaint, win a judgment, and wait for a writ of restitution, usually 10 days after judgment. A sheriff, bailiff or court officer carries out the writ."
+  },
+  {
+   "q": "What if a Michigan landlord changes the locks without a court order?",
+   "a": "The tenant may recover actual damages or $200, whichever is greater, per occurrence under MCL 600.2918, and may recover possession. A tenant should file within 90 days to regain possession."
+  },
+  {
+   "q": "What is the notice for a month-to-month tenant in Michigan?",
+   "a": "One month. If rent is payable at intervals shorter than 3 months, the notice period equals the payment interval. A year-to-year tenancy ends 1 year after service of the notice."
+  }
+ ],
+ "sources": [
+  {
+   "title": "MCL 554.134 Termination of tenancies",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-134"
+  },
+  {
+   "title": "MCL 600.5714 Summary proceedings",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5714"
+  },
+  {
+   "title": "MCL 600.5744 Writ of restitution",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5744"
+  },
+  {
+   "title": "MCL 600.5735 Summons and hearing",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5735"
+  },
+  {
+   "title": "MCL 600.5718 Service of demand",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5718"
+  },
+  {
+   "title": "MCL 600.5741 Judgment for possession",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5741"
+  },
+  {
+   "title": "MCL 600.2918 Unlawful interference with possession",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2918"
+  },
+  {
+   "title": "MCL 600.3238 Post-foreclosure inspection",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-3238"
+  },
+  {
+   "title": "Michigan Courts: INSTDC 100c Notice to Quit instructions",
+   "url": "https://courts.michigan.gov/siteassets/forms/scao-approved/instdc100c.pdf"
+  },
+  {
+   "title": "Michigan Courts: INSTDC 100a Demand for Possession instructions",
+   "url": "https://courts.michigan.gov/siteassets/forms/scao-approved/instdc100a.pdf"
+  }
+ ]
+}
