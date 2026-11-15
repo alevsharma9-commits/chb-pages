@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "What should a seller know about Kansas City, MO before listing?",
-   "html": "<p>Kansas City is Missouri's largest city by both population and area, and it spreads across four counties: Jackson, Clay, Platte and Cass. The county your house sits in decides which recorder files the deed and which collector bills the property tax, so check the parcel record before you sign anything.</p><p>The Missouri River and the Kansas River meet here. The town of Kansas was incorporated on June 1, 1850, became the City of Kansas in 1853, and took the name Kansas City in 1889. The Census Bureau lists 314.70 square miles of land, so conditions change a lot from a Northland subdivision to a Brookside bungalow to a Crossroads loft.</p>"
+   "html": "<p>Kansas City is Missouri's largest city by both population and area, and it spreads across four counties: Jackson, Clay, Platte and Cass. Whichever county holds your house decides which recorder files the deed and which collector bills the property tax, so check the parcel record before you sign anything.</p><p>The Missouri River and the Kansas River meet here. The town of Kansas was incorporated on June 1, 1850, became the City of Kansas in 1853, and took the name Kansas City in 1889. The Census Bureau lists 314.70 square miles of land, so conditions change a lot from a Northland subdivision to a Brookside bungalow to a Crossroads loft.</p>"
   },
   {
    "h2": "How large is the Kansas City housing market according to the Census?",
-   "html": "<p>The Census Bureau estimates 521,220 residents for July 1, 2025, up 2.6 percent from the April 2020 base of 508,012. There are 221,979 households and about 55 percent of homes are owner occupied.</p><ul><li>Median value of owner-occupied homes (2020 to 2024): $242,900</li><li>Median gross rent: $1,238</li><li>Median household income: $69,166</li><li>Mean travel time to work: 21.7 minutes</li><li>Language other than English at home: 13.1 percent</li></ul><p>Those are citywide middle values. A house in Brookside or the Northland can sit far from them, so ask for a price opinion tied to the specific block and to recent closed sales.</p>"
+   "html": "<p>Kansas City had an estimated 521,220 residents in mid-2025, up 2.6 percent from a 508,012 base in April 2020. There are 221,979 households and about 55 percent of homes are owner occupied.</p><ul><li>Middle home value among owners (2020 to 2024): $242,900</li><li>Median gross rent: $1,238</li><li>Median household income: $69,166</li><li>Average commute: 21.7 minutes</li><li>Language other than English at home: 13.1 percent</li></ul><p>Those are citywide middle values. A house in Brookside or the Northland can sit far from them, so ask for a price opinion tied to the specific block and to recent closed sales.</p>"
   },
   {
    "h2": "Which neighborhoods, districts and highways matter to Kansas City buyers?",
@@ -31,7 +31,7 @@
   },
   {
    "h2": "How do I record the deed in Jackson County and what does it cost?",
-   "html": "<p>For a Kansas City address in Jackson County, deeds are recorded by the Recorder of Deeds at the Jackson County Courthouse, 415 E 12th Street, Room 104, phone 816-881-3191. A second office is in the Historic Truman Courthouse in Independence. Parcels in the Clay, Platte or Cass County portions of the city are recorded by those counties instead.</p><p>The county posts a standard fee of $23 for the first page and $3 for each added page, and notes that documents received on or after August 28, 2026 fall under the new fee schedule. Card payments at the counter carry a 2.75 percent processing fee. The office reviews and indexes documents but cannot fill in forms for you, and photocopies are not accepted. Missouri statute 442.380 requires recording in the county where the land lies.</p>"
+   "html": "<p>For a Kansas City address in Jackson County, deeds are recorded by the Recorder of Deeds at the Jackson County Courthouse, 415 E 12th Street, Room 104, phone 816-881-3191. A second office is in the Historic Truman Courthouse in Independence. Parcels in the Clay, Platte or Cass County portions of the city are recorded by those counties instead.</p><p>The county posts a standard charge of $23 for page one, then $3 per added page, and notes that documents received on or after August 28, 2026 fall under the new fee schedule. Card payments at the counter carry a 2.75 percent processing fee. The office reviews and indexes documents but cannot fill in forms for you, and photocopies are not accepted. RSMo 442.380 calls for recording with the recorder of the county where the land is.</p>"
   }
  ],
  "faqs": [
@@ -48,7 +48,7 @@
    "a": "No. Kansas City registrations are not transferable. The new owner has to apply on their own through CompassKC."
   },
   {
-   "q": "How long do I have to appeal a Kansas City code violation?",
+   "q": "What is the deadline to appeal a Kansas City code violation?",
    "a": "Ten calendar days from the date on the notice. The filing fee is $50 and hearings are held monthly on the second Thursday."
   },
   {

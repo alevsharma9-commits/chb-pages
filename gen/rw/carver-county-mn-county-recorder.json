@@ -1,0 +1,105 @@
+{
+ "slug": "carver-county-mn-county-recorder",
+ "sections": [
+  {
+   "h2": "Where do I record a deed in Carver County?",
+   "html": "<p>Deeds for Carver County land are recorded by the Land Records &amp; Vitals office at 600 East 4th Street in Chaska, the county seat. The office is open Monday through Friday from 8:00am to 4:30pm and closes on government holidays. Call (952) 361-1930 or write to recorders@carvercountymn.gov for land records questions.</p><p>The office handles more than deeds. Its own page lists conveyances, parcel splits and combinations, annexations, plats, mortgage registration tax, state deed tax, conservation fee collection and federal, state and county tax liens. Once a document is recorded it becomes a permanent record and <a href=\"https://www.carvercountymn.gov/departments/property-finance/land-records-vitals/real-estate\">cannot be changed or removed</a>, so a seller who is about to sign should have the title company or an attorney check the deed first.</p><p>Staff will not hand you a blank deed or tell you how to fill one in. Blank forms come from the Minnesota Department of Commerce, which publishes the Uniform Conveyancing Forms.</p>"
+  },
+  {
+   "h2": "What does the Carver County recorder look for on a deed?",
+   "html": "<p>The recorder checks a deed against a short list of items, and a missing one is the usual reason a document comes back. The county's <a href=\"https://www.carvercountymn.gov/departments/property-finance/land-records-vitals/documents-fees\">recording requirements page</a> names these for a deed:</p><ul><li>A complete legal description. The shortened version printed on a tax statement does not count.</li><li>A full acknowledgment: the state and county where it was signed, the date, the notary's seal, signature and commission expiration date, and the marital status of each person acknowledged. A company signer needs the business name plus the signer's name and title.</li><li>A drafted-by statement with a name and address, and a send-tax-statement-to name and address.</li><li>A Certificate of Real Estate Value when the price is over $3,000.</li><li>Well information whenever an eCRV is filed, and a subsurface sewage treatment system disclosure on every transfer.</li></ul><p>Paper deeds also need original signatures from the parties and the notary under <a href=\"https://www.revisor.mn.gov/statutes/cite/507.24\">Minn. Stat. 507.24</a>. Correction fluid is banned. To fix a typo, strike the error with one line or a row of Xs, type the correction and have the parties initial it.</p>"
+  },
+  {
+   "h2": "How much does it cost to record a deed in Carver County?",
+   "html": "<p>The county recording fee for a deed is $46, set by <a href=\"https://www.revisor.mn.gov/statutes/cite/357.18\">Minn. Stat. 357.18</a>. Of that, $10.50 goes to the state general fund, $10 to the county technology fund and $25.50 to the county general fund. Carver County's own page simply points to the statewide county fee schedule.</p><p>State law also bars counties from adding their own charges for handling, mailing, certifying that no delinquent taxes are owed, or collecting deed tax and the conservation fee (<a href=\"https://www.revisor.mn.gov/statutes/cite/357.182\">357.182</a>). The line items that can appear on a Carver County deed closing are below.</p><table><caption>Charges that can apply when a deed is recorded in Carver County</caption><thead><tr><th>Item</th><th>Amount</th><th>Where it comes from</th></tr></thead><tbody><tr><td>Recording fee, deed</td><td>$46</td><td>Minn. Stat. 357.18, subd. 1</td></tr><tr><td>Certified copy</td><td>$10</td><td>Minn. Stat. 357.18, subd. 1</td></tr><tr><td>State deed tax, sale over $3,000</td><td>0.33% of net consideration</td><td>Minn. Stat. 287.21</td></tr><tr><td>State deed tax, price $3,000 or less</td><td>$1.65</td><td>Minn. Stat. 287.21</td></tr><tr><td>Agriculture conservation fee</td><td>$5 per transaction on a deed subject to tax</td><td>Carver County recording requirements page</td></tr><tr><td>Well disclosure certificate</td><td>$54</td><td>Minn. Stat. 103I.235</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How is Minnesota deed tax figured on a Carver County sale?",
+   "html": "<p>When the price is above $3,000, the deed tax is 0.0033 times the net consideration, which is the price without the value of any lien that stays on the property after the sale. A deed with no price or a price of $3,000 or less pays $1.65. The tax is due when the deed is handed in for recording.</p><p>For scale, the Census Bureau reports a median owner-occupied home value of $453,600 in Carver County for 2020 to 2024. A sale at that figure with no lien remaining would carry deed tax of $1,496.88 (453,600 x 0.0033). The closing statement shows who covers it, so read that line before you sign.</p><p>Certain transfers are labeled designated transfers in the statute and pay only the $1.65 minimum. Ask your attorney whether a family or entity transfer fits that label before assuming it does.</p>"
+  },
+  {
+   "h2": "What is the difference between Abstract and Torrens property in Carver County?",
+   "html": "<p>Minnesota keeps two land record systems, and the county says most Carver County parcels are Abstract property. Abstract land is proven through a title search of every recorded document that touches it. Torrens land has a Certificate of Title that serves as close to conclusive proof of ownership, and it folds the parcel's records into one document. An owner can convert Abstract land to Torrens through land registration.</p><p>Each system has its own recording rules, so tell the title company which kind of parcel you are selling. A document that covers both Abstract and Torrens land cannot be eRecorded at this time.</p>"
+  },
+  {
+   "h2": "How long does recording take, and can the deed be eRecorded?",
+   "html": "<p>Under 357.182, a recordable instrument must be recorded, indexed and returned within ten business days. A county may take up to five more business days for documents that need a no-delinquent-tax certification or payment of deed tax, mortgage registry tax or the conservation fee. Electronically recorded instruments must come back within five business days of receipt in recordable form.</p><p>Carver County calls eRecording its preferred method and accepts nearly every Abstract or Torrens document type that way. Title companies, lenders and law firms sign up through one of the county's Trusted Submitters. A full eRecording also uses the electronic certificate of real estate value (eCRV) and the electronic well disclosure certificate (eWell).</p>"
+  },
+  {
+   "h2": "What happens to the homestead status after a deed is recorded?",
+   "html": "<p>The certificate of value reaches the county auditor with the deed, then goes to the assessor and the Department of Revenue. Under <a href=\"https://www.revisor.mn.gov/statutes/cite/272.115\">Minn. Stat. 272.115</a>, the assessor removes the homestead classification for the next assessment year on a sold property unless the buyer files a homestead application and qualifies. A parcel that needed a certificate of value cannot be classed as homestead unless one was filed.</p><p>Carver County's assessor (952-361-1960, assessment@carvercountymn.gov) handles homestead applications, and the county says a new owner, a trust transfer, a name change or an added or removed owner each calls for a new application.</p>"
+  },
+  {
+   "h2": "What is the Carver County housing market like for a seller?",
+   "html": "<p>Carver County borders Hennepin County and belongs to the Minneapolis-St. Paul-Bloomington metropolitan area. It is Minnesota's second-smallest county by land area, with 354 square miles, and the Minnesota River forms its southern edge. The Census Bureau's July 2025 estimate is 114,379 residents, up 7.0% from the 2020 base, and builders pulled 960 permits in 2025. The county's cities are Carver, Chanhassen, Chaska, Cologne, Hamburg, Mayer, New Germany, Norwood Young America, Victoria, Waconia and Watertown.</p><ul><li>Median owner-occupied home value, 2020 to 2024: $453,600</li><li>Owner-occupied rate: 81.5%</li><li>Median household income: $125,946</li><li>Median gross rent: $1,514</li></ul><p>Lake Waconia, at 2,996 acres, is the biggest lake in the county, and the eastern part of the county is dotted with smaller ones. A house with deferred repairs, a tenant or an inherited title follows the same recording steps as a move-in-ready listing. The deed, the certificate of value and the tax all go through the Chaska office.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where is the Carver County recorder's office?",
+   "a": "It is the Land Records &amp; Vitals office at 600 East 4th Street, Chaska, MN 55318. Hours are Monday through Friday, 8:00am to 4:30pm, closed on government holidays. The phone number is (952) 361-1930."
+  },
+  {
+   "q": "What is the recording fee for a deed in Carver County?",
+   "a": "The statutory fee is $46 for indexing and recording a deed. Add the $5 agriculture conservation fee on a taxable deed, the state deed tax and, where a well certificate is needed, the $54 well fee."
+  },
+  {
+   "q": "Does Carver County require a notary on a deed?",
+   "a": "Yes. A paper deed needs original signatures and a complete acknowledgment that shows the venue, date, notary seal and signature, and the notary's commission expiration date. Electronic deeds follow the state's electronic recording standards."
+  },
+  {
+   "q": "Can a Carver County deed be recorded online?",
+   "a": "Yes, for nearly all Abstract and Torrens documents, through one of the county's Trusted Submitters such as a title company. Documents that mix Abstract and Torrens land cannot be eRecorded yet."
+  },
+  {
+   "q": "Who pays the state deed tax?",
+   "a": "The statute puts the tax on the deed presented for recording and does not say which party bears it. The sales contract and closing statement decide that, so ask the closing agent before you sign."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Carver County Recording",
+   "url": "https://www.carvercountymn.gov/departments/property-finance/land-records-vitals/real-estate"
+  },
+  {
+   "title": "Carver County Recording Requirements",
+   "url": "https://www.carvercountymn.gov/departments/property-finance/land-records-vitals/documents-fees"
+  },
+  {
+   "title": "Carver County E-Recording Information",
+   "url": "https://www.carvercountymn.gov/departments/property-finance/land-records-vitals/e-recording"
+  },
+  {
+   "title": "Minn. Stat. 287.21",
+   "url": "https://www.revisor.mn.gov/statutes/cite/287.21"
+  },
+  {
+   "title": "Minn. Stat. 357.18",
+   "url": "https://www.revisor.mn.gov/statutes/cite/357.18"
+  },
+  {
+   "title": "Minn. Stat. 357.182",
+   "url": "https://www.revisor.mn.gov/statutes/cite/357.182"
+  },
+  {
+   "title": "Minn. Stat. 272.115",
+   "url": "https://www.revisor.mn.gov/statutes/cite/272.115"
+  },
+  {
+   "title": "Minn. Stat. 507.24",
+   "url": "https://www.revisor.mn.gov/statutes/cite/507.24"
+  },
+  {
+   "title": "Minn. Stat. 103I.235",
+   "url": "https://www.revisor.mn.gov/statutes/cite/103I.235"
+  },
+  {
+   "title": "Census Bureau QuickFacts, Carver, Cass and Chisago Counties",
+   "url": "https://www.census.gov/quickfacts/fact/table/carvercountyminnesota,casscountyminnesota,chisagocountyminnesota/PST045224"
+  },
+  {
+   "title": "Carver County, Minnesota (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Carver_County,_Minnesota"
+  }
+ ]
+}
