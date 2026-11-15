@@ -1,0 +1,61 @@
+{
+ "slug": "tennessee-eviction-notice",
+ "sections": [
+  {
+   "h2": "Which eviction notice does a Tennessee landlord have to give?",
+   "html": "<p>It depends on the county and the reason. Tennessee Courts judicial academy materials on <a href=\"https://old.tncourts.gov/sites/default/files/docs/landlordtenant_-_presentation_0.pdf\">landlord tenant evictions</a> split the state into counties under the Uniform Residential Landlord and Tenant Act (URLTA) and every other county, which falls under Tennessee Code Annotated 66-7-101 and following.</p><table><thead><tr><th>Where the rental sits</th><th>Notices listed</th></tr></thead><tbody><tr><td>URLTA county</td><td>Fourteen day, seven day for repeat violations, three day for violence, threats or unsanitary conditions</td></tr><tr><td>Any other county</td><td>14 day, 30 day, 3 day</td></tr></tbody></table><p>Source: Tennessee Courts judicial academy presentation. The slides also note that a waiver of notice for nonpayment is possible in URLTA counties, so read the lease before drafting the notice.</p>"
+  },
+  {
+   "h2": "Which Tennessee counties follow the URLTA?",
+   "html": "<p>The same presentation lists nineteen counties: Anderson, Blount, Bradley, Davidson, Greene, Hamilton, Knox, Madison, Maury, Montgomery, Putnam, Rutherford, Sevier, Shelby, Sullivan, Sumner, Washington, Williamson and Wilson. A rental in Nashville, Memphis, Knoxville or Chattanooga lands in a URLTA county. A rental in a county outside that list uses the shorter set of rules in Title 66, Chapter 7.</p><p>In non-URLTA counties the presentation says only four statutes actually apply: Section 109 on termination of tenancy, Section 110 on tenants with disabilities, Section 111 on service and support animals, and Section 112 on domestic abuse. The county list was current when the slides were prepared, so ask the clerk of the general sessions court in your county to confirm before you serve a notice.</p>"
+  },
+  {
+   "h2": "What extra rules apply to rent in a URLTA county?",
+   "html": "<p>URLTA gives tenants a five day grace period, and Sundays and legal holidays do not count toward it. The maximum late fee is 10 percent. The act also covers security deposits, abandonment, essential services and the duties of both landlord and tenant.</p><ul><li>Fourteen day notice for most breaches.</li><li>Seven day notice for repeat violations.</li><li>Three day notice for violence, threats or unsanitary conditions.</li></ul><p>A landlord who plans to sell an occupied rental should count the grace period before announcing a default, because a notice served too early can be thrown out and restart the clock.</p>"
+  },
+  {
+   "h2": "How does a detainer warrant move through general sessions court?",
+   "html": "<p>Eviction starts with a detainer warrant filed in general sessions court. The presentation lists three types under Tennessee Code Annotated: forcible entry and detainer (29-18-102), forcible detainer (29-18-103) and unlawful detainer (29-18-104). The written notice matters in court, because the owner must rely on the reasons in the notice, and new misconduct after the notice calls for another notice.</p><p>Service rules shape what the judge can award. Personal service supports a money judgment. Service on an adult found in possession, service on a contractually named party, or posting can support possession only. For posting, the officer must attempt personal service on three different dates, record the attempts on the warrant, post a copy on the door and mail it, with the posting at least six days before the hearing.</p>"
+  },
+  {
+   "h2": "How long can the hearing be delayed and when can the tenant appeal?",
+   "html": "<p>A continuance is capped at 15 days unless the parties agree, the landlord consents or no court is being held. After judgment, a defendant may appeal within ten days under 29-18-129, giving bond, or seek certiorari and supersedeas in circuit court within thirty days. The certiorari route requires a meritorious reason and a bond covering costs, damages and the rent for the premises during the litigation.</p><ul><li>When judgment goes to the plaintiff and a writ of possession is awarded, it is executed and the plaintiff restored to possession immediately.</li><li>If the defendant appeals without posting the bond for one year of rent, the landlord does not have to post a bond to obtain possession.</li><li>If the defendant does post and the landlord must also post, the landlord's bond is double the value of one year's rent.</li></ul><p>A landlord also earns interest on the judgment from the date of judgment if the tenant's appeal fails.</p>"
+  },
+  {
+   "h2": "What changes when the tenant is in subsidized housing or a domestic abuse survivor?",
+   "html": "<p>Subsidized leases bring in a third party. The presentation names HUD, THDA and Rural Development as sources, describes a three way agreement among landlord, HUD and tenant, and says the tenancy addendum controls if the lease conflicts with it. Notice requirements for a subsidized unit can differ from state law, so the owner needs written notice that fits both sets of rules.</p><p>Domestic abuse has its own protections in both URLTA and non-URLTA counties. If domestic abuse is the underlying offense for ending a tenancy, only the perpetrator may be evicted, and victims, minor children and innocent occupants may not be. A tenant who is a domestic abuse, sexual assault or stalking victim can ask in writing for release from the lease, with a release date agreed within 30 days and a copy of a valid order of protection or documents of a criminal charge.</p>"
+  },
+  {
+   "h2": "How does an eviction affect selling a Tennessee rental house?",
+   "html": "<p>An open detainer case, a recent notice and a tenant who may appeal all affect timing. A buyer who is financing may need vacant possession by closing, while an investor may accept the house with the tenant in place. The court's own materials make clear that only the writ of possession returns the property to the owner, so a sale contract that depends on vacancy needs a date that accounts for the ten day appeal window.</p><p>Bring the lease, every notice, the detainer warrant and the judgment to your title company or closing attorney. Ask the general sessions clerk in the county for the case status before you accept a closing date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days of notice must a Tennessee landlord give?",
+   "a": "It depends on the county and the reason. The Tennessee Courts presentation lists fourteen, seven and three day notices in URLTA counties, and 14, 30 and 3 day notices elsewhere. Check the lease and the notice type for your county."
+  },
+  {
+   "q": "Which Tennessee counties follow the URLTA?",
+   "a": "The judicial academy slides list nineteen: Anderson, Blount, Bradley, Davidson, Greene, Hamilton, Knox, Madison, Maury, Montgomery, Putnam, Rutherford, Sevier, Shelby, Sullivan, Sumner, Washington, Williamson and Wilson."
+  },
+  {
+   "q": "Does the tenant get a grace period?",
+   "a": "In URLTA counties, yes. Tenants have five days, and Sundays and legal holidays do not count. The maximum late fee is 10 percent."
+  },
+  {
+   "q": "How fast can a landlord regain possession after winning?",
+   "a": "Immediately once a writ of possession is awarded and executed. The defendant can still appeal within ten days or seek certiorari within thirty days, and the bond rules decide whether the landlord must wait."
+  },
+  {
+   "q": "Can a landlord evict a domestic abuse victim?",
+   "a": "No, when domestic abuse is the underlying offense. Only the perpetrator may be evicted, and the landlord may not evict victims, minor children or innocent occupants."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Tennessee Courts, Landlord Tenant Update (judicial academy presentation)",
+   "url": "https://old.tncourts.gov/sites/default/files/docs/landlordtenant_-_presentation_0.pdf"
+  }
+ ]
+}
