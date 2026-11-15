@@ -19,7 +19,11 @@
   },
   {
    "h2": "What happens to unpaid property tax in Grand Traverse County?",
-   "html": "<p>Unpaid taxes become delinquent on March 1 of the year after they were billed, and payment moves from the township or city treasurer to the County Treasurer. Between July 1 and the end of February, current bills go to the local treasurer.</p>\n<p>The county adds a 4% administration fee and interest of 1% per month. After one year the property is forfeited, interest rises to 1.5% per month retroactive to the delinquency date, and a $175 title search fee and notice fees are added. Another year later, on March 31, the property is foreclosed. The county says foreclosure is final and the owner cannot get the property back.</p>\n<ul>\n<li>Partial payments are accepted and reduce the interest that keeps building.</li>\n<li>At least five notices go out: two by first class mail, two by certified mail, and one by personal service.</li>\n<li>An owner who loses a property that sells for more than the debt must file a Notice of Claim by July 1 and then a court motion for the surplus.</li>\n</ul>\n<p>The Treasurer's FAQ also warns that a mortgage company can miss a payment, especially after a refinance, and that Michigan law still holds the owner responsible.</p>"
+   "html": "<p>Unpaid taxes become delinquent on March 1 of the year after they were billed, and payment moves from the township or city treasurer to the County Treasurer. Between July 1 and the end of February, current bills go to the local treasurer.</p>\n<p>The county adds a 4% administration fee and interest of 1% per month. After one year the property is forfeited, interest rises to 1.5% per month retroactive to the delinquency date, and a $175 title search fee and notice fees are added. Another year later, on March 31, the property is foreclosed. The county says foreclosure is final and the owner cannot get the property back.</p>\n<ul>\n<li>Partial payments are accepted and reduce the interest that keeps building.</li>\n<li>At least five notices go out: two by first class mail, two by certified mail, and one by personal service.</li>\n<li>If a foreclosed property sells for more than the debt, the former owner files a Notice of Claim no later than July 1 and a court motion the following February to ask for the surplus.</li>\n</ul>\n<p>The Treasurer's FAQ also warns that a mortgage company can miss a payment, especially after a refinance, and that Michigan law still holds the owner responsible.</p>"
+  },
+  {
+   "h2": "What must a deed show before the Grand Traverse County register will record it?",
+   "html": "<p>Michigan's recording statute, MCL 565.201, sets the form of the paper, and the register can turn away a document that misses it. A deed headed for the Grand Traverse County office should meet each of these points.</p>\n<ul>\n<li>Original signatures, with each signer's name typed or printed beneath the signature and matching the notary's acknowledgment.</li>\n<li>The grantee's street or post office address and the name and business address of whoever drafted the deed.</li>\n<li>Legible black ink in 10 point type or larger on white 20 pound paper, between 8.5 by 11 and 8.5 by 14 inches.</li>\n<li>A blank top margin of 2.5 inches on the first page, half an inch elsewhere, and one statement on the first page naming the recordable event.</li>\n<li>All but the last four digits of any Social Security number removed.</li>\n</ul>\n<p>A deed signed in Michigan also needs an acknowledgment by a judge, a court clerk or a notary public in the state. When the document depends on a survivor, a certified death certificate must be recorded first or filed with it as a separate document.</p>"
   },
   {
    "h2": "What are the Grand Traverse County housing numbers?",
@@ -36,8 +40,8 @@
    "a": "$8.60 per $1,000 of value rounded up to the next $500, split into $7.50 state and $1.10 county. A $110,500 price, for example, owes $950.30."
   },
   {
-   "q": "Does Grand Traverse County accept electronic recording?",
-   "a": "The county's own fee page does not describe e-recording, so ask the Register of Deeds before relying on it. Mailed documents need a return envelope or $3.00 for postage and handling."
+   "q": "Can I mail a deed to the Grand Traverse County Register of Deeds?",
+   "a": "Yes. Send the document with a check payable to Register of Deeds or GTROD for the fees, and add a self addressed stamped envelope or $3.00 for postage and handling so the recorded original comes back."
   },
   {
    "q": "When do unpaid taxes go to the Grand Traverse County Treasurer?",
@@ -84,6 +88,10 @@
   {
    "title": "MCL 211.135",
    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-135"
+  },
+  {
+   "title": "Hillsdale County recording requirements summarizing MCL 565.201",
+   "url": "https://co.hillsdale.mi.us/index.php/tm-gov/m-deeds/a-hillsdale-co-deeds-req"
   },
   {
    "title": "Census QuickFacts Grand Traverse County, Michigan",

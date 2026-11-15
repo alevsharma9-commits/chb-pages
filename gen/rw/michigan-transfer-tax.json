@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What does Michigan charge in transfer tax when a house sells?",
-   "html": "<p>Two separate levies apply to a deed given for money. The state levy is $3.75 on every $500 of value, rounded up for any leftover amount (MCL 207.525(1)). The county levy is 55 cents on the same $500 step in a county under 2,000,000 residents, and a county at or above that size may authorize up to 75 cents (MCL 207.504).</p>\n<p>Stacked together, an ordinary Michigan county collects $8.60 for every $1,000 of price. Rounding works against the seller at the edges: a price of $200,000.01 lands in the next $500 bracket, which is why county charts list every bracket in turn.</p>\n<p>The tax is collected when a deed or sales contract for consideration is recorded. The paper must show the total real property value on its face, or an affidavit with that value must ride along. In a sale that mixes land with furniture or equipment, only the real property is taxed, and only if the two values are stated separately.</p>"
+   "html": "<p>A deed given for money triggers two separate levies. Michigan takes $3.75 for each $500 step of value, and any leftover amount counts as a full step (MCL 207.525(1)). The county adds 55 cents on that same step where it has fewer than two million people. Only the largest counties may authorize more, up to 75 cents (MCL 207.504).</p>\n<p>Together the ordinary pair comes to $8.60 on each $1,000 of price. The step rule bites at the edges. A house that closes at $250,000 sits on exactly 500 steps, while $250,001 pushes it to 501 and adds $4.30. County charts print every bracket in turn for this reason.</p>\n<p>Recording is the trigger. The deed or sale contract must display the total real property value, or carry an affidavit that does. When a sale bundles land with furnishings or equipment, only the real property is taxed, and only when the instrument lists the two values apart.</p>"
   },
   {
    "h2": "What is the seller's bill at common sale prices?",
@@ -11,49 +11,57 @@
   },
   {
    "h2": "Who ends up paying at the closing table?",
-   "html": "<p>The statute puts liability for the state tax on the seller, or grantor. MCL 207.523(2) says so in one line, and subsection (3) sets the payment window: 15 days from delivery of the deed, paid to the treasurer of the county where the land lies. A title agent normally deducts the amount from sale proceeds and remits it as part of recording.</p>\n<p>Nothing stops a purchase agreement from shifting the cost to the buyer. A buyer who pays on the seller's behalf can also ask for a refund if an exemption applied. Check the closing cost clause of your contract and request an itemized settlement statement before signing. A seller who later decides the sale qualified for an exemption can apply to the Department of Treasury under MCL 207.523(4).</p>"
+   "html": "<p>The seller, called the grantor in the statute, owes the state tax. That is the plain text of MCL 207.523(2). Subsection (3) gives fifteen days from the day the deed reaches the buyer, with payment going to the treasurer in whichever county holds the parcel. Closing agents usually withhold the amount from the seller's proceeds.</p>\n<p>A purchase agreement may assign the cost to the buyer instead. Whoever paid can request a refund from the Department of Treasury when the sale turns out to have qualified for an exemption, and subsection (4) reaches back four years. Read the cost clause in your contract and ask for an itemized settlement statement before you sign.</p>"
   },
   {
    "h2": "Which sales escape the state tax?",
-   "html": "<p>Section 6 of the state act, MCL 207.526, runs through nearly two dozen exemptions. These come up most for homeowners:</p>\n<ul>\n<li>A deed backed by less than $100 of consideration.</li>\n<li>A gift deed from a parent to a son, daughter, stepchild or adopted child, or on to a grandchild or step-grandchild.</li>\n<li>A corrective deed, including a quitclaim, that only confirms title the grantee already holds.</li>\n<li>A transfer made through foreclosure or by deed in lieu, though the lender's later resale is taxed.</li>\n<li>A court order or judgment that names no price.</li>\n<li>A land contract under which legal title stays with the seller until the price is fully paid.</li>\n<li>A deed that creates a joint tenancy when one of the joint owners already holds the property.</li>\n</ul>\n<p>Leases, security instruments, and spousal deeds that make or end a tenancy by the entireties also fall outside the tax.</p>"
+   "html": "<p>Section 6 of the state act, MCL 207.526, runs through nearly two dozen exemptions. These come up most for homeowners:</p>\n<ul>\n<li>A deed where the stated consideration is below $100.</li>\n<li>A family deed running from a parent down to a son, daughter, stepchild, adopted child or grandchild.</li>\n<li>A quitclaim or other corrective deed that merely confirms title already vested in the grantee.</li>\n<li>A foreclosure transfer or deed in lieu, with the lender's own resale taxed later.</li>\n<li>A court judgment or order that sets no price.</li>\n<li>A land contract that keeps legal title with the seller until the price is paid in full.</li>\n<li>A deed forming a joint tenancy in which at least one joint owner already held the property.</li>\n</ul>\n<p>Leases, security instruments, and spousal deeds that make or end a tenancy by the entireties also fall outside the tax.</p>"
   },
   {
    "h2": "Does the county tax follow the same list?",
-   "html": "<p>Its list is shorter. MCL 207.505 exempts papers under $100, leases, security instruments, interests taxed as personal property, court judgments without a stated price, boundary line fixes, title confirmations, qualifying land contracts, mineral rights and certain joint tenancies. It has no entry for a gift to a child or grandchild, and it lacks the broad foreclosure exemption the state act contains.</p>\n<p>That difference deserves a call before a parent deeds a house to a son or daughter for nominal money. Ask the county's recording office how it treats the particular deed.</p>"
+   "html": "<p>The county act is shorter. MCL 207.505 covers papers under $100, leases, security instruments, personal property interests, price-free court orders, boundary line fixes, title confirmations, qualifying land contracts, mineral rights and certain joint tenancies. It has no line for a deed to a child or grandchild and no general foreclosure exemption, though it does exempt foreclosures on government-backed loans.</p>\n<p>A parent planning to deed a house to a daughter or son for token money should phone the county's recording office first and describe the exact deed.</p>"
+  },
+  {
+   "h2": "What would a median-priced house owe in Midland and Monroe counties?",
+   "html": "<p>Census figures put the median owner-occupied value for 2020 to 2024 at $195,400 in Midland County and $228,900 in Monroe County. Treating those as sale prices and counting the $500 steps gives these results:</p>\n<ul>\n<li>Midland County at $195,400: 391 steps, with $1,466.25 to the state and $215.05 to the county, for $1,681.30.</li>\n<li>Monroe County at $228,900: 458 steps, with $1,717.50 to the state and $251.90 to the county, for $1,969.40.</li>\n</ul>\n<p>The gap of roughly $288 between the two comes from the higher Monroe County price alone, because both counties levy the standard 55 cents. Local recorders confirm the final figure at the counter, and the title agent usually quotes it earlier.</p>"
   },
   {
    "h2": "Does the deed have to show the price?",
-   "html": "<p>Not necessarily. MCL 207.525(2) lets the parties attach an affidavit stating the total value in place of printing a price on the deed, and Treasury prescribes the form. Midland County's recording page makes the same point: a Real Estate Transfer Tax Valuation Affidavit permits the price to be omitted.</p>\n<p>Either route still produces a figure for the tax computation, and that figure later reaches the assessor through the buyer's transfer affidavit. Keep the deed, the affidavit and the settlement statement consistent.</p>"
+   "html": "<p>Not always. Under MCL 207.525(2), an affidavit of total value can replace the printed price, using a form that Treasury prescribes. Midland County's recording page notes that a Real Estate Transfer Tax Valuation Affidavit lets the figure stay off the deed.</p>\n<p>Both routes still produce a number for the tax math, and that number later reaches the assessor on the buyer's transfer affidavit. The deed, the affidavit and the settlement statement should all agree.</p>"
   },
   {
    "h2": "Is a land contract sale taxed differently?",
-   "html": "<p>While legal title remains with the seller, a land contract is exempt from both layers of transfer tax. For property tax purposes it still counts as a transfer of ownership under MCL 211.27a(6)(b): taxable value resets for the calendar year after signing and does not reset a second time when the deed finally records.</p>\n<p>A seller carrying a contract with a warranty clause should ask the treasurer's office about a tax certificate, since that kind of instrument cannot record without one.</p>"
+   "html": "<p>Both transfer taxes skip a land contract while legal title stays with the seller. Property tax law sees it differently. MCL 211.27a(6)(b) treats the contract itself as a transfer of ownership, so taxable value resets the calendar year after signing and stays put when the deed finally records.</p>\n<p>If the contract carries a warranty clause, ask the treasurer's office for a tax certificate, because recording requires one.</p>"
+  },
+  {
+   "h2": "How big is the recording side next to the tax?",
+   "html": "<p>Small. On a $250,000 sale the transfer tax is $2,150, against a $30 recording charge. A warranty deed also needs a tax certificate from the treasurer, which costs $5 for up to five legal descriptions in both Midland County and Monroe County. Beyond five, Midland adds $1.00 per description and Monroe adds $0.20.</p>\n<p>The tax certificate and the transfer tax both go to the treasurer, so a seller with several parcels, such as a house plus an adjoining lot, should line up the descriptions early. Each extra description changes the certificate cost, and the combined value still sets the transfer tax.</p>"
   },
   {
    "h2": "What fees apply when the deed is recorded?",
-   "html": "<p>Recording costs $30 per document under MCL 600.2567, however many pages it has. Five of those dollars feed the automation fund, and the remonumentation charge is built in. Assigning or discharging more than one instrument adds $3 for each extra, copies are $1 a page, and certification is $5. A charter county may set its own schedule by ordinance, so verify the amount locally.</p>\n<p>After closing, the buyer has 45 days to give the local assessor a transfer notice under MCL 211.27a(10), and the new owner's taxable value resets the following year.</p>"
+   "html": "<p>MCL 600.2567 sets the recording charge at $30 per document, with no page count. Five dollars of it is routed to the automation fund. Documents that assign or discharge several instruments add $3 per extra, a plain copy runs $1 a page, and certifying one costs $5. Charter counties can adopt their own schedules by ordinance, so verify the figure locally.</p>\n<p>Once the sale closes, the buyer has 45 days to send the local assessor the notice described in MCL 211.27a(10).</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the state portion of Michigan's real estate transfer tax?",
-   "a": "The state portion is $3.75 for each $500 of value or fraction of $500 under MCL 207.525(1), equal to $7.50 per $1,000."
+   "q": "Which rate does the state apply?",
+   "a": "$3.75 for each $500 of value, rounded up for a partial step. That is $7.50 per $1,000 of price, set by MCL 207.525(1)."
   },
   {
-   "q": "What does the county add on top of that?",
-   "a": "Fifty-five cents per $500, or $1.10 per $1,000, in a county with under 2,000,000 residents. A county of 2,000,000 or more may authorize up to 75 cents under MCL 207.504."
+   "q": "What does a typical county charge?",
+   "a": "A county with fewer than two million people charges 55 cents per $500, or $1.10 per $1,000. A larger county may authorize up to 75 cents under MCL 207.504."
   },
   {
-   "q": "Will a deed from a parent to a child avoid the tax?",
-   "a": "The state tax exempts a conveyance from an individual to a child, stepchild, adopted child or grandchild under MCL 207.526(j) and (k). The county act has no matching entry, so ask the county recording office before relying on it."
+   "q": "Is a deed from a parent to a child taxed?",
+   "a": "The state tax exempts a conveyance from an individual to a child, stepchild, adopted child or grandchild under MCL 207.526(j) and (k). The county act has no matching entry, so confirm with the county's recording office before relying on it."
   },
   {
-   "q": "Does a foreclosure deed carry transfer tax?",
-   "a": "The state act exempts a deed given in foreclosure or in lieu of foreclosure. A later resale by the foreclosing entity is taxed. Confirm the county side with the local recording office."
+   "q": "Do foreclosure deeds carry the tax?",
+   "a": "The state act exempts a deed given in foreclosure or in lieu of foreclosure, though a later resale by the foreclosing entity is taxed. The county act is narrower, so confirm locally."
   },
   {
-   "q": "What does recording a deed cost statewide?",
-   "a": "The statutory fee is $30 per document, whatever the page count, under MCL 600.2567. A charter county can adopt a different schedule, and extra instrument references cost $3 each."
+   "q": "What is the flat recording charge for a deed?",
+   "a": "$30 per document under MCL 600.2567, whatever the page count. Charter counties may set a different schedule, and each extra instrument assigned or discharged adds $3."
   }
  ],
  "sources": [

@@ -1,0 +1,68 @@
+{
+  "slug": "kent-county-mi-register-of-deeds",
+  "sections": [
+    {
+      "h2": "Where do you record a deed in Kent County, Michigan?",
+      "html": "<p>Deeds for Kent County land are recorded at the Register of Deeds office downtown in the County Administration Building, 300 Monroe Avenue NW, Grand Rapids. The office records deeds, mortgages, land contracts, liens and other papers that affect real property, and it takes them under the Michigan Recording Act.</p><p>The office is careful about what it will not do. It does not supply blank deeds and it does not advise on how to prepare one. For a change of ownership, the county suggests an attorney who knows Michigan real property law, a title company, or a blank deed you complete yourself, and it warns that deeds found online may not meet recording requirements.</p>"
+    },
+    {
+      "h2": "What does recording cost at the Kent County Register of Deeds?",
+      "html": "<p>The base fee is $30 per document, and it has been in place since October 1, 2016. That covers a deed, mortgage, lis pendens, certified copy or other instrument. The same fee schedule lists the add-ons you are most likely to meet when a house changes hands:</p><ul><li>A discharge or assignment that covers more than one instrument adds $3 for each additional instrument, with a limit of 25 per document.</li><li>Tax certification, required on warranty deeds, land contracts and deeds with a covenant of warranty, costs $5 per deed for up to 25 parcels and 25 cents per extra parcel. Make that check payable to the Kent County Treasurer.</li><li>Copies cost $1 per page, a records search has a $5 minimum, and certification is $5 per document.</li><li>Payment is cash, check or money order, with checks payable to the Kent County Register of Deeds.</li></ul><p>Electronic filers pay the statutory recording fee to the county, and any e-recording vendor can add its own processing fee on top.</p>"
+    },
+    {
+      "h2": "How much is the transfer tax on a Kent County sale?",
+      "html": "<p>The county charges $1.10 per thousand dollars of consideration and the state charges $7.50 per thousand, which together come to $8.60 per $1,000. Both rates come from state statute: the county tax is 55 cents per $500 under MCL 207.504, and the state tax is $3.75 per $500 under MCL 207.525.</p><table><caption>Transfer tax on sample Kent County sale prices at the posted rates</caption><thead><tr><th>Sale price</th><th>County tax</th><th>State tax</th><th>Total</th></tr></thead><tbody><tr><td>$150,000</td><td>$165</td><td>$1,125</td><td>$1,290</td></tr><tr><td>$290,000</td><td>$319</td><td>$2,175</td><td>$2,494</td></tr><tr><td>$400,000</td><td>$440</td><td>$3,000</td><td>$3,440</td></tr></tbody></table><p>The $290,000 row sits close to the Census median value of an owner-occupied home in the county, $289,900. The statute taxes each $500 or fraction of $500, so an odd price rounds the count up. There is no transfer tax on mortgages in Michigan.</p>"
+    },
+    {
+      "h2": "Who pays the transfer tax, and what has to appear on the deed?",
+      "html": "<p>The tax falls on the seller or grantor. The deed has to state the total consideration for the property, or an affidavit attached to it can give the value, and the Register of Deeds charges nothing to file the Real Estate Transfer Valuation Affidavit as long as the instrument says one is being filed.</p><p>An exemption only works if it is stated on the face of the deed. The state act exempts, among others, a sale under $100, a conveyance from an owner to a child, stepchild or grandchild, a transfer given in foreclosure or in lieu of foreclosure of a mortgage, a land contract where title has not yet passed, and a court order that carries no stated price (MCL 207.526). A deed that crosses county lines must split the price between the counties, and stamps are bought only in the county where the land lies.</p>"
+    },
+    {
+      "h2": "Can you get any of the state transfer tax back?",
+      "html": "<p>Possibly, for a seller who held a principal residence exemption and sold at a price close to the property's earlier assessed value. MCL 207.526(u) exempts a conveyance of property that carried the principal residence exemption when the state equalized value is no higher than the value set at the first tax day after the home was built or acquired, and the sale was an arm's-length price.</p><p>Kent County's transfer tax page lists what a refund claim needs: the state refund application, copies of the recorded deeds showing the transfer tax stamp and proof of the sales price, and proof of the SEV from the local municipality. Copies of deeds come from the online deed search or from the office itself.</p>"
+    },
+    {
+      "h2": "Can a deed be recorded electronically in Kent County?",
+      "html": "<p>Yes, through approved e-recording vendors, within a fixed window. Kent County accepts and processes electronic documents between 8 am and 5 pm Monday through Friday, excluding county holidays, and takes payment by ACH under its agreements with the vendors.</p><p>The county can reject an electronic submission that breaks the Michigan Recording Act or the state's e-recording standards, and a submitter who repeatedly breaks the standards can lose the right to file. Documents come back to the submitter in electronic form. Title companies and closing offices use this route most often, which is why an individual seller rarely deals with it directly.</p>"
+    },
+    {
+      "h2": "What should a Kent County seller do before the deed is recorded?",
+      "html": "<p>Settle the property tax first, because the register of deeds cannot take a warranty deed without a treasurer's certificate. MCL 211.135 requires a certificate of no tax liens and proof that taxes for the five years before the deed have been paid. Delinquent tax is therefore paid off at or before closing, and the Kent County Treasurer can quote a payoff.</p><p>Also confirm the names on the deed match the owners of record. If you do not know who owns a parcel, the Register of Deeds suggests the county Equalization Department or the local assessor, who can give the name on the tax roll, which may differ from the owner. With that name you can search the recorded documents. After recording, the buyer has 45 days to give the local assessor the transfer notice under MCL 211.27a.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does the Kent County Register of Deeds charge to record a deed?",
+      "a": "The charge is $30 per document under the fee schedule effective October 1, 2016. A warranty deed also needs a $5 tax certification from the county treasurer, and e-recording vendors may add their own processing fee."
+    },
+    {
+      "q": "What is the transfer tax rate in Kent County?",
+      "a": "The combined rate is $8.60 per $1,000 of price: $1.10 for the county and $7.50 for the state. On a $250,000 sale that works out to $2,150, and the seller owes it unless an exemption is written on the deed."
+    },
+    {
+      "q": "Does the Kent County Register of Deeds help write a deed?",
+      "a": "No. The office does not supply blank deeds or offer advice on preparing them. It points people to a Michigan real property attorney, a title company, or a self-completed blank deed that meets recording rules."
+    },
+    {
+      "q": "Can I record a deed in Kent County without paying delinquent taxes?",
+      "a": "Not a warranty deed. State law requires a treasurer's certificate that taxes for the previous five years are paid. A quitclaim deed with no covenants of warranty is excepted from that certificate rule."
+    },
+    {
+      "q": "How do I get a certified copy of a recorded Kent County deed?",
+      "a": "Ask the Register of Deeds in person, by letter, or through its online document search. Copies cost $1 per page, certification is $5 per document, and a records search carries a $5 minimum."
+    }
+  ],
+  "sources": [
+    {"title": "Kent County Register of Deeds", "url": "https://www.kentcountymi.gov/848/Register-of-Deeds"},
+    {"title": "Kent County Register of Deeds Fee Schedule", "url": "https://www.kentcountymi.gov/851/Fee-Schedule"},
+    {"title": "Kent County Real Estate Transfer Tax", "url": "https://www.kentcountymi.gov/855/Real-Estate-Transfer-Tax"},
+    {"title": "Kent County E-Recording Documents", "url": "https://www.kentcountymi.gov/850/E-Recording-Documents"},
+    {"title": "MCL 207.504", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"},
+    {"title": "MCL 207.525", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"},
+    {"title": "MCL 207.526", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"},
+    {"title": "MCL 207.505", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"},
+    {"title": "MCL 211.135", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-135"},
+    {"title": "MCL 211.27a", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"},
+    {"title": "Census QuickFacts, Kent County", "url": "https://www.census.gov/quickfacts/fact/table/kentcountymichigan/PST045224"}
+  ]
+}
