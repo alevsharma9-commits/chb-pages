@@ -4,7 +4,7 @@ from common import *
 R=os.path.join(os.path.dirname(__file__),'..'); H='/home/claude/chb/'
 FS=json.load(open(H+'pa_fact_sheet.json'))['topics']; CITIES=json.load(open(H+'pa_cities.json'))
 CP=json.load(open(H+'pa_city_ptax.json')); CT={**json.load(open(H+'pa_cty_A.json')),**json.load(open(H+'pa_cty_B.json'))}
-BAD=re.compile(r'excerpt|not opened|not confirmed|not stated|unconfirmed|http|phone',re.I)
+BAD=re.compile(r'ncpub|lasncaster|luzernecountytaxclaim|schuylkillcountytaxclaim|alleghenycountytreasurer|fayette\.pa\.us|excerpt|not opened|not confirmed|not stated|unconfirmed|http|phone',re.I)
 def ns(c): return re.sub(r'[^a-z0-9]+','-',c.lower().replace('.','').replace("'",'')).strip('-')
 def n(x): return f"{x:,}"
 def L(u,t): return f"<a href='{u}' target='_blank' rel='noreferrer noopener nofollow'>{esc(t)}</a>"
