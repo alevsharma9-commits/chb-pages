@@ -1,0 +1,109 @@
+{
+ "slug": "arizona-tax-lien",
+ "sections": [
+  {
+   "h2": "When does a property tax lien attach to an Arizona house?",
+   "html": "<p>The lien attaches on January 1 of the tax year, long before any bill arrives. Under <a href=\"https://www.azleg.gov/ars/42/17153.htm\">A.R.S. 42-17153</a>, a tax levied on real property is a lien on the property itself, so it follows the house and not the person who owns it.</p><p>That timing matters when you sell. A buyer, or a buyer's title company, inherits the lien on the parcel whether or not the current-year bill has gone out yet. Taxes for the year of sale are a closing item even though they are not yet due.</p>"
+  },
+  {
+   "h2": "Where does the tax lien rank against a mortgage?",
+   "html": "<p>The tax lien ranks ahead of nearly everything else recorded against the house. The statute makes it prior and superior to all other liens and encumbrances, with two exceptions: liens held by the state, and liens for taxes of other years.</p><p>So a first mortgage, a second mortgage, a judgment lien and a contractor's lien all sit behind it. A lender who sees a delinquent parcel often pays the tax to protect its own position, which then shows up in your loan balance. Three facts follow from the statute:</p><ul><li>The lien is not satisfied until the taxes, penalties, charges and interest are paid, or until title finally vests in a purchaser under a sale for taxes, or until a certificate of removal and abatement is issued.</li><li>Selling the house does not erase it. The payoff has to come out of the sale proceeds.</li><li>Taxes from older years and from the current year can stack, and each year keeps its own lien.</li></ul>"
+  },
+  {
+   "h2": "What are the Arizona property tax due dates and delinquency dates?",
+   "html": "<p>Arizona splits the annual bill into two halves. Under <a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a>, the first half is due October 1 and the second half is due the following March 1.</p><p>A half becomes delinquent only after a later cutoff, and both cutoffs are at 5:00 p.m. If a delinquency date lands on a weekend or legal holiday, the cutoff moves to 5:00 p.m. on the next business day.</p><table><thead><tr><th>Item</th><th>Date or amount</th></tr></thead><tbody><tr><td>First half due</td><td>October 1</td></tr><tr><td>First half delinquent after</td><td>November 1, 5:00 p.m.</td></tr><tr><td>Second half due</td><td>March 1 of the next year</td></tr><tr><td>Second half delinquent after</td><td>May 1, 5:00 p.m.</td></tr><tr><td>Bills of $100 or less</td><td>All due October 1, delinquent after December 31 at 5:00 p.m.</td></tr><tr><td>Interest rate on delinquent tax</td><td>16 percent a year, simple</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How much interest does a delinquent Arizona tax bill collect?",
+   "html": "<p>Delinquent taxes bear simple interest at 16 percent a year from the time of delinquency until they are paid. <a href=\"https://www.azleg.gov/ars/42/18053.htm\">Section 42-18053</a> adds that a fraction of a month counts as a whole month.</p><p>As arithmetic, 16 percent simple works out to about 1.33 percent for each month. An unpaid $1,000 half-bill would add roughly $160 over a full year, and a part month is charged as a full one. The interest runs on the tax, not on a growing balance, which is what simple means.</p><p>The statute lists exceptions. Interest is not collected if the delinquency came from an error by the county assessor or treasurer. It is also not collected when the full year's tax is paid on or before December 31 of the tax year.</p><p>There is one more relief valve for owners who paid off a loan. With approval from the county board of supervisors, the treasurer may waive interest and other penalties for a delinquency that occurs within one year after a mortgage or deed of trust is satisfied or released. A taxpayer can receive that waiver only once per property.</p>"
+  },
+  {
+   "h2": "What happens after taxes stay unpaid in Arizona?",
+   "html": "<p>The county treasurer sells the lien itself at an auction held in February, and the owner keeps title for now. <a href=\"https://www.azleg.gov/ars/42/18101.htm\">Section 42-18101</a> directs the treasurer to secure unpaid delinquent taxes by selling the tax liens and, later, foreclosing the right to redeem.</p><p>The steps run in a fixed order:</p><ol><li>By December 31 each year, the treasurer prepares a list of real property with unpaid, delinquent taxes from prior years, and a notice that a tax lien on each parcel will be sold at public auction (A.R.S. 42-18106).</li><li>The notice names the owner, the parcel number, the tax years that are delinquent, and the taxes, penalties, interest and charges.</li><li>The treasurer posts the list at the office door for at least two weeks before the sale begins, and publishes it once in a county newspaper two to three weeks before the start date (A.R.S. 42-18109).</li><li>The treasurer mails a copy of the notice to the owner of each listed parcel at the last known address (A.R.S. 42-18108).</li><li>The sale is held in February (A.R.S. 42-18112).</li></ol><p>A rule on timing also exists: a sale for unpaid tax generally cannot start later than five years after delinquency unless it was advertised within that period (A.R.S. 42-18105).</p>"
+  },
+  {
+   "h2": "Who buys the lien, and what does the owner owe afterward?",
+   "html": "<p>Investors buy the lien, and the bidder who accepts the lowest interest rate wins. <a href=\"https://www.azleg.gov/ars/42/18114.htm\">Section 42-18114</a> says the purchaser pays the whole amount of delinquent taxes, interest, penalties and charges, and offers the lowest rate on that amount, which may not exceed the statutory rate. Interest at the bid rate starts on the first day of the month after the purchase.</p><p>This is a lien sale and not a deed sale. The owner still holds title and can still live in the house, rent it or list it. What changes is the cost of getting clear. To redeem, a person pays the treasurer the sale amount with interest at the certificate rate, later taxes the purchaser paid with interest, and statutory fees the purchaser paid, excluding the processing fee (<a href=\"https://www.azleg.gov/ars/42/18153.htm\">A.R.S. 42-18153</a>).</p>"
+  },
+  {
+   "h2": "What does a redemption certificate cost and where is it recorded?",
+   "html": "<p>The treasurer charges $10 for a full redemption when no partial payments were made. Under <a href=\"https://www.azleg.gov/ars/42/18154.htm\">A.R.S. 42-18154</a>, the treasurer issues a certificate of redemption once the right to redeem is established and the amount is paid, and the holder may record that certificate with the county recorder.</p><p>A recorded certificate is useful paper in a sale. It shows the buyer's title company that the lien sale was cleared. The statute also allows a $5 fee for the first and last partial payment, but partial payments apply to a county with a population above three million, so most rural owners will not use them.</p>"
+  },
+  {
+   "h2": "How does a delinquent tax lien affect selling a house for cash?",
+   "html": "<p>A delinquent lien slows a retail sale but does not stop a sale to a cash buyer who prices it in. The unpaid tax, the interest and any lien-sale redemption amount are all deducted from what the seller receives at closing.</p><p>Practical points for an Arizona owner with a delinquent parcel:</p><ul><li>Ask the county treasurer for the current payoff before you pick a closing date, since interest adds a whole month for any part of a month.</li><li>Check whether the lien was already sold at the February auction. If it was, the payoff is a redemption amount and not just back taxes.</li><li>Check older years. Other years' tax liens survive alongside the current one.</li><li>Keep the notice you received. A defect in notice can matter, though the statute says an insubstantial failure to comply does not invalidate the lien or the sale.</li></ul><p>If the house also needs repairs or has a tenant, a buyer who purchases as-is can fold the tax payoff into the closing statement so you do not have to find cash first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When does the Arizona tax lien start?",
+   "a": "It attaches on January 1 of the tax year, under A.R.S. 42-17153. The bill comes later, but the lien exists from that first day."
+  },
+  {
+   "q": "What is the interest rate on late property tax in Arizona?",
+   "a": "The rate is 16 percent a year, simple, from the time of delinquency, and any part of a month counts as a full month. Interest is not collected if the full year's tax is paid by December 31 of the tax year, or if the delinquency came from a county error."
+  },
+  {
+   "q": "Does the tax lien come before my mortgage?",
+   "a": "Yes. It is prior and superior to all other liens and encumbrances, except state liens and liens for taxes of other years."
+  },
+  {
+   "q": "How can a delinquent Arizona owner get interest waived?",
+   "a": "The treasurer may waive interest and penalties with board of supervisors approval, but only for a delinquency in the year after a mortgage or deed of trust was satisfied or released, and only once per property."
+  },
+  {
+   "q": "Can I sell my Arizona house if the county sold the tax lien?",
+   "a": "Yes. You still hold title after a lien sale. The redemption amount is paid from the proceeds at closing, and the treasurer issues a certificate of redemption that can be recorded."
+  }
+ ],
+ "sources": [
+  {
+   "title": "A.R.S. 42-17153, Lien for taxes",
+   "url": "https://www.azleg.gov/ars/42/17153.htm"
+  },
+  {
+   "title": "A.R.S. 42-18052, Due dates and times; delinquency",
+   "url": "https://www.azleg.gov/ars/42/18052.htm"
+  },
+  {
+   "title": "A.R.S. 42-18053, Interest on delinquent taxes",
+   "url": "https://www.azleg.gov/ars/42/18053.htm"
+  },
+  {
+   "title": "A.R.S. 42-18101, Sale and foreclosure of tax liens",
+   "url": "https://www.azleg.gov/ars/42/18101.htm"
+  },
+  {
+   "title": "A.R.S. 42-18105, Limitation on sale for unpaid tax",
+   "url": "https://www.azleg.gov/ars/42/18105.htm"
+  },
+  {
+   "title": "A.R.S. 42-18106, Delinquent tax list and notice of sale",
+   "url": "https://www.azleg.gov/ars/42/18106.htm"
+  },
+  {
+   "title": "A.R.S. 42-18108, Personal notice of proposed sale",
+   "url": "https://www.azleg.gov/ars/42/18108.htm"
+  },
+  {
+   "title": "A.R.S. 42-18109, Publication and posting of list and notice",
+   "url": "https://www.azleg.gov/ars/42/18109.htm"
+  },
+  {
+   "title": "A.R.S. 42-18112, Time of sale",
+   "url": "https://www.azleg.gov/ars/42/18112.htm"
+  },
+  {
+   "title": "A.R.S. 42-18114, Successful purchaser",
+   "url": "https://www.azleg.gov/ars/42/18114.htm"
+  },
+  {
+   "title": "A.R.S. 42-18153, Amount required for redemption",
+   "url": "https://www.azleg.gov/ars/42/18153.htm"
+  },
+  {
+   "title": "A.R.S. 42-18154, Certificate of redemption",
+   "url": "https://www.azleg.gov/ars/42/18154.htm"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "slug": "arizona-tax-sale",
+ "sections": [
+  {
+   "h2": "How does an Arizona tax sale work?",
+   "html": "<p>Arizona holds a tax lien sale first, and a deed only follows if the lien is never redeemed. The county treasurer sells the lien on delinquent real property at public auction in February, and the buyer receives a certificate of purchase and not the house.</p><p>The owner keeps title, the right to live there and the right to sell. The sale simply puts an investor in line to collect interest, and later to sue for the property if nobody redeems. That two-stage design gives an owner more time than many people expect, but the clock does run.</p>"
+  },
+  {
+   "h2": "What stages does an Arizona tax sale go through?",
+   "html": "<p>There are four stages from first delinquency to a possible deed. Each stage has its own statute, and each is a point where you can step in.</p><table><thead><tr><th>Stage</th><th>What happens</th><th>Statute</th></tr></thead><tbody><tr><td>Delinquency</td><td>Taxes unpaid after the November 1 or May 1 cutoff at 5:00 p.m.</td><td>42-18052</td></tr><tr><td>Lien sale</td><td>Treasurer sells the lien at auction in February</td><td>42-18112</td></tr><tr><td>Redemption window</td><td>Owner or others may redeem any time within three years, and after that until a treasurer's deed is delivered</td><td>42-18152</td></tr><tr><td>Foreclosure suit</td><td>Lien holder sues in superior court to foreclose the right to redeem</td><td>42-18201</td></tr></tbody></table><p>The statutes are published by the Arizona Legislature, and the table above reads straight from them.</p>"
+  },
+  {
+   "h2": "Who can bid, and how is the winner picked?",
+   "html": "<p>The winning bidder pays the whole delinquent amount and offers the lowest interest rate. <a href=\"https://www.azleg.gov/ars/42/18114.htm\">Section 42-18114</a> says the rate may not exceed the cap computed under section 42-18053, and interest at the bid rate runs from the first day of the month after the purchase.</p><p>Bidding down the rate is the opposite of an ordinary auction. A lower bid beats a higher one, so heavily contested parcels can end up paying the investor very little interest. The treasurer continues the sale from day to day, excluding Sundays and holidays, until each parcel has been offered and no more bids come in (<a href=\"https://www.azleg.gov/ars/42/18112.htm\">A.R.S. 42-18112</a>).</p>"
+  },
+  {
+   "h2": "How long does an owner have to redeem after the lien is sold?",
+   "html": "<p>The owner can redeem within three years of the sale date, and after that until the treasurer delivers a deed. <a href=\"https://www.azleg.gov/ars/42/18152.htm\">Section 42-18152</a> states both periods.</p><p>Redemption costs three things, set out in <a href=\"https://www.azleg.gov/ars/42/18153.htm\">42-18153</a>:</p><ul><li>The amount the lien sold for, with interest at the rate on the certificate of purchase.</li><li>Taxes that accrued after the sale and were paid by the purchaser, with interest at the same rate.</li><li>Statutory fees the purchaser paid in connection with the certificate, excluding the processing fee.</li></ul><p>The treasurer then issues a certificate of redemption, and the holder may record it with the county recorder.</p>"
+  },
+  {
+   "h2": "When can the lien buyer sue to take the house?",
+   "html": "<p>No earlier than three years after the sale, and no later than ten years after the last day of the month in which the lien was acquired. <a href=\"https://www.azleg.gov/ars/42/18201.htm\">Section 42-18201</a> lets the purchaser, or the state if it holds the lien, file an action to foreclose the right to redeem.</p><p>The suit goes in the superior court of the county where the property sits and must name the county treasurer as a party. If a law or court order prohibits filing, the deadline extends by twelve months after that prohibition ends.</p><p>This is the stage where an owner stops being able to wait. Papers served in a foreclosure action should be read the day they arrive, and an owner can still redeem by paying the redemption amount until a judgment ends the right.</p>"
+  },
+  {
+   "h2": "What is an excess proceeds sale in Arizona?",
+   "html": "<p>It is a court-ordered sale of the house when the property is worth enough above the lien amounts that the owner's equity deserves protection. Under <a href=\"https://www.azleg.gov/ars/42/18204.htm\">A.R.S. 42-18204</a>, the court finds a sale reasonable if the likely sale price is more than $2,500 above the total owed to the lien holder.</p><p>Either side can ask for the finding. The lien holder reports its costs, the lien amount with 16 percent interest from the date of sale, and fees. The owner provides a reasonable estimate of market value. If the request is granted, the court orders a sale and sets an opening bid, and the owner's interest in the excess proceeds survives.</p><p>If the court finds no reasonable excess sale, it enters judgment foreclosing the right to redeem and directs the treasurer to deliver a deed to the party who won. After that judgment, the former owner has no further right, title or interest in the property, subject to appeal. Easements and certain assessment liens are not extinguished.</p>"
+  },
+  {
+   "h2": "What notice will an Arizona owner receive before the sale?",
+   "html": "<p>The treasurer must mail a copy of the notice of proposed sale to the owner at the last known address (<a href=\"https://www.azleg.gov/ars/42/18108.htm\">A.R.S. 42-18108</a>). That makes an outdated mailing address a real risk for inherited homes and rentals.</p><p>The notice also appears in two public places. The list is posted at the treasurer's office door for at least two weeks before the sale starts, and published once in a county newspaper two to three weeks before the start date. If the treasurer misses a minor step, the statute says an insubstantial failure to comply does not invalidate the sale."
+  },
+  {
+   "h2": "Can I sell my Arizona house before the tax sale or after it?",
+   "html": "<p>Yes, at either point, because the owner keeps title until a deed is delivered. Selling before the February auction means the delinquent taxes and interest are paid from the proceeds. Selling after the lien sale means the redemption amount is paid instead.</p><p>Points to settle before closing:</p><ul><li>Get the treasurer's payoff figure in writing and check for older tax years, since liens for other years survive.</li><li>Ask whether a certificate of purchase exists and who holds it.</li><li>Confirm that no foreclosure action is already pending in superior court.</li><li>Expect the deed to carry an exemption note or an affidavit of property value, and expect a recording fee of $30 per instrument under A.R.S. 11-475.</li></ul><p>A buyer who pays cash and takes the house as-is can often close faster than a financed buyer, since there is no lender appraisal to wait for.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Arizona sell the house at a tax sale?",
+   "a": "Not at the first stage. The county sells the tax lien, and the owner keeps the house. A deed follows only if the lien holder wins a foreclosure of the right to redeem."
+  },
+  {
+   "q": "How long do I have to redeem an Arizona tax lien?",
+   "a": "Three years after the lien sale, and after that until the treasurer delivers a deed to the certificate holder. Redemption is paid to the county treasurer."
+  },
+  {
+   "q": "Can an investor sue right away after buying the lien?",
+   "a": "No. A foreclosure action can start no earlier than three years after the sale, and it must be filed within ten years after the month the lien was acquired."
+  },
+  {
+   "q": "What happens if my house is worth much more than the tax debt?",
+   "a": "Either side can ask the court for an excess proceeds sale. The court treats it as reasonable if the likely price is more than $2,500 above what the lien holder is owed, and the owner's interest in the excess survives."
+  },
+  {
+   "q": "What interest does the lien holder charge?",
+   "a": "The lien accrues interest at the rate bid at auction, which cannot exceed the 16 percent statutory cap. In a foreclosure action, the lien holder's amounts are figured at 16 percent a year from the date of sale."
+  },
+  {
+   "q": "Where do I record a certificate of redemption?",
+   "a": "At the county recorder's office in the county where the property is located. Recording it is optional but helps a title company see the lien was cleared."
+  }
+ ],
+ "sources": [
+  {
+   "title": "A.R.S. 42-18052, Due dates and times; delinquency",
+   "url": "https://www.azleg.gov/ars/42/18052.htm"
+  },
+  {
+   "title": "A.R.S. 42-18053, Interest on delinquent taxes",
+   "url": "https://www.azleg.gov/ars/42/18053.htm"
+  },
+  {
+   "title": "A.R.S. 42-18101, Sale and foreclosure of tax liens",
+   "url": "https://www.azleg.gov/ars/42/18101.htm"
+  },
+  {
+   "title": "A.R.S. 42-18108, Personal notice of proposed sale",
+   "url": "https://www.azleg.gov/ars/42/18108.htm"
+  },
+  {
+   "title": "A.R.S. 42-18109, Publication and posting",
+   "url": "https://www.azleg.gov/ars/42/18109.htm"
+  },
+  {
+   "title": "A.R.S. 42-18112, Time of sale",
+   "url": "https://www.azleg.gov/ars/42/18112.htm"
+  },
+  {
+   "title": "A.R.S. 42-18114, Successful purchaser",
+   "url": "https://www.azleg.gov/ars/42/18114.htm"
+  },
+  {
+   "title": "A.R.S. 42-18152, When lien may be fully redeemed",
+   "url": "https://www.azleg.gov/ars/42/18152.htm"
+  },
+  {
+   "title": "A.R.S. 42-18153, Amount required for redemption",
+   "url": "https://www.azleg.gov/ars/42/18153.htm"
+  },
+  {
+   "title": "A.R.S. 42-18154, Certificate of redemption",
+   "url": "https://www.azleg.gov/ars/42/18154.htm"
+  },
+  {
+   "title": "A.R.S. 42-18201, Action to foreclose right to redeem",
+   "url": "https://www.azleg.gov/ars/42/18201.htm"
+  },
+  {
+   "title": "A.R.S. 42-18204, Judgment foreclosing right to redeem",
+   "url": "https://www.azleg.gov/ars/42/18204.htm"
+  },
+  {
+   "title": "A.R.S. 11-475, Recorder fees",
+   "url": "https://www.azleg.gov/ars/11/00475.htm"
+  }
+ ]
+}
