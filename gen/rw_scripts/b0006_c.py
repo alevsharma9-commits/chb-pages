@@ -1,0 +1,63 @@
+import sys
+exec(open('/home/claude/chb-pages/gen/rw_scripts/common.py').read())
+ab={"slug":"sell-my-house-fast-aberdeen-sd","sections":[
+{"h2":"Where is Aberdeen, South Dakota, and how is it laid out?","html":
+"<p>Aberdeen is in northeastern South Dakota in the James River valley, about 11 miles west of the river. It is the seat of Brown County and, according to the Aberdeen Development Corporation, the third largest city in the state behind Sioux Falls and Rapid City.</p>"
+"<p>The Census Bureau lists the city at 16.652 square miles, and Moccasin Creek, a slow-moving waterway, runs through it. The city was plotted as a town site on January 3, 1881 by a Milwaukee Road railroad official and was officially founded on July 6, 1881, the day the first Milwaukee Road train arrived. The railroad's president, Alexander Mitchell, who was born in Aberdeen, Scotland, chose the name.</p>"
+"<p>Sellers should know the numbers. The Census Bureau estimated 27,961 residents on July 1, 2025, down 1.8% from the 2020 base of 28,479, after a 2020 census count of 28,495. A slightly shrinking population means a smaller pool of local buyers, which is one reason owners look at a direct sale.</p>"
+"<table><thead><tr><th>Measure (Census QuickFacts)</th><th>Aberdeen</th></tr></thead><tbody>"
+"<tr><td>Population, July 1, 2025 estimate</td><td>27,961</td></tr>"
+"<tr><td>Households, 2020-2024</td><td>12,469</td></tr>"
+"<tr><td>Owner-occupied housing rate, 2020-2024</td><td>61.7%</td></tr>"
+"<tr><td>Median value of owner-occupied homes</td><td>$217,300</td></tr>"
+"<tr><td>Median monthly owner cost with a mortgage</td><td>$1,524</td></tr>"
+"<tr><td>Median monthly owner cost without a mortgage</td><td>$584</td></tr>"
+"<tr><td>Median gross rent</td><td>$762</td></tr>"
+"<tr><td>Median household income</td><td>$64,405</td></tr>"
+"<tr><td>Mean commute</td><td>11.9 minutes</td></tr>"
+"</tbody></table>"},
+{"h2":"What does the Aberdeen economy look like?","html":
+"<p>Health care, education and a diverse mix of small employers anchor Aberdeen. The Aberdeen Development Corporation says the city is a hub for health care with two major hospital systems, Avera St. Luke's and Sanford Health, and that the Aberdeen metro area ranks 9th of 542 small cities for industry diversity.</p>"
+"<p>Northern State University sits in the middle of town with more than 3,500 students, and the corporation reports a regional connection to more than 2,600 students at Lake Area Technical College. About 300 bachelor's degree graduates a year enter the workforce, and the development group puts the regional population at 41,971 with a labor force of 22,036 as of August 2023.</p>"
+"<p>The Census Bureau's economic figures show where the money is. In 2022 Aberdeen reported $402.3 million in health care and social assistance receipts and $839.9 million in retail sales. For house sellers, the university and hospitals create steady rental demand, while retail and grain-region jobs tie the market to a smaller region than Sioux Falls.</p>"},
+{"h2":"How cold does Aberdeen get, and what does that mean for a house?","html":
+"<p>Aberdeen has a humid continental climate with hot summers and cold, dry winters. January's average daily temperature is 12.8 degrees Fahrenheit and July's is 72.3 degrees, and the city sees 38 days a year with lows below zero and 16 days of 90 degree highs.</p>"
+"<p>Snowfall totals about 42 inches and precipitation about 21.8 inches a year, mostly in the warmer months. Records run from minus 46 in 1912 to 115 degrees in 1936, and a reading of minus 42 as recently as January 15, 2009.</p>"
+"<ul><li>A furnace failure in an empty house is a real risk during a cold snap, so winter vacancies need heat.</li><li>Roof and gutter condition matter after heavy snow.</li><li>Cold swings can show up in basement walls and foundations, which a buyer's inspector will ask about.</li></ul>"
+"<p>The city also noted a November ice storm that left branches down across town, and in April 2023 it ran a one-week curbside pickup for limbs under six inches. If a storm left your yard damaged, a cash buyer does not need it cleaned up first.</p>"},
+{"h2":"How do roads, transit and schools affect an Aberdeen sale?","html":
+"<p>Two U.S. highways meet the city: US 281 and US 12, which is signed as 6th Avenue South through town, and US 281 was moved onto a bypass around the west side. Aberdeen Regional Airport has Delta Connection flights to Minneapolis-St. Paul, and Jefferson Lines buses connect to Sioux Falls, Fargo and Minneapolis.</p>"
+"<p>Ride Line Transportation Services gives demand-response service, and Aberdeen is described as the largest city in South Dakota without fixed-route transit. The Census Bureau puts the mean commute at 11.9 minutes, so location inside the city matters less than a drive time would elsewhere.</p>"
+"<p>The Aberdeen School District serves the city, with Central High School and Holgate and Simmons middle schools, and parochial options include Roncalli High School. Buyers with children often ask which elementary zone applies, so check the district for a specific address before you advertise it.</p>"},
+{"h2":"Which Brown County offices matter when you sell an Aberdeen house?","html":
+"<p>Aberdeen houses are taxed and recorded through Brown County. The Treasurer is at 25 Market St., Suite 2, Aberdeen, SD 57401, phone (605) 626-7133, open 8 a.m. to 5 p.m. on weekdays, and no title transfers are started after 4:45 p.m. The Treasurer collects property tax for the county, the city, the school districts and any other taxing district, and also administers tax aid for low-income and elderly families.</p>"
+"<p>The Register of Deeds records deeds, mortgages, satisfactions, easements and similar documents, and its land records go back to the early 1870s. The office does not give legal opinions, so it refers people to an abstractor, a title company or an attorney.</p>"
+"<ul><li>The state transfer fee is $0.50 per $500 of value under SDCL 43-4-21, and it applies when there is consideration.</li>"
+"<li>Taxes are paid in two halves, and under SDCL 10-21-23 the first half is delinquent on May 1 and the second on November 1 if unpaid.</li>"
+"<li>Owner-occupied status is claimed by March 15 with the Director of Equalization, and the home must be owned and occupied on November 1.</li></ul>"
+"<p>The state's formula applies in Aberdeen like everywhere else: assessed at market value, taxed on 85% of it, and billed at the combined levy of the county, the city and the school district.</p>"},
+{"h2":"How do I appeal an Aberdeen property assessment?","html":
+"<p>Appeals follow the state calendar, and Brown County published its 2026 dates. Assessment notices were due to be mailed by March 1, 2026, and a township informational meeting was set for March 10.</p>"
+"<table><thead><tr><th>Step</th><th>2026 date</th></tr></thead><tbody>"
+"<tr><td>Notice of appeal to the local board of equalization</td><td>March 12</td></tr>"
+"<tr><td>Local boards meet</td><td>March 16 to 23</td></tr>"
+"<tr><td>Notice of appeal to the county board</td><td>April 7</td></tr>"
+"<tr><td>County board in session</td><td>April 14 to May 5</td></tr>"
+"<tr><td>Written notice to Office of Hearing Examiners</td><td>May 15</td></tr>"
+"</tbody></table>"
+"<p>A circuit court appeal from the county board or the hearing examiners must be filed within 30 days. State law also says that if a board is considering adding omitted property or raising an assessment, it must notify the owner of the time and place so the owner can appear or send written proof.</p>"},
+{"h2":"What city rules could affect an Aberdeen seller?","html":
+"<p>Aberdeen's Nuisance Vacant Building rules are the main thing to check if a house is empty. In April 2023 the city council took up an ordinance declaring certain vacant buildings a public nuisance and creating a registration program, with responsibilities, enforcement and penalties for owners. Aberdeen's published fee schedule lists a $1,000 annual fee for a new nuisance vacant building registration.</p>"
+"<p>The city also lists Building Inspection, Code Enforcement and a Residential Contractor Board among its departments. Before you sell an empty inherited house, call the city to ask whether it has been flagged, and ask what repairs would be needed to remove a flag.</p>"
+"<ul><li>Empty houses can draw code enforcement attention.</li><li>An inherited or tenant-occupied house can be sold as-is to a cash buyer.</li><li>A title company will confirm whether any city charges attach to the property before closing.</li></ul>"
+"<p>We buy Aberdeen houses as-is, with no commission, repairs or closing costs to you, and we reply with a written offer you can compare against listing the house.</p>"},
+],
+"faqs":[
+{"q":"How many people live in Aberdeen, SD?","a":"The Census Bureau estimated 27,961 residents on July 1, 2025, down 1.8% from the April 2020 estimate base of 28,479."},
+{"q":"What is the median home value in Aberdeen?","a":"The Census Bureau puts the median value of owner-occupied homes at $217,300 for 2020-2024, with 61.7% of homes owner-occupied."},
+{"q":"Which office do I call about Aberdeen property taxes?","a":"Call the Brown County Treasurer at (605) 626-7133, at 25 Market St., Suite 2. For a value question, contact the Brown County Director of Equalization."},
+{"q":"What is the South Dakota transfer fee when I sell?","a":"It is $0.50 per $500 of value, or $1.00 per $1,000, under SDCL 43-4-21, and it applies to a deed when there is consideration."},
+{"q":"Can I sell a vacant Aberdeen house as-is?","a":"Yes. Check with the city about the Nuisance Vacant Building registration first, then you can sell as-is to a cash buyer without repairs or showings."},
+],
+"sources":[S(("Aberdeen, South Dakota (Wikipedia)","https://en.wikipedia.org/wiki/Aberdeen,_South_Dakota")),S(("Census Bureau QuickFacts: Aberdeen city, South Dakota","https://www.census.gov/quickfacts/fact/table/aberdeencitysouthdakota/PST045224")),S(("Aberdeen Development Corporation: workforce and talent","https://adcsd.com/workforce-talent/")),S(("Brown County Treasurer","https://www.brown.sd.us/department/treasurer")),S(("Brown County Register of Deeds: recording real estate documents","http://www.brown.sd.us/department/register-deeds/recording-real-estate-documents")),S(("Brown County 2026 Assessment and Appeal Procedure","https://brown.sd.us/sites/default/files/2026-02/2026-Assessment-and-Appeal-Procedure.pdf")),S(("Aberdeen City Council minutes, April 24, 2023","https://www.aberdeen.sd.us/AgendaCenter/ViewFile/Minutes/_04242023-1110")),S(("Aberdeen 2024 fee schedule","https://www.aberdeen.sd.us/DocumentCenter/View/12918/ORD-23-12-04-2024-Fee-Schedule")),S(DOR_PT),S(DOR_GUIDE),S(SDCL),S(ROD_FEE)]}
+save(ab)

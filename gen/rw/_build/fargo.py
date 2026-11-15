@@ -1,0 +1,82 @@
+import json,re
+S=[]
+def a(h,x): S.append({"h2":h,"html":x})
+a("Where is Fargo and how is the city laid out?",
+"<p>Fargo is the seat of Cass County, North Dakota, and it sits on the western bank of the Red River of the North in the flat Red River Valley. The city covers about 50.8 square miles at an elevation of roughly 906 feet.</p>"
+"<p>Across the river is Moorhead, Minnesota, and the two cities together form the Fargo-Moorhead metro area. Interstates 29 and 94 cross in Fargo, and US 10, US 52 and US 81 also run through town. For a seller that matters in a plain way: a house on the Fargo side of the river is taxed under North Dakota rules, while a house in Moorhead falls under Minnesota law and a different county.</p>"
+"<p>The valley floor is the bed of Glacial Lake Agassiz, which drained about 9,300 years ago and left the land very level.</p>")
+a("What is the short history of Fargo?",
+"<p>Fargo was founded in 1871 and incorporated in 1874, and it was first called Centralia before being renamed for William Fargo, a Northern Pacific Railway director. The railroad drove early growth, and the town later became known as a gateway to the west.</p>"
+"<p>On June 7, 1893, a fire destroyed 31 downtown blocks. More than 246 buildings went up within a year, in brick, with new streets and a water system. Homes near downtown can therefore be a century old or more.</p>"
+"<p>The city has kept growing. Census counts run from 90,599 in 2000 to 105,549 in 2010 and 125,990 in 2020, with a 2024 estimate of 136,285.</p>")
+a("Who are the largest employers around Fargo?",
+"<p>Health care, education and retail dominate Fargo employment. The city's annual financial report, as summarized on Wikipedia, lists these as its largest employers by full-time equivalent staff.</p>"
+"<table><thead><tr><th>Employer</th><th>Full-time equivalents</th></tr></thead><tbody>"
+"<tr><td>Sanford Health</td><td>6,278</td></tr><tr><td>Essentia Health</td><td>2,848</td></tr><tr><td>West Fargo Public Schools</td><td>2,541</td></tr><tr><td>North Dakota State University</td><td>2,167</td></tr><tr><td>Fargo Public Schools</td><td>2,064</td></tr><tr><td>VA Health Care System</td><td>1,380</td></tr><tr><td>City of Fargo</td><td>1,125</td></tr></tbody></table>"
+"<p>North Dakota State University, founded in 1890, and the Tri-College University partnership with Minnesota State University Moorhead and Concordia College bring a large student population. Fargo Public Schools runs 15 elementary schools, 3 middle schools and 4 high schools, and West Fargo Public Schools serves the southwestern part of the city.</p>"
+"")
+a("What does Fargo weather mean for a house?",
+"<p>Fargo has a humid continental climate with long, hard winters, so heating costs, insulation and roof condition matter more here than in most of the country. January's normal mean is 9.2 degrees Fahrenheit, and the city sees about 43 days a year at or below zero.</p>"
+"<p>Average snowfall is 51.4 inches and average precipitation is 24.0 inches. Summers are warm and humid, with a July mean of 70.7 degrees.</p>"
+"<ul><li>Roof and attic insulation, which buyers and inspectors check first</li><li>Furnace age and capacity</li><li>Basement moisture and sump pump function</li><li>Window and door seals</li></ul>"
+"<p>A cash buyer prices these items in directly, so you do not negotiate repair requests after an inspection.</p>")
+a("How serious is Red River flooding in Fargo?",
+"<p>Flooding is the main natural hazard in Fargo. The Red River's minor flood stage here is 18 feet and major flooding begins at 30 feet.</p>"
+"<table><thead><tr><th>Year</th><th>Red River crest at Fargo</th></tr></thead><tbody><tr><td>1997</td><td>39.5 feet</td></tr><tr><td>2009</td><td>40.84 feet (record)</td></tr><tr><td>2010</td><td>37 feet</td></tr></tbody></table>"
+"<p>As of 2012 the city had bought 700 houses in flood-prone areas, and residents sandbagged in 2009. The FM Area Diversion is the large permanent project meant to protect the metro area. The Metro Flood Diversion Authority says construction began in 2017 with a target of 2027, and its status page, updated in November 2026, shows the City of Fargo's portion at 90 percent while the Cass County portion shows 5 percent.</p>"
+"<p>If your home sits in a flood-prone part of town, say so early. Buyers will ask about it, and the price will reflect it.</p>")
+a("Who bills and collects property tax in Fargo?",
+"<p>The City of Fargo assessor values your home, and Cass County sends the bill and collects the money. The assessor appraises property as of February 1 each year and does not set the tax rate.</p>"
+"<p>Rates come from the budgets of each taxing body. Elected city and county commissioners and school and park board members set what they need, and the mill levy is that amount divided by total taxable value. Cass County mails real estate statements in early December to the owner of record as of November 1, and a mortgage company also gets a copy.</p>"
+"<p>The Cass County Finance Office takes payments at 211 9th Street South in Fargo, by mail, through a secure drop box, or online. The office phone is (701) 241-5600 for property tax questions.</p>")
+a("When is Fargo property tax due and what are the penalties?",
+"<p>Real estate tax in Cass County can be paid in full by February 15 for a 5 percent discount, or in two installments due March 1 and October 15. Special assessments and drain taxes ride with the first installment and do not get the discount.</p>"
+"<table><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody>"
+"<tr><td>February 15</td><td>Last day to pay in full and take the 5% discount</td></tr>"
+"<tr><td>March 1</td><td>First installment and specials due</td></tr>"
+"<tr><td>After March 1</td><td>3% penalty on first installment</td></tr>"
+"<tr><td>After May 1</td><td>6% total</td></tr>"
+"<tr><td>After July 1</td><td>9% total</td></tr>"
+"<tr><td>After October 15</td><td>12% total on the first installment; 6% on the second installment</td></tr></tbody></table>"
+"<p>If a deadline lands on a weekend or county holiday, it moves to the next business day. Mailed payments count if postmarked by the deadline. Older delinquent real estate tax also earns interest of 1 percent per month on Cass County's schedule.</p>"
+"<p>The penalty rules are in North Dakota Century Code section 57-20-01 and the discount is in section 57-20-09. Not receiving a statement does not extend the discount.</p>")
+a("What are special assessments and drain taxes on a Fargo tax bill?",
+"<p>Special assessments are charges for infrastructure that benefits specific parcels, and drain taxes fund water or drainage projects for specific parcels. Both appear on the county statement, and neither qualifies for the 5 percent discount.</p>"
+"<p>Cass County says a special assessment can be paid off at any time, and until then a yearly installment is billed. Some drain taxes are one-time balances and others are ongoing maintenance charges.</p>"
+"<p>When you sell, ask the title company to list every remaining special and drain balance. Buyers and lenders will want the payoff or a clear plan for who carries it.</p>")
+a("Which credits and exemptions might apply to a Fargo home?",
+"<p>Several state and city programs reduce a Fargo bill, and eligibility depends on the owner, not the buyer. The Cass County page lists the main ones.</p>"
+"<ul><li>Primary Residence Credit, up to $500 against 2024 taxes, applied for through the State Tax Commissioner</li><li>Homestead Credit for owners 65 or older or permanently and totally disabled</li><li>Disabled Veteran's Credit for a service-connected disability of 50 percent or more</li><li>Two-year new construction abatement that can reduce taxable true and full value by $150,000</li></ul>"
+"<p>The City of Fargo also offers a five-year exemption on value added by remodeling on buildings 25 years old or older. A renovation in an older Fargo house can therefore sit outside the tax base for a time, which is worth noting if you finished work before listing.</p>"
+"")
+a("What if I disagree with my Fargo assessment?",
+"<p>Start with the Fargo assessor, then use the board of equalization steps, which run in a set order each year. State rules give local boards the first 15 days of April, county boards the first 10 days of June, and the State Board of Equalization the second Tuesday in August.</p>"
+"<ul><li>The state board can only reduce a value if you appealed to both the local and county boards</li><li>Each owner receives a written notice showing true and full value for the current and previous year</li><li>If the boards do not resolve it, you can apply for abatement by November 1 of the year after the tax becomes payable</li></ul>"
+"<p>Bring evidence such as comparable sales, an appraisal or repair estimates. The assessor values by mass appraisal, so condition problems the office cannot see are your best argument.</p>")
+a("How does selling a Fargo house with tax due work?",
+"<p>You can sell a Fargo house with tax owing, and the unpaid amount is normally settled from the sale proceeds at closing. Cass County says current-year taxes must be paid in full before a deed can be recorded to transfer ownership.</p>"
+"<p>The title company reads the county's figures, adds any special assessments, and pays the county from your proceeds. North Dakota does not charge a deed or mortgage tax, according to the Grand Forks County Recorder's page, so recording costs are fees rather than a transfer tax.</p>"
+"<p>Cass County's delinquency calendar shows why waiting costs money. Statements of Taxes Owing go out in March, May, July and October, and Notices of Tax Lien go out in November. In May, certified Notices of Foreclosure of Tax Lien go to parcels with three years of unpaid taxes.</p>"
+"<p>If the debt is old, a quick sale can protect your equity. Our team can review the county balance with you and make a written offer on the house as it stands, with no repairs and no commissions.</p>")
+F=[("Who collects property tax in Fargo?","Cass County collects it. The City of Fargo Assessment Department sets the value, and the county Finance Office sends statements and takes payments at 211 9th Street South."),
+("When is Fargo property tax due?","Real estate tax is due in two installments on March 1 and October 15, or in full by February 15 for a 5 percent discount. Penalties begin after March 1 on the first installment."),
+("Can I sell my Fargo house if I owe back taxes?","Yes. Back taxes are paid from the proceeds at closing, and Cass County requires current-year taxes to be paid before a deed is recorded."),
+("Does North Dakota have a deed transfer tax?","No. The Grand Forks County Recorder states that North Dakota has no deed or mortgage tax, though recording fees still apply."),
+("What happens if Fargo property taxes stay unpaid for three years?","The county can start tax lien foreclosure. Cass County sends certified foreclosure notices each May for parcels with three years of unpaid taxes, and the owner can still pay up to October 1.")]
+src=[("Cass County ND Property Taxes","https://casscountynd.gov/property-taxes"),
+("Cass County ND Real Estate Property Taxes","https://www.casscountynd.gov/our-county/finance-office/property-taxes-real-estate"),
+("ND Tax Commissioner Property Tax Deadlines","https://www.tax.nd.gov/property-tax-deadlines"),
+("ND Tax Commissioner 2025 Property Tax Assessment Process","https://www.tax.nd.gov/sites/default/files/documents/property-tax/2025-property-tax-assessment-process.pdf"),
+("City of Fargo Assessment Process","https://fargond.gov/city-government/departments/assessors/assessment-process"),
+("City of Fargo Property Tax Exemptions and Credits","https://fargond.gov/city-government/departments/assessors/exemptions"),
+("North Dakota Century Code Chapter 57-20","https://ndlegis.gov/cencode/t57c20.pdf"),
+("Metro Flood Diversion Authority Construction Status","https://fmdiversion.gov/project-status-road-closures/construction-status/"),
+("Fargo, North Dakota (Wikipedia)","https://en.wikipedia.org/wiki/Fargo,_North_Dakota"),
+("Grand Forks County Recorders Office","https://www.gfcounty.nd.gov/government/recorders-office"),
+("Nolo: Unpaid Property Taxes in North Dakota","https://www.nolo.com/legal-encyclopedia/what-happens-if-i-don-t-pay-property-taxes-in-north-dakota.html")]
+def emit(slug,S,F,src):
+    t=lambda s:len(re.sub(r'\s+',' ',re.sub(r'<[^>]+>',' ',s)).split())
+    n=sum(t(s['html'])+t(s['h2']) for s in S)+sum(t(q)+t(x) for q,x in F)
+    json.dump({"slug":slug,"sections":S,"faqs":[{"q":q,"a":x} for q,x in F],"sources":[{"title":a,"url":b} for a,b in src]},open(f'/home/claude/chb-pages/gen/rw/{slug}.json','w'),indent=1)
+    print(slug,n,len(src))
+emit("fargo-nd-property-tax-guide",S,F,src)

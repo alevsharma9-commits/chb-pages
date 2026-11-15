@@ -1,0 +1,129 @@
+{
+ "slug": "new-hampshire-probate-process",
+ "sections": [
+  {
+   "h2": "Where does probate happen in New Hampshire?",
+   "html": "<p>New Hampshire probate runs through the Probate Division of the Circuit Court, with probate judges sitting in courthouses in each of the state's ten counties. The <a href=\"https://www.courts.nh.gov/our-courts/circuit-court/probate-division\">Probate Division</a> handles wills, trusts and estates, guardianships, adoptions, name changes, and equity matters such as partition and quiet title.</p>\n<p>Estates that began electronically are e-filed at every probate location. The court's single toll-free number for the Circuit Court is 1-855-212-1234. Contested matters can be sent to a free probate mediation program, which matters if heirs disagree about whether to keep or sell the house.</p>\n<p>The court supervises the estate, while the deed for any sale is recorded with the register of deeds in the county where the land lies.</p>"
+  },
+  {
+   "h2": "What are the main steps of a New Hampshire estate?",
+   "html": "<p>The court appoints an executor or administrator, who then inventories assets, pays debts, and distributes what is left. The Judicial Branch's <a href=\"https://www.courts.nh.gov/self-help/estates\">estates self-help page</a> points to its \"Administering an Estate\" booklet as the guide for fiduciaries.</p>\n<ul>\n<li>A will, if there is one, and an application for appointment are filed with the Probate Division.</li>\n<li>The fiduciary files an Inventory within 90 days after appointment, under RSA 554:1.</li>\n<li>Debts, funeral costs and administration expenses are paid in the order RSA 554:19 sets.</li>\n<li>The estate is closed by an accounting, a summary administration, or, for qualifying estates, a waiver of administration.</li>\n</ul>\n<p>The Judicial Branch also notes a publication fee for estates that require one. It was raised to $55 on December 28, 2021, so check the current fee when you file.</p>"
+  },
+  {
+   "h2": "What goes on the inventory when the estate owns a house?",
+   "html": "<p>Real estate is listed with its address, county, book and page from the Registry of Deeds, and an estimated value. The court's <a href=\"https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-07/prepareinventory.pdf\">inventory overview</a> says town tax records may be used as the estimate, an appraiser is not required unless the court orders one, and the amounts need not be exact.</p>\n<p>Values are as of the date of death, and jointly held property is not listed. If the estimate turns out to be significantly off, the fiduciary can file an amended inventory or correct it in the accounting. The total also matters because it can affect the bond the court has already set.</p>\n<p>If you plan to sell, a realistic value on the inventory helps later. A sale price far from the inventory figure invites questions from heirs and the court.</p>"
+  },
+  {
+   "h2": "Can an executor sell the house, and does the court have to approve?",
+   "html": "<p>An administrator needs a court license to sell real estate when the personal estate is not enough to pay debts and legacies. RSA 554:17 requires the administrator to apply for the license, and neglecting to do so is treated as maladministration and a breach of the bond.</p>\n<p>The court's <a href=\"https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2136-pe-motionandlicensetosellrealestatetopaydemands.pdf\">Motion and License to Sell Real Estate to Pay Debts</a> form shows how it works in practice. The fiduciary lists the property by county, book and page, totals the debts and assets, and states the shortfall.</p>\n<ul>\n<li>The motion asks to sell at public auction or private sale.</li>\n<li>A surviving spouse can assent to the sale, including the homestead right. If there is no spouse but minor children, a guardian of the minors consents.</li>\n<li>The order's license is valid for two years from the date of the order.</li>\n<li>A return of sale goes to the court within one year of the sale, and net proceeds are reported within 30 days of receipt.</li>\n</ul>\n<p>RSA 554:33 adds that no such license issues later than two years after the executor or administrator was appointed. If the estate has plenty of cash and the will gives the executor power to sell, the path can differ, so ask the court or an attorney which route fits.</p>"
+  },
+  {
+   "h2": "What is waiver of administration, and how does it help a seller?",
+   "html": "<p>Waiver of administration is a simplified process under RSA 553:32 that skips the inventory, the fiduciary bond and the accounting. The Judicial Branch explains it on its page, \"What is Waiver of Administration?\", and <a href=\"https://law.justia.com/codes/new-hampshire/title-lvi/chapter-553/section-553-32/\">Justia's copy of RSA 553:32</a> lists who qualifies.</p>\n<ul>\n<li>A will names one beneficiary who is appointed administrator, or all beneficiaries serve together, or a trust is the sole beneficiary.</li>\n<li>There is no will and one heir, including a surviving spouse, is appointed, or all heirs serve together or consent to an appropriate person.</li>\n<li>The court finds waiver appropriate.</li>\n</ul>\n<p>The administrator closes the estate by filing an affidavit of administration between 6 months and 1 year after appointment. The statute sets no value cap and does not exclude real estate, but the affidavit has to list all real estate the decedent owned at death, with its location, book and page. It also has to state that, to the administrator's knowledge, there are no outstanding debts.</p>\n<p>Waiver does not erase the duty to pay expenses and debts from estate assets. Any interested person may petition for full administration before the affidavit is filed.</p>"
+  },
+  {
+   "h2": "How long do creditors have to make claims against a New Hampshire estate?",
+   "html": "<p>The statute keeps creditors on a short clock once an administrator is appointed. Under RSA 556:1, no action can be sustained against an administrator within six months after the original grant of administration, and not unless the demand has been shown to the administrator. Under RSA 556:5, suit must begin within one year after the original grant, with exceptions where the administrator has retained estate in hand.</p>\n<table>\n<thead><tr><th>Item</th><th>Rule</th><th>Source</th></tr></thead>\n<tbody>\n<tr><td>Inventory</td><td>Within 90 days after appointment</td><td>RSA 554:1, court inventory overview</td></tr>\n<tr><td>Waiver affidavit</td><td>6 months to 1 year after appointment</td><td>RSA 553:32</td></tr>\n<tr><td>License to sell real estate</td><td>Not issued later than 2 years after appointment</td><td>RSA 554:33</td></tr>\n<tr><td>License validity</td><td>2 years from the order</td><td>Court form NHJB-2136-Pe</td></tr>\n<tr><td>Suit against administrator</td><td>Within 1 year of original grant</td><td>RSA 556:5</td></tr>\n<tr><td>Creditor action on real estate if no administration</td><td>Barred after 2 years from death</td><td>RSA 556:29</td></tr>\n</tbody>\n</table>\n<p>RSA 556:29 says that if no administration was granted within two years of the date of death, no creditor can afterward maintain an action to reach the real estate. The details are fact-specific, so ask an attorney before relying on it.</p>"
+  },
+  {
+   "h2": "Is there a New Hampshire inheritance or estate tax on the house?",
+   "html": "<p>No. The Department of Revenue Administration says the Legacy and Succession Tax was repealed for deaths on or after January 1, 2003, and that the New Hampshire estate tax return is not required for deaths on or after January 1, 2005. Details are on the <a href=\"https://www.revenue.nh.gov/taxes-glance/inheritance-estate-tax\">DRA inheritance and estate tax page</a>.</p>\n<p>The real estate transfer tax also has an exemption for inherited property. The DRA's <a href=\"https://www.revenue.nh.gov/resource-center/frequently-asked-questions/real-estate-transfer-tax\">transfer tax FAQ</a> lists transfers by devise, by intestate succession and descent, and by the death of a joint tenant as exceptions. A later sale to a buyer is a different matter. That sale is taxable at $.75 per $100 of the price, paid by both buyer and seller, and the DRA says each side buys stamps from the register of deeds in the county where the property is located.</p>"
+  },
+  {
+   "h2": "How does a fiduciary deed work when the estate sells?",
+   "html": "<p>The executor or administrator signs a fiduciary deed, which RSA 477:30 sets out in a statutory form. By signing, the fiduciary covenants that he or she was duly authorized to make the sale and followed the statute in doing so. The deed must be acknowledged, and it has to show the grantee's mailing address, under RSA 477:3.</p>\n<p>A cash buyer can often work around a slow estate because the sale is as-is and does not depend on a lender's appraisal. Even so, the court steps above still apply. We buy houses in New Hampshire from estates and can coordinate with your attorney on timing, and we do not give legal advice.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which court handles probate in New Hampshire?",
+   "a": "The Probate Division of the Circuit Court, with probate judges serving courthouses in each of the ten counties. It handles wills, trusts, estates, guardianships and related equity matters."
+  },
+  {
+   "q": "How soon after appointment must the inventory be filed?",
+   "a": "Within 90 days after appointment, under RSA 554:1. The inventory lists real estate with its county, book and page and an estimated fair market value, and town tax records may be used as the estimate."
+  },
+  {
+   "q": "Does an executor need court permission to sell inherited real estate?",
+   "a": "If the personal estate is not enough to pay debts and legacies, an administrator must apply for a license to sell under RSA 554:17. The court's license is valid for two years, and no license issues later than two years after appointment."
+  },
+  {
+   "q": "Is there a way to skip the inventory and accounting?",
+   "a": "Yes, in qualifying cases. Waiver of administration under RSA 553:32 skips the inventory, bond and accounting, and the estate closes with an affidavit filed between 6 months and 1 year after appointment."
+  },
+  {
+   "q": "Does New Hampshire have an inheritance tax?",
+   "a": "No. The Legacy and Succession Tax was repealed for deaths on or after January 1, 2003, and no estate tax return is required for deaths on or after January 1, 2005."
+  },
+  {
+   "q": "Is the transfer tax owed when heirs receive the house?",
+   "a": "No. Transfers by devise, intestate succession or the death of a joint tenant are exceptions to the real estate transfer tax. A later sale to a buyer is taxable at $.75 per $100, paid by each side."
+  },
+  {
+   "q": "Can heirs mediate a dispute over the house?",
+   "a": "Yes. The Probate Division has a mediation program in which probate-trained mediators can be assigned at no charge to the parties in contested matters."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NH Judicial Branch: Probate Division",
+   "url": "https://www.courts.nh.gov/our-courts/circuit-court/probate-division"
+  },
+  {
+   "title": "NH Judicial Branch: Estates self-help",
+   "url": "https://www.courts.nh.gov/self-help/estates"
+  },
+  {
+   "title": "NH Judicial Branch: Overview, Filing an Inventory",
+   "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-07/prepareinventory.pdf"
+  },
+  {
+   "title": "NH Judicial Branch: Motion and License to Sell Real Estate to Pay Demands",
+   "url": "https://www.courts.nh.gov/sites/g/files/ehbemt471/files/documents/2021-05/nhjb-2136-pe-motionandlicensetosellrealestatetopaydemands.pdf"
+  },
+  {
+   "title": "RSA 554:17 Sale of Real Estate",
+   "url": "https://gc.nh.gov/rsa/html/LVI/554/554-17.htm"
+  },
+  {
+   "title": "RSA 554:19 Priority of Charges (Justia)",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lvi/chapter-554/section-554-19/"
+  },
+  {
+   "title": "RSA 477:3 Execution",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-3.htm"
+  },
+  {
+   "title": "RSA 554:33 Issuance of License",
+   "url": "https://gc.nh.gov/rsa/html/LVI/554/554-33.htm"
+  },
+  {
+   "title": "RSA 553:32 Waiver of Administration (Justia)",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lvi/chapter-553/section-553-32/"
+  },
+  {
+   "title": "RSA 556:1 No Action Within Six Months (Justia)",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lvi/chapter-556/section-556-1/"
+  },
+  {
+   "title": "RSA 556:5 Suit Within One Year",
+   "url": "https://gc.nh.gov/rsa/html/LVI/556/556-5.htm"
+  },
+  {
+   "title": "RSA 556:29 Two-Year Limitation",
+   "url": "https://gc.nh.gov/rsa/html/LVI/556/556-29.htm"
+  },
+  {
+   "title": "RSA 477:30 Statutory Form of Fiduciary Deed",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-30.htm"
+  },
+  {
+   "title": "NH DRA: Inheritance and Estate Tax",
+   "url": "https://www.revenue.nh.gov/taxes-glance/inheritance-estate-tax"
+  },
+  {
+   "title": "NH DRA: Real Estate Transfer Tax FAQ",
+   "url": "https://www.revenue.nh.gov/resource-center/frequently-asked-questions/real-estate-transfer-tax"
+  }
+ ]
+}

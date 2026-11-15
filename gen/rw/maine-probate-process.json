@@ -1,0 +1,125 @@
+{
+ "slug": "maine-probate-process",
+ "sections": [
+  {
+   "h2": "How does probate work in Maine?",
+   "html": "<p>Maine probate is run by a county probate court, and the state has one in each of its 16 counties. The Maine Probate Court website says these courts handle the estates of deceased and missing persons, along with guardianships, trusts, name changes and adoptions. The first step is to file the appropriate forms in the county where the person lived at death.</p><p>The rules sit in the Maine Probate Code, Title 18-C of the Maine Revised Statutes. Most estates start with an application to the register of probate. Under <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-302.html\">18-C M.R.S. §3-302</a> the register issues a written statement of informal probate once at least 120 hours have passed since the death, and the statement is conclusive until a formal testacy proceeding replaces it.</p><p>Filing can be done electronically. The probate court site lists an e-filing fee of $7 and notes that filing fees, surcharges, publication and certified mail may add to the cost. The courts cannot give legal advice, so many families hire an attorney for anything beyond a simple estate.</p>"
+  },
+  {
+   "h2": "Who can be the personal representative of a Maine estate?",
+   "html": "<p>The person named in the will has first priority, and after that the order runs through the surviving spouse, other devisees, other heirs and then creditors. <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-203.html\">Section 3-203</a> sets the full list. Anyone who is 18 or older and has not been found unsuitable by the court in a formal proceeding is qualified.</p><ul><li>A will-named representative comes first, including a person nominated by a power in the will.</li><li>A surviving spouse who is also a devisee comes next, then other devisees, then the surviving spouse alone, then other heirs.</li><li>Forty-five days after death, a creditor may seek appointment. Six months after death, if nothing has been opened, the State Tax Assessor may apply.</li><li>A person entitled to letters can nominate someone else, and anyone can renounce in writing filed with the court.</li></ul><p>An objection to an appointment can be made only in a formal proceeding. If heirs cannot agree on who should serve, the house usually waits.</p>"
+  },
+  {
+   "h2": "Can the personal representative sell the house without a court order?",
+   "html": "<p>Usually yes. Under <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-711.html\">§3-711</a> a personal representative has the same power over title as an absolute owner would have, held in trust for creditors and others interested in the estate, and may use it without notice, hearing or court order except as the section limits.</p><p>The main limit is notice. The representative may not sell or transfer any interest in estate real property without giving notice at least 10 days before the sale to anyone succeeding to an interest in it, unless the will authorizes a sale without notice. <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-715.html\">Section 3-715</a> separately lets the representative sell, mortgage or lease any real or personal property of the estate for cash or credit, at public or private sale, unless the will or a formal-proceeding order says otherwise.</p><p>A cash sale fits that framework easily. The representative signs a purchase agreement, gives the 10-day notice to the heirs, and closes with a deed signed as personal representative. Check the will first, because a will can restrict or widen the power.</p>"
+  },
+  {
+   "h2": "Does Maine have a small estate shortcut, and does it cover real estate?",
+   "html": "<p>Maine has a small estate affidavit for personal property, but its title says it covers personal property only. <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-1201.html\">Section 3-1201</a> allows a successor to collect personal property by affidavit when the entire estate, less liens and encumbrances, does not exceed $40,000 adjusted for inflation, 30 days have passed since the death, and no petition for a personal representative is pending anywhere.</p><p>The 2025 amendment requires each county probate court to publish the current inflation-adjusted figure on its website each year. Because the section deals with debts owed to the decedent and personal property held by others, it does not by itself move title to a house. If a house is part of the estate, plan on a regular appointment of a personal representative.</p>"
+  },
+  {
+   "h2": "How long does a Maine estate stay open to creditors?",
+   "html": "<p>Claims are generally barred nine months after death, or earlier if notice is given. <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-803.html\">Section 3-803</a> says claims that arose before death are barred unless presented within the earlier of nine months after the death or the time allowed by the notice rules.</p><table><thead><tr><th>Step</th><th>Time limit</th><th>Statute</th></tr></thead><tbody><tr><td>Informal probate by the register</td><td>At least 120 hours after death</td><td>18-C §3-302</td></tr><tr><td>Small estate affidavit</td><td>30 days after death, estate under $40,000 (inflation adjusted)</td><td>18-C §3-1201</td></tr><tr><td>Notice to creditors by publication</td><td>Claims within 4 months of first publication, two weekly notices</td><td>18-C §3-801</td></tr><tr><td>Mailed notice to a known creditor</td><td>4 months after publication or 60 days after mailing, whichever is later</td><td>18-C §3-801</td></tr><tr><td>Claims arising before death</td><td>Earlier of 9 months or the notice period</td><td>18-C §3-803</td></tr><tr><td>Ultimate limit to open probate</td><td>3 years after death, with exceptions</td><td>18-C §3-108</td></tr></tbody></table><p>The representative publishes the notice once a week for two successive weeks in a newspaper of general circulation in the county where the person lived. Mortgages and other liens are not cut off by the claims bar, and the State can still pursue Medicaid reimbursement if it files within four months of notice.</p>"
+  },
+  {
+   "h2": "What deadlines should heirs know before the house is sold?",
+   "html": "<p>A probate proceeding cannot generally be opened more than three years after the death. <a href=\"https://legislature.maine.gov/statutes/18-C/title18-Csec3-108.html\">Section 3-108</a> sets that limit, with exceptions, including one that allows a late proceeding to confirm title if nothing happened in the first three years, though the representative then has limited authority and claims other than administration expenses cannot be presented.</p><p>A will contest against an informally probated will may be started within the later of 12 months from the informal probate or three years from the death.</p>"
+  },
+  {
+   "h2": "What taxes and fees apply when an estate sells a Maine house?",
+   "html": "<p>Maine's real estate transfer tax applies to a sale, but a deed of distribution is exempt. The rate under <a href=\"https://legislature.maine.gov/statutes/36/title36sec4641-A.html\">36 M.R.S. §4641-A</a> is $2.20 per $500 of value, split equally between buyer and seller, so a $300,000 sale generates $660 from each side. Section 4641-C exempts deeds of distribution under Title 18-C, deeds between a parent and child with no consideration, and transfers by transfer-on-death deed.</p><p>A deed of distribution moves the house to an heir. A deed from the personal representative to an outside buyer is a sale. The exemption list does not mention personal representatives who sell to a buyer, so confirm with the registry of deeds or an attorney how the deed should be written.</p><p>Property tax follows the April 1 rule in 36 M.R.S. §502. The estate owes the bill for whatever was owned on April 1, and a buyer and seller can prorate over the municipality's fiscal year under §558. Our <a href=\"/maine-property-tax-guide/\">Maine property tax guide</a> covers abatements and tax liens, and the <a href=\"/maine-homestead-exemption/\">homestead exemption page</a> explains why a vacant inherited house may lose the exemption.</p>"
+  },
+  {
+   "h2": "What problems do heirs run into with inherited Maine houses?",
+   "html": "<ul><li>Heirs disagree on who should serve or whether to sell. Objections to an appointment require a formal proceeding.</li><li>The house has unpaid property tax. Maine uses tax lien mortgages, and if a taxpayer dies with a probated will, a probate judge may allow up to 60 more days to redeem after the will is allowed or disallowed (36 M.R.S. §943).</li><li>Repairs are deferred and the house sits vacant. A representative may retain assets pending distribution and may make repairs, but spending the estate's cash needs a plan.</li><li>Out-of-state heirs. Electronic filing helps, and a representative can sell without every heir being present, once the 10-day notice is given.</li></ul><p>If the estate owns a house that needs work, a cash purchase lets the representative sell as-is, with no listing preparation. Cash Home Buyers makes offers on estate properties in Maine, and the representative still decides whether to accept. We do not quote a price before we review the house.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do all Maine estates have to go through probate?",
+   "a": "Not necessarily. Maine allows a small estate affidavit under 18-C M.R.S. §3-1201 when the whole estate is $40,000 or less (adjusted for inflation), but that section collects personal property and does not move title to a house. A house usually needs a personal representative."
+  },
+  {
+   "q": "Which court handles probate in Maine?",
+   "a": "The county probate court where the person lived. Maine has a probate court in each of its 16 counties, and filings can be made electronically."
+  },
+  {
+   "q": "Can a personal representative sell a house in Maine without court approval?",
+   "a": "Usually yes. Under §3-711 the representative has the same power over title as an absolute owner, but must give at least 10 days' notice to people succeeding to an interest unless the will waives it."
+  },
+  {
+   "q": "How long do creditors have to make claims against a Maine estate?",
+   "a": "Claims that arose before death are barred nine months after death, or earlier if the notice to creditors period ends first. Published notice gives creditors 4 months from first publication."
+  },
+  {
+   "q": "Is there a transfer tax when an estate sells a house in Maine?",
+   "a": "A sale is subject to the transfer tax of $2.20 per $500 of value, split between buyer and seller. Deeds of distribution under Title 18-C are exempt."
+  },
+  {
+   "q": "How long can I wait to open probate in Maine?",
+   "a": "Generally three years after death, with limited exceptions listed in §3-108. Waiting that long limits what the representative can do."
+  },
+  {
+   "q": "Who has priority to serve as personal representative?",
+   "a": "The person named in the will, then the surviving spouse who is a devisee, other devisees, the surviving spouse, other heirs, and later creditors and the State Tax Assessor under §3-203."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maine Probate Court (county courts overview, e-filing)",
+   "url": "https://www.maineprobate.net/welcome/"
+  },
+  {
+   "title": "18-C M.R.S. §3-302 Informal probate",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-302.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-203 Priority for appointment",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-203.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-711 Powers of personal representatives",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-711.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-715 Transactions authorized",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-715.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-1201 Collection of personal property by affidavit",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-1201.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-801 Notice to creditors",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-801.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-803 Limitations on presentation of claims",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-803.html"
+  },
+  {
+   "title": "18-C M.R.S. §3-108 Ultimate time limit",
+   "url": "https://legislature.maine.gov/statutes/18-C/title18-Csec3-108.html"
+  },
+  {
+   "title": "36 M.R.S. §4641-A Real estate transfer tax",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-A.html"
+  },
+  {
+   "title": "36 M.R.S. §4641-C Transfer tax exemptions",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-C.html"
+  },
+  {
+   "title": "36 M.R.S. §943 Tax lien mortgage foreclosure",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec943.html"
+  },
+  {
+   "title": "36 M.R.S. §502 Taxable property",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec502.html"
+  },
+  {
+   "title": "36 M.R.S. §558 Proration",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec558.html"
+  }
+ ]
+}

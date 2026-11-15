@@ -22,3 +22,7 @@ Rules
 - State topic page (e.g. <state>-probate, -foreclosure, -estate-tax, -squatters-rights, -landlord-tenant, -eviction-notice, -tax-sale, -property-tax-guide): explain the state law with statute citations from the official legislature site (or Justia copies of the statute), state agency pages and court self-help pages. Add state context (regions, largest counties, how the process differs by county) where sourced.
 - Directory page (<state>-guides-by-city-and-county): a state overview for sellers (regions, largest cities and counties, state-level transfer/recording rules, how property tax is run in the state). Do not list links; the page already links its city and county pages.
 - Every page must read differently from its neighbors in the same state. Do not reuse your own sentences across your pages.
+
+
+## Research tools (UPDATED, overrides anything above)
+Use Firecrawl for all page reads: mcp__Firecrawl__firecrawl_scrape (url, formats ["markdown"], onlyMainContent true) to open a page, and mcp__Firecrawl__firecrawl_search or WebSearch to find pages. mcp__Firecrawl__firecrawl_gov_search is free and good for statutes and county/state government pages. Do NOT use WebFetch. Load Firecrawl tool schemas with ToolSearch first (select:mcp__Firecrawl__firecrawl_scrape,mcp__Firecrawl__firecrawl_search,mcp__Firecrawl__firecrawl_gov_search). Keep scrapes lean: about 6 to 10 page reads per page you write. If Firecrawl reports it is out of credits, stop and report that.

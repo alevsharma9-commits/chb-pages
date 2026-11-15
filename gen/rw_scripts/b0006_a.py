@@ -1,0 +1,82 @@
+import json,re
+OUT='/home/claude/chb-pages/gen/rw/'
+def words(d):
+    t=' '.join(s['html'] for s in d['sections'])+' '+' '.join(s['h2'] for s in d['sections'])+' '+' '.join(f['q']+' '+f['a'] for f in d['faqs'])
+    t=re.sub(r'<[^>]+>',' ',t)
+    return len(t.split())
+def save(d):
+    for s in d['sections']+d['faqs']:
+        for v in s.values():
+            assert '—' not in v and '–' not in v, v[:60]
+    open(OUT+d['slug']+'.json','w').write(json.dumps(d,indent=1,ensure_ascii=False))
+    print(d['slug'],words(d),len(d['sources']))
+
+DOR_GUIDE=("2025 Property Owner Appeal Process Guide (SD Department of Revenue)","https://dor.sd.gov/media/0hajl2ya/board-appealprocessguide-2025.pdf")
+DOR_PT=("South Dakota Department of Revenue property tax page","https://dor.sd.gov/individuals/taxes/property-tax/")
+SDCL=("SDCL 10-21-23, delinquency dates and interest","https://sdlegislature.gov/api/Statutes/10-21-23.html?all=true")
+ROD_FEE=("Oglala Lakota County Register of Deeds recording fees (SDCL 43-4-21 transfer fee)","https://oglalalakotacountysd.gov/register-of-deeds/recording-fees/")
+def S(t):return {"title":t[0],"url":t[1]}
+
+# ---------------- LINCOLN ----------------
+lincoln={"slug":"lincoln-county-sd-property-tax-guide","sections":[
+{"h2":"Where is Lincoln County, South Dakota, and who lives there?","html":
+"<p>Lincoln County sits on South Dakota's eastern edge, with the Big Sioux River running along its eastern boundary and separating it from Iowa. The county covers 578 square miles of low rolling hills that slope toward the river valley, and it is still largely agricultural outside the towns.</p>"
+"<p>The county was formed on December 30, 1867 and named for Abraham Lincoln. Canton is the county seat. Its population was 712 in 1870 and peaked at 13,918 in 1930. It dipped through the middle of the twentieth century, then grew sharply after 1980 and reached 65,161 in the 2020 census, which makes it the third most populous county in the state. Much of that growth is tied to Sioux Falls spreading south.</p>"
+"<p>Towns and cities in or touching the county include Beresford (partly), Canton, Harrisburg, Lennox, Sioux Falls (partly), Tea, Worthing, Naomi (partly) and Norway Center. A house in a Sioux Falls neighborhood on the Lincoln County side is taxed through the same county offices as a farmhouse near Canton, but the city and school levies differ, which is why two Lincoln County sellers can see very different bills.</p>"
+"<table><thead><tr><th>Fact</th><th>Lincoln County</th></tr></thead><tbody>"
+"<tr><td>County seat</td><td>Canton</td></tr>"
+"<tr><td>Formed</td><td>December 30, 1867</td></tr>"
+"<tr><td>Total area</td><td>578 square miles</td></tr>"
+"<tr><td>Population, 2020 census</td><td>65,161</td></tr>"
+"<tr><td>Population, Census Bureau 2019-2023 survey</td><td>68,286</td></tr>"
+"<tr><td>Housing units, 2019-2023</td><td>27,552</td></tr>"
+"<tr><td>Median home value, 2019-2023</td><td>$323,500</td></tr>"
+"<tr><td>Owner-occupied homes</td><td>72%</td></tr>"
+"</tbody></table>"},
+{"h2":"Which offices handle property tax in Lincoln County?","html":
+"<p>Three offices matter: the Department of Equalization sets values, the Treasurer collects the money, and the Register of Deeds records the sale. The Lincoln County courthouse is at 104 N. Main Street in Canton and is open 8:00 a.m. to 5:00 p.m., Monday through Friday, excluding holidays.</p>"
+"<ul><li><strong>Department of Equalization:</strong> 104 North Main Street, Suite 210, Canton, SD 57013. Phone 605-764-2571. It handles assessments and is the first call if you think your value is wrong.</li>"
+"<li><strong>Treasurer:</strong> 104 N. Main Street, Canton, SD 57013. Phone 605-764-5701. It collects property tax and vehicle fees, and it helps people 65 or older and disabled residents apply for the tax freeze and rebate programs.</li>"
+"<li><strong>Register of Deeds:</strong> records the deed when a house changes hands. We did not find a Lincoln County fee page, so ask the office for its current schedule.</li></ul>"
+"<p>The treasurer's phone line runs 9:00 a.m. to 4:30 p.m., a little narrower than the counter hours. Title transfers and new title registrations must reach the Treasurer before 4:30 p.m. to be finished that day. You can read the county's own explanation on the <a href=\"https://www.lincolncountysd.gov/206\">Lincoln County property tax page</a>.</p>"},
+{"h2":"When are Lincoln County property taxes due, and what does a late payment cost?","html":
+"<p>Lincoln County property tax is paid in two halves: the first half by April 30 and the second half by October 31, with payments postmarked by those dates counting as on time. Notices for real estate taxes and special assessments are mailed to owners in January.</p>"
+"<p>State law sets the penalty. Under SDCL 10-21-23, one half of the unpaid real property tax becomes delinquent on May 1, and the other half on November 1 if it is still unpaid after October 31. Interest is added on the delinquency date and on the first day of each month after that, at the rate set under SDCL 54-3-16. Taxes totaling fifty dollars or less must be paid in full by April 30. If the last day of April or October falls on a weekend, the due date moves to the last working day of that month.</p>"
+"<ul><li>Mailed payments can take 5 to 7 business days to process.</li><li>Online payments can take 3 to 5 business days.</li><li>Online fees: $1.50 for an e-check, or 2.4% with a $1.50 minimum for a card or PayPal.</li><li>Delinquent taxes cannot be paid online. Contact the Treasurer's Office directly.</li></ul>"
+"<p>If you plan to sell, pay close attention to those posting times. A payment that clears after the deadline can carry interest into your closing figures.</p>"},
+{"h2":"How are Lincoln County homes valued and taxed?","html":
+"<p>South Dakota assesses property at market value, then taxes 85% of it. The Department of Revenue gives an example: a $230,000 home has a taxable value of $195,500. Each taxing unit, meaning the county, the city and the school district, sets a levy by dividing its unfunded budget by the taxable value in its area, and the tax on a property is its taxable value times the combined levy per thousand dollars.</p>"
+"<p>The Lincoln County Department of Equalization values land and buildings. The state's own description says a building's value depends mainly on its quality, size, design and condition, and that extras count. Owner-occupied homes carry a separate tax classification. The home must be your primary residence on November 1, you can claim it on only one dwelling in the state, and you file the Certification of Owner-Occupied Dwelling with the county Director of Equalization by March 15.</p>"
+"<p>For a sense of scale, the City of Harrisburg published its levies per $1,000 of taxable value for the 2019 tax year, payable in 2020: school 11.926, city 3.293 and county 2.128, for a total of 17.347. Those figures are old, and current levies differ, but they show how most of the bill goes to the school district. Check the current levy sheet before you estimate anything.</p>"},
+{"h2":"How do you appeal a Lincoln County assessment?","html":
+"<p>You appeal in steps, and each step has a hard date. Start by talking to the Lincoln County Department of Equalization at 605-764-2571, since many questions are settled by correcting the property record. If that does not work, file a written appeal. The deadlines below come from the Department of Revenue's 2025 guide, so confirm the current year's calendar with the county.</p>"
+"<table><thead><tr><th>Step</th><th>Date in the 2025 guide</th></tr></thead><tbody>"
+"<tr><td>Assessment notices mailed</td><td>By March 1</td></tr>"
+"<tr><td>Owner-occupied filing</td><td>March 15</td></tr>"
+"<tr><td>Written appeal to the local board clerk</td><td>March 13 (postmarked counts)</td></tr>"
+"<tr><td>Local board meets</td><td>March 17 to March 21</td></tr>"
+"<tr><td>Written appeal to the county auditor, for the county board</td><td>April 1</td></tr>"
+"<tr><td>County board of equalization sits</td><td>April 8 to April 29</td></tr>"
+"<tr><td>Letter to the Office of Hearing Examiners</td><td>May 16</td></tr>"
+"</tbody></table>"
+"<p>An appeal from the county board to circuit court must be made within 30 days after notice is served, and you cannot appeal to the hearing examiners and the circuit court at the same time. Sioux Falls residents in Lincoln County can schedule a local board appeal through the county's appeal page or the Sioux Falls City Clerk at 605-367-8080, and the hearings are held at Carnegie Town Hall, 235 W. 10th St. Remember what an appeal argues: that the value is too high or unequal. It does not reduce the tax rate.</p>"},
+{"h2":"What help exists for older or disabled Lincoln County owners?","html":
+"<p>South Dakota offers an assessment freeze for elderly and disabled homeowners, and the application is due to the county Treasurer by April 1 each year. Applicants must be 65 or older, or disabled, as of January 1, and must meet income guidelines that count all household income. The Treasurer's office helps with the forms, which are also on the Department of Revenue site.</p>"
+"<p>This matters for sellers because a frozen value can make a long-held house look inexpensive to carry, and a buyer may not face the same bill. If you are selling a parent's house, ask the Treasurer whether a freeze was in place.</p>"},
+{"h2":"What should a Lincoln County seller check before closing?","html":
+"<p>Confirm what is owed to the Treasurer, then record the deed with the Register of Deeds. South Dakota charges a real estate transfer fee of $0.50 per $500 of value, which equals $1.00 per $1,000, under SDCL 43-4-21, and it applies to a deed only when there is consideration. The recording fee under SDCL 7-9-15 is $30 per document for the first 50 pages, and Lincoln County can confirm its current amounts.</p>"
+"<ul><li>The tax bill comes in January and is paid in two halves, so check which half is paid before you set a closing date.</li>"
+"<li>Special assessments from a city, such as a storm water or maintenance fee collected on the tax roll, can sit on the bill separately.</li>"
+"<li>South Dakota law treats unpaid taxes as a perpetual lien, so a title company will want them cleared or credited at closing.</li>"
+"<li>Ask the Treasurer for a payoff figure for any delinquent amount. These cannot be paid online.</li></ul>"
+"<p>A cash buyer can close around these items without a long listing period, which helps if a bill is close to going delinquent. We buy houses as-is across the Sioux Falls area and Lincoln County and will give you a written offer to compare.</p>"},
+],
+"faqs":[
+{"q":"When are property taxes due in Lincoln County, SD?","a":"The first half is due by April 30 and the second half by October 31. Payments must be postmarked by those dates to avoid interest, and notices are mailed in January."},
+{"q":"Where do I pay Lincoln County property tax?","a":"Pay the Treasurer at 104 N. Main Street in Canton, by mail, or online. Online fees are $1.50 for an e-check or 2.4% for a card. Delinquent taxes must be handled with the office directly."},
+{"q":"Can I appeal my Lincoln County assessment?","a":"Yes. Start with the Lincoln County Department of Equalization at 605-764-2571, then file a written appeal with the local or county board of equalization by the state deadlines, which fall in March and April."},
+{"q":"Is there a tax freeze for seniors in Lincoln County?","a":"Yes, the assessment freeze for the elderly and disabled. You must be 65 or older, or disabled, as of January 1, meet income limits, and apply to the Treasurer by April 1."},
+{"q":"Can I sell my Lincoln County house if I owe property tax?","a":"Yes. Unpaid taxes are paid or credited at closing from the sale proceeds. Ask the Treasurer for a payoff figure, and a cash sale can close quickly around it."},
+],
+"sources":[S(("Lincoln County, South Dakota (Wikipedia)","https://en.wikipedia.org/wiki/Lincoln_County,_South_Dakota")),S(("Lincoln County property tax page","https://www.lincolncountysd.gov/206")),S(("Lincoln County Treasurer, South Dakota directory","https://dakotaathome.sd.gov/search/b34d87e5-4039-5bb6-9dab-e9b04dba1425")),S(("Harrisburg SD: objection to real property assessment and levies","https://harrisburgsd.gov/announcements/continuation-of-the-reappraisal-for-harrisburg")),S(("City of Sioux Falls Local Board of Equalization","https://siouxfalls.gov/government/council/city-clerk/board-of-equalization")),S(DOR_GUIDE),S(DOR_PT),S(SDCL),S(ROD_FEE)]}
+save(lincoln)
