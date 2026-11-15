@@ -1,65 +1,89 @@
 {
-  "slug": "sell-my-house-fast-detroit-mi",
-  "sections": [
-    {
-      "h2": "What should a seller expect from Detroit, Michigan?",
-      "html": "<p>Detroit is a city where one block can look nothing like the next. Detroit covers about 139 square miles of land on the Detroit River, and a house in Boston-Edison or Indian Village sells in a very different market from a modest bungalow on the east side, even though both sit in the same city and the same county.</p><p>The Census Bureau puts the 2025 population at 649,095, up from 639,111 at the 2020 count. That follows decades of decline from a 1950 peak of 1.85 million, and the city's own 2013 bankruptcy filing ended in 2014. Local buyers, investors and out-of-state landlords all shop here, so a seller usually gets a mix of owner-occupant and investor interest.</p><p>Detroit is the seat of Wayne County, and the county handles the deed recording and the older delinquent tax accounts. Many sale questions end at the Wayne County offices, even when the house is inside the city limits.</p>"
-    },
-    {
-      "h2": "How does the Detroit housing market compare in Census numbers?",
-      "html": "<p>Detroit has the lowest home values and the fewest owner-occupants of the four Michigan cities profiled in this batch of pages. Close to half of Detroit households rent, which shapes who is likely to buy your house.</p><table><caption>Detroit housing, rent and income, Census Bureau data</caption><thead><tr><th>Measure</th><th>Detroit</th></tr></thead><tbody><tr><td>Residents, 2025 estimate</td><td>649,095</td></tr><tr><td>Homes occupied by their owners, 2020-2024</td><td>50.3%</td></tr><tr><td>Middle price tag on owned homes</td><td>$83,900</td></tr><tr><td>Middle monthly rent</td><td>$1,074</td></tr><tr><td>Total households</td><td>257,998</td></tr><tr><td>Middle household income</td><td>$39,938</td></tr><tr><td>Average commute</td><td>24.8 minutes</td></tr></tbody></table><p>With a typical owned home at $83,900 and typical rent at $1,074, a rented house can pay back its price quickly, which is why investors watch Detroit sales. The same gap means repair bills can swallow a bigger slice of a sale price here than in Dearborn, where the typical owned home is $218,800.</p>"
-    },
-    {
-      "h2": "What kinds of houses and neighborhoods do Detroit sellers have?",
-      "html": "<p>Most of the city is low-rise. Outside downtown and New Center, Detroit consists mainly of single-family houses and small buildings. Pre-war working-class areas have wood-frame and brick houses, while Brush Park, Woodbridge, Indian Village, Palmer Woods and Boston-Edison hold larger, more ornate homes. Forty-two significant structures are on the federal historic register.</p><p>The terrain is flat. Detroit slopes gently from northwest to southeast on glacial and lake clay, with the Detroit Moraine, a broad clay ridge only about 62 feet above the river, under the older parts of town. Clay soil and a cold climate matter to a buyer's inspector:</p><ul><li>Winters stay at or below freezing on an average of 44 days a year, so heating systems, roofs and pipes get a close look.</li><li>Summers pass 90 degrees on about 12 days, which puts attention on cooling and attic ventilation.</li><li>Clay ground under older neighborhoods makes basement moisture and foundation drainage fair questions from a buyer's inspector.</li></ul><p>Fix or price these items before listing, because they are the ones that renegotiate contracts.</p>"
-    },
-    {
-      "h2": "Which employers, schools and transit options help Detroit buyers?",
-      "html": "<p>The Detroit Medical Center is the city's largest single employer, joined in Midtown by Wayne State University and the Henry Ford Health System in New Center. General Motors, Rocket Mortgage, Ally Financial and DTE Energy have headquarters in the city, and about 80,500 people work downtown, roughly one-fifth of the city's employment. Tenants and buyers who work in those districts look for housing close to them.</p><p>The Detroit Public Schools district is the largest in Michigan, and the city has a large charter sector alongside it. Many families also look at suburban districts, so ask your agent how school boundaries affect the buyer pool on your street.</p><p>Transit includes DDOT buses, the QLINE streetcar, the downtown People Mover loop, and SMART service to the suburbs. Detroit also has four border crossings to Windsor, including the Gordie Howe International Bridge that opened in 2026. Detroit Metropolitan Airport serves the region.</p>"
-    },
-    {
-      "h2": "What state taxes and fees apply when a Detroit house sells?",
-      "html": "<p>Michigan's transfer tax lands on the seller, as MCL 207.523 states. The state portion is $3.75 for each $500 of value (MCL 207.525). A county portion rides on top of it, set at 55 cents per $500 where the county has under two million residents (MCL 207.504), so ask the Wayne County deed office which rate applies. Payment goes to the county treasurer inside 15 days of handing over the deed.</p><p>MCL 207.526 lists the deeds that escape the state tax. Relevant ones for Detroit owners include a court-ordered transfer with no stated price, a foreclosure deed, and a land contract under which legal title has not yet passed. A lender that later resells a foreclosed house does not get the same break.</p><ul><li>The buyer reports the transfer to the assessor inside 45 days (MCL 211.27a).</li><li>The next calendar year's taxable value is set at the SEV.</li><li>Ask the Detroit assessor for the form that ends your own principal residence exemption.</li></ul><p>For current-year and past-due bill amounts, ask the City of Detroit Office of the Assessor and the Wayne County Treasurer for written payoff figures before you sign anything.</p>"
-    },
-    {
-      "h2": "Why does tax foreclosure timing matter for Detroit sellers?",
-      "html": "<p>The Wayne County Treasurer runs the county's annual auction of tax-foreclosed properties. The minimum bid is a fixed figure that includes the treasurer's foreclosure and auction expenses, winners must pay in full within 72 hours, and the office records a quit claim deed within 30 days of the auction closing. Selling before the auction lets you choose the buyer and the price. Ask the treasurer what redemption rights remain on your parcel.</p><p>If back taxes are owed, call the Wayne County Treasurer's office early for the payoff and any payment plan, and arrange for the closing agent to pay the balance out of your proceeds. A sale that closes with taxes cleared is easier for a buyer's lender to approve than one with an open lien.</p>"
-    },
-    {
-      "h2": "How do your options compare for a Detroit house that needs work?",
-      "html": "<p>Listing with an agent can reach owner-occupant buyers who finance with a mortgage, but lenders and appraisers look hard at condition, and repair requests follow. A sale to an investor trades some price for speed, and an as-is contract can set who handles trash, personal property and open utility accounts.</p><p>Whichever route you choose, compare offers by net proceeds. Subtract the transfer tax, unpaid taxes, any lien payoff and the cost of repairs you would otherwise perform. Ask each buyer for proof of funds and a closing date in writing.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Which side owes the state deed tax on a Detroit house?",
-      "a": "The seller. State law names the grantor as the liable party, at $3.75 for each $500 of value for the state plus a county amount. Some deeds, such as a court-ordered transfer, are exempt."
-    },
-    {
-      "q": "Can a Detroit house with unpaid taxes still be sold?",
-      "a": "Yes. Ask the Wayne County Treasurer for a payoff figure, and have the closing agent pay the balance from your sale proceeds. Selling before the county's foreclosure auction lets you keep the equity that remains."
-    },
-    {
-      "q": "How does a sale change the Detroit tax bill?",
-      "a": "The buyer's taxable value is reset for the next year to the SEV, the figure the assessor sets at half of market value. The buyer reports the transfer to the assessor inside 45 days."
-    },
-    {
-      "q": "Must I repair my Detroit house before selling?",
-      "a": "Buyers and their lenders often ask for repairs, and the contract decides who pays. Ask the City of Detroit for any local compliance requirements that apply to your property type, particularly if it is a rental."
-    },
-    {
-      "q": "How big is Detroit and what do homes cost?",
-      "a": "About 649,095 people live in the city by the Census Bureau's 2025 estimate. The 2020 to 2024 middle value of an owned home is $83,900, and about half of homes are lived in by their owners."
-    }
-  ],
-  "sources": [
-    {"title": "Detroit, Wikipedia", "url": "https://en.wikipedia.org/wiki/Detroit"},
-    {"title": "Census Bureau QuickFacts, Michigan cities", "url": "https://www.census.gov/quickfacts/fact/table/dearborncitymichigan,detroitcitymichigan,eastlansingcitymichigan,eastpointecitymichigan/PST045225"},
-    {"title": "MCL 207.523, State Real Estate Transfer Tax Act", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-523"},
-    {"title": "MCL 207.525, State Real Estate Transfer Tax Act", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"},
-    {"title": "MCL 207.504, Real Estate Transfer Tax", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"},
-    {"title": "MCL 207.526, exempt transfers", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"},
-    {"title": "MCL 211.27a, General Property Tax Act", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"},
-    {"title": "Wayne County Treasurer auction FAQ", "url": "https://waynecountytreasurermi.com/faq.html"}
-  ]
+ "slug": "sell-my-house-fast-detroit-mi",
+ "sections": [
+  {
+   "h2": "What should a seller expect from Detroit, Michigan?",
+   "html": "<p>Detroit is the Wayne County seat and the most populous city in Michigan. French explorers founded Fort Pontchartrain du Détroit here in 1701, and by 1920 the auto industry had made it the fourth-largest city in the country. The population then fell from its 1950 peak of 1.85 million, the city filed for bankruptcy in 2013 and left it in 2014, and the Census Bureau's 2025 estimate of 649,095 residents sits above the 639,111 counted in 2020.</p><p>A seller here deals with 138.7 square miles of land, according to the Census. A house in Boston-Edison or Indian Village competes in a different market from a modest bungalow elsewhere in the city, even though both pay the same city and county taxes. Wayne County records the deed and holds the older delinquent tax accounts, so many sale questions end at a county office.</p>"
+  },
+  {
+   "h2": "How does the Detroit housing market compare in Census numbers?",
+   "html": "<p>Detroit has the lowest home values and the fewest owner-occupants of the four Michigan cities profiled in this batch of pages. Close to half of Detroit households rent, which shapes who is likely to buy your house.</p><table><caption>Detroit housing, rent and income, Census Bureau data</caption><thead><tr><th>Measure</th><th>Detroit</th></tr></thead><tbody><tr><td>Residents, 2025 estimate</td><td>649,095</td></tr><tr><td>Homes occupied by their owners, 2020-2024</td><td>50.3%</td></tr><tr><td>Middle price tag on owned homes</td><td>$83,900</td></tr><tr><td>Middle monthly rent</td><td>$1,074</td></tr><tr><td>Total households</td><td>257,998</td></tr><tr><td>Middle household income</td><td>$39,938</td></tr><tr><td>Average commute</td><td>24.8 minutes</td></tr></tbody></table><p>With a typical owned home at $83,900 and typical rent at $1,074, a rented house can pay back its price quickly, which is why investors watch Detroit sales. The same gap means repair bills can swallow a bigger slice of a sale price here than in Dearborn, where the typical owned home is $218,800.</p>"
+  },
+  {
+   "h2": "What kinds of houses and neighborhoods do Detroit sellers have?",
+   "html": "<p>Beyond downtown and New Center, Detroit is mostly low-rise. Working-class areas built before World War II have wood-frame and brick houses, while Brush Park, Woodbridge, Indian Village, Palmer Woods and Boston-Edison have larger, more ornate homes. Forty-two significant structures are on the federal historic register, and the Guardian Building became a National Historic Landmark in 1989.</p><p>The ground is flat. The city slopes gently from northwest to southeast over glacial and lake clay, with the Detroit Moraine, a broad clay ridge about 62 feet above the river, under the older districts. Weather and soil shape what an inspector flags:</p><ul><li>Temperatures stay at or below freezing on roughly 44 days a year, so furnaces, roofs and plumbing get attention.</li><li>About 12 days a year top 90 degrees, which puts cooling and attic ventilation on the checklist.</li><li>Clay under older blocks makes basement moisture and drainage fair questions.</li></ul><p>Fix these items or price them in before you list, since they are what reopens a signed contract.</p>"
+  },
+  {
+   "h2": "Which employers, schools and transit options help Detroit buyers?",
+   "html": "<p>The Detroit Medical Center is the largest single employer in the city, with Wayne State University in Midtown and the Henry Ford Health System in New Center. General Motors, Rocket Mortgage, Ally Financial and DTE Energy keep headquarters here, and roughly 80,500 people work downtown, one-fifth of the city's jobs. Buyers who work in those districts look for housing nearby.</p><p>The river adds a draw of its own. The Detroit River International Wildlife Refuge covers islands, wetlands and shoreline along 48 miles of the Detroit River and western Lake Erie, and the city's attractions bring about 16 million visitors a year. Downtown redevelopment around Campus Martius Park, Grand Circus Park, Ford Field, Comerica Park and Little Caesars Arena adds to the pull.</p><p>The Detroit Public Schools district is the largest in Michigan, and charter schools enroll a large additional group. Many families also look at suburban districts, so ask your agent how school boundaries affect the buyer pool on your street.</p><p>Getting around is easier than in many Michigan cities. DDOT buses, the QLINE streetcar and the downtown People Mover loop serve the core, and SMART runs routes to the suburbs. Detroit has four crossings to Windsor, Ontario, the newest being the Gordie Howe International Bridge, which opened in 2026.</p>"
+  },
+  {
+   "h2": "What state taxes and fees apply when a Detroit house sells?",
+   "html": "<p>Michigan puts its deed tax on the seller. The state share is $3.75 per $500 of value, and a county share is added at 55 cents per $500 where the county has under two million residents. Ask the Wayne County Register of Deeds which county rate applies, since MCL 207.523, 207.525 and 207.504 set the framework and the deed office does the math. Payment goes to the county treasurer within 15 days of delivering the deed.</p><p>MCL 207.526 exempts certain deeds, including a court-ordered transfer with no stated price, a foreclosure deed, and an instrument that creates a joint tenancy where one of the owners already held the property. A lender that later resells a foreclosed house does not get the same break.</p><ul><li>The buyer reports the transfer to the assessor inside 45 days (MCL 211.27a).</li><li>For the next calendar year, taxable value is set at the SEV.</li><li>Ask the Detroit assessor for the form that ends your own principal residence exemption.</li></ul><p>For current-year and past-due bill amounts, ask the City of Detroit Office of the Assessor and the Wayne County Treasurer for written payoff figures before you sign anything.</p>"
+  },
+  {
+   "h2": "Why does tax foreclosure timing matter for Detroit sellers?",
+   "html": "<p>The Wayne County Treasurer, whose office is at 400 Monroe Street in Detroit, holds an annual online auction of tax-foreclosed properties. The minimum bid is a fixed amount that includes the treasurer's foreclosure and auction costs, winners have 72 hours to pay in full, and the office records a quit claim deed within 30 days after the auction closes.</p><p>Selling before the auction lets you choose the buyer and the price. Ask the treasurer's office what redemption rights remain on your parcel and whether a payment plan is open to you. Arrange for the closing agent to settle any balance from your proceeds, because a buyer's lender will want the lien cleared at closing.</p>"
+  },
+  {
+   "h2": "How do you compare offers on a Detroit house that needs work?",
+   "html": "<p>List with an agent if you want owner-occupant buyers who use mortgages, and expect appraisers and lenders to scrutinize condition. An investor offer trades some price for speed, and an as-is contract can state who clears trash, personal property and open utility accounts.</p><p>Compare offers on net proceeds. Start from the price, then subtract the deed tax, unpaid taxes, any lien payoff and the repairs you would otherwise pay for. Ask each buyer for proof of funds and a closing date in writing, and keep every offer's terms side by side before you accept one.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which side owes the state deed tax on a Detroit house?",
+   "a": "The seller. Michigan names the grantor as the liable party, at $3.75 for each $500 of value for the state plus a Wayne County amount. A court-ordered transfer without a stated price is one of the exempt deeds."
+  },
+  {
+   "q": "Can a Detroit house with unpaid taxes still be sold?",
+   "a": "Yes. Get a written payoff from the Wayne County Treasurer and have the closing agent pay it from your proceeds. Selling before the county's foreclosure auction keeps the choice of buyer in your hands."
+  },
+  {
+   "q": "How does a sale change the Detroit tax bill?",
+   "a": "The buyer's taxable value is reset for the next year to the SEV, the figure the assessor sets at half of market value. The buyer reports the transfer to the assessor inside 45 days."
+  },
+  {
+   "q": "Must I repair my Detroit house before selling?",
+   "a": "Buyers and their lenders often ask for repairs, and the contract decides who pays. Ask the City of Detroit about any compliance rules that apply to your property type, especially a rental."
+  },
+  {
+   "q": "How big is Detroit and what do homes cost?",
+   "a": "About 649,095 people live in the city by the Census Bureau's 2025 estimate. The 2020 to 2024 middle value of an owned home is $83,900, and about half of homes have their owner living in them."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Detroit, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Detroit"
+  },
+  {
+   "title": "Census Bureau QuickFacts, Michigan cities",
+   "url": "https://www.census.gov/quickfacts/fact/table/dearborncitymichigan,detroitcitymichigan,eastlansingcitymichigan,eastpointecitymichigan/PST045225"
+  },
+  {
+   "title": "MCL 207.523, State Real Estate Transfer Tax Act",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-523"
+  },
+  {
+   "title": "MCL 207.525, State Real Estate Transfer Tax Act",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"
+  },
+  {
+   "title": "MCL 207.504, Real Estate Transfer Tax",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"
+  },
+  {
+   "title": "MCL 207.526, exempt transfers",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "MCL 211.27a, General Property Tax Act",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
+  },
+  {
+   "title": "Wayne County Treasurer auction FAQ",
+   "url": "https://waynecountytreasurermi.com/faq.html"
+  }
+ ]
 }

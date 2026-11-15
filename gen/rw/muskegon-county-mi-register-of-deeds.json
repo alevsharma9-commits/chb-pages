@@ -1,65 +1,105 @@
 {
-  "slug": "muskegon-county-mi-register-of-deeds",
-  "sections": [
-    {
-      "h2": "How do I reach the Muskegon County register of deeds?",
-      "html": "<p>Suite A102 at 1903 Marquette Avenue, Muskegon, MI 49442, is the counter for every Muskegon County deed, and the number to call is 231-724-6271. Staff are in from 8 a.m. until 5 p.m. on weekdays, and the recording window closes at 4:30 p.m. The county calls it the official recorder and depository of land documents since 1859, the year the county was organized after splitting from Ottawa County.</p><p>Beyond deeds, the office keeps mortgages, liens, surveys, plats, land contracts, condominium filings and financing statements. It also collects the state and county transfer taxes at the time a deed is recorded.</p><p>The staff will not write or advise on a deed. Michigan bars clerks from legal advice under MCL 600.916(1), and the county sends owners to a title company, a Michigan real estate attorney or a blank form that meets recording standards.</p>"
-    },
-    {
-      "h2": "Can I file by mail, in person or online in Muskegon County?",
-      "html": "<p>All three work, with one firm condition: the paper must carry original signatures, because photocopies and faxes are returned.</p><p>For online filing, the county lists CSC, EPN, Indecomm and Simplifile. A few document types stay on paper.</p><ul><li>Master deeds, and amendments that change a legal description and bring large drawings.</li><li>Plats.</li><li>Property transfer affidavits, which go to the equalization department instead.</li></ul><p>Ask your title company whether it uses one of these vendors, since the statute lets an electronic filing's fee follow within one business day.</p><p>The office adds two free protections. Home Security Search lets an owner look up records under their own name, and Fraud Guard emails you when your name shows up on a document headed for recording in the county. A seller who owns a rental, a lot out of state or a property held for years may like both.</p>"
-    },
-    {
-      "h2": "What does the register charge, line by line?",
-      "html": "<p>The county's schedule dates from October 1, 2016. One document costs $30 to record regardless of length, and $4 of that amount funds the state survey and remonumentation program. Warranty deeds, land contracts and any deed with a covenant of warranty also need a tax certificate from the county treasurer, which costs $5.</p><table><caption>Muskegon County register of deeds charges (source: the county Schedule of Fees page)</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>One deed, mortgage or other instrument</td><td>$30</td></tr><tr><td>Each further instrument assigned or discharged in the same document</td><td>$3</td></tr><tr><td>Treasurer's tax certificate</td><td>$5</td></tr><tr><td>Copy of a land record</td><td>$1 a page</td></tr><tr><td>Copy of a recorded plat</td><td>$2</td></tr><tr><td>Certification</td><td>$5 a document</td></tr><tr><td>Minimum search charge</td><td>$5</td></tr></tbody></table><p>When you pay by check and need a certificate, you write two. The recording fee and any transfer tax go on one payable to the register of deeds, and the $5 goes on a second payable to the Muskegon County Treasurer.</p>"
-    },
-    {
-      "h2": "What does a Muskegon County seller owe in transfer tax?",
-      "html": "<p>The grantor owes it. Each full or partial $500 of price draws $0.55 for the county and $3.75 for the state. Take the county's $198,300 median home value: it rounds up to 397 blocks of $500, so the state tax is $1,488.75, the county tax is $218.35 and the total is $1,707.10.</p><p>The county's FAQ makes a point that matters when a house is in trouble. Sheriff's deeds are always free of the state tax and only sometimes free of the county tax. Under the state act, deeds given in foreclosure or in place of it escape the state tax as well, and a corrective deed or a spousal conveyance that creates or ends a tenancy by the entirety escapes both. The exemption wording belongs on the face of the document.</p>"
-    },
-    {
-      "h2": "Which pre-closing steps matter for a Muskegon County seller?",
-      "html": "<p>The treasurer's certificate comes first. It proves that the parcel's taxes are paid, so any balance gets cleared at or before closing, and without it a warranty deed cannot be recorded.</p><p>The mortgage comes next. When a loan is paid off, the lender records a discharge. Nobody receives a new deed. Copies of the discharge or of your original deed cost $1 a page at the counter or through the online record search.</p><ul><li>Pull a copy of the current deed so the legal description carries over word for word.</li><li>List every owner by exact name, since a missing owner means a missing signature.</li><li>If the deed names a survivor, record a certified death certificate or proof of death with it.</li><li>For court orders, get the clerk's certification and seal.</li><li>Hire a title company or attorney to prepare the deed.</li></ul><p>Removing or adding a name always takes a new, notarized deed, not an amendment. Recording a certified death certificate takes a deceased owner off title without issuing a fresh deed.</p>"
-    },
-    {
-      "h2": "What kind of county is Muskegon for a seller?",
-      "html": "<p>Muskegon County is a Lake Michigan county where water outweighs land: 961 of its 1,460 square miles are water and 499 are land. Muskegon Lake, fed by the Muskegon River, is the state's only deep water port on Lake Michigan, and White Lake and Mona Lake also open to the big lake. The river's name comes from an Ojibwa word for marsh. Muskegon, Muskegon Heights, Roosevelt Park and Norton Shores form the urban southwest corner.</p><p>The Census Bureau's 2020 count was 175,824 and its July 2025 estimate is 177,901. Homeowners occupy 78.1% of housing, the median home value is $198,300, and gross rent has a median of $1,028. Commutes average 21.6 minutes. Permits for 451 buildings were issued in 2025.</p><p>The equalization department holds the forms sellers and buyers use. The new owner files the property transfer affidavit with the city or township assessor. Principal residence exemption relief reaches up to 18 mills of school operating tax. Poverty and disabled veteran relief are both requested at the local assessor, and Muskegon County itself assesses for some of its cities and townships while others do their own.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What time does Muskegon County stop accepting documents for recording?",
-      "a": "Recording ends at 4:30 p.m. on weekdays, even though the office stays open until 5 p.m. The counter is at 1903 Marquette Avenue, Suite A102."
-    },
-    {
-      "q": "Can a scanned or photocopied deed be recorded?",
-      "a": "No. The register takes only papers with original signatures. Court orders also need the court clerk's certification and seal."
-    },
-    {
-      "q": "Why would I write two checks at the counter?",
-      "a": "A warranty deed requires the treasurer's $5 certificate. That check goes to the Muskegon County Treasurer, and a second check covers the $30 recording fee plus any transfer tax."
-    },
-    {
-      "q": "What does the seller pay in transfer tax on $198,300?",
-      "a": "$1,707.10 in all, made up of $1,488.75 for the state and $218.35 for the county. An exemption, if one applies, must be stated on the deed."
-    },
-    {
-      "q": "How can a co-owner come off the deed?",
-      "a": "Sign and notarize a new deed, then record it. The office cannot prepare it, so ask a title company or attorney. A certified death certificate removes a deceased owner without a new deed."
-    }
-  ],
-  "sources": [
-    {"title": "Muskegon County Register of Deeds", "url": "https://co.muskegon.mi.us/848/Register-of-Deeds"},
-    {"title": "Muskegon County Register of Deeds: About Us", "url": "https://co.muskegon.mi.us/1827/About-Us"},
-    {"title": "Muskegon County Register of Deeds: FAQ", "url": "https://co.muskegon.mi.us/faq.aspx?TID=69"},
-    {"title": "Muskegon County Schedule of Fees", "url": "https://co.muskegon.mi.us/888/Schedule-of-Fees"},
-    {"title": "Muskegon County Recording Requirements", "url": "https://co.muskegon.mi.us/885/Recording-Requirements"},
-    {"title": "Muskegon County Equalization Forms", "url": "https://co.muskegon.mi.us/725/Forms"},
-    {"title": "MCL 600.2567 Register of deeds; fees", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"},
-    {"title": "MCL 207.504 Real estate transfer tax rate", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"},
-    {"title": "MCL 207.505 County transfer tax exemptions", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"},
-    {"title": "MCL 207.526 State transfer tax exemptions", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"},
-    {"title": "Census QuickFacts: Muskegon County", "url": "https://www.census.gov/quickfacts/muskegoncountymichigan"},
-    {"title": "Wikipedia: Muskegon County, Michigan", "url": "https://en.wikipedia.org/wiki/Muskegon_County,_Michigan"}
-  ]
+ "slug": "muskegon-county-mi-register-of-deeds",
+ "sections": [
+  {
+   "h2": "How do I reach the Muskegon County register of deeds?",
+   "html": "<p>Suite A102 at 1903 Marquette Avenue, Muskegon, MI 49442, is the counter for every Muskegon County deed, and the number to call is 231-724-6271. Staff are in from 8 a.m. until 5 p.m. on weekdays, and the recording window closes at 4:30 p.m. The county calls it the official recorder and depository of land documents since 1859, the year the county was organized after splitting from Ottawa County.</p><p>Beyond deeds, the office keeps mortgages, liens, surveys, plats, land contracts, condominium filings and financing statements. It also collects the state and county transfer taxes at the time a deed is recorded.</p><p>The staff will not write or advise on a deed. Michigan bars clerks from legal advice under MCL 600.916(1), and the county sends owners to a title company, a Michigan real estate attorney or a blank form that meets recording standards.</p>"
+  },
+  {
+   "h2": "Can I file by mail, in person or online in Muskegon County?",
+   "html": "<p>All three work, with one firm condition: the paper must carry original signatures, because photocopies and faxes are returned.</p><p>For online filing, the county lists CSC, EPN, Indecomm and Simplifile. A few document types stay on paper.</p><ul><li>Master deeds, and amendments that change a legal description and bring large drawings.</li><li>Plats.</li><li>Property transfer affidavits, which go to the equalization department instead.</li></ul><p>Ask your title company whether it uses one of these vendors, since the statute lets an electronic filing's fee follow within one business day.</p><p>The office adds two free protections. Home Security Search lets an owner look up records under their own name, and Fraud Guard emails you when your name shows up on a document headed for recording in the county. A seller who owns a rental, a lot out of state or a property held for years may like both.</p>"
+  },
+  {
+   "h2": "What does the register charge, line by line?",
+   "html": "<p>The county's schedule dates from October 1, 2016. One document costs $30 to record regardless of length, and $4 of that amount funds the state survey and remonumentation program. Warranty deeds, land contracts and any deed with a covenant of warranty also need a tax certificate from the county treasurer, which costs $5.</p><table><caption>Muskegon County register of deeds charges (source: the county Schedule of Fees page)</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>One deed, mortgage or other instrument</td><td>$30</td></tr><tr><td>Each further instrument assigned or discharged in the same document</td><td>$3</td></tr><tr><td>Treasurer's tax certificate</td><td>$5</td></tr><tr><td>Copy of a land record</td><td>$1 a page</td></tr><tr><td>Copy of a recorded plat</td><td>$2</td></tr><tr><td>Certification</td><td>$5 a document</td></tr><tr><td>Minimum search charge</td><td>$5</td></tr></tbody></table><p>When you pay by check and need a certificate, you write two. The recording fee and any transfer tax go on one payable to the register of deeds, and the $5 goes on a second payable to the Muskegon County Treasurer.</p>"
+  },
+  {
+   "h2": "What does a Muskegon County seller owe in transfer tax?",
+   "html": "<p>The grantor owes it. Each full or partial $500 of price draws $0.55 for the county and $3.75 for the state. Take the county's $198,300 median home value: it rounds up to 397 blocks of $500, so the state tax is $1,488.75, the county tax is $218.35 and the total is $1,707.10.</p><p>The county's FAQ makes a point that matters when a house is in trouble. Sheriff's deeds are always free of the state tax and only sometimes free of the county tax. Under the state act, deeds given in foreclosure or in place of it escape the state tax as well, and a corrective deed or a spousal conveyance that creates or ends a tenancy by the entirety escapes both. The exemption wording belongs on the face of the document.</p>"
+  },
+  {
+   "h2": "Which pre-closing steps matter for a Muskegon County seller?",
+   "html": "<p>The treasurer's certificate comes first. It proves that the parcel's taxes are paid, so any balance gets cleared at or before closing, and without it a warranty deed cannot be recorded.</p><p>The mortgage comes next. When a loan is paid off, the lender records a discharge. Nobody receives a new deed. Copies of the discharge or of your original deed cost $1 a page at the counter or through the online record search.</p><ul><li>Pull a copy of the current deed so the legal description carries over word for word.</li><li>List every owner by exact name, since a missing owner means a missing signature.</li><li>If the deed names a survivor, record a certified death certificate or proof of death with it.</li><li>For court orders, get the clerk's certification and seal.</li><li>Hire a title company or attorney to prepare the deed.</li></ul><p>Removing or adding a name always takes a new, notarized deed, not an amendment. Recording a certified death certificate takes a deceased owner off title without issuing a fresh deed.</p>"
+  },
+  {
+   "h2": "What does the Muskegon County map look like?",
+   "html": "<p>Muskegon County is a Lake Michigan county where water outweighs land: 961 of its 1,460 square miles are water and 499 are land. Muskegon Lake, fed by the Muskegon River, is the state's only deep water port on Lake Michigan, and White Lake and Mona Lake also open to the big lake. The river's name comes from an Ojibwa word for marsh. Muskegon, Muskegon Heights, Roosevelt Park and Norton Shores form the urban southwest corner.</p><p>The Census Bureau's 2020 count was 175,824 and its July 2025 estimate is 177,901. Homeowners occupy 78.1% of housing, the median home value is $198,300, and gross rent has a median of $1,028. Commutes average 21.6 minutes. Permits for 451 buildings were issued in 2025.</p><p>The equalization department holds the forms sellers and buyers use. The new owner files the property transfer affidavit with the city or township assessor. Principal residence exemption relief reaches up to 18 mills of school operating tax. Poverty and disabled veteran relief are both requested at the local assessor, and Muskegon County itself assesses for some of its cities and townships while others do their own.</p>"
+  },
+  {
+   "h2": "How do Muskegon, Norton Shores and the lakeshore affect a house sale?",
+   "html": "<p>Muskegon city, the county seat, had 38,318 residents in 2020 and wraps around a harbor on Lake Michigan, 42 miles northwest of Grand Rapids. It gets heavy lake-effect snow every winter, so buyers inspecting an older roof or an unheated porch tend to ask how the house handled the last few seasons. Some neighborhoods began as separate villages: Bluffton, a lumbering village from 1862, was annexed by Muskegon in 1889.</p><p>Norton Shores, with 25,030 residents, sits south of the city between Lake Michigan and Mona Lake, and it holds forested dunes in Hoffmaster State Park. Norton Township was split from Ottawa County in 1859, Roosevelt Park began as a 1926 subdivision and became a city in 1946, and Norton Shores incorporated in 1968. Mona Shores Public Schools serves that area, while Muskegon Public Schools dates to 1860. Muskegon Community College, Baker College and several university programs are in the county.</p><p>Beaches, bike trails along Muskegon Lake and a Lake Express ferry to Milwaukee shape how buyers value a lakeside address. A cottage-style house near Pere Marquette Beach or Mona Lake often draws different offers than a mid-century house inland, and a seller should pin down the parcel's legal description and township before listing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What time does Muskegon County stop accepting documents for recording?",
+   "a": "Recording ends at 4:30 p.m. on weekdays, even though the office stays open until 5 p.m. The counter is at 1903 Marquette Avenue, Suite A102."
+  },
+  {
+   "q": "Can a scanned or photocopied deed be recorded?",
+   "a": "No. The register takes only papers with original signatures. Court orders also need the court clerk's certification and seal."
+  },
+  {
+   "q": "Why would I write two checks at the counter?",
+   "a": "A warranty deed requires the treasurer's $5 certificate. That check goes to the Muskegon County Treasurer, and a second check covers the $30 recording fee plus any transfer tax."
+  },
+  {
+   "q": "What does the seller pay in transfer tax on $198,300?",
+   "a": "$1,707.10 in all, made up of $1,488.75 for the state and $218.35 for the county. An exemption, if one applies, must be stated on the deed."
+  },
+  {
+   "q": "How can a co-owner come off the deed?",
+   "a": "Sign and notarize a new deed, then record it. The office cannot prepare it, so ask a title company or attorney. A certified death certificate removes a deceased owner without a new deed."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Muskegon County Register of Deeds",
+   "url": "https://co.muskegon.mi.us/848/Register-of-Deeds"
+  },
+  {
+   "title": "Muskegon County Register of Deeds: About Us",
+   "url": "https://co.muskegon.mi.us/1827/About-Us"
+  },
+  {
+   "title": "Muskegon County Register of Deeds: FAQ",
+   "url": "https://co.muskegon.mi.us/faq.aspx?TID=69"
+  },
+  {
+   "title": "Muskegon County Schedule of Fees",
+   "url": "https://co.muskegon.mi.us/888/Schedule-of-Fees"
+  },
+  {
+   "title": "Muskegon County Recording Requirements",
+   "url": "https://co.muskegon.mi.us/885/Recording-Requirements"
+  },
+  {
+   "title": "Muskegon County Equalization Forms",
+   "url": "https://co.muskegon.mi.us/725/Forms"
+  },
+  {
+   "title": "MCL 600.2567 Register of deeds; fees",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"
+  },
+  {
+   "title": "MCL 207.504 Real estate transfer tax rate",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"
+  },
+  {
+   "title": "MCL 207.505 County transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"
+  },
+  {
+   "title": "MCL 207.526 State transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "Census QuickFacts: Muskegon County",
+   "url": "https://www.census.gov/quickfacts/muskegoncountymichigan"
+  },
+  {
+   "title": "Wikipedia: Muskegon County, Michigan",
+   "url": "https://en.wikipedia.org/wiki/Muskegon_County,_Michigan"
+  }
+ ]
 }
