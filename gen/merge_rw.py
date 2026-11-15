@@ -1,9 +1,13 @@
 import json,glob,re,html,os
 def esc(s):return html.escape(s,quote=False)
+import os
+DONE=set(open('gen/rw/done.txt').read().split()) if os.path.exists('gen/rw/done.txt') else set()
 RW={}
 for f in glob.glob('gen/rw/*.json'):
-    try:d=json.load(open(f));RW[d['slug']]=d
-    except Exception as e:print('bad',f,e)
+    if f.endswith('worklist.json'):continue
+    try:d=json.load(open(f))
+    except Exception as e:print('bad',f,e);continue
+    if d['slug'] in DONE:RW[d['slug']]=d
 n=0
 for f in sorted(glob.glob('pages/*/*.json')):
     items=json.load(open(f));ch=False
