@@ -91,3 +91,7 @@ Standing rules from the owner (Alev Sharma, signs as Victoria Sharma):
 - Pushing: if GitHub push is blocked, add the repo to the session with the add_repo tool (owner alevsharma9-commits, repo chb-pages, access push), then register_repo_root.
 - The user's schedule trigger list had a stale reminder meant for another account; do not recreate it.
 - Report to the owner in a few short sentences: pages done, pages left, anything risky. Include hyperlinks to completed pages when asked.
+
+## 10. Added later: process-commentary cleanup (important)
+
+Some agents wrote sentences about their own research ("We did not open a city page", "What we left out", "the source we reviewed") into page text. The owner does not want disclaimer-style lines on website pages. Reword each to a plain instruction ("Ask the county treasurer for current rates") or drop it. Find them with: grep -l -i -E "we did not (open|review)|what we left out|did not open|source we reviewed" gen/rw/*.json. Fixed so far: Portsmouth, Richmond, Roanoke (b0277). Others (for example arizona-property-tax-guide, arizona-quitclaim-deed, arizona-recording-deeds, arizona-squatters-rights-adverse-possession, several Virginia pages) still need a pass, then rerun cycle.sh. Also add this rule to gen/rw/BRIEF.md so new agents stop writing it.
