@@ -3,7 +3,8 @@ sys.path.insert(0,os.path.dirname(__file__))
 from common import *
 R=os.path.join(os.path.dirname(__file__),'..'); H='/home/claude/chb/'
 FS=json.load(open(H+'oh_fact_sheet.json'))['topics']; CITIES=json.load(open(H+'oh_cities.json'))
-CP=json.load(open(H+'oh_city_ptax.json')); CT={**json.load(open(H+'oh_cty_A.json')),**json.load(open(H+'oh_cty_B.json'))}
+CP=json.load(open(H+'oh_city_ptax.json')); CT={}
+for _k in 'ABCD': CT.update(json.load(open(H+f'oh_cty_{_k}.json')))
 BAD=re.compile(r'ilmarion|ohiotreasurers|excerpt|not opened|not confirmed|not stated|unconfirmed|http|phone',re.I)
 def ns(c): return re.sub(r'[^a-z0-9]+','-',c.lower().replace('.','').replace("'",'')).strip('-')
 def n(x): return f"{x:,}"
@@ -78,7 +79,8 @@ def ptax(c,v):
     h1=f"{c}, OH Property Tax Guide: Offices, Dates and Selling With Tax Due"
     return mk(slug,h1,f"{c}, OH Property Tax Guide",f"{c}, OH property tax: assessor and collector offices, due dates, appeals and what happens to unpaid tax when you sell.",f"{c.lower()} property tax",f"Owe {c} Property Tax? Get a Cash Offer",f"We buy {c} houses as-is. The title company pays unpaid tax from the proceeds.",body,faqs,f"{c} property tax guide",[SP[3],(f"sell-my-house-fast-{ns(c)}-oh",f"Sell my house in {c}",'Options and cash offers.'),SP[0],SP[1]],[(nm_(ap),ap['url']),(nm_(co),co['url'])]+SRC[:2])
 CNT='Allen Ashtabula Athens Belmont Butler Clark Clermont Columbiana Cuyahoga Darke Delaware Fairfield Franklin Geauga Greene Hamilton Highland Lake Licking Lorain Lucas Mahoning Medina Miami Montgomery Muskingum Portage Richland Ross Scioto Stark Summit Trumbull Union Warren Wayne Wood'.split()
-REC=list(CT.keys())
+REC='adams|allen|ashland|ashtabula|athens|auglaize|belmont|brown|butler|carroll|champaign|clark|clermont|clinton|columbiana|coshocton|crawford|cuyahoga|darke|defiance|delaware|erie|fairfield|fayette|franklin|fulton|gallia|geauga|greene|guernsey|hamilton|hancock|hardin|harrison|henry|highland|hocking|holmes|huron|jackson|jefferson|knox|lake|lawrence|licking|logan|lorain|lucas|madison|mahoning|marion|medina|meigs|mercer|miami|monroe|montgomery|morgan|morrow|muskingum|noble|ottawa|paulding|perry|pickaway|pike|portage|preble|putnam|richland|ross|sandusky|scioto|seneca|shelby|stark|summit|trumbull|tuscarawas|union|vinton|warren|washington|wayne|williams|wood|wyandot'.split('|')
+REC=[x for x in CT if x.lower() in REC]
 BLOCK=()
 def clean_urls(v):
     for k in ('assessor','collector','recorder'):
