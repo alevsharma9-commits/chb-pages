@@ -79,5 +79,8 @@ SP=[{",".join(f"('{low}-{CAT[k][0]}','{CAT[k][2].format(ST=ST)}','Official sourc
     return (out+ex)[:4]
 '''
     s=s.replace(old,new)
+    s=s.replace("')+\"+(f\" and","')+(f\" and")
+    s=s.replace("def mk(slug,h1,rt,rd,fk,h2,hp,body,faqs,crumb,cards,srcs):\n","def mk(slug,h1,rt,rd,fk,h2,hp,body,faqs,crumb,cards,srcs):\n    rd=rd if len(rd)<=155 else rd[:152].rsplit(' ',1)[0]+'.'\n    rt=rt if len(rt)<=62 else rt[:62].rsplit(' ',1)[0]\n",1)
+    s=s.replace("r['value']","(r.get('value') or r.get('text'))").replace("if r and r.get('opened') else","if isinstance(r,dict) and r.get('opened') else").replace(" for {r.get('year')}.",".")
     open(f'gen/{code}_all.py','w').write(s)
 if __name__=='__main__': build(json.load(open(sys.argv[1])))
