@@ -1,0 +1,85 @@
+{
+ "slug": "massachusetts-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Massachusetts tax the gain when I sell a house?",
+   "html": "<p>Yes, the gain can be taxed as income, but an owner who sells a main home may be able to keep a large part of it out of the calculation. The pages we reviewed treat the profit as income on your state return, and the Department of Revenue sets the rate by how long you held the property.</p><p>The same return reports everything else you earned that year, so a large sale can sit next to other income near the surtax threshold. It is worth asking a preparer about timing before you sign.</p><table><thead><tr><th>Type of gain</th><th>Massachusetts rate</th></tr></thead><tbody><tr><td>Long-term capital gain</td><td>5.00%</td></tr><tr><td>Short-term capital gain</td><td>8.5%</td></tr><tr><td>Long-term gain on collectibles</td><td>12.00%, with a 50% deduction</td></tr><tr><td>Extra surtax, tax year 2026</td><td>4% on income over $1,107,750</td></tr><tr><td>Extra surtax, tax year 2025</td><td>4% on income over $1,083,150</td></tr><tr><td>Extra surtax, tax year 2024</td><td>4% on income over $1,053,750</td></tr></tbody></table><p>The rates come from the state's Tax Rates page, last updated December 30, 2025. A house is not a collectible, so the 12 percent line matters only for items sold alongside a property.</p>"
+  },
+  {
+   "h2": "How does the principal residence exclusion work in Massachusetts?",
+   "html": "<p>Massachusetts follows the federal rule that lets you exclude up to $250,000 of gain on the sale of a principal residence, or $500,000 if you file jointly. The state's own budget document describes this as conformity to Internal Revenue Code section 121 and cites M.G.L. c. 62, sections 1(c), 1(d) and 2(a).</p><p>The Governor's FY25 tax expenditure budget estimated this exclusion at $435.5 million for FY2025, up from $359.3 million in FY2021. The figure shows the exclusion is a sizable item in the state budget.</p><ul><li>It applies to a principal residence, so an investment property or a second home does not qualify.</li><li>The dollar caps are $250,000 for one filer and $500,000 for joint filers.</li><li>Any gain above the cap is taxed at the rate that fits the holding period.</li></ul><p>Confirm the federal qualification tests with a tax professional before you rely on the exclusion.</p>"
+  },
+  {
+   "h2": "What is different about an investment house or a rental?",
+   "html": "<p>A rental house you sell does not get the principal residence exclusion, so the whole gain is exposed to the 5 percent or 8.5 percent rate. The exclusion is written for a principal residence, and the state budget entry says nothing about rentals. If you are selling a tenant-occupied house, the rate depends on your holding period.</p><p>Investors who hold a house for more than one year get the lower long-term rate in the state's rate table, which the Department of Revenue describes as applying to long-term gains, while gains on assets held a year or less fall in the 8.5 percent group. An investor planning a sale near the one-year mark should check the exact dates with a tax adviser, because the rate difference is 3.5 percentage points on every taxable dollar.</p>"
+  },
+  {
+   "h2": "When does Massachusetts want the tax paid on a house sale?",
+   "html": "<p>The tax is due with your annual return, and the state's due-dates page sets April 15 as the deadline for the prior year. The 2025 Form 1 was due on or before April 15, 2026. If you sell in the middle of a year and owe a large amount, estimated payments also come into play.</p><p>The Department of Revenue lists these 2026 installments on Form 1-ES:</p><ul><li>April 15, 2026</li><li>June 16, 2026</li><li>September 15, 2026</li><li>January 15, 2027</li></ul><p>An extension gives more time to file, not more time to pay, so interest runs on any unpaid amount. To be valid, at least 80 percent of the liability must be paid by the original due date, and a payment of $5,000 or more with an extension must be made electronically. Filing an extension with the IRS does not count as a Massachusetts extension. The department's contact center is (617) 887-6367, or (800) 392-6089 in Massachusetts, weekdays 9 a.m. to 4 p.m.</p>"
+  },
+  {
+   "h2": "Is the deeds excise the same as a capital gains tax?",
+   "html": "<p>No. The deeds excise is a transfer tax on the sales price, and the capital gains tax is an income tax on your profit. The Department of Revenue lists the deeds excise at $2.28 per $500 of the sales price, less any mortgage assumed.</p><p>As a simple illustration of the math, a $500,000 sale with no assumed mortgage has 1,000 units of $500, and at $2.28 each the excise comes to $2,280. That is an example of arithmetic, not a quote for your sale, and you should ask your closing attorney what applies to your deed. Even if your capital gain is fully excluded, the excise on the deed is a separate line. The Department of Revenue page also points readers to TIR 19-14 for surcharge information.</p>"
+  },
+  {
+   "h2": "What other Massachusetts steps affect the net from a sale?",
+   "html": "<p>A few state rules can change the closing date and your costs, whatever your tax picture looks like. The Trial Court Law Libraries say attorneys are a regular part of buying and selling by law and by practice. They also explain that deeds to 80 to 90 percent of properties are filed as recorded land at a county Registry of Deeds, while the rest is registered land documented by a Land Court certificate. The Secretary of the Commonwealth runs a service that emails you when a new document is recorded against your property, and deeds can be searched at masslandrecords.com.</p><p>Selling a home also requires a smoke and carbon monoxide certificate of compliance from the local fire department, for which the department charges a fee. The Department of Fire Services says to schedule the inspection as soon as you have a closing date. Battery-powered smoke alarms that are more than ten years old or expired must be replaced with 10-year sealed, photoelectric units that have a hush feature.</p><p>Property tax is also a separate matter from income tax. In Boston the residential rate is $12.40 per $1,000, and in Cambridge the FY2027 residential rate is $6.95 per $1,000, according to each city's own page. Those bills are separate from the gain.</p>"
+  },
+  {
+   "h2": "What if I inherited the house and want to sell?",
+   "html": "<p>An inherited house may carry a different set of questions, and the Massachusetts estate lien and release rules can also affect the closing. Read our Massachusetts estate tax page for the $2,000,000 threshold, the $99,600 credit and the release of lien process, and our probate page for the court side.</p><p>The state's capital gains pages we reviewed did not set out a special inherited-property rule, so we do not state one here. Ask a Massachusetts tax preparer how the inherited basis works for your return.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Massachusetts capital gains tax rate on a house?",
+   "a": "Long-term gains are taxed at 5.00 percent and short-term gains at 8.5 percent, according to the Department of Revenue. A 4 percent surtax applies to income over $1,107,750 in tax year 2026."
+  },
+  {
+   "q": "How much gain can I exclude when I sell my main home in Massachusetts?",
+   "a": "Up to $250,000, or $500,000 if you file jointly. Massachusetts conforms to Internal Revenue Code section 121 for this exclusion, per the state's tax expenditure budget."
+  },
+  {
+   "q": "Is there a difference between short-term and long-term gains on a house?",
+   "a": "Yes. Gains on assets held one year or less are taxed at 8.5 percent, while long-term gains are taxed at 5.00 percent. The difference is 3.5 percentage points on the taxable amount."
+  },
+  {
+   "q": "Do I owe the deeds excise even if my gain is excluded?",
+   "a": "Yes, the deeds excise is a separate transfer tax. The state lists it at $2.28 per $500 of the sales price, less any mortgage assumed. Ask your closing attorney for the figure on your sale."
+  },
+  {
+   "q": "When do I pay Massachusetts tax on the gain?",
+   "a": "With your annual return, due April 15 of the following year. For large gains, estimated payments on Form 1-ES may apply, and an extension to file does not extend the time to pay."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Tax Rates, Mass.gov DOR",
+   "url": "https://www.mass.gov/info-details/tax-rates"
+  },
+  {
+   "title": "Tax Due Dates and Extensions, Mass.gov DOR",
+   "url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions"
+  },
+  {
+   "title": "1.021 Exemption of Capital Gains on Home Sales, Governor's FY25 Budget",
+   "url": "https://budget.digital.mass.gov/govbudget/fy25/tax-expenditure-budget/personal-income-tax/exclusions-from-gross-income/1-021/"
+  },
+  {
+   "title": "Massachusetts law about real estate conveyancing, Mass.gov Trial Court Law Libraries",
+   "url": "https://www.mass.gov/info-details/massachusetts-law-about-real-estate-conveyancing-buying-and-selling"
+  },
+  {
+   "title": "Preparing Your Home for a Smoke and CO Alarm Inspection, Mass.gov",
+   "url": "https://www.mass.gov/info-details/preparing-your-home-for-a-smoke-and-co-alarm-inspection"
+  },
+  {
+   "title": "How We Tax Your Property, Boston.gov",
+   "url": "https://www.boston.gov/departments/assessing/how-we-tax-your-property"
+  },
+  {
+   "title": "FY27 Property Tax Information, City of Cambridge",
+   "url": "https://www.cambridgema.gov/departments/finance/propertytaxinformation"
+  }
+ ]
+}
