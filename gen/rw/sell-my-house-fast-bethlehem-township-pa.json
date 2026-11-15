@@ -22,6 +22,14 @@
    "html": "<p>It is a Certificate of Use and Occupancy inspection that the Code Enforcement Officer performs for the resale of residential property and whenever a rental changes tenants. The application lives in the township's Forms and Documents list under the Property Resale/Lease Inspection Program.</p>\n<ul>\n<li>The form asks for the premises address, the reason (residential resale or change of tenant) and the type of building, such as single-family dwelling, townhouse or condo.</li>\n<li>It records the settlement date and whether the agreement of sale is attached.</li>\n<li>It names a contact for scheduling: seller, buyer, or the agent or attorney.</li>\n<li>The owner signs permission for the inspection.</li>\n</ul>\n<p>The township says the inspection checks general compliance with its property maintenance, building and zoning rules under Ordinance Nos. 6-78 and 06-23. It is not a home inspection, the electrical portion looks only at GFCI protection, and the certificate carries no township liability for the condition of the house. Call the Code Enforcement Officer at (610) 814-6467 with questions.</p>"
   },
   {
+   "h2": "Which projects at a Bethlehem Township house need a permit?",
+   "html": "<p>Zoning permits cover small outdoor projects, while construction permits cover structural, mechanical and interior work, and the township says the lists are not all-inclusive. The township enforces the Pennsylvania Uniform Construction Code and the 2018 International Codes. Call the Permit Department at (610) 814-6435 if you are unsure.</p>\n<ul>\n<li>Zoning permit only: detached garages and sheds under 1,000 square feet, decks under 30 inches above grade, patios, fences, driveway expansions and retaining walls of 48 inches or less.</li>\n<li>Construction permit: structural changes, plumbing, electrical, HVAC and replacement water heaters, replacement windows, decks 30 inches or higher, pools, hot tubs, finished basements, living space conversions and patio roofs.</li>\n</ul>\n<p>Finished basements and replacement water heaters appear on the permit list, and both are common in houses that are decades old. If a previous owner did that work, ask the Community Development Department whether a permit was closed out before the resale inspector arrives.</p>"
+  },
+  {
+   "h2": "Where can I check zoning and parcel facts for my property?",
+   "html": "<p>The township's Interactive Mapping System shows parcel number, lot dimensions and zoning for any address. Tax values, sales data and ownership records come from Northampton County, whose public records site is ncpub.org, and the township notes that the land use code there is a tax code, not the township's zoning.</p>\n<p>Zoning matters at resale because the township sorts every land use into permitted by right, special exception or conditional use. A use that predates the ordinance may be grandfathered as nonconforming, and variances go to the Zoning Hearing Board. Boundary and survey questions go to the Northampton County Recorder of Deeds.</p>"
+  },
+  {
    "h2": "What if the Bethlehem Township house is vacant or in foreclosure?",
    "html": "<p>The township requires vacant properties and properties in foreclosure to be registered, and it administers the program through Hera Property Registry. Owners, mortgagees and trustees register online and pay a registration fee.</p>\n<p>The program exists because neglected, unsecured houses draw complaints and sometimes crime, and out-of-state owners are hard to notify of violations. If you inherited an empty house or fell behind on a mortgage, register it first and then deal with the resale inspection. Most code enforcement actions start with a concern raised by a resident or owner, and the township does not accept anonymous complaints.</p>"
   },
@@ -72,6 +80,14 @@
   {
    "title": "Bethlehem Township Residential Construction",
    "url": "https://bethlehemtownship.org/res-construction"
+  },
+  {
+   "title": "Bethlehem Township Permits",
+   "url": "https://bethlehemtownship.org/perm_about"
+  },
+  {
+   "title": "Bethlehem Township Zoning",
+   "url": "https://bethlehemtownship.org/zoning"
   },
   {
    "title": "Pennsylvania Department of Revenue: Realty Transfer Tax",
