@@ -7,3 +7,4 @@
 - Publishing: the live updater (WPCode #43678) processes each manifest file once. After the last merge, reset chb_up_done again (Tools > CHB Page Updater > Reset progress).
 - tennessee-eviction-notice has a single source (Tennessee Courts presentation).
 - luzerne-county-pa-recorder-of-deeds: fees from Nov 2025 schedule; July 1 2026 schedule unopened. Recheck. pennsylvania-eviction-notice: one source.
+- sell-my-house-fast-lebanon-pa: Lebanon County Sept 1 appeal deadline from a 2013 PDF; recheck.

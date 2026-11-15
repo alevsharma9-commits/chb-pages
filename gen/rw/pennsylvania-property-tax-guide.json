@@ -1,73 +1,61 @@
 {
- "slug": "pennsylvania-property-tax-guide",
- "sections": [
-  {
-   "h2": "Who sets and collects property tax in Pennsylvania?",
-   "html": "<p>Pennsylvania property tax is built from two layers. The county assessment office places a value on each parcel, and the taxing districts that rely on that value, meaning the county, the municipality and the school district, apply their own rates to it. Chapter 88 of Title 53 covers the assessment side, and it says the assessment office values real property at a figure based on an established predetermined ratio that may not exceed 100 percent of actual value.</p><p>Because each county sets its ratio by ordinance and each taxing district applies its own rate, two houses with the same market value can carry very different bills in different parts of the state. For a seller, the number to check is the bill for the parcel itself, which the county assessment office or the local tax collector can give you.</p>"
-  },
-  {
-   "h2": "How is a Pennsylvania home valued for tax?",
-   "html": "<p>Section 8842 tells the assessor to consider three methods together: the cost approach, the comparable sales approach and the income approach. A sale price in the base year or the current year is considered, but it is not controlling, and it can be revised up or down to equalize with similar property in the county. A county may use current market value or a base-year market value.</p><p>So a recent sale price is one input among several. The statute also bars spot reassessment under section 8843, and an owner who is subjected to it can appeal on that issue and seek a refund with interest. A change made because a board decided an appeal does not count as spot reassessment.</p>"
-  },
-  {
-   "h2": "What is the deadline to appeal an assessment?",
-   "html": "<p>The statutory appeal date is September 1 each year, and county commissioners may set an earlier date no sooner than August 1 if they publish notice at least two weeks before it. Any person aggrieved by an assessment can file, whether or not the value changed since the prior year. A separate rule covers a change or new assessment: the notice must tell the owner that an appeal may be filed within 40 days of the date of the notice.</p><ul><li>The appeal is written and names the appellant, the property location, the owner, the assessment being challenged and a mailing address for the hearing notice.</li><li>Hearings on annual appeals are held and decided by October 31.</li><li>Hearing notices go out at least 20 days ahead, and an appellant who skips the hearing is presumed to have abandoned the appeal.</li><li>The board decides market value as of the filing date, then applies the ratio unless the state's common level ratio differs from it by more than 15 percent.</li></ul><p>A decision can go to the court of common pleas in the county where the property sits. A changed assessment after an appeal generally applies in the next fiscal year of the taxing district, so an appeal is a slow tool for a seller who wants to close soon.</p>"
-  },
-  {
-   "h2": "What relief programs lower the bill for owners?",
-   "html": "<p>Two state programs matter to owners who stay in the home or sell to a buyer who will occupy it. The homestead and farmstead exclusion lowers the assessed value of a qualifying primary residence by the same amount before the school tax is computed. The Property Tax/Rent Rebate Program pays eligible older adults and people with disabilities a refund.</p><table><caption>Pennsylvania property tax relief programs (Department of Community and Economic Development; Department of Revenue)</caption><thead><tr><th>Program</th><th>Who qualifies</th><th>Key rule</th></tr></thead><tbody><tr><td>Homestead or farmstead exclusion</td><td>Owner-occupied primary residence</td><td>Apply by March 1 before the tax year; file with the county assessment office</td></tr><tr><td>Property Tax/Rent Rebate</td><td>Age 65 and older, widows and widowers 50 and older, people with disabilities 18 and older</td><td>Household income of $48,110 or less; rebates from $380 to $1,000</td></tr></tbody></table><p>Under the rebate chart, income from $0 to $8,550 earns $1,000, $8,551 to $16,040 earns $770, $16,041 to $19,240 earns $460 and $19,241 to $48,110 earns $380. A supplement of $190 to $500 applies to owners with $32,070 or less in income whose property taxes exceed 15 percent of income, and to people who live in Philadelphia, Scranton or Pittsburgh. The deadline for 2025 claims was set at December 31, 2026, and each later year carries its own deadline, so confirm it on the department's program page.</p>"
-  },
-  {
-   "h2": "How does the homestead exclusion work?",
-   "html": "<p>The Taxpayer Relief Act, Act 1 of Special Session 1 of 2006, distributes state funds to school districts, which then reduce the assessed value of homesteads and farmsteads. Only a primary residence qualifies, and a farmstead means the buildings on a farm of at least ten contiguous acres where an owner lives. Homeowners are not guaranteed an exclusion unless funds are available.</p><p>An application filed by March 1 covers tax years beginning July 1 or January 1 that follow. School districts must tell owners by December 31 if a property is not approved or if the approval is due to expire. The Governor cannot extend the March 1 date alone, since it sits in section 341 of Act 72 of 2004. Ask the county assessment office for the county form, and ask how a sale affects the exclusion on file.</p>"
-  },
-  {
-   "h2": "Who is billed when the owner has died?",
-   "html": "<p>Section 8863 allows property that still belongs to a decedent's estate to be assessed in the name of the decedent or the personal representative. A tax bill that arrives in a dead owner's name is therefore normal, and it still has to be paid. The personal representative handles it from estate funds while the house waits for sale.</p><p>Heirs who inherit a house should ask the county assessment office to change the mailing address after letters are granted, and should ask whether the homestead exclusion on file still applies, since the law defines a homestead by use as an owner's domicile. A house left vacant after a death may no longer fit that definition, so ask the assessment office what happens to the exclusion.</p>"
-  },
-  {
-   "h2": "What property tax steps come with selling a house?",
-   "html": "<p>Selling creates several small duties around the tax system. Under section 8862.1, a grantee of real property must register the deed with the county's chief assessor within 30 days of conveyance, unless the deed was already recorded with the recorder of deeds. Willful failure is a summary offense with a fine of $50 to $100.</p><p>The realty transfer tax is a separate charge on the sale. The state rate is 1 percent of the value of real estate transferred by deed, collected by county Recorders of Deeds along with any local tax, and both grantor and grantee are jointly liable. Ask the recorder for the local rate where the house sits.</p><ul><li>Ask the tax collector for the current bill and any balance due on the parcel.</li><li>Ask the title company how school and county taxes will be prorated at closing.</li><li>Ask the assessment office whether a homestead exclusion is on file for the seller.</li></ul><p>For a house with tax behind on it, ask the county tax claim bureau for the payoff figure and whether the parcel has a sale date.</p>"
-  }
- ],
- "faqs": [
-  {
-   "q": "When is the Pennsylvania property tax assessment appeal deadline?",
-   "a": "It is September 1, unless the county commissioners set an earlier date that is no sooner than August 1. A change or new assessment carries its own 40 day appeal window from the notice date."
-  },
-  {
-   "q": "Does a new sale price raise my assessment?",
-   "a": "It can be considered, but section 8842 says the price is not controlling and may be revised to equalize with similar property. A county may also adopt a base-year market value, which the statute allows."
-  },
-  {
-   "q": "What is the homestead exclusion deadline?",
-   "a": "March 1 before the tax year, filed with the county assessment office. The exclusion covers only a primary residence."
-  },
-  {
-   "q": "Who must register a new deed with the assessor?",
-   "a": "The grantee, within 30 days of conveyance, unless the deed was already recorded with the recorder of deeds. A willful failure is a summary offense under 53 Pa.C.S. 8862.1."
-  },
-  {
-   "q": "Is there a state rebate on property tax for seniors?",
-   "a": "Yes. The Property Tax/Rent Rebate Program pays $380 to $1,000 to eligible homeowners and renters age 65 and older, widows and widowers 50 and older, and people with disabilities 18 and older, with household income of $48,110 or less."
-  }
- ],
- "sources": [
-  {
-   "title": "Pennsylvania Consolidated Statutes, Title 53, Chapter 88 (County Assessment)",
-   "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/53/53.HTM"
-  },
-  {
-   "title": "PA DCED, Property Tax Relief Through Homestead Exclusion",
-   "url": "https://dced.pa.gov/local-government/property-tax-relief-homestead-exclusion/"
-  },
-  {
-   "title": "Pennsylvania Department of Revenue, Property Tax/Rent Rebate Program",
-   "url": "https://www.pa.gov/agencies/revenue/ptrr"
-  },
-  {
-   "title": "Pennsylvania Department of Revenue, Realty Transfer Tax",
-   "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"
-  }
- ]
+  "slug": "pennsylvania-property-tax-guide",
+  "sections": [
+    {
+      "h2": "Which offices decide what a Pennsylvania house owes in property tax?",
+      "html": "<p>Two steps produce every bill. A county assessment office puts a value on each parcel, and then the county, the municipality and the school district apply their rates to that value. Chapter 88 of Title 53 governs the first step. It tells the assessor to work from an established predetermined ratio that cannot exceed 100 percent of actual value, and the county commissioners adopt that ratio by ordinance.</p><p>Since every county chooses its own ratio and every taxing body its own rate, identical homes can carry unlike bills from one corner of the state to another. A seller should look at the bill for the specific parcel, which the county assessment office or the local tax collector can supply, rather than at averages for the region.</p>"
+    },
+    {
+      "h2": "How is a Pennsylvania home valued for tax?",
+      "html": "<p>Section 8842 makes the assessor weigh three methods together: the cost approach, the comparable sales approach and the income approach. A sale price in the base year or the current year counts as evidence but does not control, and it can be adjusted up or down to match similar property in the county. A county may use current market value or adopt a base-year market value.</p><p>So a fresh sale price is one input among several. Section 8843 adds a guardrail: the assessment office may not engage in spot reassessment of single properties. An owner who is subjected to it may appeal on that issue and, if the board or a court agrees, recover taxes paid with interest. A changed assessment that results from a normal appeal does not count as spot reassessment.</p>"
+    },
+    {
+      "h2": "What is the deadline to appeal an assessment?",
+      "html": "<p>The default filing date is September 1. County commissioners may pick a different date, no earlier than August 1, if they publish notice at least two weeks ahead. Anyone aggrieved by an assessment may file, even if the figure did not change from the year before. A new assessment or a mid-year change comes with its own clock: the mailed notice must say an appeal can be filed within 40 days of the notice date.</p><ul><li>Put the appeal in writing and name the appellant, the parcel address, the owner, the assessment at issue and where to mail the hearing notice.</li><li>The board hears annual appeals and acts on them by October 31.</li><li>It mails hearing notices at least 20 days before the hearing, and a no-show is presumed to have abandoned the case.</li><li>At the hearing the board finds market value as of the filing date and applies the ratio, unless the state's published common level ratio differs from the county ratio by more than 15 percent.</li></ul><p>Either side may then take the board's decision to the common pleas court of the county. A lowered assessment generally starts working in the taxing district's next fiscal year, which makes an appeal slow relief for anyone about to sell.</p>"
+    },
+    {
+      "h2": "What relief programs lower the bill for owners?",
+      "html": "<p>Two state programs matter. The homestead and farmstead exclusion cuts the assessed value of a qualifying primary residence by a uniform amount before school tax is figured. The Property Tax/Rent Rebate Program sends cash back to eligible older residents and people with disabilities.</p><table><caption>Pennsylvania property tax relief programs (Department of Community and Economic Development; Department of Revenue)</caption><thead><tr><th>Program</th><th>Who qualifies</th><th>Key rule</th></tr></thead><tbody><tr><td>Homestead or farmstead exclusion</td><td>Owner-occupied primary residence</td><td>Apply by March 1 before the tax year; file with the county assessment office</td></tr><tr><td>Property Tax/Rent Rebate</td><td>Age 65 and older, widows and widowers 50 and older, people with disabilities 18 and older</td><td>Household income of $48,110 or less; rebates from $380 to $1,000</td></tr></tbody></table><p>The rebate shrinks as income rises: the top tier is $1,000 for income up to $8,550, and the bottom tier is $380 for income between $19,241 and $48,110. Owners with $32,070 or less in income whose property taxes exceed 15 percent of income can receive a supplement of $190 to $500, and so can residents of Philadelphia, Scranton and Pittsburgh. The 2025 claim year carried a December 31, 2026 filing deadline, and later years set their own, so read the department's program page before filing.</p>"
+    },
+    {
+      "h2": "How does the homestead exclusion work?",
+      "html": "<p>The Taxpayer Relief Act, Act 1 of Special Session 1 of 2006, sends state money to school districts, which then lower the assessed value of homesteads and farmsteads. A homestead is a dwelling used mainly as the domicile of an owner who is a natural person. A farmstead means the buildings on a farm of at least ten contiguous acres where an owner lives. Owners have no guarantee of an exclusion unless funding exists.</p><p>An application filed by March 1 covers the tax year that follows, whether it begins July 1 or January 1. By December 31, a school district must notify an owner whose property was not approved or whose approval is about to lapse. The March 1 date is in section 341 of Act 72 of 2004, so the Governor cannot move it alone. Request the county form from the assessment office and ask how a sale affects the exclusion on file.</p>"
+    },
+    {
+      "h2": "Who is billed when the owner has died?",
+      "html": "<p>Section 8863 lets the county assess a decedent's property under the dead owner's name or under the personal representative's name while it stays in the estate. A bill addressed to a deceased owner is therefore ordinary, and the estate still owes it. The personal representative pays from estate funds while the house waits for a buyer.</p><p>After letters issue, an heir should ask the county assessment office to update the mailing address and to report what happens to any exclusion on file. The law defines a homestead by use as an owner's domicile, and a house left empty after a death may no longer fit that definition.</p>"
+    },
+    {
+      "h2": "What property tax steps come with selling a house?",
+      "html": "<p>Section 8862.1 puts a duty on the buyer: register the deed with the county's chief assessor within 30 days of conveyance, unless the deed was already recorded with the recorder of deeds. A willful failure is a summary offense carrying a fine of $50 to $100.</p><p>The realty transfer tax is its own charge. Pennsylvania takes one percent of the value on a transfer by deed, county recorders collect it along with any local levy, and buyer and seller answer for it jointly. The recorder in the house's county can quote the local portion.</p><ul><li>Request the latest bill and any unpaid balance on the parcel from the tax collector.</li><li>Have the title company explain how school and county taxes will be split at closing.</li><li>Check with the assessment office whether a homestead exclusion sits on file in the seller's name.</li></ul><p>When taxes are behind, call the county tax claim bureau for a payoff figure and ask whether the parcel has been given a sale date.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When must I file a Pennsylvania assessment appeal?",
+      "a": "By September 1, unless the county commissioners picked an earlier date no sooner than August 1. A new or changed assessment carries a separate 40 day window counted from the notice date."
+    },
+    {
+      "q": "Does a new sale price raise my assessment?",
+      "a": "It can be weighed, but section 8842 says the price is not controlling and may be revised to match similar property. A county may also adopt a base-year market value, which the statute allows."
+    },
+    {
+      "q": "What is the homestead exclusion deadline?",
+      "a": "March 1 before the tax year, filed with the county assessment office. The exclusion covers only a primary residence."
+    },
+    {
+      "q": "Who registers a new deed with the assessor?",
+      "a": "The buyer, within 30 days of conveyance, unless the deed was already recorded with the recorder of deeds. A willful failure is a summary offense under 53 Pa.C.S. 8862.1."
+    },
+    {
+      "q": "Is there a state rebate on property tax for seniors?",
+      "a": "Yes. The Property Tax/Rent Rebate Program pays $380 to $1,000 to eligible homeowners and renters who are 65 or older, widowed at 50 or older, or disabled at 18 or older, with household income of $48,110 or less."
+    }
+  ],
+  "sources": [
+    {"title": "Pennsylvania Consolidated Statutes, Title 53, Chapter 88 (County Assessment)", "url": "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/53/53.HTM"},
+    {"title": "PA DCED, Property Tax Relief Through Homestead Exclusion", "url": "https://dced.pa.gov/local-government/property-tax-relief-homestead-exclusion/"},
+    {"title": "Pennsylvania Department of Revenue, Property Tax/Rent Rebate Program", "url": "https://www.pa.gov/agencies/revenue/ptrr"},
+    {"title": "Pennsylvania Department of Revenue, Realty Transfer Tax", "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"}
+  ]
 }
