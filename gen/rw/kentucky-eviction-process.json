@@ -14,6 +14,10 @@
    "html": "<p>Whoever loses can appeal within seven days after the finding. An appellant has to place the rent owed since the case began, plus every later month's rent as it falls due, with the circuit court clerk.</p>\n<p>The money stays with the clerk until the court orders it paid out when the appeal ends. Making that deposit perfects the appeal, which pauses the inquisition and sends the file up to circuit court within ten days. An appellant who drops the appeal, along with any surety, answers under KRS 383.260 for the landlord's losses from the delay and the reasonable cost of defending the appeal.</p>"
   },
   {
+   "h2": "What should each side prepare for the hearing?",
+   "html": "<p>Bring paper that proves the tenancy and the default. A landlord's file should hold the lease, the rent ledger, any termination notice with proof of delivery, and photographs if damage is claimed. A tenant's file should hold rent receipts, repair requests and any written agreement about late payments.</p>\n<ul>\n<li>Either party can ask the court to issue subpoenas for witnesses, and the court can compel attendance under KRS 383.230.</li>\n<li>A defendant served less than three days before the hearing can move to adjourn until the three days have run, under KRS 383.215.</li>\n<li>A jury is used only if a party demands one, and the sheriff does not summon one unless a party gives written notice of the demand.</li>\n</ul>"
+  },
+  {
    "h2": "What if the occupant was never a tenant?",
    "html": "<p>KRS 383.290, enacted in 2025, lets an owner ask a law enforcement officer to remove a person who is in the house without permission, but only when every condition fits. A current or former tenant, or anyone who once had the owner's agreement to live there, cannot be removed this way.</p>\n<ul>\n<li>The person has never been a tenant and never held a written or oral agreement from the owner.</li>\n<li>The building was closed to the public on the day the person came in.</li>\n<li>The owner has told the person to go.</li>\n<li>The person is outside the statute's list of close relatives, and no lawsuit over the property is pending between the two sides.</li>\n</ul>\n<p>The owner hands the officer a signed petition, the officer checks identification and serves a notice to vacate, and a sheriff or constable may charge a $20 service fee. Someone wrongfully removed has 60 days to sue in District Court and can win lawyer fees, so reserve this route for clear cases.</p>"
   },
@@ -124,6 +128,10 @@
   {
    "title": "Kentucky Court of Justice, Legal Self-Help",
    "url": "https://kycourts.gov/Legal-Help/Pages/default.aspx"
+  },
+  {
+   "title": "KRS 383.230, Witnesses, subpoenas and coercion of attendance",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35705"
   }
  ]
 }
