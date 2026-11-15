@@ -1,0 +1,97 @@
+{
+ "slug": "idaho-quitclaim-deed",
+ "sections": [
+  {
+   "h2": "What does an Idaho quitclaim deed actually do?",
+   "html": "<p>An Idaho quitclaim deed hands over whatever interest the signer has in a property, without promising that the interest is good. A county recorder in Idaho describes a quitclaim as a conveyancing instrument that makes no warranties and simply releases the grantor's current right, title and interest (<a href=\"https://www.bannockcounty.gov/recorder/\">Bannock County Recorder</a>).</p>\n<p>That wording is the key to when it works. The deed moves what the grantor has, and nothing more. If the grantor owns the whole house, the grantee gets the whole house. If the grantor owns half, the grantee gets half. If the grantor owns nothing, the deed passes nothing.</p>\n<p>Idaho law treats the conveyance as final between the parties. A grant of an estate in real property is conclusive against the grantor and anyone who later claims under the grantor, with one exception: a purchaser or encumbrancer who acts in good faith, pays value and first duly records an instrument can come out ahead (<a href=\"https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH6/SECT55-606/\">Idaho Code 55-606</a>). That exception is why recording matters so much, and the later sections come back to it.</p>"
+  },
+  {
+   "h2": "When does a quitclaim deed make sense in Idaho?",
+   "html": "<p>A quitclaim works best between people who already trust each other and already know the title. It is a poor fit for a sale to a stranger, because the buyer gets no promise about the title.</p>\n<ul>\n<li><strong>Adding or removing a spouse.</strong> A couple who own a home together can change how title is held.</li>\n<li><strong>Moving a house into a trust or an LLC.</strong> The owner and the new holder are effectively the same person or group.</li>\n<li><strong>Clearing a name from title after a divorce or a family agreement.</strong> One person releases whatever claim they have.</li>\n<li><strong>Fixing a gap.</strong> A person who may hold a stray interest signs to release it.</li>\n</ul>\n<p>It works less well when the property is being sold on the open market. A buyer using a lender will usually expect a title company to insure the title, and a bare quitclaim leaves the insurer with the job of checking everything behind it. For an heir or co-owner who wants a quick cash sale, the deed is usually one step in a longer title path, not the end of it. If you are unsure whether the person signing actually holds title, find out before the deed is signed, not after it is recorded.</p>"
+  },
+  {
+   "h2": "What must an Idaho deed contain to be valid?",
+   "html": "<p>An Idaho deed must be in writing, signed by the person giving up the property or an agent authorized in writing, and it must show the grantee's name and complete mailing address (<a href=\"https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH6/SECT55-601/\">Idaho Code 55-601</a>). The mailing address requirement is easy to miss and is a common reason a recorder questions a document.</p>\n<p>Before it can be recorded, the signature must be acknowledged, which in practice means signing before a notary or other authorized officer. The statute lists who acknowledges for different signers: the person executing it, a corporation's officer, a partner, or a manager or member of a limited liability company. A deed signed and acknowledged in another state or country under that place's law is entitled to record, and a certificate of acknowledgment attached to it is prima facie sufficient (<a href=\"https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/SECT55-805/\">Idaho Code 55-805</a>).</p>\n<p>If an attorney in fact signs, the power of attorney has to be filed for record in the same office before the deed itself is recorded (Idaho Code 55-806). A quick checklist helps:</p>\n<ul>\n<li>Grantor's signature, acknowledged</li>\n<li>Grantee's full name and complete mailing address</li>\n<li>A legal description of the property that matches the existing record</li>\n<li>Recorded power of attorney first, if an agent signs</li>\n</ul>"
+  },
+  {
+   "h2": "Where and how is an Idaho deed recorded?",
+   "html": "<p>A deed is recorded with the county recorder of the county where the property sits (<a href=\"https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/SECT55-808/\">Idaho Code 55-808</a>). An instrument counts as recorded when, being duly acknowledged, it is deposited with the proper officer at the recorder's office (Idaho Code 55-809).</p>\n<p>Kootenai County is a useful example of how a local office presents it. The county recorder lists hours of 9 a.m. to 5 p.m. Monday through Friday, excluding holidays, charges the standard $10 for the first page and $3 for each additional page on document types without a special rate, and sells copies of recorded documents at $1.00 per page (<a href=\"https://www.kcgov.us/359/Recording-Documents\">Kootenai County Recorder</a>). Other counties publish their own hours and methods, so call or check the county website before sending a deed.</p>\n<p>State law also says instruments delivered to a county recorder are recorded rather than merely filed, except plats, surveys, corner records and Uniform Commercial Code instruments (Idaho Code 31-3205(4)).</p>"
+  },
+  {
+   "h2": "What do Idaho recorders charge for deeds and related documents?",
+   "html": "<p>Idaho sets recording fees by statute, and a deed of 30 pages or less costs $15.00 to record. The table lists the amounts from <a href=\"https://legislature.idaho.gov/statutesrules/idstat/title31/t31ch32/sect31-3205/\">Idaho Code 31-3205</a>.</p>\n<table><thead><tr><th>Item</th><th>Statutory fee</th></tr></thead><tbody>\n<tr><td>Deeds, grants and transfers of title (30 pages or less)</td><td>$15.00</td></tr>\n<tr><td>Other instruments, first page</td><td>$10.00</td></tr>\n<tr><td>Each additional page</td><td>$3.00</td></tr>\n<tr><td>Reconveyance of a trust deed or release of a mortgage (30 pages or less)</td><td>$15.00</td></tr>\n<tr><td>Power of attorney</td><td>$25.00</td></tr>\n<tr><td>Substitution of trustee</td><td>$10.00</td></tr>\n<tr><td>Copy of a record, each page</td><td>$1.00</td></tr>\n<tr><td>Certificate under seal, when required</td><td>$1.00</td></tr>\n<tr><td>Taking an acknowledgment, including seal</td><td>$1.00</td></tr>\n</tbody></table>\n<p>These are the recorder's fees. A notary, a title company or an attorney may charge separately for their own work. A deed that runs longer than 30 pages falls under the per-page schedule instead of the flat $15.00.</p>"
+  },
+  {
+   "h2": "What happens if a quitclaim deed is never recorded?",
+   "html": "<p>An unrecorded deed still binds the people who signed it, but it leaves the new owner exposed. Idaho Code 55-815 says an unrecorded instrument is valid between the parties and those who have notice of it, while Idaho Code 55-812 makes an unrecorded conveyance void against a later purchaser or mortgagee in good faith who records first (lease terms of one year or less are treated differently).</p>\n<p>Recording flips that risk. Once an acknowledged conveyance is recorded, its filing with the recorder is constructive notice of its contents to everyone (<a href=\"https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/SECT55-811/\">Idaho Code 55-811</a>). Anyone who later checks the county records is treated as having been warned.</p>\n<p>For a seller, this has a direct cost. If a family member quitclaimed a share to you and never recorded it, a buyer's title search may not show your ownership. A title company will usually want the gap cured before a closing, and that can slow a sale you wanted to be quick. Record the deed as soon as it is signed and acknowledged.</p>"
+  },
+  {
+   "h2": "How does a quitclaim deed affect property tax and a later sale?",
+   "html": "<p>A deed changes the name on title, but it does not change what is owed on the parcel. Idaho property tax is due December 20, or in halves with the second half due June 20, and the tax follows the property (<a href=\"https://legislature.idaho.gov/statutesrules/idstat/Title63/T63CH9/SECT63-903/\">Idaho Code 63-903</a>). A new owner who receives a deed from a relative takes the parcel with whatever is unpaid.</p>\n<p>The homestead exemption depends on the owner living in the home as a primary dwelling, and the owner certifies to the county assessor that no other homestead exemption is claimed (Idaho Code 63-602G). After a transfer, ask the assessor whether the exemption stays, ends or needs a new application.</p>\n<p>When a quitclaim is part of a probate or family transfer and the house will be sold, line up these items first:</p>\n<ul>\n<li>A title report showing who actually holds title today</li>\n<li>The recorded deed, with its instrument number</li>\n<li>A payoff figure for property tax and any loan</li>\n<li>Written agreement among co-owners if more than one person must sign the sale</li>\n</ul>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a notary to record an Idaho quitclaim deed?",
+   "a": "Yes in nearly every case. Idaho Code 55-805 requires the signer's execution to be acknowledged, or proved and certified, before an instrument can be recorded. A deed acknowledged in another state under that state's law is also entitled to record."
+  },
+  {
+   "q": "How much does it cost to record a deed in Idaho?",
+   "a": "The statutory fee for a deed or transfer of title of 30 pages or less is $15.00. Notary and attorney fees are separate."
+  },
+  {
+   "q": "Does a quitclaim deed guarantee I own the house?",
+   "a": "No. A quitclaim makes no warranties and releases only the grantor's current interest. If the grantor had no title, the grantee receives none."
+  },
+  {
+   "q": "Where do I record an Idaho deed?",
+   "a": "With the county recorder in the county where the property is located. Idaho Code 55-808 places the record in that county."
+  },
+  {
+   "q": "What must the deed say about the buyer?",
+   "a": "It must include the grantee's name and complete mailing address, and it must be in a signed writing, under Idaho Code 55-601."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Idaho Code 55-601, Conveyance, how made",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH6/SECT55-601/"
+  },
+  {
+   "title": "Idaho Code 55-606, Conclusiveness of conveyance",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH6/SECT55-606/"
+  },
+  {
+   "title": "Idaho Code 55-805, Acknowledgment before recording",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/SECT55-805/"
+  },
+  {
+   "title": "Idaho Code 55-808, 55-809, 55-811, 55-812, 55-815 (Title 55, Chapter 8 search results)",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title55/T55CH8/SECT55-811/"
+  },
+  {
+   "title": "Idaho Code 31-3205, County recorder fees",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/title31/t31ch32/sect31-3205/"
+  },
+  {
+   "title": "Idaho Code 63-903, When payable",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title63/T63CH9/SECT63-903/"
+  },
+  {
+   "title": "Idaho Code 63-602G, Homestead exemption",
+   "url": "https://legislature.idaho.gov/statutesrules/idstat/Title63/T63CH6/SECT63-602G/"
+  },
+  {
+   "title": "Bannock County Recorder, quit claim deed definition",
+   "url": "https://www.bannockcounty.gov/recorder/"
+  },
+  {
+   "title": "Kootenai County Recorder, Recording Documents",
+   "url": "https://www.kcgov.us/359/Recording-Documents"
+  },
+  {
+   "title": "Kootenai County Recorder staff directory (hours)",
+   "url": "https://www.kcgov.us/m/directory/department?did=37"
+  }
+ ]
+}

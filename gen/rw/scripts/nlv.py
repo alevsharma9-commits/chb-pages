@@ -22,7 +22,7 @@ sec("What are the basic facts about North Las Vegas?",
 sec("What does the desert climate mean for a North Las Vegas house?",
 "<p>North Las Vegas has a desert climate, so heat is the main stress on a house here. Mean daily highs reach about 105 degrees in July, and the record high is 119 degrees. Average yearly precipitation is only about 4.6 inches.</p>"
 "<p>Winters are mild during the day, but nights often fall below freezing, and snow shows up only once every few years. In summer, monsoon storms can bring heavy rain and thunderstorms.</p>"
-"<p>Items buyers and inspectors tend to look at first in this climate:</p>"
+"<p>Worth checking before you list or ask for an offer:</p>"
 "<ul><li>The age and condition of the air conditioning system, since it runs for most of the year</li>"
 "<li>Roof membranes and tile, which take direct sun for months</li>"
 "<li>Block walls and fences, which the city lists as a code enforcement concern when they are damaged</li></ul>"
