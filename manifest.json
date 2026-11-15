@@ -120,6 +120,42 @@
   },
   {
    "file": "pages/ga/georgia-state-pages-1.json"
+  },
+  {
+   "file": "pages/mi/michigan-directory-1.json"
+  },
+  {
+   "file": "pages/nc/north-carolina-directory-1.json"
+  },
+  {
+   "file": "pages/mi/michigan-city-pages-1.json"
+  },
+  {
+   "file": "pages/mi/michigan-city-ptax-1.json"
+  },
+  {
+   "file": "pages/mi/michigan-county-ptax-1.json"
+  },
+  {
+   "file": "pages/mi/michigan-county-records-1.json"
+  },
+  {
+   "file": "pages/mi/michigan-state-pages-1.json"
+  },
+  {
+   "file": "pages/nc/north-carolina-city-pages-1.json"
+  },
+  {
+   "file": "pages/nc/north-carolina-city-ptax-1.json"
+  },
+  {
+   "file": "pages/nc/north-carolina-county-ptax-1.json"
+  },
+  {
+   "file": "pages/nc/north-carolina-county-records-1.json"
+  },
+  {
+   "file": "pages/nc/north-carolina-state-pages-1.json"
   }
  ]
 }
