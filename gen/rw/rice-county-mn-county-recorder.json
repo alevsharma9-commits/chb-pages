@@ -3,7 +3,7 @@
   "sections": [
     {
       "h2": "Where do you record a deed in Rice County, Minnesota?",
-      "html": "<p>Deeds for land in Rice County are recorded by the County Recorder, who is also the Registrar of Titles. The office is in the Government Services Building at 320 Third St. NW in Faribault. The phone number is 507-332-6114.</p><p>The Recorder files documents for both Abstract and Torrens property, plus plats, federal and state tax liens, military discharges and more than 300 other document types. Staff accept, review, receipt, index and scan each filing, and paper or electronic submissions are both taken. The office does not give legal advice or help prepare documents, so a title company or attorney should draft the deed.</p>"
+      "html": "<p>Deeds for land in Rice County are recorded by the County Recorder, who is also the Registrar of Titles. The office is in the Government Services Building at 320 Third St. NW in Faribault. The phone number is 507-332-6114.</p><p>The Recorder files documents for both Abstract and Torrens property, plus plats, federal and state tax liens, military discharges and more than 300 other document types. Staff accept, review, receipt, index and scan each filing, and paper or electronic submissions are both taken. The office does not give legal advice or help prepare documents, so a closing agent or attorney should draft the deed.</p>"
     },
     {
       "h2": "Is your Rice County property Abstract or Torrens?",
@@ -14,7 +14,7 @@
       "html": "<p>You can bring or mail a paper original to the Recorder, or send it electronically through one of the e-recording partners the county lists:</p><ul><li>Simplifile, 800-460-5657.</li><li>CSCGlobal, 866-652-0111.</li><li>eRecording Partners (GOePN), 888-325-3365.</li><li>Indecomm Global Services, 877-272-5250.</li><li>Hopdox, 385-501-5103.</li></ul><p>The county says recording means the document is reproduced and the original returned to the presenter, while filing means the office keeps the original. Deeds and mortgage releases are recorded. Anyone can view public records in the research area during business hours at no charge, and copies of recorded documents are $1.00 per page.</p><p>For online research, the Recorder has scanned 1,166 plats, 789,492 Abstract documents and 60,375 Torrens documents into LandShark. Access costs $50 a month plus $2 per document, with a $50 set-up fee.</p>"
     },
     {
-      "h2": "What does it cost to record a deed in Rice County?",
+      "h2": "How much will recording your Rice County deed run?",
       "html": "<p>Minnesota Statutes section 357.18 caps recorder fees, and the county follows that schedule. Rice County asks for recorder fees on one check made out to Rice County, and for deed tax and mortgage registry tax on a separate check, because the Property Tax &amp; Elections department processes the tax.</p><table><caption>Recording charges in Minnesota Statutes 357.18 and the Rice County Recorder FAQ</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>Indexing and recording a deed or other instrument</td><td>$46</td></tr><tr><td>Document with multiple assignments or releases</td><td>$46, plus $10 for each citation over four</td></tr><tr><td>Certified copy of a record</td><td>$10</td></tr><tr><td>Recording a plat</td><td>$56</td></tr><tr><td>Copy of an official plat</td><td>$10, plus $5 to certify</td></tr><tr><td>Copy of a recorded document in the research area</td><td>$1.00 per page</td></tr></tbody></table>"
     },
     {
@@ -31,7 +31,11 @@
     },
     {
       "h2": "What happens after a Rice County deed is recorded?",
-      "html": "<p>The Recorder returns the original, and the title company or buyer arranges the next steps. The assessor removes homestead classification from a sold property for the next assessment year unless the buyer applies and qualifies, under section 272.115. For context, Rice County had 25,596 housing units in July 2025 and 100 building permits in 2025, and 87.5% of residents lived in the same house a year earlier, per the Census Bureau. Searching LandShark or visiting the research area is the quickest way to check what is already on your parcel.</p>"
+      "html": "<p>The Recorder returns the original, and the title company or buyer arranges the next steps. The assessor removes homestead classification from a sold property for the next assessment year unless the buyer applies and qualifies, under section 272.115. For context, Rice County had 25,596 housing units in July 2025 and 100 building permits in 2025, with 2.55 people in the average household, per the Census Bureau. Searching LandShark or visiting the research area is the quickest way to check what is already on your parcel.</p>"
+    },
+    {
+      "h2": "How can a Rice County seller research the parcel before listing?",
+      "html": "<p>Three tools cover most of the checking. The county's Beacon site holds a searchable property tax map for every parcel. The Recorder's public research area in Faribault lets you pull the recorded history of your land during business hours without charge. LandShark gives subscribers remote access to the scanned images. If your title history is long, a closing agent may order an abstract update, and a Torrens owner can ask the Registrar for the current certificate of title. Looking at the file early shows old mortgages that were never released, easements, and legal description quirks that would otherwise hold up a closing.</p>"
     }
   ],
   "faqs": [
@@ -41,7 +45,7 @@
     },
     {
       "q": "Does Rice County accept electronic recording?",
-      "a": "Yes. The county lists Simplifile, CSCGlobal, eRecording Partners, Indecomm Global Services and Hopdox as e-recording partners. The Recorder's number is 507-332-6114 if you need to know which fits your closing."
+      "a": "Yes. The county lists Simplifile, CSCGlobal, eRecording Partners, Indecomm Global Services and Hopdox as e-recording partners. Call 507-332-6114 to learn which one suits your closing."
     },
     {
       "q": "Can I look at Rice County land records for free?",
@@ -53,7 +57,7 @@
     },
     {
       "q": "Can the Rice County Recorder help me write a deed?",
-      "a": "No. The office says it does not give legal advice or help prepare documents. Staff can explain filing requirements, and a licensed attorney or title company should draft the deed."
+      "a": "No. The office says it does not give legal advice or help prepare documents. Staff can explain filing requirements, and an attorney or your closing agent should draft the deed."
     }
   ],
   "sources": [
