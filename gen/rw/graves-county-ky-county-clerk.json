@@ -3,53 +3,57 @@
  "sections": [
   {
    "h2": "Where do I record a deed in Graves County, KY?",
-   "html": "<p>Record it at the Graves County Clerk's office in Mayfield. Kentucky ties the filing to the land: a deed must be recorded in the county where the property sits, or where the greater part of it sits, to be effective against later buyers without notice and against creditors.</p>\n<p>The Clerk's office is at 1102 Paris Road, Suite 5, Mayfield, KY 42066, with listed hours of 8:00 a.m. to 4:30 p.m. The county's page names the office as the place where deeds, mortgages and other encumbrances are recorded and kept for public use. Calls about real estate records go to the records vault at (270) 247-1697. The general line, which also covers title transfers and marriage licenses, is (270) 247-1676.</p>\n<p>The same office also collects delinquent real estate tax, so a seller with an old balance can clear it and file the deed in one visit.</p>"
+   "html": "<p>Take it to the Graves County Clerk in Mayfield. Under KRS 382.110, an instrument has to be recorded where the land lies, or where most of the land lies if it straddles a county line. Filing anywhere else leaves the deed exposed to later buyers who had no notice of it and to creditors.</p>\n<p>The Clerk works from 1102 Paris Road, Suite 5, Mayfield, KY 42066, and the county lists its hours as eight to four-thirty. The county's own page describes the office as the keeper of deeds, mortgages and encumbrances. Real estate records are handled through the records vault, (270) 247-1697, while title transfers, marriage licenses and vehicle work go through (270) 247-1676.</p>\n<p>Delinquent real estate tax is collected at the same office, so an owner with an old balance can pay it and file the deed during one trip.</p>"
   },
   {
-   "h2": "What does it cost to record in Graves County?",
-   "html": "<p>The fees are set by KRS 64.012, and the 2026 version took effect on July 15, 2026. A deed of up to five pages costs $33 to record and index. A mortgage of up to 30 pages costs $63. Both add $3 for each page beyond the limit, and the clerk may also take a $10 reimbursement for permanent storage of the record.</p>\n<table>\n<caption>Selected Graves County Clerk fees under KRS 64.012 (source: Kentucky Revised Statutes, effective July 15, 2026)</caption>\n<thead><tr><th>Service</th><th>Fee</th></tr></thead>\n<tbody>\n<tr><td>Record and index a deed (up to 5 pages)</td><td>$33.00</td></tr>\n<tr><td>Each extra page on a deed</td><td>$3.00</td></tr>\n<tr><td>Each added reference to the same instrument</td><td>$4.00</td></tr>\n<tr><td>Record a mortgage (up to 30 pages)</td><td>$63.00</td></tr>\n<tr><td>Deed of release of a mortgage or lien</td><td>$33.00</td></tr>\n<tr><td>Acknowledging or notarizing a deed</td><td>$5.00</td></tr>\n<tr><td>Certified copy of a record</td><td>$5.00, plus $0.50 a page after three</td></tr>\n</tbody>\n</table>\n<p>Of the $33 deed fee, $6 goes to the state's affordable housing trust fund and the clerk keeps $27. The transfer tax comes on top of these amounts.</p>"
+   "h2": "What are the Graves County Clerk's recording fees?",
+   "html": "<p>KRS 64.012 sets the schedule, and the version in force since July 15, 2026 charges $33 to record and index a deed of up to five pages. A mortgage of up to 30 pages is $63. Each page past the limit adds $3, and the Clerk can also collect a $10 reimbursement for permanent storage of the record.</p>\n<table>\n<caption>Selected Clerk fees under KRS 64.012 (source: Kentucky Revised Statutes, current through the 2026 session)</caption>\n<thead><tr><th>Service</th><th>Fee</th></tr></thead>\n<tbody>\n<tr><td>Deed, indexed and recorded, five pages or fewer</td><td>$33.00</td></tr>\n<tr><td>Extra page on a deed</td><td>$3.00</td></tr>\n<tr><td>Extra cross-reference to the same instrument</td><td>$4.00</td></tr>\n<tr><td>Mortgage, 30 pages or fewer</td><td>$63.00</td></tr>\n<tr><td>Deed of release for a mortgage or lien</td><td>$33.00</td></tr>\n<tr><td>Notary acknowledgment on a deed</td><td>$5.00</td></tr>\n<tr><td>Certified copy</td><td>$5.00, then $0.50 per page beyond three</td></tr>\n<tr><td>Plat or survey up to 24 by 36 inches</td><td>$40.00 per page</td></tr>\n</tbody>\n</table>\n<p>The statute splits each $33 deed fee: $27 stays with the Clerk and $6 goes to the state affordable housing trust fund. A seller who needs the Clerk to notarize the deed should budget the $5 on top.</p>"
   },
   {
-   "h2": "What must a Kentucky deed contain before the Clerk will take it?",
-   "html": "<p>The Clerk is barred from filing a deed that skips the contents required by KRS 382.135, so errors are caught at the counter. A deed to real property has to carry the following.</p>\n<ul>\n<li>The full names and mailing addresses of the grantor and the grantee.</li>\n<li>A statement of the full consideration paid.</li>\n<li>An in-care-of address where the property tax bill for the year of transfer may be sent.</li>\n<li>A sworn, notarized certificate, signed by both sides, that the stated consideration is the full price. For a gift, the certificate says so and gives the estimated fair cash value.</li>\n</ul>\n<p>KRS 382.110 adds a source-of-title rule. The deed has to name the immediate source of the grantor's title, with the book, page and recording date of the prior deed. If the owner got the land by inheritance, the deed must say how and from whom.</p>\n<p>Deeds that convey only utility easements, cemetery lots, rights-of-way for government agencies, or corrections of earlier deeds are excused from the consideration statement, tax-address and sworn certificate items.</p>"
+   "h2": "What must a Kentucky deed say before the Clerk will accept it?",
+   "html": "<p>KRS 382.135 forbids the Clerk from filing a deed that leaves out required items, so mistakes are stopped at the counter. The deed has to contain:</p>\n<ul>\n<li>the grantor's and grantee's complete names, and a mailing address for each;</li>\n<li>the full price or other consideration;</li>\n<li>an in-care-of address for the property tax bill of the year of transfer;</li>\n<li>a notarized certificate from both parties confirming that the stated price is the whole consideration, or, for a gift, saying so and giving an estimate of fair cash value.</li>\n</ul>\n<p>KRS 382.110 adds a lineage requirement. The deed must point to the grantor's own source of title, giving the office, book, page and recording date of the earlier deed. If the owner inherited the land, the deed says how and from whom.</p>\n<p>Utility easement deeds, cemetery lot deeds, government rights-of-way and deeds that fix errors in an earlier deed are exempt from the price, tax-address and certificate items.</p>"
   },
   {
    "h2": "How does an inherited Graves County house reach the buyer?",
-   "html": "<p>When a house passes by will or intestate succession, the personal representative of the estate has to file an affidavit with the county clerk of each county where the property lies before closing out the estate. It lists who receives each property and the value used in handling the estate, or says no value was set.</p>\n<p>That affidavit sits alongside the deed. A Graves County heir selling to a cash buyer should therefore expect two filings at the Clerk's office, the affidavit and the new deed, with the deed charged under the schedule above.</p>\n<p>The deed also has to carry the acknowledgment required by KRS 382.270. Under that statute, a deed or mortgage is not valid against a buyer for value without notice, or against creditors, until it has been acknowledged or proved according to law.</p>"
+   "html": "<p>If the owner died and the house passed under a will or by intestate succession, the estate's personal representative must file an affidavit in each county where the estate owns property, before the estate is closed out. It names the people receiving each parcel and the value assigned in handling the estate, or says no value was set.</p>\n<p>A Graves County heir selling to a cash buyer should therefore expect two filings at the Clerk's office, the affidavit and the new deed, with the deed charged under the schedule above.</p>\n<p>KRS 382.270 adds one more gate. A deed or mortgage does not protect against a buyer for value without notice, or against creditors, until it has been acknowledged or proved as the law directs.</p>"
   },
   {
    "h2": "Who pays the transfer tax on a Graves County sale?",
-   "html": "<p>The seller does. KRS 142.050 puts the tax on the grantor named in the deed, at fifty cents for each $500 of value or fraction of $500, and the Clerk will not accept the deed until the tax is paid. For a sale at the Census median of $147,800, that is 296 units of $500, so the tax would be $148.</p>\n<p>The Clerk keeps 5 percent of what it collects and sends the rest to the county treasurer every three months. Transfers made only to secure or release a debt, between spouses in a divorce, or under a foreclosure are excused, as are nominal-value transfers between parent and child or grandparent and grandchild.</p>\n<p>Anyone recording a survey or subdivision plat pays a separate $40 per page for maps up to 24 by 36 inches, so a seller splitting off acreage should budget for that too.</p>"
+   "html": "<p>The seller pays it, under KRS 142.050, and the Clerk collects it when the deed is offered for recording. The rate is $0.50 for each $500 of value, rounded up. At the Census median value of $147,800 that comes to 296 units, or $148.</p>\n<p>Several kinds of transfer are excused, including transfers to secure or release a debt, between spouses in a divorce, and in foreclosure. The Grayson County Clerk page on this site lists the exemptions in more detail.</p>"
   },
   {
    "h2": "How are mortgage releases and assignments handled?",
-   "html": "<p>A paid-off mortgage is cleared by a release recorded at the Clerk's office. KRS 382.360 allows a margin entry or a separate deed of release, and it makes plain that handing a release to the borrower does not replace filing it with the Clerk. A seller whose lender never filed a release can find the old mortgage still open on the record at closing.</p>\n<p>When a lender sells a mortgage to another holder, the new holder must file the assignment with the Clerk within 30 days. Failure to record an assignment does not by itself affect the validity of the lien.</p>\n<p>Before listing, ask the records vault to confirm that every earlier mortgage on the parcel shows as released. An open mortgage that was actually paid is easier to fix before a buyer's title search finds it.</p>"
+   "html": "<p>A paid-off mortgage is cleared with a release recorded at the Clerk's office. KRS 382.360 permits a margin entry or a separate deed of release, and it spells out that giving the release to the borrower does not satisfy the duty to file it. A seller whose lender never filed can discover the old mortgage still open on the record.</p>\n<p>When a lender passes a mortgage to another holder, the new holder files the assignment within 30 days. Missing that deadline does not by itself affect the lien's validity.</p>\n<p>A mortgage that keeps a lien in the deed also has to name the source of the borrower's title, and KRS 382.290 lets the Clerk charge the KRS 64.012 fee for each assignment and release noted on the record, paid by the person making the entry.</p>\n<p>Ask the records vault before listing whether each earlier mortgage on the parcel shows as released. An open mortgage that was actually paid is easier to fix before a buyer's title search finds it.</p>"
+  },
+  {
+   "h2": "How do I get a certified copy of a recorded Graves County deed?",
+   "html": "<p>Ask the records vault. A certified copy of any record is $5, plus $0.50 for each page beyond the third, under KRS 64.012. KRS 382.110 treats an authentic photocopy that the official custodian certifies as a true, unaltered copy of the original, and a certified copy can be filed in another county's office as if it were the original, provided it meets all the filing rules.</p>\n<p>That matters when a parcel crosses a county line or when a lender wants proof of an earlier deed. Owners selling inherited land often need a certified copy of the last vesting deed to give the title company.</p>\n<ul>\n<li>Bring the grantor name, the approximate year and, if you have them, the deed book and page.</li>\n<li>Ask whether the copy needs to carry the clerk's certification for out-of-county use.</li>\n<li>Request a separate copy of any recorded release, so the chain from deed to payoff is complete.</li>\n</ul>"
   },
   {
    "h2": "What is Graves County like for a seller?",
-   "html": "<p>Graves County lies in far western Kentucky, in the Jackson Purchase, and covers 552 square miles of land. It was formed in 1824, and its seat is Mayfield. The county is also home to Wingo and part of the Clarks River National Wildlife Refuge. Dark-fired tobacco farming and clothing manufacturing both figure in its history.</p>\n<p>The December 10, 2021 tornado caused major damage in Mayfield, including to the courthouse. Census QuickFacts gives these figures for the county:</p>\n<ul>\n<li>Population: 37,050 in 2025, with 14,139 households.</li>\n<li>Owner-occupied homes: 76.1 percent, with a median value of $147,800.</li>\n<li>Median gross rent: $775, and mean travel time to work of 20.7 minutes.</li>\n<li>Retail sales of $808,990,000 in 2022, about $22,168 per resident.</li>\n</ul>\n<p>A seller who keeps the recorded paperwork in order, from the last deed to the mortgage release, avoids the delays that title problems cause.</p>"
+   "html": "<p>Graves County sits in far western Kentucky and was formed in 1824. Mayfield is the seat. The county also holds Wingo, a stretch of the Clarks River National Wildlife Refuge, and the Black Patch tobacco history that shaped its farms. A December 10, 2021 tornado caused major damage in Mayfield, including to the courthouse. Census QuickFacts reports:</p>\n<ul>\n<li>37,050 residents in 2025 and 14,139 households.</li>\n<li>A 76.1 percent owner-occupied rate and a median value of $147,800.</li>\n<li>Median gross rent of $775.</li>\n<li>Retail sales of $808,990,000 in 2022, or $22,168 per person.</li>\n</ul>\n<p>A seller who keeps the recorded paperwork in order, from the last vesting deed to the mortgage release, avoids the delays that title problems cause.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which office records deeds in Graves County, KY?",
-   "a": "The Graves County Clerk, at 1102 Paris Road, Suite 5, Mayfield. The records vault line is (270) 247-1697, and the listed hours are 8:00 a.m. to 4:30 p.m."
+   "q": "Which office files deeds for a house in Graves County?",
+   "a": "The Graves County Clerk, 1102 Paris Road, Suite 5, Mayfield. Call the records vault at (270) 247-1697 with questions about real estate filings."
   },
   {
-   "q": "How much does the Graves County Clerk charge to record a deed?",
-   "a": "$33 for a deed of up to five pages under KRS 64.012, plus $3 per extra page and a $10 storage reimbursement. The transfer tax is collected separately at recording."
+   "q": "What does recording a deed cost in Graves County?",
+   "a": "$33 for up to five pages under KRS 64.012, plus $3 for each extra page and a $10 storage reimbursement. The seller's transfer tax is separate."
   },
   {
-   "q": "Can the Clerk refuse my deed?",
-   "a": "Yes. KRS 382.135 bars the Clerk from filing a deed missing the required names, addresses, consideration statement, tax-bill address or sworn certificate. A deed also must name its source of title."
+   "q": "Can the Clerk turn my deed away?",
+   "a": "Yes. KRS 382.135 bars filing a deed that lacks names, addresses, the consideration statement, a tax-bill address or the sworn certificate, and the deed must also cite its source of title."
   },
   {
-   "q": "Do I need to record a mortgage release before selling?",
-   "a": "Yes, if the lender has not already done so. Giving the release to the borrower does not replace filing it with the Clerk, so ask the records vault whether it shows on the parcel."
+   "q": "Is a mortgage release my lender's job or mine?",
+   "a": "The lender or holder signs it, but it only counts once it is filed with the Clerk. Handing a copy to the borrower is not enough, so ask the records vault whether it appears on your parcel."
   },
   {
-   "q": "What does an estate file with the Graves County Clerk before an inherited house is sold?",
-   "a": "The personal representative files an affidavit naming who receives each property and its estimated value. KRS 382.135 requires it before the estate is closed out, in each county where property lies."
+   "q": "What do heirs file before selling an inherited Graves County house?",
+   "a": "The estate's personal representative files an affidavit with the Clerk listing each recipient and the estimated value, and the new deed follows. KRS 382.135 requires the affidavit before the estate closes."
   }
  ],
  "sources": [
@@ -60,6 +64,10 @@
   {
    "title": "KRS 64.012, fees of county clerks",
    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57720"
+  },
+  {
+   "title": "KRS 142.050, real estate transfer tax",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"
   },
   {
    "title": "KRS 382.110, recording of deeds and mortgages",
@@ -86,8 +94,8 @@
    "url": "https://www.census.gov/quickfacts/fact/table/grantcountykentucky,gravescountykentucky,graysoncountykentucky/PST045224"
   },
   {
-   "title": "KRS 142.050, real estate transfer tax",
-   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"
+   "title": "KRS 382.290, recording of mortgages",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44935"
   }
  ]
 }

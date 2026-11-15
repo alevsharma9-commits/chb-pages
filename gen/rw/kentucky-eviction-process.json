@@ -3,27 +3,27 @@
  "sections": [
   {
    "h2": "How does an eviction work in a Kentucky court?",
-   "html": "<p>A Kentucky eviction is a forcible detainer case filed in the District Court of the county where the property sits. KRS 383.200 defines a forcible detainer to include a tenant's refusal to give the landlord possession after the term ends, and KRS 383.210 says the court issues a warrant to the sheriff or a constable after the landlord files a complaint.</p>\n<p>There is no eviction by the landlord's own hand. The case runs through the court from the first filing to the order that puts the owner back in possession, and a landlord who skips the court runs into the self-help ban in KRS 383.690.</p>"
+   "html": "<p>Kentucky calls an eviction lawsuit a forcible detainer action, and it starts in District Court in the county that holds the rental. KRS 383.200 counts a tenant's refusal to hand back possession after the term ends as a forcible detainer, and under KRS 383.210 the court answers a landlord's complaint with a warrant to the sheriff or a constable.</p>\n<p>Self-help is off the table. The case moves through the court from filing to the order that returns the house to the owner, and changing locks or cutting services on the way runs into KRS 383.690.</p>"
   },
   {
    "h2": "What are the steps from the complaint to getting the house back?",
-   "html": "<p>The steps follow the statutes in order. Each one has a short deadline, so a landlord who prepares the paperwork before filing saves weeks.</p>\n<table>\n<caption>Forcible detainer steps in KRS 383.200 to 383.285</caption>\n<thead><tr><th>Step</th><th>What happens</th><th>Statute</th></tr></thead>\n<tbody>\n<tr><td>Complaint</td><td>Landlord files in District Court and a warrant goes to the sheriff or a constable</td><td>KRS 383.210</td></tr>\n<tr><td>Service</td><td>Each defendant gets notice of the time and place at least three days ahead; without notice, no inquiry proceeds against that defendant</td><td>KRS 383.210, 383.215</td></tr>\n<tr><td>Trial</td><td>The court tries the case unless a party demands a jury</td><td>KRS 383.210(2)</td></tr>\n<tr><td>Judgment</td><td>Restitution of the premises and costs for the landlord, or costs for the defendants</td><td>KRS 383.240</td></tr>\n<tr><td>Appeal window</td><td>Seven days after the finding</td><td>KRS 383.255</td></tr>\n<tr><td>Warrant of restitution</td><td>If no appeal is filed by the seventh day, the court issues the warrant on request</td><td>KRS 383.245</td></tr>\n</tbody>\n</table>"
+   "html": "<p>The statutes set the order of events. Several steps carry short deadlines, so a landlord with the paperwork ready before filing saves weeks.</p>\n<table>\n<caption>Forcible detainer steps in KRS 383.200 to 383.285</caption>\n<thead><tr><th>Step</th><th>What happens</th><th>Statute</th></tr></thead>\n<tbody>\n<tr><td>Complaint</td><td>Landlord files in District Court and a warrant goes to the sheriff or a constable</td><td>KRS 383.210</td></tr>\n<tr><td>Service</td><td>Each defendant gets notice of the time and place at least three days ahead; without notice, no inquiry proceeds against that defendant</td><td>KRS 383.210, 383.215</td></tr>\n<tr><td>Trial</td><td>The court tries the case unless a party demands a jury</td><td>KRS 383.210(2)</td></tr>\n<tr><td>Judgment</td><td>Restitution of the premises and costs for the landlord, or costs for the defendants</td><td>KRS 383.240</td></tr>\n<tr><td>Appeal window</td><td>Seven days after the finding</td><td>KRS 383.255</td></tr>\n<tr><td>Warrant of restitution</td><td>If no appeal is filed by the seventh day, the court issues the warrant on request</td><td>KRS 383.245</td></tr>\n</tbody>\n</table>"
   },
   {
-   "h2": "How much time does a tenant have to appeal, and what must be paid?",
-   "html": "<p>Either side has seven days from the finding to file an appeal. A tenant who appeals must put the rent already owing from the start of the case, and each later month's rent as it comes due, with the circuit court clerk.</p>\n<p>The deposit stays with the clerk until the court orders distribution at the end of the appeal. Once the appeal is perfected by that payment, proceedings on the inquisition stop and the papers go up to the circuit court within ten days. If the appellant fails to pursue the appeal, KRS 383.260 makes the appellant and surety liable for the landlord's damages for the delay and for the reasonable cost of defending the appeal.</p>"
+   "h2": "How long can a party wait to appeal, and what must be deposited?",
+   "html": "<p>Whoever loses can appeal within seven days after the finding. An appellant has to place the rent owed since the case began, plus every later month's rent as it falls due, with the circuit court clerk.</p>\n<p>The money stays with the clerk until the court orders it paid out when the appeal ends. Making that deposit perfects the appeal, which pauses the inquisition and sends the file up to circuit court within ten days. An appellant who drops the appeal, along with any surety, answers under KRS 383.260 for the landlord's losses from the delay and the reasonable cost of defending the appeal.</p>"
   },
   {
    "h2": "What if the occupant was never a tenant?",
-   "html": "<p>A 2025 statute, KRS 383.290, lets an owner ask law enforcement to remove a person who is unlawfully in the property, but only under tight conditions. It does not apply to a current or former tenant or to anyone who once had an agreement with the owner to occupy the premises.</p>\n<ul>\n<li>The occupant is not and never was a tenant and never had an agreement from the owner.</li>\n<li>The property was not open to the public when the occupant entered.</li>\n<li>The owner has told the occupant to leave.</li>\n<li>The occupant is not an immediate family member, and no litigation about the property is pending between them.</li>\n</ul>\n<p>The owner presents a signed petition, the officer verifies identity and serves a notice to vacate, and the sheriff or constable may charge a $20 service fee. A person wrongfully removed has 60 days to sue in District Court and can recover attorney's fees, so use this route only when every condition fits.</p>"
+   "html": "<p>KRS 383.290, enacted in 2025, lets an owner ask a law enforcement officer to remove a person who is in the house without permission, but only when every condition fits. A current or former tenant, or anyone who once had the owner's agreement to live there, cannot be removed this way.</p>\n<ul>\n<li>The person has never been a tenant and never held a written or oral agreement from the owner.</li>\n<li>The building was closed to the public on the day the person came in.</li>\n<li>The owner has told the person to go.</li>\n<li>The person is outside the statute's list of close relatives, and no lawsuit over the property is pending between the two sides.</li>\n</ul>\n<p>The owner hands the officer a signed petition, the officer checks identification and serves a notice to vacate, and a sheriff or constable may charge a $20 service fee. Someone wrongfully removed has 60 days to sue in District Court and can win lawyer fees, so reserve this route for clear cases.</p>"
   },
   {
-   "h2": "What can a landlord do to speed the process, and what is off limits?",
-   "html": "<p>A landlord can file promptly, serve every named occupant and bring complete records. A landlord cannot change locks, remove doors or cut utilities. KRS 383.690 says a landlord may not take possession by action or otherwise, including interrupting heat, electric, water, gas or any other essential service.</p>\n<ul>\n<li>Do not accept rent after serving a termination notice unless you intend to keep the tenancy alive. KRS 383.675 treats acceptance with knowledge of a default as a waiver of that breach.</li>\n<li>Do not threaten a case or raise rent in response to a code complaint. KRS 383.705 presumes retaliation for complaints made within a year.</li>\n<li>After termination, KRS 383.685 allows a claim for possession and rent plus a separate claim for actual damages and attorney's fees under KRS 383.660(3).</li>\n</ul>"
+   "h2": "What speeds up a Kentucky eviction case, and what is off limits?",
+   "html": "<p>Prompt filing, service on every named occupant and complete records move a case fastest. Pulling doors, changing locks or shutting off utilities does the opposite, because KRS 383.690 bars taking possession that way.</p>\n<ul>\n<li>Think before taking rent once a termination notice is out. KRS 383.675 treats acceptance with knowledge of a default as a waiver of that breach.</li>\n<li>Avoid rent hikes or threats right after a tenant's code complaint. KRS 383.705 presumes retaliation when the complaint came within the year before.</li>\n<li>After termination, KRS 383.685 allows a claim for possession and rent plus a separate claim for actual damages and attorney's fees under KRS 383.660(3).</li>\n</ul>"
   },
   {
-   "h2": "How long does a landlord have to start a Kentucky eviction case?",
-   "html": "<p>KRS 383.285 bars an inquisition of forcible entry or detainer more than two years after the entry or detainer complained of. That is the outer limit, and the practical window is far shorter.</p>\n<p>For a holdover past the end of a lease term outside URLTA areas, KRS 383.160 lets possession be recovered without demand or notice if proceedings start within 90 days of a term of a year or more, or within 30 days of a shorter term. Waiting past those periods pushes the next permitted filing back, so landlords should file quickly after a lease ends.</p>"
+   "h2": "How long can a landlord wait before filing a Kentucky eviction case?",
+   "html": "<p>KRS 383.285 bars an inquisition of forcible entry or detainer more than two years after the entry or detainer complained of. That is the outer limit, and the practical window is far shorter.</p>\n<p>Where the URLTA has not been adopted, KRS 383.160 lets a landlord retake a house without demand or notice if the case begins within 90 days after a term of a year or longer ends, or within 30 days after a shorter term ends. Miss those windows and the next chance comes later, so file soon after a lease runs out.</p>"
   },
   {
    "h2": "What costs and damages can a landlord recover?",
@@ -31,25 +31,25 @@
   },
   {
    "h2": "How does a pending eviction affect selling the house?",
-   "html": "<p>A pending case does not stop a sale, but it changes who delivers possession. KRS 383.600 relieves a landlord who conveys in a good faith sale to a bona fide purchaser from liability under the rental agreement for events after written notice of the conveyance, unless the parties agreed otherwise.</p>\n<p>Buyers and lenders often want the tenant gone before closing, so the contract should say who handles the case, who pays the costs and what happens if the judgment is appealed. Tenants must permit entry for showings on at least two days' notice at reasonable times under KRS 383.615, which gives a seller a lawful way to show an occupied house.</p>\n<ul>\n<li>Get the case number, judgment and any warrant of restitution into the sale file.</li>\n<li>Confirm whether any rent is sitting with the circuit court clerk after an appeal.</li>\n<li>Ask the title company whether the occupancy affects the closing date.</li>\n</ul>"
+   "html": "<p>A pending case does not block a closing, but it decides who has to deliver the keys. Judgment alone does not empty the house, because possession arrives with the warrant of restitution.</p>\n<p>Buyers and lenders often want a vacant house, so the contract should name who finishes the case, who pays its costs and what happens if the tenant appeals and the deposit sits with the clerk. Ask the closing attorney how the seller's duties to the tenant are handled once title passes.</p>\n<ul>\n<li>Get the case number, judgment and any warrant of restitution into the sale file.</li>\n<li>Confirm whether any rent is sitting with the circuit court clerk after an appeal.</li>\n<li>Ask the title company whether the occupancy affects the closing date.</li>\n</ul>"
   },
   {
    "h2": "Where can a Kentucky landlord find court forms and help?",
-   "html": "<p>Start with the District Court clerk in the county where the house sits, and ask for the current forcible detainer forms and filing fee. The Kentucky Court of Justice also runs a <a href=\"https://kycourts.gov/Legal-Help/Pages/default.aspx\">Legal Self-Help</a> section on its website.</p>\n<p>A real estate attorney can confirm which notice rules apply in your city and how a pending case should be handled in the sale contract. Ask the clerk, too, how the court wants service on each occupant arranged with the sheriff's office.</p>"
+   "html": "<p>Call the clerk's office at the District Court for the house's county and ask for the current forcible detainer forms and filing fee. The Kentucky Court of Justice also runs a <a href=\"https://kycourts.gov/Legal-Help/Pages/default.aspx\">Legal Self-Help</a> section on its website.</p>\n<p>A real estate attorney can confirm which notice rules apply in your city and how a pending case should be handled in the sale contract. Ask the clerk, too, how the court wants service on each occupant arranged with the sheriff's office.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Which court handles evictions in Kentucky?",
-   "a": "The District Court of the county where the property sits. The landlord files a forcible detainer complaint and the court issues a warrant to the sheriff or a constable under KRS 383.210."
+   "a": "The District Court for the county where the rental stands. The landlord files a forcible detainer complaint, and a warrant then goes to the sheriff or a constable under KRS 383.210."
   },
   {
-   "q": "How long does a tenant have to appeal an eviction judgment in Kentucky?",
-   "a": "Seven days from the court's finding. The appealing party must deposit the rent owing and each later month's rent with the circuit court clerk."
+   "q": "What is the deadline to appeal a Kentucky eviction judgment?",
+   "a": "Seven days after the court's finding. The party who appeals must also deposit the unpaid rent and each later month's rent with the circuit court clerk."
   },
   {
-   "q": "Can a landlord lock out a tenant or turn off utilities?",
-   "a": "No. KRS 383.690 forbids recovering possession by interrupting heat, electric, water, gas or other essential service. Possession comes through the court."
+   "q": "Can an owner change the locks or shut off power to remove a tenant?",
+   "a": "No. KRS 383.690 forbids regaining the dwelling by cutting heat, electricity, water, gas or another essential service. The court order is the only route."
   },
   {
    "q": "Does a sheriff remove a tenant after the judgment?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Can I use the quick removal process for a former tenant?",
-   "a": "No. KRS 383.290 does not apply to a current or former tenant or anyone who once had an agreement to occupy the home. Those cases go through forcible detainer."
+   "a": "No. KRS 383.290 excludes current and former tenants and anyone who once had the owner's agreement to live there. Those disputes go through forcible detainer."
   }
  ],
  "sources": [
