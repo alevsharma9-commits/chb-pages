@@ -7,7 +7,7 @@
   },
   {
    "h2": "What do the Census numbers show for Walla Walla homes?",
-   "html": "<p>The Census Bureau's <a href='https://www.census.gov/quickfacts/fact/table/wallawallacitywashington/PST045224'>QuickFacts page for Walla Walla</a> gives a picture of the local housing stock and household base.</p><table><thead><tr><th>Measure</th><th>Walla Walla city</th></tr></thead><tbody><tr><td>Population, July 1, 2025</td><td>34,058</td></tr><tr><td>Change since April 2020 estimates base</td><td>-0.6%</td></tr><tr><td>Owner-occupied housing rate, 2020 to 2024</td><td>57.1%</td></tr><tr><td>Median value of owner-occupied homes, 2020 to 2024</td><td>$393,600</td></tr><tr><td>Median gross rent, 2020 to 2024</td><td>$1,323</td></tr><tr><td>Mean travel time to work</td><td>12.8 minutes</td></tr></tbody></table><p>The population is nearly flat, so a seller should expect buyers to compare your house closely with others on the market rather than assume rising demand will carry it. The short commute, under 13 minutes on average, is a real asset when you describe the location.</p>"
+   "html": "<p>The Census Bureau's <a href='https://www.census.gov/quickfacts/fact/table/wallawallacitywashington/PST045224'>QuickFacts page for Walla Walla</a> gives a picture of the local housing stock and household base.</p><table><thead><tr><th>Measure</th><th>Walla Walla city</th></tr></thead><tbody><tr><td>Residents (2025 estimate)</td><td>34,058</td></tr><tr><td>Change from the 2020 base</td><td>-0.6%</td></tr><tr><td>Share of homes lived in by owners</td><td>57.1%</td></tr><tr><td>Median home value</td><td>$393,600</td></tr><tr><td>Median monthly rent</td><td>$1,323</td></tr><tr><td>Average commute</td><td>12.8 minutes</td></tr></tbody></table><p>The population is nearly flat, so a seller should expect buyers to compare your house closely with others on the market rather than assume rising demand will carry it. The short commute, under 13 minutes on average, is a real asset when you describe the location.</p>"
   },
   {
    "h2": "What drives the Walla Walla economy and housing demand?",
@@ -31,13 +31,13 @@
   },
   {
    "h2": "How is a deed handled in Walla Walla County?",
-   "html": "<p>Under RCW 82.45.090, the county treasurer where the property sits collects the real estate excise tax as the state's agent, and the county auditor may not record the deed until the tax is paid or the treasurer notes that none is due. In Walla Walla County that means a visit or mailing to the Treasurer first, then recording through the Auditor.</p><p>Ask the Walla Walla County Treasurer for the total excise tax at your sale price, since the tax combines a state and a local portion. A title or escrow company normally carries the affidavit and deed through both offices for you.</p><p>Separately, the seller of improved residential property must give the buyer a disclosure statement under <a href='https://app.leg.wa.gov/rcw/default.aspx?cite=64.06.020'>RCW 64.06.020</a>, normally within five business days after both sides accept the contract. The buyer has three business days after delivery to rescind unless the parties agreed otherwise.</p>"
+   "html": "<p>RCW 82.45.090 puts the real estate excise tax in the hands of the treasurer of the county where the property sits, who acts as the state's agent. The county auditor then has no authority to take the deed for recording until payment is verified or the treasurer notes that nothing is due. In Walla Walla County that means a visit or mailing to the Treasurer first, then recording through the Auditor.</p><p>Ask the Walla Walla County Treasurer for the total excise tax at your sale price, since the tax combines a state and a local portion. A title or escrow company normally carries the affidavit and deed through both offices for you.</p><p>The seller also owes a written condition disclosure. <a href='https://app.leg.wa.gov/rcw/default.aspx?cite=64.06.020'>RCW 64.06.020</a> prescribes the form for improved residential property, and the delivery deadline is five business days after a signed purchase contract, absent a different agreement. Receiving it gives the buyer three business days to back out.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Can I sell a Walla Walla house that needs repairs?",
-   "a": "Yes. A house can be sold in its current condition, and investors and cash buyers regularly buy that way. You still owe the buyer a seller disclosure statement under RCW 64.06.020, and any known defects or unpermitted work should be disclosed."
+   "a": "Yes. Investors and cash buyers often take houses with deferred maintenance. The seller disclosure form under RCW 64.06.020 still has to go to the buyer, and known defects or unpermitted work belong on it."
   },
   {
    "q": "Can a new owner keep running my Walla Walla house as a short-term rental?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "Who collects the excise tax when a Walla Walla house sells?",
-   "a": "The Walla Walla County Treasurer collects it as agent for the state, as set out in RCW 82.45.090. The deed cannot be recorded until the tax is paid or marked not due. Ask the Treasurer for the amount at your price."
+   "a": "The county treasurer, acting as the state's agent under RCW 82.45.090. Recording waits until the tax is paid or noted as not due, so ask the Walla Walla County Treasurer for the figure at your price."
   },
   {
    "q": "Which school district serves my Walla Walla address?",
