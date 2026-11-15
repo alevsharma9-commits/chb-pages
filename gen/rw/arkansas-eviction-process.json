@@ -1,0 +1,121 @@
+{
+ "slug": "arkansas-eviction-process",
+ "sections": [
+  {
+   "h2": "How does an eviction work in Arkansas?",
+   "html": "<p>Arkansas gives a landlord three separate ways to get a tenant out: a civil lawsuit called unlawful detainer, a case under the Residential Landlord-Tenant Act of 2007, and a criminal charge for refusing to leave. Most owners start with one of the first two.</p>\n<p>Unlawful detainer is defined in <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-5/chapter-60/subchapter-3/section-18-60-304/\">Ark. Code § 18-60-304</a>. A person commits it by holding over after a lease ends, by refusing a written demand to leave, by failing to pay rent and then refusing to quit after three days' written notice, by letting the premises become unsafe or unhealthy, or by allowing a common nuisance. Legal Aid of Arkansas describes it as the most common type of eviction in the state.</p>\n<p>The Landlord-Tenant Act route starts at <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-901/\">§ 18-17-901</a>. A landlord or agent may file in district court when rent is not paid when due or demanded, when the term of occupancy has ended, or when the rental agreement has been broken. For a residential lease, rent that stays unpaid five days after the due date counts as legal notice that eviction proceedings can begin.</p>"
+  },
+  {
+   "h2": "What notice periods apply to an Arkansas eviction?",
+   "html": "<p>The notice a landlord must give depends on the reason for ending the tenancy. The table lists each trigger found in the statutes and the state guidance.</p>\n<table><thead><tr><th>Situation</th><th>Notice or waiting period</th><th>Where it comes from</th></tr></thead><tbody>\n<tr><td>Rent unpaid, unlawful detainer</td><td>Three days' written notice to quit</td><td>§ 18-60-304(3); Attorney General</td></tr>\n<tr><td>Rent unpaid, Landlord-Tenant Act</td><td>Landlord may terminate if rent is not paid within five days of the due date</td><td>§ 18-17-701(b)</td></tr>\n<tr><td>Other lease violation</td><td>Written notice with a termination date at least 14 days after receipt, if not fixed</td><td>§ 18-17-701(a)</td></tr>\n<tr><td>Week-to-week tenancy</td><td>Written notice at least 7 days before the end date</td><td>§ 18-17-704(a)</td></tr>\n<tr><td>Month-to-month tenancy</td><td>Written notice at least 30 days before the end date</td><td>§ 18-17-704(b)</td></tr>\n<tr><td>Criminal failure to vacate</td><td>Ten days' written notice to vacate</td><td>§ 18-16-101(b)</td></tr>\n</tbody></table>\n<p>Legal Aid of Arkansas summarizes the civil timing as at least three days for unpaid rent, at least 14 days for other violations, and at least one month to end a month-to-month tenancy. The Attorney General adds that a landlord may end a lease for any reason, giving one rental period's notice on an oral lease or notice under the terms of a written one.</p>\n<p>The sources word these periods a little differently, so a landlord should match the notice to the lease and the statute that fits the facts.</p>"
+  },
+  {
+   "h2": "What happens after the notice period ends?",
+   "html": "<p>If the tenant is still in the house, the landlord files a complaint with the court, and the case moves through a short series of steps.</p>\n<ul>\n<li><strong>Service.</strong> Legal Aid says the tenant must receive the summons and complaint through a process server or by certified mail.</li>\n<li><strong>Five days to object.</strong> The Attorney General says a tenant who receives a summons has five days to object in writing to the court clerk. Without an objection, the county sheriff can remove the tenant.</li>\n<li><strong>Order to vacate or show cause.</strong> Under the Landlord-Tenant Act, if the complaint carries an affidavit from someone with knowledge of the reason for eviction, the court issues an order to vacate or to appear and show cause within ten calendar days after service. A written answer counts as an appearance.</li>\n<li><strong>Hearing.</strong> If the tenant appears, the judge hears both sides. A judgment for the tenant lets the tenant stay until the tenancy ends by agreement or law, rent goes unpaid, or another eviction case succeeds (<a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-908/\">§ 18-17-908</a>).</li>\n<li><strong>Writ of possession.</strong> If the landlord wins, the clerk issues a writ and the sheriff serves it. Legal Aid says the tenant then has 24 hours to leave. The sheriff carries out the writ under the procedure in § 18-60-310, as <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-913/\">§ 18-17-913</a> directs.</li>\n</ul>\n<p>Each of these steps is a minimum. Court calendars set the hearing date, so no statute gives a fixed total number of days from notice to move-out.</p>"
+  },
+  {
+   "h2": "What is the criminal failure to vacate charge?",
+   "html": "<p>It is a misdemeanor for a tenant who willfully refuses to leave after ten days' written notice from the landlord, the landlord's agent or the landlord's attorney. The rule is in <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-16/subchapter-1/section-18-16-101/\">Ark. Code § 18-16-101</a>.</p>\n<p>The same section says a renter who fails to pay rent when due forfeits the right to keep occupying the dwelling. On conviction the fine is between $1 and $25 per offense, and each day of willful holding over after the notice expires counts as a separate offense.</p>"
+  },
+  {
+   "h2": "Can a landlord change the locks or shut off utilities?",
+   "html": "<p>No. Legal Aid of Arkansas states that a landlord needs a court order and a writ of possession carried out by the sheriff, and may not use self-help methods.</p>\n<ul>\n<li>Changing the locks is a self-help eviction.</li>\n<li>Removing the tenant's belongings, doors or windows is also self-help.</li>\n<li>Shutting off water, power or other utilities is self-help as well.</li>\n</ul>\n<p>Legal Aid adds an exception: the same acts may be lawful when the tenant has already moved out or the landlord reasonably believes the property is abandoned. A tenant who is locked out can sue for forcible entry, and the court may restore access and award damages, costs and attorney's fees. The landlord may counterclaim to evict in the same case, since a lockout alone does not give the tenant a right to stay when there is a legal ground for eviction.</p>"
+  },
+  {
+   "h2": "What happens to belongings left in the house?",
+   "html": "<p>When a lease ends, voluntarily or not, the Attorney General says everything the tenant leaves behind is considered abandoned and the landlord may dispose of it as the landlord sees fit, without recourse by the tenant. Property left on the premises is also subject to a landlord's lien for sums the tenant agreed to pay.</p>\n<p>Legal Aid describes the other situation. If law enforcement has to carry out the eviction, items the tenant cannot take are removed and stored at the tenant's expense. If the tenant moves out first and leaves things behind, the landlord can treat them as abandoned and throw them away or sell them.</p>"
+  },
+  {
+   "h2": "Can a tenant withhold rent over repairs?",
+   "html": "<p>No. <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-5/section-18-17-502/\">Section 18-17-502</a> says a tenant may not offset or withhold rent for an alleged or actual violation of the implied quality standards, and nothing in the chapter excuses a tenant from paying rent.</p>\n<p>For leases entered into or renewed after November 1, 2021, the statute implies several basics: hot and cold running water, electricity, potable water, working sanitary sewer and plumbing, a functioning roof and building envelope, and heating and air conditioning if the home had them when the lease was signed. If the unit falls short, the tenant sends written notice. When rent is current and the landlord does not fix the problem within 30 calendar days, the tenant's sole remedy is to end the lease without penalty and receive back any recoverable security deposit.</p>\n<p>The City of Little Rock adds its own minimum housing standards for privately owned rentals with two or more dwellings, including a safe roof that does not leak. Problems can be reported to the Department of Housing and Neighborhood Programs at 500 West Markham Street, Suite 120W, or (501) 371-6825.</p>"
+  },
+  {
+   "h2": "What money can a landlord recover in an eviction?",
+   "html": "<p>A landlord can recover actual damages, obtain injunctive relief and get a judgment or eviction in circuit or district court without posting bond, according to <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-701/\">§ 18-17-701(c)</a>.</p>\n<p>Attorney's fees are possible when the landlord is represented by a lawyer. They are available if nonpayment of rent is not in good faith, and for other willful noncompliance. On a holdover, <a href=\"https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-704/\">§ 18-17-704</a> allows fees when the tenant is not holding over in good faith. A willful violation can add up to three months of periodic rent or twice the actual damages, whichever is greater.</p>"
+  },
+  {
+   "h2": "How does an eviction affect selling a rented house in Arkansas?",
+   "html": "<p>The sale and the eviction are two separate tracks. The statutes above control who has the right to possession. They do not say that a sale ends a tenancy, so the lease terms and a lawyer's advice should come before any promise to a buyer that the house will be vacant.</p>\n<p>A few practical points tie the two together. A landlord may decline to renew a lease for any reason except discriminatory ones covered by the Fair Housing Act, according to Legal Aid. A month-to-month tenant must be given 30 days' written notice. A buyer who is purchasing a house for cash can be asked whether it will take the property with the tenant still inside, which avoids waiting on a court calendar.</p>\n<p>Tax paperwork follows the sale too. The Arkansas Department of Finance and Administration says the real property transfer tax is $3.30 per $1,000 of consideration on transactions above $100, shown on the deed through a transfer stamp. The Assessment Coordination Division also asks owners to tell the assessor when a house changes from owner-occupied to rental, which matters because the homestead credit only applies to a principal residence.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does an Arkansas eviction take?",
+   "a": "The statutes set minimum waits and no fixed total. Notice runs from three days to 30 days, a tenant has five days to object, a show-cause order allows up to ten days to appear, and a tenant served with a writ has 24 hours according to Legal Aid. A contested case adds a hearing date set by the court."
+  },
+  {
+   "q": "Is eviction a crime in Arkansas?",
+   "a": "Only the failure to vacate charge is criminal. Under § 18-16-101, a tenant who willfully stays after ten days' written notice commits a misdemeanor punishable by a fine of $1 to $25 per offense, and each day counts separately."
+  },
+  {
+   "q": "Can a landlord evict without going to court?",
+   "a": "No. Legal Aid of Arkansas says a landlord needs a court order, and the sheriff carries out the writ of possession. Changing locks, removing doors or windows, or cutting utilities are illegal self-help methods unless the tenant has left or the property is reasonably believed abandoned."
+  },
+  {
+   "q": "Does a pending eviction stop me from selling the house?",
+   "a": "Nothing in the statutes cited here bars a sale while a case is open. The lease and the buyer's terms decide what happens to the tenant, so ask an Arkansas attorney before you sign a contract that promises vacant possession."
+  },
+  {
+   "q": "Where can a tenant find free legal help with an eviction?",
+   "a": "Legal Aid of Arkansas offers free help to tenants who qualify, and its number is 1-800-952-9243."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Arkansas Attorney General, Landlord and Tenant Rights",
+   "url": "https://arkansasag.gov/divisions/public-protection/homes/landlord-and-tenant-rights/"
+  },
+  {
+   "title": "Ark. Code 18-60-304, Actions constituting unlawful detainer",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-5/chapter-60/subchapter-3/section-18-60-304/"
+  },
+  {
+   "title": "Ark. Code 18-17-901, Grounds for eviction of tenant",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-901/"
+  },
+  {
+   "title": "Ark. Code 18-17-701, Noncompliance with rental agreement",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-701/"
+  },
+  {
+   "title": "Ark. Code 18-17-704, Periodic tenancy and holdover remedies",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-7/section-18-17-704/"
+  },
+  {
+   "title": "Ark. Code 18-16-101, Failure to pay rent and refusal to vacate",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-16/subchapter-1/section-18-16-101/"
+  },
+  {
+   "title": "Ark. Code 18-17-913, Execution of writ of possession",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-9/section-18-17-913/"
+  },
+  {
+   "title": "Ark. Code 18-17-502, Implied residential quality standards",
+   "url": "https://law.justia.com/codes/arkansas/title-18/subtitle-2/chapter-17/subchapter-5/section-18-17-502/"
+  },
+  {
+   "title": "Legal Aid of Arkansas, Evictions",
+   "url": "https://a.arlawhelp.org/landlord-tenant/evictions"
+  },
+  {
+   "title": "Legal Aid of Arkansas, Residential Landlord Tenant Act",
+   "url": "https://a.arlawhelp.org/landlord-tenant/residential-landlord-tenant-act"
+  },
+  {
+   "title": "Legal Aid of Arkansas, Lock Outs and Self-Help Evictions",
+   "url": "https://a.arlawhelp.org/landlord-tenant/lock-outs-and-self-help-evictions"
+  },
+  {
+   "title": "City of Little Rock, Tenant Rights",
+   "url": "https://littlerock.gov/government/city-departments/housing-and-neighborhood/tenant-rights/"
+  },
+  {
+   "title": "Arkansas DFA, Real Property Transfer Tax",
+   "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/miscellaneous-tax/arkansas-miscellaneous-tax-laws/real-property-transfer/"
+  },
+  {
+   "title": "Arkansas DFA, Residential Real Estate",
+   "url": "https://www.dfa.arkansas.gov/office/arkansas-assessment-coordination-division/real-property/residential-real-estate/"
+  }
+ ]
+}

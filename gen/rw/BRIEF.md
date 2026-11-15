@@ -29,3 +29,6 @@ Use Firecrawl for all page reads: mcp__Firecrawl__firecrawl_scrape (url, formats
 
 ## Uniqueness (UPDATED)
 Pages are checked for 5-word phrase overlap with every other page on the site; at least 80% of each page's phrases must appear nowhere else. State rules (due dates, statutes, exemption amounts) are repeated on many pages of the same state, so phrase them in your own fresh wording on each page and keep them short. Spend most of the words on facts specific to this city, county or topic. Do not paste the site's sales line ("no fees, commissions or closing costs...") into your sections; the page already has it.
+
+## Research tools (FINAL, overrides every earlier tool section)
+Firecrawl is out of credits: do NOT use any mcp__Firecrawl__ tool. Use WebSearch to find pages and WebFetch to open them. If a WebFetch fails on a page, try another official page; never use curl, Bash or any proxy to fetch pages. About 6 to 10 page reads per page you write.
