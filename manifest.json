@@ -24,6 +24,8 @@
   },
   {
    "file": "pages/fl/florida-city-ptax-1.json"
-  }
+  },
+  "pages/fl/florida-county-ptax-1.json",
+  "pages/fl/florida-county-records-1.json"
  ]
 }
