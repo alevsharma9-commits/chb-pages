@@ -2,62 +2,66 @@
  "slug": "kentucky-eviction-notice",
  "sections": [
   {
-   "h2": "What written notice does a Kentucky landlord have to give before an eviction?",
-   "html": "<p>It depends on the reason and on where the rental sits. Kentucky lets cities, counties and urban-county governments adopt the Uniform Residential Landlord and Tenant Act (URLTA), KRS 383.505 to 383.715, and the notice periods in that act apply only where a local government has adopted it. Everywhere else, older rules in KRS Chapter 383 govern.</p>\n<p>A 2017 legislative estimate counted 33 cities as adopters, with Lexington-Fayette and Louisville-Jefferson among them, and it said Oldham and Pulaski counties had also adopted. No current list was available to the writers of that estimate, so ask the city or county clerk whether the URLTA is in force where your house is.</p>"
+   "h2": "Do Kentucky eviction notice rules depend on the city or county?",
+   "html": "<p>Yes. Kentucky has no single statewide notice code for residential rentals. KRS 383.500 lets cities, counties and urban-county governments adopt the Uniform Residential Landlord and Tenant Act, KRS 383.505 to 383.715, but only as a whole and without amendment, and the act's notice periods bind only the places that did so.</p>\n<p>A legislative fiscal note from 2017 counted 33 adopting cities: Alexandria, Bellevue, Bromley, Catlettsburg, Covington, Crestview Hills, Cumberland, Danville, Dayton, Florence, Georgetown, Jeffersontown, Lebanon, Lexington, Livermore, London, Louisville, Ludlow, Midway, Millersburg, Mount Olivet, Newport, Oak Grove, Pikeville, Pleasureville, Radcliff, Shelbyville, Silver Grove, Southgate, Taylor Mill, Walton, West Point and Wilder. It added Lexington-Fayette, Louisville-Jefferson, Oldham County and Pulaski County, and it said local governments around Fort Campbell and Fort Knox had mostly not adopted, with Louisville-Jefferson, Radcliff and West Point the exceptions. That list is dated, so ask the city or county clerk where the house sits.</p>"
   },
   {
-   "h2": "Which notice periods apply in Kentucky?",
-   "html": "<p>The table gathers the periods in the statutes, with the type of tenancy that triggers each one. Every notice should be in writing and should state the reason and the date the tenancy ends.</p>\n<table>\n<caption>Written notice periods in KRS Chapter 383</caption>\n<thead><tr><th>Situation</th><th>Notice</th><th>Statute</th></tr></thead>\n<tbody>\n<tr><td>Unpaid rent where the URLTA applies</td><td>7 days after notice of nonpayment and intent to terminate</td><td>KRS 383.660(2)</td></tr>\n<tr><td>Other material breach where the URLTA applies</td><td>Termination date at least 14 days after receipt, breach not cured in 15 days</td><td>KRS 383.660(1)</td></tr>\n<tr><td>Week-to-week tenancy</td><td>7 days before the termination date</td><td>KRS 383.695(1)</td></tr>\n<tr><td>Month-to-month tenancy</td><td>30 days before the periodic rental date</td><td>KRS 383.695(2)</td></tr>\n<tr><td>Tenancy continuing after a written lease ends</td><td>10 days, or none if rent is 10 days late</td><td>KRS 383.695(3)</td></tr>\n<tr><td>Tenancy at will or by sufferance where the URLTA is not in effect</td><td>One month</td><td>KRS 383.195</td></tr>\n<tr><td>Unapproved transfer of the tenancy by a short-term tenant</td><td>10 days to quit</td><td>KRS 383.180(2)</td></tr>\n</tbody>\n</table>"
+   "h2": "Which notice period fits each Kentucky situation?",
+   "html": "<p>The table lines up each situation with its period and its statute. Where a row says URLTA, the period applies only in a place that adopted the act.</p>\n<table>\n<caption>Notice periods that Kentucky landlords look up most often</caption>\n<thead><tr><th>Situation</th><th>Period</th><th>Statute</th></tr></thead>\n<tbody>\n<tr><td>Rent unpaid (URLTA)</td><td>Seven days after a notice of nonpayment and intent to terminate</td><td>KRS 383.660(2)</td></tr>\n<tr><td>Other material breach (URLTA)</td><td>End date no sooner than 14 days after receipt; cure window of 15 days</td><td>KRS 383.660(1)</td></tr>\n<tr><td>Week-to-week tenancy (URLTA)</td><td>Seven days before the end date</td><td>KRS 383.695(1)</td></tr>\n<tr><td>Month-to-month tenancy (URLTA)</td><td>30 days before the periodic rental date</td><td>KRS 383.695(2)</td></tr>\n<tr><td>Tenancy after a written lease ends (URLTA)</td><td>10 days; none if rent is 10 days late</td><td>KRS 383.695(3)</td></tr>\n<tr><td>Tenancy at will or by sufferance, no URLTA</td><td>One month</td><td>KRS 383.195</td></tr>\n<tr><td>Transfer of a short tenancy without written consent</td><td>10 days to quit</td><td>KRS 383.180(2)</td></tr>\n</tbody>\n</table>"
   },
   {
-   "h2": "How many days does a tenant get to pay overdue rent?",
-   "html": "<p>Where the URLTA applies, the tenant gets seven days after written notice that rent is unpaid and that the landlord intends to end the tenancy. If the tenant pays inside that window, the landlord has no ground to terminate.</p>\n<p>A landlord who takes rent after learning of a default can lose the right to terminate for that default. KRS 383.675 says accepting rent with knowledge of a default, or accepting performance that differs from the agreement, waives the right to end the tenancy for that breach unless the parties agree otherwise afterward. Landlords who plan to sell should decide early whether they will accept partial payments.</p>"
+   "h2": "How long does a tenant have to cure unpaid rent in a URLTA place?",
+   "html": "<p>Seven days from the landlord's written notice. The notice has to say that rent is overdue and that the landlord means to end the tenancy if it stays unpaid, and a tenant who pays inside the week takes away the ground to terminate.</p>\n<p>Taking money can undo the notice. Under KRS 383.675, accepting rent with knowledge of the default, or accepting performance that varies from the agreement, waives the right to end the tenancy for that breach unless the parties later agree otherwise. A landlord who is preparing a sale should settle early whether partial payments will be taken.</p>"
   },
   {
-   "h2": "What notice covers a lease violation other than rent?",
-   "html": "<p>For a material breach where the URLTA is in force, the landlord delivers a written notice that names the acts or omissions and sets a termination date at least 14 days after the tenant receives it. If the breach is not remedied within 15 days, the agreement ends as the notice states.</p>\n<ul>\n<li>A breach that can be fixed by repairs or payment of damages ends the matter if the tenant fixes it before the date in the notice.</li>\n<li>If substantially the same act or omission returns within six months, the landlord may terminate on at least 14 days of written notice without offering a new chance to cure.</li>\n<li>A willful holdover after termination can cost the tenant up to three months of periodic rent or threefold actual damages, whichever is greater, plus reasonable attorney's fees, but only when the holdover is willful and not in good faith.</li>\n</ul>"
+   "h2": "What if the problem is a lease violation instead of money?",
+   "html": "<p>In a URLTA place, the landlord serves a notice that names the acts or omissions and picks an end date at least 14 days after the tenant receives it. If the breach is still open on day 15, the agreement ends as the notice says.</p>\n<ul>\n<li>A repairable breach is cured if the tenant repairs it or pays for it before the stated end date, and then the agreement continues.</li>\n<li>The same conduct returning within six months lets the landlord end the agreement on a new 14-day notice with no chance to cure.</li>\n<li>A holdover that is willful and not in good faith can cost the tenant up to three months of rent or three times actual damages, whichever is larger, plus reasonable lawyer fees.</li>\n</ul>"
   },
   {
-   "h2": "What happens where the URLTA has not been adopted?",
-   "html": "<p>Older provisions take over. A tenancy at will or by sufferance ends on one month's written notice to remove, and a tenant who stays past the end of a fixed term can be removed on a short timeline if the landlord moves quickly.</p>\n<ul>\n<li>Term of a year or more: the tenant gets no right to stay for 90 days after expiry, and possession can be recovered without demand or notice if proceedings begin inside that time.</li>\n<li>Term under a year: the same rule runs for 30 days.</li>\n<li>If the landlord waits past those windows, no proceeding is allowed until a later period passes, and the tenancy then continues as before.</li>\n</ul>\n<p>Check the local ordinance too. The statute bars a city or county from passing any other ordinance on the subjects covered by the URLTA, but local rules can still exist outside those subjects.</p>"
+   "h2": "Which Kentucky arrangements fall outside the act?",
+   "html": "<p>KRS 383.535 lists arrangements the act does not govern, and notices for these follow other rules. Check the list before using a notice form meant for an ordinary apartment lease.</p>\n<ul>\n<li>Residence at a care, detention or counseling institution when incidental to that service.</li>\n<li>Occupancy by a buyer under a contract of sale, or by a person who takes over that buyer's interest.</li>\n<li>Members living in a fraternal or social organization's quarters.</li>\n<li>Transient stays in a hotel or motel.</li>\n<li>An employee whose right to live there depends on the job.</li>\n<li>Condominium owners and cooperative proprietary lease holders.</li>\n<li>A dwelling on land used for livestock, poultry or crops, including tobacco and timber.</li>\n</ul>"
   },
   {
-   "h2": "How must a Kentucky eviction notice be delivered?",
-   "html": "<p>Under the URLTA, a tenant receives notice when it is delivered in hand, or mailed by registered or certified mail to the place the tenant designated, or to the last known residence if none was designated. A landlord receives notice at the business address used for the rental agreement or by certified mail to that place.</p>\n<p>Keep a copy of the notice, the mailing receipt and a dated note of how it was delivered. The date of receipt starts the 14-day period, so a mailed notice should allow time for delivery before any deadline is calculated.</p>"
+   "h2": "What older rules apply where the act has not been adopted?",
+   "html": "<p>Chapter 383's older sections take over. A tenancy at will or by sufferance ends on one month's written notice to remove, and a fixed term simply expires on its date.</p>\n<p>A tenant who stays after the term gains no right to remain for 90 days when the term was a year or longer, and for 30 days when it was shorter, and the landlord can start the court case inside those periods without demand or notice. Wait past them and no case can start until a full year (or 60 days, for a shorter term) has passed since the term ended. A city or county cannot pass an ordinance on the subjects the act covers, though ordinances on other housing matters can exist.</p>"
   },
   {
-   "h2": "What is a landlord forbidden to do during the notice period?",
-   "html": "<p>A landlord may not take possession by self-help. KRS 383.690 bars recovering the dwelling by action or otherwise, including cutting heat, electric, running water, hot water, gas or another essential service, except on abandonment, surrender or as the URLTA permits.</p>\n<p>Retaliation is also barred. KRS 383.705 stops a landlord from raising rent, cutting services or threatening an action for possession after a tenant complains to a housing code agency, complains to the landlord about a covered violation, or joins a tenant organization. A complaint within one year before the alleged retaliation creates a presumption of retaliation, but the landlord may still sue when the tenant is behind on rent.</p>"
+   "h2": "How is a Kentucky eviction notice delivered?",
+   "html": "<p>For a tenant, the act counts notice as received when it is handed over, or mailed by registered or certified mail to the address the tenant named for communications, or to the last known home if none was named. For a landlord, receipt means delivery in writing to the business address used for the rental, or certified mail to it.</p>\n<p>Keep a copy, the mailing slip and a dated note of who delivered what. Receipt starts the 14-day count, so mail should leave early enough that the end date still works.</p>"
   },
   {
-   "h2": "Can a Kentucky tenant also give notice to end a tenancy?",
-   "html": "<p>Yes. KRS 383.695 says the landlord or the tenant may end a week-to-week tenancy with seven days of written notice and a month-to-month tenancy with 30 days of written notice before the periodic rental date. The same section lets either side end a tenancy that began when a written lease ended on 10 days of written notice.</p>\n<p>For a landlord preparing to sell, a tenant's own notice can solve a vacancy question without any court case. Put the tenant's notice in the file with its date, and confirm the move-out date in writing so there is no dispute about when the keys come back.</p>"
+   "h2": "Can a Kentucky tenant also end a tenancy by notice?",
+   "html": "<p>Yes, in a URLTA place. KRS 383.695 gives the tenant the same periods the landlord has: seven days for week-to-week, 30 days before the rental date for month-to-month, and 10 days for a tenancy that began when a written lease ended.</p>\n<p>For a landlord preparing to sell, a tenant's own notice can clear the house without a court case. File it with its date and confirm the move-out date in writing.</p>"
   },
   {
-   "h2": "How does a notice interact with selling a rented house in Kentucky?",
-   "html": "<p>A sale does not cancel the tenancy. KRS 383.600 relieves a landlord who conveys the premises in a good faith sale to a bona fide purchaser of liability under the rental agreement for events after written notice of the conveyance to the tenant, unless the parties agreed otherwise.</p>\n<p>Showings need advance notice. KRS 383.615 requires at least two days' notice before entering to exhibit the unit to prospective purchasers, at reasonable times, except in an emergency. Tenants may not unreasonably withhold consent.</p>\n<ul>\n<li>Decide whether to sell with the tenant in place or finish the notice first.</li>\n<li>Tell the tenant about the sale in writing once the contract is signed.</li>\n<li>Ask the closing attorney how the lease passes to the buyer and who holds the security deposit.</li>\n</ul>"
+   "h2": "What may a Kentucky landlord not do while a notice runs?",
+   "html": "<p>A landlord may not take possession by self-help. KRS 383.690 bars regaining the unit by action or otherwise, including shutting off heat, electric power, running water, hot water, gas or another essential service, except for abandonment, surrender or as the act allows.</p>\n<p>Retaliation is barred too. After a tenant complains to a code agency, complains to the landlord about a covered violation or joins a tenant group, KRS 383.705 forbids rent hikes, service cuts and threatened possession suits. A complaint made in the prior year creates a presumption of retaliation, yet the landlord may still sue when the tenant is behind on rent.</p>"
+  },
+  {
+   "h2": "How does the notice interact with a sale of the rented house?",
+   "html": "<p>A sale does not itself end the tenancy. KRS 383.600 relieves a seller who conveys in a good faith sale to a bona fide purchaser of liability under the rental agreement for events after the tenant gets written notice of the conveyance, unless the parties agreed otherwise.</p>\n<p>Showings need advance warning. KRS 383.615 asks for two days' notice before entry to show the unit to prospective buyers, at reasonable times, with an exception for emergencies, and tenants may not unreasonably refuse access.</p>\n<ul>\n<li>Choose whether to sell with the tenant in place or finish the notice first.</li>\n<li>Give the tenant written word of the sale once a contract exists.</li>\n<li>Ask the closing attorney who will hold the security deposit. KRS 383.580 requires deposits to sit in a separate account and requires damage listings at move-in and move-out.</li>\n</ul>"
   }
  ],
  "faqs": [
   {
-   "q": "How many days notice must a Kentucky landlord give for unpaid rent?",
-   "a": "Seven days where the URLTA applies. The landlord gives written notice of nonpayment and of the intent to terminate, and the tenant has seven days to pay before the landlord may end the tenancy."
+   "q": "How many days of notice does a landlord owe for unpaid rent in Kentucky?",
+   "a": "Seven days where the URLTA is in force. The landlord gives written word that rent is overdue and that the tenancy will end, and the tenant has a week to pay."
   },
   {
-   "q": "How much notice ends a month-to-month tenancy in Kentucky?",
-   "a": "Thirty days of written notice before the periodic rental date, under KRS 383.695(2). Outside URLTA areas, a tenancy at will or by sufferance ends on one month's written notice."
+   "q": "What ends a month-to-month tenancy in Kentucky?",
+   "a": "A written notice given 30 days before the periodic rental date, from either side, under KRS 383.695(2). Outside URLTA places, one month's written notice ends a tenancy at will."
   },
   {
-   "q": "Can a Kentucky landlord evict without any notice?",
-   "a": "Rarely. After a written lease ends and the tenant stays, rent unpaid 10 days after it was due lets the landlord end the tenancy without notice under KRS 383.695(3). In other cases a written notice comes first."
+   "q": "Can a Kentucky landlord evict with no notice at all?",
+   "a": "Only in a narrow case. When a tenancy continues after a written lease and the rent is 10 days late, KRS 383.695(3) lets the landlord end it without notice. Otherwise a written notice comes first."
   },
   {
-   "q": "Can a landlord change the locks or shut off utilities to force a tenant out?",
-   "a": "No. KRS 383.690 forbids recovering possession by cutting off heat, electric, water, gas or other essential service, except on abandonment or surrender."
+   "q": "Can a landlord change locks or cut utilities to push a tenant out?",
+   "a": "No. KRS 383.690 forbids recovering possession by interrupting heat, power, water, gas or another essential service. Possession comes through a court order."
   },
   {
-   "q": "Does selling the house end the lease?",
-   "a": "Not by itself. KRS 383.600 relieves the seller of liability for later events once the tenant has written notice of the conveyance, unless the parties agreed otherwise. Read the lease and the sale contract to see what happens to the tenancy."
+   "q": "Does selling the house cancel the lease?",
+   "a": "Not by itself. KRS 383.600 only relieves the seller of liability for later events once the tenant has written notice of the conveyance. Read the lease and the sale contract for the rest."
   }
  ],
  "sources": [
@@ -90,8 +94,16 @@
    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35717"
   },
   {
+   "title": "KRS 383.535, Exclusions from application",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35724"
+  },
+  {
    "title": "KRS 383.560, Notice",
    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35729"
+  },
+  {
+   "title": "KRS 383.580, Security deposits",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35733"
   },
   {
    "title": "KRS 383.600, Limitation of liability",

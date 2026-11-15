@@ -15,7 +15,7 @@
     },
     {
       "h2": "What do Kentucky housing and population numbers look like?",
-      "html": "<p>The Census Bureau counts 4,606,864 residents as of July 1, 2025, up 2.2 percent from the 2020 base. Most households own their home, and values sit well below the national level, which affects how much a sale can net after liens and taxes.</p><table><caption>Kentucky compared with the United States. Source: U.S. Census Bureau QuickFacts.</caption><thead><tr><th>Measure</th><th>Kentucky</th><th>United States</th></tr></thead><tbody><tr><td>Owner-occupied housing unit rate, 2020-2024</td><td>68.3%</td><td>65.2%</td></tr><tr><td>Median value of owner-occupied units, 2020-2024</td><td>$205,600</td><td>$332,700</td></tr><tr><td>Median gross rent, 2020-2024</td><td>$967</td><td>$1,413</td></tr><tr><td>Housing units, July 1, 2025</td><td>2,070,495</td><td>148,260,882</td></tr><tr><td>Persons per household, 2020-2024</td><td>2.43</td><td>2.53</td></tr></tbody></table><p>With a median owner-occupied value of $205,600, a flat county fee or a small tax lien takes a larger bite out of a Kentucky sale than it would in a high priced market.</p>"
+      "html": "<p>QuickFacts lists a 2025 estimate of 4,606,864 people, a gain of 2.2 percent over the 2020 base. Roughly two in three homes are lived in by their owners, and typical values trail the national figure by a wide margin, which shapes what a sale can net after liens and taxes.</p><table><caption>Kentucky set beside the nation, from Census Bureau QuickFacts</caption><thead><tr><th>Measure</th><th>Kentucky</th><th>United States</th></tr></thead><tbody><tr><td>Share of homes occupied by owners (2020-2024)</td><td>68.3%</td><td>65.2%</td></tr><tr><td>Middle value of an owned home (2020-2024)</td><td>$205,600</td><td>$332,700</td></tr><tr><td>Middle monthly rent (2020-2024)</td><td>$967</td><td>$1,413</td></tr><tr><td>Total housing units, 2025 estimate</td><td>2,070,495</td><td>148,260,882</td></tr><tr><td>Average household size (2020-2024)</td><td>2.43</td><td>2.53</td></tr></tbody></table><p>At $205,600 for the middle owned home, a flat fee or a small tax lien takes a bigger share of a Kentucky sale than it would in a pricier market.</p>"
     },
     {
       "h2": "Which county office handles which part of a Kentucky property sale?",
@@ -23,11 +23,11 @@
     },
     {
       "h2": "What does a seller pay at closing in Kentucky besides the loan payoff?",
-      "html": "<p>The grantor pays a transfer tax of fifty cents for each $500 of value, collected by the county clerk when the deed is recorded. On a sale at the $205,600 state median value that works out to roughly $206, since the rate applies per $500 or fraction. Transfers under a foreclosure or a voluntary surrender in lieu of foreclosure are exempt, as are transfers between spouses or between a parent and child for nominal consideration.</p><p>Property tax is the other line item. Bills are based on the assessment as of January 1 and paid to the sheriff from October onward. Ask the sheriff whether the current year bill is paid before you list, and ask the clerk whether any older certificate of delinquency is on file against the parcel.</p>"
+      "html": "<p>The person signing the deed owes a transfer tax of $0.50 on every $500 of declared value or fraction of it, and the clerk takes it at recording. A house priced at the $205,600 median would owe about $206. Foreclosure transfers and surrenders in lieu of foreclosure fall outside the tax, and so do spouse-to-spouse deeds and nominal parent-to-child deeds.</p><p>Property tax is the other line item. Bills are based on the assessment as of January 1 and paid to the sheriff from October onward. Ask the sheriff whether the current year bill is paid before you list, and ask the clerk whether any older certificate of delinquency is on file against the parcel.</p>"
     },
     {
       "h2": "How do tax dates and penalties work across the state?",
-      "html": "<p>Kentucky uses one statewide collection pattern, with a longer schedule when a county mails late. The typical schedule gives a 2 percent discount from October 1 through November 1, face value through December 31, a 5 percent penalty in January and a 21 percent penalty from February 1 to April 15. On April 15 the bills move to the county clerk, where interest of 1 percent per month and clerk and attorney fees begin to pile up.</p><p>The state also sets a single real property rate each year. For 2025 the Department of Revenue set it at 10.6 cents per $100 of assessed value, down from 10.9 cents. Counties, cities, school districts and special districts add their own rates on top, which is why two houses with the same value can have very different bills.</p>"
+      "html": "<p>One collection pattern covers the whole state, with a stretched version for counties that mail late. A 2 percent discount applies through November 1, the face amount through December 31, then 5 percent in January and 21 percent from February 1 until April 15. After that date the bill sits with the clerk, and monthly interest of 1 percent plus clerk and attorney fees start adding up.</p><p>The state also sets a single real property rate each year. The 2025 figure, announced by the Department of Revenue, was 10.6 cents on each $100 of assessed value, a drop from 10.9. Counties, cities, school boards and special districts layer on their own levies, so identical houses in different taxing districts can receive quite different bills.</p>"
     },
     {
       "h2": "What should a landlord or heir know about the local rules?",
@@ -45,15 +45,15 @@
     },
     {
       "q": "Who do I call first when selling an inherited house in Kentucky?",
-      "a": "Start with the county clerk, who records deeds and holds delinquent tax bills, and then call the property valuation administrator about any homestead exemption. The sheriff can tell you whether the current year tax bill is paid."
+      "a": "Begin at the clerk's office, which records deeds and holds overdue tax bills. Then ask the property valuation administrator about a homestead exemption, and ask the sheriff whether this year's bill has been paid."
     },
     {
       "q": "Does the same property tax calendar apply in every Kentucky county?",
-      "a": "Yes in outline. Most counties bill from October 1 with a 2 percent discount through November 1, and unpaid bills move to the county clerk on April 15. A county that mails bills after November 1 uses a schedule with 30 days for each stage."
+      "a": "In outline, yes. Most sheriffs start collecting October 1 and give the discount through November 1, and anything unpaid goes to the clerk on April 15. A county that mails after November 1 allows 30 days for each stage."
     },
     {
       "q": "Is there a state tax on transferring a deed in Kentucky?",
-      "a": "Yes. The grantor pays fifty cents for each $500 of value, collected by the county clerk at recording. Foreclosure transfers and deeds in lieu of foreclosure are exempt."
+      "a": "Yes. The seller owes $0.50 per $500 of value when the deed is filed with the clerk. Transfers by foreclosure or by surrender in lieu of it are excluded."
     },
     {
       "q": "Are Louisville and Lexington handled differently from other places?",

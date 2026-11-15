@@ -9,3 +9,4 @@
 - luzerne-county-pa-recorder-of-deeds: fees from Nov 2025 schedule; July 1 2026 schedule unopened. Recheck. pennsylvania-eviction-notice: one source.
 - sell-my-house-fast-lebanon-pa: Lebanon County Sept 1 appeal deadline from a 2013 PDF; recheck.
 - pennsylvania-landlord-tenant-law-tenant-rights: one source (AG guide). sell-my-house-fast-north-huntingdon-pa: tax figures from proposed 2026 budget; recheck.
+- bullitt-county-ky-property-tax-guide: rate unit (cents per $100) inferred; recheck. boyle/bracken closing-tax sentences borrowed from other counties' sheriff pages; recheck.
