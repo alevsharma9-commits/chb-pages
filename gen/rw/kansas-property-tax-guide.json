@@ -1,0 +1,101 @@
+{
+ "slug": "kansas-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How is Kansas property tax calculated?",
+   "html": "<p>Kansas finds a tax bill in two steps: appraised value times an assessment rate gives assessed value, and assessed value times the mill levy, divided by 1,000, gives the tax. The Department of Revenue's <a href=\"https://www.ksrevenue.gov/propertyvaluation/ptbasics/slide03.html\">property tax basics</a> use a $200,000 home and a combined levy of 130 mills as the example.</p><table><thead><tr><th>Step</th><th>Calculation</th><th>Result</th></tr></thead><tbody><tr><td>Appraised value</td><td>County appraiser's estimate of fair market value</td><td>$200,000</td></tr><tr><td>Assessed value</td><td>$200,000 x 11.5% residential rate</td><td>$23,000</td></tr><tr><td>Annual tax</td><td>$23,000 x 130 mills / 1,000</td><td>$2,990</td></tr></tbody></table><p>The 11.5% rate applies to residential property. The county clerk's handbook gives commercial property as 25% of full value. One mill is $1 of tax per $1,000 of assessed value, and the levy is the combined rate of every taxing unit in the area, including the school district, the county and the city. The levy for your address comes from the county clerk, and the example figures above are illustrations rather than a forecast for any home.</p>"
+  },
+  {
+   "h2": "What is the Kansas property tax calendar?",
+   "html": "<p>The Kansas year starts with valuation notices by March 1 and ends with the second half of the tax due on May 10 of the following year. The Department of Revenue publishes the full schedule, and these are the dates that matter most to a homeowner or a seller:</p><table><thead><tr><th>Date</th><th>Event</th></tr></thead><tbody><tr><td>March 1</td><td>County mails valuation notices</td></tr><tr><td>30 days from mailing</td><td>Last day to file an equalization appeal with the county appraiser</td></tr><tr><td>May 15</td><td>Informal meeting with the county appraiser held by this date</td></tr><tr><td>May 20</td><td>County appraiser gives final determination</td></tr><tr><td>June 1</td><td>County appraiser certifies values to the county clerk</td></tr><tr><td>August 25</td><td>Governing bodies certify budgets to the county clerk</td></tr><tr><td>November 1</td><td>County clerk certifies the tax roll to the county treasurer</td></tr><tr><td>December 20</td><td>Full payment or first half due</td></tr><tr><td>May 10</td><td>Second half due</td></tr></tbody></table><p>These dates come from the state's <a href=\"https://www.ksrevenue.gov/pvdproptaxcal.html\">property tax calendar</a>. Personal property follows a separate schedule, with its own valuation notice date of May 1.</p>"
+  },
+  {
+   "h2": "Who sets the mill levy, and what is the revenue neutral rate?",
+   "html": "<p>Each taxing unit sets its own levy from its budget, and the revenue neutral rate is the levy that would raise the same dollars as the year before on the new valuations. The state's 2026 property tax law course guide describes it as <a href=\"https://www.ksrevenue.gov/pdf/2026PropertyTaxLawGuide.pdf\">the mill levy that, applied to the current year's assessed valuation, would produce the same property-tax revenue</a> as the prior year.</p><p>The calendar builds in public steps around it. The county clerk reports the rate for each taxing jurisdiction by June 15. A governing body that wants to go above it tells the county clerk by July 20 and holds a public hearing between August 20 and September 20. That hearing window is the best time for a homeowner to speak up about a rising bill, because the budget certification deadline is August 25.</p><p>For a seller, the levy is one reason two houses with the same appraised value can carry different bills. A house in one school district or city can sit under a higher combined levy than a house a few blocks away in another.</p>"
+  },
+  {
+   "h2": "How do you appeal a Kansas property valuation?",
+   "html": "<p>You have two routes in Kansas, and you must choose one for a given tax year: an equalization appeal after the spring notice, or payment under protest when you pay. The state's appeal page describes both. If you appeal the spring notice, <a href=\"https://www.ksrevenue.gov/pvdappeals.html\">it is called an equalization appeal</a>, and if you appeal when paying it is called a payment under protest appeal.</p><ul><li><strong>Equalization appeal:</strong> contact the county appraiser within 30 days of the date the notice was mailed, then attend the informal meeting held by May 15.</li><li><strong>Third-party appraisal option:</strong> after the informal result, the owner may file a fee simple appraisal done by a Kansas certified appraiser within 60 days of the notice mailing date. The county then has 90 days to give its determination.</li><li><strong>Payment under protest:</strong> file the protest form with the county treasurer when you pay. The Department of Revenue says it must be filed by December 20, whether you pay half or all of the bill.</li></ul><p>If the informal meeting does not settle it, the next stop is the Board of Tax Appeals. A single-family residence must go to the BOTA Small Claims Division first, and so must a non-agricultural property valued under $3 million. Small claims appeals are heard by one hearing officer, and the appeal form is usually part of the notice of informal meeting results. Filing deadlines run 30 days from the mailing date of the prior decision.</p>"
+  },
+  {
+   "h2": "What happens if Kansas property tax is not paid?",
+   "html": "<p>Unpaid Kansas real estate tax draws interest and, after enough time, can lead to a county foreclosure sale. K.S.A. 79-2004 allows payment in full by December 20 or in halves, with the second half due by May 10. A payment date that falls on a weekend moves to the next business day, and a bill of $10 or less is due in full on December 20.</p><p>If the first half is missed, interest runs at the rate set by K.S.A. 79-2968 plus five percentage points a year. Taxes still unpaid after May 10 draw the same rate until paid or until the property is sold for taxes by foreclosure.</p><p>The foreclosure step comes later. Under K.S.A. 79-2801, once property bid in by the county stays unredeemed on September 1 of the second year after the sale, the county attorney is directed to file an action in district court. The law makes that action discretionary where the aggregate assessed valuation is under $300,000 or the delinquent taxes and special assessments are under $10,000. If the county does not act on property inside a city and the taxes have stayed delinquent for three years after the property became eligible, the city may start the foreclosure itself.</p><p>Redemption periods are listed on this page above, and they are worth reading closely if a notice has already arrived.</p>"
+  },
+  {
+   "h2": "What should a seller know about Kansas property tax at closing?",
+   "html": "<p>A seller should expect the current year's tax and any back taxes to be settled through the title company at closing. The tax lien does not disappear because the house changes hands, so open amounts are normally paid from the proceeds. Ask the title company for a payoff figure early.</p><ul><li>A recorded deed has to carry the new owner's name and mailing address, because the register of deeds forwards that address to the county clerk to update the tax statement mailing record (K.S.A. 58-2221).</li><li>A deed generally needs a sales validation questionnaire. Sale prices are not public record in Kansas under K.S.A. 79-1437f, according to the Wyandotte County Register of Deeds.</li><li>Questions about a specific property's value belong with the county appraiser, as the Department of Revenue directs, while payment questions go to the county treasurer.</li></ul><p>If a house has delinquent taxes, a repair backlog or a probate hold, our team can look at it as-is. The tax questions above are the same ones a title company will raise, so it helps to gather the latest tax statement before you call.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are Kansas property taxes due?",
+   "a": "Real estate tax is due in full by December 20, or in two halves with the first by December 20 and the second by May 10 of the next year (K.S.A. 79-2004). A due date on a weekend moves to the next business day."
+  },
+  {
+   "q": "How long do I have to appeal my Kansas valuation?",
+   "a": "Thirty days from the date the county mailed the notice of value. The notice goes out by March 1, so the window usually closes in spring. The informal meeting with the county appraiser must be held by May 15."
+  },
+  {
+   "q": "Can I appeal and also pay under protest?",
+   "a": "No. The Department of Revenue says a taxpayer picks one path for the same tax year: appeal at the valuation notice or pay under protest, not both."
+  },
+  {
+   "q": "What is the residential assessment rate in Kansas?",
+   "a": "Residential property is assessed at 11.5% of appraised value. The assessed value is then multiplied by the combined mill levy and divided by 1,000 to produce the tax."
+  },
+  {
+   "q": "Who do I contact about my Kansas property tax bill?",
+   "a": "The county appraiser handles value questions, the county clerk holds the mill levy, and the county treasurer takes payments and the payment under protest form."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kansas Department of Revenue: Property Tax Calendar",
+   "url": "https://www.ksrevenue.gov/pvdproptaxcal.html"
+  },
+  {
+   "title": "Kansas Department of Revenue: Property Valuation home page",
+   "url": "https://www.ksrevenue.gov/pvdindex.html"
+  },
+  {
+   "title": "Kansas Department of Revenue: How Property Taxes Are Calculated",
+   "url": "https://www.ksrevenue.gov/propertyvaluation/ptbasics/slide03.html"
+  },
+  {
+   "title": "Kansas Department of Revenue: Tax Appeals",
+   "url": "https://www.ksrevenue.gov/pvdappeals.html"
+  },
+  {
+   "title": "Kansas Department of Revenue: Payment Under Protest Appeals guide",
+   "url": "https://www.ksrevenue.gov/pdf/pvdappealpup.pdf"
+  },
+  {
+   "title": "Kansas Department of Revenue: Equalization Appeal Process flow chart",
+   "url": "https://www.ksrevenue.gov/pdf/Equalization_Appeal_Flow_Chart.pdf"
+  },
+  {
+   "title": "Kansas Property Tax Law 2026 Course Guide",
+   "url": "https://www.ksrevenue.gov/pdf/2026PropertyTaxLawGuide.pdf"
+  },
+  {
+   "title": "K.S.A. 79-2004, payment of real estate taxes",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/079_000_0000_chapter/079_020_0000_article/079_020_0004_section/079_020_0004_k/"
+  },
+  {
+   "title": "K.S.A. 79-2801, tax foreclosure action",
+   "url": "https://ksrevisor.gov/statutes/chapters/ch79/079_028_0001.html"
+  },
+  {
+   "title": "K.S.A. 58-2221, recordation of instruments",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/058_000_0000_chapter/058_022_0000_article/058_022_0021_section/058_022_0021_k/"
+  },
+  {
+   "title": "Wyandotte County Register of Deeds",
+   "url": "https://www.wycokck.org/Departments/Register-of-Deeds"
+  },
+  {
+   "title": "Kansas County Clerk's Handbook (Department of Revenue)",
+   "url": "https://www.ksrevenue.gov/pdf/CountyClerkHandbook.pdf?v1"
+  }
+ ]
+}

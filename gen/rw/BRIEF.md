@@ -26,3 +26,6 @@ Rules
 
 ## Research tools (UPDATED, overrides anything above)
 Use Firecrawl for all page reads: mcp__Firecrawl__firecrawl_scrape (url, formats ["markdown"], onlyMainContent true) to open a page, and mcp__Firecrawl__firecrawl_search or WebSearch to find pages. mcp__Firecrawl__firecrawl_gov_search is free and good for statutes and county/state government pages. Do NOT use WebFetch. Load Firecrawl tool schemas with ToolSearch first (select:mcp__Firecrawl__firecrawl_scrape,mcp__Firecrawl__firecrawl_search,mcp__Firecrawl__firecrawl_gov_search). Keep scrapes lean: about 6 to 10 page reads per page you write. If Firecrawl reports it is out of credits, stop and report that.
+
+## Uniqueness (UPDATED)
+Pages are checked for 5-word phrase overlap with every other page on the site; at least 80% of each page's phrases must appear nowhere else. State rules (due dates, statutes, exemption amounts) are repeated on many pages of the same state, so phrase them in your own fresh wording on each page and keep them short. Spend most of the words on facts specific to this city, county or topic. Do not paste the site's sales line ("no fees, commissions or closing costs...") into your sections; the page already has it.
