@@ -1,0 +1,89 @@
+{
+ "slug": "wisconsin-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Wisconsin have an estate tax or an inheritance tax?",
+   "html": "<p>No. The Wisconsin Department of Revenue states that <a href=\"https://revenue.wi.gov/Pages/form/estate-home.aspx\">there is no Wisconsin estate tax for deaths occurring on or after January 1, 2008</a>, and its <a href=\"https://www.revenue.wi.gov/WisconsinTaxBulletin/151art.pdf\">tax bulletin</a> lists an inheritance tax return only for deaths before January 1, 1992. A family that inherits a Wisconsin house from a recent death pays neither state tax just because the deed changes hands.</p><p>Three other costs can still reach an heir who wants to sell: the federal estate tax on very large estates, income tax on any gain from the sale, and the county transfer fee collected when a deed is recorded. Each one follows its own rules, and the sections below take them in turn. If the death happened before the cutoff years above, ask the Department of Revenue which return applied to that estate.</p>"
+  },
+  {
+   "h2": "Does the federal estate tax apply to a Wisconsin house?",
+   "html": "<p>Only when the whole estate is very large. The <a href=\"https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax\">IRS says</a> a return is required when the gross estate, plus adjusted taxable gifts and the specific gift tax exemption, is worth more than the filing threshold for the year of death. That threshold is $15,000,000 for 2026, $13,990,000 for 2025 and $13,610,000 for 2024.</p><p>The gross estate counts everything the person owned or had certain interests in, valued at fair market value on the date of death. Deductions then come off for mortgages and other debts, administration expenses, and property that passes to a surviving spouse or a qualified charity. The IRS adds that most relatively simple estates do not need to file. For scale, the <a href=\"https://www.census.gov/quickfacts/fact/table/WI/PST045224\">Census Bureau</a> puts the median value of an owner-occupied home in Wisconsin at $266,500 for 2020 to 2024, so one house sits far below the 2026 threshold.</p><p>A surviving spouse may elect to carry over the decedent's unused exemption, and that election is made on a timely filed estate tax return. If the Wisconsin estate you are settling is anywhere near the threshold, a federal return is a job for an estate attorney or tax preparer, not a title company.</p>"
+  },
+  {
+   "h2": "What income tax do heirs owe when they sell an inherited Wisconsin house?",
+   "html": "<p>They owe income tax on any gain, and the Wisconsin return gives a partial break. Department of Revenue <a href=\"https://www.revenue.wi.gov/DOR%20Publications/pb103.pdf\">Publication 103</a> says gains and losses from selling capital assets are reportable for both Wisconsin and federal income tax, and that Wisconsin generally allows a deduction for 30% of the net capital gain from assets held more than one year. The publication is written for 2025 returns.</p><p>The gain is the sale price less basis. <a href=\"https://www.irs.gov/taxtopics/tc703\">IRS Topic 703</a> explains that basis is usually what you paid, and that property received by inheritance follows the separate rules in IRS Publication 551. Get the basis figure from the estate's tax preparer before you compare offers on the house, because it drives the tax result.</p><ul><li>Individual heirs report the sale on Wisconsin Schedule WD. Estates and trusts use Schedule 2WD with Form 2, Wisconsin Fiduciary Income Tax for Estates and Trusts.</li><li>A net capital loss can offset up to $3,000 of other income ($1,500 if married filing separately) on a Wisconsin return, beginning with tax year 2023. Larger losses carry forward.</li><li>Wisconsin and federal basis can differ for certain assets, so ask the preparer whether the Wisconsin figure needs an adjustment.</li></ul>"
+  },
+  {
+   "h2": "How much is the Wisconsin transfer fee when an inherited house sells?",
+   "html": "<p>The fee is 30 cents for each $100 of value, and the seller pays it. <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/77/ii/22/1\">Wis. Stat. 77.22(1)</a> places the fee on the grantor, has the register of deeds collect it when the deed is submitted for recording, and requires a transfer return signed by grantor and grantee. On a $250,000 sale the fee is $750.</p><p>Passing the house to heirs is a different event from selling it. A conveyance by will, descent or survivorship is exempt under <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/77/ii/25/11\">Wis. Stat. 77.25(11)</a>. The Department of Revenue's <a href=\"https://www.revenue.wi.gov/Pages/FAQS/slf-retr-retr-v-w.aspx\">transfer return FAQ</a> is plain that a sale under a will is not exempt, and the sale price is the value that carries the fee.</p><table><thead><tr><th>Transfer</th><th>Fee treatment</th><th>Rule</th></tr></thead><tbody><tr><td>Estate or heirs sell to a buyer</td><td>Fee on the sale price</td><td>Wis. Stat. 77.22(1); DOR FAQ</td></tr><tr><td>House passes to heirs by will, descent or survivorship</td><td>Exempt</td><td>Wis. Stat. 77.25(11)</td></tr><tr><td>Heir pays siblings or the estate to take the house</td><td>Fee on the amount paid, exemption for the rest</td><td>DOR FAQ</td></tr><tr><td>Trustee deeds to a beneficiary for no payment</td><td>Exempt</td><td>Wis. Stat. 77.25(9)</td></tr><tr><td>Gift between parent and child, or grandparent and grandchild, for nominal or no consideration</td><td>Exempt</td><td>Wis. Stat. 77.25(8)</td></tr></tbody></table><p>Transfer returns are filed electronically unless the Department of Revenue grants a hardship waiver. When a deed claims an exemption, the reason is stated on the face of the deed by reference to the subsection of 77.25.</p>"
+  },
+  {
+   "h2": "Can a small Wisconsin estate skip probate before the house is sold?",
+   "html": "<p>Only if the estate is small. <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/867/03?view=section\">Wis. Stat. 867.03</a> lets an heir, the trustee of a revocable trust, a person named in the will as personal representative, or the decedent's guardian collect property by affidavit when the decedent's property subject to administration in Wisconsin does not exceed $50,000 in gross value. A house worth more than that by itself puts the estate outside the affidavit route.</p><p>The statute also blocks a person named as personal representative from receiving real property by affidavit, unless that person is also an heir, a trustee of a revocable trust created by the decedent, or the decedent's guardian. Transfers to a named personal representative who is not one of those people wait 30 days after the affidavit is received. Larger estates need a probate case. Ask the probate office of the circuit court in the county where the decedent lived what the court needs before a buyer can close.</p>"
+  },
+  {
+   "h2": "What should Wisconsin heirs check before accepting a cash offer on an inherited house?",
+   "html": "<p>A cash purchase is still a sale, so the same fee and gain rules apply. Work through this short list before you sign:</p><ul><li>Ask the estate's tax preparer for the basis in the house and an estimate of the gain, and which schedule reports it.</li><li>Ask the county register of deeds how the transfer return and exemption number should read on any deed that moves title to heirs without payment.</li><li>Confirm in writing who has authority to sign for the estate, and ask the circuit court's probate office what proof of that authority a buyer will need.</li><li>Ask the buyer to show the transfer fee on the closing statement, since the fee is imposed on the seller.</li><li>If any heir is buying out the others, tell the preparer, because the payment is subject to the transfer fee.</li></ul>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Wisconsin have an inheritance tax?",
+   "a": "No. The Department of Revenue lists an inheritance tax return only for deaths before January 1, 1992, and says there is no Wisconsin estate tax for deaths on or after January 1, 2008. Heirs who inherit a Wisconsin house from a recent death owe neither tax on the transfer."
+  },
+  {
+   "q": "How large must an estate be before a federal estate tax return is required?",
+   "a": "For a 2026 death, the filing threshold is $15,000,000. The IRS counts the gross estate plus adjusted taxable gifts and the specific gift tax exemption against that figure. Most relatively simple estates do not need to file."
+  },
+  {
+   "q": "Do heirs pay tax when they sell an inherited house in Wisconsin?",
+   "a": "They can owe income tax on the gain, which is the sale price less basis. Wisconsin generally allows a deduction for 30% of net capital gain from assets held more than one year. Ask the estate's tax preparer for the basis and the likely result."
+  },
+  {
+   "q": "Is the Wisconsin transfer fee due when a house passes under a will?",
+   "a": "No. A conveyance by will, descent or survivorship is exempt under Wis. Stat. 77.25(11). The fee of 30 cents per $100 applies when the house is sold, and the sale price is the value that carries it."
+  },
+  {
+   "q": "Can a Wisconsin estate use an affidavit instead of probate for a house?",
+   "a": "Only when the decedent's property subject to administration in Wisconsin does not exceed $50,000 in gross value. A person named in the will as personal representative cannot receive real property by affidavit unless that person is also an heir, a trustee of the decedent's revocable trust, or the decedent's guardian."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wisconsin DOR Estate Tax Forms",
+   "url": "https://revenue.wi.gov/Pages/form/estate-home.aspx"
+  },
+  {
+   "title": "Wisconsin DOR Tax Bulletin 151",
+   "url": "https://www.revenue.wi.gov/WisconsinTaxBulletin/151art.pdf"
+  },
+  {
+   "title": "IRS Estate Tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
+  },
+  {
+   "title": "IRS Topic 703 Basis of Assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "Wisconsin DOR Publication 103",
+   "url": "https://www.revenue.wi.gov/DOR%20Publications/pb103.pdf"
+  },
+  {
+   "title": "Wis. Stat. 77.22 and 77.25",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/77/ii/22/1"
+  },
+  {
+   "title": "Wisconsin DOR Real Estate Transfer Return FAQ",
+   "url": "https://www.revenue.wi.gov/Pages/FAQS/slf-retr-retr-v-w.aspx"
+  },
+  {
+   "title": "Wis. Stat. 867.03",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/867/03?view=section"
+  },
+  {
+   "title": "Census QuickFacts Wisconsin",
+   "url": "https://www.census.gov/quickfacts/fact/table/WI/PST045224"
+  }
+ ]
+}

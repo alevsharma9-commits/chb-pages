@@ -1,0 +1,72 @@
+{
+  "slug": "phoenix-az-property-tax-guide",
+  "sections": [
+    {
+      "h2": "Who sends the property tax bill in Phoenix?",
+      "html": "<p>Maricopa County does, not the city. The <a href=\"https://www.mcassessor.maricopa.gov/\">Maricopa County Assessor</a> sets the value and classification of each parcel, and the <a href=\"https://treasurer.maricopa.gov/\">Maricopa County Treasurer</a> bills and collects the money. The Treasurer describes the job as collecting real and personal property taxes for more than 1,800 tax districts, including the state, the county, incorporated cities and towns, schools, community colleges and special districts, then passing the money on.</p><p>A Phoenix owner therefore has two offices to call, and each answers a different question.</p><ul><li>Assessor: the value on your Notice of Valuation, the legal class of the home, appeals, notices of claim and personal exemptions. The office is at 301 W Jefferson St, Phoenix, AZ 85003, and the appeals line is 602-506-3406.</li><li>Treasurer: the amount due, payment options, refunds, delinquent notices and tax lien information.</li></ul><p>The city of Phoenix sets its own rates, but it does not assess your home or collect from you. Its share arrives as one line on the county bill.</p>"
+    },
+    {
+      "h2": "When are Phoenix property taxes due?",
+      "html": "<p>Half is due October 1 and half is due the next March 1, under <a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a>. Each half turns delinquent after 5:00 p.m. on the following November 1 and May 1. If a delinquency date lands on a weekend or holiday, the deadline moves to 5:00 p.m. on the next business day.</p><p>That rule matters this year. November 1, 2026 was a Sunday, so the Treasurer's calendar shows the first half of 2026 taxes becoming delinquent on Monday, November 2, after 5 p.m. As of November 15, an unpaid first half is already late. May 1, 2027 is a Saturday, so the second-half deadline should roll to Monday, May 3, 2027.</p><p>Interest on late taxes runs at 16 percent per year simple, and a fraction of a month counts as a whole month (<a href=\"https://www.azleg.gov/ars/42/18053.htm\">A.R.S. 42-18053</a>). The same statute says no interest is collected if the full-year tax is paid on or before December 31 of the tax year. For a 2026 bill with the first half unpaid, that gives you until Thursday, December 31, 2026 to pay both halves and avoid interest. Bills of $100 or less are due in one payment on October 1 and become delinquent after December 31.</p><table><thead><tr><th>Item</th><th>Date or rule</th><th>Source</th></tr></thead><tbody><tr><td>First half due</td><td>October 1</td><td><a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a></td></tr><tr><td>First half delinquent, 2026</td><td>After 5 p.m. on Monday, November 2, 2026</td><td><a href=\"https://treasurer.maricopa.gov/PropertyTaxInformation/calendar\">Treasurer calendar</a></td></tr><tr><td>Final delinquent notices for unpaid 2025 taxes</td><td>December 1</td><td><a href=\"https://treasurer.maricopa.gov/PropertyTaxInformation/calendar\">Treasurer calendar</a></td></tr><tr><td>Full year without interest</td><td>December 31, 2026</td><td><a href=\"https://www.azleg.gov/ars/42/18053.htm\">A.R.S. 42-18053</a></td></tr><tr><td>Second half due</td><td>March 1, 2027</td><td><a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a></td></tr></tbody></table>"
+    },
+    {
+      "h2": "How big is Phoenix, and what does that mean for a tax bill?",
+      "html": "<p>Phoenix is the capital of Arizona and the seat of Maricopa County. Wikipedia gives its area as about 518 square miles, the largest of any Arizona city, and the Census Bureau counted 1,665,481 residents in its July 2025 estimate. Settlers began farming the Salt River Valley in 1867, and the city was incorporated on February 25, 1881.</p><p>Size matters for taxes because a single city holds very different housing stock. The city organizes itself into 15 urban villages, including Ahwatukee Foothills, Camelback East, Laveen, Maryvale, Encanto and South Mountain. Homes in Maryvale and Ahwatukee Foothills sit under the same city, yet the school, community college and special districts on each bill depend on the parcel.</p><ul><li>Census 2020 to 2024 figures for Phoenix: 57.3 percent owner-occupied housing, a median owner-occupied home value of $420,700, and median gross rent of $1,582.</li><li>Households total 610,442, with a median household income of $81,332.</li></ul><p>Look up your parcel on the Assessor's site to see which taxing districts apply. Two houses a mile apart can have different total rates.</p>"
+    },
+    {
+      "h2": "What does the city of Phoenix itself charge per $100 of value?",
+      "html": "<p>For 2026-27 the city's published notice proposed a primary rate of $1.2652 per $100 of assessed valuation, down slightly from $1.2658, and a secondary rate of $0.7745, down from $0.8141. The city said that although the primary rate was lower, rising assessed values would still raise primary taxes for the average owner by 2.79 percent. Its hearing was held June 17, 2026, so ask the Treasurer for the rates that were finally adopted.</p><p>Primary and secondary taxes pay for different things, according to the city's notice.</p><ul><li>Primary tax supports General Fund services such as police and fire, parks and recreation, libraries and community centers. State law caps how fast a city's primary levy may grow (<a href=\"https://www.azleg.gov/ars/42/17051.htm\">A.R.S. 42-17051</a>).</li><li>Secondary tax pays bonded debt service for facilities like libraries, police and fire stations, storm drains and parks.</li></ul><p>These are only the city's rates. Your county, school district and community college add their own, so your bill total is higher than the city line. Maricopa County posts the rate and levy tables for each taxing jurisdiction on its <a href=\"https://www.maricopa.gov/5160/Tax-Levy-and-Rates\">Tax Levy and Rates</a> page.</p>"
+    },
+    {
+      "h2": "How do you challenge a Phoenix home valuation?",
+      "html": "<p>File a petition with the Maricopa County Assessor within 60 days after the date the Notice of Valuation was mailed (<a href=\"https://www.azleg.gov/ars/42/16051.htm\">A.R.S. 42-16051</a>). For the notice mailed February 20, 2026, the Assessor's deadline was April 21, 2026, and that window has closed. Notices for the following cycle arrive in late winter, so check the mail date printed on yours and count 60 days from it.</p><p>The Assessor's <a href=\"https://www.mcassessor.maricopa.gov/page/appeals/\">appeals page</a> separates three filings, and picking the wrong one wastes time.</p><ul><li>Real property appeal: use it when you think the full cash value or classification is wrong. The Petition for Review of Valuation (AZDOR Form 82130R) can go in by mail or in person, and the office says emails are not accepted for real property appeals.</li><li>Notice of Claim: use it for a factual error such as wrong square footage. It covers the current year and the three prior years, and an approved claim can produce a refund through the Treasurer.</li><li>Residential Legal Class Change: use it when the home became your primary residence. A driver's license, voter registration, or a tax return address page plus a vehicle registration or utility bill must show your name and the property address.</li></ul><p>Bring evidence to any of these. The Assessor says appeals without documents such as appraisals or comparable sales may be denied.</p>"
+    },
+    {
+      "h2": "What tax relief can Phoenix homeowners apply for?",
+      "html": "<p>The Assessor's Valuation Relief division runs personal exemptions for widowed owners, totally disabled owners and veterans. Applications are due by February 28, or by September 1 with an approved Exemption Deadline Waiver. All programs require both Arizona residency and household income under the statutory limit.</p><ul><li>Widowed or totally disabled: an exemption of up to $4,873 off the limited property value.</li><li>Veteran with a service-connected disability under 100 percent, or a nonservice-connected disability: up to $4,873, multiplied by the disability percentage.</li><li>Veteran with a 100 percent service-connected rating: the primary residence is fully exempt if all requirements, including income, are met.</li></ul><p>The Assessor lists the income cap as $39,865 for households with no children under 18 and $47,826 where children under 18 or disabled children lived in the home during the prior year. Social Security, military pensions and veterans' disability payments are not counted as income. Call 602-506-3406 before you apply, since a purchase or sale of property can end eligibility.</p>"
+    },
+    {
+      "h2": "What happens if you sell a Phoenix house with property tax unpaid?",
+      "html": "<p>Clear the unpaid tax before or at closing. A county treasurer can sell the tax lien for all delinquent taxes on a property together, and the sale is not limited to a single year (<a href=\"https://www.azleg.gov/ars/42/18104.htm\">A.R.S. 42-18104</a>). Ask your title company to pull the balance and show it on the settlement statement.</p><p>A few practical steps keep the closing on schedule.</p><ul><li>Ask the title or escrow officer for a payoff figure that includes interest through the closing date.</li><li>If the first half of 2026 is still open, remember that interest is already running from November 2.</li><li>If you recently paid off a mortgage, ask the Treasurer about the interest waiver in A.R.S. 42-18053(C). It applies to a delinquency within one year after a mortgage or deed of trust is released, needs board of supervisors approval, and can be used once per property.</li></ul><p>The deed is recorded with the <a href=\"https://recorder.maricopa.gov/\">Maricopa County Recorder</a>, which cannot give legal advice or help fill in documents and does not provide notary services. Its recording services line is 602-506-3535. This works the same whether the buyer pays cash or uses a loan.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the city of Phoenix collect my property tax?",
+      "a": "No. Maricopa County does. The Assessor sets the value and the Treasurer bills and collects, including the city's share. Phoenix sets its own rate, but it appears as one line on the county bill."
+    },
+    {
+      "q": "What is the deadline to pay 2026 Phoenix property tax without interest?",
+      "a": "December 31, 2026 for the full year. Under A.R.S. 42-18053, no interest is collected if the full-year tax is paid on or before December 31 of the tax year. If you pay only the first half after its November 2 delinquency date, interest starts to run on the unpaid half."
+    },
+    {
+      "q": "What interest rate applies to late property tax in Maricopa County?",
+      "a": "Sixteen percent per year, simple, from the delinquency date until paid. A fraction of a month counts as a whole month. State law lets the treasurer, with board approval, waive interest once per property for a delinquency within a year after a mortgage is released."
+    },
+    {
+      "q": "Can I still appeal my Phoenix home value for this cycle?",
+      "a": "The window for the notice mailed February 20, 2026 closed on April 21, 2026. For the next notice, file within 60 days of its mail date. If you see a factual error such as wrong square footage, a Notice of Claim can still reach back three prior tax years."
+    },
+    {
+      "q": "Do I have to pay the tax before I can sell?",
+      "a": "Clear it before or at closing, with interest included in the payoff. Ask the Maricopa County Treasurer or your title officer for the exact payoff for your parcel."
+    }
+  ],
+  "sources": [
+    {"title": "Maricopa County Treasurer", "url": "https://treasurer.maricopa.gov/"},
+    {"title": "Maricopa County Treasurer property tax calendar", "url": "https://treasurer.maricopa.gov/PropertyTaxInformation/calendar"},
+    {"title": "Maricopa County Assessor", "url": "https://www.mcassessor.maricopa.gov/"},
+    {"title": "Maricopa County Assessor appeals", "url": "https://www.mcassessor.maricopa.gov/page/appeals/"},
+    {"title": "Maricopa County Assessor personal exemptions", "url": "https://www.mcassessor.maricopa.gov/page/valuation_relief/"},
+    {"title": "Maricopa County Tax Levy and Rates", "url": "https://www.maricopa.gov/5160/Tax-Levy-and-Rates"},
+    {"title": "Maricopa County Recorder", "url": "https://recorder.maricopa.gov/"},
+    {"title": "City of Phoenix Truth in Taxation notice", "url": "https://phoenix.gov/newsroom/budget-news/truth-in-taxation-hearing-notice-of-tax-increase0.html"},
+    {"title": "A.R.S. 42-18052", "url": "https://www.azleg.gov/ars/42/18052.htm"},
+    {"title": "A.R.S. 42-18053", "url": "https://www.azleg.gov/ars/42/18053.htm"},
+    {"title": "A.R.S. 42-18104", "url": "https://www.azleg.gov/ars/42/18104.htm"},
+    {"title": "A.R.S. 42-17051", "url": "https://www.azleg.gov/ars/42/17051.htm"},
+    {"title": "A.R.S. 42-16051", "url": "https://www.azleg.gov/ars/42/16051.htm"},
+    {"title": "Census QuickFacts, Phoenix city", "url": "https://www.census.gov/quickfacts/fact/table/phoenixcityarizona/PST045224"},
+    {"title": "Phoenix, Arizona (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Phoenix,_Arizona"}
+  ]
+}

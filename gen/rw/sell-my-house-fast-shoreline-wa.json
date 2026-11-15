@@ -15,7 +15,7 @@
   },
   {
    "h2": "Who provides utilities to a Shoreline home?",
-   "html": "<p>Several providers split the work, and buyers' agents tend to ask which ones serve a given address. Seattle City Light supplies electricity to every property in the city. Water comes from either Seattle Public Utilities or North City Water District, and the city's property information map shows which service area an address falls in. Recology collects garbage, recycling and compost, and Puget Sound Energy provides natural gas.</p><p>The city manages wastewater everywhere except The Highlands. Two treatment facilities serve the city, one run by Edmonds and one by King County, and a map layer on the city's managed assets viewer shows which one a parcel drains to. The seller disclosure form asks whether the property is on a public sewer, whether the house is connected, and whether extra sewer charges apply, so confirm those answers with the city before you sign.</p>"
+   "html": "<p>Several providers split the work, and buyers' agents tend to ask which ones serve a given address. The city's permit guidance lists them:</p><ul><li>Electricity: Seattle City Light serves every property in the city.</li><li>Water: Seattle Public Utilities or North City Water District, depending on the address. The city's property information map shows the service area.</li><li>Garbage, recycling and compost: Recology.</li><li>Natural gas: Puget Sound Energy.</li></ul><p>The city manages wastewater everywhere except The Highlands. Two treatment facilities serve the city, one run by Edmonds and one by King County, and a map layer on the city's managed assets viewer shows which one a parcel drains to. The seller disclosure form asks whether the property is on a public sewer, whether the house is connected, and whether extra sewer charges apply, so confirm those answers with the city before you sign.</p>"
   },
   {
    "h2": "Which schools, roads and light rail stations serve Shoreline?",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "What does a Shoreline seller pay at closing?",
-   "html": "<p>The largest item is the state real estate excise tax, which the seller normally pays. If the seller does not, the buyer owes it and the unpaid amount can become a lien. It is a graduated tax: 1.1 percent on the portion of the price up to $525,000, 1.28 percent from there to $1,525,000, then 2.75 percent and 3 percent in higher bands. Sales beginning January 1, 2027 use break points of $551,000, $1,551,000 and $3,051,000.</p><p>As an illustration, a sale at the $811,100 Census median value that closes before 2027 would owe about $9,437 in state tax: $5,775 on the first $525,000 and $3,662 on the remaining $286,100. A local rate is added on top. Ask the King County treasurer for the Shoreline rate, and ask for your parcel's property tax balance at the same time, and ask your escrow officer how the current year's bill will be handled.</p><p>The seller disclosure statement must be delivered within five business days after the buyer and seller accept a written contract, and the buyer can rescind within three business days of delivery unless the right was waived. The form also tells the seller to confirm that carbon monoxide alarms and smoke detection are in place.</p><p>If the house needs more work than you want to take on, a cash buyer who purchases as-is is one alternative to listing. You can request a cash offer for your Shoreline house and compare it with what a repaired and listed sale would net.</p>"
+   "html": "<p>The largest item is the state real estate excise tax, which the seller normally pays. If the seller does not, the buyer owes it and the unpaid amount can become a lien. It is a graduated tax: 1.1 percent on the portion of the price up to $525,000, 1.28 percent from there to $1,525,000, then 2.75 percent and 3 percent in higher bands. Sales beginning January 1, 2027 use break points of $551,000, $1,551,000 and $3,051,000.</p><p>As an illustration, a sale at the $811,100 Census median value that closes before 2027 would owe about $9,437 in state tax: $5,775 on the first $525,000 and $3,662 on the remaining $286,100. A local rate is added on top. Ask the King County treasurer for the Shoreline rate and for your parcel's property tax balance, and ask your escrow officer how the current year's bill will be handled.</p><p>The seller disclosure statement must be delivered within five business days after the buyer and seller accept a written contract, and the buyer can rescind within three business days of delivery unless the right was waived. The form also tells the seller to confirm that carbon monoxide alarms and smoke detection are in place.</p><p>If the house needs more work than you want to take on, a cash buyer who purchases as-is is one alternative to listing. You can request a cash offer for your Shoreline house and compare it with what a repaired and listed sale would net.</p>"
   }
  ],
  "faqs": [
@@ -52,6 +52,10 @@
   {
    "title": "Census Bureau QuickFacts: Shoreline city, Washington",
    "url": "https://www.census.gov/quickfacts/fact/table/shorelinecitywashington/PST045225"
+  },
+  {
+   "title": "Census Bureau QuickFacts: Seattle city, Washington",
+   "url": "https://www.census.gov/quickfacts/fact/table/seattlecitywashington/PST045225"
   },
   {
    "title": "Shoreline, Washington (Wikipedia)",
