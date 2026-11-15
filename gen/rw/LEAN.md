@@ -17,6 +17,10 @@ Your batch file is /home/claude/chb-pages/gen/rw/batches/<batch id>.txt, 4 lines
 - NEVER write sentences about your own research or what you left out on the page ("we did not open", "what we left out", "the source we reviewed", "could not be confirmed"). Reword to a plain instruction or drop it.
 - Check dates against today (Nov 15 2026). Say a date has passed, or leave it out. Do not promise offers or prices.
 
+## Dates and sources (strict)
+- Never write that today is a date, "as of today", "right now", "this month", "in about two weeks" or any wording tied to the day you write. Pages stay live for months. State deadlines as recurring rules ("due May 15 and October 15") or as a fixed past fact ("the 2026 appeal window closed July 13").
+- Never state a phone number, address, hours, date or amount that you saw only in a search snippet or in a PDF that did not open. Open the page or leave it out.
+
 ## Style (humanizer)
 Plain, specific, varied sentence length. No em or en dashes (use commas, periods, colons). No "not X but Y" contrasts. No "in today's market", "it is important to note", triads for rhythm, stock closers, or hype words (nestled, vibrant, bustling, tapestry, hidden gem). Never call the company "licensed". No disclaimer lines. Do not paste the site's sales line ("no fees, commissions or closing costs...").
 

@@ -1,64 +1,97 @@
 {
-  "slug": "sibley-county-mn-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Where do I go in Gaylord for Sibley County property tax questions?",
-      "html": "<p>Everything runs through the courthouse at 400 Court Avenue. The Auditor-Treasurer, on the first floor, mails and collects the bills (507-237-4070, P.O. Box 51, Gaylord, MN 55334). The <a href=\"https://sibleycounty.gov/257/Assessor\">Assessor</a>, on the second floor, decides each parcel's market value and class (507-237-4078, P.O. Box 532), with counter hours of 8:00 to 4:30 on weekdays.</p>\n<p>The Assessor's own page draws the line clearly: disputes over tax amounts or special assessments go to the Auditor-Treasurer, while value and classification stay with the Assessor. If you cannot print your current value notice or tax statement from the county's online portal, either office will send a copy.</p>"
-    },
-    {
-      "h2": "What is Sibley County like for someone selling a house?",
-      "html": "<p>Think small towns and farm country along the Minnesota River. The county spans 601 square miles, 589 of them land, and its rolling hills are cut by creeks and dotted with ponds and small lakes. The Minnesota River marks the eastern edge, while the Rush River drains most of the lower county. Gaylord is both the seat and the largest city.</p>\n<p>Henderson held the seat first, and its 1879 courthouse served until 1915, when Gaylord residents petitioned the supervisors for the change. That old building now houses Henderson's city offices. The other cities are Arlington, Gibbon, Green Isle, New Auburn and Winthrop, plus most of Le Sueur lies in the neighboring county. Census QuickFacts adds these figures:</p>\n<ul>\n<li>A July 2025 estimate of 15,356 people, 3.4% more than the 2020 base.</li>\n<li>6,596 housing units, with 80.8% occupied by owners.</li>\n<li>Owned homes valued at $231,900 in the middle of the range, while gross rent in the middle sits at $855.</li>\n<li>Household income near $77,634, and 21.7% of residents past age 65.</li>\n<li>Just 28 building permits during 2025, and workers travel 27.1 minutes on average.</li>\n</ul>\n<p>With so few new homes going up, most sales here involve houses that already exist.</p>"
-    },
-    {
-      "h2": "Which Sibley County tax dates should I mark?",
-      "html": "<p>Spring and fall carry the main deadlines. Residential and commercial parcels pay in May and October, farmland pays its second half a month later, and the postmark on a mailed payment has to show the due date or earlier. When the date lands on a weekend, the following business day applies.</p>\n<table>\n<caption>Payment calendar for Sibley County parcels (county Current Year Taxes page)</caption>\n<thead><tr><th>Type of tax</th><th>First payment</th><th>Second payment</th></tr></thead>\n<tbody>\n<tr><td>Residential or commercial real estate</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Agricultural real estate</td><td>May 15</td><td>November 15</td></tr>\n<tr><td>Personal property</td><td>May 15, full amount</td><td>None</td></tr>\n<tr><td>Mobile home</td><td>August 31</td><td>November 15</td></tr>\n</tbody>\n</table>\n<p>Small real estate bills of $100 or under come due all at once with the first payment, leaving the second stub empty, and mobile home bills under $50 are due whole on August 31. State law sets a March 31 mailing deadline for statements, and the county sent its 2026 set out on March 20. Since October 15 has passed, search the online portal for any open balance on a parcel you are about to list.</p>"
-    },
-    {
-      "h2": "What ways are there to pay a Sibley County bill?",
-      "html": "<p>Online or by mail is the county's preference, and it asks you to include every stub because the office takes no responsibility for parcels left unpaid. Payments are posted by parcel ID number.</p>\n<ul>\n<li>Card or e-check: cards cost 2.35% of the amount (minimum $1.50) and e-checks cost a flat $1.50. By phone, call 507-237-4070 during the day or 855-414-3916 after hours.</li>\n<li>Mail: use the envelope that came with your statement. The Postal Service now dates a letter when it receives it, so the county suggests mailing several days early or requesting a manual postmark at the counter.</li>\n<li>Drop box: a locked box at the courthouse west entrance is emptied at 8:00 each morning, and earlier deposits count for the previous day.</li>\n<li>Direct Payment Plan: free withdrawals on May 15 and October 15 or November 15. The county would like enrollment about three weeks before a payment date.</li>\n</ul>\n<p>You can send a partial amount whenever you like. The whole half remains due on its date, but penalty builds only on the part still unpaid. Returned payments cost $30. Email reminders go out 10 to 14 days before each deadline if you ask, though the county says penalties apply even when a reminder never arrives.</p>"
-    },
-    {
-      "h2": "How do I challenge a Sibley County valuation?",
-      "html": "<p>Expect a sequence of local board, county board and Tax Court. Values are fixed as of January 2, and the Assessor studies sales between October 1 and September 30 of the previous year to set them. The county says state guidelines expect assessed levels to sit between 90% and 105% of sale price.</p>\n<ul>\n<li>Local board: townships and cities hold hearings from April 1 to May 31, and the Assessor attends to present data without a vote.</li>\n<li>Open Book: where a jurisdiction passes its appeal power to the county, you meet the Assessor informally. Failing agreement there, you can go to the county board in June.</li>\n<li>Tax Court: the assessment calendar sets April 30 as the final day to petition on a dispute that affects the current year's tax.</li>\n</ul>\n<p>The county's board page says the owner carries the burden, because the assessor is presumed to have valued and classified correctly. Bring comparable sales, an appraisal or repair bids. A local board can raise or lower a value or change a class, but it cannot trim a whole township or city by more than 1%, and a mailed decision typically arrives within 10 days. Each parcel gets a physical look at least once every five years, announced by a spring postcard.</p>"
-    },
-    {
-      "h2": "What happens to homestead status when a Sibley County house sells?",
-      "html": "<p>The seller must tell the Assessor within 30 days of the sale. The same rule covers moving out, a spouse moving out, or a change in marital status, and the county says a missed report can lead to the correct tax plus an equal penalty.</p>\n<p>The buyer, if living there, files a new application by December 31 of the assessment year, and the county advises doing it soon after closing. A banner on the county home page repeats December 31, 2026 for this year. Forms go to the Assessor at the Court Avenue courthouse or to P.O. Box 532, and each owner must supply a Social Security or ITIN number.</p>\n<p>One more point from the county: a house that is rented, listed for sale or lived in by someone other than the owner becomes non-homestead for the following assessment year.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Which dates matter for Sibley County real estate tax?",
-      "a": "May 15 for the first half, then October 15 for residential and commercial second halves or November 15 for agricultural ones. Personal property is paid whole on May 15, and mobile homes follow August 31 and November 15."
-    },
-    {
-      "q": "Where can I find the Sibley County Assessor?",
-      "a": "On the second floor of the courthouse, 400 Court Avenue, Gaylord, MN 55334. Phone 507-237-4078. The office is open weekdays from 8:00 am to 4:30 pm."
-    },
-    {
-      "q": "What fee applies to a card payment of Sibley County tax?",
-      "a": "2.35% of the amount, with a $1.50 minimum, on credit or debit cards. An e-check carries a flat $1.50. Mail, the drop box and the Direct Payment Plan avoid those charges."
-    },
-    {
-      "q": "When will my Sibley County local board of appeal meet?",
-      "a": "Sometime from April 1 through May 31, and your valuation notice lists the date. A county board hearing follows in June for anyone still unsatisfied."
-    },
-    {
-      "q": "Must I report the sale of my Sibley County home to the county?",
-      "a": "Yes. Notify the County Assessor within 30 days of the sale. The office at 507-237-4078 can supply the form and answer questions."
-    }
-  ],
-  "sources": [
-    {"title": "Sibley County Property Tax", "url": "https://www.sibleycounty.gov/238/Property-Tax"},
-    {"title": "Sibley County Current Year Taxes", "url": "https://sibleycounty.gov/552/Current-Year-Taxes"},
-    {"title": "Sibley County Payment Options", "url": "https://sibleycounty.gov/525/Payment-Options"},
-    {"title": "Sibley County Tax Payment Reminders", "url": "https://sibleycounty.gov/645/Tax-Payment-Reminders"},
-    {"title": "Sibley County Assessor", "url": "https://sibleycounty.gov/257/Assessor"},
-    {"title": "Sibley County Board of Appeal and Equalization", "url": "https://sibleycounty.gov/506/Board-of-Appeal-and-Equalization"},
-    {"title": "Sibley County Appraisal Process", "url": "https://sibleycounty.gov/504/The-Appraisal-Process"},
-    {"title": "Sibley County Assessment Calendar", "url": "https://sibleycounty.gov/DocumentCenter/View/668"},
-    {"title": "Sibley County Homestead Information", "url": "https://sibleycounty.gov/264/Homestead-Information"},
-    {"title": "Census QuickFacts, Sibley County", "url": "https://www.census.gov/quickfacts/fact/table/sibleycountyminnesota/PST045225"},
-    {"title": "Wikipedia, Sibley County, Minnesota", "url": "https://en.wikipedia.org/wiki/Sibley_County,_Minnesota"}
-  ]
+ "slug": "sibley-county-mn-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Where do I go in Gaylord for Sibley County property tax questions?",
+   "html": "<p>Everything runs through the courthouse at 400 Court Avenue. The Auditor-Treasurer, on the first floor, mails and collects the bills (507-237-4070, P.O. Box 51, Gaylord, MN 55334). The <a href=\"https://sibleycounty.gov/257/Assessor\">Assessor</a>, on the second floor, decides each parcel's market value and class (507-237-4078, P.O. Box 532), with counter hours of 8:00 to 4:30 on weekdays.</p>\n<p>The Assessor's own page draws the line clearly: disputes over tax amounts or special assessments go to the Auditor-Treasurer, while value and classification stay with the Assessor. If you cannot print your current value notice or tax statement from the county's online portal, either office will send a copy.</p>"
+  },
+  {
+   "h2": "What is Sibley County like for someone selling a house?",
+   "html": "<p>Think small towns and farm country along the Minnesota River. The county spans 601 square miles, 589 of them land, and its rolling hills are cut by creeks and dotted with ponds and small lakes. The Minnesota River marks the eastern edge, while the Rush River drains most of the lower county. Gaylord is both the seat and the largest city.</p>\n<p>Henderson held the seat first, and its 1879 courthouse served until 1915, when Gaylord residents petitioned the supervisors for the change. That old building now houses Henderson's city offices. The other cities are Arlington, Gibbon, Green Isle, New Auburn and Winthrop, along with Le Sueur, which lies mostly in Le Sueur County. Census QuickFacts adds these figures:</p>\n<ul>\n<li>A July 2025 estimate of 15,356 people, 3.4% more than the 2020 base.</li>\n<li>6,596 housing units, with 80.8% occupied by owners.</li>\n<li>Owned homes valued at $231,900 in the middle of the range, while gross rent in the middle sits at $855.</li>\n<li>The middle household earns $77,634, and 21.7% of residents past age 65.</li>\n<li>The county has 5,929 households of about 2.5 people each, and 93.0% of residents lived at the same address a year earlier.</li>\n<li>Just 28 building permits during 2025, and workers travel 27.1 minutes on average.</li>\n</ul>\n<p>With so few new homes going up, most sales here involve houses that already exist.</p>"
+  },
+  {
+   "h2": "Which Sibley County tax dates should I mark?",
+   "html": "<p>Spring and fall carry the main deadlines. Residential and commercial parcels pay in May and October, farmland pays its second half a month later, and the postmark on a mailed payment has to show the due date or earlier. When the date lands on a weekend, the following business day applies.</p>\n<table>\n<caption>Payment calendar for Sibley County parcels (county Current Year Taxes page)</caption>\n<thead><tr><th>Type of tax</th><th>First payment</th><th>Second payment</th></tr></thead>\n<tbody>\n<tr><td>Residential or commercial real estate</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Agricultural real estate</td><td>May 15</td><td>November 15</td></tr>\n<tr><td>Personal property</td><td>May 15, full amount</td><td>None</td></tr>\n<tr><td>Mobile home</td><td>August 31</td><td>November 15</td></tr>\n</tbody>\n</table>\n<p>Small real estate bills of $100 or under come due all at once with the first payment, leaving the second stub empty, and mobile home bills under $50 are due whole on August 31. State law sets a March 31 mailing deadline for statements, and the county sent its 2026 set out on March 20. Since October 15 has passed, search the online portal for any open balance on a parcel you are about to list.</p>"
+  },
+  {
+   "h2": "What ways are there to pay a Sibley County bill?",
+   "html": "<p>Online or by mail is the county's preference, and it asks you to include every stub because the office takes no responsibility for parcels left unpaid. Payments are posted by parcel ID number.</p>\n<ul>\n<li>Card or e-check: cards cost 2.35% of the amount (minimum $1.50) and e-checks cost a flat $1.50. By phone, call 507-237-4070 during the day or 855-414-3916 after hours.</li>\n<li>Mail: use the envelope that came with your statement. The Postal Service now dates a letter when it receives it, so the county suggests mailing several days early or requesting a manual postmark at the counter.</li>\n<li>Drop box: a locked box at the courthouse west entrance is emptied at 8:00 each morning, and earlier deposits count for the previous day.</li>\n<li>Direct Payment Plan: free withdrawals on May 15 and October 15 or November 15. The county would like enrollment about three weeks before a payment date.</li>\n</ul>\n<p>You can send a partial amount whenever you like. The whole half remains due on its date, but penalty builds only on the part still unpaid. Returned payments cost $30. Email reminders go out 10 to 14 days before each deadline if you ask, though the county says penalties apply even when a reminder never arrives.</p>"
+  },
+  {
+   "h2": "How do I challenge a Sibley County valuation?",
+   "html": "<p>Expect a sequence of local board, county board and Tax Court. Values are fixed as of January 2, and the Assessor studies sales between October 1 and September 30 of the previous year to set them. The county says state guidelines expect assessed levels to sit between 90% and 105% of sale price.</p>\n<ul>\n<li>Local board: townships and cities hold hearings from April 1 to May 31, and the Assessor attends to present data without a vote.</li>\n<li>Open Book: where a jurisdiction passes its appeal power to the county, you meet the Assessor informally. Failing agreement there, you can go to the county board in June.</li>\n<li>Tax Court: the assessment calendar sets April 30 as the final day to petition on a dispute that affects the current year's tax.</li>\n</ul>\n<p>The county's board page says the owner carries the burden, because the assessor is presumed to have valued and classified correctly. Bring comparable sales, an appraisal or repair bids. A local board can raise or lower a value or change a class, but it cannot trim a whole township or city by more than 1%, and a mailed decision typically arrives within 10 days. Each parcel gets a physical look at least once every five years, announced by a spring postcard.</p>"
+  },
+  {
+   "h2": "What happens to homestead status when a Sibley County house sells?",
+   "html": "<p>The seller must tell the Assessor within 30 days of the sale. The same rule covers moving out, a spouse moving out, or a change in marital status, and the county says a missed report can lead to the correct tax plus an equal penalty.</p>\n<p>The buyer, if living there, files a new application by December 31 of the assessment year, and the county advises doing it soon after closing. A banner on the county home page repeats December 31, 2026 for this year. Forms go to the Assessor at the Court Avenue courthouse or to P.O. Box 532, and each owner must supply a Social Security or ITIN number.</p>\n<p>Absence does not end homestead by itself. According to the county, an owner who goes south for the winter keeps it while the house stays maintained as a home awaiting return, and an owner who moves to a nursing home or assisted living keeps it as long as the house is maintained as the owner's homestead. Renting the house during an absence ends it, and so does claiming a second homestead elsewhere in Minnesota.</p>\n<p>One more point from the county: a house that is rented, listed for sale or lived in by someone other than the owner becomes non-homestead for the following assessment year.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which dates matter for Sibley County real estate tax?",
+   "a": "May 15 for the first half, then October 15 for residential and commercial second halves or November 15 for agricultural ones. Personal property is paid whole on May 15, and mobile homes follow August 31 and November 15."
+  },
+  {
+   "q": "Where can I find the Sibley County Assessor?",
+   "a": "On the second floor of the courthouse, 400 Court Avenue, Gaylord, MN 55334. Phone 507-237-4078. The office is open weekdays from 8:00 am to 4:30 pm."
+  },
+  {
+   "q": "What fee applies to a card payment of Sibley County tax?",
+   "a": "2.35% of the amount, with a $1.50 minimum, on credit or debit cards. An e-check carries a flat $1.50. Mail, the drop box and the Direct Payment Plan avoid those charges."
+  },
+  {
+   "q": "When will my Sibley County local board of appeal meet?",
+   "a": "Sometime from April 1 through May 31, and your valuation notice lists the date. A county board hearing follows in June for anyone still unsatisfied."
+  },
+  {
+   "q": "Must I report the sale of my Sibley County home to the county?",
+   "a": "Yes. Notify the County Assessor within 30 days of the sale. The office at 507-237-4078 can supply the form and answer questions."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Sibley County Property Tax",
+   "url": "https://www.sibleycounty.gov/238/Property-Tax"
+  },
+  {
+   "title": "Sibley County Current Year Taxes",
+   "url": "https://sibleycounty.gov/552/Current-Year-Taxes"
+  },
+  {
+   "title": "Sibley County Payment Options",
+   "url": "https://sibleycounty.gov/525/Payment-Options"
+  },
+  {
+   "title": "Sibley County Tax Payment Reminders",
+   "url": "https://sibleycounty.gov/645/Tax-Payment-Reminders"
+  },
+  {
+   "title": "Sibley County Assessor",
+   "url": "https://sibleycounty.gov/257/Assessor"
+  },
+  {
+   "title": "Sibley County Board of Appeal and Equalization",
+   "url": "https://sibleycounty.gov/506/Board-of-Appeal-and-Equalization"
+  },
+  {
+   "title": "Sibley County Appraisal Process",
+   "url": "https://sibleycounty.gov/504/The-Appraisal-Process"
+  },
+  {
+   "title": "Sibley County Assessment Calendar",
+   "url": "https://sibleycounty.gov/DocumentCenter/View/668"
+  },
+  {
+   "title": "Sibley County Homestead Information",
+   "url": "https://sibleycounty.gov/264/Homestead-Information"
+  },
+  {
+   "title": "Census QuickFacts, Sibley County",
+   "url": "https://www.census.gov/quickfacts/fact/table/sibleycountyminnesota/PST045225"
+  },
+  {
+   "title": "Wikipedia, Sibley County, Minnesota",
+   "url": "https://en.wikipedia.org/wiki/Sibley_County,_Minnesota"
+  }
+ ]
 }
