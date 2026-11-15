@@ -1,0 +1,89 @@
+{
+ "slug": "kentucky-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Kentucky have a separate capital gains tax on a house sale?",
+   "html": "<p>No. Kentucky has no capital gains schedule of its own. KRS 141.020 taxes the entire net income of a Kentucky resident at a single percentage, so profit from a house sale is income for the year of closing and is taxed at the same rate as a paycheck.</p>\n<p>What matters to a seller is the size of the gain after federal rules shrink it. Someone who lived in the home for years may exclude most or all of the profit, while an investor selling a rental or an heir selling an inherited house often has a taxable gain. Ask the Kentucky Department of Revenue how an excluded gain is shown on Form 740 before you file.</p>"
+  },
+  {
+   "h2": "What rate does Kentucky charge on the gain?",
+   "html": "<p>For taxable years beginning on or after January 1, 2026, the rate is three and one-half percent of net income. The rate has dropped twice in recent years, so use the one for the year your sale closes.</p>\n<ul>\n<li>Taxable years beginning in 2023: 4.5 percent.</li>\n<li>Taxable years beginning in 2024 and 2025: 4 percent.</li>\n<li>Taxable years beginning on or after January 1, 2026: 3.5 percent.</li>\n<li>Any cut for 2027 or later needs action by the General Assembly. The statute says the Department of Revenue may not lower the rate on its own.</li>\n</ul>\n<p>As an illustration, a taxable gain of $40,000 at 3.5 percent produces about $1,400 of Kentucky tax before credits. The same gain would have produced $1,600 at the 4 percent rate that applied for 2024 and 2025.</p>"
+  },
+  {
+   "h2": "How much of the profit can the federal home sale exclusion remove?",
+   "html": "<p>A single seller can exclude up to $250,000 of gain on a main home, and a married couple filing jointly can exclude up to $500,000. The IRS ties this to two tests that both fall inside the five years before closing.</p>\n<ul>\n<li>Ownership test: you or your spouse owned the home at least 24 months out of the last 5 years.</li>\n<li>Use test: you lived in it as a residence for at least 24 months of that period, and on a joint return both spouses must meet this test individually.</li>\n<li>The two 24-month periods do not have to overlap.</li>\n<li>You generally cannot use the exclusion if you excluded gain on another home during the two years before this sale.</li>\n<li>Qualified extended duty in the Uniformed Services, Foreign Service or intelligence community can suspend the five-year test period for up to 10 years.</li>\n</ul>\n<p>If you receive Form 1099-S from the closing agent, you must report the sale even when the whole gain is excludable. You must also report it if some of the gain stays taxable.</p>"
+  },
+  {
+   "h2": "What counts when I work out the gain on a Kentucky house?",
+   "html": "<p>Your gain is the amount you realize from the sale minus your adjusted basis. Basis starts with what you paid, including sales tax and buying expenses, then goes up for improvements that add value and down for items such as depreciation and insurance payments for casualty or theft losses.</p>\n<p>Keep the closing statement from the purchase, receipts for additions such as a new roof or a finished basement, and records of any depreciation claimed. If you got the house by inheritance or gift, basis follows different rules that the IRS explains in Publication 551, so pull the valuation paperwork from the estate file before you calculate anything.</p>\n<p>A loss on a personal residence is not deductible. If the house sold for less than your adjusted basis, there is no write-off to carry onto the return.</p>"
+  },
+  {
+   "h2": "Which federal capital gain rates apply to the taxable part?",
+   "html": "<p>Most long-term gain is taxed at 0, 15 or 20 percent depending on taxable income, and a gain on property held one year or less is taxed as ordinary income. The IRS lists these 2025 thresholds for the 0 and 15 percent bands, and the 20 percent rate applies above the top of the 15 percent band.</p>\n<table>\n<caption>Federal long-term capital gain thresholds for tax years beginning in 2025</caption>\n<thead><tr><th>Filing status</th><th>0 percent up to taxable income of</th><th>15 percent up to taxable income of</th></tr></thead>\n<tbody>\n<tr><td>Single</td><td>$48,350</td><td>$533,400</td></tr>\n<tr><td>Married filing jointly</td><td>$96,700</td><td>$600,050</td></tr>\n<tr><td>Head of household</td><td>$64,750</td><td>$566,700</td></tr>\n</tbody>\n</table>\n<p>Source: IRS Topic no. 409. Check the IRS tax topics page for the figures that apply to your closing year, since the thresholds are adjusted annually.</p>"
+  },
+  {
+   "h2": "What changes if the Kentucky house was a rental or inherited?",
+   "html": "<p>A rental that you never lived in does not pass the use test, so the home sale exclusion is generally off the table. Depreciation you claimed lowers your basis, which raises the gain, and the part of the gain tied to depreciation on real property (unrecaptured section 1250 gain) is taxed at a maximum 25 percent federally.</p>\n<p>An inherited house raises two separate questions. The first is capital gain, which depends on the basis rules in Publication 551 and on how much the house sells for compared with that basis. The second is Kentucky inheritance tax, which is a tax on the heir's right to receive property and is imposed under a different statute, KRS Chapter 140.</p>\n<ul>\n<li>Order the sale so the closing falls in the tax year you want.</li>\n<li>Gather depreciation schedules before the sale, not after.</li>\n<li>Ask the estate's personal representative for the value documents used on the estate return.</li>\n</ul>"
+  },
+  {
+   "h2": "What if I live outside Kentucky or moved during the year?",
+   "html": "<p>A nonresident is taxed on income from tangible property located in Kentucky, and a house in Kentucky is tangible property there. Under KRS 141.020, a part-year resident is taxed as a resident for the months of residency and as a nonresident for the rest of the year.</p>\n<p>The Department of Revenue publishes Form 740 and Form 740-NP, and the credit instructions refer to both. Ask the department which return fits your move date, because that choice decides whether the gain is reported in full or only the Kentucky-sourced portion.</p>"
+  },
+  {
+   "h2": "When do I owe the tax, and do I need estimated payments?",
+   "html": "<p>The gain belongs to the tax year of closing and is reported on the return you file after that year ends. The IRS notes that a taxable capital gain may require estimated tax payments during the year, and Publication 505 explains the test.</p>\n<p>Federal reporting runs through Form 8949 and Schedule D, with Form 1099-S as the information return from the closing agent. For Kentucky, ask the Department of Revenue whether estimated payments apply to your sale year, then set cash aside from the proceeds so the bill does not arrive after the money is gone.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Kentucky tax break for selling my house?",
+   "a": "The rate section of the Kentucky statute contains no separate home sale break. The federal exclusion of $250,000 (single) or $500,000 (joint) shapes how much gain you have, so confirm with the Kentucky Department of Revenue how that exclusion flows onto Form 740."
+  },
+  {
+   "q": "What is the Kentucky income tax rate for a house sale gain in 2026?",
+   "a": "It is 3.5 percent of net income for taxable years beginning on or after January 1, 2026. The same rate applies to gain and to wages because the statute sets one rate on net income."
+  },
+  {
+   "q": "Must I report the sale if the whole gain is excluded?",
+   "a": "Yes, if you receive Form 1099-S or if any part of the gain cannot be excluded. The IRS requires reporting in both cases, using Form 8949 and Schedule D when they apply."
+  },
+  {
+   "q": "Can I deduct a loss when a house sells for less than I paid?",
+   "a": "No. The IRS states that losses on the sale of personal-use property such as a home are not deductible."
+  },
+  {
+   "q": "Does a nonresident owe Kentucky tax on selling a Kentucky house?",
+   "a": "Yes, the statute taxes a nonresident on income from tangible property located in Kentucky. Ask the Department of Revenue which return form applies and how credits are prorated."
+  }
+ ],
+ "sources": [
+  {
+   "title": "KRS 141.020, Levy of income tax on individuals",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56339"
+  },
+  {
+   "title": "Kentucky Department of Revenue, Individual Income Tax",
+   "url": "https://revenue.ky.gov/Individual/Individual-Income-Tax/pages/default.aspx"
+  },
+  {
+   "title": "IRS Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic no. 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic no. 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "IRS Topic no. 704, Depreciation",
+   "url": "https://www.irs.gov/taxtopics/tc704"
+  },
+  {
+   "title": "Kentucky Department of Revenue, Inheritance Tax",
+   "url": "https://revenue.ky.gov/Individual/Inheritance-Estate-Tax/Pages/default.aspx"
+  }
+ ]
+}

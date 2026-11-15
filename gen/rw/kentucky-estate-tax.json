@@ -1,0 +1,81 @@
+{
+ "slug": "kentucky-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Kentucky have an estate tax or an inheritance tax?",
+   "html": "<p>Kentucky has an inheritance tax and no estate tax. The Department of Revenue says the inheritance tax falls on a beneficiary's right to receive property from a deceased person, and the amount depends on the beneficiary's relationship to the decedent and the value received.</p>\n<p>Closer relatives get larger exemptions and lower rates. All property of a Kentucky resident is subject to the tax except real estate located in another state, and real estate and personal property in Kentucky owned by a nonresident can also be taxed. That second rule matters when an out-of-state owner leaves a Kentucky house to heirs.</p>"
+  },
+  {
+   "h2": "Which heirs owe Kentucky inheritance tax, and at what rates?",
+   "html": "<p>Only Class B and Class C beneficiaries owe tax, and the rates run up to 16 percent. KRS 140.070 sorts every recipient into one of three classes.</p>\n<table>\n<caption>Kentucky beneficiary classes under KRS 140.070 and KRS 140.080</caption>\n<thead><tr><th>Class</th><th>Who is in it</th><th>Rate range</th><th>Exemption</th></tr></thead>\n<tbody>\n<tr><td>A</td><td>Surviving spouse, parent, child by blood, stepchild, adopted child, grandchild through those children, nephew, niece, brother, sister</td><td>No tax</td><td>Total inheritable interest</td></tr>\n<tr><td>B</td><td>Son-in-law, daughter-in-law, aunt, uncle, qualifying great-grandchild</td><td>4 percent to 16 percent</td><td>$1,000</td></tr>\n<tr><td>C</td><td>Any other person, plus institutions such as religious or educational bodies</td><td>6 percent to 16 percent</td><td>$500</td></tr>\n</tbody>\n</table>\n<p>The current statute text places nieces and nephews inside Class A. The 2026 amendments to KRS 140.070 and 140.080 apply to estates of people who died on or after January 1, 2026.</p>"
+  },
+  {
+   "h2": "How are the Class B and Class C brackets built?",
+   "html": "<p>The tax is progressive within each class, so only the slice of value inside a bracket takes that bracket's rate. Class B starts at 4 percent on the first $10,000 and rises through 5, 6, 8, 10, 12 and 14 percent to 16 percent on value above $200,000. Class C starts at 6 percent on the first $10,000 and reaches 16 percent on value above $60,000.</p>\n<p>Worked from those brackets, a Class B heir who receives $60,000 owes $4,200 before the exemption. The $1,000 exemption comes off the lowest bracket, which trims about $40 and leaves roughly $4,160. A Class C heir receiving the same $60,000 owes $6,300 before the $500 exemption, because the Class C rates start two points higher and climb faster.</p>\n<ul>\n<li>Exemptions are charged against the lowest brackets first.</li>\n<li>A surviving spouse's interest can include a qualifying trust or life estate if the personal representative makes the election on the Department of Revenue form by the return due date.</li>\n<li>For a nonresident decedent, the exemption is prorated by the share of property Kentucky can tax.</li>\n</ul>"
+  },
+  {
+   "h2": "When is the Kentucky return due and the tax payable?",
+   "html": "<p>For a death on or after July 1, 2026, the return and the payment are due within 24 months of death. A five percent discount applies if the tax is paid within 14 months, and no interest runs if payment arrives inside the 24 months.</p>\n<ul>\n<li>Deaths before July 1, 2026: 18 months to file and pay, with the five percent discount for payment inside 9 months.</li>\n<li>Deaths on or after July 1, 2026: 24 months to file and pay, with the five percent discount for payment inside 14 months.</li>\n<li>After the deadline, interest runs at the tax interest rate defined in KRS 131.010 until the Department of Revenue is paid.</li>\n<li>If the tax is not paid by the deadline, the personal representative or trustee must give bond for the tax and interest.</li>\n</ul>\n<p>A return is required when a federal estate tax return is required and the estate has property Kentucky can reach, and also when any asset passes to a beneficiary taxable under KRS 140.070. The personal representative computes the tax, or the beneficiaries do if no representative serves.</p>"
+  },
+  {
+   "h2": "Can an heir pay the tax in installments?",
+   "html": "<p>Yes. When a beneficiary's net tax is more than $5,000, the beneficiary may elect to pay in 10 equal annual installments. The first installment is due with the return and the rest follow one year apart.</p>\n<p>The election must be written, signed by the beneficiary and filed with the Department of Revenue when the estate return is filed. Interest on the deferred portion starts 24 months after death for a death on or after July 1, 2026, and 18 months after death for earlier deaths. The beneficiary who elects to defer stays personally liable for the unpaid balance.</p>"
+  },
+  {
+   "h2": "How does the tax affect selling an inherited Kentucky house?",
+   "html": "<p>Heirs who owe the tax often sell the house to fund it, so the filing deadline should drive the listing date. A Class A heir owes nothing, which leaves the sale timing to probate and the heirs' own plans. A Class B or Class C heir should work out the bill early because the 14-month discount for a death on or after July 1, 2026 can save five percent of the tax.</p>\n<p>Before closing, ask the Kentucky Department of Revenue's inheritance tax staff whether the file shows any open balance or lien on the property, and ask the title company what it needs from the estate. Keep the personal representative's letters, the date-of-death value support and the deed handy, since the buyer's title agent will ask for them.</p>\n<ul>\n<li>List the heirs and note each one's class from KRS 140.070.</li>\n<li>Estimate the tax for every Class B or C heir using the brackets above.</li>\n<li>Decide whether proceeds will pay the tax at closing or after distribution.</li>\n</ul>"
+  },
+  {
+   "h2": "How long can Kentucky collect inheritance tax?",
+   "html": "<p>The Department of Revenue generally has ten years from when the cause of action first accrued to sue to collect. That clock is suspended when an estate is delayed by litigation or another unavoidable cause, and it is suspended during any deferred payment period an heir has elected.</p>\n<p>A fraudulent return has no time limit, because the tax can be assessed and collected at any time. Heirs who sell early and distribute everything should keep tax records for the full ten years, since the personal representative and, in a deferral, the beneficiary may be asked about unpaid amounts.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Kentucky have an estate tax?",
+   "a": "No. The Department of Revenue states there is no Kentucky estate tax. Kentucky taxes the heir's right to receive property instead, through the inheritance tax in KRS Chapter 140."
+  },
+  {
+   "q": "Does a child or spouse owe Kentucky inheritance tax on an inherited house?",
+   "a": "No. A surviving spouse, child, parent, grandchild, sibling, niece and nephew fall in Class A, and Class A beneficiaries are exempt on their total inheritable interest."
+  },
+  {
+   "q": "How long do heirs have to pay Kentucky inheritance tax after a 2026 death?",
+   "a": "For a death on or after July 1, 2026, the tax is payable within 24 months, with a five percent discount if paid within 14 months. Earlier deaths keep the 18-month and 9-month periods."
+  },
+  {
+   "q": "Can the inheritance tax be paid over time?",
+   "a": "Yes, when a beneficiary's net tax exceeds $5,000 the beneficiary can elect 10 equal annual installments. The election is filed in writing with the return, and the first installment is due then."
+  },
+  {
+   "q": "Does Kentucky tax a Kentucky house owned by someone who lived elsewhere?",
+   "a": "Yes. The Department of Revenue says real estate and personal property located in Kentucky and owned by a nonresident can be taxed, and the exemption is prorated for a nonresident decedent."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kentucky Department of Revenue, Inheritance Tax",
+   "url": "https://revenue.ky.gov/Individual/Inheritance-Estate-Tax/Pages/default.aspx"
+  },
+  {
+   "title": "KRS 140.070, Inheritance tax rates",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57147"
+  },
+  {
+   "title": "KRS 140.080, Exemptions of inheritable interests",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57148"
+  },
+  {
+   "title": "KRS 140.160, Supervision of collection of taxes",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56933"
+  },
+  {
+   "title": "KRS 140.210, Payment of taxes, discount, interest",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56934"
+  },
+  {
+   "title": "KRS 140.222, Deferred payment of inheritance tax",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56935"
+  }
+ ]
+}
