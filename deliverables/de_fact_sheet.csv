@@ -1,0 +1,112 @@
+topic,claim,cite,url,opened_on_official_page
+property-tax-appeals,New Castle County: written notice of assessment appeal must be filed with the Board of Assessment Review before March 15; Board gives at least 10 days' notice of hearing; failure to appear is abandonment.,"9 Del. C. ch. 83, subch. I (Board of Assessment Review)",https://delcode.delaware.gov/title9/c083/sc01/index.html,True
+property-tax-appeals,Kent and Sussex Boards of Assessment Review hear appeals from March 1 to May 31 each year (or until all appeals are heard in a reassessment year).,"9 Del. C. ch. 83, subch. I",https://delcode.delaware.gov/title9/c083/sc01/index.html,True
+property-tax-appeals,"If an appeal reduces assessed value and the owner overpaid by $50 or more, the owner is entitled to a refund; under $50 the county may refund or credit it.","9 Del. C. ch. 83, subch. I",https://delcode.delaware.gov/title9/c083/sc01/index.html,True
+property-tax-appeals,The board must notify the appellant of its decision in writing by registered mail within 30 days of the decision.,"9 Del. C. ch. 83, subch. I",https://delcode.delaware.gov/title9/c083/sc01/index.html,True
+property-tax-appeals,"An aggrieved appellant may appeal to Superior Court within 30 days (postmark) after receiving notice of the decision; the board's decision is prima facie correct and the appellant must show it acted contrary to law, fraudulently, arbitrarily or capriciously.","9 Del. C. ch. 83, subch. I",https://delcode.delaware.gov/title9/c083/sc01/index.html,True
+property-tax-appeals,UNCONFIRMED: Statutory assessment ratio / base-year values (not confirmed on an opened official page),,,False
+property-tax-appeals,UNCONFIRMED: Kent/Sussex written-notice filing deadlines,,,False
+homestead-exemption,"Senior School Property Tax Credit: homeowners 65 or over get a credit of 50 percent against regular school property taxes, usable only on a primary residence.",Senior School Property Tax Relief | Dept. of Finance,https://finance.delaware.gov/senior-relief/,True
+homestead-exemption,"Individuals who establish Delaware domicile on or after Jan 1, 2018 must have been domiciled in the State at least 10 consecutive years to receive the credit.",Senior School Property Tax Relief | Dept. of Finance,https://finance.delaware.gov/senior-relief/,True
+homestead-exemption,Application deadline for the senior school tax credit is April 30.,Senior School Property Tax Relief | Dept. of Finance,https://finance.delaware.gov/senior-relief/,True
+homestead-exemption,UNCONFIRMED: Credit cap: opened Finance page text says up to $500 while its page metadata says up to $400; verify current cap,,,False
+homestead-exemption,UNCONFIRMED: Delaware appears to have no general homestead exemption; not confirmed on an official page,,,False
+homestead-exemption,"UNCONFIRMED: County senior/disability/veteran exemptions (only seen in search snippets of county sites, not opened)",,,False
+property-transfer-tax,"State realty transfer tax is 3 percent of property value, or 2.5 percent where the municipality or county has enacted the full 1.5 percent local tax; payable when the document is presented for recording.",30 Del. C. § 5402(a),https://delcode.delaware.gov/title30/c054/sc01/index.html,True
+property-transfer-tax,The tax is apportioned equally between grantor and grantee.,30 Del. C. § 5402(a),https://delcode.delaware.gov/title30/c054/sc01/index.html,True
+property-transfer-tax,No tax is imposed on conveyances where actual value is less than $100.,30 Del. C. § 5402(b),https://delcode.delaware.gov/title30/c054/sc01/index.html,True
+property-transfer-tax,"First-time home buyers (transactions on or after Aug 1, 2017) get the grantee's portion reduced by 0.5% times the lesser of value or $400,000; the grantor's portion is not reduced.",30 Del. C. § 5402(c),https://delcode.delaware.gov/title30/c054/sc01/index.html,True
+property-transfer-tax,"Where counties/municipalities levy the full 1.5 percent, state and local taxes are in practice both 2.5 percent (combined 4.0 percent); a 1 percent tax applies to improvements in some cases per state summary.",State Taxes (Realty Transfer Tax summary) | Delaware Finance,https://financefiles.delaware.gov/docs/rtt.pdf,False
+property-transfer-tax,"UNCONFIRMED: Section 5401(5) exemption list (e.g. spouse, family transfers) not retrieved",,,False
+property-transfer-tax,"UNCONFIRMED: Justia shows a version of 5402 'effective until Dec. 4, 2025' implying amendments; confirm current text/rates with the Division of Revenue",,,False
+foreclosure,Foreclosure is judicial: the mortgagee sues out a writ of scire facias sur mortgage in the Superior Court of the county where the property lies.,10 Del. C. § 5061(a),https://delcode.delaware.gov/title10/c049/sc11/,True
+foreclosure,"For owner-occupied 1-4 family primary residences, a foreclosure action may not be filed until 45 days after a notice of intent to foreclose is sent by certified and first-class mail.",10 Del. C. § 5062B(a),https://delcode.delaware.gov/title10/c049/sc11/,True
+foreclosure,Plaintiff must file a loss-mitigation affidavit before judgment or sheriff's sale on owner-occupied 1-4 family primary residences.,10 Del. C. § 5062A,https://delcode.delaware.gov/title10/c049/sc11/,True
+foreclosure,An Automatic Residential Mortgage Foreclosure Mediation Program applies to owner-occupied 1-4 family primary residences; a mediation notice accompanies the complaint.,10 Del. C. § 5062C,https://delcode.delaware.gov/title10/c049/sc11/,True
+foreclosure,A buyer at the foreclosure sale holds the property discharged from all equity of redemption and incumbrances made by the mortgagor.,10 Del. C. § 5066,https://delcode.delaware.gov/title10/c049/sc11/,True
+foreclosure,UNCONFIRMED: Any post-sale redemption right (only the §5066 discharge of equity of redemption was confirmed),,,False
+foreclosure,UNCONFIRMED: Sheriff sale advertising period for mortgage foreclosures,,,False
+sheriff-sale,A purchaser at a sheriff's sale under a mortgage scire facias holds the property free of the mortgagor's equity of redemption and incumbrances.,10 Del. C. § 5066,https://delcode.delaware.gov/title10/c049/sc11/,True
+sheriff-sale,"No judgment may be entered, and no covered owner-occupied 1-4 family residence sold at sheriff's sale, unless the plaintiff has filed the loss-mitigation affidavit.",10 Del. C. § 5062A(b),https://delcode.delaware.gov/title10/c049/sc11/,True
+sheriff-sale,"Seller disclosure law does not apply to transfers by sheriff's sale for default on a mortgage, judgment, tax or other lien.",6 Del. C. § 2577(4),https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+sheriff-sale,"Delinquent-tax sales are advertised by handbills in at least 10 public places in the county and a newspaper notice, with sales at the courthouse door.","9 Del. C. ch. 87, subch. IV",https://delcode.delaware.gov/title9/c087/sc04/index.html,True
+sheriff-sale,"UNCONFIRMED: Sheriff sale terms (deposit, bidding, confirmation/ratification, deed timing) for mortgage sales",,,False
+sheriff-sale,"UNCONFIRMED: County sheriff sale pages (Sussex, Kent) seen only in search snippets",,,False
+probate-and-inherited-property,"Small estate affidavit (no letters) is available only if personal estate does not exceed $50,000 (excluding jointly owned property and certain items) and the decedent did not own real estate in Delaware solely or as tenant in common; 30 days must have elapsed since death.",12 Del. C. § 2306(a),https://delcode.delaware.gov/title12/c023/sc01/index.html,True
+probate-and-inherited-property,"Because the small estate affidavit excludes decedents owning Delaware real estate, selling inherited real property generally runs through a personal representative with letters.",12 Del. C. § 2306(a)(6) (inference),https://delcode.delaware.gov/title12/c023/sc01/index.html,True
+probate-and-inherited-property,Letters testamentary or of administration are granted by the Register of Wills of the county where the decedent was domiciled.,"12 Del. C. ch. 15, subch. I",https://delcode.delaware.gov/title12/c015/sc01/index.html,False
+probate-and-inherited-property,Transfers by a fiduciary in administering a decedent's estate are exempt from the seller disclosure requirement.,6 Del. C. § 2577(5),https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+probate-and-inherited-property,UNCONFIRMED: Executor power of sale of real estate (12 Del. C. ch. 27) only seen in search snippet,,,False
+probate-and-inherited-property,UNCONFIRMED: Time limits for inventory (3 months) seen only in snippet,,,False
+estate-tax,"Delaware imposed an estate tax only on individuals dying before January 1, 2018; the estate tax was repealed for individuals dying after Dec 31, 2017.",Estate Tax | Delaware Division of Revenue,https://financefiles.delaware.gov/docs/estate_tax.pdf,True
+estate-tax,"Title 30, Chapter 15 (Estate Tax) is marked repealed in the Delaware Code.",30 Del. C. ch. 15,https://delcode.delaware.gov/title30/c015/index.html,False
+estate-tax,"Title 30, Chapter 13 (Inheritance tax) is marked repealed in the Delaware Code.",30 Del. C. ch. 13,https://delcode.delaware.gov/title30/c013/sc01/index.html,False
+estate-tax,UNCONFIRMED: Federal estate tax thresholds are outside Delaware sources,,,False
+deeds-recording,Each county has a Recorder of Deeds; the recorder may require payment of recording fees once the date of reception is noted.,9 Del. C. § 9607(a),https://delcode.delaware.gov/title9/c096/index.html,True
+deeds-recording,"Each recorded document carries a $5 Housing Development Fund surcharge and a $25 Delaware Cultural Access Fund fee, included in the county assessment fee.",9 Del. C. § 9607(b),https://delcode.delaware.gov/title9/c096/index.html,True
+deeds-recording,A recorder may accept electronic documents but must continue to accept paper documents; fees and taxes may be collected electronically.,"25 Del. C. ch. 1, subch. V",https://delcode.delaware.gov/title25/c001/sc05/index.html,True
+deeds-recording,"Before recording a deed from a nonresident individual or entity, the recorder collects the required tax return and estimated income tax.",9 Del. C. § 9607(e),https://delcode.delaware.gov/title9/c096/index.html,True
+deeds-recording,Deeds must be acknowledged or proved and certified before recording.,25 Del. C. § 151,https://delcode.delaware.gov/title25/c001/sc03/index.html,False
+deeds-recording,UNCONFIRMED: County recording fee schedules (Sussex page seen only in search snippet),,,False
+quitclaim-deed,"Statute gives a sufficient statutory deed form; a deed not in that form is not invalid, and forms in common use remain valid.",25 Del. C. § 121,https://delcode.delaware.gov/title25/c001/sc02/index.html,True
+quitclaim-deed,"A deed may be acknowledged before a notary public, a judge, the Superior Court, or two justices of the peace for the same county.",25 Del. C. § 122,https://delcode.delaware.gov/title25/c001/sc02/index.html,True
+quitclaim-deed,The words 'grant and convey' operate as a special warranty against the grantor and those claiming under the grantor unless restricted.,25 Del. C. § 121(b),https://delcode.delaware.gov/title25/c001/sc02/index.html,True
+quitclaim-deed,Transfers between spouses or to lineal relatives of a transferor are exempt from seller disclosure.,6 Del. C. § 2577(7),https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+quitclaim-deed,UNCONFIRMED: Delaware has no statutory 'quitclaim' form; wording of a quitclaim deed not confirmed on an official page,,,False
+quitclaim-deed,UNCONFIRMED: Realty transfer tax exemptions for family quitclaim transfers (5401(5)) not retrieved,,,False
+tax-liens,"County taxes on real estate (New Castle, Kent, Sussex) remain a lien for 10 years from July 1 of the levy year, and until collected if the property stays with the original owner.","9 Del. C. § 8702 (ch. 87, subch. I)",https://delcode.delaware.gov/title9/c087/sc01/index.html,True
+tax-liens,In Kent and Sussex Counties the lien of taxes has priority over all other liens.,"9 Del. C. ch. 87, subch. I",https://delcode.delaware.gov/title9/c087/sc01/index.html,True
+tax-liens,Delinquent taxes may be collected from real or personal property.,9 Del. C. § 8701,https://delcode.delaware.gov/title9/c087/sc01/index.html,True
+tax-liens,UNCONFIRMED: Section number for the lien provision is inferred as 8702 from subchapter layout; verify,,,False
+tax-liens,UNCONFIRMED: Interest/penalty rates on delinquent taxes,,,False
+tax-sales,"Delinquent-tax sales are advertised by handbills in at least 10 public places (one on the land, one at the courthouse) and a newspaper notice; sales occur at the courthouse door.","9 Del. C. ch. 87, subch. IV",https://delcode.delaware.gov/title9/c087/sc04/index.html,True
+tax-sales,"The court will not approve a sale if the owner is ready at court to pay taxes, penalty and costs.","9 Del. C. ch. 87, subch. IV",https://delcode.delaware.gov/title9/c087/sc04/index.html,True
+tax-sales,"No deed is made until 1 year after the sale; the owner may redeem by paying costs, the purchase money, 20 percent interest, and deed expenses.","9 Del. C. ch. 87, subch. IV",https://delcode.delaware.gov/title9/c087/sc04/index.html,True
+tax-sales,"Sale transfers title as the defendant held it on July 1 of the tax year, subject to the redemption right.","9 Del. C. ch. 87, subch. III",https://delcode.delaware.gov/title9/c087/sc03/index.html,False
+tax-sales,"UNCONFIRMED: Kent County monition sale schedule (county site, only seen in snippet)",,,False
+tax-sales,UNCONFIRMED: Exact section number of redemption provision (snippet suggests 8758/8728),,,False
+eviction-process,Summary possession actions are filed in the Justice of the Peace Court nearest the rental property.,Landlord/Tenant | Delaware Courts,https://courts.delaware.gov/help/landlordtenant/,True
+eviction-process,A copy of any written notice sent to the tenant must be attached to the complaint.,Landlord/Tenant | Delaware Courts,https://courts.delaware.gov/help/landlordtenant/,True
+eviction-process,A writ of possession will not issue until 10 days after judgment (unless stipulated); evictees get at least 24 hours' notice to vacate.,Landlord/Tenant | Delaware Courts; 25 Del. C. § 5716,https://courts.delaware.gov/help/landlordtenant/,True
+eviction-process,Appeal must be requested within 5 days of judgment; heard by a panel of 3 justices of the peace; appeal fee $60.,Landlord/Tenant | Delaware Courts,https://courts.delaware.gov/help/landlordtenant/,True
+eviction-process,Summary possession venue/jurisdiction: JP Court in the county where the premises are located.,25 Del. C. § 5701,https://delcode.delaware.gov/title25/c057/index.html,False
+eviction-process,UNCONFIRMED: Notice periods (5/7/60-day) by ground not opened,,,False
+tenant-occupied-sale,"If a landlord's interest is sold or transferred, the new landlord must accept the tenant's surety bond and may not require an additional deposit during the lease term, or at renewal exceed 1 month's rent aggregate.",25 Del. C. § 5514(j),https://delcode.delaware.gov/title25/c055/,True
+tenant-occupied-sale,Summary possession for a tenant who holds over after the rental agreement expires is handled in JP Court under 25 Del. C. ch. 57.,25 Del. C. ch. 57,https://delcode.delaware.gov/title25/c057/index.html,False
+tenant-occupied-sale,UNCONFIRMED: Whether sale terminates leases or tenant must vacate (not found),,,False
+tenant-occupied-sale,UNCONFIRMED: Notice requirements to tenants on sale,,,False
+closing-costs,Realty transfer tax is apportioned equally between seller and buyer.,30 Del. C. § 5402(a),https://delcode.delaware.gov/title30/c054/sc01/index.html,True
+closing-costs,Recording of a deed requires fees plus $5 + $25 statutory surcharges per document.,9 Del. C. § 9607(b),https://delcode.delaware.gov/title9/c096/index.html,True
+closing-costs,"Nonresident sellers must remit estimated income tax (6.6% individuals/pass-throughs, 8.7% C corps of gain) at recording, paid by the seller.",Form REW-EST Instructions | Division of Revenue,https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/REW-EST_2025-01_Instructions.pdf,True
+closing-costs,UNCONFIRMED: Delaware is an attorney-closing state: a Delaware court opinion (courts.delaware.gov id=51000) appears to discuss attorney vs non-attorney settlements but was not opened,,,False
+closing-costs,"UNCONFIRMED: Typical seller costs (title, attorney, commissions) are market practice, not official",,,False
+capital-gains,"Nonresident sellers pay estimated Delaware income tax on gain from Delaware real estate at 6.6% (8.7% C corps), due to the Recorder before the deed is recorded.",Form REW-EST Instructions | Division of Revenue,https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/REW-EST_2025-01_Instructions.pdf,True
+capital-gains,Installment-method sellers owe no estimated payment at closing but must report and remit tax when gain is recognized for federal purposes.,Form REW-EST Instructions | Division of Revenue,https://revenuefiles.delaware.gov/2025/PITForms_Instructions/Instructions/REW-EST_2025-01_Instructions.pdf,True
+capital-gains,Title 30 § 1126 provides withholding of income tax on sale of real estate by nonresident individuals.,30 Del. C. § 1126,https://delcode.delaware.gov/title30/c011/sc03/index.html,False
+capital-gains,UNCONFIRMED: Resident treatment (gain taxed within regular personal income tax rates) and brackets not opened,,,False
+capital-gains,UNCONFIRMED: No separate state capital gains rate confirmed,,,False
+land-contracts,UNCONFIRMED: No official Delaware statute/page on installment land contracts was found/opened,,,False
+land-contracts,UNCONFIRMED: Whether a land contract triggers realty transfer tax is unconfirmed,,,False
+seller-disclosure,"A seller transferring residential real property must disclose in writing all known material defects, before signing the listing agreement, updating for changes before settlement.",6 Del. C. § 2572,https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+seller-disclosure,"The disclosure form is a good-faith effort, not a warranty or substitute for inspections.",6 Del. C. § 2574,https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+seller-disclosure,"Exempt transfers include court-ordered transfers, deeds in lieu, sheriff's sales, fiduciary transfers, co-owner transfers, transfers to spouse/lineal relatives, divorce settlement transfers, and government transfers.",6 Del. C. § 2577,https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+seller-disclosure,Disclosure must be made on the Delaware Real Estate Commission-approved report for 1-4 family residential property.,DREC Seller's Disclosure Report,https://dprfiles.delaware.gov/realestate/DREC_Property_Disclosure_Approved_7_1_2023.pdf,False
+seller-disclosure,Radon disclosure is also required (6 Del. C. § 2572A).,24 DE Reg 493 / DREC regs,https://archive.regulations.delaware.gov/register/november2020/final/24%20DE%20Reg%20493%2011-01-20.htm,False
+divorce-home-sale,"Family Court equitably divides marital property upon request, without regard to misconduct, in proportions it deems just.",13 Del. C. § 1513(a),https://delcode.delaware.gov/title13/c015/index.html,True
+divorce-home-sale,Court considers the desirability of awarding the family home or right to live there to the parent with whom children will live.,13 Del. C. § 1513(a)(8),https://delcode.delaware.gov/title13/c015/index.html,True
+divorce-home-sale,Court may impose a lien or charge on marital property assigned to a party to secure alimony or other awards.,13 Del. C. § 1513(d),https://delcode.delaware.gov/title13/c015/index.html,True
+divorce-home-sale,Seller disclosure does not apply to transfers between spouses resulting from a divorce property settlement.,6 Del. C. § 2577(8),https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+fsbo-closing,FSBO sellers must still provide the written material-defects disclosure (no FSBO exemption in § 2577).,"6 Del. C. §§ 2572, 2577",https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+fsbo-closing,Realty transfer tax split equally and due when the deed is presented for recording.,30 Del. C. § 5402(a),https://delcode.delaware.gov/title30/c054/sc01/index.html,True
+fsbo-closing,Deed must be acknowledged and recorded with county Recorder of Deeds.,"25 Del. C. §§ 122, 151",https://delcode.delaware.gov/title25/c001/sc02/index.html,True
+fsbo-closing,UNCONFIRMED: Attorney-required closing rule not opened,,,False
+short-sale-cash-as-is,Deeds in lieu of foreclosure to a defaulting mortgagor's mortgagee are exempt from seller disclosure.,6 Del. C. § 2577(3),https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+short-sale-cash-as-is,Loss-mitigation (incl. foreclosure alternatives) opportunity must be offered before judgment for owner-occupied 1-4 family residences.,10 Del. C. § 5062A,https://delcode.delaware.gov/title10/c049/sc11/,True
+short-sale-cash-as-is,"Seller disclosure still applies to ordinary private sales, including cash/as-is sales; the form is not a warranty.","6 Del. C. §§ 2572, 2574",https://delcode.delaware.gov/title6/c025/sc07/index.html,True
+short-sale-cash-as-is,UNCONFIRMED: Official guidance on short sale approvals / 'as is' sales not found,,,False
+short-sale-cash-as-is,UNCONFIRMED: Deficiency judgment rules after short sale not confirmed,,,False
+transfer-on-death-deed,An individual may transfer property to one or more beneficiaries effective at death by a transfer on death deed.,25 Del. C. § 205,https://delcode.delaware.gov/title25/c002/index.html,True
+transfer-on-death-deed,A TOD deed is revocable even if it says otherwise.,25 Del. C. § 206,https://delcode.delaware.gov/title25/c002/index.html,True
+transfer-on-death-deed,"Requirements: notarized signatures, 2 witnesses (at least one not a beneficiary), statement that transfer occurs at death, and recorded before death in the county recorder of deeds.",25 Del. C. ch. 2,https://delcode.delaware.gov/title25/c002/index.html,True
+transfer-on-death-deed,"No notice, delivery, acceptance by beneficiary or consideration is required; a beneficiary who does not survive lapses.",25 Del. C. ch. 2,https://delcode.delaware.gov/title25/c002/index.html,True
+transfer-on-death-deed,UNCONFIRMED: Section numbers beyond 205/206 inferred; effective date of the Act (passed 2025) not confirmed,,,False

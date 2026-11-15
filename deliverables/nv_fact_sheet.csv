@@ -1,0 +1,105 @@
+topic,claim,cite,url,opened_on_official_page
+property-tax-appeals,All property subject to taxation must be assessed at 35 percent of its taxable value.,NRS 361.225,https://www.leg.state.nv.us/NRS/NRS-361.html,True
+property-tax-appeals,Appeals to the county board of equalization must be filed not later than January 15 (next business day if it falls on a weekend or holiday).,NRS 361.356 / 361.357,https://www.leg.state.nv.us/NRS/NRS-361.html,True
+property-tax-appeals,An appeal under NRS 361.357 (full cash value less than taxable value) cannot result in an increase in taxable value.,NRS 361.357(4),https://www.leg.state.nv.us/NRS/NRS-361.html,True
+property-tax-appeals,A taxpayer aggrieved by the county board may appeal to the State Board of Equalization on or before March 10.,NRS 361.360,https://www.leg.state.nv.us/NRS/NRS-361.html,True
+property-tax-appeals,"Before filing a county board appeal, the owner must complete a form provided by the county assessor.",NRS 361.356(2),https://www.leg.state.nv.us/NRS/NRS-361.html,True
+property-tax-appeals,UNCONFIRMED: Whether the 35% assessment ratio is applied to a 'taxable value' computed by cost approach less depreciation (not confirmed on opened pages).,,,False
+homestead-exemption,"The Nevada homestead exemption extends only to equity not exceeding $605,000 unless allodial title is established.",NRS 115.010,https://www.leg.state.nv.us/NRS/NRS-115.html,True
+homestead-exemption,"A declaration of homestead must be signed, acknowledged and recorded like conveyances of real property.",NRS 115.020 (per NRS 115 page),https://www.leg.state.nv.us/NRS/NRS-115.html,True
+homestead-exemption,"A homestead is not deemed abandoned without a written declaration signed and acknowledged by both spouses or the single claimant, and recorded.",NRS 115.040,https://www.leg.state.nv.us/NRS/NRS-115.html,True
+homestead-exemption,"Exemption is protection from execution/creditors, not a property tax exemption.",NRS 115.010 heading (exemption from sale on execution),https://www.leg.state.nv.us/NRS/NRS-115.html,True
+homestead-exemption,UNCONFIRMED: No state property-tax homestead exemption was located; Nevada senior/veteran/disabled property tax exemptions and tax-credit programs were not researched.,,,False
+property-transfer-tax,Base RPTT is $1.95 per $500 of value or fraction thereof where value exceeds $100.,Real Property Transfer Tax - tax.nv.gov,https://tax.nv.gov/tax-types/real-property-transfer-tax/,True
+property-transfer-tax,Washoe and Churchill counties add $0.10 and Clark County adds $0.60 to the base rate.,Real Property Transfer Tax - tax.nv.gov,https://tax.nv.gov/tax-types/real-property-transfer-tax/,True
+property-transfer-tax,"NRS 375.020 imposes 65 cents per $500 in counties under 700,000 population and NRS 375.023 adds $1.30 per $500.","NRS 375.020, 375.023",https://www.leg.state.nv.us/NRS/NRS-375.html,True
+property-transfer-tax,Buyer and seller are jointly and severally liable for the tax; the escrow holder is not liable.,NRS 375.030,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+property-transfer-tax,Each deed presented for recording must be accompanied by a declaration of value.,NRS 375.060,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+property-transfer-tax,"Exemptions include transfers between former spouses under a divorce decree, transfers to relatives within the first degree of lineal consanguinity or affinity, and deeds upon death.",NRS 375.090,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+property-transfer-tax,The tax is collected by the county recorder when the deed is recorded.,Real Property Transfer Tax - tax.nv.gov,https://tax.nv.gov/tax-types/real-property-transfer-tax/,True
+property-transfer-tax,"UNCONFIRMED: Exact current county-by-county rate for counties other than Clark, Washoe, Churchill beyond the $1.95 base.",,,False
+foreclosure,Nevada deeds of trust are generally foreclosed nonjudicially by the trustee's power of sale; a notice of breach and election to sell must be recorded in each county where the property lies.,NRS 107.080,https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,"The grantor or title holder has 35 days (for deeds after July 1, 1957) to cure after the notice is recorded and mailed.",NRS 107.080(2)(a),https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,Not less than 3 months must elapse after recording the notice of default before sale.,NRS 107.080(2)(d),https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,Notice of sale must be posted for 20 days and published once a week for 3 consecutive weeks in a county newspaper.,NRS 107.080(4),https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,Sale is at public auction to the highest bidder between 9 a.m. and 5 p.m.,NRS 107.080,https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,A sale vests title in the purchaser without equity or right of redemption.,NRS 107.080(5),https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,"For owner-occupied housing, notice 'Your home loan is being foreclosed' must be served not later than 60 days before the sale.",NRS 107.085,https://www.leg.state.nv.us/NRS/NRS-107.html,True
+foreclosure,Deficiency application must be made within 6 months after the foreclosure sale; financial institutions cannot obtain one for qualifying purchase-money owner-occupied single-family homes.,NRS 40.455,https://www.leg.state.nv.us/NRS/NRS-040.html,True
+foreclosure,UNCONFIRMED: Foreclosure Mediation Program details (not opened).,,,False
+sheriff-sale,"Execution sale notice must be published three times, once a week for 3 successive weeks, in a newspaper if one exists in the county.",NRS 21.130 (per NRS 21 page),https://www.leg.state.nv.us/NRS/NRS-021.html,True
+sheriff-sale,Sales under execution are made at auction to the highest bidder.,NRS 21.140/21.150 (per NRS 21 page),https://www.leg.state.nv.us/NRS/NRS-021.html,True
+sheriff-sale,The judgment debtor or redemptioner may redeem within 1 year after the sale by paying the purchase price plus 1 percent per month.,NRS 21.210,https://www.leg.state.nv.us/NRS/NRS-021.html,True
+sheriff-sale,"If not redeemed within 1 year, the purchaser is entitled to a conveyance (sheriff's deed).",NRS 21.220(4),https://www.leg.state.nv.us/NRS/NRS-021.html,True
+sheriff-sale,The sheriff's certificate of sale must state if the sale is subject to redemption.,NRS 21.190,https://www.leg.state.nv.us/NRS/NRS-021.html,True
+sheriff-sale,UNCONFIRMED: Posting period (20 days) on execution notices not directly seen.,,,False
+probate-and-inherited-property,A small estate affidavit may be used 40 days after death without letters of administration if the decedent left no real property or interest therein in Nevada.,NRS 146.080,https://www.leg.state.nv.us/NRS/NRS-146.html,True
+probate-and-inherited-property,"The applicable amount is $150,000 for a surviving spouse claimant and $25,000 for any other claimant.",NRS 146.080,https://www.leg.state.nv.us/NRS/NRS-146.html,True
+probate-and-inherited-property,"A procedure exists to set aside estates not exceeding $150,000 by court petition.",NRS 146.070,https://www.leg.state.nv.us/NRS/NRS-146.html,True
+probate-and-inherited-property,"Real property may pass by deed upon death recorded before the owner's death, then a Death of Grantor Affidavit with death certificate and declaration of value is recorded.",NRS 111.699,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+probate-and-inherited-property,UNCONFIRMED: Process for selling inherited real property through formal probate/independent administration (NRS 148) not opened.,,,False
+estate-tax,NRS 375A.100 imposes a tax on transfer of a taxable estate equal to the maximum credit allowable against the federal estate tax for state death taxes.,NRS 375A.100,https://www.leg.state.nv.us/NRS/nrs-375a.html,True
+estate-tax,"Nevada economic development office states Nevada has no corporate income tax, personal income tax, inheritance/gift tax, or estate tax.",Doing Business In Nevada - goed.nv.gov,https://goed.nv.gov/doing-business-nevada/,False
+estate-tax,UNCONFIRMED: Whether the federal credit currently results in zero Nevada estate tax (inference not confirmed on an opened official page).,,,False
+deeds-recording,"County recorders record documents authorized or required by law to be recorded, and may deny recording within 2 judicial days if unlawful.",NRS 247.120,https://www.leg.state.nv.us/NRS/NRS-247.html,True
+deeds-recording,"Recording fee is $25 for recording a document, plus statutory additional fees ($7 under NRS 247.305(3), up to $5 and up to $6 county-authorized).",NRS 247.305,https://www.leg.state.nv.us/NRS/NRS-247.html,True
+deeds-recording,Names of all signers must be typed or printed beneath original signatures.,NRS 247.190,https://www.leg.state.nv.us/NRS/NRS-247.html,True
+deeds-recording,Recording is in the county recorder's office of the county where the property is located; deeds need a declaration of value.,NRS 375.060,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+deeds-recording,UNCONFIRMED: E-recording availability and APN/mailing address requirements (NRS 111.312) not confirmed beyond the section title; county-specific fees may differ.,,,False
+quitclaim-deed,No estate in land is created except by operation of law or written conveyance.,NRS 111.205 (title per NRS 111 page),https://www.leg.state.nv.us/NRS/NRS-111.html,True
+quitclaim-deed,"Quitclaim transfers are still subject to RPTT unless exempt (e.g., first-degree relatives, divorce decree).",NRS 375.090,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+quitclaim-deed,A deed transferring title for nominal consideration is valued at estimated fair market value for RPTT.,NRS 375.010(1)(f)(2),https://www.leg.state.nv.us/NRS/NRS-375.html,True
+quitclaim-deed,UNCONFIRMED: Statutory quitclaim form language and effect (not found on official pages opened).,,,False
+tax-liens,"Property taxes are a perpetual lien until paid, superior to all other liens and encumbrances.",NRS 361.450,https://www.leg.state.nv.us/NRS/NRS-361.html,True
+tax-liens,The lien attaches July 1 of the year for which taxes are levied.,NRS 361.450(2),https://www.leg.state.nv.us/NRS/NRS-361.html,True
+tax-liens,The county treasurer mails notice of delinquency before issuing a certificate to the treasurer as trustee.,NAC 361 / NRS 361.5648,https://www.leg.state.nv.us/nac/NAC-361.html,False
+tax-liens,UNCONFIRMED: Penalty and interest rates on delinquent taxes.,,,False
+tax-sales,"After delinquency, the county treasurer is issued a certificate to hold the property as trustee, subject to redemption within 2 years (1 year if abandoned).",NRS 361.570,https://www.leg.state.nv.us/NRS/NRS-361.html,False
+tax-sales,A deed to the county treasurer as trustee issues after the period of redemption.,NRS 361.585,https://www.leg.state.nv.us/NRS/NRS-361.html,True
+tax-sales,UNCONFIRMED: Whether Nevada conducts a tax-lien-certificate auction versus trustee deed sale details; amounts to redeem.,,,False
+eviction-process,Summary eviction for nonpayment is under NRS 40.253; other bases under NRS 40.254.,"NRS 40.253, 40.254",https://nvcourts.gov/__data/assets/pdf_file/0015/23613/landlord-tenant_-_apts_-_forms_instructions_-_general.pdf,False
+eviction-process,Tenant may contest by filing an affidavit before close of business on the fifth judicial day after service of notice.,NRS 40.253,https://www.leg.state.nv.us/NRS/NRS-040.html,True
+eviction-process,Landlord applies by affidavit to justice court or district court; the court holds a hearing once the tenant files the affidavit.,NRS 40.253,https://www.leg.state.nv.us/NRS/NRS-040.html,True
+eviction-process,The court may issue a summary order for removal; sheriff or constable posts it within 24 hours of receipt.,NRS 40.253,https://www.leg.state.nv.us/NRS/NRS-040.html,True
+eviction-process,UNCONFIRMED: Length of the notice period for nonpayment under current law (statute text opened was fragmentary).,,,False
+tenant-occupied-sale,"On voluntary sale, the new owner has the previous owner's rights and obligations under the existing rental agreement unless modified.",NRS 118A (successor provision),https://www.leg.state.nv.us/NRS/NRS-118A.html,True
+tenant-occupied-sale,New owner must notify the tenant within 30 days of transfer with contact information and security deposit amount.,NRS 118A (successor provision),https://www.leg.state.nv.us/NRS/NRS-118A.html,True
+tenant-occupied-sale,"Before recording a deed, the landlord must transfer remaining security deposits to the successor in writing or notify that deposits were returned.",NRS 118A.244,https://www.leg.state.nv.us/NRS/NRS-118A.html,True
+tenant-occupied-sale,Successor must accept the existing deposit and may not require an additional deposit during the term.,NRS 118A.244(3),https://www.leg.state.nv.us/NRS/NRS-118A.html,True
+tenant-occupied-sale,UNCONFIRMED: Exact section number for the 30-day new owner notice.,,,False
+closing-costs,"In Nevada the seller usually pays for the owner's title policy and the buyer for the lender's policy, negotiable.",Nevada Division of Insurance Title Guide,https://doi.nv.gov/uploadedfiles/doinvgov/_public-documents/News-Notes/TitleGuide.pdf,True
+closing-costs,"Title insurers and agents must make their fee schedules, including escrow fees, available to the public.",Nevada Division of Insurance Title Guide,https://doi.nv.gov/uploadedfiles/doinvgov/_public-documents/News-Notes/TitleGuide.pdf,True
+closing-costs,RPTT is jointly and severally owed by buyer and seller.,NRS 375.030,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+closing-costs,UNCONFIRMED: Whether an attorney is required (Nevada is generally escrow/title company practice; not confirmed on opened page).,,,False
+capital-gains,"Nevada has no personal income tax, so no state tax on capital gains.",Doing Business In Nevada - goed.nv.gov,https://goed.nv.gov/doing-business-nevada/,False
+capital-gains,UNCONFIRMED: Confirmation from tax.nv.gov that there is no personal income tax; federal capital gains rules are outside scope.,,,False
+land-contracts,"A land sale installment contract is one where the seller retains title until full price is paid, then transfers by written instrument.",NRS 375.010(1)(d),https://www.leg.state.nv.us/NRS/NRS-375.html,True
+land-contracts,RPTT applies to land sale installment contracts exceeding $100 in value.,NRS 375.020,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+land-contracts,Sellers must record the contract within 30 calendar days after first payment and pay the chapter 375 tax.,NRS 598 (deceptive trade practices),https://www.leg.state.nv.us/NRS/NRS-598.html,False
+land-contracts,UNCONFIRMED: Other chapter 598 protections for land sale installment contracts.,,,False
+seller-disclosure,"At least 10 days before conveyance, the seller must complete a disclosure form and serve the purchaser or agent.",NRS 113.130,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+seller-disclosure,A seller's agent shall not complete the disclosure form for the seller.,NRS 113.130,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+seller-disclosure,"If a seller fails to serve the form, the purchaser may rescind before conveyance without penalty.",NRS 113.150,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+seller-disclosure,"Rescission is effective only if in writing, notarized and served within 4 working days after the purchaser is informed of the defect.",NRS 113.150,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+seller-disclosure,"A seller who conveys without disclosing known defects may be liable for treble repair cost plus fees; action within 1 year of discovery or 2 years after conveyance, whichever is later.",NRS 113.150,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+seller-disclosure,The form does not constitute a warranty; unknown defects need not be disclosed.,NRS 113.140,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+seller-disclosure,Real Estate Division Form 547 is the Seller's Real Property Disclosure Form.,Form 547,https://red.nv.gov/uploadedfiles/rednvgov/Content/Forms/547.pdf,False
+seller-disclosure,UNCONFIRMED: Exemptions for trustees/beneficiaries in foreclosure sales detailed in NRS 113.130(2).,,,False
+divorce-home-sale,"The court shall, to the extent practicable, make an equal disposition of community property, unequal only for a compelling reason set out in writing.",NRS 125.150,https://www.leg.state.nv.us/NRS/NRS-125.html,True
+divorce-home-sale,Transfer of title between former spouses under a divorce decree is exempt from RPTT.,NRS 375.090(6),https://www.leg.state.nv.us/NRS/NRS-375.html,True
+divorce-home-sale,UNCONFIRMED: Residency requirement and treatment of separate property.,,,False
+fsbo-closing,Seller must serve the disclosure form at least 10 days before conveyance in FSBO sales too.,NRS 113.130,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+fsbo-closing,RPTT is collected at recording and declaration of value must accompany the deed.,NRS 375.060,https://www.leg.state.nv.us/NRS/NRS-375.html,True
+fsbo-closing,Seller transferring a tenant-occupied unit must transfer security deposits before recording.,NRS 118A.244,https://www.leg.state.nv.us/NRS/NRS-118A.html,True
+fsbo-closing,UNCONFIRMED: Whether owners are exempt from real estate licensing in NRS 645 (not opened).,,,False
+short-sale-cash-as-is,"Deficiency judgment limited to the lesser of debt minus fair market value or debt minus sale price (principal residence, one structure up to four families).",NRS 40.459,https://www.leg.state.nv.us/NRS/NRS-040.html,True
+short-sale-cash-as-is,A financial institution cannot get a deficiency on qualifying owner-occupied purchase-money single-family foreclosure.,NRS 40.455(3),https://www.leg.state.nv.us/NRS/NRS-040.html,True
+short-sale-cash-as-is,A seller must still disclose known defects even when selling as-is.,NRS 113.130/113.140,https://www.leg.state.nv.us/NRS/NRS-113.html,True
+short-sale-cash-as-is,UNCONFIRMED: Short-sale-specific deficiency waiver statute (NRS 40.4639) not confirmed.,,,False
+transfer-on-death-deed,An owner may create a deed upon death conveying property to beneficiaries effective on the owner's death.,NRS 111.671,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+transfer-on-death-deed,It is valid only if executed and recorded with the county recorder before the owner's death.,NRS 111.681,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+transfer-on-death-deed,Capacity required is the same as to make a will.,NRS 111.679,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+transfer-on-death-deed,It is effective without notice to or consideration from the beneficiary.,NRS 111.683,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+transfer-on-death-deed,"If multiple deeds are recorded, the last recorded before death is effective.",NRS 111.671,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+transfer-on-death-deed,"After death, a Death of Grantor Affidavit with declaration of value and death certificate must be recorded.",NRS 111.699,https://www.leg.state.nv.us/NRS/NRS-111.html,True
+transfer-on-death-deed,Transfers by deed upon death are exempt from RPTT.,NRS 375.090(10),https://www.leg.state.nv.us/NRS/NRS-375.html,True

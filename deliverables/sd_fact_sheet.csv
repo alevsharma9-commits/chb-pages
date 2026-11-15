@@ -1,0 +1,105 @@
+topic,claim,cite,url,opened_on_official_page
+property-tax-appeals,Appeal to the local board of equalization is perfected by mailing or filing a notice of appeal with the clerk of the local board; a mailed appeal's postmark is conclusive on timeliness.,SDCL 10-11-16,https://sdlegislature.gov/api/Statutes/10-11-16.html,True
+property-tax-appeals,The clerk of the local board must be notified of the appeal no later than the Thursday preceding the third Monday in March.,SDCL 10-11-16,https://sdlegislature.gov/api/Statutes/10-11-16.html,True
+property-tax-appeals,An appeal from the local board to the county board of equalization must be mailed or filed with the county auditor on or before the first Tuesday in April.,SDCL 10-11-23,https://sdlegislature.gov/Statutes/10-11-23,True
+property-tax-appeals,Any aggrieved property owner or taxpayer may appeal a local board decision to the county board of equalization.,SDCL 10-11-22,https://sdlegislature.gov/api/Statutes/10-11-22.html,False
+property-tax-appeals,"The director of equalization must assess each tract of real property at its fair market value, using the cost, market and income approaches.",SDCL 10-6-119,https://sdlegislature.gov/api/Statutes/10-6-119.html,True
+property-tax-appeals,Former SDCL 10-6-33 (valuation basis) was transferred to SDCL 10-6-119.,SDCL 10-6-33,https://sdlegislature.gov/api/Statutes/10-6-33.html,True
+property-tax-appeals,"UNCONFIRMED: Statutory taxable-value percentage of market value (e.g., 85%) not confirmed on an official page",,,False
+property-tax-appeals,UNCONFIRMED: Appeal path beyond county board (Office of Hearing Examiners / circuit court) and its deadlines not opened,,,False
+property-tax-appeals,UNCONFIRMED: DOR 2026 appeal guide (dor.sd.gov) lists March 12 local-board filing date; PDF snippet seen but not opened,,,False
+homestead-exemption,"A homestead, including one listed for sale, is exempt from judicial sale, judgment lien and process while it keeps its homestead character.",SDCL 43-31-1,https://sdlegislature.gov/api/Statutes/43-31-1.html,True
+homestead-exemption,"A homestead valued under $170,000 of a person age 70 or older (or unremarried surviving spouse) is exempt from sale for taxes.",SDCL 43-31-1,https://sdlegislature.gov/api/Statutes/43-31-1.html,True
+homestead-exemption,"If a homestead is sold voluntarily or under chapter 21-19, sale proceeds up to $100,000 are exempt for one year after receipt.",SDCL 43-45-3,https://sdlegislature.gov/api/Statutes/43-45-3.html,True
+homestead-exemption,"The homestead exemption is limited to $170,000 for a person 70 or older or the unremarried surviving spouse.",SDCL 43-45-3,https://sdlegislature.gov/api/Statutes/43-45-3.html,True
+homestead-exemption,UNCONFIRMED: Property-tax owner-occupied classification mechanics (SDCL 10-13-40; March 15 filing date seen in DOR guide snippet only),,,False
+property-transfer-tax,"Real estate transfer fee is fifty cents for each $500 of value or fraction thereof, paid by the grantor.",SDCL 43-4-21,https://sdlegislature.gov/api/Statutes/43-4-21.html,True
+property-transfer-tax,"Exemptions include transfers on sale for delinquent taxes, sheriffs' deeds, foreclosure deeds and deeds in lieu of foreclosure.",SDCL 43-4-22(6),https://sdlegislature.gov/api/Statutes/43-4-22.html,True
+property-transfer-tax,Exempt: transfers between spouses or parent and child with only nominal consideration; transfers under a decree of divorce; transfers under decrees of distribution in an estate; absolute gifts without consideration.,SDCL 43-4-22,https://sdlegislature.gov/api/Statutes/43-4-22.html,True
+property-transfer-tax,The register of deeds collects the fee when the deed is offered for recording and notes the amount on the deed face.,SDCL 43-4-24,https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=43-4-24&Type=Statute,False
+property-transfer-tax,Fee proceeds go to the county general fund.,SDCL 43-4-25,https://sdlegislature.gov/Statutes/43-4-25,False
+foreclosure,Foreclosure by advertisement requires notice published once a week for four successive weeks in a legal newspaper of the county.,SDCL 21-48-6,https://sdlegislature.gov/api/Statutes/21-48-6.html,True
+foreclosure,The foreclosing creditor must serve written notice of the sale on the mortgagor and affected lienholders at least 21 days before the sale.,SDCL 21-48-6.1,https://sdlegislature.gov/api/Statutes/21-48-6.1.html,True
+foreclosure,Foreclosure notice must state that the mortgagor can apply for foreclosure by action.,SDCL 21-48-6,https://sdlegislature.gov/api/Statutes/21-48-6.html,True
+foreclosure,"Persons entitled to redeem have one year from the date of sale, except under a 180-day redemption mortgage.",SDCL 21-52-11,https://sdlegislature.gov/Statutes/21-52-11,True
+foreclosure,"Under the 180-day redemption mortgage act, redemption is 180 days (60 days if abandoned) from recording of the certificate of sale, and cannot be extended beyond 180 consecutive days.",SDCL 21-49-38,https://sdlegislature.gov/Statutes/21-49-38,True
+foreclosure,Foreclosure by action: the court may enter judgment for the debt and order the mortgaged premises sold; possession delivery is deferred during redemption.,SDCL 21-47-13,https://sdlegislature.gov/Statutes/21-47-13,False
+foreclosure,UNCONFIRMED: Whether the 180-day act applies depends on the mortgage containing the statutory clause (SDCL 21-49-12 snippet only),,,False
+sheriff-sale,Execution sale of real property requires notice published once a week for four consecutive weeks in a legal newspaper of the county.,SDCL 15-19-8,https://sdlegislature.gov/api/Statutes/15-19-8.html,True
+sheriff-sale,Mortgage foreclosure sale purchaser receives a certificate of sale from the officer making the sale.,SDCL 21-48-19,https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=21-48-19&Type=Statute,False
+sheriff-sale,Judgment debtor has one year from sale date to redeem after execution sale.,SDCL 15-19-23,https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=15-19-23&Type=Statute,False
+sheriff-sale,Minnehaha County sheriff signs the deed at any time on or after 181 days from recording of the certificate of sale unless redeemed.,Minnehaha County Sheriff - Mortgage Foreclosures,https://www.minnehahacounty.gov/dept/so/mortgageForeclosures/mortgageForeclosures.php,False
+probate-and-inherited-property,"Personal property may be collected by affidavit 30 days after death if the entire estate, less liens, does not exceed $100,000, and no personal representative application is pending.",SDCL 29A-3-1201,https://sdlegislature.gov/api/Statutes/29A-3-1201.html,True
+probate-and-inherited-property,"Successors may file an affidavit for real property 60 days after death if the decedent's real property interest in the state is $50,000 or less.",SDCL 29A-3-1203,https://sdlegislature.gov/Statutes/29A-3-1203,True
+probate-and-inherited-property,Real property affidavit must be filed with the register of deeds with a certified death certificate in each county where land is located.,SDCL 29A-3-1203,https://sdlegislature.gov/Statutes/29A-3-1203,True
+probate-and-inherited-property,Both affidavits require that the decedent owed no Department of Social Services medical assistance debt for nursing home or institutional care.,"SDCL 29A-3-1201, 29A-3-1203",https://sdlegislature.gov/Statutes/29A-3-1203,True
+probate-and-inherited-property,A purchaser or lender in good faith for value takes title free of estate claims when buying from a successor under a real property affidavit.,SDCL 29A-3-1203,https://sdlegislature.gov/Statutes/29A-3-1203,True
+probate-and-inherited-property,UNCONFIRMED: Personal representative power of sale and formal probate timelines not opened,,,False
+estate-tax,"South Dakota does not have an inheritance tax; voters repealed it effective July 1, 2001.",SD Dept of Revenue - Taxes,https://dor.sd.gov/individuals/taxes/,True
+estate-tax,South Dakota has no state estate tax.,SD Dept of Revenue - Taxes,https://dor.sd.gov/individuals/taxes/,True
+estate-tax,"Constitution prohibits any tax on inheritance, effective July 1, 2001.","S.D. Const. art. XI, sec. 15",https://sdlegislature.gov/Constitution/11,False
+estate-tax,UNCONFIRMED: Constitutional text seen only via Justia and search snippet of sdlegislature.gov; DOR page is the opened source,,,False
+deeds-recording,Register of deeds fee to record deeds and mortgages is $30 for the first 50 pages plus $2 per additional page.,SDCL 7-9-15,https://sdlegislature.gov/api/Statutes/7-9-15.html,True
+deeds-recording,Certified copy of a recorded instrument is $5 for the first page plus $1 per additional page; uncertified copy $1 per page.,SDCL 7-9-15,https://sdlegislature.gov/api/Statutes/7-9-15.html,True
+deeds-recording,A document not meeting format standards (SDCL 43-28-23) may not be rejected unless not sufficiently legible or reproducible.,SDCL 7-9-15,https://sdlegislature.gov/api/Statutes/7-9-15.html,True
+deeds-recording,Administrative rules authorize electronic recording programs through participating registers of deeds; plats are excluded.,ARSD 22:03:01:06,https://sdlegislature.gov/Rules/Administrative/22:03:01:06,False
+deeds-recording,UNCONFIRMED: Which counties accept e-recording not confirmed,,,False
+quitclaim-deed,State statute provides a standard quitclaim deed form conveying all interest of the grantor in the described real estate.,SDCL 43-25-7,https://sdlegislature.gov/api/Statutes/43-25-7.html,True
+quitclaim-deed,"Standard form includes grantor, consideration, grantee, legal description, date, signature and acknowledgment.",SDCL 43-25-7,https://sdlegislature.gov/api/Statutes/43-25-7.html,True
+quitclaim-deed,Standard forms do not preclude other forms of warranty or quitclaim deed.,SDCL 43-25-9,https://sdlegislature.gov/api/Statutes/43-25-9.html,False
+quitclaim-deed,A deed that merely confirms or corrects a prior recorded deed is exempt from the transfer fee.,SDCL 43-4-22(4),https://sdlegislature.gov/api/Statutes/43-4-22.html,True
+tax-liens,Taxes upon real property are a perpetual lien against all persons except the United States and the state.,SDCL 10-19-2 (per AG opinion),https://atg.sd.gov/OurOffice/OfficialOpinions/opinionhtml.aspx?id=1227,False
+tax-liens,One-half of unpaid real property taxes is delinquent on May 1 and the rest on November 1 if unpaid by October 31.,SDCL 10-21-23,https://sdlegislature.gov/api/Statutes/10-21-23.html,True
+tax-liens,Interest accrues monthly on delinquent taxes at the Category G rate.,SDCL 10-21-23,https://sdlegislature.gov/api/Statutes/10-21-23.html,True
+tax-liens,Taxes totaling $50 or less are due in full by April 30.,SDCL 10-21-23,https://sdlegislature.gov/api/Statutes/10-21-23.html,True
+tax-liens,UNCONFIRMED: Whether tax lien attaches January 1 per AG opinion snippet only,,,False
+tax-sales,South Dakota sells tax certificates; a tax deed proceeding may begin three years after the certificate sale and within six years.,SDCL 10-25-1,https://sdlegislature.gov/api/Statutes/10-25-1.html,True
+tax-sales,"Any person may redeem a tax certificate before a tax deed issues by paying the certificate sum, interest and subsequent taxes.",SDCL 10-24-1,https://sdlegislature.gov/api/Statutes/10-24-1.html,True
+tax-sales,Treasurer prepares the tax deed after 60 days from the affidavit of completed service of notice if the certificate is unredeemed.,SDCL 10-25-11,https://sdlegislature.gov/api/Statutes/10-25-11.html,False
+tax-sales,"Notice of intention to take a tax deed must be served on the owner of record, person in possession, person taxed, and mortgagee.",SDCL 10-25-3,https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=10-25-3&Type=Statute,False
+eviction-process,A landlord may evict only through a court order in a Forcible Entry and Detainer action.,SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+eviction-process,A tenant must receive three days' notice to vacate before the action is commenced.,SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+eviction-process,The tenant has four days after service of summons and complaint to file and serve a written answer.,SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+eviction-process,Grounds include a lessee holding over or failing to pay rent for three days after due.,SDCL 21-16-1(4),https://sdlegislature.gov/api/Statutes/21-16-1.html,True
+eviction-process,"Possession after mortgage or execution sale, after redemption expires and deed delivery, is a ground.",SDCL 21-16-1(5),https://sdlegislature.gov/api/Statutes/21-16-1.html,True
+eviction-process,Landlord lockouts or utility shutoffs are prohibited.,SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+tenant-occupied-sale,"Real estate agents showing a rental unit being sold are subject to the same entry rules as the landlord, which require 24-hour prior notice at a reasonable time except in emergencies.",SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+tenant-occupied-sale,A landlord may get a court order for entry if a tenant continues to refuse reasonable entry.,SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+tenant-occupied-sale,Month-to-month tenancy requires one rental period's notice to end; landlord may modify terms on 30 days written notice.,SD Attorney General Consumer Protection - Landlord/Tenant,https://consumer.sd.gov/fastfacts/landlordtenant.aspx,True
+tenant-occupied-sale,UNCONFIRMED: Whether a sale ends a lease or the buyer takes subject to it not confirmed on an official page,,,False
+closing-costs,Seller (grantor) pays the state real estate transfer fee of $0.50 per $500.,SDCL 43-4-21,https://sdlegislature.gov/api/Statutes/43-4-21.html,True
+closing-costs,Recording a deed costs $30 for the first 50 pages.,SDCL 7-9-15,https://sdlegislature.gov/api/Statutes/7-9-15.html,True
+closing-costs,A 1976 AG opinion states that in South Dakota brokers do not close sales where new mortgages are obtained; the lending institutions close them.,AG Official Opinion 76-09,https://atg.sd.gov/OfficialOpinions/Official%20Opinion%2076-09.pdf,False
+closing-costs,UNCONFIRMED: Whether South Dakota is an attorney or title-company closing state not confirmed from an official source,,,False
+closing-costs,"UNCONFIRMED: Customary seller-paid costs (title insurance, commissions) not confirmed",,,False
+capital-gains,South Dakota is one of seven states that does not impose a state income tax.,SD Dept of Revenue - Taxes,https://dor.sd.gov/individuals/taxes/,True
+capital-gains,Federal tax questions are directed to the IRS.,SD Dept of Revenue - Taxes,https://dor.sd.gov/individuals/taxes/,True
+capital-gains,UNCONFIRMED: Federal capital gains rules not researched (out of scope for state sources),,,False
+land-contracts,"On default under an executory contract for sale of real property, an action may be brought in circuit court to foreclose all rights under the contract.",SDCL 21-50-1,https://sdlegislature.gov/api/Statutes/21-50-1.html,True
+land-contracts,The judgment sets a compliance period of not less than ten days; on failure the judgment becomes final and rights under the contract are barred.,SDCL 21-50-3,https://sdlegislature.gov/api/Statutes/21-50-3.html,True
+land-contracts,UNCONFIRMED: Chapter 21-50 notice/redemption interplay beyond 21-50-1 and 21-50-3 not read,,,False
+land-contracts,"UNCONFIRMED: Other forfeiture statutes found (SDCL 5-9, 7-31) apply to state/county school land contracts, not private sales",,,False
+seller-disclosure,The seller of residential real property must furnish a completed disclosure statement before the buyer makes a written offer.,SDCL 43-4-38,https://sdlegislature.gov/api/Statutes/43-4-38.html,True
+seller-disclosure,"The seller must give a written amendment if a material fact changes before closing or possession, whichever is first.",SDCL 43-4-38,https://sdlegislature.gov/api/Statutes/43-4-38.html,True
+seller-disclosure,"If the statement is delivered after an offer, the buyer may terminate within 3 days of in-person delivery or 6 days if mailed.",SDCL 43-4-39,https://sdlegislature.gov/api/Statutes/43-4-39.html,True
+seller-disclosure,Intentional or negligent violators are liable for the buyer's actual damages and repairs; court may award fees; transfer is not invalidated.,SDCL 43-4-42,https://sdlegislature.gov/api/Statutes/43-4-42.html,True
+seller-disclosure,Residential real property means not more than four dwelling units in one structure.,SDCL 43-4-37,https://sdlegislature.gov/api/Statutes/43-4-37.html,False
+seller-disclosure,"Most residential sellers, including FSBOs, must provide the Seller's Property Condition Disclosure Statement; some exceptions exist.",SD Real Estate Commission - Consumer Information,https://dlr.sd.gov/realestate/consumer_information.aspx,True
+seller-disclosure,Sellers in a homeowners' association must also disclose HOA governance before the offer.,SDCL 43-4-44.1,https://sdlegislature.gov/Statutes?Statute=43-4-44.1,False
+seller-disclosure,UNCONFIRMED: Exempt transfers under SDCL 43-4-4 not opened,,,False
+divorce-home-sale,On granting a divorce the court may make an equitable division of property of either or both spouses regardless of title.,SDCL 25-4-44,https://sdlegislature.gov/api/Statutes/25-4-44.html,True
+divorce-home-sale,Transfers under a divorce decree or approved settlement are exempt from the transfer fee.,SDCL 43-4-22(17),https://sdlegislature.gov/api/Statutes/43-4-22.html,True
+divorce-home-sale,"If a divorce court divides a homestead and imposes a lien for the nonoccupant spouse, homestead protection attaches to that lien for one year.",SDCL 43-45-3,https://sdlegislature.gov/api/Statutes/43-45-3.html,True
+fsbo-closing,"FSBO sellers must provide the Seller's Property Condition Disclosure Statement just like those using an agent, subject to exceptions.",SD Real Estate Commission - Consumer Information,https://dlr.sd.gov/realestate/consumer_information.aspx,True
+fsbo-closing,Seller pays the transfer fee of $0.50 per $500 at recording.,SDCL 43-4-21,https://sdlegislature.gov/api/Statutes/43-4-21.html,True
+fsbo-closing,The Real Estate Commission posts transaction forms including the disclosure statement.,SD Real Estate Commission - Consumer Information,https://dlr.sd.gov/realestate/consumer_information.aspx,True
+fsbo-closing,UNCONFIRMED: Whether attorney or licensed closer is required not confirmed,,,False
+short-sale-cash-as-is,Disclosure statement form states it is a disclosure of condition and not a warranty of any kind by seller or agent.,SD DLR Seller's Property Condition Disclosure Statement,https://dlr.sd.gov/realestate/forms/sellers_property_condition_disclosure_statement.pdf,False
+short-sale-cash-as-is,Transfers by deed in lieu of foreclosure are exempt from the transfer fee.,SDCL 43-4-22(6),https://sdlegislature.gov/api/Statutes/43-4-22.html,True
+short-sale-cash-as-is,UNCONFIRMED: Short sale lender-approval requirements and deficiency judgment rules not researched,,,False
+short-sale-cash-as-is,UNCONFIRMED: Whether as-is sales are exempt from disclosure not confirmed,,,False
+transfer-on-death-deed,"A TOD deed must meet recordable deed formalities, state the transfer occurs at the transferor's death, and be recorded before death in the county register of deeds.",SDCL 29A-6-408,https://sdlegislature.gov/api/Statutes/29A-6-408.html,True
+transfer-on-death-deed,"During the transferor's life a TOD deed does not affect the transferor's rights, including the right to transfer or encumber.",SDCL 29A-6-414,https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=29A-6-414&Type=Statute,False
+transfer-on-death-deed,A beneficiary takes subject to all liens and interests existing at the transferor's death.,SDCL 29A-6-416,https://sdlegislature.gov/Statutes/29A-6-416,False
+transfer-on-death-deed,The transfer is recorded by an affidavit of confirmation filed with the register of deeds.,SDCL 29A-6-427,https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=29A-6-427&Type=Statute,False
+transfer-on-death-deed,The statute provides an optional TOD deed form and a revocation form.,"SDCL 29A-6-430, 29A-6-431",https://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Statute=29A-6-430&Type=Statute,False
