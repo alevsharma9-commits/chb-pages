@@ -1,0 +1,121 @@
+{
+ "slug": "maine-recording-deeds",
+ "sections": [
+  {
+   "h2": "Where do you record a deed in Maine?",
+   "html": "<p>A Maine deed is recorded at the registry of deeds in the county where the land sits. If a parcel crosses a county line, the deed has to be recorded in each county it touches. <a href='https://legislature.maine.gov/statutes/33/title33sec201.html'>Title 33, section 201</a> sets this rule, and it adds that in a county with more than one registry district you use the district that is legal for that record.</p><p>The registry is a county office, not a state one. Androscoggin County, for example, lists its Registry of Deeds at 2 Turner Street, Unit 4, in Auburn, with an online search system on its county site. Knox County runs its own registry in Rockland and publishes its own cutoff time for same-day recording, which was 3:30 p.m. when we checked. Hours, mail-in rules and e-recording vendors differ from one registry to the next, so call the registry before you drive over or put a deed in the mail.</p><p>Maine does not record a deed at the town office. The town assessor receives a copy of the transfer information later, through the state, and that is how the municipal tax records learn about a new owner.</p>"
+  },
+  {
+   "h2": "What does it cost to record a deed in Maine?",
+   "html": "<p>The statutory base fee for a deed is $35, and most registries add a $5 records preservation surcharge, which puts the usual charge at $40 per document. The fee is flat per instrument, so a deed with ten pages costs the same as a deed with two.</p><table><thead><tr><th>Item</th><th>Amount</th><th>Source</th></tr></thead><tbody><tr><td>Recording fee, most instruments</td><td>$35 (statute)</td><td>33 M.R.S. section 751</td></tr><tr><td>Recording fee at the request of the State or a municipality</td><td>$25</td><td>33 M.R.S. section 751</td></tr><tr><td>Records preservation surcharge, which a register may collect</td><td>$5 per document (not charged to State or municipal filers)</td><td>33 M.R.S. section 752</td></tr><tr><td>Total shown on the registries' fee schedule</td><td>$40 for most filers, $25 for State and municipal filers</td><td>Maine Registers of Deeds fee page</td></tr><tr><td>Plans</td><td>$45 in statute, $50 per sheet on the registries' schedule</td><td>33 M.R.S. section 751; registries' fee page</td></tr><tr><td>Paper copy</td><td>$1 per page ($10 per page for plans)</td><td>33 M.R.S. section 751</td></tr><tr><td>Extra page added for the recording stamp</td><td>$2 per added page</td><td>33 M.R.S. section 653</td></tr></tbody></table><p>Fees are due when the document is offered for recording. The <a href='https://legislature.maine.gov/statutes/33/title33sec751.html'>fee statute</a> also says the first 400 electronic images a person gets from a county registry website in a calendar year are free, with 50 cents for each image after that.</p><p>Transfer tax is a separate charge on a sale deed. It is collected at the same counter and is covered in the next sections and on our <a href='/maine-transfer-tax/'>Maine transfer tax guide</a>.</p>"
+  },
+  {
+   "h2": "What does a deed need before the register will accept it?",
+   "html": "<p>The register needs the original signed deed, acknowledged before a notary or another authorized official, with a grantor and a grantee named. Maine's registries also ask for the printed name under each signature and, for a company, the typed company name at the signature so it can be indexed.</p><p>Acknowledgment matters for more than paperwork. Under <a href='https://legislature.maine.gov/statutes/33/title33sec203.html'>section 203</a>, most instruments have to be acknowledged by the signer before a Maine notary, a Maine-admitted attorney or a listed out-of-state or foreign official before they can be recorded. Court-issued instruments and certain foreclosure and tax lien documents are handled differently. Service members can acknowledge before designated commissioned officers.</p><p>Margins are where good deeds get sent back. The Maine Registers of Deeds Association wrote a margin standard on May 20, 2024, and Franklin County posts it:</p><ul><li>3/4 inch on the sides of every page</li><li>1 3/4 inches at the top of the first page and 1 inch at the top of other pages</li><li>1 1/2 inches at the bottom of the last page</li><li>No punched holes, stickers or writing inside a margin</li></ul><p>The county letter cites section 653, which lets a register charge $2 for each page added because the original lacked room for the recording information. A registry may also require the first page to leave room for its recording label. Knox County describes its label as 1 inch wide and 3 1/2 inches long.</p>"
+  },
+  {
+   "h2": "How does the transfer tax declaration work at recording?",
+   "html": "<p>Every sale deed comes with a Real Estate Transfer Tax Declaration, and the register computes the tax from the value on it and collects it before recording. The tax rate is $2.20 for each $500 of value, and the buyer and seller each pay half. Under <a href='https://legislature.maine.gov/statutes/36/title36sec4641-B.html'>section 4641-B</a>, payment is shown by an indicium of payment attached to the declaration.</p><p><a href='https://legislature.maine.gov/statutes/36/title36sec4641-D.html'>Section 4641-D</a> lists what the declaration carries: the value, the tax identification number of any business entity on either side, and the tax map and parcel number, or a statement that no suitable tax map exists. If the transfer is exempt, the declaration has to name the exemption. Maine Revenue Services says exemptions have to be claimed and identified on the form, because the register will not assume one.</p><p>Maine Revenue Services runs a free online database where a preparer can build the declaration, enter the grantor and grantee identification numbers and send it to the registry. If the register rejects it, the preparer gets an email. The state's own FAQ warns that if the preparer deletes the rejected declaration, the registry cannot record the deed.</p><p>After recording, the register sends declarations to the State Tax Assessor within 40 days, and the Assessor passes them to the municipal assessor by the 20th of the following month. That is why a new owner's name can take a few weeks to show on the town's records.</p>"
+  },
+  {
+   "h2": "Which Maine deeds skip the transfer tax but still get recorded?",
+   "html": "<p>Several common seller situations are exempt from the tax and still need a recorded deed. The exemption list sits in <a href='https://legislature.maine.gov/statutes/36/title36sec4641-C.html'>36 M.R.S. section 4641-C</a>, and the ones sellers meet most often are these:</p><ul><li>Deeds between spouses, parent and child, or grandparent and grandchild with no actual consideration</li><li>Deeds between spouses in divorce proceedings</li><li>Deeds of distribution from an estate under Title 18-C (and the older Title 18-B)</li><li>Transfers by transfer on death deed</li><li>Deeds given under the U.S. Bankruptcy Code</li><li>Corrective deeds that add no consideration and change no ownership</li><li>Deeds in lieu of foreclosure, where the owner giving the deed is exempt but the lender is not</li><li>Deeds to buyers using a Maine State Housing Authority first-time buyer mortgage program, exempt for both buyer and seller</li></ul><p>Maine Revenue Services' Property Tax Bulletin 31 adds that a gift or nominal-consideration deed is taxed on fair market value unless an exemption applies, and treats the adjusted assessed value as that value unless the local assessor says otherwise. A family transfer for real money is therefore not automatically exempt.</p>"
+  },
+  {
+   "h2": "Why does recording matter to someone selling a house?",
+   "html": "<p>A deed that is acknowledged and recorded protects the buyer against anyone else who claims the property, and until it is recorded the seller's name can stay on the public record. Section 201 says a conveyance is effective against third parties only when it is acknowledged and recorded, and a recorded deed takes priority over an unrecorded one and over unrecorded attachments.</p><p>For a seller, that has practical effects. Mortgage discharges are exempt from the tax and are recorded at the same registry, so a paid-off loan whose discharge was never recorded can still show up on the title when you sell. When you sell for cash, the closing agent normally brings the deed, the declaration and the fees to the registry, and you should ask for the book and page number when it is done.</p><p>If you are selling a house with title problems, such as an old unrecorded deed from a relative or a missing discharge, tell us early. Those items are easier to fix before a closing date is set.</p>"
+  },
+  {
+   "h2": "What mistakes delay a Maine deed recording?",
+   "html": "<ul><li>The notary block is blank or the signer's name does not match the typed name</li><li>The first page has no room at the top for the recording stamp</li><li>The declaration claims an exemption that does not fit the facts, or claims none when one applies</li><li>The deed names a seller who is deceased and no distribution deed or personal representative's authority is attached</li><li>A parcel in two counties is recorded in only one</li><li>The check is for the old fee, because the registry also adds the $5 surcharge</li></ul><p>Most registries will tell you the exact fee by phone. The Maine Registers of Deeds Association fee page lists the schedule, and the Maine Revenue Services transfer tax page links to the declaration forms and a tax chart.</p><p>This guide is general information, not legal advice. A Maine attorney or title company can confirm what your particular deed needs.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How much does it cost to record a deed in Maine?",
+   "a": "The statute sets $35 per deed, and most registries add a $5 records preservation surcharge, so $40 is the usual total. State and municipal filers pay $25. Transfer tax on a sale is charged on top of that."
+  },
+  {
+   "q": "Do I record a deed in the county or the town?",
+   "a": "You record it at the county registry of deeds where the land is located. If the parcel lies in two counties, record in both. The town receives transfer information through the state afterward."
+  },
+  {
+   "q": "Does a Maine deed have to be notarized?",
+   "a": "Yes, in almost every case. Section 203 requires the signer to acknowledge most instruments before a notary or other authorized official before the register can record them. Court-issued documents and certain foreclosure and tax lien papers follow different rules."
+  },
+  {
+   "q": "What margins does a Maine deed need?",
+   "a": "The Maine Registers of Deeds Association standard calls for 3/4 inch on the sides, 1 3/4 inches at the top of the first page, 1 inch at the top of later pages and 1 1/2 inches at the bottom of the last page, with no stickers or holes. A register can charge $2 for each page it has to add."
+  },
+  {
+   "q": "Who pays the transfer tax when the deed is recorded?",
+   "a": "The grantor and grantee each pay half, and the register collects it when the deed is offered for recording. The rate is $2.20 per $500 of value, with a higher rate on value above $1 million for transfers on or after November 1, 2025."
+  },
+  {
+   "q": "Can I record a deed myself?",
+   "a": "You can, since the registry is open to the public, but the deed has to be acknowledged, formatted correctly and accompanied by the declaration and fees. Many sellers leave it to the closing attorney or title company so a rejection does not delay the sale."
+  }
+ ],
+ "sources": [
+  {
+   "title": "33 M.R.S. section 751 Registry of deeds fees",
+   "url": "https://legislature.maine.gov/statutes/33/title33sec751.html"
+  },
+  {
+   "title": "33 M.R.S. section 752 Records preservation surcharge",
+   "url": "https://legislature.maine.gov/statutes/33/title33sec752.html"
+  },
+  {
+   "title": "33 M.R.S. section 653 Recording information",
+   "url": "https://legislature.maine.gov/statutes/33/title33sec653.html"
+  },
+  {
+   "title": "33 M.R.S. section 201 Priority of recording",
+   "url": "https://legislature.maine.gov/statutes/33/title33sec201.html"
+  },
+  {
+   "title": "33 M.R.S. section 203 Acknowledgment",
+   "url": "https://legislature.maine.gov/statutes/33/title33sec203.html"
+  },
+  {
+   "title": "36 M.R.S. section 4641-B Collection of transfer tax",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-B.html"
+  },
+  {
+   "title": "36 M.R.S. section 4641-C Exemptions",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-C.html"
+  },
+  {
+   "title": "36 M.R.S. section 4641-D Declaration of value",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-D.html"
+  },
+  {
+   "title": "Maine Revenue Services Real Estate Transfer Tax",
+   "url": "https://www.maine.gov/revenue/taxes/property-tax/transfer-tax"
+  },
+  {
+   "title": "Maine Revenue Services Property Tax Bulletin 31",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/bull31.pdf"
+  },
+  {
+   "title": "Maine RETT database FAQ",
+   "url": "https://www.maine.gov/REVENUE/faq/retto_faq.html"
+  },
+  {
+   "title": "Maine Registers of Deeds fee schedule",
+   "url": "https://maineregistryofdeeds.com/fees"
+  },
+  {
+   "title": "Franklin County margin requirement letter (Maine Registers of Deeds Association, May 20, 2024)",
+   "url": "https://www.franklincountymaine.gov/wp-content/uploads/2026/05/Margin-Requirement-Letter-5.20.2024.pdf"
+  },
+  {
+   "title": "Knox County Registry of Deeds recording information and fees",
+   "url": "https://knoxcountymaine.gov/county_departments/registry_of_deeds/recording_information_fees.php"
+  },
+  {
+   "title": "Androscoggin County Registry of Deeds",
+   "url": "https://androscoggincountymaine.gov/Deeds/Deeds.htm"
+  }
+ ]
+}

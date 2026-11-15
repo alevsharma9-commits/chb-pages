@@ -1,0 +1,89 @@
+{
+ "slug": "new-hampshire-eviction-process",
+ "sections": [
+  {
+   "h2": "How long does the eviction process take in New Hampshire?",
+   "html": "<p>The New Hampshire Judicial Branch describes an eviction as a short chain of dated steps: a written notice, a court writ, a return day, a hearing within about 10 days of the tenant's appearance, and a writ of possession that issues no sooner than 8 days after a loss at hearing. Add the notice period of 7 or 30 days and a landlord is looking at several weeks from first notice to a sheriff at the door, longer if the tenant appeals or asks for extra time.</p><p>That arithmetic matters when you own a rented house you want to sell. A buyer who needs the house vacant will ask for a date, and in this process only a court sets it. The sections below walk the steps in order, using the Judicial Branch video guide, the statutes in RSA 540 and the 603 Legal Aid walk-through.</p>"
+  },
+  {
+   "h2": "What are the steps, in order?",
+   "html": "<p>There are nine usual steps, and the first happens outside the courthouse. The table lists them with the timing each source gives.</p><table><thead><tr><th>Step</th><th>What happens</th><th>Timing</th></tr></thead><tbody><tr><td>1. Eviction notice</td><td>Landlord serves a written notice stating the reason</td><td>7 or 30 days under RSA 540:3</td></tr><tr><td>2. Writ</td><td>Landlord files a landlord and tenant writ after the notice expires</td><td>Sheriff serves the tenant</td></tr><tr><td>3. Return day</td><td>Writ goes back to the court; tenant files an appearance to contest</td><td>7 days from service</td></tr><tr><td>4. Hearing</td><td>Court schedules the merits hearing</td><td>Within 10 days after an appearance</td></tr><tr><td>5. Judgment</td><td>Court issues a written decision</td><td>Not always the same day</td></tr><tr><td>6. Writ of possession</td><td>Issues to the landlord; only a sheriff carries it out</td><td>No sooner than 8 days after the hearing, per 603 Legal Aid</td></tr><tr><td>7. Discretionary stay</td><td>Tenant may ask for more time</td><td>Judicial Branch says up to 90 days if rent is paid weekly</td></tr><tr><td>8. Notice of intent to appeal</td><td>Filed at the circuit court</td><td>Within 7 days</td></tr><tr><td>9. Supreme Court appeal</td><td>Appeal perfected at the New Hampshire Supreme Court</td><td>Within 30 days</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What does the landlord do before filing in court?",
+   "html": "<p>Before filing, the landlord serves the eviction notice and, for nonpayment, a demand for rent listing the unpaid dates and the amount owed. The Judicial Branch also tells landlords to record the date and time the papers were delivered in a certificate of service.</p><p>A nonpayment tenant still has the right to cure. Under <a href=\"https://www.gencourt.state.nh.us/rsa/html/LV/540/540-9.htm\">RSA 540:9</a>, paying all rent owed through the payment date, other lawful lease charges, $15 in liquidated damages and the landlord's filing and service fees before the merits hearing ends the case, and the landlord must file a receipt with the court. The cure is limited to 3 times in 12 months.</p><p>The court system also offers free remote mediation through its Office of Mediation and Arbitration at 603-271-6418, and the Judicial Branch recommends it as an optional step.</p>"
+  },
+  {
+   "h2": "What is the landlord and tenant writ, and what is the return day?",
+   "html": "<p>The writ is the summons that starts the court case, and the return day is the date by which the signed writ must be back at the court and by which the tenant must file an appearance. Under <a href=\"https://law.justia.com/codes/new-hampshire/title-lv/chapter-540/section-540-13/\">RSA 540:13</a>, the writ is returnable 7 days after the sheriff serves it.</p><p>The landlord can only file the writ after the eviction notice has expired, and must attach the expired notice, any demand for rent and the filing fee. A sheriff must serve it. Anyone can serve the eviction notice, but not the writ.</p><p>The return day is a filing deadline for the tenant and is not a hearing date. A tenant who files an appearance by then gets a hearing. A tenant who does not may be found in default, after which the court mails a default notice and, if the tenant does not respond, can issue a writ of possession. RSA 540:13 requires that default notice to be mailed at least 3 days before the writ issues.</p><p>603 Legal Aid also reports a new law effective October 8, 2026, requiring a tenant to file an answer within 5 days of the return day. Check the current court forms before you rely on the older appearance-only description.</p>"
+  },
+  {
+   "h2": "What happens at the hearing?",
+   "html": "<p>At the hearing the landlord has to prove the grounds for eviction by a preponderance of the evidence, meaning more likely than not, and has to show strict compliance with the notice and, for nonpayment, the demand for rent. The Judicial Branch says that when a landlord seeks only possession, the court can consider only the defenses set out in RSA 540, such as retaliation or violation of the health and safety standard.</p><p>The landlord can also ask for unpaid rent in the same case. The tenant's offsets and counterclaims are then considered, and any money judgment is capped at $1,500 per decision, though either side may sue separately for more (RSA 540:13). The hearing notice must be mailed at least 6 days before the hearing.</p><p>The judge may rule from the bench or by mail. If the tenant wins, the tenant stays and the court can award costs. If the landlord wins, a judgment for costs and a writ of possession follow after a short period.</p>"
+  },
+  {
+   "h2": "When can the tenant actually be made to leave?",
+   "html": "<p>A tenant has to leave only when a sheriff serves the writ of possession and orders them out, which is never on the day of a lost hearing. 603 Legal Aid says the writ is not given to the landlord any sooner than 8 days after the hearing, and that the landlord cannot serve it personally.</p><p>Two things can stretch the timeline:</p><ul><li>A discretionary stay: the Judicial Branch says the court may delay the writ for up to 90 days if the tenant keeps paying rent weekly. 603 Legal Aid's tenant guide describes a shorter maximum, so ask the clerk which figure the court is applying to your case.</li><li>An appeal: a notice of intent to appeal must be filed within 7 days of the notice of judgment, and the appeal perfected with the Supreme Court within 30 days. In nonpayment cases the tenant pays a weekly amount set by the court during the appeal, and missing payments can bring a default on appeal and the writ of possession.</li></ul><p>There is also a pay-and-stay route. A tenant may remain under an agreed schedule of timely payments, and missed payments can lead to eviction without another hearing.</p>"
+  },
+  {
+   "h2": "What if the tenant is in the house because the landlord lost it to foreclosure?",
+   "html": "<p>Even then a judge's permission is required. 603 Legal Aid lists a tenant renting an apartment or single-family home that the landlord has just lost to foreclosure among those entitled to the full process, so a bank that takes the property has to go through the same steps.</p><p>In practice the tenant process above applies whoever ends up as landlord. Our separate New Hampshire foreclosure guide covers the lender side.</p>"
+  },
+  {
+   "h2": "What mistakes slow a New Hampshire eviction down?",
+   "html": "<p>Most delays trace to notice errors or to self-help. The statute and the court materials point to a handful of repeat problems:</p><ul><li>A notice that does not state the reason with specificity, or a nonpayment notice that leaves out the right to cure.</li><li>Filing the writ before the notice period has fully run.</li><li>No demand for rent in a nonpayment case.</li><li>Changing locks, cutting utilities or removing belongings before the sheriff acts. RSA 540-A:3 bars willful lockouts and utility shutoffs without judicial process, and a tenant can file a 540-A petition.</li><li>Throwing away belongings too fast. The landlord must take reasonable care of a former tenant's property for 7 days after the tenant leaves.</li></ul><p>Each of these restarts the clock or exposes the owner to a claim. If you would rather not run the process at all, we buy New Hampshire houses as-is with tenants in place, and a conversation does not commit you to anything.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does an eviction take in New Hampshire?",
+   "a": "It varies, but the steps have set limits: a 7 or 30 day notice, a return day 7 days after the writ is served, a hearing within 10 days of the tenant's appearance, and a writ of possession no sooner than 8 days after the hearing. A stay or appeal can add time."
+  },
+  {
+   "q": "Can a New Hampshire landlord evict without going to court?",
+   "a": "No for a typical residential rental. The landlord must get a judge's permission, and only a sheriff can carry out the writ of possession. RSA 540-A:3 bars willful lockouts and utility shutoffs without judicial process."
+  },
+  {
+   "q": "What is the most a landlord can recover in an eviction case?",
+   "a": "The money judgment in a landlord and tenant writ case is capped at $1,500 per decision. Either party can bring a separate suit for more (RSA 540:13)."
+  },
+  {
+   "q": "Can the tenant appeal an eviction?",
+   "a": "Yes. The tenant files a notice of intent to appeal within 7 days of the notice of judgment and perfects the appeal with the Supreme Court within 30 days, and keeps paying rent during the appeal."
+  },
+  {
+   "q": "Is mediation available for New Hampshire evictions?",
+   "a": "Yes. The Judicial Branch offers free remote mediation through its Office of Mediation and Arbitration, reachable at 603-271-6418."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Navigating the New Hampshire Eviction Process, NH Judicial Branch",
+   "url": "https://www.courts.nh.gov/multimedia/navigating-new-hampshire-eviction-process"
+  },
+  {
+   "title": "Landlord Tenant mediation, NH Judicial Branch",
+   "url": "https://www.courts.nh.gov/resources/mediation/circuit-court-adr/landlord-tenant"
+  },
+  {
+   "title": "A Walk Through the Eviction Process, 603 Legal Aid",
+   "url": "https://www.603legalaid.org/self-help-articles/housing/eviction/walk-through/"
+  },
+  {
+   "title": "RSA 540:13, Possessory action writ, Justia",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lv/chapter-540/section-540-13/"
+  },
+  {
+   "title": "RSA 540:9, Right to cure, NH General Court",
+   "url": "https://www.gencourt.state.nh.us/rsa/html/LV/540/540-9.htm"
+  },
+  {
+   "title": "RSA 540:3, Eviction Notice, NH General Court",
+   "url": "https://www.gencourt.state.nh.us/rsa/html/LV/540/540-3.htm"
+  },
+  {
+   "title": "RSA 540-A:3, Prohibited landlord actions, Justia",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lv/chapter-540-a/section-540-a-3/"
+  }
+ ]
+}
