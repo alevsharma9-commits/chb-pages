@@ -1,0 +1,89 @@
+{
+ "slug": "michigan-eviction-process",
+ "sections": [
+  {
+   "h2": "How does an eviction start in Michigan?",
+   "html": "<p>A Michigan landlord cannot remove a tenant alone. The landlord serves a written notice, waits out the notice period, and then files a summary proceeding in district court. For unpaid rent the notice is a written demand for possession, and the tenant has 7 days from service to pay or leave (<a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5714\">MCL 600.5714(1)(a)</a>).</p><p>The statute sets short clocks for these cases, measured in days. That matters if you own a house with a tenant in it and plan to sell, because the court calendar sets how soon the property can be delivered empty.</p><p>The notice rule for rent is also stated in the landlord-tenant statute: when a tenant neglects or refuses to pay rent, the landlord may end the tenancy with a written 7-day notice to quit (<a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-134\">MCL 554.134(2)</a>).</p>"
+  },
+  {
+   "h2": "Which notices does Michigan law recognize before a case is filed?",
+   "html": "<p>Several, and each one ties to a different reason for ending the tenancy. The notice has to match the ground the landlord relies on, so a landlord who sends the wrong one can lose time.</p><ul><li>Unpaid rent: a written demand for possession, 7 days to pay or leave.</li><li>Controlled substance clause: a 24-hour written demand, but only where a formal police report has been filed.</li><li>Threat or injury to a person on the landlord's property: a 7-day written notice to quit, again tied to a police notification.</li><li>Serious health hazard or extensive damage discovered within 90 days before filing: a 7-day demand to hand back possession or repair.</li><li>Tenancy at will or by sufferance: one month's notice, or a notice equal to the rent interval if rent is paid more often than every 3 months.</li><li>Year-to-year tenancy: a notice to quit that ends the lease one year after service.</li></ul><p>These grounds come from <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5714\">MCL 600.5714</a> and <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-134\">MCL 554.134</a>. A tenant who stays after a lease ends under its own terms or by law also falls under summary proceedings.</p>"
+  },
+  {
+   "h2": "How must a landlord deliver a rent demand?",
+   "html": "<p>Michigan Legal Help lists four accepted ways: hand it to the tenant, give it to a household member old enough to accept it, mail it by first class mail, or send it by email when the tenant agreed in writing and replied to a confirming message. The demand must describe the rental, state the rent owed, say the tenant has seven days, and show the landlord's address and the notice date.</p><p>Taping a notice to the door, sliding it under the door, or mailing it by a method that needs a signature are given as examples of improper service. If you are the owner and the service was done wrong, restart the clock with a fresh demand before you file anything.</p>"
+  },
+  {
+   "h2": "What happens once the landlord files in district court?",
+   "html": "<p>The court issues a summons. Under the standard rule in <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5735\">MCL 600.5735</a>, trial is set within 10 days of issuance and the summons must be served at least 3 days before trial. A court may adopt a local rule that sets appearance 5 days after service instead. The hearing is to happen within 7 days after the appearance or trial date, and it can be pushed back further only by stipulation of the parties or on the record.</p><p>For unpaid rent the landlord has to show three things: the rent was not paid, a proper demand was served, and the tenant neither paid nor left within the seven days. A tenant may answer that the rent was paid, ask for a rent reduction for poor repair, or file a counterclaim for repair costs.</p><p>A tenant can also apply for rental assistance before the first court date or within 5 days after it. With proof of the application filed and served, the case is paused for 14 days and can be extended once for another 14. Owners planning a sale should factor in up to four extra weeks when assistance is pending.</p>"
+  },
+  {
+   "h2": "How soon can a court officer remove the occupants after judgment?",
+   "html": "<p>Usually not before 10 days have passed after the judgment for possession. That is the default under <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5744\">MCL 600.5744(5)</a>, and it matches the 10 days Michigan Legal Help describes for paying or moving out after a rent judgment.</p><p>The statute carves out faster paths. A writ can issue right after judgment, on conditions the court sets, when a unit was ordered vacated for lacking a required certificate of compliance, when entry was forcible or possession is held by force, when the occupant is a trespasser, when a serious health hazard or continuing damage is proven, or in the controlled substance case.</p><p>Slower paths exist too. After a land contract forfeiture, no writ issues for 90 days if less than half the price was paid, or for 6 months if half or more was paid. In rent cases, paying the judgment amount and taxed costs inside the window stops the writ. When the writ is carried out, the officer removes occupants and belongings and either leaves the belongings in an area open to the public or delivers them to the sheriff.</p>"
+  },
+  {
+   "h2": "What does the typical timeline look like?",
+   "html": "<table><caption>Michigan summary proceedings for unpaid rent, from the cited statutes and court guidance</caption><thead><tr><th>Stage</th><th>Time limit</th><th>Source</th></tr></thead><tbody><tr><td>Demand for possession served</td><td>7 days to pay or leave</td><td>MCL 600.5714(1)(a)</td></tr><tr><td>Summons, standard rule</td><td>Trial within 10 days of issuance, served at least 3 days before</td><td>MCL 600.5735(2)</td></tr><tr><td>Summons, local-rule option</td><td>Appearance within 5 days after service</td><td>MCL 600.5735(4)</td></tr><tr><td>Hearing after appearance</td><td>Within 7 days unless parties agree otherwise</td><td>MCL 600.5735(6)</td></tr><tr><td>Writ of restitution</td><td>Not before 10 days after judgment, with exceptions</td><td>MCL 600.5744(5)</td></tr><tr><td>Rental assistance pause</td><td>14 days, extendable to 28</td><td>Michigan Legal Help</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Can an owner change the locks or cut utilities to speed things up?",
+   "html": "<p>No. <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2918\">MCL 600.2918</a> makes it unlawful for an owner to interfere with a tenant's possession by force or threat, by removing or keeping the tenant's belongings, by changing locks without handing over keys, by boarding up, by removing doors or windows, or by shutting off heat, water, or electric service the landlord must supply.</p><p>A tenant who proves interference can recover actual damages or $200, whichever is greater, for each occurrence, and can recover possession if it was lost. A person forced out in a forcible and unlawful manner can recover three times actual damages or $200, whichever is greater. These rights cannot be waived in a lease.</p><p>The owner is protected when acting under a court order, when making needed repairs or inspections as the law allows, or when in good faith believing the tenant has abandoned the home after diligent inquiry and with current rent unpaid. Suits to regain possession must start within 90 days, and damage claims within one year.</p>"
+  },
+  {
+   "h2": "What changes when you sell a rented house in Michigan?",
+   "html": "<p>The security deposit follows the house. Under <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-614\">MCL 554.614</a>, a landlord whose interest ends by sale stays liable for the deposit until it is passed to the successor with written notice to the tenant by ordinary mail, until the successor meets the deposit rules, or until the tenant gets it back. Settle that at closing and keep proof of the mailing.</p><p>The statute also lets a new owner recover possession by summary proceedings in two sale-related cases: occupants who stay after a mortgage or execution sale once the redemption time has run, and occupants who stay after a personal representative sells under probate court license or will authority (MCL 600.5714(1)(g) and (h)). Beyond those, whether a lease survives a sale depends on the lease text and the notices already served. Ask the district court clerk for the county where the house sits, or a Michigan attorney, before you promise a buyer a vacant house.</p><ul><li>Gather the lease, rent ledger, deposit amount, and any notice already served.</li><li>Do not serve a new notice until you know which ground applies.</li><li>Tell any buyer whether the house will be delivered occupied or empty, and put the deposit transfer in the closing papers.</li></ul>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is a 7-day notice enough to evict for unpaid rent in Michigan?",
+   "a": "It is the first step, not the last. After the 7 days run, the landlord must file in district court, win a judgment for possession, and wait for a writ, which normally cannot issue until 10 days after judgment (MCL 600.5744(5))."
+  },
+  {
+   "q": "Can I end a tenancy at will so I can sell?",
+   "a": "Yes, through a notice to quit and then summary proceedings if the tenant stays. A tenancy at will or by sufferance ends on one month's notice, or a period equal to the rent interval when rent is paid more often than every 3 months (MCL 554.134(1))."
+  },
+  {
+   "q": "Does paying the judgment stop the eviction?",
+   "a": "For rent cases, yes, if the full judgment amount and taxed costs are paid to the landlord within the time provided. A writ of restitution must not issue after that payment (MCL 600.5744(7))."
+  },
+  {
+   "q": "What if the tenant applies for rental assistance?",
+   "a": "The case is paused for 14 days when proof of the application is filed and served, and the pause can be extended for 14 more days with a status update. Michigan Legal Help describes this process for nonpayment cases."
+  },
+  {
+   "q": "Who gets the security deposit when the landlord sells?",
+   "a": "The seller stays responsible until the deposit moves to the buyer and the tenant gets written notice by ordinary mail with the buyer's name and address, or until the tenant is refunded (MCL 554.614)."
+  }
+ ],
+ "sources": [
+  {
+   "title": "MCL 600.5714, summary proceedings to recover possession",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5714"
+  },
+  {
+   "title": "MCL 554.134, termination of tenancies",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-554-134"
+  },
+  {
+   "title": "MCL 600.5735, summons and hearing",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5735"
+  },
+  {
+   "title": "MCL 600.5744, writ of restitution",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5744"
+  },
+  {
+   "title": "MCL 600.2918, forcible entry and unlawful interference",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2918"
+  },
+  {
+   "title": "MCL 554.614, security deposit on termination of landlord's interest",
+   "url": "https://legislature.mi.gov/Laws/MCL?objectName=mcl-554-614"
+  },
+  {
+   "title": "Michigan Legal Help, Eviction for Nonpayment of Rent",
+   "url": "https://michiganlegalhelp.org/resources/housing/eviction-nonpayment-of-rent"
+  }
+ ]
+}
