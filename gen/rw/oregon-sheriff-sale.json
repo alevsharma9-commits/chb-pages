@@ -1,0 +1,77 @@
+{
+ "slug": "oregon-sheriff-sale",
+ "sections": [
+  {
+   "h2": "What is the difference between a sheriff sale and a trustee's sale in Oregon?",
+   "html": "<p>A sheriff sells the house after a court judgment, while a trustee sells it under a trust deed without a court case. Oregon uses both, and the rules for notice, timing and what follows the sale are different.</p>\n<table>\n<thead><tr><th>Track</th><th>Who runs the sale</th><th>Key facts</th></tr></thead>\n<tbody>\n<tr><td>Trustee's sale (nonjudicial)</td><td>The trustee named in the trust deed</td><td>Held after 9 a.m. and before 4 p.m. in a county where the property sits (ORS 86.782). Notice is served or mailed at least 120 days ahead (ORS 86.764).</td></tr>\n<tr><td>Judicial foreclosure</td><td>Sheriff, after a court judgment</td><td>Filed as a suit (ORS 88.010). Sale and redemption follow the execution-sale rules (ORS 88.106).</td></tr>\n<tr><td>Execution sale on a money judgment</td><td>Sheriff</td><td>Public oral auction between 9 a.m. and 4 p.m. (ORS 18.930).</td></tr>\n</tbody>\n</table>\n<p>This page focuses on the sheriff side. The sources are chapters <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors018.html\">18</a>, <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors086.html\">86</a> and <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors088.html\">88</a> of the Oregon Revised Statutes.</p>"
+  },
+  {
+   "h2": "How does an Oregon sheriff give notice of a real property sale?",
+   "html": "<p>In four ways at once: a website, a newspaper, the mail and the property itself. ORS 18.924 sets the steps for a sale of real property.</p>\n<ul>\n<li>The sheriff posts the notice on the legal notices website for at least 28 days.</li>\n<li>The notice also runs in a county newspaper once a week for four successive weeks.</li>\n<li>At least 28 days before the sale, the sheriff mails it to the debtor by first-class and certified mail, and to the debtor's attorney and listed persons by first-class mail.</li>\n<li>If a street address is given, a copy is posted on the property within seven days after the mailing.</li>\n</ul>\n<p>The judgment creditor supplies the list of people who must be told. For real property, ORS 18.918 includes the debtor, any attorney named in the judgment, later lienholders and people who recorded interests from the debtor in a set window. In a foreclosure judgment, the list is the parties to the action. A missed name does not void the sale, but the creditor's certification can draw sanctions.</p>"
+  },
+  {
+   "h2": "How does the sale itself work, and can it be postponed?",
+   "html": "<p>It is a public oral auction held between 9 a.m. and 4 p.m. The judgment creditor must give the sheriff any title report at least 10 days before the first set sale date, and a county may collect a fee at the sale (ORS 18.930).</p>\n<p>Several rules limit who buys and how much is sold. The sheriff sells only what is necessary to satisfy the judgment, and the sheriff and deputies cannot buy at the sale or take an interest because of it (ORS 18.934).</p>\n<p>Postponements are built into the statute. Under ORS 18.932 the sheriff may postpone if the sale cannot proceed at the noticed time, if there are no buyers, or for other sufficient cause. The sheriff must postpone on the creditor's request, up to the return date. Multiple postponements are allowed, and no new notice of sale is needed.</p>\n<p>A date printed on a notice is therefore a starting point, because a creditor's request or other cause can move it.</p>"
+  },
+  {
+   "h2": "What happens right after the sheriff sells a house?",
+   "html": "<p>The sheriff prepares a certificate of sale, and the purchaser records it in the County Clerk Lien Record. ORS 18.942 says the certificate states whether the property is subject to redemption.</p>\n<p>A real property sale is presumed to have been properly conducted unless the debtor or another affected person files an objection within 10 days after the sheriff's return is filed (ORS 18.948). If someone objects, the court holds a hearing and confirms the sale unless the objector shows the sale did not substantially conform to the law and probably caused damage. If the objection is sustained, the property is resold and the sheriff may not accept a bid below the first price.</p>\n<p>The purchaser can take possession from the sale date until any redemption, and a tenant with an unexpired lease may stay through the redemption period by paying the greater of the value of use and occupancy or the lease payments (ORS 18.946). For a trustee's sale, the buyer is entitled to possession on the tenth day after the sale (ORS 86.782).</p>"
+  },
+  {
+   "h2": "Who can redeem a property after an Oregon sheriff sale, and what does it cost?",
+   "html": "<p>The judgment debtor, a mortgagor whose interest was sold, a junior lienholder, or a successor to any of them. ORS 18.963 lists these redeemers, and a person who has conveyed all of their interest to a successor cannot redeem.</p>\n<p>The redemption windows are 180 days for the debtor and 60 days for a lien claimant (ORS 18.964). To redeem from the purchaser, the claimant pays the purchase price with interest at nine percent per year from the sale date. Taxes, costs to prevent waste, senior liens and homeowners' association assessments that the purchaser paid are added, each with nine percent interest from the date of payment (ORS 18.966).</p>\n<p>When a later claimant redeems from an earlier redemptioner, the amounts include that person's payment with nine percent interest, the redemptioner's lien, and the same categories of extra payments (ORS 18.967). Each redemption starts a new 60-day window for lien claimants (ORS 18.964).</p>\n<p>Unless the debtor redeems, the sheriff delivers a deed to the certificate holder on request and payment of the statutory fee, as soon as possible (ORS 18.985). A court may order a deed early if the certificate holder has acquired all redemption rights.</p>"
+  },
+  {
+   "h2": "What can a homeowner do before a foreclosure sale in Oregon?",
+   "html": "<p>A lender on a residential trust deed generally has to offer a resolution conference before it can foreclose. <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors086.html\">ORS 86.726</a> says a lender that intends to foreclose a residential trust deed must first request a conference with the borrower, unless it qualifies for a limited exemption based on how few actions it filed the previous year.</p>\n<p>The Oregon Housing and Community Services page on the <a href=\"https://www.oregon.gov/ohcs/homeownership/pages/foreclosure-avoidance.aspx\">Foreclosure Avoidance Program</a> explains how it works in practice:</p>\n<ul>\n<li>The Department of Justice oversees the program, and a Mediation Case Manager handles day-to-day operations.</li>\n<li>Homeowners pay a fee to the case manager, meet a housing counselor, submit documents, and attend the conference with a neutral facilitator.</li>\n<li>Low-income homeowners may have all but $50 of the fee waived.</li>\n<li>Housing counselors are free, and OHCS keeps a list of approved agencies.</li>\n<li>The lender must send a representative with full authority to negotiate, but it does not have to modify the loan.</li>\n</ul>\n<p>The statute caps the grantor's fee at $200 and the lender's at $600, with the conference scheduled within 10 days of a request and held within 75 days after notice (ORS 86.729). Missing the fee deadline leads the case manager to cancel the conference and issue a certificate of compliance, after which the lender may go ahead.</p>\n<p>Help lines listed on the state page include the Mediation Case Manager at 855-658-6733 and the Department of Justice Consumer Protection Hotline at 877-877-9392 for scam reports. The page also warns that scammers pose as foreclosure help.</p>"
+  },
+  {
+   "h2": "How do junior lienholders and judicial foreclosure timing affect a sheriff sale?",
+   "html": "<p>Junior lienholders have to be named in the suit, or they keep some rights. Under <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors088.html\">ORS 88.030</a>, a junior holder left out of the case who does not redeem within five years of the sheriff's sale is barred from later action on that interest.</p>\n<p>Some other points in chapter 88 matter for owners:</p>\n<ul>\n<li>Paying the amount due and costs before judgment dismisses the suit. Paying after judgment but before sale ends the judgment's effect for the amount paid (ORS 88.100).</li>\n<li>A foreclosure judgment is enforced by execution. If the sale falls short, a money award can be enforced like an ordinary judgment (ORS 88.060).</li>\n<li>For certain purchase-money mortgages, including seller-financed ones and some residential mortgages of $50,000 or less, the judgment remedies for unpaid amounts end at the sale (ORS 88.103).</li>\n<li>A mortgage lien ends 10 years after the later of maturity, the end of the debt term or an agreed extension, with exceptions (ORS 88.110 and 88.120).</li>\n</ul>\n<p>In a trustee's sale, a subsequent lienholder who did not get required notice gets the rights of an omitted junior lienholder in a judicial foreclosure, and those are the exclusive remedies (ORS 86.767).</p>"
+  },
+  {
+   "h2": "What does a trustee's sale add to the timeline?",
+   "html": "<p>It adds a long runway, plus an extra publication step. Notice of sale must be served on an occupant at least 120 days before the sale, and it must run once a week for four successive weeks in a newspaper of general circulation, with the last publication more than 20 days before the sale (ORS 86.774).</p>\n<p>The notice states the date, time and place of sale, and the right to reinstate no later than five days before the last date set (ORS 86.771). The sale may be postponed for periods totaling no more than 180 days from the original date, and notice of a new date must be given at least 15 days ahead unless the postponement is two calendar days or less (ORS 86.782).</p>\n<p>The trustee delivers the deed within 10 days after the purchaser pays, and the trustee may rescind within 10 calendar days after the sale only on listed grounds, such as a bona fide error. Where the property has dwelling units, ORS 86.782 gives tenants at least 60 days after a written termination notice in the fixed-term case, or 30 days for the other categories it lists.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long do I have to redeem my house after an Oregon sheriff sale?",
+   "a": "A judgment debtor has 180 days after the sale. A lien claimant has 60 days. The redemption price is the purchase price plus nine percent yearly interest and any taxes or senior liens the buyer paid (ORS 18.964 and 18.966)."
+  },
+  {
+   "q": "Can an Oregon sheriff sale be postponed?",
+   "a": "Yes. The sheriff can postpone if the sale cannot go forward, if there are no buyers, or for other sufficient cause, and must postpone at the creditor's request up to the return date. A postponement does not require a new notice of sale (ORS 18.932)."
+  },
+  {
+   "q": "Where is an Oregon foreclosure sale held?",
+   "a": "A trustee's sale must be held in a county where the property is located, between 9 a.m. and 4 p.m. A sheriff sale is a public oral auction, also held between 9 a.m. and 4 p.m. (ORS 86.782 and 18.930)."
+  },
+  {
+   "q": "Can the sheriff buy the property at the sale?",
+   "a": "No. The sheriff and deputies may not buy property at the sale or get any interest in it because of the sale (ORS 18.934)."
+  },
+  {
+   "q": "Is there free help for Oregon homeowners facing foreclosure?",
+   "a": "Yes. The state Foreclosure Avoidance Program connects homeowners with free housing counselors and a resolution conference with their lender. The Mediation Case Manager's number is 855-658-6733."
+  }
+ ],
+ "sources": [
+  {
+   "title": "ORS Chapter 18, Oregon Legislature",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors018.html"
+  },
+  {
+   "title": "ORS Chapter 86, Oregon Legislature",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors086.html"
+  },
+  {
+   "title": "ORS Chapter 88, Oregon Legislature",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors088.html"
+  },
+  {
+   "title": "Oregon Housing and Community Services, Foreclosure Avoidance",
+   "url": "https://www.oregon.gov/ohcs/homeownership/pages/foreclosure-avoidance.aspx"
+  }
+ ]
+}

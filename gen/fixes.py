@@ -2,7 +2,8 @@
 import json,glob,re
 FIX=[('iowa-capital-gains-tax','requires holding at least 10 years'),
      ('arkansas-estate-tax','2013'),
-     ('oregon-homestead-exemption','up to $150,000')]
+     ('oregon-homestead-exemption','up to $150,000'),
+     ('polk-county-or-property-tax-guide','loaded blank via Firecrawl')]
 n=0
 for f in glob.glob('pages/*/*.json'):
     items=json.load(open(f));ch=False
