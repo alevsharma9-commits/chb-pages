@@ -1,0 +1,113 @@
+{
+ "slug": "minnesota-eviction-process",
+ "sections": [
+  {
+   "h2": "What are the steps of a Minnesota eviction case?",
+   "html": "<p>A landlord files a complaint in district court, the court issues a summons for a hearing, the tenant answers at that appearance, and a judge or jury decides the case. If the landlord wins, the court enters judgment for possession and issues a writ of recovery of premises and order to vacate. The rules sit in <a href=\"https://www.revisor.mn.gov/statutes/cite/504B.321\">Minn. Stat. 504B.321</a> and the sections around it in chapter 504B.</p>\n<p>The complaint must name the person being sued (with a date of birth when known), describe the premises, state the facts that justify taking possession, and ask for possession. Attachments depend on the claim:</p>\n<ul><li>The current written lease and any addenda.</li><li>An itemized accounting when the claim is unpaid rent.</li><li>For a lease breach, the clause relied on, the conduct, and the dates.</li><li>Any notice to vacate or notice to quit, when holding over is the claim.</li><li>A statement of whether Section 8, tax credit, or another subsidy program covers the tenancy, with the administering agency named.</li></ul>\n<p>The Judicial Branch publishes form HOU102, the Eviction Complaint, and lets landlords build forms through <a href=\"https://mncourts.gov/help-topics/landlords/forms\">Minnesota Guide and File</a>, which can allow electronic filing in some cases. A Self-Help Center at the Minnesota Judicial Center, Room G25, 25 Rev. Dr. Martin Luther King Jr. Blvd., St. Paul, helps people without a lawyer.</p>"
+  },
+  {
+   "h2": "How does a Minnesota tenant have to be served?",
+   "html": "<p>The summons and complaint must reach the tenant at least seven days before the court date, by one of the methods in <a href=\"https://www.revisor.mn.gov/statutes/cite/504B.332\">Minn. Stat. 504B.332</a>. That section was added in 2024 and replaced the older section 504B.331, which the legislature repealed.</p>\n<p>The default method is service the way a civil summons is served in district court. When the tenant cannot be found in the county, the papers can be left with a person of suitable age at the last usual home. If those fail, the landlord can mail the papers and post them on the unit door, but only after at least two personal service attempts on different days, one of them between 6:00 p.m. and 10:00 p.m. An affidavit of service is due at least three days before the hearing.</p>\n<p>A landlord who regularly texts or emails the tenant must also send a time-stamped message with the hearing date, time, and place at least seven days ahead. If the tenant does not appear, the trial goes ahead without them.</p>"
+  },
+  {
+   "h2": "What happens at a Minnesota eviction hearing and trial?",
+   "html": "<p>At the appearance named in the summons the tenant may answer, and the court then sets a trial date that allows a fair and timely decision, taking account of complexity, discovery, witnesses, and the chance to find a lawyer (<a href=\"https://www.revisor.mn.gov/statutes/cite/504B.335\">Minn. Stat. 504B.335</a>). Either side may demand a jury, and the case otherwise runs like other civil actions.</p>\n<p>Courts may not make a tenant pay money into court, post a bond, or pay the landlord directly before the case ends. The one exception is a case likely to last more than ten days, where the court may order security capped at the periodic rent that accrues while the case is pending, with nothing for amounts owed before the filing date.</p>\n<p>Two types of case move faster. A complaint under <a href=\"https://www.revisor.mn.gov/statutes/cite/504B.171\">section 504B.171</a> (drugs, prostitution, unlawful firearms, stolen property) or one alleging serious danger to other residents or intentional serious damage can get an expedited hearing five to seven days after the summons issues, with service inside 24 hours. A landlord who asks for expedited handling without enough basis can face a civil penalty of up to $500.</p>"
+  },
+  {
+   "h2": "How fast can a Minnesota tenant be removed after judgment?",
+   "html": "<p>After a ruling for the landlord, the court tells the sheriff or another officer to remove the tenant, usually after a stay of up to seven days. Each stage has its own clock.</p>\n<table><caption>Deadlines in a Minnesota eviction case</caption><thead><tr><th>Stage</th><th>Timing</th><th>Statute</th></tr></thead><tbody><tr><td>Appearance date on the summons</td><td>7 to 14 days after issuance</td><td>504B.321</td></tr><tr><td>Service of summons and complaint</td><td>At least 7 days before the appearance</td><td>504B.332</td></tr><tr><td>Expedited appearance</td><td>5 to 7 days after issuance</td><td>504B.321, subd. 2</td></tr><tr><td>Stay of the writ after judgment</td><td>Up to 7 days (not for default or expedited cases)</td><td>504B.345</td></tr><tr><td>Notice of appeal</td><td>Within 15 days</td><td>504B.371</td></tr><tr><td>Officer's demand to leave</td><td>Within 24 hours</td><td>504B.365</td></tr><tr><td>Public sale of unclaimed stored property</td><td>After 60 days without payment</td><td>504B.365</td></tr></tbody></table>\n<p>Source: <a href=\"https://www.revisor.mn.gov/statutes/cite/504B\">Minnesota Statutes chapter 504B</a>. A tenant who says they will appeal gets a stay of the writ for at least 24 hours, and if they stay in the home during the appeal the bond covers only regular rent as it comes due, never back rent or late fees. If the landlord holds the tenant's belongings, the landlord must prepare a signed, dated inventory with the officer present and mail a copy to the tenant.</p>"
+  },
+  {
+   "h2": "Can a Minnesota tenant stop an eviction by paying?",
+   "html": "<p>For a nonpayment case, yes, until possession is delivered. Under <a href=\"https://www.revisor.mn.gov/statutes/cite/504B.291\">Minn. Stat. 504B.291</a> the tenant can redeem the tenancy by paying the rent in arrears with interest, the costs of the action, and an attorney's fee that cannot exceed $5, and by keeping the other lease promises. A written guarantee of funds from a government agency or a tax-exempt group that runs a rental assistance program can stand in for cash.</p>\n<p>Redemption is unavailable when the landlord also alleges a material lease violation. The statute also says a partial payment taken before the writ issues counts toward the balance without ending the case only if both sides agreed to that in writing. Once a landlord gets possession, a certified copy of the judgment is recorded with the county recorder, or the registrar of titles for registered land.</p>"
+  },
+  {
+   "h2": "What does an eviction mean when a landlord wants to sell the rented house?",
+   "html": "<p>A tenant living in a house that is up for sale can be removed only through the court steps above, and several Minnesota rules shape what a buyer inherits.</p>\n<ul><li>Foreclosure: a tenant whose lease began after the mortgage date and before redemption ended must get at least 90 days' written notice to vacate from the new owner, and a bona fide lease running longer can last to its end (<a href=\"https://www.revisor.mn.gov/statutes/cite/504B.285\">Minn. Stat. 504B.285</a>, subd. 1a).</li><li>Deposits: when a landlord's interest ends by sale, the deposit and interest must be passed to the buyer or returned to the tenant within 60 days, and the buyer can limit its duty to the stated amount if the tenant does not object within 20 days (<a href=\"https://www.revisor.mn.gov/statutes/cite/504B.178\">Minn. Stat. 504B.178</a>, subds. 5 and 6).</li><li>Disclosure: the seller disclosure rules do not apply to a transfer to a tenant in possession (<a href=\"https://www.revisor.mn.gov/statutes/cite/513.54\">Minn. Stat. 513.54</a>).</li><li>No self-help: forcing a tenant out or removing belongings outside the court process is unlawful ouster under section 504B.365, subd. 5.</li></ul>\n<p>The records side matters too. An eviction file is closed to the public until final judgment, and a case dismissed for defective filing or service is expunged under 504B.321. Check the county recorder for any recorded judgment before closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a Minnesota eviction take from filing to move-out?",
+   "a": "The statutes set no single total. The first hearing falls 7 to 14 days after the summons issues, the court then picks a trial date based on the case, and a stay of up to seven days follows a judgment for the landlord. An appeal or a redemption payment can change the timeline."
+  },
+  {
+   "q": "Can a Minnesota landlord change the locks or remove a tenant's belongings?",
+   "a": "No. Section 504B.281 bars taking possession by force, and section 504B.365 limits removal to the officer executing the court's order. A landlord who removes belongings outside that process commits an unlawful ouster unless the premises were abandoned."
+  },
+  {
+   "q": "How long does a tenant have to appeal an eviction judgment in Minnesota?",
+   "a": "Fifteen days, following the civil appeal rules for district court. Telling the court of the intent to appeal brings a stay of the writ for at least 24 hours, and a tenant who remains in the home posts a bond for regular rent only."
+  },
+  {
+   "q": "Is a Minnesota eviction case a public record?",
+   "a": "Not until the court enters a final judgment. Before that, only the parties and licensed attorneys helping them can see the file. A case the tenant wins, or one dismissed for a defective filing, is expunged."
+  },
+  {
+   "q": "What happens to a tenant's deposit when the landlord sells?",
+   "a": "Within 60 days of the sale the landlord must transfer the deposit with interest to the buyer and notify the tenant, or return it to the tenant. The buyer takes the landlord's rights and duties over the deposit under Minn. Stat. 504B.178."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Minn. Stat. 504B.321 Complaint and Summons",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.321"
+  },
+  {
+   "title": "Minn. Stat. 504B.332 Summons and Complaint; How Served",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.332"
+  },
+  {
+   "title": "Minn. Stat. 504B.335 Answer; Trial",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.335"
+  },
+  {
+   "title": "Minn. Stat. 504B.345 Judgment; Execution",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.345"
+  },
+  {
+   "title": "Minn. Stat. 504B.365 Execution of the Writ",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.365"
+  },
+  {
+   "title": "Minn. Stat. 504B.371 Appeals",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.371"
+  },
+  {
+   "title": "Minn. Stat. 504B.291 Nonpayment; Redemption",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.291"
+  },
+  {
+   "title": "Minn. Stat. 504B.285 Eviction Actions; Grounds",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.285"
+  },
+  {
+   "title": "Minn. Stat. 504B.171 Unlawful Activities Covenant",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.171"
+  },
+  {
+   "title": "Minn. Stat. 504B.178 Security Deposits",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.178"
+  },
+  {
+   "title": "Minn. Stat. 504B.281",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B.281"
+  },
+  {
+   "title": "Minn. Stat. 513.54 Exceptions",
+   "url": "https://www.revisor.mn.gov/statutes/cite/513.54"
+  },
+  {
+   "title": "Chapter 504B Landlord and Tenant",
+   "url": "https://www.revisor.mn.gov/statutes/cite/504B"
+  },
+  {
+   "title": "Forms - Landlord Resources, Minnesota Judicial Branch",
+   "url": "https://mncourts.gov/help-topics/landlords/forms"
+  },
+  {
+   "title": "Form HOU102 Eviction Complaint",
+   "url": "https://mncourts.gov/getforms/housing-landlord-tenant/form-hou102-eviction-complaint"
+  }
+ ]
+}
