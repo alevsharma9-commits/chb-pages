@@ -1,0 +1,105 @@
+{
+ "slug": "montana-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Montana have an estate or inheritance tax?",
+   "html": "<p>No. The Montana Department of Revenue states that Montana no longer collects estate or inheritance taxes. The inheritance tax was repealed in November 2000 and does not apply to deaths after January 1, 2001, and Montana has no estate tax for deaths after 2004.</p><p>For heirs, that means no Montana death tax return stands between a house and its sale. The department also says Montana no longer requires a certificate or consent from it to close probate or transfer securities. Other costs can still arise, so the sections below walk through them.</p>"
+  },
+  {
+   "h2": "Is there a federal estate tax that could reach a Montana house?",
+   "html": "<p>Only for large estates. The IRS lists a basic exclusion amount of $15,000,000 for people who die in 2026, and an annual gift exclusion of $19,000 per recipient for gifts made in 2026.</p><table><thead><tr><th>Item</th><th>Amount</th><th>Source</th></tr></thead><tbody><tr><td>Montana inheritance tax</td><td>Repealed; none for deaths after January 1, 2001</td><td>Montana DOR</td></tr><tr><td>Montana estate tax</td><td>None for deaths after 2004</td><td>Montana DOR</td></tr><tr><td>Federal basic exclusion, year of death 2026</td><td>$15,000,000</td><td>IRS</td></tr><tr><td>Federal annual gift exclusion, 2026</td><td>$19,000 per recipient</td><td>IRS</td></tr></tbody></table><p>An estate below the federal figure does not owe federal estate tax on that basis. Anyone who thinks an estate might approach the threshold should ask an estate attorney, since a house is only one asset in the total.</p>"
+  },
+  {
+   "h2": "What taxes can still apply when heirs sell an inherited Montana home?",
+   "html": "<p>Income tax on the estate, income tax on any gain, and property tax are the three that remain. None of them is a death tax, but each can affect what the heirs net.</p><ul><li>Fiduciary income tax: the estate's personal representative may need to file Montana Form FID-3 if a federal Form 1041 was filed and the decedent owned Montana property or had Montana-source income.</li><li>Capital gains: a sale for more than the basis produces a gain, discussed in the next section.</li><li>Property tax: the county still bills the house, and the first half and second half dates keep running during probate.</li></ul><p>Our <a href=\"/montana-capital-gains-tax/\">Montana capital gains guide</a> covers the income tax rates in detail.</p>"
+  },
+  {
+   "h2": "What is the tax basis of an inherited house in Montana?",
+   "html": "<p>The basis is generally the fair market value on the date the owner died. IRS Publication 551 lists the fair market value at the date of death as the usual starting point for property inherited from a decedent.</p><p>If you did not receive a Schedule A showing the estate tax value, the IRS says you can determine basis from the appraised value at the date of death for state inheritance or transmission tax purposes. Because Montana has no such tax, an independent appraisal is the practical way to document value.</p><p>Joint ownership and community property have special rules. When either spouse dies, the total value of community property generally becomes the basis of the entire property. Read Publication 551 closely if a surviving joint tenant or spouse held title with the decedent.</p>"
+  },
+  {
+   "h2": "Who can sell the house, and how does probate affect that?",
+   "html": "<p>The personal representative can sell estate real estate once appointed, unless the will or a court order restricts it. Montana's Uniform Probate Code, <a href=\"https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0060/section_0130/0720-0030-0060-0130.html\">MCA 72-3-613</a>, says a personal representative acting reasonably for the benefit of interested persons may acquire or dispose of an asset, including land, for cash or on credit, at public or private sale.</p><p>The same section lets the representative make repairs, lease property, insure assets, pay taxes and assessments, and hire attorneys or agents. A restriction in a will or a formal-proceeding order can limit those powers, so a buyer or title company will want to see the letters of appointment.</p><p>The Montana Judicial Branch says state law provides for both informal and formal probate. The choice depends on the value of the estate and whether the decedent left a valid will. The court's self-help page offers a probate questionnaire, an affidavit of death, a small estate packet and a fiduciary statement.</p>"
+  },
+  {
+   "h2": "How can a Montana house pass without probate?",
+   "html": "<p>Some houses transfer on death without a court case, and those transfers are recorded with a form. The Montana Realty Transfer Certificate lists transfers by operation of law, including termination of joint tenancy or a life estate by death and a transfer on death deed.</p><table><thead><tr><th>Type of transfer</th><th>Documents the certificate asks you to attach</th></tr></thead><tbody><tr><td>Termination of joint tenancy or life estate by death</td><td>Certified death certificate</td></tr><tr><td>Transfer on death deed</td><td>Recorded transfer on death deed and certified death certificate</td></tr><tr><td>Court decree</td><td>Certified copy of the order or decree</td></tr></tbody></table><p>The Judicial Branch page lists an optional form of transfer on death deed under MCA 72-6-415. Heirs who receive a house this way can sell it after recording, but they should have the title company review the chain of documents first.</p>"
+  },
+  {
+   "h2": "What does property tax look like for an heir who does not live in the house?",
+   "html": "<p>The reduced rate for primary residences depends on someone living there. Under the Department of Revenue's 2026 structure, a primary residence qualifies for tiered rates of 0.76% on the first $378,000 of value, 0.90% to $756,000, 1.10% to $1,511,999 and 1.90% above that.</p><p>A property that is not a primary residence or a qualifying long-term rental falls under a flat 1.90%, a rate the department lists for second homes, short-term rentals and vacant residential lots. An inherited house that sits empty during probate can therefore cost more in tax than it did while the owner lived there.</p><p>Unpaid property tax becomes delinquent with a 2% penalty and interest of 5/6 of 1% a month under MCA 15-16-102. The personal representative has power to pay taxes and assessments as an expense of administration, so paying on time is part of the job.</p>"
+  },
+  {
+   "h2": "What documents do heirs need before listing or selling?",
+   "html": "<p>A title company will usually ask for proof of who has authority to sign. The checklist below is a common starting point, and your title officer may add items.</p><ul><li>Certified death certificate.</li><li>Letters of appointment for the personal representative, or the recorded transfer on death deed.</li><li>A date-of-death appraisal to support the tax basis.</li><li>Current property tax bill and any delinquency notices.</li><li>A completed Realty Transfer Certificate, including the water right disclosure.</li></ul><p>The certificate carries a $500 penalty, six months in jail, or both for filing an inaccurate or incomplete form, so accuracy matters even for a family transfer. Some transfers, such as a decedent's estate property or a termination of joint tenancy by death, are exceptions from providing sales price information.</p>"
+  },
+  {
+   "h2": "When does a cash sale make sense for heirs?",
+   "html": "<p>A cash sale can suit heirs who live elsewhere, want to avoid repairs, or need to settle the estate quickly. It does not change the tax rules above, so the date-of-death basis, the property tax bill and the certificate filing all stay the same.</p><p>What it changes is the timeline and the repair burden. A house that needs a roof, a cleanout or an update can sell as-is, and the price will reflect the condition. Compare any offer against the costs of holding the house through probate, including taxes, insurance and utilities.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Montana have an inheritance tax?",
+   "a": "No. The Montana Department of Revenue says the inheritance tax was repealed in November 2000 and does not apply to deaths after January 1, 2001."
+  },
+  {
+   "q": "Does Montana have an estate tax?",
+   "a": "No. The department says Montana has no estate tax for deaths after 2004. The federal estate tax can still apply to very large estates, with a $15,000,000 basic exclusion for deaths in 2026."
+  },
+  {
+   "q": "Do heirs pay tax when they inherit a house in Montana?",
+   "a": "Heirs do not owe a Montana death tax. They can owe income tax on a gain if they later sell for more than the date-of-death value, and they inherit the property tax bill."
+  },
+  {
+   "q": "Who can sell an inherited house in Montana?",
+   "a": "The personal representative, subject to the will and any court order, has power under MCA 72-3-613 to sell estate real property at public or private sale."
+  },
+  {
+   "q": "Do I need probate to sell a house in Montana?",
+   "a": "Not always. Montana allows informal and formal probate, and some houses pass by joint tenancy or a transfer on death deed. The title company decides what proof it needs."
+  },
+  {
+   "q": "Does the estate have to file a Montana income tax return?",
+   "a": "Fiduciaries may need Form FID-3 if a federal Form 1041 was filed and the decedent owned Montana property or had Montana-source income."
+  },
+  {
+   "q": "What is the basis of inherited property?",
+   "a": "Generally the fair market value at the date of death, per IRS Publication 551."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Montana DOR: Montana Estate and Inheritance Tax",
+   "url": "https://revenue.mt.gov/taxes/fiduciaries/estate-and-inheritance-tax"
+  },
+  {
+   "title": "IRS: What's new, Estate and gift tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax"
+  },
+  {
+   "title": "IRS: Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "MCA 72-3-613, Transactions authorized for personal representative",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0060/section_0130/0720-0030-0060-0130.html"
+  },
+  {
+   "title": "Montana Judicial Branch: Wills, Trusts, Powers of Attorney, Estate Planning, Probate",
+   "url": "https://courts.mt.gov/forms/endoflife"
+  },
+  {
+   "title": "Montana DOR: Realty Transfer Certificate",
+   "url": "https://revenuefiles.mt.gov/files/Forms/Realty_Transfer_Certificate_Form_RTC.pdf"
+  },
+  {
+   "title": "Montana DOR: 2026 Tax Information for Montana Property Owners",
+   "url": "https://revenue.mt.gov/property/property-tax-changes/2026-property-tax-information"
+  },
+  {
+   "title": "MCA 15-16-102, Time for payment",
+   "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0160/part_0010/section_0020/0150-0160-0010-0020.html"
+  }
+ ]
+}
