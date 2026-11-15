@@ -1,0 +1,93 @@
+{
+ "slug": "arkansas-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How does the Arkansas property tax calendar work?",
+   "html": "<p>Arkansas runs property tax on a two-year cycle: values and millage rates are set in the assessment year, and the money is collected the following year. The Assessment Coordination Division of the state Department of Finance and Administration oversees all 75 counties, but assessing, collecting and distributing happens locally.</p>\n<p>In the assessment year, county assessors, clerks, equalization boards and judges settle values. School boards, city councils and county quorum courts set millage, and the quorum court formally levies it. In the collection year, county clerks, collectors and treasurers bill, collect and pay out the money. Each assessment year is also the collection year for the one before it, so an owner is always dealing with two cycles at once.</p>\n<p>Business personal property is assessed by May 31. The <a href=\"https://www.dfa.arkansas.gov/office/arkansas-assessment-coordination-division/\">division's overview page</a> lists the other dates that matter to a homeowner.</p>"
+  },
+  {
+   "h2": "What millage rate will a house in Arkansas pay?",
+   "html": "<p>The state average across counties was 48.80 mills in the division's 2026 annual report, built from school, city and county rates after the 2025 school elections. The report breaks that down as 38.52 for schools, 4.17 for cities and 7.93 for counties.</p>\n<p>Assessed value is 20% of market value, and the millage rate is applied to the assessed figure. The same report says school districts receive about 80% of property tax collections, counties about 15% and cities about 5%. Your own rate depends on the school district, the city and the county the house sits in, so two homes of the same value can get different bills.</p>\n<p>The <a href=\"https://arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2FMeeting+Attachments%2F000%2F27925%2FExhibit+H.08.b+-+DFA+-+ACD+-+2026+Annual+Report.pdf\">annual report</a> is a long PDF, so use your county assessor's notice for the actual millage on your parcel.</p>"
+  },
+  {
+   "h2": "How often is a home reappraised, and is there a cap?",
+   "html": "<p>Counties reappraise every four years under Act 139 of 2023, and by 2028 every county will be on a four-year contract. The annual report lists 19 counties reappraising in 2025 and 21 in 2026, with Baxter and Boone among those finishing in 2026.</p>\n<p>Under Amendment 79, the taxable value of a homestead owned by someone under 65 who is not disabled can rise only 5% a year after a reappraisal. Other real property is capped at 10% a year. Credits for homesteads and the age 65 or disabled freeze are covered in our <a href=\"/arkansas-homestead-exemption/\">homestead guide</a>, so this page stays on assessment and collection.</p>\n<p>A cap limits how fast the taxable figure climbs. It does not stop the bill from rising when a school board raises millage.</p>"
+  },
+  {
+   "h2": "What are the key dates for an Arkansas homeowner?",
+   "html": "<p>The dates below combine the state's published calendar with the Pulaski County Clerk's equalization timeline, which shows how one county applies them.</p>\n<table>\n<thead><tr><th>Date</th><th>Event</th></tr></thead>\n<tbody>\n<tr><td>July</td><td>Assessor mails notices of assessed value (Pulaski County)</td></tr>\n<tr><td>August 1</td><td>Equalization board holds its organizational meeting (Pulaski County)</td></tr>\n<tr><td>Third Monday in August</td><td>Last day to schedule a board hearing</td></tr>\n<tr><td>September 30</td><td>Regular board meetings end (Pulaski County)</td></tr>\n<tr><td>Second Monday in October</td><td>Last day to petition county court</td></tr>\n<tr><td>October 15</td><td>Taxes due; unpaid bills turn delinquent</td></tr>\n<tr><td>November 15</td><td>County court must hear and rule on appeals</td></tr>\n<tr><td>First business day of March</td><td>Collection of the prior assessment year's bills begins</td></tr>\n</tbody>\n</table>\n<p>The Pulaski timeline also says no assessment can be changed after the board's special session ends in November. An owner who misses the August deadline should not count on a second chance that year.</p>"
+  },
+  {
+   "h2": "How do you appeal an assessment?",
+   "html": "<p>You start with a talk with the county assessor, then take it to the county equalization board, then to county court, and then to circuit court. The <a href=\"https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-27-318/\">appeal statute, 26-27-318</a>, governs the county court step.</p>\n<ul>\n<li>The board hears only the current year's value and cannot hear appeals of earlier years.</li>\n<li>A county court petition is filed with the county clerk, who assigns a case number, and there is no filing fee.</li>\n<li>You must have used the board first, unless you never received the required notice of a value change.</li>\n<li>The county court publishes notice at least a week before the hearing, or it lacks jurisdiction.</li>\n<li>You carry the burden to prove true value by a preponderance of the evidence, and no presumption favors the assessor.</li>\n<li>The court's written decision must come within 20 working days after the hearing and must say you can go on to circuit court.</li>\n</ul>\n<p>In the 2026 report, 598 properties had their values changed after informal appeals alone, which suggests the first conversation with the assessor is worth having. The statute does not state a circuit court deadline, so an owner heading there should ask an attorney.</p>"
+  },
+  {
+   "h2": "What happens when Arkansas property tax goes unpaid?",
+   "html": "<p>Unpaid taxes after October 15 are delinquent and carry a 10% penalty plus daily interest on real estate. The Craighead County Tax Collector's page lays this out, and says the collector publishes delinquent lists in a local newspaper.</p>\n<p>The county does not hold a sale. Under <a href=\"https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-37-101/\">Ark. Code 26-37-101</a>, land still unpaid a year after the due date is certified to the Commissioner of State Lands by July 1 of the following year, and title vests in the state when certification arrives. Our <a href=\"/arkansas-tax-deed-and-tax-lien-sales/\">tax deed guide</a> walks through the steps after that.</p>\n<p>For a seller, the practical point is that a delinquent bill is not a county matter you can quietly settle later. Once certification happens, the payoff goes through the state's office and the redemption deadline is firm.</p>"
+  },
+  {
+   "h2": "When does the tax lien attach, and who pays at a sale?",
+   "html": "<p>The lien for property tax arises on the first Monday of January of the year of assessment and stays until the tax and penalties are paid. <a href=\"https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-34-101/\">Section 26-34-101</a> gives it priority over judgments, executions, encumbrances and other liens, whenever those were created.</p>\n<p>Between a grantor and a grantee, the statute delays the lien until the last date set by law for the county clerk to deliver the tax books to the collector. That timing is the reason the tax bill is a closing item and not just a seller's private matter.</p>\n<p>Taxes are collected from the first business day of March through October 15 of the year after assessment. A house sold in spring can therefore close while the prior year's bill is still unpaid. The title company can ask the collector for a status and pay what is owed from the seller's proceeds.</p>"
+  },
+  {
+   "h2": "What should a seller check before listing with taxes due?",
+   "html": "<p>Confirm three things with the county: what is owed, what the next assessment will do, and whether any year is already delinquent.</p>\n<ul>\n<li>Ask the collector for the current balance, with penalty and interest, by parcel number.</li>\n<li>Read the latest assessor notice and note whether your county is reappraising this year.</li>\n<li>If the August hearing date has passed, calendar the second Monday in October for county court.</li>\n<li>If a year is delinquent, find out whether it has been certified to the Commissioner of State Lands.</li>\n</ul>\n<p>Cash Home Buyers makes as-is offers on Arkansas houses, including houses with back taxes. Bring your latest tax statement and assessor notice, and the title company can pay the collector at closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is Arkansas property tax due?",
+   "a": "Taxes are collected from the first business day of March through October 15 of the year after assessment. A payment after October 15 draws a 10% penalty, and delinquent real estate accrues interest daily."
+  },
+  {
+   "q": "What is the deadline to challenge my assessment?",
+   "a": "Schedule an equalization board hearing by the third Monday in August. If you disagree with the board, file a county court petition by the second Monday in October. The board cannot hear earlier years."
+  },
+  {
+   "q": "Does it cost anything to appeal to county court?",
+   "a": "No filing fee applies to the petition of appeal under 26-27-318. You file with the county clerk, who assigns a case number, and the county court must rule by November 15."
+  },
+  {
+   "q": "How much can my homestead value rise in one year?",
+   "a": "After a reappraisal, taxable value on a homestead owned by someone under 65 who is not disabled can rise 5% a year. Other real property is capped at 10% a year under Amendment 79."
+  },
+  {
+   "q": "Who sets my millage rate?",
+   "a": "School boards, city councils and county quorum courts set it during the assessment year, and the quorum court formally levies it. The statewide county average was 48.80 mills in the 2026 annual report."
+  },
+  {
+   "q": "Does the tax lien follow the house to a new owner?",
+   "a": "The lien binds the property and ranks ahead of other liens. In a transfer between grantor and grantee it does not attach until the clerk's tax-book delivery date, so confirm the balance with the collector before closing."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Arkansas DFA, Assessment Coordination Division",
+   "url": "https://www.dfa.arkansas.gov/office/arkansas-assessment-coordination-division/"
+  },
+  {
+   "title": "Arkansas DFA, Assessment Coordination Division 2026 Annual Report",
+   "url": "https://arkleg.state.ar.us/Home/FTPDocument?path=%2FAssembly%2FMeeting+Attachments%2F000%2F27925%2FExhibit+H.08.b+-+DFA+-+ACD+-+2026+Annual+Report.pdf"
+  },
+  {
+   "title": "Ark. Code 26-27-318, appeals to courts (FindLaw)",
+   "url": "https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-27-318/"
+  },
+  {
+   "title": "Pulaski County Clerk, Equalization Timeline",
+   "url": "https://pulaskiclerkar.gov/wp-content/uploads/Equalization-Timeline.pdf"
+  },
+  {
+   "title": "Ark. Code 26-34-101, property tax lien (FindLaw)",
+   "url": "https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-34-101/"
+  },
+  {
+   "title": "Ark. Code 26-37-101, certification of delinquent land (FindLaw)",
+   "url": "https://codes.findlaw.com/ar/title-26-taxation/ar-code-sect-26-37-101/"
+  },
+  {
+   "title": "Craighead County Tax Collector",
+   "url": "https://craigheadcountyar.gov/tax-collectors-office"
+  }
+ ]
+}
