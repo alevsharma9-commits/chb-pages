@@ -14,3 +14,4 @@
 - grant-county-ky-property-tax-guide: sheriff page says 21% penalty Feb 1-Apr 15 vs KRS 10%; page reports both. graves-county-ky-county-clerk: address conflicts across sources. Recheck.
 - new-jersey-eviction-notice: rests on 2008 reprint, newer amendments unchecked. new-jersey-homestead-exemption: closing-credit rule from older guide. new-jersey-transfer-tax: computed examples ($3,695 on $450k, $3,215 on $400k); verify.
 - marshall-county-ky-property-tax-guide: 2026 delayed-billing schedule from a local newspaper; swap for sheriff page. webster-county-ky-property-tax-guide at 85%.
+- NJ pages with computed transfer-fee examples (manchester, maplewood, marlboro, medford, monroe-middlesex etc): own arithmetic from state rate schedule; verify.
