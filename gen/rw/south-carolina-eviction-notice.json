@@ -1,0 +1,69 @@
+{
+ "slug": "south-carolina-eviction-notice",
+ "sections": [
+  {
+   "h2": "What eviction notices does South Carolina require?",
+   "html": "<p>South Carolina lets a landlord end a residential tenancy only after the right written notice, and the number of days depends on the reason. The main rules sit in Title 27, Chapter 40 of the South Carolina Code, with the court process in Chapter 37.</p><table><thead><tr><th>Situation</th><th>Notice or wait</th><th>Section</th></tr></thead><tbody><tr><td>Rent unpaid</td><td>5 days after the due date, plus written notice of nonpayment and intent to terminate</td><td>27-40-710(B)</td></tr><tr><td>Other lease breach</td><td>Written notice; ends at least 14 days after receipt if not fixed in 14 days</td><td>27-40-710(A)</td></tr><tr><td>Health and safety violation</td><td>14 days after written notice, or promptly in an emergency</td><td>27-40-720</td></tr><tr><td>Month-to-month tenancy</td><td>30 days written notice</td><td>27-40-770(b)</td></tr><tr><td>Week-to-week tenancy</td><td>7 days written notice</td><td>27-40-770(a)</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How does the five-day nonpayment notice work?",
+   "html": "<p>If rent is unpaid when due and the tenant does not pay within five days of the due date, the landlord may terminate after giving written notice of the nonpayment and the intent to terminate. One notice for a lease term satisfies the requirement, and so does conspicuous language in the written lease.</p><p>When the lease contains that language, no separate notice is needed to begin an eviction, even after the original term expires for a month-to-month tenancy. The ejectment chapter adds that, for a residential lease, the five-day period counts as legal notice only if the written agreement states it in bold, conspicuous type.</p><p>The landlord may recover actual damages and seek injunctive relief, judgments or evictions in magistrate or circuit court without posting bond. Attorney's fees are available only if the landlord is represented by an attorney and the nonpayment was not in good faith.</p>"
+  },
+  {
+   "h2": "What about a lease violation that is not about rent?",
+   "html": "<p>For a tenant breach other than nonpayment, the landlord delivers written notice that names the breaches, and the agreement terminates at least 14 days after the tenant receives it if the breach is not remedied within 14 days. A tenant who fixes the breach before the date in the notice stops the termination.</p><p>If a remedy cannot be finished in 14 days, the tenant avoids termination by starting it within that period and pursuing it in good faith. Health and safety violations under Section 27-40-720 follow a similar 14-day path, and the landlord may also enter to do repairs and bill the tenant when the problem can be fixed by repair, replacement or cleaning.</p><ul><li>Put the specific breach in writing</li><li>Keep proof of the date the tenant received the notice</li><li>Note any repair the tenant starts within the 14 days</li><li>Do not change locks or cut utilities, because Section 27-40-760 bars recovering possession by action or otherwise except in listed cases</li></ul>"
+  },
+  {
+   "h2": "What happens in magistrate court after the notice period?",
+   "html": "<p>The landlord files in magistrate court, and the magistrate issues a written rule that tells the tenant to vacate or show cause why they should not be ejected. The tenant has ten days after service to respond.</p><p>If the tenant does not appear and show cause within ten days, the magistrate issues a warrant of ejectment carried out by a constable or the sheriff. If the tenant contests, the case is heard like any civil case and either party may demand a jury.</p><ul><li><strong>Landlord wins:</strong> within five days the magistrate issues a writ of ejectment.</li><li><strong>Tenant wins:</strong> the tenant stays in possession until the tenancy ends by agreement or law, rent goes unpaid or another proceeding ejects them.</li><li><strong>Appeal:</strong> an appeal does not stop the ejectment unless the tenant posts an appeal bond set by the magistrate, and the appeal is dismissed if the bond is not filed within five days after the notice of appeal is served.</li></ul><p>The statute sets no day count for the hearing itself, so ask the magistrate's office in your county for current scheduling.</p>"
+  },
+  {
+   "h2": "How is service handled when the tenant is hard to find?",
+   "html": "<p>The rule to show cause can be served by the usual summons methods, and the statute gives backup methods when no one answers. After two failed attempts at least 48 hours apart, at times at least eight hours apart, it may be affixed to the premises with documentation and mailed.</p><p>Mailing counts as service ten days after it is sent, and the ten-day show-cause period starts on the eleventh day. If the premises have been abandoned for 15 days or more before service, the rule may be posted on the most conspicuous part of the premises.</p><p>Related abandonment rules say an unexplained absence of 15 days after a rent default is treated as abandonment. If the tenant voluntarily ended the utilities, abandonment is immediate.</p>"
+  },
+  {
+   "h2": "What happens when the sheriff carries out the writ?",
+   "html": "<p>The officer presents the writ and gives the occupants 24 hours to leave voluntarily. If they refuse, a deputy sheriff, though not a constable, may force entry using the least destructive means.</p><p>If the home appears occupied and no one answers, a copy of the writ is posted on the door or another conspicuous place, and after 24 hours a deputy may force entry. The officer may delay dispossession of ill or elderly tenants.</p><p>The eviction notice must tell the tenant that property placed on a public street may be removed by officials after 48 hours, not counting Saturdays, Sundays and holidays. For property left behind after abandonment, a landlord may dispose of property worth $500 or less; anything above that must be handled under Sections 27-37-10 to 27-37-150.</p>"
+  },
+  {
+   "h2": "Can a landlord retaliate or use self-help?",
+   "html": "<p>No. A landlord may not recover possession through self-help, including interrupting essential services, except in cases of abandonment, surrender or termination or as the chapter permits.</p><p>Section 27-40-910 also bars retaliation. After a tenant complains to a housing code agency or to the landlord about a violation of the chapter, the landlord may not raise rent above fair market value, cut essential services or bring a possession action, subject to listed exceptions.</p><p>A wrongfully dispossessed tenant may sue the landlord for damages under Section 27-37-140. Rent keeps accruing at the prior rate while the tenant remains after proceedings begin, and accepting rent does not waive the right to eject.</p>"
+  },
+  {
+   "h2": "Can you sell a house with a tenant who is being evicted?",
+   "html": "<p>Yes, you can sell a rental while an eviction is pending, but the notice, the court case and the tenant's rights do not disappear at closing. A landlord who conveys the premises in a good-faith sale to a bona fide purchaser is relieved of liability for later events after written notice to the tenant.</p><p>The landlord stays liable for the security deposit unless it is transferred and the tenant is notified in writing. A holdover tenant can also cost money: if the stay is a wilful violation, the landlord may recover up to three months of periodic rent or twice actual damages, whichever is greater, plus reasonable attorney's fees.</p><ul><li>Occupied house with a notice already served</li><li>Tenant who stopped paying months ago</li><li>Landlord who wants out before a court date</li><li>Heirs who inherited a rental with a lease</li></ul><p>We buy houses as-is, including with tenants in place, so you may not have to finish the eviction first. Tell us where the notice or case stands when you call, and keep every notice, receipt and court paper for the closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days is a South Carolina eviction notice for nonpayment?",
+   "a": "Five days after the rent due date, followed by written notice of nonpayment and intent to terminate, or conspicuous language in the written lease. One notice for a lease term satisfies the requirement."
+  },
+  {
+   "q": "How much notice ends a month-to-month tenancy in South Carolina?",
+   "a": "Thirty days of written notice, given before the termination date stated. Week-to-week tenancies need seven days, under Section 27-40-770."
+  },
+  {
+   "q": "How long does the tenant have to respond to the court?",
+   "a": "Ten days after service of the rule to show cause. If the tenant does not show cause, the magistrate issues a warrant of ejectment."
+  },
+  {
+   "q": "Can a landlord change the locks to evict a tenant?",
+   "a": "No. Section 27-40-760 bars recovering possession by action or otherwise, including by interrupting essential services, except in cases of abandonment, surrender or termination or as the chapter permits."
+  },
+  {
+   "q": "Does selling the house end the lease?",
+   "a": "Not by itself. A landlord who conveys the property in a good-faith sale to a bona fide purchaser is relieved of later liability after written notice to the tenant, but remains liable for the deposit unless it is transferred and the tenant is told."
+  }
+ ],
+ "sources": [
+  {
+   "title": "S.C. Code Title 27, Chapter 40 (residential landlord and tenant)",
+   "url": "https://www.scstatehouse.gov/code/t27c040.php"
+  },
+  {
+   "title": "S.C. Code Title 27, Chapter 37 (ejectment)",
+   "url": "https://www.scstatehouse.gov/code/t27c037.php"
+  }
+ ]
+}
