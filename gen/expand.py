@@ -3,7 +3,7 @@ sys.path.insert(0,os.path.dirname(__file__))
 from common import esc,a,wc,SITE,cta
 R=os.path.join(os.path.dirname(__file__),'..')
 TARGET=1250
-STATE={'fl':'Florida','tx':'Texas','ny':'New York','pa':'Pennsylvania','il':'Illinois','oh':'Ohio'}
+STATE={'fl':'Florida','tx':'Texas','ny':'New York','pa':'Pennsylvania','il':'Illinois','oh':'Ohio','ga':'Georgia'}
 SKIP=re.compile(r'^Sources$|could not|Related|How to sell|FAQ|at a glance|Situations|Three ways|Selling a ',re.I)
 def wc_html(c): return len(re.sub(r'<[^>]+>',' ',re.sub(r'<style>.*?</style>|<script.*?</script>','',c,flags=re.S)).split())
 def harvest(st):

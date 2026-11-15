@@ -49,9 +49,9 @@ def state_pages():
 def city_page(c,d):
     slug=f"sell-my-house-fast-{ns(c)}-il"; cty=d['county']+' County'; kind=d.get('type','place')
     body=(f"<p><strong>Selling a house in {esc(c)}, Illinois comes down to listing it, selling it yourself or taking a cash offer.</strong> Each route has different costs and timelines under Illinois law. The Census Bureau estimates {n(d['pop'])} residents in {esc(c)} as of July 1, 2025. We did not use listing-site price data.</p><h2>{esc(c)} at a glance</h2>"+ul([f"Estimated population, July 1, 2025: {n(d['pop'])} (Census Bureau)."])
-     +f"<h2>Three ways to sell a house in {esc(c)}</h2><p><strong>List with an agent.</strong> The commission is whatever your listing agreement says. You also pay for repairs, showings and closing costs.</p><p><strong>Sell it yourself.</strong> Illinois sellers owe the buyer a property disclosure and realty transfer tax applies. See "+a('illinois-closing-costs','Illinois closing costs')+".</p><p><strong>Take a cash offer.</strong> We buy houses as-is, with no agent commission, no fees and no closing costs charged to you. You choose the closing date.</p>"
+     +f"<h2>Three ways to sell a house in {esc(c)}</h2><p><strong>List with an agent.</strong> The commission is whatever your listing agreement says. You also pay for repairs, showings and closing costs.</p><p><strong>Sell it yourself.</strong> Illinois sellers owe the buyer a property disclosure and realty transfer tax applies. See "+a('illinois-transfer-tax','Illinois closing costs')+".</p><p><strong>Take a cash offer.</strong> We buy houses as-is, with no agent commission, no fees and no closing costs charged to you. You choose the closing date.</p>"
      +cta(f"Selling in {c}?",f"We buy {c} houses as-is, with no commission, no repairs and no closing costs to you.")
-     +f"<h2>Situations we see with {esc(c)} houses</h2><p><strong>Behind on the mortgage.</strong> Illinois mortgage foreclosures go through court and end in a foreclosure sale. See "+a('illinois-sheriff-sale','the Illinois foreclosure sale guide')+".</p><p><strong>Inherited house.</strong> The probate court issues letters, and the inheritance tax applies. See "+a('illinois-probate-process','probate')+" and "+a('illinois-inheritance-tax','inheritance tax')+".</p><p><strong>Unpaid property tax.</strong> See "+a('illinois-property-tax-guide','the Illinois property tax guide')+" and "+a('illinois-tax-sales','tax sales')+(f" and {a(ns(c)+'-il-property-tax-guide',esc(c)+' property tax')}" if c in PTC else '')+".</p>"
+     +f"<h2>Situations we see with {esc(c)} houses</h2><p><strong>Behind on the mortgage.</strong> Illinois mortgage foreclosures go through court and end in a judicial sale. See "+a('illinois-foreclosure-process','the Illinois foreclosure guide')+".</p><p><strong>Inherited house.</strong> The probate court issues letters, and Illinois has its own estate tax rules. See "+a('illinois-probate-process','probate')+" and "+a('illinois-estate-tax','estate tax')+".</p><p><strong>Unpaid property tax.</strong>  See "+a('illinois-property-tax-guide','the Illinois property tax guide')+" and "+a('illinois-tax-sales','tax sales')+(f" and {a(ns(c)+'-il-property-tax-guide',esc(c)+' property tax')}" if c in PTCOK else '')+".</p>"
      +f"<h2>How to sell a house in {esc(c)}</h2>"+HOW())
     faqs=[(f"Can I sell my {c} house as-is?","Yes. A cash buyer purchases as-is, and you do not have to make repairs."),("Do I pay a commission to sell for cash to you?","No. Our offers carry no agent commission, fees or closing costs to you."),(f"Can I sell a {c} house with a mortgage or unpaid taxes?","Yes. The title company pays the mortgage payoff and any unpaid property tax from the proceeds at closing.")]
     h1=f"Sell My House Fast in {c}, IL: Options, Costs and Cash Offers"; rt=f"Sell My House Fast in {c}, IL | Cash Offer"
@@ -62,6 +62,7 @@ def city_page(c,d):
 def pre(t): return re.sub(r'^(Opened[^:]{0,30}:)\s*','',clean_txt(t))
 def nm_(x): return clean_txt(re.sub(r'\(.*?\)','',x['name'])).split(';')[0].split(',')[0].strip()
 PTC=['Chicago','Peoria','Rockford','Champaign','Naperville','Bloomington','DeKalb','McHenry','Evanston']
+PTCOK=[c for c in PTC if c in CP and CP[c].get('assessor',{}).get('url') and CP[c].get('collector',{}).get('url')]
 def ptax(c,v):
     slug=f"{ns(c)}-il-property-tax-guide"; ap,co=v['assessor'],v['collector']
     sec_=f"<h2>Who bills what in {esc(c)}</h2>"+ul([f"{L(ap['url'],nm_(ap))} handles assessment.",f"{L(co['url'],nm_(co))} bills and collects the tax."])
@@ -126,6 +127,6 @@ if __name__=='__main__':
     def dump(name,out,label): json.dump(out,open(R+f'/pages/il/{name}.json','w')); print(label,len(out),min(map(wc,out)) if out else 0)
     dump('illinois-state-pages-1',state_pages(),'state')
     dump('illinois-city-pages-1',[city_page(d['city'],d) for d in cities],'city')
-    dump('illinois-city-ptax-1',[ptax(c,CP[c]) for c in PTC if c in CP and CP[c].get('assessor',{}).get('url') and CP[c].get('collector',{}).get('url')],'ptax')
+    dump('illinois-city-ptax-1',[ptax(c,CP[c]) for c in PTCOK],'ptax')
     dump('illinois-county-ptax-1',[county(c,CT[c],'tax') for c in CNT if c in CT],'county tax')
     dump('illinois-county-records-1',[county(c,CT[c],'rec') for c in REC if c in CT and CT[c].get('recorder',{}).get('url')],'records')

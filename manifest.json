@@ -102,6 +102,24 @@
   },
   {
    "file": "pages/oh/ohio-state-pages-1.json"
+  },
+  {
+   "file": "pages/ga/georgia-directory-1.json"
+  },
+  {
+   "file": "pages/ga/georgia-city-pages-1.json"
+  },
+  {
+   "file": "pages/ga/georgia-city-ptax-1.json"
+  },
+  {
+   "file": "pages/ga/georgia-county-ptax-1.json"
+  },
+  {
+   "file": "pages/ga/georgia-county-records-1.json"
+  },
+  {
+   "file": "pages/ga/georgia-state-pages-1.json"
   }
  ]
 }
