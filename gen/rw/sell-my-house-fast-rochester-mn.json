@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Where is Rochester, Minnesota, and what should a home seller know about the city?",
-   "html": "<p>Rochester is the county seat of Olmsted County in southeast Minnesota, about 85 miles from Minneapolis and Saint Paul. It sits on the south fork of the Zumbro River at the western edge of the Driftless Area, and the Census Bureau counts 56.8 square miles of land inside the city limits.</p><p>George Head built a log tavern here in 1854 and named the settlement for his hometown in New York. The Winona and St. Peter Railroad arrived in October 1864, and the 1883 tornado that flattened much of the town led directly to the hospital that grew into Mayo Clinic. Olmsted is one of only four Minnesota counties with no natural lake, so the water you see in town, such as Silver Lake, was made by damming the river.</p><p>The Census Bureau estimates 124,292 people lived in Rochester on July 1, 2025, up 2.4 percent from the April 2020 base and well above the 106,769 counted in 2010. That makes it the third largest city in the state. Sellers here are dealing with a city that keeps adding households, which shapes how quickly a well kept house draws attention.</p><table><thead><tr><th>Rochester measure, 2020-2024 Census estimates</th><th>Figure</th></tr></thead><tbody><tr><td>Households</td><td>51,131</td></tr><tr><td>Homes lived in by their owners</td><td>65.1%</td></tr><tr><td>Median value of an owner-occupied home</td><td>$310,500</td></tr><tr><td>Median monthly owner cost with a mortgage</td><td>$1,864</td></tr><tr><td>Median gross rent</td><td>$1,399</td></tr><tr><td>Median household income</td><td>$89,389</td></tr><tr><td>Average trip to work</td><td>17.4 minutes</td></tr></tbody></table>"
+   "html": "<p>Rochester is the county seat of Olmsted County in southeast Minnesota, about 85 miles from Minneapolis and Saint Paul. It sits on the south fork of the Zumbro River at the western edge of the Driftless Area, and the Census Bureau counts 56.8 square miles of land inside the city limits.</p><p>George Head built a log tavern here in 1854 and named the settlement for his hometown in New York. The Winona and St. Peter Railroad arrived in October 1864, and after the 1883 tornado flattened much of the town, the Sisters of St. Francis opened St. Marys Hospital in 1889 with the Mayo family's help. Olmsted is one of only four Minnesota counties with no natural lake, so the water you see in town, such as Silver Lake, was made by damming the river.</p><p>The Census Bureau estimates 124,292 people lived in Rochester on July 1, 2025, up 2.4 percent from the April 2020 base and well above the 106,769 counted in 2010. That makes it the third largest city in the state. Sellers here are dealing with a city that keeps adding households, which shapes how quickly a well kept house draws attention.</p><table><thead><tr><th>Rochester measure, 2020-2024 Census estimates</th><th>Figure</th></tr></thead><tbody><tr><td>Households</td><td>51,131</td></tr><tr><td>Homes lived in by their owners</td><td>65.1%</td></tr><tr><td>Median value of an owner-occupied home</td><td>$310,500</td></tr><tr><td>Median monthly owner cost with a mortgage</td><td>$1,864</td></tr><tr><td>Median gross rent</td><td>$1,399</td></tr><tr><td>Median household income</td><td>$89,389</td></tr><tr><td>Average trip to work</td><td>17.4 minutes</td></tr></tbody></table>"
   },
   {
    "h2": "How does the Rochester economy affect the housing market?",
@@ -37,7 +37,7 @@
  "faqs": [
   {
    "q": "Can I sell a Rochester house without fixing it first?",
-   "a": "Yes. Nothing in the Rochester sources requires repairs before a sale between private parties, and an as-is buyer takes the house in its current condition. A landlord still needs the rental certificate and inspection status in order, so check that before you accept an offer on a tenant-occupied house."
+   "a": "Yes, if the buyer agrees to take it as-is. You still owe the buyer a written disclosure of material facts you know about (Minn. Stat. 513.55), and a landlord should have the rental certificate and inspection status in order before accepting an offer on a tenant-occupied house."
   },
   {
    "q": "Do I need to tell a buyer about radon?",
@@ -88,6 +88,10 @@
   {
    "title": "Minnesota Statutes 287.21",
    "url": "https://www.revisor.mn.gov/statutes/cite/287.21"
+  },
+  {
+   "title": "Minnesota Statutes 513.55",
+   "url": "https://www.revisor.mn.gov/statutes/cite/513.55"
   },
   {
    "title": "Minnesota Statutes 144.496",
