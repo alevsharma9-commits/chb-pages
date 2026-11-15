@@ -1,0 +1,89 @@
+{
+ "slug": "michigan-closing-costs",
+ "sections": [
+  {
+   "h2": "What closing costs does a Michigan seller pay by law?",
+   "html": "<p>The costs set by statute are two deed taxes and a recording fee. The state real estate transfer tax is $3.75 for each $500 or fraction of $500 of value, and the county tax is 55 cents per $500 in a county with fewer than 2,000,000 people. In a county of 2,000,000 or more, the county board of commissioners may authorize up to 75 cents.</p><p>Commissions, title insurance, attorney charges and prorated utilities come from your listing agreement and purchase contract, so they vary from sale to sale. The statutory items above do not.</p>"
+  },
+  {
+   "h2": "How is the Michigan transfer tax figured on a sale?",
+   "html": "<p>Divide the stated value by $500, round up any fraction to the next whole unit, then multiply by each rate. A $200,000 sale has 400 units. The state tax is 400 times $3.75, or $1,500, and the county tax at 55 cents is 400 times $0.55, or $220, for a total of $1,720.</p><p>The deed must show the total value of the real property on its face, or an affidavit declaring that value must be attached. If a sale includes both land and personal property such as appliances or equipment, the tax applies only to the real property when the two values are stated separately on the instrument or in the affidavit. Treasury prescribes the affidavit form for the state tax, and the State Tax Commission prescribes it for the county tax.</p>"
+  },
+  {
+   "h2": "Who pays the Michigan transfer tax and when is it due?",
+   "html": "<p>The seller or grantor is liable under MCL 207.523, and payment goes to the county treasurer where the property is located. The deadline is 15 days after the grantor delivers the deed to the buyer. In practice the title company or closing attorney usually collects the amount from the sale proceeds and pays it.</p><p>Because the contract can shift cost between the parties, look at the line items on the settlement statement before closing day. If the buyer pays the tax on your behalf, a later refund request can also come from the buyer who paid it for you.</p>"
+  },
+  {
+   "h2": "Which Michigan sales are exempt from the state transfer tax?",
+   "html": "<p>MCL 207.526 lists many exempt instruments. The ones most likely to matter to a home seller are these:</p><ul><li>A deed given for consideration of less than $100.</li><li>A conveyance from a parent to a child, stepchild or adopted child, and a conveyance from a grandparent to a grandchild, step-grandchild or adopted grandchild.</li><li>A transfer between spouses that creates or ends a tenancy by the entireties.</li><li>A court judgment or order making a transfer, unless the court sets a specific money amount for it.</li><li>A deed given in foreclosure of a mortgage or in lieu of foreclosure. The exemption does not cover a later resale by the entity that foreclosed.</li><li>A quitclaim deed that only corrects a flaw in a title already held.</li><li>A land contract under which legal title does not pass until the whole price is paid.</li></ul><p>The county act in MCL 207.505 has a similar list but lacks the parent and grandparent family exemptions. A closing agent should check both lists for your deed.</p>"
+  },
+  {
+   "h2": "Can a Michigan seller get a transfer tax refund?",
+   "html": "<p>Sometimes. If you or the buyer who paid for you believes the deed qualified for an exemption when it was signed, you may ask the Department of Treasury for a refund. The statute applies this to transfers beginning four years before the amendment that added the refund right.</p><p>One refund path targets sellers of a principal residence. A deed qualifies under MCL 207.526(u) when the seller claimed the principal residence exemption, the property's state equalized value was no higher than it was at the first tax day after the certificate of occupancy or the seller's acquisition, whichever came later, and the price came from arm's length bargaining. Treasury's refund application is Form 2796. Ask your title company to check whether the sale could fit before you close.</p>"
+  },
+  {
+   "h2": "What does the register of deeds charge to record a Michigan deed?",
+   "html": "<p>The register of deeds charges $30 to enter and record a document, regardless of the number of pages, under MCL 600.2567. The same section lists $1 per page for copies, $5 to certify a recorded document and $5 as the minimum for a records search.</p><p>A charter county may set its own fee schedule by ordinance or resolution, but it may not charge more than the cost of the service. Call the register of deeds in the county where the house sits to confirm the current fee before you send documents. Documents submitted electronically must be paid for within one business day of receipt.</p>"
+  },
+  {
+   "h2": "What are the fixed Michigan seller costs at a glance?",
+   "html": "<table><caption>Statutory Michigan seller closing charges and where each comes from</caption><thead><tr><th>Charge</th><th>Amount</th><th>Statute</th></tr></thead><tbody><tr><td>State real estate transfer tax</td><td>$3.75 per $500 or fraction</td><td>MCL 207.525</td></tr><tr><td>County transfer tax, county under 2,000,000 people</td><td>55 cents per $500 or fraction</td><td>MCL 207.504</td></tr><tr><td>County transfer tax, county of 2,000,000 or more</td><td>Up to 75 cents per $500 or fraction</td><td>MCL 207.504</td></tr><tr><td>Recording a document</td><td>$30</td><td>MCL 600.2567</td></tr><tr><td>Certifying a recorded document</td><td>$5</td><td>MCL 600.2567</td></tr><tr><td>Tax payment deadline</td><td>15 days after the deed is delivered</td><td>MCL 207.523</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What happens to property taxes when a Michigan house sells?",
+   "html": "<p>The buyer must tell the local assessing office about the transfer within 45 days, on a state tax commission form that lists the parties, the date, the actual price and the parcel number. The register of deeds also reports recorded transfers to the assessor at least monthly.</p><p>Under MCL 211.27a, a transfer of ownership resets the taxable value to the state equalized value for the calendar year after the sale. Transfers between spouses, and certain transfers of residential property to a parent, child, sibling or grandchild who will not use it commercially, do not trigger the reset. The split of the current year's bill between you and the buyer is a contract matter, so ask the title company to show the proration on the settlement statement.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How much is the Michigan transfer tax on a $300,000 house?",
+   "a": "About $2,580 in a county under 2,000,000 people. The sale has 600 units of $500, so the state tax is $2,250 and the county tax at 55 cents is $330."
+  },
+  {
+   "q": "Does the buyer or the seller pay the Michigan transfer tax?",
+   "a": "The statute makes the seller liable, so the seller normally pays it from proceeds at closing. A purchase agreement can allocate it differently, and a buyer who pays it for the seller may request a refund where an exemption applies."
+  },
+  {
+   "q": "What does it cost to record a deed in Michigan?",
+   "a": "The base fee is $30 per document under MCL 600.2567, and certified copies cost extra. Charter counties may set different fees, so ask the register of deeds in your county."
+  },
+  {
+   "q": "Is there a transfer tax when I give the house to my child?",
+   "a": "No state transfer tax applies to a conveyance from an individual to a child, stepchild or adopted child under MCL 207.526(j). Grandchildren are covered in paragraph (k). The county tax list does not include that exemption, so confirm with the county treasurer."
+  },
+  {
+   "q": "How soon must the transfer tax be paid after closing?",
+   "a": "The tax is due to the county treasurer within 15 days after the grantor delivers the deed to the grantee. The title company normally handles this with the closing funds."
+  }
+ ],
+ "sources": [
+  {
+   "title": "MCL 207.525 State Real Estate Transfer Tax Act, tax rate",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"
+  },
+  {
+   "title": "MCL 207.504 County Real Estate Transfer Tax, rate",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"
+  },
+  {
+   "title": "MCL 207.505 County transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"
+  },
+  {
+   "title": "MCL 207.523 Instruments subject to tax, liability, payment date, refund",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-523"
+  },
+  {
+   "title": "MCL 207.526 State transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "MCL 600.2567 Register of deeds fees",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"
+  },
+  {
+   "title": "MCL 211.27a Taxable value and transfer of ownership",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
+  }
+ ]
+}
