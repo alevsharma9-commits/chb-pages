@@ -7,7 +7,7 @@ for f in glob.glob('gen/rw/*.json'):
     if f.endswith('worklist.json'):continue
     try:d=json.load(open(f))
     except Exception as e:print('bad',f,e);continue
-    if d['slug'] in DONE:RW[d['slug']]=d
+    if isinstance(d,dict) and d.get('sections'):RW[d['slug']]=d
 n=0
 for f in sorted(glob.glob('pages/*/*.json')):
     items=json.load(open(f));ch=False
