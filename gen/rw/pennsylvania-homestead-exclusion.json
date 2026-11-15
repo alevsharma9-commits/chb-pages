@@ -1,56 +1,73 @@
 {
-  "slug": "pennsylvania-homestead-exclusion",
-  "sections": [
-    {
-      "h2": "What is the Pennsylvania homestead exclusion?",
-      "html": "<p>It is a reduction in the assessed value of a primary residence, applied before school property tax is calculated. The Department of Community and Economic Development explains that the Taxpayer Relief Act, Act 1 of Special Session 1 of 2006, signed on June 27, 2006, sends property tax reduction allocations to each school district, and the district passes the benefit through a homestead or farmstead exclusion.</p><p>Every qualifying homestead or farmstead in the district is reduced by the same amount. Only a primary residence is eligible, and most owner-occupied homes and farms can qualify. The state is also clear that homeowners are not guaranteed the exclusion unless an added income tax is approved by voter referendum or enough funds have been collected for the Commonwealth to make the allocations.</p>"
-    },
-    {
-      "h2": "Which properties count as a homestead?",
-      "html": "<p>A homestead is a dwelling, with its parcel and other improvements, that an owner who is a natural person uses as a domicile. The statutory definition quoted by DCED has three branches.</p><ul><li>A house or other dwelling primarily used as the domicile of an owner who is a natural person. The land is left out if someone else owns the land under the dwelling.</li><li>A condominium or cooperative unit used as the domicile of a natural person who owns it, limited to the assessed value of that unit.</li><li>A dwelling where only part is used as the owner's domicile, in which case the homestead is the share of the property equal to that portion.</li></ul><p>A farmstead is a different category: the buildings and structures on a farm of at least ten contiguous acres that are used mainly for commercial agriculture, and it applies only to farms that serve as an owner's domicile.</p>"
-    },
-    {
-      "h2": "When is the application due?",
-      "html": "<p>For tax years that begin July 1 or January 1, the application must be filed by the preceding March 1. DCED adds that school districts must notify homeowners by December 31 each year if a property has not been approved or if its approval is about to expire, so a letter in late December is a signal to refile.</p><p>The March 1 date comes from Section 341 of Act 72 of 2004, and DCED states that the Governor cannot extend it by executive order. Only new legislation could change it. Forms come from the county assessment office, so call the assessor in the county where the house sits for the current application.</p>"
-    },
-    {
-      "h2": "How do the state, Allegheny County and Philadelphia programs differ?",
-      "html": "<p>The statewide exclusion lowers school taxes, while other homestead programs come from local law. Allegheny County runs a separate Act 50 exclusion that applies to county tax purposes only. Philadelphia runs its own Homestead Exemption through its Department of Revenue, with a flat $100,000 reduction and a December 1 filing date.</p><table><caption>Three homestead programs and their filing rules (sources: DCED, Allegheny County, City of Philadelphia)</caption><thead><tr><th>Program</th><th>What it reduces</th><th>Filing date</th></tr></thead><tbody><tr><td>State exclusion under Act 1 of 2006</td><td>Assessed value used for school property tax</td><td>March 1 before the tax year</td></tr><tr><td>Allegheny County Act 50 exclusion</td><td>Assessment for Allegheny County tax only</td><td>March 1 for the exclusion to apply for the year</td></tr><tr><td>Philadelphia Homestead Exemption</td><td>$100,000 off the taxable assessed value</td><td>December 1 each year; October 1 for the bill to reflect it</td></tr></tbody></table>"
-    },
-    {
-      "h2": "What does Philadelphia require and allow?",
-      "html": "<p>Philadelphia says you qualify if you own the home and live in it as your primary residence, and a mortgage or delinquent taxes do not disqualify you. Most homeowners save up to $1,399 a year on the Real Estate Tax bill, according to the City, and approval carries forward each year while you keep owning and living in the property.</p><ul><li>You reapply only if the deed changes, for example when you refinance or add or remove a co-owner.</li><li>Owners with a 10-year residential tax abatement are not eligible until it expires, and a removed abatement cannot be put back.</li><li>A conditional exemption of up to three years is available when your name is not on the deed, such as after an inheritance, a fraudulent deed or a rent-to-own purchase.</li><li>Applications can go through the Philadelphia Tax Center, by phone at (215) 686-9200, or by mail to the Department of Revenue.</li></ul><p>A denial can be appealed to the Board of Revision of Taxes within 30 days of the date on the denial letter. If a property no longer qualifies, the owner must tell Revenue within 45 days.</p>"
-    },
-    {
-      "h2": "What happens to the exclusion when you sell the house?",
-      "html": "<p>The benefit follows an owner who lives in the home, so a sale ends your claim and the buyer applies on a new deed. Philadelphia ties its approval to the owner of record and asks for a fresh application when the deed changes, so a new owner who plans to live there should file as soon as the deed records.</p><p>Property tax bills do not stop at settlement. Ask the county treasurer or tax claim office which installments are paid, and check with your settlement agent how the closing statement divides the current bill. If you stop living in the house before you sell, for example after moving out of an inherited home, tell the assessor, because the exclusion applies only to a primary residence. In Philadelphia an owner who stops qualifying has 45 days to notify Revenue.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Is the Pennsylvania homestead exclusion automatic?",
-      "a": "No, you apply to the county assessment office, and the application must be filed by March 1 before the tax year begins. School districts notify owners by December 31 if a property is not approved or its approval is expiring."
-    },
-    {
-      "q": "Does a rental or second home qualify?",
-      "a": "No, only a primary residence is eligible. A dwelling must be used as the domicile of an owner who is a natural person, and when only part of the dwelling is the owner's home, the homestead is limited to that part."
-    },
-    {
-      "q": "Can Pennsylvania extend the March 1 deadline?",
-      "a": "No executive order can do it. DCED states that the March 1 date is set by Section 341 of Act 72 of 2004, and the Governor cannot extend it, so only a change in the law could move the date."
-    },
-    {
-      "q": "How much does the Philadelphia Homestead Exemption save?",
-      "a": "It removes $100,000 from the assessed value used to compute Real Estate Tax, and the City says most homeowners save up to $1,399 a year. The final filing date is December 1, with October 1 recommended for early filers."
-    },
-    {
-      "q": "Who do I ask for the form in another county?",
-      "a": "Ask the county assessment office. DCED says the county provides its own homestead and farmstead application, and the filing dates and amounts for your school district come from that office."
-    }
-  ],
-  "sources": [
-    {"title": "Property Tax Relief Through Homestead Exclusion, PA DCED", "url": "https://dced.pa.gov/local-government/property-tax-relief-homestead-exclusion/"},
-    {"title": "Get the Homestead Exemption, City of Philadelphia", "url": "https://phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/get-the-homestead-exemption"},
-    {"title": "Homestead/Farmstead Exclusion (Act 50), Allegheny County", "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Tax-Abatements-and-Exemptions/HomesteadFarmstead-Exclusion-Act-50"}
-  ]
+ "slug": "pennsylvania-homestead-exclusion",
+ "sections": [
+  {
+   "h2": "What is the Pennsylvania homestead exclusion?",
+   "html": "<p>It is a reduction in the assessed value of a primary residence, applied before school property tax is calculated. The Department of Community and Economic Development explains that the Taxpayer Relief Act, Act 1 of Special Session 1 of 2006, signed on June 27, 2006, sends property tax reduction allocations to each school district, and the district passes the benefit through a homestead or farmstead exclusion.</p><p>Every qualifying homestead or farmstead in the district is reduced by the same amount. Only a primary residence is eligible, and most owner-occupied homes and farms can qualify. The state is also clear that homeowners are not guaranteed the exclusion unless an added income tax is approved by voter referendum or enough funds have been collected for the Commonwealth to make the allocations.</p>"
+  },
+  {
+   "h2": "Which properties count as a homestead?",
+   "html": "<p>A homestead is a dwelling, with its parcel and other improvements, that an owner who is a natural person uses as a domicile. The statutory definition quoted by DCED has three branches.</p><ul><li>A house or other dwelling primarily used as the domicile of an owner who is a natural person. The land is left out if someone else owns the land under the dwelling.</li><li>A condominium or cooperative unit used as the domicile of a natural person who owns it, limited to the assessed value of that unit.</li><li>A dwelling where only part is used as the owner's domicile, in which case the homestead is the share of the property equal to that portion.</li></ul><p>A farmstead is a different category: the buildings and structures on a farm of at least ten contiguous acres that are used mainly for commercial agriculture, and it applies only to farms that serve as an owner's domicile.</p>"
+  },
+  {
+   "h2": "When is the application due?",
+   "html": "<p>For tax years that begin July 1 or January 1, the application must be filed by the preceding March 1. DCED adds that school districts must notify homeowners by December 31 each year if a property has not been approved or if its approval is about to expire, so a letter in late December is a signal to refile.</p><p>The March 1 date comes from Section 341 of Act 72 of 2004, and DCED states that the Governor cannot extend it by executive order. Only new legislation could change it. Forms come from the county assessment office, so call the assessor in the county where the house sits for the current application.</p>"
+  },
+  {
+   "h2": "How do the state, Allegheny County and Philadelphia programs differ?",
+   "html": "<p>The statewide exclusion lowers school taxes, while other homestead programs come from local law. Allegheny County runs a separate Act 50 exclusion that applies to county tax purposes only. Philadelphia runs its own Homestead Exemption through its Department of Revenue, with a flat $100,000 reduction and a December 1 filing date.</p><table><caption>Three homestead programs and their filing rules (sources: DCED, Allegheny County, City of Philadelphia)</caption><thead><tr><th>Program</th><th>What it reduces</th><th>Filing date</th></tr></thead><tbody><tr><td>State exclusion under Act 1 of 2006</td><td>Assessed value used for school property tax</td><td>March 1 before the tax year</td></tr><tr><td>Allegheny County Act 50 exclusion</td><td>Assessment for Allegheny County tax only</td><td>Set by the county; ask Allegheny County Real Estate</td></tr><tr><td>Philadelphia Homestead Exemption</td><td>$100,000 off the taxable assessed value</td><td>December 1 each year; October 1 for the bill to reflect it</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What is Act 50 and who can use it?",
+   "html": "<p>Act 50 of 1998 lets local governments create their own homestead and farmstead exclusions. Allegheny County explains that Pennsylvania voters approved a constitutional change in November 1997 to allow a homestead exclusion, the General Assembly passed the Homestead Property Exclusion Program Act in May 1998, and the Act was amended on October 31, 2000.</p><p>Under the law, school districts, counties, townships, boroughs and cities can each adopt an exclusion. A taxing body can do so without changing its tax structure, as long as it can cover the cost without raising real property taxes. Districts that shift toward an earned income tax and lower the real property tax must use the exclusions to deliver the cut, and in exchange they drop several small taxes such as the per capita, occupation and occupational privilege taxes.</p><ul><li>County of the second class: Act 50 as amended lets the county adopt its own rules and procedures for the program in place of the usual state administrative section.</li><li>Other locations: ask the county assessor whether the school district, county or municipality has adopted an exclusion of its own.</li><li>Amounts: each taxing body sets its own figure, so a neighbor in a different district may see a different reduction.</li></ul>"
+  },
+  {
+   "h2": "What does Philadelphia require and allow?",
+   "html": "<p>Philadelphia says you qualify if you own the home and live in it as your primary residence, and a mortgage or delinquent taxes do not disqualify you. Most homeowners save up to $1,399 a year on the Real Estate Tax bill, according to the City, and approval carries forward each year while you keep owning and living in the property.</p><ul><li>You reapply only if the deed changes, for example when you refinance or add or remove a co-owner.</li><li>Owners with a 10-year residential tax abatement are not eligible until it expires, and a removed abatement cannot be put back.</li><li>A conditional exemption of up to three years is available when your name is not on the deed, such as after an inheritance, a fraudulent deed or a rent-to-own purchase.</li><li>Applications can go through the Philadelphia Tax Center, by phone at (215) 686-9200, or by mail to the Department of Revenue.</li></ul><p>A denial can be appealed to the Board of Revision of Taxes within 30 days of the date on the denial letter. If a property no longer qualifies, the owner must tell Revenue within 45 days.</p>"
+  },
+  {
+   "h2": "What happens to the exclusion when you sell the house?",
+   "html": "<p>The benefit follows an owner who lives in the home, so a sale ends your claim and the buyer applies on a new deed. Philadelphia asks for a fresh application when the deed changes, so a new owner who plans to live there should file once the deed is recorded.</p><p>Property tax bills do not stop at settlement. Ask the county treasurer or tax claim office which installments are paid, and check with your settlement agent how the closing statement divides the current bill. If you stop living in the house before you sell, for example after moving out of an inherited home, tell the assessor, because the exclusion applies only to a primary residence. In Philadelphia an owner who stops qualifying has 45 days to notify Revenue.</p>"
+  },
+  {
+   "h2": "What should a seller check before listing a Pennsylvania home?",
+   "html": "<p>Start with the assessment office record for your parcel and confirm whether an exclusion is on it. A homeowner who never filed may have paid full school tax for years, and the application can only help future bills, so ask the assessor how the county handles a late filing for the year you are in.</p><p>Next, compare the tax bill with what you expect to hear from a buyer. A buyer's lender will look at the full tax amount, and a house with no exclusion on file can look more expensive to carry than it really is once a new owner files. If the house was inherited and the deed is still in a deceased relative's name, Philadelphia's conditional exemption is a reminder that tangled title can often be sorted out, and the county assessor can say what proof is needed locally.</p><p>Finally, gather the paperwork a title company will ask for: the most recent school and county tax bills, any homestead approval letter, and any abatement paperwork. Having them ready keeps the closing date from slipping over a small tax question.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is the Pennsylvania homestead exclusion automatic?",
+   "a": "No, you apply to the county assessment office, and the application must be filed by March 1 before the tax year begins. School districts notify owners by December 31 if a property is not approved or its approval is expiring."
+  },
+  {
+   "q": "Does a rental or second home qualify?",
+   "a": "No, only a primary residence is eligible. A dwelling must be used as the domicile of an owner who is a natural person, and when only part of the dwelling is the owner's home, the homestead is limited to that part."
+  },
+  {
+   "q": "Can Pennsylvania extend the March 1 deadline?",
+   "a": "No executive order can do it. DCED states that the March 1 date is set by Section 341 of Act 72 of 2004, and the Governor cannot extend it, so only a change in the law could move the date."
+  },
+  {
+   "q": "How much does the Philadelphia Homestead Exemption save?",
+   "a": "It removes $100,000 from the assessed value used to compute Real Estate Tax, and the City says most homeowners save up to $1,399 a year. The final filing date is December 1, with October 1 recommended for early filers."
+  },
+  {
+   "q": "Who do I ask for the form in another county?",
+   "a": "Ask the county assessment office. DCED says the county provides its own homestead and farmstead application, and the filing dates and amounts for your school district come from that office."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Property Tax Relief Through Homestead Exclusion, PA DCED",
+   "url": "https://dced.pa.gov/local-government/property-tax-relief-homestead-exclusion/"
+  },
+  {
+   "title": "Get the Homestead Exemption, City of Philadelphia",
+   "url": "https://phila.gov/services/payments-assistance-taxes/taxes/property-and-real-estate-taxes/get-real-estate-tax-relief/get-the-homestead-exemption"
+  },
+  {
+   "title": "Homestead/Farmstead Exclusion (Act 50), Allegheny County",
+   "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Tax-Abatements-and-Exemptions/HomesteadFarmstead-Exclusion-Act-50"
+  }
+ ]
 }
