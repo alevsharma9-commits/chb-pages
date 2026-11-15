@@ -48,6 +48,24 @@
   },
   {
    "file": "pages/ny/new-york-directory-1.json"
+  },
+  {
+   "file": "pages/pa/pennsylvania-state-pages-1.json"
+  },
+  {
+   "file": "pages/pa/pennsylvania-city-pages-1.json"
+  },
+  {
+   "file": "pages/pa/pennsylvania-city-ptax-1.json"
+  },
+  {
+   "file": "pages/pa/pennsylvania-county-ptax-1.json"
+  },
+  {
+   "file": "pages/pa/pennsylvania-county-records-1.json"
+  },
+  {
+   "file": "pages/pa/pennsylvania-directory-1.json"
   }
  ]
 }
