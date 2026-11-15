@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Which Cheboygan County office takes my deed?",
-   "html": "<p>Take it to the County Clerk/Register of Deeds in the county building, 870 South Main Street, Room 204, Cheboygan, MI 49721. Letters go to PO Box 70, and the main line is 231-627-8808. In Cheboygan County the clerk and the register of deeds are the same office, so the same counter handles court filings, marriage licenses and land records.</p><p>The Register of Deeds side keeps weekday hours that open at 8:30 in the morning and close late in the afternoon at 4:30, half an hour after the rest of the clerk's office starts. The county closes on a fixed list of holidays that includes Good Friday, the day after Thanksgiving, Christmas Eve and New Year's Eve, so a closing planned near those dates needs an earlier recording plan.</p>"
+   "html": "<p>Take it to the County Clerk/Register of Deeds in the county building, 870 South Main Street, Room 204, Cheboygan, MI 49721. Letters go to PO Box 70, and the main line is 231-627-8808. In Cheboygan County the clerk and the register of deeds are the same office, so the same counter handles court filings, marriage licenses and land records.</p><p>The Register of Deeds side keeps weekday hours that open at 8:30 in the morning and close at half past four, half an hour after the rest of the clerk's office starts. The county closes on a fixed list of holidays that includes Good Friday, the day after Thanksgiving, Christmas Eve and New Year's Eve, so a closing planned near those dates needs an earlier recording plan.</p>"
   },
   {
    "h2": "What is the Cheboygan County Register of Deeds responsible for?",
@@ -15,11 +15,11 @@
   },
   {
    "h2": "How much is the recording fee in Cheboygan County?",
-   "html": "<p>State law puts the usual price of entering and recording a document at $30.00, with no extra charge for length. MCL 600.2567 also lists $3.00 for each added instrument on a multi-instrument assignment or discharge, $1.00 a page for copies and $5.00 to certify a recorded document.</p><p>A charter county may adopt its own schedule by ordinance, so confirm the total with the Cheboygan office before you write the check. Payment is expected when the document is left for recording, with narrow exceptions for electronic filings and government agencies. A short call to 231-627-8808 settles the exact amount.</p>"
+   "html": "<p>State law puts the usual price of entering and recording a document at $30.00, with no extra charge for length. MCL 600.2567 also lists $3.00 for each added instrument on a multi-instrument assignment or discharge, $1.00 a page for copies and $5.00 to certify a recorded document.</p><p>A charter county may adopt its own schedule by ordinance, so confirm the total with the Cheboygan office before you write the check. Payment is expected on the day the document is left at the counter, with narrow exceptions for electronic filings and government agencies. A short call to 231-627-8808 gets the exact amount.</p>"
   },
   {
-   "h2": "How much transfer tax will I owe on a Cheboygan County sale?",
-   "html": "<p>Both taxes run on the full sale price, counted in $500 steps with a partial step counted whole. MCL 207.504 sets the county rate at 55 cents a step and MCL 207.525 sets the state rate at $3.75 a step.</p><table><caption>Combined county and state transfer tax at sample prices, worked from the statutory rates</caption><thead><tr><th>Sale price</th><th>$500 units</th><th>County tax</th><th>State tax</th><th>Total</th></tr></thead><tbody><tr><td>$100,000</td><td>200</td><td>$110</td><td>$750</td><td>$860</td></tr><tr><td>$192,500</td><td>385</td><td>$211.75</td><td>$1,443.75</td><td>$1,655.50</td></tr><tr><td>$300,000</td><td>600</td><td>$330</td><td>$2,250</td><td>$2,580</td></tr></tbody></table><p>The middle row uses $192,500, which is where the Census puts the county's median home value for 2020 to 2024. The deed must print the total value, or carry an affidavit of value. When a sale bundles in a boat or furniture, stating real and personal values apart keeps the tax on the real property only.</p>"
+   "h2": "What will the state and county transfer tax add up to in Cheboygan County?",
+   "html": "<p>Both taxes run on the full sale price, counted in $500 steps with a partial step counted whole. MCL 207.504 sets the county rate at 55 cents a step and MCL 207.525 sets the state rate at $3.75 a step.</p><table><caption>Combined county and state transfer tax at sample prices, worked from the statutory rates</caption><thead><tr><th>Sale price</th><th>$500 units</th><th>County tax</th><th>State tax</th><th>Total</th></tr></thead><tbody><tr><td>$100,000</td><td>200</td><td>$110</td><td>$750</td><td>$860</td></tr><tr><td>$192,500</td><td>385</td><td>$211.75</td><td>$1,443.75</td><td>$1,655.50</td></tr><tr><td>$300,000</td><td>600</td><td>$330</td><td>$2,250</td><td>$2,580</td></tr></tbody></table><p>The middle row uses $192,500, which is the Census figure for the county's middle-priced home across the five-year survey ending 2024. The deed must print the total value, or carry an affidavit of value. When a sale bundles in a boat or furniture, stating real and personal values apart keeps the tax on the real property only.</p>"
   },
   {
    "h2": "Which deeds need a tax certificate in Cheboygan County?",
@@ -27,11 +27,11 @@
   },
   {
    "h2": "What formatting mistakes get a Cheboygan County deed rejected?",
-   "html": "<p>Mismatched names, missing addresses and cramped signature blocks cause most trouble. MCL 565.201 sets the rules that every Michigan register of deeds applies.</p><ul><li>Each signer's name is printed beneath the signature, in black or dark blue ink, and matches the name in the acknowledgment.</li><li>A notary's name is printed or stamped on the same page near the notary signature.</li><li>Every grantee's address appears on the deed, using the street number where street numbers are in common use.</li><li>The drafter's name and business address are printed on it.</li><li>The first five digits of any Social Security number are removed or obscured.</li></ul><p>A deed written in another language needs an English translation attached. A rejected deed goes back to your attorney or title company for repair.</p>"
+   "html": "<p>Mismatched names, missing addresses and cramped signature blocks cause most trouble. MCL 565.201 sets the rules that every Michigan register of deeds applies.</p><ul><li>Each signer's name is printed beneath the signature, in black or dark blue ink, and matches the name in the acknowledgment.</li><li>A notary's name is printed or stamped on the same page near the notary signature.</li><li>Every grantee's address appears on the deed, using the street number where street numbers are in common use.</li><li>The person who drafted it is named, with a workplace address.</li><li>The first five digits of any Social Security number are removed or obscured.</li></ul><p>A deed written in another language needs an English translation attached. A returned deed goes back to your drafter for repair.</p>"
   },
   {
    "h2": "What should a Cheboygan County seller know about the local housing picture?",
-   "html": "<p>Cheboygan County is big, thinly settled and full of seasonal homes. Its 885 square miles split into 715 of land and 170 of water, and the Census Bureau counts 35.8 residents per square mile.</p><p>The 2025 estimate is 25,793 people, and 30.6% of them are 65 or older. Owners hold 85.6% of homes, the middle rent is $773, and the typical household earns $62,875 (2020 to 2024 survey years). The 2020 count found 36.0% of the 17,631 housing units vacant, and the Census lists 74 building permits for 2025. County government was organized in 1853 after a merger with the former Wyandot County.</p>"
+   "html": "<p>Cheboygan County is big, thinly settled and full of seasonal homes. Its 885 square miles split into 715 of land and 170 of water, and the Census Bureau counts 35.8 residents per square mile.</p><p>The 2025 estimate is 25,793 people, and 30.6% of them are 65 or older. Owners hold 85.6% of homes, the middle rent is $773, and the typical household earns $62,875 (five-year survey ending 2024). The 2020 count found 36.0% of the 17,631 housing units vacant, and the Census lists 74 building permits for 2025. County government was organized in 1853 after a merger with the former Wyandot County.</p>"
   },
   {
    "h2": "How do I protect my Cheboygan County property from deed fraud?",
@@ -41,11 +41,11 @@
  "faqs": [
   {
    "q": "When can I reach the Cheboygan register of deeds counter?",
-   "a": "The Register of Deeds window runs Weekdays, opening at 8:30 in the morning and closing at 4:30 in the afternoon. Other clerk services start at 8:00. Closures follow the county holiday list, which includes Good Friday and the day after Thanksgiving."
+   "a": "The Register of Deeds window runs Weekdays, opening at 8:30 and closing at half past four. Other clerk services start at 8:00. Closures follow the county holiday list, which includes Good Friday and the day after Thanksgiving."
   },
   {
    "q": "Can I pay recording fees by card in Cheboygan County?",
-   "a": "Yes. The office takes cash, checks and debit or credit cards, and most services can be paid by card over the phone. Coin payments above $5.00 are refused."
+   "a": "Yes. Cash, checks and debit or credit cards all work at the office, and most services can be paid by card over the phone. Coin payments above $5.00 are refused."
   },
   {
    "q": "Is a quitclaim deed taxed differently in Cheboygan County?",

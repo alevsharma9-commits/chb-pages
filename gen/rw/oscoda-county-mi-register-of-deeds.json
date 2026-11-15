@@ -15,7 +15,7 @@
   },
   {
    "h2": "What do the Oscoda County land records offer owners?",
-   "html": "<p>The archive reaches into the late 1800s. Anything from 1985 forward is electronic, and older material is on microfiche. New filings show up online within five days. Each one is time stamped, checked, numbered, indexed and scanned.</p>\n<p>Searches go by the property owner's name, and several public computers sit in the office. The staff do not run title searches. They send people to a title company or a private searcher. The county's view is that ownership follows whatever documents the office has recorded, so a seller with an old unrecorded deed in a drawer should file it before listing.</p>\n<p>Online tools come in three flavors. Fidlar Laredo is a subscription program with a software download, popular for heavy searching. Fidlar Tapestry bills as you go and spans several Michigan counties. A free direct search link also exists on the county page.</p>\n<p>Property Fraud Alert costs county landowners nothing and starts at 1-800-728-3858 or propertyfraudalert.com/mioscoda. It alerts you right away when a paper is recorded against your parcel. The county page adds that the Youngblood Law, House Bills 5598 and 5599, signed in November 2024, makes filing a fraudulent document with any Michigan register of deeds a felony.</p>"
+   "html": "<p>The archive reaches into the late 1800s. Anything from 1985 forward is electronic, and older material is on microfiche. New filings show up online within five days. Each one is time stamped, checked, numbered, indexed and scanned.</p>\n<p>All real estate records are public, and anyone may search them in the office or online. Searches go by the property owner's name, and several public computers sit in the office. The staff do not run title searches. They send people to a title company or a private searcher. The county's view is that ownership follows whatever documents the office has recorded, so a seller with an old unrecorded deed in a drawer should file it before listing.</p>\n<p>Online tools come in three flavors. Fidlar Laredo is a subscription program with a software download, popular for heavy searching. Fidlar Tapestry bills as you go and spans several Michigan counties. A free direct search link also exists on the county page.</p>\n<p>Property Fraud Alert costs county landowners nothing and starts at 1-800-728-3858 or propertyfraudalert.com/mioscoda. It alerts you right away when a paper is recorded against your parcel. The county page adds that the Youngblood Law, House Bills 5598 and 5599, signed in November 2024, makes filing a fraudulent document with any Michigan register of deeds a felony.</p>"
   },
   {
    "h2": "What must a deed show before the Mio office accepts it?",
@@ -23,13 +23,13 @@
   },
   {
    "h2": "What is selling a house in Oscoda County like?",
-   "html": "<p>Oscoda County is the only county in Michigan with no incorporated city or village. Mio, the seat, is a census-designated place in the Au Sable River valley, where M-33 and M-72 meet. The south half lies in the Huron National Forest, much of it on the Grayling outwash plain of sandy ridges, jack pine and hardwoods. Neighbors include Montmorency, Alpena, Alcona, Iosco, Ogemaw, Roscommon, Crawford and Otsego counties. The legislature created the county in 1840 and its government formed in 1881. The name is a Schoolcraft coinage thought to mean pebbly prairie.</p>\n<p>The 2020 census counted 8,219 people, the fewest of any Lower Peninsula county. The Bureau estimates 8,723 for July 2025, up 6.1% from 2020. For 2020 to 2024 it reports a middle home value of $125,500, owner occupancy of 87.2%, and monthly rent of $681. Household income is $49,515, and about one in three residents is 65 or older. Only 44.1% of residents 16 and older are in the labor force, and the average commute is 29.1 minutes.</p>\n<p>Housing units total 7,792 against 3,788 households, which shows how many homes sit empty or are used seasonally. The Bureau tallied 24 building permits in 2025. Before listing a cabin or woodland home, search the owner's name at the register and ask the county treasurer for the tax certificate, since both steps affect closing speed.</p>"
+   "html": "<p>Oscoda County is the only county in Michigan with no incorporated city or village. Mio, the seat, is a census-designated place in the Au Sable River valley, where M-33 and M-72 meet. The south half lies in the Huron National Forest, much of it on the Grayling outwash plain of sandy ridges, jack pine and hardwoods. Neighbors include Montmorency, Alpena, Alcona, Iosco, Ogemaw, Roscommon, Crawford and Otsego counties. The legislature created the county in 1840 and its government formed in 1881. The name is a Schoolcraft coinage thought to mean pebbly prairie.</p>\n<p>The 2020 census counted 8,219 people, the fewest of any Lower Peninsula county. The Bureau estimates 8,723 for July 2025, up 6.1% from 2020. For 2020 to 2024 it reports a middle home value of $125,500, owner occupancy of 87.2%, and monthly rent of $681. Household income is $49,515, and about one in three residents is 65 or older. Only 44.1% of residents 16 and older are in the labor force, and the average commute is 29.1 minutes.</p>\n<p>The Census Bureau's snapshot of residents adds useful context for anyone pricing a house here:</p>\n<ul>\n<li>16.8% of people under 65 live with a disability, and 16.5% of residents are in poverty.</li>\n<li>81.4% of households have a broadband subscription, so remote-work buyers should confirm service at a given address.</li>\n<li>85.9% of adults 25 and older finished high school, and 15.6% hold a bachelor's degree.</li>\n<li>90.5% of residents lived in the same house a year earlier.</li>\n</ul>\n<p>With no city or village government anywhere in the county, the county offices in Mio are the nearest local government for every parcel. Oscoda County Park is listed as a good vantage point over the area. The work economy is small: the Bureau counts 176 employer establishments with 1,335 jobs in 2023, up 6.2% from 2022, and 2022 retail sales of $72.2 million. Housing units total 7,792 against 3,788 households, which shows how many homes sit empty or are used seasonally. The Bureau tallied 24 building permits in 2025. Before listing a cabin or woodland home, search the owner's name at the register and ask the county treasurer for the tax certificate, since both steps affect closing speed.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the address of the Oscoda County Register of Deeds?",
-   "a": "311 South Morenci Avenue, Mio, MI 48647. Letters go to PO Box 399 and the main number is 989-826-1110."
+   "q": "Where is the Oscoda County register's office?",
+   "a": "It is at 311 South Morenci Avenue in Mio, MI 48647. Letters go to PO Box 399, and the main number is 989-826-1110."
   },
   {
    "q": "Does Oscoda County take deeds by mail?",
@@ -40,11 +40,11 @@
    "a": "CSC Ingeo, EPN and Simplifile. Certified court documents and death certificates are excluded, so call before sending one."
   },
   {
-   "q": "What is the transfer tax on a $100,000 Oscoda County sale?",
-   "a": "It is $860: $750 for the state and $110 for the county, if no exemption fits."
+   "q": "What does a $100,000 Oscoda County sale owe in transfer tax?",
+   "a": "It is $860: $750 for the state and $110 for the county, if no exemption fits. A partial $500 block counts as a full one, so a price just over a block boundary adds to the bill."
   },
   {
-   "q": "Will the Oscoda County office search my title?",
+   "q": "Does the Mio office search titles?",
    "a": "No. It is a recording office and refers people to title companies or private searchers, though you may search names yourself in the office or online."
   }
  ],

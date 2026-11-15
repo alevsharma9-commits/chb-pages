@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "How do you get a deed recorded in Allegan County?",
-   "html": "<p>You can record electronically or on paper at the Allegan County Register of Deeds. The <a href=\"https://www.allegancounty.org/departments/register-of-deeds\">county's register page</a> names three e-recording vendors: CSC at 866-652-0111, Simplifile at 800-460-5657 and ePN, the E-Recording Partners Network, at 888-325-3365.</p>\n<p>Most title companies already use one of those platforms, so a seller rarely deals with them directly. The page also links a land records search portal, the state's recording requirements, and the county's annual clerk and register reports.</p>\n<p>The register records deeds, land contracts, mortgages, liens and leases, then stamps the document with the book, called a liber, where it is entered. A copy or image is kept as the permanent record, since the office does not keep the original deed or mortgage. The office says it does not prepare documents or answer legal questions, so it points people to an attorney or title company.</p>"
+   "html": "<p>You can record electronically or on paper at the Allegan County Register of Deeds. The <a href=\"https://www.allegancounty.org/departments/register-of-deeds\">county's register page</a> names three e-recording vendors: CSC at 866-652-0111, Simplifile at 800-460-5657 and ePN, the E-Recording Partners Network, at 888-325-3365.</p>\n<p>Most title companies already use one of those platforms, so a seller rarely deals with them directly. The page also links a land records search portal, the state's recording requirements, and the county's annual clerk and register reports.</p>\n<p>The register records deeds, land contracts, mortgages, liens and leases, then stamps the document with the book, called a liber, where it is entered. A copy or image is kept as the permanent record, since the office does not keep the original deed or mortgage. The office says it does not prepare documents or answer legal questions, so it points people to an attorney or title company.</p>\n<p>Michigan law protects a sender on one point. Under <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-565-201\">MCL 565.201</a>, a register cannot turn away a paper that meets the recording act because of what it says, and a paper the office has recorded is presumed to comply. A paper that misses the format rules is the real risk, so have the title agent review it before the signing appointment.</p>"
   },
   {
    "h2": "What does Allegan County charge to record and copy documents?",
@@ -16,6 +16,10 @@
   {
    "h2": "Which Allegan County transfers can skip the tax?",
    "html": "<p><a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526\">MCL 207.526</a> exempts a list of transfers, and a few come up often with houses in a lake or farm county like this one.</p>\n<ul>\n<li>A deed that only straightens a boundary line when no money changes hands.</li>\n<li>A quitclaim deed given to confirm a title the grantee already holds, such as one that corrects a flaw.</li>\n<li>A transfer between a limited liability company and its members when ownership shares are unchanged.</li>\n<li>A transfer between a partnership and its partners on the same terms.</li>\n<li>A deed in which the grantor is a government body or officer acting officially.</li>\n</ul>\n<p>Anyone relying on one of these should say so to the title agent before closing. A refund request goes to the Department of Treasury.</p>"
+  },
+  {
+   "h2": "What other services does the Allegan County register offer owners?",
+   "html": "<p>The office runs a free Property Fraud Alert. An owner or business enters a name and gets a notice whenever a recorded document matches it, which gives early warning of a forged deed or a lien filed against you.</p>\n<p>The register also posts Plat Board public notices, which matter to anyone splitting a parcel before a sale. A related treasurer form covers tax certification for land divisions and lot line adjustments, with its own instructions.</p>\n<p>U.S. passport applications are taken at the office by appointment only, between 8 a.m. and 4 p.m. on weekdays. The number to call is 269-673-0390.</p>"
   },
   {
    "h2": "What does the Allegan County Treasurer handle in a sale?",
@@ -80,6 +84,10 @@
   {
    "title": "MCL 207.525, State transfer tax rate",
    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"
+  },
+  {
+   "title": "MCL 565.201, Recording requirements",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-565-201"
   },
   {
    "title": "MCL 207.526, State transfer tax exemptions",

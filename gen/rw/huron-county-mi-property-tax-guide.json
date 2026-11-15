@@ -1,0 +1,67 @@
+{
+ "slug": "huron-county-mi-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Which Huron County offices deal with property tax?",
+   "html": "<p>Three offices in the county building at 250 East Huron Avenue, Bad Axe, MI 48413, cover most property tax questions. The Treasurer's Office is in Room 204 at 989-269-9238. The Equalization Department is in Room 306 at 989-269-6497, and Tax Mapping and GIS shares that room at 989-269-9421. The Treasurer and Equalization offices both keep hours of 8:30 a.m. to 4:30 p.m., Monday through Friday, and the Treasurer's staff do not close for lunch.</p><p>Assessing itself happens closer to the property. In Michigan, tax assessment is a job for individual cities and townships, so the person who sets your value works for the city or township where the house stands. Huron County's home page links to an Assessing and Tax Search tool and a FetchGIS map for looking up a parcel. The <a href=\"https://www.co.huron.mi.us/treasurers-office\">Treasurer's page</a> also lists the Huron County Land Bank, which operates from the Treasurer's office.</p>"
+  },
+  {
+   "h2": "Who sends the tax bill in Huron County, the township or the county?",
+   "html": "<p>The local treasurer sends it first. Under <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-44\">MCL 211.44</a>, the township treasurer or other collector mails each owner a statement showing the property description, taxable value and tax amount. Failing to receive the statement does not cancel the tax. Taxes still unpaid on March 1 are returned to the county treasurer, and the statute directs the local tax statement to carry notice of that return.</p><p>Huron County adds a wrinkle. Its Treasurer accepts ACH payments for delinquent taxes and also for the summer taxes of the City of Harbor Beach and Grant Township. The owner fills in an authorization form and mails it to PO Box 69, Bad Axe, MI 48413, or calls 989-269-9238 to complete it by phone. Credit and debit cards are taken with a 3 percent convenience fee. Because collection differs by unit, ask which office holds your parcel's bill before sending money.</p>"
+  },
+  {
+   "h2": "What does a late payment cost in Huron County?",
+   "html": "<p>Cost depends on timing, and the local governing body can set or waive some of it. The collecting unit follows these rules from MCL 211.44:</p><ul><li>A property tax administration fee of up to 1 percent of the bill is added to a sum voluntarily paid before February 15 of the following year.</li><li>After February 14 and before the bill is returned as delinquent, a city or township may authorize a late penalty of 3 percent.</li><li>Interest of 1 percent per month is added after the last day taxes are payable before return as delinquent.</li><li>Once the bill goes to the county treasurer, the unpaid administration fee travels with it.</li></ul><p>Some governing bodies waive part of these charges for seniors, veterans and other groups named in the statute. Ask the township or city office that sent your bill whether any waiver applies.</p>"
+  },
+  {
+   "h2": "How does a sale change the taxable value on a Huron County house?",
+   "html": "<p>A sale raises it, usually. Michigan limits yearly growth in taxable value to the lesser of 5 percent or the inflation rate, and never above the state equalized value. That limit stops at a transfer of ownership. Under <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a\">MCL 211.27a</a>, the taxable value for the year after the transfer becomes the property's state equalized value, and Michigan's equalization process aims at an assessment level of 50 percent of true cash value.</p><p>A transfer of ownership includes a conveyance by deed. For a Huron County seller, the effect shows up for the buyer. A home held for decades with a capped taxable value can see a much larger bill in the year after it sells. A seller can tell a buyer to expect that.</p>"
+  },
+  {
+   "h2": "What are the Michigan appeal deadlines for a Huron County assessment?",
+   "html": "<p>A residential or agricultural owner takes a valuation dispute to the local board of review first and then to the Michigan Tax Tribunal. The petition must be filed by July 31 of the tax year, so the 2026 residential deadline of July 31 has already passed. Commercial and industrial parcels have until May 31. The rules are in <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-735a\">MCL 205.735a</a>.</p><table><caption>Tribunal filing dates that apply to Huron County parcels</caption><thead><tr><th>Dispute</th><th>Where it starts</th><th>Filing date</th></tr></thead><tbody><tr><td>Residential, agricultural or timber-cutover valuation</td><td>Board of review, then Tribunal</td><td>July 31 of the tax year</td></tr><tr><td>Commercial, industrial or developmental valuation</td><td>Board of review or Tribunal directly</td><td>May 31 of the tax year</td></tr><tr><td>Contested tax bill (arithmetic errors only)</td><td>Tribunal</td><td>Within 60 days of the treasurer's mailing</td></tr><tr><td>Other matters</td><td>Tribunal</td><td>Within 35 days of the final decision</td></tr></tbody></table><p>A claim about a principal residence exemption has to reach the July or December board of review before the Tribunal takes jurisdiction. The township or city assessor can tell you when that board sits.</p>"
+  },
+  {
+   "h2": "What do Census figures say about Huron County homes?",
+   "html": "<p>Huron County sits on the Thumb with 836 square miles of land and over 90 miles of shoreline, and farming is its biggest industry. Bad Axe, Caseville and Harbor Beach are its cities. The county was organized in 1859 and Bad Axe became the seat in 1873. Census Bureau data for Huron County show a market with small price tags and long-held homes:</p><ul><li>Median value of an owner-occupied home is $154,300, and owners occupy 81.8 percent of homes.</li><li>Households number 14,150, with a median income of $58,870.</li><li>The median monthly owner cost is $1,135 with a mortgage and $510 without one.</li><li>Median gross rent is $788 a month.</li><li>93.0 percent of residents lived in the same house a year earlier, and 29.7 percent are 65 or older.</li><li>The population fell from 31,407 in 2020 to an estimated 30,530 in 2025.</li></ul>"
+  },
+  {
+   "h2": "What should I check about taxes before selling a Huron County house?",
+   "html": "<p>Work through a short list with the Treasurer's Office and the township or city that bills you. Call 989-269-9238 and ask for the status of the parcel, including any delinquent amounts that went to the county. Confirm which unit collects the summer and winter bills, since Harbor Beach and Grant Township summer taxes are handled by the county Treasurer. If the deed will carry a warranty, ask whether a tax certificate is needed at recording.</p><p>Keep copies of bills and payment receipts for the title company. If the parcel has ever been handled by the Huron County Land Bank, ask the Treasurer's office what is on record. Tax questions that turn on the value placed on the house go to the assessor, and the Equalization Department in Room 306 can point you to the right local unit.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I pay delinquent property tax in Huron County?",
+   "a": "Pay the Huron County Treasurer at 250 East Huron Avenue, Room 204, Bad Axe, or mail to PO Box 69, Bad Axe, MI 48413. ACH is available for delinquent taxes through an authorization form, and cards carry a 3 percent convenience fee."
+  },
+  {
+   "q": "When do unpaid Huron County property taxes go to the county?",
+   "a": "Taxes unpaid on March 1 are returned to the county treasurer for collection. That timing comes from MCL 211.44, which also requires the next tax statement to say so."
+  },
+  {
+   "q": "Does selling a house in Huron County raise the buyer's property tax?",
+   "a": "It often does. A transfer of ownership resets the taxable value to the state equalized value for the following year, so a long-held home with a capped value can be taxed on a higher figure under MCL 211.27a."
+  },
+  {
+   "q": "What is the deadline to appeal a Huron County assessment to the Tax Tribunal?",
+   "a": "For residential property the petition is due July 31 of the tax year, after a protest at the board of review. The 2026 date has passed. Commercial and industrial property can go to the Tribunal by May 31."
+  },
+  {
+   "q": "Who do I call about my Huron County property's value?",
+   "a": "Call the assessor for your city or township first, since local units set assessments. The county Equalization Department at 989-269-6497 can direct you to the right office."
+  }
+ ],
+ "sources": [
+  {"title": "Huron County Treasurer's Office", "url": "https://www.co.huron.mi.us/treasurers-office"},
+  {"title": "Huron County Equalization Department", "url": "https://www.co.huron.mi.us/equalization-department"},
+  {"title": "Houghton County Equalization Department (50 percent assessment level)", "url": "https://www.houghtoncounty.net/directory-equalization.php"},
+  {"title": "Huron County Departments", "url": "https://www.co.huron.mi.us/departments"},
+  {"title": "Huron County home page", "url": "https://www.co.huron.mi.us"},
+  {"title": "MCL 211.44 Collection of taxes", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-44"},
+  {"title": "MCL 211.27a Taxable value and transfer of ownership", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"},
+  {"title": "MCL 205.735a Tax Tribunal jurisdiction and filing dates", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-735a"},
+  {"title": "Census QuickFacts: Houghton, Huron and Ingham Counties, Michigan", "url": "https://www.census.gov/quickfacts/fact/table/houghtoncountymichigan,huroncountymichigan,inghamcountymichigan/PST045224"},
+  {"title": "Huron County, Michigan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Huron_County,_Michigan"}
+ ]
+}

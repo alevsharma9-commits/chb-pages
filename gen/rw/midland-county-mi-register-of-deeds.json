@@ -2,54 +2,58 @@
  "slug": "midland-county-mi-register-of-deeds",
  "sections": [
   {
-   "h2": "Where do you record a deed in Midland County, Michigan?",
-   "html": "<p>Deeds, mortgages and other real property documents for Midland County go to the Register of Deeds at 220 W Ellsworth Street, Midland, MI 48640. The office's phone number is (989) 832-6820, and its fax is (989) 832-6842. Recording hours are Monday through Friday, 8:00 a.m. to 4:00 p.m.</p>\n<p>Anything that arrives after 4:00 p.m. is recorded in order of receipt on the next business day, provided it comes with cash or a check. The vault, where older records are kept, keeps shorter hours of 8:30 a.m. to 4:00 p.m. The office records warranty deeds, quit claim deeds, land contracts, releases, powers of attorney, liens and plats. It does not prepare legal documents or give legal advice, so a seller who needs a deed drafted should go to an attorney or a title company.</p>"
+   "h2": "Where do Midland County deeds get recorded?",
+   "html": "<p>The Register of Deeds sits at 220 W Ellsworth Street in Midland, MI 48640, and answers at (989) 832-6820. Recording runs on weekdays, opening at 8 a.m. and closing to new documents at 4 p.m. The vault, where the older books live, opens a half hour later.</p>\n<p>A deed that shows up after the 4 p.m. cutoff waits for the next business day, and it queues in the order received as long as cash or a check came with it. The staff handle warranty and quit claim deeds, land contracts, releases, powers of attorney, liens and plats. They draft nothing and give no legal advice, which means a seller who still needs a deed written should see an attorney or a title company.</p>"
   },
   {
-   "h2": "What does Midland County charge to record a deed?",
-   "html": "<p>The recording fee is $30.00 for any document, regardless of the number of pages, and the amount includes the state remonumentation and register of deeds automation fees. The county's fee sheet adds a few other line items that sellers run into.</p>\n<table><caption>Midland County Register of Deeds fee sheet</caption><thead><tr><th>Item</th><th>Amount</th></tr></thead><tbody>\n<tr><td>Recording any document, any length</td><td>$30.00</td></tr>\n<tr><td>Document assigning or discharging more than one instrument</td><td>$3.00 per instrument, added to the $30.00</td></tr>\n<tr><td>Tax certificate from the County Treasurer</td><td>$5.00 for up to 5 legal descriptions, $1.00 for each more</td></tr>\n<tr><td>Copy of a recorded document</td><td>$1.00 per page</td></tr>\n<tr><td>Certified copy</td><td>$5.00 plus $1.00 per page</td></tr>\n</tbody></table>\n<p>The office takes cash, a check payable to Register of Deeds, or a card at the counter, with a handling charge from the card processor that the office puts at about $1.50. It also accepts e-recording from qualified submitters, which is how many title companies send closing documents. Documents that need a raised court seal or a death certificate cannot be e-recorded.</p>"
+   "h2": "Which fees does the Midland County office list?",
+   "html": "<p>One flat $30.00 covers any document of any length, with the state remonumentation and automation charges folded in. A few extras appear on the county's own fee sheet.</p>\n<table><caption>Fees on the Midland County Register of Deeds sheet</caption><thead><tr><th>Item</th><th>Amount</th></tr></thead><tbody>\n<tr><td>Recording one document</td><td>$30.00</td></tr>\n<tr><td>Document assigning or discharging more than one instrument</td><td>$3.00 per instrument beyond the first, added to $30.00</td></tr>\n<tr><td>Treasurer's tax certificate</td><td>$5.00 for up to 5 legal descriptions, then $1.00 each</td></tr>\n<tr><td>Plain copy</td><td>$1.00 per page</td></tr>\n<tr><td>Certified copy</td><td>$5.00 plus $1.00 per page</td></tr>\n</tbody></table>\n<p>Payment can be cash, a check made out to Register of Deeds, or a card at the counter, where the processor adds a charge the office puts near $1.50. The office also takes e-recording from qualified submitters, though anything needing a raised court seal or a death certificate has to be brought in on paper.</p>"
   },
   {
-   "h2": "Does a Midland County deed need a tax certificate?",
-   "html": "<p>Yes for several deed types. The county's recording page says a tax certificate must be obtained from the County Treasurer's Office before recording any of these:</p>\n<ul>\n<li>A warranty deed or any deed that contains a covenant of warranty.</li>\n<li>A land contract.</li>\n<li>An assignment of a land contract with a warranty clause.</li>\n<li>A master deed for a site condominium.</li>\n</ul>\n<p>Order the certificate before closing day, since the deed cannot go on record without it. A quit claim deed does not appear on that list. A seller who wants to check whether property taxes are current can use the county's online property and tax lookup, which the county says shows the same information as the treasurer's counter.</p>"
+   "h2": "Which Midland County deeds need a tax certificate first?",
+   "html": "<p>The county's recording page lists four instruments that require a treasurer's certificate before the register will accept them:</p>\n<ul>\n<li>Any warranty deed, or other deed with a covenant of warranty.</li>\n<li>A land contract.</li>\n<li>An assignment of a land contract that has a warranty clause.</li>\n<li>A master deed for a site condominium.</li>\n</ul>\n<p>Get the certificate before closing day, because the deed cannot be recorded without it. A bare quit claim deed is missing from that list. Sellers curious about the tax status of a parcel can use the county's online lookup, which the county describes as showing what the treasurer's counter would show.</p>"
   },
   {
-   "h2": "How is transfer tax figured in Midland County?",
-   "html": "<p>The county's chart applies $3.75 per $500 for the state and $0.55 per $500 for the county, for $4.30 per $500 combined. On a $100,000 price the chart lands at $750 state, $110 county and $860 total. Payment is required whenever the value of the real estate is $100 or more, with exemptions for situations such as the transfers described in the state and county exemption sheets that the office links.</p>\n<p>The price paid can be left off the deed if a Real Estate Transfer Tax Valuation Affidavit accompanies it. Separately, the Property Transfer Affidavit goes to the assessor of the City of Midland or whichever township holds the parcel, and the buyer files it within 45 days of the transfer.</p>"
+   "h2": "What does transfer tax come to under the Midland County chart?",
+   "html": "<p>The chart pairs $3.75 per $500 for the state with $0.55 per $500 for the county, which makes $4.30 per $500. A sale at $100,000 produces $750 for the state, $110 for the county and $860 overall. Any value of $100 or more triggers payment, subject to the exemptions on the two sheets the office links.</p>\n<p>A Real Estate Transfer Tax Valuation Affidavit lets the parties leave the price off the deed. A separate Property Transfer Affidavit goes to the assessor of the City of Midland or of the township where the parcel lies, and state law gives the buyer 45 days to file it.</p>"
   },
   {
-   "h2": "What should sellers know about the county's land records and geography?",
-   "html": "<p>Midland County was organized in 1855, and the register's indexes begin that year. Records from 1968 onward are scanned and indexed in the computer system, images are online back to 1950, and older records are held in books and microfilm. Search runs through the Fidlar-hosted Tapestry EON and Laredo tools, and the public can copy any recorded document.</p>\n<p>The county covers about 517 square miles of land, according to the Census Bureau, and has two incorporated cities: Midland, the county seat, and Coleman. The Tittabawassee River runs through Edenville Township and past the village of Sanford, and in May 2020 the failure of the Edenville and Sanford dams forced evacuations in parts of the city of Midland and several townships. A seller in a river area should have flood and drainage questions answered in writing before listing. Dow Chemical was founded in the city of Midland in 1890, according to the county's history.</p>\n<p>Utilities shape what a buyer asks about. The city of Midland supplies water and sewer to city residents and some adjoining townships, while parcels in unincorporated areas without municipal water depend on private wells and septic systems. The county's winters are cold and snowy, with January highs around freezing, and the summers are hot and rainy. A seller outside the city limits should expect questions about the well, the septic system and the basement, and should gather any records before listing.</p>"
+   "h2": "What is the usual order of a Midland County closing?",
+   "html": "<p>A title company runs most of these steps, but the order helps a seller see where the money and paper go.</p>\n<ul>\n<li>Request a treasurer's tax certificate when the deed contains a warranty covenant.</li>\n<li>Have the deed notarized. The recorder's staff cannot do it, and the County Clerk in the same County Services Building charges a small fee.</li>\n<li>Send the state and county transfer tax to the county treasurer within 15 days of delivering the deed (MCL 207.523(3)).</li>\n<li>Record the deed and pay the $30.00, aiming to arrive before 4:00 p.m.</li>\n<li>Leave the buyer to file the Property Transfer Affidavit with the City of Midland or the township assessor inside the 45-day window.</li>\n</ul>\n<p>Recorders also pass a list of recorded transactions to local assessors at least monthly under MCL 211.27a(10).</p>"
   },
   {
-   "h2": "What is the order of steps for a Midland County sale?",
-   "html": "<p>The sequence below follows the county's recording rules and the state statutes, and a title company usually handles most of it.</p>\n<ul>\n<li>Order a tax certificate from the County Treasurer if the deed carries a warranty clause.</li>\n<li>Sign the deed before a notary. The register's office does not notarize, but the County Clerk next door does for a fee.</li>\n<li>Pay state and county transfer tax to the county treasurer within 15 days after the deed is delivered, as MCL 207.523(3) requires.</li>\n<li>Record the deed with the $30.00 fee, ideally before 4:00 p.m. so it posts that business day.</li>\n<li>The buyer files the Property Transfer Affidavit with the City of Midland or the township assessor within 45 days.</li>\n</ul>\n<p>The register also reports recorded deeds to the local assessor at least once a month under MCL 211.27a(10), so the assessor sees each recorded sale.</p>"
+   "h2": "How far back do Midland County's records go?",
+   "html": "<p>The office dates its records from 1855, the year the county was established. Books and microfilm cover the whole run, scanned images with computer indexing start in 1968, and online images reach back to 1950. Searches run through Fidlar-hosted tools called Tapestry EON and Laredo, and anyone may order a copy of a recorded paper, since all of them are public.</p>\n<p>The index for 1958 to 1968 is available in an Adobe search format, and entries older than 1958 turn up in the Simple Search option. The office says back-indexing continues, so an older chain of title may need a visit or a call. The county's recording page also links a property fraud alert and a reporting form, which is worth asking about if a relative's name is still on a parcel you plan to sell.</p>"
   },
   {
-   "h2": "What do Census figures show about Midland County homes?",
-   "html": "<p>The Census Bureau estimates 83,754 residents and 37,723 housing units for 2025. Of the occupied homes, 78.1 percent are owner-occupied, the median owner-occupied value for 2020 to 2024 is $195,400, and median gross rent is $1,016. Median household income is $77,705, 36.6 percent of adults 25 and older hold a bachelor's degree, and the county issued 128 building permits in 2025.</p>\n<p>About 22 percent of occupied homes are rented, households average 2.36 people, and 90.0 percent of residents lived in the same house a year earlier, so most owners stay put. Mean travel time to work is 23.7 minutes. The population has risen only 0.3 percent since the April 2020 base, which is a slow-moving market for a seller to read.</p>"
+   "h2": "What does the ground and water situation look like for sellers?",
+   "html": "<p>Midland County has 517 square miles of land by the Census Bureau's count and only two incorporated cities, Midland, the county seat, and Coleman. The Tittabawassee River runs through Edenville Township and past the village of Sanford. In May 2020 the Edenville and Sanford dam failures forced evacuations across parts of the city, the village and several townships, so a seller near the river should be ready to answer flood and drainage questions in writing. Dow Chemical dates to 1890 in the city of Midland, per the county history.</p>\n<p>Service lines vary by location. The city of Midland provides water and sewer to its residents and a few neighboring townships, while parcels beyond municipal water rely on private wells and septic systems. Winters are cold and snowy, with January highs near freezing. Out in the townships, collect well and septic records before listing.</p>"
+  },
+  {
+   "h2": "How does Midland County's housing stock compare in the Census data?",
+   "html": "<p>For 2025 the Bureau estimates 83,754 residents in 37,723 housing units. Owners hold 78.1 percent of occupied homes, so roughly 22 percent are rented, at a median gross rent of $1,016. The typical owner-occupied home was valued at $195,400 for 2020 to 2024, and median household income was $77,705. Builders took out 128 permits in 2025.</p>\n<p>The county's headcount is up just 0.3 percent from the April 2020 base. About 90 percent of residents stayed in the same house for the prior year, which points to long ownership. Workers average 23.7 minutes to reach their jobs, and 36.6 percent of adults 25 or older have a bachelor's degree.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Where is the Midland County Register of Deeds?",
-   "a": "It is at 220 W Ellsworth Street, Midland, MI 48640, and the phone number is (989) 832-6820. Recording hours are 8:00 a.m. to 4:00 p.m., Monday through Friday, and the vault opens at 8:30 a.m. Documents received after 4:00 p.m. are recorded the next business day."
+   "q": "What is the street address for Midland County deeds?",
+   "a": "220 W Ellsworth Street, Midland, MI 48640, phone (989) 832-6820. Recording closes at 4 p.m. on weekdays, and papers received later are recorded the next business day."
   },
   {
-   "q": "How much does it cost to record a deed in Midland County?",
-   "a": "The recording fee is $30.00 for any document, no matter how many pages. A tax certificate for a warranty deed costs $5.00 for up to five legal descriptions."
+   "q": "What is the price to file a deed there?",
+   "a": "$30.00 for any document, regardless of length. A treasurer's tax certificate for a warranty deed adds $5.00 for up to five legal descriptions."
   },
   {
-   "q": "Can I e-record a deed in Midland County?",
-   "a": "Yes, for qualified submitters, including documents that need tax certification. Documents that require a raised court seal or a death certificate cannot be e-recorded."
+   "q": "Does Midland County take e-recorded deeds?",
+   "a": "Yes, from qualified submitters, including documents that need tax certification. Paper is still required for documents that need a raised court seal or a death certificate."
   },
   {
-   "q": "Does the register of deeds notarize or prepare documents?",
-   "a": "No. The office does not prepare legal documents, and its own staff do not notarize the papers it records, because that would be a conflict of interest. The County Clerk's office next door in the County Services Building has a notary for a small fee."
+   "q": "Can the register's staff notarize or draft a deed?",
+   "a": "No. The office does not write legal documents, and its own staff do not notarize what they record, since that would create a conflict of interest. The County Clerk's office next door has a notary available for a small fee."
   },
   {
-   "q": "How much is the transfer tax on a $100,000 sale in Midland County?",
-   "a": "It is $860, made up of $750 state tax and $110 county tax, according to the county's transfer tax chart. A $200,000 sale would run $1,720 on the same rates."
+   "q": "What would a $100,000 sale owe in transfer tax?",
+   "a": "$860 in total: $750 to the state and $110 to the county, according to the county's chart. A $200,000 sale would owe $1,720 at the same rates."
   }
  ],
  "sources": [
@@ -72,6 +76,14 @@
   {
    "title": "MCL 600.2567, register of deeds fees",
    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"
+  },
+  {
+   "title": "MCL 207.523, transfer tax payment",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-523"
+  },
+  {
+   "title": "MCL 211.27a, transfer notice",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
   },
   {
    "title": "Census Bureau QuickFacts, Midland and Monroe counties",
