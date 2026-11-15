@@ -17,3 +17,13 @@ for f in glob.glob('pages/*/*.json'):
             if head2!=head:p['content']=head2+c[a:];ch=True;n+=1
     if ch:json.dump(items,open(f,'w'))
 print('fixes',n)
+# drop an empty "What we could not confirm" heading left after list items were removed
+m=0
+for f in glob.glob('pages/*/*.json'):
+    items=json.load(open(f));ch=False
+    for p in items:
+        c=p['content']
+        c2=re.sub(r"<h2[^>]*>What we could not confirm</h2>\s*(?=<h2|<div|$)","",c)
+        if c2!=c:p['content']=c2;ch=True;m+=1
+    if ch:json.dump(items,open(f,'w'))
+print('empty headings removed',m)
