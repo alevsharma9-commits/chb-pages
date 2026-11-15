@@ -1,0 +1,81 @@
+{
+ "slug": "minnesota-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Minnesota tax the profit when I sell a house?",
+   "html": "<p>Yes, if the gain is not covered by the federal home sale exclusion. The Department of Revenue's 2026 bracket announcement lists four income tax rates, 5.35%, 6.80%, 7.85% and 9.85%, and it has no separate schedule for capital gains.</p>\n<p>Many owners owe nothing on a main home. The Internal Revenue Code lets a homeowner exclude up to $250,000 of gain, or $500,000 on a joint return, and Minnesota's own net investment income schedule confirms that gain excluded for regular income tax purposes is left out of its calculation. A seller with a rental, a second home or a home owned for under two years has more to work through. This guide covers the state side first and then the federal rules that decide how much gain is left to tax.</p>"
+  },
+  {
+   "h2": "What are the Minnesota income tax rates for a sale in 2026?",
+   "html": "<p>The brackets below apply to tax year 2026 and are filed in 2027. They are adjusted each year for inflation, by 2.369% from 2025, and the rates stay the same while the dollar thresholds move. The married separate brackets are half the married joint amounts.</p>\n<table>\n<caption>2026 Minnesota income tax brackets (Minnesota Department of Revenue, December 16, 2025)</caption>\n<thead><tr><th>Rate</th><th>Single</th><th>Married joint</th></tr></thead>\n<tbody>\n<tr><td>5.35%</td><td>Up to $33,310</td><td>Up to $48,700</td></tr>\n<tr><td>6.80%</td><td>$33,311 to $109,430</td><td>$48,701 to $193,480</td></tr>\n<tr><td>7.85%</td><td>$109,431 to $203,150</td><td>$193,481 to $337,930</td></tr>\n<tr><td>9.85%</td><td>$203,151 and over</td><td>$337,931 and over</td></tr>\n</tbody>\n</table>\n<p>The department also lists head of household and married separate brackets, and standard deductions for 2026 of $15,300 for single and married separate filers, $30,600 for married joint, and $23,000 for head of household. These thresholds apply to taxable income, so a large gain in the year of sale can push the top slice of your income into the 9.85% bracket.</p>"
+  },
+  {
+   "h2": "Who pays the extra 1% Minnesota net investment income tax?",
+   "html": "<p>Minnesota adds a 1% tax on net investment income above $1,000,000 for individuals, estates and trusts. Schedule NIIT subtracts $1,000,000 from your Minnesota net investment income and multiplies the rest by one percent. Corporations are not covered.</p>\n<p>Capital gains are named in the schedule's list of investment income, next to interest, dividends, rental and royalty income and non-qualified annuities. Three details matter to a home seller:</p>\n<ul>\n<li>Gain excluded from gross income for regular tax, such as the first $250,000 or $500,000 on a main home, is not net investment income.</li>\n<li>Net gain from selling class 2a agricultural land in Minnesota is carved out of the Minnesota calculation.</li>\n<li>The tax is subject to the same estimated payment rules as other individual tax, so an owner expecting a large gain should adjust withholding or estimates to avoid an underpayment penalty.</li>\n</ul>\n<p>Partners and shareholders who pay through a composite or pass-through entity tax still file Schedule NIIT with Form M1 if their investment income passes $1 million.</p>"
+  },
+  {
+   "h2": "How much of my Minnesota home gain can I exclude?",
+   "html": "<p>The federal exclusion is $250,000 of gain, or $500,000 for joint filers, and Minnesota follows it for the net investment tax, as the department's schedule states. To qualify you must pass an ownership test and a use test. Either you or your spouse must have owned the home for at least 24 months of the last five years, and both spouses must have lived in it as a residence for at least 24 months of that period. The months do not need to be consecutive, and the two tests can be met in different two-year windows, but both must fall within the five years ending on the sale date.</p>\n<p>Generally you cannot claim the exclusion if you excluded gain on another home sale in the two years before this one. Members of the uniformed services, the Foreign Service and the intelligence community who are on qualifying extended duty can suspend the five-year test for up to 10 years.</p>\n<p>A simple example: a single seller with a $310,000 gain on a main home that passes both tests excludes $250,000 and reports the remaining $60,000. A married couple filing jointly with the same gain reports nothing, though a 1099-S still has to be accounted for.</p>"
+  },
+  {
+   "h2": "What federal rules decide the size of my taxable gain?",
+   "html": "<p>Your gain is the amount you realized on the sale minus your adjusted basis. Basis is generally what you paid, and inherited or gifted property follows different rules covered in IRS Publication 551. A loss on the sale of a personal home is not deductible. Hold the home for more than one year and the gain is long-term, and one year or less makes it short-term, which is taxed as ordinary income at graduated rates.</p>\n<p>IRS Topic 409 lists the 2025 federal long-term rates, which is the most recent table on that page. Most net capital gain is taxed at no more than 15%.</p>\n<ul>\n<li>0% for 2025 taxable income up to $48,350 single, $96,700 married joint, or $64,750 head of household.</li>\n<li>15% above those amounts, up to $533,400 single, $600,050 married joint or $566,700 head of household.</li>\n<li>20% on the part above the 15% ceiling.</li>\n<li>Up to 25% on the unrecaptured section 1250 portion of gain on real property, which can matter if you claimed depreciation on a rental.</li>\n</ul>\n<p>Check the IRS page for the thresholds that apply to a 2026 sale. Federal reporting is on Form 8949 and Schedule D, and if you receive a Form 1099-S you must report the sale even when the whole gain is excluded. Sales paid over several years can use the installment method, and the home sale exclusion remains available alongside it.</p>"
+  },
+  {
+   "h2": "How does Minnesota tax a nonresident who sells Minnesota property?",
+   "html": "<p>Minnesota allocates gains from tangible property located in the state to Minnesota under Minnesota Statutes 290.17, subdivision 2, when the property is not used in the owner's business. The income of resident individuals is not allocated outside the state at all, so a Minnesota resident reports the whole gain here.</p>\n<p>A nonresident who sells a Minnesota house, cabin or lot should therefore expect to file a Minnesota return for the year of sale. The net investment income schedule describes how a part-year resident or nonresident allocates the figure, using Schedule M1NR lines 1 through 8. If you moved out of Minnesota before closing, the date of the move can change the filing, so call the Department of Revenue before you sign the closing statement.</p>"
+  },
+  {
+   "h2": "What did Minnesota change about capital gains over time?",
+   "html": "<p>Before the 1987 tax reform, Minnesota excluded 60% of capital gains income from taxable income, and taxpayers could also subtract federal income tax. The department lists that change as one of several that broadened the tax base. The top rate in the department's historical explanation is 9.85%, and brackets have been indexed for inflation since 1979. The department notes that average tax paid can be far lower than the top rate: a married couple with $400,000 of total income in its 2014 example owes about 6.0% of that income, even though its last dollar is taxed at 9.85%.</p>\n<p>Sellers should keep their closing disclosure, the records of what they paid for the home, and receipts for improvements that raise basis. Those papers decide the gain more than the sale price does.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Minnesota capital gains tax rate in 2026?",
+   "a": "Minnesota has no separate capital gains rate in its 2026 bracket announcement. Taxable gain is taxed within the 5.35%, 6.80%, 7.85% and 9.85% income tax brackets. A 1% net investment income tax applies only above $1,000,000."
+  },
+  {
+   "q": "Do I owe Minnesota tax on a main home if I qualify for the federal exclusion?",
+   "a": "Not on the excluded part. The federal exclusion covers up to $250,000 of gain, or $500,000 on a joint return, and Minnesota's net investment schedule leaves excluded gain out. Any gain above the limit is taxable income."
+  },
+  {
+   "q": "How long must I live in a house to use the exclusion?",
+   "a": "You must own it and live in it for at least 24 months within the five years before the sale. The two periods can be different stretches within that window."
+  },
+  {
+   "q": "Does the Minnesota net investment income tax apply to all home sales?",
+   "a": "No. It applies only when Minnesota net investment income is above $1,000,000, and it excludes gain that is excluded for regular income tax. The tax is 1% of the amount above $1,000,000."
+  },
+  {
+   "q": "Do I need to file if I get a 1099-S but owe nothing?",
+   "a": "Yes for the federal return. IRS Topic 701 says you must report the sale when you receive a Form 1099-S even if the whole gain is excludable, using Form 8949 and Schedule D when required."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Minnesota income tax brackets for tax year 2026, Minnesota Department of Revenue",
+   "url": "https://revenue.state.mn.us/press-release/2025-12-16/minnesota-income-tax-brackets-standard-deduction-and-dependent-exemption"
+  },
+  {
+   "title": "2026 Schedule NIIT, Net Investment Income Tax, Minnesota Department of Revenue",
+   "url": "https://revenue.state.mn.us/sites/default/files/2026-10/niit-26.pdf"
+  },
+  {
+   "title": "Minnesota's Income Tax Rates Since 1933, Minnesota Department of Revenue",
+   "url": "https://revenue.state.mn.us/sites/default/files/2018-12/explanation_of_mn_tax_rates.pdf"
+  },
+  {
+   "title": "Minnesota Statutes 290.17",
+   "url": "https://www.revisor.mn.gov/statutes/cite/290.17"
+  },
+  {
+   "title": "IRS Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic no. 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  }
+ ]
+}
