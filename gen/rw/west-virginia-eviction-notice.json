@@ -1,0 +1,93 @@
+{
+ "slug": "west-virginia-eviction-notice",
+ "sections": [
+  {
+   "h2": "How does a West Virginia eviction start?",
+   "html": "<p>An eviction in West Virginia starts with a verified petition filed in the magistrate court or circuit court of the county where the rental is located. Section 55-3A-1 of the <a href=\"https://code.wvlegislature.gov/55-3A-1/\">West Virginia Code</a> lets an owner or the owner's agent apply for summary relief to remove a tenant from residential rental property.</p>\n<p>The petition has to say four things: that the petitioner is the owner or agent and has a right to recover possession, a brief description of the property, the reason the tenant is wrongfully occupying it, and a request for possession. The reason must be one of three. The tenant is behind on rent, has breached a warranty or leasehold covenant, or has deliberately or negligently damaged the property or knowingly let someone else do so. The petition describes the arrearage, breach or act in question.</p>\n<p>The West Virginia Judiciary publishes a <a href=\"https://www.courtswv.gov/node/695\">petition form</a> for this, titled Petition for Summary Relief, Wrongful Occupation of Residential Rental Property. It cites sections 55-3A-1, 50-5-8(a) and 37-15-3 and Magistrate Court Civil Rule 6A, and it needs to be sworn or affirmed before a notary.</p>"
+  },
+  {
+   "h2": "What are the notice types and how many days apply?",
+   "html": "<p>The statute we read sets hearing and response periods in days, and it ties the no-cause route to the length of the tenancy. The table below lists the periods we confirmed in the Code and the court materials.</p>\n<table>\n<thead><tr><th>Step or notice</th><th>Time period</th><th>Source</th></tr></thead>\n<tbody>\n<tr><td>Hearing after petition is filed</td><td>Not less than 5 and not more than 10 judicial days after filing</td><td>55-3A-1(b)</td></tr>\n<tr><td>Tenant's written defense</td><td>Within 5 days of receiving the notice of hearing</td><td>55-3A-1(c)</td></tr>\n<tr><td>Answer under magistrate rules</td><td>Within 5 days after service of the summons and complaint</td><td>Magistrate Court Civil Rule 4</td></tr>\n<tr><td>Jury demand</td><td>Written notice within 5 days of service</td><td>Judiciary petition form</td></tr>\n<tr><td>Year-to-year tenancy, termination notice</td><td>In writing, at least three months before the end of any year</td><td>37-6-5</td></tr>\n<tr><td>Periodic tenancy under one year, no-cause notice</td><td>Notice for one full period before the end of a period</td><td>37-6-5</td></tr>\n<tr><td>Stored belongings after an order</td><td>Landlord may dispose after thirty days in listed cases</td><td>55-3A-3(h)</td></tr>\n</tbody>\n</table>\n<p>Section 55-3A-1 does not itself list a separate pre-filing notice period for the three grounds. If a lease has its own notice terms, those can control, as discussed below. A landlord who is unsure which clock applies should ask the magistrate court clerk or an attorney before filing.</p>"
+  },
+  {
+   "h2": "How does the no-cause termination notice work?",
+   "html": "<p>A landlord can end a month-to-month or other short periodic tenancy by giving notice for one full period before the end of a period. Section 37-6-5 says a tenancy from year to year may be ended by either party with written notice at least three months before the end of any year. A periodic tenancy with a period shorter than a year may be ended by that same notice or by notice for one full period before the end of any period.</p>\n<p>Where the notice goes matters. When it is for the tenant, it may be served on the tenant or on anyone holding under the tenant, and the same is true of any part of the leased premises. A tenant's notice to the landlord can be served on the owner or the owner's agent.</p>\n<p>Two carve-outs apply. The section does not apply where a special agreement fixes some other notice period or says no notice is to be given. Nor is notice needed for a tenant whose term ends at a certain time.</p>\n<ul>\n<li>Year to year: written notice at least three months before year end.</li>\n<li>Shorter periodic tenancy: notice for one full period.</li>\n<li>Lease with its own terms: check the agreement first.</li>\n<li>Fixed term ending on a set date: no notice needed under this section.</li>\n</ul>"
+  },
+  {
+   "h2": "What happens at the hearing?",
+   "html": "<p>The court schedules a hearing five to ten judicial days after the petition is filed, and the landlord must serve notice of it right away. Section 55-3A-1(c) requires service under Rule 4 of the West Virginia Rules of Civil Procedure or by certified mail, return receipt requested. The notice tells the tenant that any written defense must be filed and served within five days of receiving it, and the petitioner then files the petition with proof of service.</p>\n<p>If the tenant does not appear, answer or file a response by the hearing, section 55-3A-3(a) says the court shall enter an order granting immediate possession to the landlord. If the tenant answers, the hearing covers the issues raised. For a rent claim, the tenant can argue that the landlord breached a material covenant on which the duty to pay rent depends. For a breach or damage claim, the tenant can raise defenses to the petition.</p>\n<p>Section 55-3A-2 adds that the tenant may assert any defense available in an action for ejectment or unlawful detainer.</p>\n<p>Continuances are for cause only and cannot be granted to either party as a matter of right. If the tenant gets one, the tenant must pay into court any periodic rent that becomes due while it lasts.</p>"
+  },
+  {
+   "h2": "How does the order and removal work?",
+   "html": "<p>If the court finds wrongful occupation, it enters an order granting immediate possession, and the order sets the date by which the tenant must leave. Section 55-3A-3(f) tells the court to consider the nature of the property, such as furnished or unfurnished, the possible harm to each side, and other relevant facts when setting the time to vacate.</p>\n<p>The order also provides that if the tenant stays past that time, the sheriff shall forthwith remove the tenant, taking care to guard against damage to the property of both landlord and tenant. The statute names the sheriff as the one who removes the tenant.</p>\n<p>On appeal, a tenant who wins gets money damages only if the lease term has expired, unless there is an issue of title, retaliatory eviction or breach of warranty. During an appeal, a tenant is not entitled to stay if the tenancy has otherwise expired.</p>"
+  },
+  {
+   "h2": "What can a landlord do with belongings left behind?",
+   "html": "<p>The statute gives the landlord three options after a possession order when the tenant leaves belongings. Under section 55-3A-3(h), the landlord may dispose of items without liability if the tenant says in writing they are abandoned or if the items are garbage. The landlord may also remove and store the items, or leave them on the property.</p>\n<ul>\n<li>Stored items may be disposed of after thirty days if the tenant has not paid reasonable storage and removal costs and has not taken the property back, or if storage costs equal the value of the items.</li>\n<li>Items left on the property may be disposed of after thirty days if the tenant has not paid the reasonable cost of leaving them and has not retrieved them.</li>\n<li>Items worth more than $300 must be stored for up to thirty more days if the tenant or a secured party says they intend to remove them and pays the reasonable costs.</li>\n</ul>\n"
+  },
+  {
+   "h2": "Can you sell a house that has a tenant in it?",
+   "html": "<p>You can usually sell a rental while it is occupied, but a buyer who wants the house empty has to reckon with the timeline above. A petition, a hearing five to ten judicial days later, a possible defense, and then a vacate date set by the court all come before the sheriff can act.</p>\n<p>That timeline affects how an owner thinks about a sale. A conventional buyer who needs a vacant house, or whose lender will not close with an occupant, may walk away from a rental with a pending case. We buy houses as-is, so ask us whether an occupied house is something we can take on.</p>\n<p>We have not confirmed in a statute what happens to an existing lease when a landlord sells, so we do not state a rule here. Read your lease, and ask a West Virginia attorney whether it binds a new owner.</p>\n<ul>\n<li>Gather the lease, rent ledger and any written notices.</li>\n<li>Note whether the tenancy is year to year, periodic or for a fixed term.</li>\n<li>Photograph any damage before and after the tenant leaves.</li>\n<li>Keep copies of what you served, and how.</li>\n</ul>"
+  },
+  {
+   "h2": "Where do you find the court forms?",
+   "html": "<p>The West Virginia Judiciary hosts the petition and a civil summons for wrongful occupation of residential rental property on its <a href=\"https://www.courtswv.gov/public-resources/court-forms/magistrate-court-forms\">magistrate court forms page</a>. The petition form includes a notice that any party seeking over $20.00 or possession of real estate may elect a jury trial, and that the election must be made in writing within 5 days of service in wrongful occupation cases or the right is lost.</p>\n"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days does a West Virginia landlord have to wait before filing an eviction?",
+   "a": "Section 55-3A-1 does not set a separate waiting period for the three listed grounds: unpaid rent, breach of a warranty or leasehold covenant, and damage to the property. The hearing is set 5 to 10 judicial days after filing. Check your lease for notice terms of its own."
+  },
+  {
+   "q": "How long does a tenant have to respond to an eviction petition?",
+   "a": "Five days. The notice of hearing tells the tenant that a written defense may be filed within five days of receiving it, and the magistrate court rules give a defendant 5 days after service of the summons and complaint to answer in wrongful occupation cases."
+  },
+  {
+   "q": "How much notice ends a month-to-month tenancy?",
+   "a": "Notice for one full period before the end of a period. Under section 37-6-5, a periodic tenancy shorter than a year can be ended that way, and a year-to-year tenancy needs written notice at least three months before the end of any year. A special agreement in the lease can change the notice."
+  },
+  {
+   "q": "Can a landlord remove a tenant without a court order?",
+   "a": "No. Under section 55-3A-3, the court's order sets the date to vacate, and if the tenant stays beyond it the sheriff removes the tenant. The sources we read describe removal as a court and sheriff process."
+  },
+  {
+   "q": "What happens to a tenant's belongings after an eviction order?",
+   "a": "The landlord may dispose of items the tenant has declared abandoned in writing, or garbage. Otherwise the landlord may store the items or leave them in place, and may dispose of them after thirty days in the listed cases. Items worth more than $300 may need up to thirty more days of storage."
+  }
+ ],
+ "sources": [
+  {
+   "title": "W. Va. Code 55-3A-1 Petition for summary relief",
+   "url": "https://code.wvlegislature.gov/55-3A-1/"
+  },
+  {
+   "title": "W. Va. Code 55-3A-2 Defenses available",
+   "url": "https://code.wvlegislature.gov/55-3A-2/"
+  },
+  {
+   "title": "W. Va. Code 55-3A-3 Proceedings in court; final order; abandoned personal property",
+   "url": "https://code.wvlegislature.gov/55-3A-3/"
+  },
+  {
+   "title": "W. Va. Code 37-6-5 Notice to terminate tenancy",
+   "url": "https://code.wvlegislature.gov/37-6-5/"
+  },
+  {
+   "title": "West Virginia Judiciary Petition for Summary Relief, Wrongful Occupation form",
+   "url": "https://www.courtswv.gov/sites/default/pubfilesmnt/2023-07/MLTPTW~1.PDF"
+  },
+  {
+   "title": "West Virginia Judiciary Petition for Summary Relief page",
+   "url": "https://www.courtswv.gov/node/695"
+  },
+  {
+   "title": "Rules of Civil Procedure for Magistrate Courts",
+   "url": "https://www.courtswv.gov/legal-community/court-rules/rules-of-civil-procedure-for-magistrate-court"
+  },
+  {
+   "title": "West Virginia Judiciary Magistrate Court Forms",
+   "url": "https://www.courtswv.gov/public-resources/court-forms/magistrate-court-forms"
+  }
+ ]
+}

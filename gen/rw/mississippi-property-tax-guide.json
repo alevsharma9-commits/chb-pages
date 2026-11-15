@@ -1,0 +1,69 @@
+{
+ "slug": "mississippi-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How is property tax calculated in Mississippi?",
+   "html": "<p>A Mississippi tax bill is the true value of the property times an assessment ratio times the millage rate. The <a href=\"https://www.dor.ms.gov/county-services/property-tax-frequently-asked-questions\">Department of Revenue FAQ</a> gives the formula as true value x assessment ratio x millage rate, and the ratios are set by the Mississippi Constitution.</p><p>Property is split into five classes, and the class decides the ratio:</p><table><thead><tr><th>Class</th><th>Property</th><th>Assessment ratio</th></tr></thead><tbody><tr><td>I</td><td>Single-family, owner-occupied residential real property</td><td>10%</td></tr><tr><td>II</td><td>All other real property (except Class I or IV)</td><td>15%</td></tr><tr><td>III</td><td>Personal property (except vehicles and Class IV)</td><td>15%</td></tr><tr><td>IV</td><td>Public utility property</td><td>30%</td></tr><tr><td>V</td><td>Motor vehicles</td><td>30%</td></tr></tbody></table><p>The state's own example uses a $100,000 true value, a 10% ratio and 125 mills, which gives $10,000 of assessed value and $1,250 in tax. One mill is one thousandth of a dollar. A house you live in is Class I. Class I is limited to owner-occupied single-family residences, so property outside that definition, such as land or a rental, is Class II at the higher 15% ratio. Heirs who stop living in a parent's home should ask the Tax Assessor how the house will be classed. See the <a href=\"https://www.dor.ms.gov/county-services/local-property-appraisal\">Department of Revenue appraisal page</a> for the full explanation.</p>"
+  },
+  {
+   "h2": "Who sets, bills and collects the tax?",
+   "html": "<p>Several locally elected officials share the job, and the state mostly oversees. According to the <a href=\"https://www.dor.ms.gov/county-services/local-property-appraisal\">Department of Revenue</a>, the county Tax Assessor determines value, the Tax Collector collects, the Chancery Clerk keeps land records and runs the tax sale, and the Board of Supervisors hears objections and adopts the tax rolls.</p><ul><li>Taxing authorities are county boards of supervisors, municipal boards and certain school boards. They set the millage rates.</li><li>Every property carries a county rate and a school district rate. A property inside city limits or a special levee district pays that jurisdiction's rate too.</li><li>Each county has five supervisors, one elected from each of five districts.</li><li>The Department of Revenue audits county appraisal work, and the State Auditor oversees collection.</li></ul><p>Tax revenue supports county and city governments and local school districts, and the department says a significant portion of county revenue comes from it. That is why two houses of equal value can have different bills if one is inside a city and the other is not.</p>"
+  },
+  {
+   "h2": "When are Mississippi property taxes assessed and due?",
+   "html": "<p>Property is assessed to the owner of record on January 1, bills go out in November or December, and the tax is due by February 1 of the following year. If February 1 lands on a weekend or legal holiday, payment the next Monday carries no penalty or interest.</p><table><thead><tr><th>Step</th><th>Timing</th></tr></thead><tbody><tr><td>Assessment date, owner of record</td><td>January 1</td></tr><tr><td>Homestead exemption filing window</td><td>January 1 to April 1</td></tr><tr><td>Ownership instrument filed with Chancery Clerk (for exemption)</td><td>Before January 7</td></tr><tr><td>Assessment appeal to Board of Supervisors</td><td>Normally by the first Monday in August</td></tr><tr><td>Bills issued</td><td>November to December</td></tr><tr><td>Taxes due</td><td>February 1 of the next year</td></tr><tr><td>County tax sale</td><td>First Monday in April or last Monday in August, depending on county</td></tr></tbody></table><p>Assessors must revalue real property at least once every four years, and taxable personal property every year. Interior inspections of residences are not required, but the assessor can physically inspect the property and all structures on it count, including an old barn.</p>"
+  },
+  {
+   "h2": "How does the homestead exemption work, and what changes when you sell?",
+   "html": "<p>Homestead exemption cuts the tax on a primary residence, and the owner has to apply for it. The <a href=\"https://www.dor.ms.gov/county-services/homestead-exemption\">Department of Revenue homestead page</a> says applications go to the county Tax Assessor between January 1 and April 1, and that the exemption renews each year without refiling unless something changes.</p><ul><li>Tier 1 is a tax credit of up to $300 for applicants under 65 who do not qualify for the disability tier.</li><li>Tier 2 covers owners 65 or older, or totally disabled, by January 1. They are exempt from tax on the first $7,500 of assessed value, and the state FAQ describes the exemption as covering the first $75,000 of true value.</li><li>Tier 3 is a total exemption for service-connected totally disabled veterans, honorably discharged veterans at least 90 years old, and certain unremarried surviving spouses of service members who died on active duty.</li></ul><p>Applicants must own and occupy the home on January 1, and ownership must exist before then. Changes in ownership, use or occupancy, including deed changes, divorce or death, can require a new application. Failing to keep up with income tax filing or vehicle registration rules can lead to disallowance, and the department warns that a disallowed owner may have to repay the exemption received in error.</p><p>For sellers, the timing point is January 1. If a house closes after that date and before the bill is paid, the tax was assessed to the earlier owner of record, so the closing statement should deal with it.</p>"
+  },
+  {
+   "h2": "How do you appeal an assessment in Mississippi?",
+   "html": "<p>You request a hearing with the county Board of Supervisors, and the Chancery Clerk can tell you how the county handles it. The <a href=\"https://www.dor.ms.gov/county-services/property-tax-frequently-asked-questions\">state FAQ</a> says the appeal normally must be filed by the first Monday in August before the taxes are due.</p><p>The Board of Supervisors reviews values set by the Tax Assessor, hears taxpayer objections and adopts the tax rolls. A few practical points follow from the state's materials:</p><ul><li>The hearing is about the valuation of your property. Millage rates are set separately by the county, city and school district.</li><li>A wrong square footage can sometimes support a refund for prior years. Ask the Chancery Clerk.</li><li>A rise in your bill comes from a change in value, a change in the rate, or both.</li></ul><p>If you are selling soon, ask the Chancery Clerk and the Tax Collector how a pending appeal is treated, and have the title company confirm the amount owed.</p>"
+  },
+  {
+   "h2": "What happens if Mississippi property tax goes unpaid?",
+   "html": "<p>Penalties and interest accrue, and a property that stays delinquent is sold at the county tax auction. The <a href=\"https://www.dor.ms.gov/county-services/local-property-appraisal\">Department of Revenue</a> says some counties hold the auction on the first Monday in April and others on the last Monday in August.</p><p>The Chancery Clerk administers the annual sale and keeps the records. Properties sold for taxes can be redeemed for a period after the sale, and the clerk can tell you the amount needed. If a property is not purchased at the sale, it goes to the State of Mississippi and is managed by the Secretary of State, whose office can be reached at 1-866-835-2637.</p><p>The tax collector is the contact for tax sale questions in the county where the property sits. A seller with delinquent taxes should ask for the delinquent amount and any redemption figure early, so there are no surprises at closing.</p>"
+  },
+  {
+   "h2": "What does a Mississippi house seller usually face with property tax?",
+   "html": "<p>The recurring issues are an unpaid prior-year bill, a homestead exemption that was lost or never filed, and a possible class change on a house nobody lives in. An heir who inherits a house that is no longer owner-occupied should ask the Tax Assessor whether the class, and so the ratio, changes from 10% to 15% of true value.</p><ul><li>Pull the tax bill and the legal description from the Tax Collector and Chancery Clerk.</li><li>Ask whether homestead exemption was claimed and whether any disallowance is pending.</li><li>Ask the title company to confirm the status of the current year bill and any tax sale history.</li><li>If the estate is in probate, see our <a href=\"/mississippi-probate-process/\">Mississippi probate guide</a> for who can sign.</li></ul><p>We buy Mississippi houses as-is, including houses with tax due or deferred repairs, and we reply with a written offer. We make no promise on price in this guide.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Mississippi property tax rate?",
+   "a": "There is no single statewide rate. Each property pays a county millage and a school district millage, plus a city or special district rate where one applies. The tax equals true value times the assessment ratio times the millage total, and Class I residences are assessed at 10% of true value."
+  },
+  {
+   "q": "When are Mississippi property taxes due?",
+   "a": "Taxes are due on or before February 1 for property assessed the previous year. If February 1 falls on a weekend or legal holiday, the following Monday is the last day without penalty or interest."
+  },
+  {
+   "q": "Can I appeal my Mississippi property assessment?",
+   "a": "Yes. Request a hearing with the county Board of Supervisors through the Chancery Clerk. The appeal normally must be filed by the first Monday in August before the due date of the taxes."
+  },
+  {
+   "q": "When must I apply for homestead exemption in Mississippi?",
+   "a": "Applications are taken by the county Tax Assessor between January 1 and April 1. Filing after April 1 does not qualify for that assessment year."
+  },
+  {
+   "q": "Can I sell a house in Mississippi with property tax due?",
+   "a": "Yes. A cash buyer can take the house as-is, and the tax owed is something the title company confirms before closing. If taxes stay delinquent, the property can be sold at the county tax auction, so check the amount and any redemption figure first."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Local Property Appraisal, Mississippi Department of Revenue",
+   "url": "https://www.dor.ms.gov/county-services/local-property-appraisal"
+  },
+  {
+   "title": "Property Tax Frequently Asked Questions, Mississippi Department of Revenue",
+   "url": "https://www.dor.ms.gov/county-services/property-tax-frequently-asked-questions"
+  },
+  {
+   "title": "Homestead Exemption, Mississippi Department of Revenue",
+   "url": "https://www.dor.ms.gov/county-services/homestead-exemption"
+  }
+ ]
+}

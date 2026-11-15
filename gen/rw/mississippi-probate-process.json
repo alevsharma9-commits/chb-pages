@@ -1,0 +1,81 @@
+{
+ "slug": "mississippi-probate-process",
+ "sections": [
+  {
+   "h2": "Which court handles probate in Mississippi?",
+   "html": "<p>Probate in Mississippi runs through the chancery court of a county, and the county depends on where the decedent lived. Under <a href=\"https://billstatus.ls.state.ms.us/documents/2020/html/SB/2800-2899/SB2850SG.htm\">Miss. Code 91-7-1</a>, a will is proved and letters testamentary are granted by the chancery court of the county where the testator had a fixed place of residence.</p><p>If the testator had no fixed residence and the will devises land, the proper court is the chancery court of the county where the land, or some part of it, sits. For someone who died without a will, <a href=\"https://law.justia.com/codes/mississippi/title-91/chapter-7/section-91-7-63\">Miss. Code 91-7-63</a> points to the chancery court of the county where the person lived at death. If there was no fixed residence, it points to the county where the person died or where some of the personal property is.</p><p>The statute that sets the scope of the chapter, 91-1-1, says it applies to property of decedents domiciled in Mississippi and to real property of nonresidents located in the state. So an heir living in another state who inherits a Mississippi house still deals with a Mississippi chancery court for that house.</p>"
+  },
+  {
+   "h2": "What are the probate routes for a Mississippi estate that owns a house?",
+   "html": "<p>There are three routes that matter to a house owner's heirs: full administration, a will admitted as a muniment of title only, and a successor affidavit for small personal property. Only the first two can touch real estate.</p><table><thead><tr><th>Route</th><th>What it does</th><th>Limit or trigger</th><th>Source</th></tr></thead><tbody><tr><td>Letters testamentary</td><td>Court admits the will and appoints an executor</td><td>Chancery court of the county of residence</td><td>91-7-1</td></tr><tr><td>Letters of administration</td><td>Court appoints an administrator when there is no will</td><td>Relative preferred, then others; creditor or other suitable person after 30 days</td><td>91-7-63</td></tr><tr><td>Muniment of title only</td><td>Will admitted to clear title to devised real property without an executor or administrator</td><td>Probate estate within the 91-7-322 limit, known debts paid</td><td>91-5-35</td></tr><tr><td>Successor affidavit</td><td>Successor collects debts or tangible personal property</td><td>Entire probate estate no more than $75,000, at least 30 days after death</td><td>91-7-322</td></tr></tbody></table><p>The affidavit route reaches debts owed to the decedent and tangible personal property, such as a bank balance or a vehicle. The text of 91-7-322 does not mention conveying real property, so a house generally needs one of the court routes.</p>"
+  },
+  {
+   "h2": "How does a will admitted as a muniment of title work?",
+   "html": "<p>A muniment of title petition lets a will that devises Mississippi land be admitted without appointing an executor or administrator. The 2020 amendment in <a href=\"https://billstatus.ls.state.ms.us/documents/2020/html/SB/2800-2899/SB2850SG.htm\">Senate Bill 2850</a> rewrote section 91-5-35 and took effect July 1, 2020.</p><p>The petition must be signed and sworn by the personal representative. If no executor, administrator with the will annexed, or foreign personal representative is serving, it is signed and sworn by the decedent's living spouse and by the devisees of the Mississippi real property, whether specific or residuary. People holding only contingent remainder interests are left out.</p><p>The petition must show two things:</p><ul><li>The decedent's probate estate in Mississippi, not counting real property and exempt property, stayed within the amount set in section 91-7-322, which SB 2850 raised from $50,000 to $75,000.</li><li>All known debts of the decedent and the estate are paid, including estate and income taxes if any.</li></ul><p>Older summaries, including some quoted online, still say $10,000. That figure was in the pre-2020 text and was replaced. A muniment of title also does not shut the door on others: an interested party can still petition for formal administration or contest the will.</p>"
+  },
+  {
+   "h2": "Who gets appointed when there is no will?",
+   "html": "<p>When someone dies intestate, the chancery court grants letters of administration to a relative who applies, and the husband or wife comes first. Under 91-7-63, the court then looks to others next entitled to share in the estate, choosing among equals the person best suited to manage it.</p><p>The statute also lets the court select a stranger, or a trust company or national bank doing business in Mississippi, if the kindred are incompetent. If no relative applies within 30 days of death, the court may grant administration to a creditor or another suitable person. For a family hoping to sell a house, that 30-day mark matters, because a creditor can end up in control of the process if relatives wait.</p>"
+  },
+  {
+   "h2": "How do creditor claims affect the sale of an inherited house?",
+   "html": "<p>Creditor claims have a short clock in Mississippi, and an unresolved claim can hold up the estate even when the house itself has equity. Under <a href=\"https://law.justia.com/codes/mississippi/2024/title-91/chapter-7/division-general-provisions/section-91-7-145/\">91-7-145</a>, the executor or administrator must make reasonably diligent efforts to identify creditors and mail each one a notice.</p><p>The representative then files an affidavit with the clerk and publishes a notice in a county newspaper for three consecutive weeks. The notice tells creditors that a claim not probated and registered within 90 days after first publication will be barred. Section 91-7-151, as quoted in the 2018 bill text and in Mississippi Supreme Court opinions, says the same ninety-day rule bars late claims.</p><p>If no newspaper is published in the county, posting at the courthouse door and three other places of public resort is enough. Proof of publication has to be filed before a decree of final discharge.</p><p>For heirs, the practical result is a timeline you can plan around:</p><ul><li>Letters issued by the chancery court start the notice process.</li><li>Three weeks of publication, then 90 days from first publication for claims.</li><li>Known debts, taxes and any mortgage on the house still have to be dealt with before heirs see net proceeds.</li></ul>"
+  },
+  {
+   "h2": "What do heirs usually face when selling an inherited house in Mississippi?",
+   "html": "<p>The common problems are unclear title, carrying costs while the court works, and a house that needs repairs nobody wants to pay for. Property tax is a good example of a cost that keeps running. The Mississippi Department of Revenue explains that taxes are <a href=\"https://www.dor.ms.gov/county-services/local-property-appraisal\">assessed to the owner of record on January 1</a>, billed in November or December, and due by the following February 1.</p><p>A death in the middle of the year does not pause that cycle. Our <a href=\"/mississippi-property-tax-guide/\">Mississippi property tax guide</a> covers the bill, appeals and tax sale timing.</p><p>Recording matters too. Under <a href=\"https://law.justia.com/codes/mississippi/title-89/chapter-5/article-1/section-89-5-3/\">89-5-3</a>, a conveyance is void against creditors and later purchasers for value without notice unless it is acknowledged or proved and lodged with the chancery clerk of the proper county. As between the parties and their heirs, the instrument stays valid either way. Heirs who sign deeds among themselves should still record them.</p><ul><li>Confirm which chancery court has the estate and who holds letters.</li><li>Ask the chancery clerk where the will and any petitions are filed.</li><li>Gather the death certificate, the will, the deed into the decedent and a recent tax bill.</li><li>Check whether the house has a mortgage, tax arrears or liens.</li></ul>"
+  },
+  {
+   "h2": "How does a cash sale fit with Mississippi probate?",
+   "html": "<p>A cash buyer does not replace probate. It changes how the house is sold once the person with authority to sign is clear. A personal representative with letters, or heirs who hold title after a muniment of title, can sign a deed, and the buyer can take the house as it stands.</p><p>That can help when the house is vacant, has deferred repairs or sits in a county far from the heirs. We buy houses in Mississippi as-is and respond with a written offer. We do not promise a price here, and we recommend talking to a Mississippi probate attorney about which route fits your estate.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I have to probate a will in Mississippi if the house is in the will?",
+   "a": "Usually yes. A will that devises Mississippi real property is proved in chancery court, either with letters testamentary or, for smaller estates, as a muniment of title under section 91-5-35. The right route depends on the size of the probate estate and whether debts are paid."
+  },
+  {
+   "q": "What is the small estate limit for a successor affidavit in Mississippi?",
+   "a": "The limit is $75,000 for the entire probate estate. Section 91-7-322 was amended by SB 2850, effective July 1, 2020, and the affidavit can be used at least 30 days after death. It covers debts owed to the decedent and tangible personal property, not real estate."
+  },
+  {
+   "q": "How long do creditors have to file claims against a Mississippi estate?",
+   "a": "Creditors have 90 days after the first publication of the notice to present a claim. The notice must run for three consecutive weeks, and known creditors must also be mailed notice."
+  },
+  {
+   "q": "Which county's chancery court handles my parent's estate?",
+   "a": "Generally the county where your parent had a fixed place of residence at death. If there was no fixed residence and the will devises land, it is the county where the land lies."
+  },
+  {
+   "q": "Can a nonresident heir sell inherited Mississippi property?",
+   "a": "Yes, but the real property of a decedent is still handled under Mississippi law and a Mississippi court. An out-of-state heir should work with the chancery clerk's office or a Mississippi attorney to confirm who signs the deed."
+  }
+ ],
+ "sources": [
+  {
+   "title": "SB2850 (As Sent to Governor), 2020 Regular Session, Mississippi Legislature",
+   "url": "https://billstatus.ls.state.ms.us/documents/2020/html/SB/2800-2899/SB2850SG.htm"
+  },
+  {
+   "title": "Miss. Code 91-7-63, Grant of administration (Justia)",
+   "url": "https://law.justia.com/codes/mississippi/title-91/chapter-7/section-91-7-63"
+  },
+  {
+   "title": "Miss. Code 91-7-145, Notice to creditors of estate (Justia, 2024)",
+   "url": "https://law.justia.com/codes/mississippi/2024/title-91/chapter-7/division-general-provisions/section-91-7-145/"
+  },
+  {
+   "title": "SB2782 (As Introduced), 2018, quoting 91-7-151",
+   "url": "https://billstatus.ls.state.ms.us/documents/2018/html/SB/2700-2799/SB2782IN.htm"
+  },
+  {
+   "title": "Miss. Code 89-5-3, Conveyances void if not lodged for record (Justia)",
+   "url": "https://law.justia.com/codes/mississippi/title-89/chapter-5/article-1/section-89-5-3/"
+  },
+  {
+   "title": "Local Property Appraisal, Mississippi Department of Revenue",
+   "url": "https://www.dor.ms.gov/county-services/local-property-appraisal"
+  }
+ ]
+}
