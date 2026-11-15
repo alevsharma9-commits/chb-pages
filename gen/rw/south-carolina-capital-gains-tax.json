@@ -1,0 +1,89 @@
+{
+ "slug": "south-carolina-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does South Carolina tax capital gains when you sell a house?",
+   "html": "<p>Yes. South Carolina has no separate capital gains tax, but a taxable gain from a house sale is included in your South Carolina income and taxed at the regular income tax rates, after a 44 percent deduction.</p><p>Under S.C. Code Section 12-6-1150, individuals, estates and trusts may deduct 44 percent of the net capital gain recognized in the state during the year. Net capital gain takes its meaning from federal Internal Revenue Code Section 1222 and related sections.</p><p>In plain terms, the state starts with the same gain you report to the IRS, then lets you subtract 44 percent of it. Only the remaining 56 percent adds to your South Carolina taxable income.</p>"
+  },
+  {
+   "h2": "What are the South Carolina income tax rates on that gain?",
+   "html": "<p>For tax years beginning after 2025, Section 12-6-510 sets a 1.99 percent rate on taxable income under $30,000 and, for $30,000 or more, 5.21 percent of the amount minus $966. The statute also ties later top-rate reductions, starting with tax year 2027, to state revenue projections.</p><p>Here is an illustration with made-up numbers. Suppose a South Carolina owner has a $100,000 net capital gain that is not covered by the federal home sale exclusion. The 44 percent deduction removes $44,000, so $56,000 is added to taxable income.</p><p>If that person had no other income, the $56,000 would fall in the upper bracket, and the formula gives 5.21 percent of $56,000 ($2,917.60) minus $966, or about $1,952. Real returns include wages, deductions and exemptions, so use this only to see how the formula works.</p><table><thead><tr><th>South Carolina item</th><th>What the statute says</th></tr></thead><tbody><tr><td>Capital gain deduction</td><td>44% of net capital gain recognized in South Carolina (12-6-1150)</td></tr><tr><td>Rate on income under $30,000</td><td>1.99% (12-6-510, tax years after 2025)</td></tr><tr><td>Rate on income of $30,000 or more</td><td>5.21% of the amount, minus $966</td></tr><tr><td>Net capital gain definition</td><td>Internal Revenue Code Section 1222 and related sections</td></tr><tr><td>Partnership and S corporation gains</td><td>Count as South Carolina income</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Does the federal home sale exclusion carry over to South Carolina?",
+   "html": "<p>The South Carolina deduction starts from the federal net capital gain, so gain you exclude on your federal return is not part of the gain being taxed. The IRS lets you exclude up to $250,000 of gain from the sale of your main home, or up to $500,000 on a joint return.</p><p>You must have owned the home for at least 24 months and used it as your residence for at least 24 months within the five years before the sale. The two periods do not have to fall at the same time. You generally cannot claim the exclusion if you excluded gain on another home sale during the two years before this one.</p><p>If you receive a Form 1099-S, the IRS says you must report the sale even when the gain is fully excludable. For limits and exceptions to the two-year rule, the IRS points to Publication 523, Selling Your Home.</p><ul><li>Primary residence for 2 of the last 5 years: the exclusion may apply</li><li>Rental or investment house: the gain is generally taxable</li><li>Inherited house sold soon after the death: ask a tax professional about basis</li></ul>"
+  },
+  {
+   "h2": "How do federal capital gains rates affect a South Carolina seller?",
+   "html": "<p>The federal tax on a long-term gain is separate from, and added to, the South Carolina tax. A gain is long-term if you held the property more than one year, and net short-term gains are taxed as ordinary income.</p><p>The IRS table for tax years beginning in 2025 puts the 0 percent rate on taxable income up to $48,350 for a single filer and $96,700 for joint filers. The 15 percent rate runs up to $533,400 for single filers and $600,050 for joint filers, and 20 percent applies above that. The page we opened does not give 2026 thresholds, so check the current year before you plan.</p><p>The IRS also notes that people with significant investment income may owe the net investment income tax. A South Carolina investor who sells a rental can therefore face federal capital gains tax, the net investment income tax and the state tax in one year.</p>"
+  },
+  {
+   "h2": "What happens if you live outside South Carolina when the house sells?",
+   "html": "<p>A buyer of South Carolina real estate from a nonresident seller must withhold tax at closing, under S.C. Code Section 12-8-580. The rate is the maximum individual rate applied to the gain for a nonresident individual, partnership, trust or estate, and five percent of the gain for a nonresident corporation or other entity.</p><p>If the seller gives the buyer an affidavit stating the amount of gain, withholding is figured on the gain. Without an affidavit, the same rates apply to the full amount realized, and the buyer withholds all of the net proceeds if the required amount is larger.</p><ul><li>Gain on a principal residence that is excluded under the federal exclusion is outside the withholding rule.</li><li>The buyer must remit the withholding by the 15th day of the month after the sale month.</li><li>The buyer is liable for the amount, while lenders, agents and closing attorneys are not liable for collecting it but must remit what they actually withhold.</li><li>A seller can file an amended nonresident withholding statement to claim a refund of excess withholding.</li></ul><p>An heir living in another state who sells an inherited South Carolina house is a nonresident seller for these purposes if the estate's decedent lived outside the state at death. Ask the closing attorney to prepare the affidavit early.</p>"
+  },
+  {
+   "h2": "Which closing costs are separate from income tax?",
+   "html": "<p>The deed recording fee is a transfer cost, not an income tax, and it is $1.85 for each $500 of the property's value. That breaks into $1.30 for the state and $0.55 for the county per $500, and the grantor, meaning the seller, is generally liable for it.</p><p>Some deeds are exempt, including deeds in lieu of foreclosure to the mortgagee, deeds on foreclosure to the mortgagee, and corrective or quitclaim deeds that confirm title already vested with no payment. A deed for a master-in-equity sale puts the liability on the buyer instead.</p><p>Property tax is also settled at closing. In many South Carolina counties, bills are paid in arrears, so ask your county treasurer for the payoff figure before you set a closing date.</p>"
+  },
+  {
+   "h2": "How do estates and trusts handle a gain on a house in South Carolina?",
+   "html": "<p>An estate or trust that sells a house can use the same 44 percent deduction, but only for income taxed to the estate, the trust or its individual beneficiaries. The deduction does not apply to income passed through to a beneficiary that is not an individual.</p><p>If you inherited a house, the gain depends on your basis, which is the value used to measure profit. The IRS page we opened sends readers to Publication 551 for the rules on inherited property, so we do not state a basis rule here.</p><p>A quick sale after an inheritance often has little or no gain to tax, but that depends on facts we cannot see. A CPA can confirm the basis before you sign a contract.</p>"
+  },
+  {
+   "h2": "What should you gather before talking to a tax professional?",
+   "html": "<p>Collect the numbers that set your gain before you list or accept an offer. A professional can only help if the figures are in hand.</p><ul><li>The purchase closing statement and the date you bought</li><li>Receipts for improvements, such as a roof or an addition</li><li>The dates you lived in the house, if you moved out</li><li>Any depreciation you claimed if the house was a rental</li><li>The estimated sale price and selling costs</li></ul><p>If you are selling a house that needs work, an as-is cash sale can shorten the time between the contract and the closing statement. Selling costs, the sale date and the net proceeds still affect your return, so keep every document.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does South Carolina have a capital gains tax?",
+   "a": "South Carolina does not have a separate capital gains tax. Capital gains are taxed as part of South Carolina income, after a deduction of 44 percent of net capital gain under Section 12-6-1150."
+  },
+  {
+   "q": "What is the South Carolina income tax rate for 2026?",
+   "a": "For tax years after 2025, the statute sets 1.99 percent on taxable income under $30,000 and 5.21 percent of the amount minus $966 at $30,000 or more. Later reductions starting in 2027 depend on state revenue projections."
+  },
+  {
+   "q": "Can I avoid tax on selling my main house in South Carolina?",
+   "a": "Often you can avoid much of it. The IRS excludes up to $250,000 of gain, or $500,000 for joint filers, if you owned and lived in the home at least 24 months in the five years before the sale. Gain above the exclusion is still taxable."
+  },
+  {
+   "q": "Is there withholding if I live out of state?",
+   "a": "Yes. A buyer from a nonresident seller must withhold under Section 12-8-580, at the maximum individual rate on the gain if you give an affidavit, or on the full amount realized if you do not. Gain excluded as a principal residence is outside the rule."
+  },
+  {
+   "q": "Who pays the South Carolina deed recording fee?",
+   "a": "The seller, as grantor, is generally liable for the fee of $1.85 per $500 of value, and the buyer is secondarily liable. A master-in-equity deed shifts it to the buyer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "S.C. Code Title 12, Chapter 6 (income tax, 12-6-510 and 12-6-1150)",
+   "url": "https://www.scstatehouse.gov/code/t12c006.php"
+  },
+  {
+   "title": "Justia, S.C. Code 12-6-1150",
+   "url": "https://law.justia.com/codes/south-carolina/title-12/chapter-6/section-12-6-1150/"
+  },
+  {
+   "title": "S.C. Code Title 12, Chapter 8 (withholding, 12-8-580)",
+   "url": "https://www.scstatehouse.gov/code/t12c008.php"
+  },
+  {
+   "title": "S.C. Code Title 12, Chapter 24 (deed recording fee)",
+   "url": "https://www.scstatehouse.gov/code/t12c024.php"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  }
+ ]
+}
