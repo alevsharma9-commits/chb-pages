@@ -1,0 +1,89 @@
+{
+ "slug": "new-jersey-estate-tax",
+ "sections": [
+  {
+   "h2": "Does New Jersey still have an estate tax?",
+   "html": "<p>No. The state's estate tax stopped applying to anyone who died from January 1, 2018 onward, so those estates file no estate tax return. The state's separate inheritance tax lives on, and heirs of a New Jersey house are far more likely to meet that tax than the old estate tax.</p>\n<p>The estate tax history explains why older paperwork still circulates. For deaths after 2001 and before 2017, a return was required when the gross estate plus adjusted taxable gifts passed $675,000. For deaths during 2017, a taxable estate over $2 million triggered it, taxed at rates from 0 to 16 percent. Only an estate that falls in those earlier years has to deal with it now (<a href=\"https://nj.gov/treasury/taxation/inheritance-estate/tax-rates.shtml\">NJ Division of Taxation rate page</a>).</p>"
+  },
+  {
+   "h2": "Who pays New Jersey inheritance tax on a house?",
+   "html": "<p>The heirs do, and how much depends on their relationship to the person who died. The Division sorts heirs into classes, and each class has its own rate. A Class A heir owes nothing.</p>\n<table>\n<caption>Inheritance tax by beneficiary class (NJ Division of Taxation)</caption>\n<thead><tr><th>Class</th><th>Who is in it</th><th>Tax on what they receive</th></tr></thead>\n<tbody>\n<tr><td>A</td><td>Spouse, civil union or domestic partner, child, grandchild, parent, grandparent, stepchild, mutually acknowledged child</td><td>No tax</td></tr>\n<tr><td>C</td><td>Brother or sister, spouse of a child, civil union partner of a child</td><td>First $25,000 free; 11% on the next $1,075,000; 13% on the next $300,000; 14% on the next $300,000; 16% above $1,700,000</td></tr>\n<tr><td>D</td><td>Anyone not in Class A, C or E, such as a friend, niece or nephew</td><td>15% on the first $700,000; 16% above that</td></tr>\n<tr><td>E</td><td>Qualified charities, religious, educational and medical institutions, the State and its subdivisions</td><td>No rate appears on the rate table</td></tr>\n</tbody>\n</table>\n<p>The classes come from the Division's <a href=\"https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/transferinheritanceclasses.pdf\">beneficiary class list</a>. A house left to a spouse, child or grandchild carries no inheritance tax. A house left to a sibling, a friend or a niece does not get that shelter.</p>"
+  },
+  {
+   "h2": "What is the deadline for the inheritance tax return?",
+   "html": "<p>Eight months from the date of death is the cutoff for both the return and the payment. An executor, administrator or heir at law files when a return is required. After that cutoff, unpaid tax collects interest at 10 percent a year.</p>\n<ul>\n<li>Paying late is never excused by an extension. Form IT-EXT stretches only the filing date.</li>\n<li>Electronic filing is not available for inheritance and estate tax returns, so everything is on paper.</li>\n<li>Form IT-R is the resident decedent return, and form IT-NR is the nonresident return.</li>\n<li>For a resident, the Division's flowchart for deaths on or after January 1, 2018 shows which return or waiver to use (<a href=\"https://nj.gov/treasury/taxation/inheritance-estate/inheritance-taxfilerequirements.shtml\">filing requirements</a>).</li>\n</ul>\n<p>A house can sit unsold well past eight months, and interest keeps running the whole time, so an heir who expects tax should arrange payment before closing.</p>"
+  },
+  {
+   "h2": "How do I get the state's waiver so a New Jersey house can sell?",
+   "html": "<p>You ask the Division of Taxation for a real property tax waiver, which releases the State's lien on the house. A resident decedent's estate that has only Class A beneficiaries and owes no tax can use form L-9. Start early, since the Division returns any form that is incomplete or missing attachments.</p>\n<p>Form L-9 must be notarized and signed by the executor, the administrator or a joint tenant. Attach each of these papers:</p>\n<ul>\n<li>The will, any codicils and writings, and any trust agreement.</li>\n<li>A copy of the deed to the property.</li>\n<li>The letters testamentary or letters of administration.</li>\n<li>The death certificate.</li>\n</ul>\n<p>You cannot use L-9 if any asset worth $500 or more passes to someone outside Class A, if a mutually acknowledged child is claimed, or if inheritance tax is due. A trust created by the will may lead the Division to require a full return. Do not file it with the county clerk. It goes to the Transfer Inheritance Tax unit at P.O. Box 249, Trenton, NJ 08695-0249, and the branch answers questions at (609) 292-5033 (<a href=\"https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/itl9.pdf\">Form L-9</a>).</p>\n<p>A surviving spouse who held the house as tenants by the entirety needs no waiver, and none is issued. Bank and brokerage accounts use a different form, the self-executing waiver IT-L-8, filed with each financial institution.</p>"
+  },
+  {
+   "h2": "Does the Realty Transfer Fee apply when an executor sells an inherited house?",
+   "html": "<p>The answer turns on who ends up on the deed. When the executor conveys to a devisee or heir named under the will or the intestacy rules, the transfer is exempt. When the executor sells to an outside buyer, the fee is due, and the personal reduction for seniors and disabled persons is unavailable to an estate.</p>\n<p>One more FAQ answer matters here. If a will tells the executor to sell and divide the cash, the Division reads that as a bequest of money rather than a devise of real estate, and the sale is taxable. The estate also files one GIT/REP form, which several executors can sign together. Our closing costs page covers the fee schedule.</p>"
+  },
+  {
+   "h2": "What about income tax on the sale of an inherited house?",
+   "html": "<p>The inheritance tax is only one layer. A house sold after the owner's death can also produce a capital gain, measured from the heir's basis. The IRS refers inherited property to Publication 551 for basis rules, and holding periods have exceptions for property acquired from a decedent. Ask the estate's tax preparer which valuation rules apply to your sale.</p>\n<p>The federal home sale exclusion, worth up to $250,000 for one filer or $500,000 for a joint return, requires two years of use as a main home within the last five. An heir who never lived there usually does not meet that test. The IRS also says a loss on personal use property like a home cannot be deducted (<a href=\"https://www.irs.gov/taxtopics/tc409\">IRS Topic 409</a>).</p>"
+  },
+  {
+   "h2": "What should an heir gather first when a New Jersey house is inherited?",
+   "html": "<p>Collect the papers the Division asks for before anything else, because the same set supports the waiver request and the later sale. Contact the Inheritance and Estate Tax Branch at (609) 292-5033 if the class of an heir or the status of a trust is unclear.</p>\n<ul>\n<li>Order certified death certificates and locate the will and any trust agreement.</li>\n<li>Obtain the executor's or administrator's certificate, meaning the letters testamentary or letters of administration.</li>\n<li>Find the recorded deed, and note how title was held, since a surviving spouse on a tenancy by the entirety needs no waiver.</li>\n<li>List every heir with the relationship to the decedent, so each can be placed in a class.</li>\n<li>Mark the eight month date on a calendar, since interest accrues from that point on unpaid tax.</li>\n</ul>\n<p>Heirs who plan to sell also benefit from asking early whether a waiver or a full return applies. A resident decedent's flowchart on the Division's site walks through that choice, and a call to the branch can settle questions about trusts or unusual beneficiaries before a buyer is under contract.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does a 2026 death trigger New Jersey estate tax?",
+   "a": "No. The state stopped imposing it for deaths from January 1, 2018 forward, so no estate tax return is needed."
+  },
+  {
+   "q": "Do I owe tax on a house my parent left me?",
+   "a": "No. A child sits in Class A, and Class A heirs owe no New Jersey inheritance tax."
+  },
+  {
+   "q": "What do a sibling and a friend pay on an inherited house?",
+   "a": "A sibling is Class C and pays 11 to 16 percent after the first $25,000. A friend is Class D and pays 15 percent on the first $700,000 and 16 percent above."
+  },
+  {
+   "q": "What is the filing window for an inheritance tax return?",
+   "a": "Eight months after the date of death. Unpaid tax then accrues 10 percent interest per year. Payment cannot be extended, although the filing date can be."
+  },
+  {
+   "q": "Which form releases the state's lien on a house so it can be sold?",
+   "a": "Form L-9 for a resident decedent whose beneficiaries are all Class A and who owes no tax. Other situations need a full inheritance tax return, and the Division issues waivers from it."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NJ Division of Taxation, Inheritance Tax Rates",
+   "url": "https://nj.gov/treasury/taxation/inheritance-estate/tax-rates.shtml"
+  },
+  {
+   "title": "NJ Division of Taxation, Inheritance Tax Beneficiary Classes",
+   "url": "https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/transferinheritanceclasses.pdf"
+  },
+  {
+   "title": "NJ Division of Taxation, Inheritance Tax Filing Requirements",
+   "url": "https://nj.gov/treasury/taxation/inheritance-estate/inheritance-taxfilerequirements.shtml"
+  },
+  {
+   "title": "NJ Division of Taxation, Form L-9",
+   "url": "https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/itl9.pdf"
+  },
+  {
+   "title": "NJ Division of Taxation, Realty Transfer Fee FAQs",
+   "url": "https://nj.gov/treasury/taxation/lpt/rtffaqs.shtml"
+  },
+  {
+   "title": "NJ Division of Taxation, Buying or Selling a Home in New Jersey",
+   "url": "https://nj.gov/treasury/taxation/documents/pdf/guides/Buying-or-Selling-a-Home-in-New-Jersey.pdf"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  }
+ ]
+}
