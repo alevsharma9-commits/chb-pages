@@ -1,0 +1,89 @@
+{
+ "sections": [
+  {
+   "h2": "What does a quitclaim deed do in South Carolina?",
+   "html": "<p>A quitclaim deed transfers whatever interest the signer holds, and South Carolina treats it like other deeds for signing and recording. The deed must be proved or acknowledged before it can be recorded (<a href=\"https://www.scstatehouse.gov/code/t30c005.php\">SC Code 30-5-30</a>), and the statute exempts quitclaim and non-warranty deeds from the derivation clause rule (30-5-35).</p><p>People use them to add a spouse, clear a name after divorce or move a house into a trust. Sellers sometimes ask whether one can substitute for a regular sale deed. It can transfer title, but a buyer's title company will look hard at it.</p>"
+  },
+  {
+   "h2": "How must a South Carolina quitclaim deed be signed?",
+   "html": "<p>The deed must be proved or acknowledged in one of the ways allowed by 30-5-30, and the form in <a href=\"https://www.scstatehouse.gov/code/t27c007.php\">27-7-10</a> contemplates two or more credible witnesses. The options in 30-5-30 are:</p><ul><li>An affidavit from a subscribing witness</li><li>Compliance with the Uniform Recognition of Acknowledgments Act, or a signer's affidavit that the signature is theirs</li><li>The grantor's acknowledgment before an officer, witnessed by two witnesses</li></ul><p>A warranty clause is not required, and the form may carry other clauses the parties consider proper (27-7-20). A seal is not required if the attestation shows the parties meant the instrument to be sealed (27-7-30).</p>"
+  },
+  {
+   "h2": "Does a quitclaim deed avoid the deed recording fee?",
+   "html": "<p>Only in a narrow case. A corrective or quitclaim deed that confirms title already vested in the grantee, with no consideration paid or to be paid, is exempt from the fee (<a href=\"https://www.scstatehouse.gov/code/t12c024.php\">SC Code 12-24-40(12)</a>). If money changes hands, the exemption does not fit.</p><p>The ordinary fee is $1.85 for each $500 of value or fraction (12-24-10). The clerk or register must require an affidavit of value, and for an exempt deed the affidavit must state the reason for the exemption (12-24-70(A)(2)). Willfully filing a false affidavit is a misdemeanor, punishable by a fine up to $1,000, up to a year in prison, or both (12-24-70(C)).</p>"
+  },
+  {
+   "h2": "Which transfers are exempt from the fee?",
+   "html": "<p>The exemption list in 12-24-40 is long, and a few items come up in family and title situations:</p><table><thead><tr><th>Transfer</th><th>Exemption number</th></tr></thead><tbody><tr><td>Realty valued at $100 or less</td><td>(1)</td></tr><tr><td>Transfers where no gain or loss is recognized under IRC Section 1041</td><td>(4)</td></tr><tr><td>Partition with no consideration beyond the interests exchanged</td><td>(5)</td></tr><tr><td>Family partnership to partner, or family trust to beneficiary, where the only consideration is a reduced interest</td><td>(9)</td></tr><tr><td>Corrective or quitclaim deeds confirming title already vested, with no consideration</td><td>(12)</td></tr><tr><td>Deed in lieu of foreclosure or foreclosure deed to the mortgagee</td><td>(13)</td></tr></tbody></table><p>A transfer between spouses incident to divorce often falls under item 4, but the facts matter. Ask the register of deeds or clerk, or a South Carolina attorney.</p>"
+  },
+  {
+   "h2": "Who owes the fee, the grantor or the grantee?",
+   "html": "<p>The grantor is liable by default, jointly and severally if there are several, and the grantee is secondarily liable (12-24-20). The grantee is the liable party for master-in-equity deeds and for deeds from the federal government, a state or its subdivisions.</p><p>If the proper fee is not paid, the person liable can face a penalty of $50 to $500 per failure, and a clerk who fails to collect faces the same range (12-24-120). The Department of Revenue may waive or reduce either penalty.</p>"
+  },
+  {
+   "h2": "Does a quitclaim deed handle joint tenancy and survivorship?",
+   "html": "<p>Survivorship in South Carolina depends on specific wording. A deed naming grantees followed by the words \"as joint tenants with rights of survivorship, and not as tenants in common\" creates a joint tenancy (27-7-40(a)). After a joint tenant dies, the survivor may file a certified death certificate with the register of deeds, and the filing is conclusive that the tenant is deceased (27-7-40(b)).</p><p>Divorce severs a husband-and-wife joint tenancy and leaves a tenancy in common without survivorship. If a quitclaim is meant to fix a title after a death or divorce, check which of these applies before you sign.</p>"
+  },
+  {
+   "h2": "When does a quitclaim work for a house you plan to sell?",
+   "html": "<p>It works best for cleaning up who is on title before a sale, and less well as the sale deed itself. Common uses before a sale:</p><ul><li>An heir who is not the personal representative releases an interest</li><li>An ex-spouse signs off after divorce</li><li>A co-owner transfers a share to the person selling</li></ul><p>Title companies look at the whole chain, so a quitclaim in the chain may prompt questions. When an estate is involved, a deed of distribution from the personal representative is the usual instrument instead (62-3-907). Our probate page covers that.</p><p>Cash Home Buyers buys houses as-is, including ones with messy title. Send us what you have and we will tell you honestly whether the title needs work first.</p>"
+  },
+  {
+   "h2": "Where do you file a quitclaim deed?",
+   "html": "<p>File it with the register of deeds, or the clerk of court in counties not listed in 30-5-10(A), in the county where the land sits. Deeds executed after July 1, 1976 need the grantee's mailing address (30-5-35). The register records instruments in order lodged and within thirty days of lodgment (30-5-90). See our recording page for the full list of steps.</p>"
+  },
+  {
+   "h2": "What should you check before signing a quitclaim deed?",
+   "html": "<p>Treat a quitclaim as final, since the deed gives away your interest as soon as it is delivered and recorded. Use this checklist:</p><ul><li>Confirm whether any money is changing hands, which decides whether the fee exemption applies</li><li>Get the signing witnessed by two people or arrange a subscribing witness affidavit (30-5-30)</li><li>Include the grantee's mailing address (30-5-35)</li><li>Prepare the affidavit stating the exemption reason if you claim one (12-24-70(A)(2))</li><li>Check for a mortgage, which a deed does not pay off</li></ul><p>For a transfer into a trust or from a trust to its beneficiary, items 8 and 9 on the exemption list can matter. Moving property into a corporation, partnership or trust in exchange for an ownership interest, with no other consideration, is exempt, but transfers back out to the stockholder, partner or beneficiary are generally taxable (12-24-40(8)).</p>"
+  },
+  {
+   "h2": "What other transfers does the fee statute address?",
+   "html": "<p>A few exemptions cover transfers that look like quitclaims but are different. Individual cemetery grave spaces sold by a licensed cemetery company are exempt (12-24-40(6)). So are contracts for the sale of timber to be cut (12-24-40(7)). Transfers to the federal government or to a state, its agencies and departments or political subdivisions, including school districts, are exempt (12-24-40(2)).</p><p>For a house, the more relevant cases are corrective deeds. If a legal description in an earlier deed was wrong, a corrective deed confirming title already vested falls under item 12 when no consideration is paid.</p>"
+  },
+  {
+   "h2": "What does a quitclaim cost if the fee does apply?",
+   "html": "<p>If the exemption does not fit, the fee is the same $1.85 per $500 of value or fraction as any other deed (12-24-10), split $1.30 state and $0.55 county (12-24-90). A deed with $50,000 of consideration covers 100 units, so the statutory fee is $185. The liable party is the grantor by default (12-24-20), so the person giving up the interest may owe it.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is a quitclaim deed valid in South Carolina?",
+   "a": "Yes, if it is signed and proved or acknowledged as 30-5-30 requires and then recorded. It conveys the grantor's interest without needing a warranty clause (27-7-20)."
+  },
+  {
+   "q": "Do I pay a recording fee on a quitclaim deed?",
+   "a": "Not if it merely confirms title already vested in the grantee with no consideration (12-24-40(12)). You still file an affidavit stating the exemption reason."
+  },
+  {
+   "q": "Does a quitclaim deed remove someone from a mortgage?",
+   "a": "The statutes reviewed here say nothing on that point. Talk to your lender, since the deed and the loan are separate."
+  },
+  {
+   "q": "Can I use a quitclaim deed to sell my house?",
+   "a": "You can record one, but buyers and title companies generally want to see the full chain of title. Ask a closing attorney which deed fits your sale."
+  },
+  {
+   "q": "Who pays if the fee applies?",
+   "a": "The grantor by default, with the grantee secondarily liable (12-24-20)."
+  }
+ ],
+ "sources": [
+  {
+   "title": "SC Code Title 30, Chapter 5",
+   "url": "https://www.scstatehouse.gov/code/t30c005.php"
+  },
+  {
+   "title": "SC Code Title 12, Chapter 24",
+   "url": "https://www.scstatehouse.gov/code/t12c024.php"
+  },
+  {
+   "title": "SC Code Title 27, Chapter 7",
+   "url": "https://www.scstatehouse.gov/code/t27c007.php"
+  },
+  {
+   "title": "SC Code Title 62, Article 3",
+   "url": "https://www.scstatehouse.gov/code/t62c003.php"
+  }
+ ],
+ "slug": "south-carolina-quitclaim-deed"
+}

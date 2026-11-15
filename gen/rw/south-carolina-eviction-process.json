@@ -1,0 +1,77 @@
+{
+ "slug": "south-carolina-eviction-process",
+ "sections": [
+  {
+   "h2": "How does an eviction work in South Carolina?",
+   "html": "<p>A South Carolina landlord ends a tenancy with written notice, then asks a magistrate for a rule to show cause, and only a court-issued writ lets the tenant be removed. The landlord cannot change locks or shut off water to force the issue.</p><p>The two statutes that matter are Chapter 40 of Title 27 (the Residential Landlord and Tenant Act) and Chapter 37 of Title 27 (ejectment of tenants). The first says when a lease can be ended. The second sets the court steps. If you own a rented house and are thinking of selling it, you need to know where a tenant sits on that path, because it shapes what a buyer will pay for and when the keys can change hands.</p><p>Read the primary text at the <a href=\"https://www.scstatehouse.gov/code/t27c040.php\">South Carolina Legislature's Chapter 40 page</a> and the <a href=\"https://www.scstatehouse.gov/code/t27c037.php\">Chapter 37 page</a>.</p>"
+  },
+  {
+   "h2": "What notice comes before a South Carolina eviction case?",
+   "html": "<p>The notice depends on the reason: five days for unpaid rent, fourteen days for most other lease breaches, and thirty or seven days to end a periodic tenancy. Each must be written.</p><table><thead><tr><th>Situation</th><th>Notice or period</th><th>Statute</th></tr></thead><tbody><tr><td>Rent unpaid</td><td>Five days from the due date, with written notice of nonpayment and intent to end</td><td>27-40-710(B)</td></tr><tr><td>Other lease breach not fixed</td><td>Termination no sooner than 14 days after the tenant receives the notice</td><td>27-40-710(A)</td></tr><tr><td>Week-to-week tenancy</td><td>At least 7 days written notice</td><td>27-40-770(a)</td></tr><tr><td>Month-to-month tenancy</td><td>At least 30 days written notice</td><td>27-40-770(b)</td></tr><tr><td>Tenant response to rule to show cause</td><td>10 days after service</td><td>27-37-20</td></tr></tbody></table><p>The lease can carry the nonpayment warning itself. The statute even supplies the sentence a lease must contain about the five-day window, so a landlord should check that wording before relying on it.</p>"
+  },
+  {
+   "h2": "What happens in magistrate court?",
+   "html": "<p>The landlord applies to the magistrate, who issues a rule telling the tenant to leave or appear and explain why not within ten days of service. If the tenant does nothing, a warrant of ejectment follows.</p><p>Service is where many South Carolina cases slow down. The statute lets the rule be served like a summons. If the home looks abandoned for 15 days or more, the rule may be fixed to the most visible part of the premises. After two failed attempts at least 48 hours apart, and at times at least eight hours apart, it may be posted and mailed through the clerk, and mailed service counts as complete ten days after mailing (27-37-30).</p><p>If the tenant appears and contests, the magistrate hears the matter like other civil cases, and either side may ask for a jury. Many landlords build a few weeks of slack into any closing date for this reason.</p><ul><li>Rent keeps accruing at the old rate while the tenant stays, and taking rent does not give up the right to eject (27-37-150).</li><li>A judgment for the landlord leads to a writ of ejectment within five days (27-37-100).</li><li>A judgment for the tenant lets the tenant stay until the tenancy ends by agreement or law, or rent goes unpaid (27-37-110).</li></ul>"
+  },
+  {
+   "h2": "Who physically removes a tenant, and how fast?",
+   "html": "<p>A constable or deputy sheriff carries out the writ, and the occupants get 24 hours to leave voluntarily after it is presented. Only a deputy sheriff, not a constable, may force entry, and then only by the least destructive means (27-37-160).</p><p>The officer may delay removal for an ill or elderly tenant. When a tenant's belongings are set out on a public street, they are removed after 48 hours, not counting Saturdays, Sundays and holidays, and the eviction notice must tell the tenant so (27-40-710(D)).</p><p>An appeal is possible, but it does not stop the ejectment unless the tenant posts an appeal bond, and the appeal is dismissed if that bond is not filed within five days after service of the notice of appeal (27-37-120 and 27-37-130). A landlord can bring the action in magistrate's or circuit court without posting a bond (27-40-710(C)).</p>"
+  },
+  {
+   "h2": "What can a landlord not do in South Carolina?",
+   "html": "<p>A landlord may not recover possession by cutting off essential services or any other self-help, except where the tenant has abandoned, surrendered or the tenancy has properly ended (27-40-760).</p><p>Several other rules protect tenants during a sale or an eviction:</p><ul><li>Entry needs 24 hours notice at reasonable times, with emergencies excepted (27-40-530). That matters for showings and inspections.</li><li>Retaliation is barred. A tenant who wants to raise it as a defense to a rule to vacate must notify the landlord in writing within ten days of service, and a retaliating landlord can owe up to three months rent or treble damages (27-40-910).</li><li>Unexplained absence for 15 days after a rent default can be treated as abandonment, and left property valued at $500 or less may be disposed of under the conditions in 27-40-730.</li></ul><p>A willful holdover after a lease ends can cost the tenant up to three months periodic rent or twice actual damages, whichever is greater, plus fees (27-40-770(c)).</p>"
+  },
+  {
+   "h2": "How does an eviction affect selling a rented house in South Carolina?",
+   "html": "<p>A pending case does not stop you from selling, but it changes the timeline and the type of buyer. Most financed buyers want a vacant house or a clean lease, which is why many owners with a tenant in default look at an as-is cash sale.</p><p>Think through these points before you list or sign a contract:</p><ul><li>If a tenant has a valid lease, the deposit duties travel with the sale. A seller who conveys in good faith is relieved of later liability after written notice to the tenant, but stays responsible for the deposit unless it is transferred and the tenant is told (27-40-410 and 27-40-450).</li><li>Owner or agent contact details must be kept current and bind a successor owner (27-40-420(b)). Give the buyer that information in writing.</li><li>A buyer who does not want the tenant can only take the house vacant if the tenancy has ended lawfully. Do not promise a delivery date that depends on a court calendar you do not control.</li></ul><p>When a tenant is current and the lease runs for months, selling subject to the lease may be the simpler route. When the tenant is in default or holding over, owners often prefer to sell the house with the tenant issue priced in.</p>"
+  },
+  {
+   "h2": "What should a landlord check on a South Carolina property before selling?",
+   "html": "<p>Start with the lease, the rent ledger and the deposit record, then confirm your property tax status with the county.</p><p>Rented houses are not treated like owner homes for tax purposes. The 4 percent legal residence ratio does not apply to a residence rented for more than 72 days in a calendar year, and a property found ineligible can face a 100 percent penalty on the tax plus interest of one-half of one percent per month (12-43-220(c)). Other real property is assessed at 6 percent, so a rental can carry a heavier bill than the owner's own home would.</p><p>Property taxes are payable between September 30 and January 15. Penalties of 3 percent, then 7 percent more after February 2 and 5 percent more after March 17 follow (12-45-70 and 12-45-180). Ask the county auditor and treasurer for the current year's figures before a closing.</p>"
+  },
+  {
+   "h2": "Where can a landlord or tenant get official help?",
+   "html": "<p>The best starting points are the county magistrate's office, which accepts the filings, and the primary statutes themselves.</p><p>Court clerks cannot give legal advice, so a landlord with a complicated case, a tenant claiming retaliation or a holdover dispute should speak with a South Carolina attorney. If you want to compare notes on how a sale could work around a tenant situation, our team can walk through it with you at no obligation, and you can read the <a href=\"https://www.scstatehouse.gov/code/t27c040.php\">statute text</a> in full first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a South Carolina eviction take?",
+   "a": "There is no fixed total, because it depends on service and whether the tenant contests. The statutory pieces are a five-day or fourteen-day notice, a ten-day window after the rule is served, a writ within five days of a landlord win, and 24 hours to leave once the officer presents the writ."
+  },
+  {
+   "q": "Can a landlord lock a tenant out in South Carolina?",
+   "a": "No. Section 27-40-760 bars recovering possession by self-help or by willfully cutting essential services, except for abandonment, surrender or proper termination."
+  },
+  {
+   "q": "How much notice ends a month-to-month lease?",
+   "a": "Either side must give at least thirty days of written notice before the termination date under 27-40-770(b). A week-to-week tenancy needs at least seven days."
+  },
+  {
+   "q": "Can I sell a house while a tenant is being evicted?",
+   "a": "Yes, nothing in the statutes bars a sale during a case. The buyer takes the property subject to the court process, and the deposit rules in 27-40-410 and 27-40-450 still apply to what is owed the tenant."
+  },
+  {
+   "q": "What happens to a tenant's belongings after an eviction?",
+   "a": "Property placed on a public street is removed after 48 hours, not counting weekends and holidays. Abandoned property valued at $500 or less may be disposed of under 27-40-730 once its conditions are met."
+  }
+ ],
+ "sources": [
+  {
+   "title": "SC Code Title 27 Chapter 40, Residential Landlord and Tenant Act",
+   "url": "https://www.scstatehouse.gov/code/t27c040.php"
+  },
+  {
+   "title": "SC Code Title 27 Chapter 37, Ejectment of Tenants",
+   "url": "https://www.scstatehouse.gov/code/t27c037.php"
+  },
+  {
+   "title": "SC Code Title 12 Chapter 43, Assessment",
+   "url": "https://www.scstatehouse.gov/code/t12c043.php"
+  },
+  {
+   "title": "SC Code Title 12 Chapter 45, Collection of Taxes",
+   "url": "https://www.scstatehouse.gov/code/t12c045.php"
+  }
+ ]
+}
