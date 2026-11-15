@@ -30,6 +30,18 @@
   },
   {
    "file": "pages/fl/florida-county-records-1.json"
+  },
+  {
+   "file": "pages/ny/new-york-state-pages-1.json"
+  },
+  {
+   "file": "pages/ny/new-york-city-pages-1.json"
+  },
+  {
+   "file": "pages/ny/new-york-city-ptax-1.json"
+  },
+  {
+   "file": "pages/ny/new-york-county-ptax-1.json"
   }
  ]
 }
