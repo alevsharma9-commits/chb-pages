@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What rules apply to a quitclaim deed in Missouri?",
-   "html": "<p>A quitclaim deed is a conveyance of land, so it falls under the same execution and recording rules that Chapter 442 sets for every deed in the state. The Missouri statutes name quitclaim deeds directly in a few places, including the offense of filing false documents, which lists a warranty, special or quitclaim deed among the instruments it covers.</p><p>Two things control whether the paper works. First, it has to be signed and acknowledged the way the statute demands. Second, it has to be recorded with the county recorder of deeds where the land lies, in a format the recorder will accept.</p><p>Before you sign one, decide whether the transfer is final and whether you are giving up a say in a later sale. Your title company can tell you what it will want to see.</p>"
+   "html": "<p>A quitclaim deed is a conveyance of land, so it falls under the same execution and recording rules that Chapter 442 sets for every deed in the state. The Missouri statutes name quitclaim deeds directly in a few places, including the offense of filing false documents, which lists a warranty, special or quitclaim deed among the instruments it covers.</p><p>Two things control whether the paper works. First, it has to be signed and acknowledged the way the statute demands. Second, it has to be recorded with the recorder of deeds covering the land, in a format the recorder will accept.</p><p>Before you sign one, decide whether the transfer is final and whether you are giving up a say in a later sale. Your title company can tell you what it will want to see.</p>"
   },
   {
    "h2": "Who has to sign, and what must the deed say?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "Where do you record a Missouri quitclaim deed?",
-   "html": "<p>The deed goes to the recorder of deeds for the county where the property sits. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=442.380\">RSMo 442.380</a> says an instrument that conveys real estate, once proved or acknowledged and certified in the prescribed manner, shall be recorded in the office of the recorder of the county where the real estate is situated.</p><p>The state also sets what a recorder may collect. Recording a deed or other instrument costs $5 for the first page and $3 for each page after that. A certified or sealed copy and a plain copy have their own separate fees listed in the same statute. The recorder may charge an extra $25 when a document does not meet the format standards but is accepted anyway.</p><p>Some documents are exempt from the format rules, among them papers signed before January 1, 2002, certified copies and documents executed outside the United States. If a recorder rejects your deed, the statute requires it to be returned to the preparer or presenter with an explanation of why it could not be recorded. Ask your recorder whether it accepts documents submitted electronically, because the statutes leave that choice to each office.</p>"
+   "html": "<p>The deed goes to the recorder of deeds for the county that holds the parcel. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=442.380\">RSMo 442.380</a> says an instrument that conveys real estate, once proved or acknowledged and certified in the prescribed manner, goes into the books of the recorder in the county in which the real estate lies.</p><p>The state also sets what a recorder may collect. Recording a deed or other instrument costs five dollars for page one and three dollars per page beyond it. A certified or sealed copy and a plain copy have their own separate fees listed in the same statute. The recorder may charge an extra $25 when a document does not meet the format standards but is accepted anyway.</p><p>Some documents are exempt from the format rules, among them papers signed before January 1, 2002, certified copies and documents executed outside the United States. If a recorder rejects your deed, the statute requires it to be returned to the preparer or presenter with an explanation of why it could not be recorded. Ask your recorder whether it accepts documents submitted electronically, because the statutes leave that choice to each office.</p>"
   },
   {
    "h2": "What format does the recorder require?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "What are the risks of using a quitclaim deed in a sale?",
-   "html": "<p>The risk is less about the form itself and more about what is attached to the property and who signed. Missouri treats a false or forged deed seriously. Under <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=570.095\">RSMo 570.095</a>, a person who files or presents a deed with the intent to defraud, knowing it contains materially false information, is a forgery or lacks the consent of every party, commits the offense of filing false documents. A first offense is a class D felony, and the court must order restitution.</p><p>The same statute gives property owners a remedy. Anyone who believes a recorded document is fraudulent can file a probable cause statement in the associate or circuit court of the county where it was recorded. The first hearing must be set within twenty business days, and a ruling of invalid can be recorded at no filing fee.</p><p>For sellers, the sensible approach is to treat a quitclaim as one step in a title chain. Ask the title company to review the vesting deed, any lien and the proposed grantee before you sign, and send the finished deed to the recorder instead of holding it in a drawer.</p>"
+   "html": "<p>The risk is less about the form itself and more about what is attached to the property and who signed. Missouri treats a false or forged deed seriously. Under <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=570.095\">RSMo 570.095</a>, a person who files or presents a deed with the intent to defraud, knowing it contains materially false information, is a forgery or lacks the consent of every party, commits the offense of filing false documents. A first offense is a class D felony, and the court must order restitution.</p><p>The same statute gives property owners a remedy. Anyone who believes a recorded document is fraudulent can file a probable cause statement with the associate or circuit court serving the recording county. The first hearing must be set within twenty business days, and a ruling of invalid can be recorded at no filing fee.</p><p>For sellers, the sensible approach is to treat a quitclaim as one step in a title chain. Have the title company look over the vesting deed, any lien and the proposed grantee before you sign, and send the finished deed to the recorder instead of holding it in a drawer.</p>"
   }
  ],
  "faqs": [
@@ -36,16 +36,16 @@
    "a": "It must be acknowledged or proved and certified. RSMo 442.130 requires the grantor, or a lawful agent, to sign, and the signature must be acknowledged or proved and certified in the manner the statute prescribes. Ask the recorder or your title company which officer can take the acknowledgment."
   },
   {
-   "q": "How much does it cost to record a deed in Missouri?",
-   "a": "The statutory fee is $5 for the first page and $3 for each additional page. If the document fails the format rules but the recorder accepts it anyway, RSMo 59.310 adds $25. Ask the county recorder for any extra charges for copies."
+   "q": "What will the recorder charge to file a Missouri deed?",
+   "a": "The statutory charge is $5 for page one and $3 for every added page. A document that breaks the format rules but is accepted anyway carries a $25 surcharge under RSMo 59.310. Ask the recorder about copy fees."
   },
   {
    "q": "Do I have to state if the grantor is married?",
    "a": "Yes. Every written instrument conveying real estate must state whether each natural person signing as a grantor is married or unmarried, and the first page of a recorded document must show each grantor's name and marital status."
   },
   {
-   "q": "Which county office records the deed?",
-   "a": "The recorder of deeds in the county where the land lies. RSMo 442.380 directs instruments that convey real estate to the recorder of that county."
+   "q": "Which office files a Missouri deed?",
+   "a": "The county recorder of deeds for the place the land is located. RSMo 442.380 sends instruments that convey real estate to that county's recorder."
   },
   {
    "q": "What if two people receive property by one quitclaim deed?",
