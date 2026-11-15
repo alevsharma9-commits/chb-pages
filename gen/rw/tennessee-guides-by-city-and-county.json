@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What should a Tennessee home seller know about the state first?",
-   "html": "<p>Tennessee is a state of 7,315,076 residents, according to the Census Bureau's July 1, 2025 estimate, up 5.8 percent from the April 2020 base. The <a href=\"https://www.census.gov/quickfacts/fact/table/TN/PST045224\">Census QuickFacts</a> table counts 3,291,207 housing units, an owner-occupied rate of 66.9 percent for 2020 to 2024 and a median owner-occupied value of $286,700. Median gross rent is $1,189.</p><p>Those statewide numbers hide wide gaps between a Memphis block, a Nashville suburb and a Smoky Mountain county seat. The guides in this directory break the state into county level and city level pages so a seller can find the register of deeds, the property tax rules and the local selling steps for one address instead of an average.</p>"
+   "html": "<p>Tennessee is a state of 7,315,076 residents, according to the Census Bureau's July 1, 2025 estimate, a gain of 5.8 percent over the April 2020 base. The <a href=\"https://www.census.gov/quickfacts/fact/table/TN/PST045224\">Census QuickFacts</a> table counts 3,291,207 housing units, an owner-occupied rate of 66.9 percent for 2020 to 2024 and a median owner-occupied value of $286,700. Median gross rent is $1,189.</p><p>The land itself varies as much as the market. The Blue Ridge Mountains line the eastern border, the Cumberland Plateau and the Highland Rim lead to the central basin, and level, fertile plains define West Tennessee. The Great Smoky Mountains National Park sits in the east, and the Mississippi River forms the western border.</p><p>Those statewide numbers hide wide gaps between a Memphis block, a Nashville suburb and a Smoky Mountain county seat. The guides in this directory break the state into county level and city level pages so a seller can find the register of deeds, the property tax rules and the local selling steps for one address instead of an average.</p>"
   },
   {
    "h2": "How is Tennessee divided into counties and cities?",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "What property tax relief exists for Tennessee homeowners?",
-   "html": "<p>The Comptroller's <a href=\"https://comptroller.tn.gov/office-functions/pa/property-taxes/property-tax-programs.html\">Property Tax Programs</a> page lists two programs. State law provides relief for low-income elderly and disabled homeowners and for disabled veteran homeowners or their surviving spouses. A separate tax freeze holds the property taxes on a principal residence at a base amount, which is the tax owed in the year the owner first qualifies.</p><p>If you are selling a home that has been in a relief or freeze program, ask the county trustee how the program ends at a sale and what balance remains. The trustee also sits at the end of the tax chain, since trustees collect county property tax.</p>"
+   "html": "<p>The Comptroller's <a href=\"https://comptroller.tn.gov/office-functions/pa/property-taxes/property-tax-programs.html\">Property Tax Programs</a> page lists two programs. State law provides relief for low-income elderly and disabled homeowners and for disabled veteran homeowners or their surviving spouses. A separate tax freeze holds the property taxes on a principal residence at a base amount, which is the tax owed in the year the owner first qualifies.</p><p>A seller whose home sits in a relief or freeze program should ask the county trustee how the program ends at a sale and what balance remains. The trustee also sits at the end of the tax chain, since trustees collect county property tax.</p>"
   },
   {
    "h2": "What taxes does Tennessee charge on a home sale?",
@@ -31,11 +31,11 @@
   },
   {
    "h2": "How does Tennessee weather affect an older house?",
-   "html": "<p>Most of the state has a humid subtropical climate with about 50 inches of precipitation a year. Tornadoes are possible throughout Tennessee, with West and Middle Tennessee the most vulnerable, and the state averages 15 a year. Ice storms are fairly common, and fog is a persistent problem in parts of East Tennessee.</p><p>Roof age, drainage and tree limbs near the house deserve a look before a sale. Ask the county assessor whether storm repairs or an addition have changed the property record, because the assessor tracks changes to buildings between reappraisals.</p>"
+   "html": "<p>Wet weather arrives in every season across most of the state, which averages about 50 inches of rain and melted snow annually and falls in the humid subtropical climate class. Tornadoes are possible throughout Tennessee, with West and Middle Tennessee the most vulnerable, and the state averages 15 a year. Ice storms are fairly common, and fog is a persistent problem in parts of East Tennessee.</p><p>Roof age, drainage and tree limbs near the house deserve a look before a sale. Ask the county assessor whether storm repairs or an addition have changed the property record, because the assessor tracks changes to buildings between reappraisals.</p>"
   },
   {
    "h2": "How should I use these Tennessee guides?",
-   "html": "<p>Pick the guide that matches the address. A Tennessee parcel has a county, often a city and sometimes a special rule, so one page rarely covers it all. County pages cover register of deeds offices for places such as Shelby, Knox, Hamilton, Davidson, Williamson and Sumner. Property tax guides cover many of the larger counties and cities. City pages walk through selling a house in Nashville, Memphis, Knoxville, Chattanooga, Clarksville, Murfreesboro and other Tennessee cities.</p><p>Statewide topics round out the set, including property tax appeals, homestead exemption, estate and inheritance tax, quitclaim deeds, transfer on death deeds, capital gains tax and eviction notices. Start with the topic that fits your situation, then move to the county page for your parcel.</p>"
+   "html": "<p>Pick the guide that matches the address. A Tennessee parcel has a county, often a city and sometimes a special rule, so one page rarely covers it all.</p><ul><li>County pages cover register of deeds offices for places such as Shelby, Knox, Hamilton, Davidson, Williamson and Sumner.</li><li>Property tax guides cover many of the larger counties and cities.</li><li>City pages walk through selling a house in Nashville, Memphis, Knoxville, Chattanooga, Clarksville, Murfreesboro and other Tennessee cities.</li><li>Statewide topic guides cover property tax appeals, homestead exemption, estate and inheritance tax, quitclaim deeds, transfer on death deeds, capital gains tax and eviction notices.</li></ul><p>Start with the topic that fits your situation, then move to the county page for your parcel, and finish with the city page if the house sits inside city limits.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +45,7 @@
   },
   {
    "q": "Which Tennessee office records a deed?",
-   "a": "The county register of deeds. That office also collects the recordation tax, which includes the realty transfer tax of $0.37 per $100 of purchase price."
+   "a": "The register of deeds in the county where the property sits. That office also gathers the recordation tax, including realty transfer tax at $0.37 per $100 of price."
   },
   {
    "q": "How is a Tennessee house assessed for property tax?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "Does Tennessee have a state income tax on home sale profits?",
-   "a": "No. The Department of Revenue says Tennessee has no individual income tax on wages or most other income, and its Hall tax on interest and dividends was repealed for periods beginning January 1, 2021 or later."
+   "a": "No. Wages and most other income carry no Tennessee individual income tax, and the old Hall tax on interest and dividends was repealed for periods starting January 1, 2021."
   },
   {
    "q": "Where can I find the rules for a county I do not see here?",
