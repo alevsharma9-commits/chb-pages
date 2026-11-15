@@ -1,0 +1,85 @@
+{
+ "slug": "wisconsin-probate-process",
+ "sections": [
+  {
+   "h2": "How does probate work in Wisconsin?",
+   "html": "<p>Probate in Wisconsin is a court-supervised process that moves a dead person's assets to the people entitled to them. The <a href=\"https://www.wicourts.gov/services/public/selfhelp/probate.htm\">Wisconsin court system self-help page</a> says Wisconsin Statutes chapters 851 through 882 govern probate actions.</p><p>The Wisconsin Register in Probate Association explains the process in its <a href=\"https://www.wicourts.gov:443/services/public/selfhelp/docs/probateguide.pdf\">Guide to Informal Estate Administration</a>, revised November 2025 and posted by the courts. Administration gives notice to creditors and interested persons, identifies heirs and beneficiaries, collects and inventories assets, pays taxes and claims, and transfers what remains.</p><p>The case is filed in the county where the decedent lived. If the person was not a Wisconsin resident, the application can go to any Wisconsin county where the person owned property.</p>"
+  },
+  {
+   "h2": "Which type of Wisconsin probate fits an estate with a house?",
+   "html": "<p>That depends on the size of the estate, whether there is a will, and whether the heirs agree. The table compares the main paths described in the court guide and the statutes.</p><table><thead><tr><th>Path</th><th>When it applies</th><th>Source</th></tr></thead><tbody><tr><td>Transfer by affidavit</td><td>Property subject to administration of $50,000 or less in gross value</td><td>Wis. Stat. 867.03(1g)</td></tr><tr><td>Summary settlement</td><td>$50,000 or less with a surviving spouse, domestic partner or minor children</td><td>Court guide</td></tr><tr><td>Summary assignment</td><td>$50,000 or less, for estates that cannot use summary settlement</td><td>Court guide</td></tr><tr><td>Informal administration</td><td>Supervised by the Probate Registrar, no continuous court supervision</td><td>Court guide</td></tr><tr><td>Formal administration</td><td>Continuous court supervision, and an attorney is needed</td><td>Court guide</td></tr><tr><td>Register of deeds confirmation</td><td>Spouse or beneficiary of a marital property agreement or TOD interest</td><td>Wis. Stat. 867.046(2)</td></tr></tbody></table><p>Court staff cannot tell you which path to pick. The guide says that choice is a legal decision and suggests talking to an attorney, especially when heirs disagree, claims are disputed or taxes are an issue.</p>"
+  },
+  {
+   "h2": "What if the owner died without a will in Wisconsin?",
+   "html": "<p>The estate still goes through administration, and the heirs are set by statute. The court guide points to Wis. Stat. 852.01 for who counts as an heir when there is no will, and its chart treats a surviving domestic partner the same as a surviving spouse.</p><p>The guide also explains how shares split. Under the per stirpes rule, property divides at each generation, with one share for each surviving person and one for each deceased person, and a deceased person's share passes to that person's issue. With three children, the children's portion divides into thirds, and if one child has died leaving two children, that third splits between the two grandchildren.</p><p>Informal administration of an intestate estate can be denied when the heirs do not all consent in writing, or when an interested person demands formal proceedings. Any heir can demand formal proceedings, which moves the case in front of a judge.</p>"
+  },
+  {
+   "h2": "Can a personal representative sell an inherited Wisconsin house?",
+   "html": "<p>Yes, once the court has appointed the personal representative and issued letters. Being named in a will is only a nomination. The guide says the Probate Registrar or a judge must appoint you, and the proof of that appointment is a document called Domiciliary Letters.</p><ul><li>Sign the deed with the legal description of the land, not the street address. The guide warns that a mistake in the legal description can affect ownership.</li><li>Take the original will and any codicils to the court. The guide says they must be delivered.</li><li>Plan to inventory the home at its fair market value on the date of death.</li></ul><p>A named personal representative also cannot use the small estate affidavit to take real estate. <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/867/03\">Wis. Stat. 867.03(1h)</a> bars that unless the person is also an heir, a trustee of the decedent's revocable trust, or the decedent's guardian.</p>"
+  },
+  {
+   "h2": "What does the Wisconsin small estate affidavit allow?",
+   "html": "<p>It lets certain people collect money and property of the decedent without opening a court case, if the estate is $50,000 or less in gross value. Under <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/867/03\">Wis. Stat. 867.03(1g)</a>, an heir, the trustee of a revocable trust, a person named in the will as personal representative, or the decedent's guardian may use it.</p><ul><li>The affidavit must describe the property and give its value, and it must state the total value of the estate.</li><li>A person named in the will who is not also an heir must wait 30 days before the holder of property transfers it under the affidavit.</li><li>If the decedent or the decedent's spouse ever received long-term care program services or medical assistance benefits, the affiant must first give notice to the Department of Health Services and attach proof of mail delivery.</li></ul><p>The court guide notes that the State Bar of Wisconsin maintains the affidavit form and that the person using it takes on legal responsibilities.</p>"
+  },
+  {
+   "h2": "How does the register of deeds route work for a house?",
+   "html": "<p>A surviving spouse or a beneficiary can end the decedent's interest in real property by filing an application with the register of deeds. <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/867/046\">Wis. Stat. 867.046(2)</a> lists the people who can apply: the spouse, a beneficiary of a marital property agreement, a transfer on death beneficiary, or a beneficiary of certain survivorship transfers.</p><ul><li>The application for real property includes the latest property tax bill and a legal description.</li><li>For a joint tenancy, life estate or TOD designation, it includes a copy of the deed that created the interest.</li><li>Recording the application ends the decedent's interest, with the same force as a court-issued confirmation.</li><li>If the spouse or beneficiary does not start a confirmation proceeding within 90 days after death, any interested person may apply.</li></ul><p>A buyer or lender who acts in good faith and pays value takes title free of estate claims and has no duty to ask whether the transfer was proper.</p>"
+  },
+  {
+   "h2": "What deadlines do Wisconsin personal representatives face?",
+   "html": "<p>The court sets the deadlines in a Notice of Estate Administration Deadlines when it appoints the personal representative. The guide lists the main dates and duties:</p><ul><li>The Inventory is due on the date shown in that notice, with a statutory filing fee.</li><li>The personal representative takes the notice to creditors to a newspaper for publication and mails a copy to each known creditor.</li><li>An objection, offset or counterclaim to a claim must be served and filed within 60 days after the claim was mailed or served.</li><li>The estate can close once the claims deadline has passed and should close within 12 months of opening.</li><li>An extension needs a Petition for Extension of Time (PR-1833) and an order (PR-1834).</li><li>If no proceedings are pending six months after the Statement to Close Estate is filed, the appointment ends.</li></ul><p>The estate also needs a Closing Certificate for Fiduciaries, which comes from filing Schedule CC with the Wisconsin Department of Revenue.</p>"
+  },
+  {
+   "h2": "Do heirs owe a transfer fee or a condition report when they sell?",
+   "html": "<p>Two statutes bear on an inherited home. Transfers by will, descent or survivorship are exempt from the real estate transfer fee under s. 77.25(11). Ask the register of deeds how the fee applies to the later sale to a buyer.</p><p>Under <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/709/01\">Wis. Stat. 709.01(2)(d)</a>, fiduciaries appointed by or supervised by a court are excused from the condition report if they never occupied the property. An heir who lived in the house is in a different position and should ask a Wisconsin attorney or the buyer's closing agent whether the report applies.</p><p>The guide says the Probate Registrar supplies certified copies of the Domiciliary Letters for a nominal statutory fee, so order enough copies for the title company and the buyer. Also ask the county treasurer for the current tax bill.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a lawyer for probate in Wisconsin?",
+   "a": "Not for informal administration or summary settlement. The court guide says formal administration requires an attorney and that you must be represented in proceedings before a judge. It suggests speaking with one early when a claim may need to be disallowed."
+  },
+  {
+   "q": "How long does Wisconsin probate take?",
+   "a": "The guide says an estate can close once the claims deadline has passed and should close within 12 months of opening. The Probate Registrar can grant more time on a petition for extension."
+  },
+  {
+   "q": "Where do I file a Wisconsin probate case?",
+   "a": "File in the county where the decedent lived at death. If the decedent was not a Wisconsin resident, any county where Wisconsin property is located can receive the application. Call that county's Register in Probate to ask about appointments."
+  },
+  {
+   "q": "Can I sell the house before probate is finished?",
+   "a": "Yes, once you hold court-issued letters as personal representative and sign a deed with the full legal description. The court guide describes selling real estate as one of the personal representative's tasks. Spouses and certain beneficiaries may instead use the register of deeds route in Wis. Stat. 867.046."
+  },
+  {
+   "q": "What is the small estate limit in Wisconsin?",
+   "a": "The limit is $50,000 in gross value. That figure appears in Wis. Stat. 867.03(1g) for the transfer by affidavit and in the court guide for summary settlement and summary assignment."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wisconsin Court System, Probate self-help",
+   "url": "https://www.wicourts.gov/services/public/selfhelp/probate.htm"
+  },
+  {
+   "title": "A Guide to Informal Estate Administration in Wisconsin (rev. Nov. 2025)",
+   "url": "https://www.wicourts.gov:443/services/public/selfhelp/docs/probateguide.pdf"
+  },
+  {
+   "title": "Wis. Stat. 867.03, Transfer of small estates by affidavit",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/867/03"
+  },
+  {
+   "title": "Wis. Stat. 867.046, Summary confirmation of interest in property",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/867/046"
+  },
+  {
+   "title": "Wis. Stat. ch. 709, Disclosures by owners of real estate",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/709/01"
+  },
+  {
+   "title": "Wis. Stat. 77.25, Exemptions from transfer fee",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/77/ii/25/17"
+  }
+ ]
+}

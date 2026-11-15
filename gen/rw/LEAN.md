@@ -23,6 +23,9 @@ Plain, specific, varied sentence length. No em or en dashes (use commas, periods
 ## Uniqueness
 Each page is checked for 5-word phrase overlap with every other page: 80% of phrases must appear nowhere else. State rules repeat across a state's pages, so phrase them freshly and briefly on each page and spend most words on facts specific to this city, county or topic. Write each page fresh. Do not reuse sentences across your 4 pages or from the current page text.
 
+## Uniqueness gate (required before you finish)
+Run: python3 /home/claude/chb-pages/gen/rw/overlap.py <slug> <slug> ... (your 4 slugs). It prints the share of your phrases found on no other page. Every page must reach 85% or more. For any page below that, it lists phrases found elsewhere: rewrite those passages with this place's own facts and wording (edit the JSON), then run it again. Typical culprits: the Census sentence ("the Census Bureau puts the median value of owner occupied homes at ..."), FAQ openers ("How long do I have to ..."), "the second half is due ...", "from the sale proceeds at closing". Give the table caption, the Census facts and every state-rule sentence fresh, place-specific wording on each page, and keep state-rule sentences to one short sentence each.
+
 ## Page types
 - City page (sell-my-house-fast-<city>-<st>): the city (layout, history in brief, economy, climate effects on a house if sourced, schools by district name, roads, neighborhoods, local rules for permits, rental or short-term rental, recording and transfer steps) tied to selling a house there.
 - County property tax page: county geography and towns plus assessment, tax dates, appeals, relief programs, paying tax at closing. Cite the assessor/treasurer pages.

@@ -1,0 +1,105 @@
+{
+ "slug": "wisconsin-guides-by-city-and-county",
+ "sections": [
+  {
+   "h2": "What should a Wisconsin home seller know about the state?",
+   "html": "<p>Wisconsin is a state of 5,972,787 people (Census Bureau estimate for July 1, 2025) with 2,840,960 housing units, and 67.8% of its occupied homes are owner-occupied. The <a href=\"https://www.census.gov/quickfacts/fact/table/WI/PST045224\">Census Bureau's QuickFacts</a> figures for 2020 to 2024 show a median owner-occupied home value of $266,500, median monthly owner costs of $1,689 with a mortgage and $659 without one, and median gross rent of $1,087.</p><p>Those statewide numbers hide wide gaps between places, and a seller's rules depend on the county that records the deed and bills the property tax. The guides on this site cover Wisconsin cities, counties and state-level topics, and this overview explains how the pieces fit together for anyone selling a house in Wisconsin.</p>"
+  },
+  {
+   "h2": "How do Wisconsin counties differ for sellers?",
+   "html": "<p>Wisconsin has 72 counties, from Milwaukee County at 924,216 people down to Menominee County at 4,199, according to the <a href=\"https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin\">county list</a> built on 2025 Census estimates. Marathon County is the largest by area at about 1,545 square miles, and Pepin County is the smallest at about 232. County government provides circuit courts, deed registration and other services, and each county has its own treasurer, register of deeds and clerk of circuit court.</p><p>The four most populous counties show how much the housing picture changes across the state. The table below uses Census Bureau QuickFacts figures.</p><table><thead><tr><th>County</th><th>Population (2025 estimate)</th><th>Owner-occupied rate</th><th>Median home value</th><th>Median gross rent</th></tr></thead><tbody><tr><td>Milwaukee County</td><td>924,216</td><td>49.9%</td><td>$230,700</td><td>$1,101</td></tr><tr><td>Dane County</td><td>590,375</td><td>57.1%</td><td>$394,800</td><td>$1,398</td></tr><tr><td>Waukesha County</td><td>417,210</td><td>76.0%</td><td>$398,200</td><td>$1,356</td></tr><tr><td>Brown County</td><td>275,803</td><td>66.0%</td><td>$266,000</td><td>$1,031</td></tr></tbody></table><p>Source: <a href=\"https://www.census.gov/quickfacts/fact/table/milwaukeecountywisconsin,danecountywisconsin,waukeshacountywisconsin,browncountywisconsin/PST045224\">Census Bureau QuickFacts</a>, owner and rent figures for 2020 to 2024.</p><p>Next in size are Racine, Outagamie, Winnebago, Kenosha and Rock counties, each between about 166,000 and 199,000 residents. Madison is the seat of Dane County, Green Bay the seat of Brown County and Waukesha the seat of Waukesha County, which was formed from Milwaukee County in 1846.</p>"
+  },
+  {
+   "h2": "How are Wisconsin property taxes assessed and paid?",
+   "html": "<p>Assessors value taxable property as of the close of January 1 each year, according to <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/70/10\">Wis. Stat. 70.10</a>, and the assessment is finished before the first Monday in April, except in first-class cities and second-class cities that use a board of assessors. Tax bills go out by the third Monday in December under 74.09(5).</p><p><a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/74/iii/11\">Wis. Stat. 74.11</a> sets two equal installments for real property tax, due January 31 and July 31. A parcel with a total real property tax under $100 is paid in full by January 31. Payments made on or before January 31 go to the taxation district treasurer, and other payments go to the county treasurer. If the first installment is not received within 5 working days after January 31, the whole unpaid balance becomes delinquent as of February 1, and interest and penalties run from that date.</p><p>A taxation district can adopt an ordinance allowing three or more installments, so ask the local treasurer which schedule applies to your parcel.</p>"
+  },
+  {
+   "h2": "What does it cost to transfer a house in Wisconsin?",
+   "html": "<p>The state real estate transfer fee is 30 cents for each $100 of value, imposed on the seller. The register of deeds in the county where the property sits collects it when the deed is submitted for recording, and the buyer and seller sign a transfer return filed electronically unless a waiver is granted. Of each fee collected, 20% stays with the county and the rest goes to the state (<a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/77/ii/22/1\">Wis. Stat. 77.22 to 77.24</a>).</p><p>Many transfers are exempt, including conveyances by will, descent or survivorship, transfers from a trustee to a beneficiary without payment, and gifts between parent and child or grandparent and grandchild for nominal consideration. A sale under a will is not exempt, because the sale price carries the fee.</p>"
+  },
+  {
+   "h2": "Which Wisconsin rules come up most often in a house sale?",
+   "html": "<p>State rules cut across county lines, and several of them shape how quickly a house can sell. The list below covers the ones that matter most.</p><ul><li><strong>Estate and inheritance tax.</strong> The Department of Revenue says there is no Wisconsin estate tax for deaths on or after January 1, 2008. The federal estate tax return threshold is $15,000,000 for 2026 deaths.</li><li><strong>Capital gains.</strong> Wisconsin generally allows a deduction for 30% of net capital gain from assets held more than one year, per Department of Revenue Publication 103.</li><li><strong>Small estates.</strong> Under <a href=\"https://docs.legis.wisconsin.gov/statutes/statutes/867/03?view=section\">Wis. Stat. 867.03</a>, property subject to administration worth $50,000 or less can be collected by affidavit, but a named personal representative who is not an heir cannot take real property that way.</li><li><strong>Tenants.</strong> A month-to-month tenant who misses rent can receive a 5-day pay-or-vacate notice, a no-fault month-to-month notice is at least 28 days, and removal requires a court order carried out by the sheriff.</li><li><strong>Deeds and recording.</strong> Each deed goes through the county register of deeds with a transfer return.</li></ul>"
+  },
+  {
+   "h2": "How did Wisconsin's county map take shape?",
+   "html": "<p>Wisconsin's oldest counties are Brown and Crawford, both organized in 1818. Milwaukee County was carved out of Brown County in 1834, and the state entered the union on May 29, 1848 with 28 counties. The newest is Menominee County, formed in 1959, whose borders match the Menominee Indian Reservation.</p><p>Most Wisconsin counties took their present borders long ago, and 72 counties now exist. When you trace an old deed or tax record, ask the register of deeds in the county where the parcel lies today which index covers it.</p>"
+  },
+  {
+   "h2": "What topics do the Wisconsin guides cover?",
+   "html": "<p>The guides in this directory fall into a few groups, so you can jump to the one that matches your situation.</p><ul><li>City guides for selling a house in a specific Wisconsin city, covering local records, schools, neighborhoods and the closing steps there.</li><li>County guides for property tax assessment, payment dates and the county register of deeds.</li><li>City property tax guides that name the county billing each Wisconsin city.</li><li>State topic guides on probate, estate and capital gains tax, landlord and tenant rules, eviction, deeds and closing costs.</li></ul>"
+  },
+  {
+   "h2": "Where should a Wisconsin seller start?",
+   "html": "<p>Start with the county, since the county register of deeds records the sale and the county treasurer or local treasurer handles tax payments. Then match the situation to the right topic. An inherited house leads to estate and probate questions, a rented house leads to the landlord and tenant rules, and a house with unpaid taxes leads to the treasurer's schedule above.</p><p>Whatever the situation, gather the deed, the latest property tax bill, any lease, and the estate paperwork if the owner has died. Ask the county register of deeds and treasurer for current forms and balances before setting a closing date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many counties does Wisconsin have?",
+   "a": "Seventy-two. Milwaukee County is the most populous at 924,216 people in the 2025 Census estimate, and Menominee County is the smallest at 4,199. Each county has its own register of deeds, treasurer and clerk of circuit court."
+  },
+  {
+   "q": "When are Wisconsin property taxes due?",
+   "a": "Real property tax is due in two equal installments, January 31 and July 31, unless the total is under $100 or the local district allows three or more installments by ordinance. Missing the first installment makes the whole unpaid balance delinquent as of February 1."
+  },
+  {
+   "q": "What is the Wisconsin real estate transfer fee?",
+   "a": "It is 30 cents for each $100 of value, paid by the seller and collected by the register of deeds at recording. On a $300,000 sale the fee is $900. Conveyances by will, descent or survivorship are exempt."
+  },
+  {
+   "q": "Does Wisconsin tax inherited houses?",
+   "a": "Not through an estate or inheritance tax. The Department of Revenue says there is no Wisconsin estate tax for deaths on or after January 1, 2008. Heirs who sell can owe income tax on gain, and Wisconsin allows a deduction for 30% of net long-term capital gain."
+  },
+  {
+   "q": "What is the median home value in Wisconsin?",
+   "a": "The Census Bureau reports a median owner-occupied home value of $266,500 for 2020 to 2024. Values vary by county, from $230,700 in Milwaukee County to $398,200 in Waukesha County in the same period."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Census QuickFacts Wisconsin",
+   "url": "https://www.census.gov/quickfacts/fact/table/WI/PST045224"
+  },
+  {
+   "title": "Census QuickFacts Milwaukee, Dane, Waukesha and Brown Counties",
+   "url": "https://www.census.gov/quickfacts/fact/table/milwaukeecountywisconsin,danecountywisconsin,waukeshacountywisconsin,browncountywisconsin/PST045224"
+  },
+  {
+   "title": "List of counties in Wisconsin",
+   "url": "https://en.wikipedia.org/wiki/List_of_counties_in_Wisconsin"
+  },
+  {
+   "title": "Wis. Stat. 70.10",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/70/10"
+  },
+  {
+   "title": "Wis. Stat. 74.11",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/74/iii/11"
+  },
+  {
+   "title": "Wis. Stat. 77.22 to 77.25",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/77/ii/22/1"
+  },
+  {
+   "title": "Wis. Stat. 867.03",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/867/03?view=section"
+  },
+  {
+   "title": "Wisconsin DOR Estate Tax Forms",
+   "url": "https://revenue.wi.gov/Pages/form/estate-home.aspx"
+  },
+  {
+   "title": "Wisconsin DOR Publication 103",
+   "url": "https://www.revenue.wi.gov/DOR%20Publications/pb103.pdf"
+  },
+  {
+   "title": "IRS Estate Tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
+  },
+  {
+   "title": "Wis. Stat. 704.17 and 704.19",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704/17?view=section"
+  }
+ ]
+}
