@@ -2,54 +2,54 @@
  "slug": "monroe-county-mi-register-of-deeds",
  "sections": [
   {
-   "h2": "How does the Monroe County Register of Deeds handle a home sale?",
-   "html": "<p>The Register of Deeds in Monroe County, Michigan, records the deed, mortgage and other real estate instruments that move a house from one owner to the next. The office is open Monday through Friday from 8:30 a.m. to 4 p.m. Real property documents presented after 3:00 p.m. are recorded or filed on the following working day.</p>\n<p>Ask the office for its current counter location and e-recording instructions before you send a courier. A seller who closes through a title company rarely needs to visit at all, because the title agent delivers the deed and pays the fee.</p>"
+   "h2": "When can you record a deed in Monroe County?",
+   "html": "<p>Monroe County's deeds office takes recordings Monday through Friday between 8:30 a.m. and 4 p.m. A real property document that arrives after 3:00 p.m. is handled on the next working day, so the practical cutoff for same-day posting is an hour earlier than the closing time. Ask the office for its current counter location and e-recording instructions before sending a courier.</p>\n<p>Most sellers never visit. Their title agent carries the deed in and pays the charge from the closing funds.</p>"
   },
   {
-   "h2": "What are Monroe County's recording fees?",
-   "html": "<p>Recording a deed, mortgage, lis pendens or any other real estate instrument costs $30, no matter how many pages it runs. The county says the amount covers the Michigan remonumentation and Register of Deeds automation fees. Payments can be made in cash, by check or by credit card, and the card route adds a 3 percent fee with a minimum of $2.</p>\n<table><caption>Monroe County recording and certificate fees</caption><thead><tr><th>Service</th><th>Fee</th></tr></thead><tbody>\n<tr><td>Deed or mortgage, any page count</td><td>$30</td></tr>\n<tr><td>Each extra instrument assigned or discharged by one document</td><td>$3, on top of the $30</td></tr>\n<tr><td>Certifying a recorded document</td><td>$5</td></tr>\n<tr><td>Real estate copy, per page</td><td>$1</td></tr>\n<tr><td>Tax certificate for a warranty deed, up to 5 descriptions</td><td>$5, then $0.20 for each added description</td></tr>\n<tr><td>State tax lien search certificate</td><td>$1</td></tr>\n</tbody></table>\n<p>Other copy rates differ by record type: $2 per page for a UCC filing and $1 per page for a recorded plat on letter-size paper. The $3 charge has one exception: a document going from the State of Michigan or a political subdivision to a Land Bank Authority.</p>"
+   "h2": "What does Monroe County charge for recording?",
+   "html": "<p>Every instrument, whether a deed, a mortgage or a lis pendens, costs a flat $30 however long it runs. The amount already includes the Michigan remonumentation and automation fees. The county accepts cash, checks and credit cards, and a card adds 3 percent, with a floor of $2.</p>\n<table><caption>Monroe County Register of Deeds charges that sellers meet</caption><thead><tr><th>Service</th><th>Fee</th></tr></thead><tbody>\n<tr><td>Deed or mortgage, any page count</td><td>$30</td></tr>\n<tr><td>Each added instrument assigned or discharged in one document</td><td>$3 on top of the flat fee</td></tr>\n<tr><td>Certifying a recorded document</td><td>$5</td></tr>\n<tr><td>Real estate copy, per page</td><td>$1</td></tr>\n<tr><td>Tax certificate for a warranty deed, up to 5 descriptions</td><td>$5, then $0.20 per extra description</td></tr>\n<tr><td>State tax lien search certificate</td><td>$1</td></tr>\n</tbody></table>\n<p>UCC copies run $2 per page, and a recorded plat copy on letter paper is $1. One exception removes the $3 add-on: a document that moves from the State of Michigan or a local government to a Land Bank Authority.</p>"
   },
   {
-   "h2": "How much is transfer tax in Monroe County?",
-   "html": "<p>The county's fee page lists $7.50 per $1,000 for the state tax and $1.10 per $1,000 for the county tax, applied to the total consideration. That adds up to $8.60 per $1,000. On a $228,900 house, the median owner-occupied value in the Census data below, the arithmetic comes to about $1,969, or $1,717 state and $252 county before any rounding up to the next $500.</p>\n<p>The seller is the party liable under state law, and the tax is due to the county treasurer within 15 days after the deed is delivered. Exemptions in MCL 207.526 cover gifts to children and grandchildren, deeds that only confirm existing title and foreclosure transfers, among others. The Monroe County Treasurer issues the tax certificate that a warranty deed, master deed, land contract or assignment of a land contract with a covenant of warranty must carry under MCLA 211.135.</p>"
+   "h2": "How is transfer tax computed in Monroe County?",
+   "html": "<p>The county's fee page prices the state tax at $7.50 per $1,000 and the county tax at $1.10 per $1,000 of total consideration, so $8.60 combined. Applied to $228,900, the Census median for owner-occupied homes, that is roughly $1,969: $1,717 state and $252 county, before rounding up to the next $500 step.</p>\n<p>State law makes the seller liable, with payment due at the county treasurer within 15 days after the deed changes hands. MCL 207.526 exempts several kinds of deeds, among them gifts to children and grandchildren, deeds that simply confirm title, and foreclosure transfers. The county treasurer's office issues the certificate that warranty deeds, master deeds, land contracts and land contract assignments with a covenant of warranty must show under MCLA 211.135.</p>"
   },
   {
-   "h2": "How do you search Monroe County land records?",
-   "html": "<p>The office searches by name, not address. Its FAQ says you need a grantor or grantee name and an approximate year, and the staff cannot search ownership by street address. If you do not know who owns a parcel, the County Equalization Department or a city assessor can give the names on the tax roll, with the caution that the tax roll name may differ from the true owner.</p>\n<p>That rule affects sellers who inherit a house or buy out a relative. Collect the prior deed, the probate paperwork and the exact spelling of every name before you ask a title company to run a search, and have them check the recording for a lis pendens or a lien. The fee schedule lists tax lien searches separately, at $1 for a state tax lien certificate and $6 per name for a federal one.</p>"
+   "h2": "Can you look up a Monroe County deed by street address?",
+   "html": "<p>No. The office searches by name only and asks for a grantor or grantee plus an approximate year. Its staff cannot trace ownership from a street address. A person who lacks the owner's name can obtain the names on the tax roll from the County Equalization Department or a city assessor, though the roll may list someone other than the true owner.</p>\n<p>That rule matters when a relative's house is being sold. Gather the earlier deed, the probate papers and the exact spelling of each name before asking a title company to search, and have the search check for any lis pendens or lien. Tax lien searches are priced separately: $1 for a state tax lien certificate and $6 per name for a federal one.</p>"
   },
   {
-   "h2": "What is Monroe County like for a house seller?",
-   "html": "<p>Monroe County is the only Michigan county on Lake Erie, and it holds the state's lowest elevation at 571 feet along the shore. The Census Bureau counts about 549 square miles of land, and the River Raisin and Sandy Creek drain through it. Settlement began at Frenchtown on the River Raisin in the 1780s, and the county was formed in 1817.</p>\n<p>Several features shape the listings a buyer sees:</p>\n<ul>\n<li>The city of Monroe is the county seat and largest city, and Dundee drew attention in 2001 when a large Cabela's store opened there.</li>\n<li>The county contains nine public school districts, and the county is a district of choice area, so a buyer may attend any district with space.</li>\n<li>Heavy industry marks the lakeshore: the Port of Monroe remains heavily industrial, and the Enrico Fermi nuclear station sits in Frenchtown Charter Township near Lake Erie.</li>\n<li>Monroe County Community College is the only higher education institution in the county.</li>\n<li>Lake Erie Transit runs eight fixed routes in and around the city of Monroe.</li>\n</ul>\n<p>Tornadoes have been uncommon, about 30 since 1950, and the most recent one reported with significant damage struck Dundee Township in June 2010.</p>"
+   "h2": "What sets Monroe County apart as a place to sell a house?",
+   "html": "<p>It is the only Michigan county touching Lake Erie, and the shoreline is the state's lowest ground at 571 feet. The Census Bureau measures about 549 square miles of land. The River Raisin and Sandy Creek drain it. French settlers reached Frenchtown on the Raisin in the 1780s, and the county was carved out in 1817.</p>\n<p>A few features color what buyers see:</p>\n<ul>\n<li>The city of Monroe is both county seat and largest city, and Dundee drew attention in 2001 when a large Cabela's store opened there.</li>\n<li>Nine public school districts operate within the county, and its district-of-choice policy lets a family enroll in any district with room.</li>\n<li>Industry marks the lakeshore. The Port of Monroe is still heavily industrial, and the Enrico Fermi nuclear station sits in Frenchtown Charter Township near the water.</li>\n<li>Monroe County Community College is the only higher education campus in the county.</li>\n<li>Lake Erie Transit runs eight fixed routes in and around the city of Monroe.</li>\n</ul>\n<p>Tornadoes are uncommon, about 30 since 1950, and the latest with significant damage hit Dundee Township in June 2010.</p>"
   },
   {
    "h2": "Do the county's boundary quirks affect any deeds?",
-   "html": "<p>A few do, which is why a legal description matters more here than a street address. The Toledo War settled in 1836 left a small piece of Monroe County, the Lost Peninsula in Erie Township, cut off from the rest of Michigan by the state line, and most of that land is a marina. In 1973 an agreement drew the line through tiny Turtle Island in Lake Erie, giving Erie Township jurisdiction over the Michigan half.</p>\n<p>Lakeshore and river parcels carry other questions, such as who owns the bottomland and what easements cross the lot. If your house touches Lake Erie, the River Raisin or Sandy Creek, give the title company your survey and any prior easements early, so the exceptions on the title commitment are known before the buyer's deadline.</p>"
+   "html": "<p>A few do, which is why a legal description matters more here than a street address. The Toledo War settlement of 1836 left a sliver of Monroe County, the Lost Peninsula in Erie Township, separated from the rest of Michigan by the state line, and most of that land is a marina. A 1973 agreement then ran the line through tiny Turtle Island in Lake Erie, giving Erie Township the Michigan half.</p>\n<p>Lakeshore and river parcels raise their own questions about bottomland and easements. If your house touches Lake Erie, the River Raisin or Sandy Creek, hand the title company your survey and any earlier easements at the start, so the exceptions on the title commitment are known well before the buyer's deadline.</p>"
   },
   {
-   "h2": "What do Census figures show about Monroe County homes?",
-   "html": "<p>For 2025 the Census Bureau estimates 156,004 residents and 67,494 housing units. Owners occupy 81.7 percent of homes, the median owner-occupied value for 2020 to 2024 is $228,900, and median gross rent is $1,059. Median household income is $77,335, and mean travel time to work is 26.2 minutes. Monroe County issued 191 building permits in 2025, and population density was 281.8 people per square mile in 2020. The county has 63,029 households averaging 2.45 people, 90.2 percent of residents stayed in the same house over the prior year, 23.3 percent of adults 25 and older hold a bachelor's degree, and 9.7 percent of residents live in poverty.</p>\n<p>Compared with Midland County, the county's median home value is higher by roughly $33,500, and the owner-occupied share is 3.6 points greater.</p>"
+   "h2": "How do the Census figures describe Monroe County homes?",
+   "html": "<p>The Bureau's 2025 estimate is 156,004 people in 67,494 housing units. About 81.7 percent of households own, the median owner-occupied home is worth $228,900 in 2020-2024 data, and renters pay a median $1,059. Household income has a median of $77,335. Commuters travel 26.2 minutes on average, and building permits totaled 191 in 2025. Density was 281.8 people per square mile in 2020.</p>\n<p>The county has 63,029 households averaging 2.45 people. About 90.2 percent of residents lived in the same house a year earlier, 23.3 percent of adults hold a bachelor's degree, and 9.7 percent of residents are in poverty. Set beside Midland County, the typical Monroe County home is worth about $33,500 more, and the owner share is 3.6 points higher.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What are the Monroe County Register of Deeds office hours?",
-   "a": "The office is open Monday through Friday, 8:30 a.m. to 4 p.m. Real property documents presented after 3:00 p.m. are recorded or filed on the following working day."
+   "q": "What hours does the Monroe County deeds office keep?",
+   "a": "Monday through Friday, 8:30 a.m. to 4 p.m. Anything real property related that comes in after 3:00 p.m. is recorded or filed the following working day."
   },
   {
-   "q": "How much does it cost to record a deed in Monroe County?",
-   "a": "It costs $30 per document, regardless of the number of pages. Each additional instrument assigned or discharged adds $3, and certifying a copy adds $5. Plain copies of real estate records are $1 per page, and the tax certificate for a warranty deed is separate."
+   "q": "How much is the flat charge for a deed there?",
+   "a": "$30 per document regardless of length. Extra instruments assigned or discharged add $3 each, and certifying a copy adds $5. Plain copies of real estate records are $1 a page, and the warranty deed tax certificate is a separate charge."
   },
   {
-   "q": "Can I search Monroe County deeds by property address?",
-   "a": "No. The office says it cannot search ownership by address and needs a grantor or grantee name plus an approximate year. The Equalization Department or a city assessor can supply the name on the tax roll."
+   "q": "Does the office search by property address?",
+   "a": "No. It cannot search ownership by address and needs a grantor or grantee name plus an approximate year. The Equalization Department or a city assessor can supply the name on the tax roll."
   },
   {
-   "q": "What transfer tax rates does Monroe County show?",
-   "a": "The county lists $1.10 per $1,000 for county transfer tax and $7.50 per $1,000 for state transfer tax, based on total consideration. On a $200,000 sale that comes to $1,720 combined, with $1,500 going to the state and $220 to the county."
+   "q": "Which transfer tax rates does the county list?",
+   "a": "$1.10 per $1,000 for the county and $7.50 per $1,000 for the state, based on total consideration. A $200,000 sale comes to $1,720, with $1,500 to the state and $220 to the county."
   },
   {
-   "q": "Which payments does the Monroe County office take?",
-   "a": "It accepts cash, checks and credit cards. Cards carry a 3 percent fee with a minimum of $2, so a check keeps the cost down on a large closing."
+   "q": "How can I pay at the counter?",
+   "a": "Cash, checks and credit cards are accepted. A card carries a 3 percent fee with a $2 minimum, so a check costs less on a large closing."
   }
  ],
  "sources": [
@@ -68,10 +68,6 @@
   {
    "title": "MCL 207.526, state exemptions",
    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
-  },
-  {
-   "title": "MCL 600.2567, register of deeds fees",
-   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"
   },
   {
    "title": "Census Bureau QuickFacts, Midland and Monroe counties",

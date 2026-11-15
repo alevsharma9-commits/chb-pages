@@ -11,11 +11,11 @@
   },
   {
    "h2": "Who owes the transfer tax on a Sanilac County sale?",
-   "html": "<p>The seller does. State law puts the tax on the grantor and gives 15 days after delivery of the deed to pay the county treasurer, though at the Sanilac counter it is collected as the deed is recorded.</p><p>Put the full value of the land on the face of the deed, or attach an affidavit stating it. A sale that bundles a house with furniture or equipment is taxed on the real estate alone when the two values are written separately.</p><p>Some deeds owe no tax. The state exemptions include:</p><ul><li>a transfer for under $100;</li><li>family transfers down one or two generations, meaning parent to child and grandparent to grandchild;</li><li>a court-ordered transfer where the order sets no price;</li><li>a deed in foreclosure of a government-backed loan;</li><li>a land contract, until title actually passes to the buyer.</li></ul><p>The county act is narrower and omits the family exemption, so a deed to a child can dodge the state share and still owe the county share. Cite the exemption on the deed itself, since a deed with neither a price nor an exemption gets returned.</p>"
+   "html": "<p>The seller does. State law puts the tax on the grantor and gives 15 days after delivery of the deed to pay the county treasurer, though at the Sanilac counter it is collected as the deed is recorded.</p><p>Put the full value of the land on the face of the deed, or attach an affidavit stating it. A sale that bundles a house with furniture or equipment is taxed on the real estate alone when the two values are written separately.</p><p>Some deeds owe no tax. The state exemptions include:</p><ul><li>a transfer for under $100;</li><li>family transfers from a parent to a child and from a grandparent to a grandchild;</li><li>a court-ordered transfer with no price set by the order;</li><li>a land contract, until title actually passes.</li></ul><p>The county act is narrower and omits the family exemption, so a deed to a child can dodge the state share and still owe the county share. Cite the exemption on the deed itself, since a deed with neither a price nor an exemption gets returned.</p>"
   },
   {
    "h2": "What formatting does a deed need before the office accepts it?",
-   "html": "<p>MCL 565.201 sets the intake checklist the register applies, and the county reposts it on its real estate information page. The key points:</p><ul><li>Dark ink signatures, with every signer's name typed or printed underneath and spelled as in the notary's certificate.</li><li>The notary's name printed beside the notary's signature.</li><li>Each grantee's mailing address, and the name and business address of whoever drafted the deed.</li><li>Letter or legal size sheets, at least 10-point type, white paper of 20-pound weight.</li><li>A clear top margin of 2.5 inches on page one, half an inch elsewhere, and a first line that names the type of recordable event.</li><li>Social Security numbers cut to their last four digits, with an English translation attached to anything in another language.</li></ul><p>A deed that clears every point cannot be refused for its content. One that misses a point is sent back, and the closing waits.</p>"
+   "html": "<p>MCL 565.201 sets the intake checklist, and the county reposts it on its real estate information page. In short, signatures need dark ink with printed names beneath them, the grantee's address and the drafter's details belong on the page, and page one needs a 2.5 inch clear top margin and a first line naming the type of recordable event.</p><p>Social Security numbers must be cut back to their last four digits, and non-English text needs a translation attached. A deed that clears every point cannot be refused for its content, while one that misses a point is sent back and the closing waits.</p>"
   },
   {
    "h2": "Do Sanilac County warranty deeds need a tax certificate?",
@@ -26,30 +26,38 @@
    "html": "<p>The office takes cash, checks, money orders and debit or credit cards, with checks payable to the Sanilac County Register of Deeds. Card payers at the counter show photo ID, and an online payment location exists for remote payers.</p><p>Searching costs nothing at rod.sanilaccounty.net, where guest users can look through an index that begins in 1801. Page images come as PDFs at $1 a page, with a $5 charge on every order.</p><p>The office also runs a free property fraud alert. Enroll a parcel and the owner is told whenever something new is recorded against it, which helps with a farm field or lake cabin that nobody checks for weeks.</p>"
   },
   {
+   "h2": "Which forms does the Sanilac County office post for sellers?",
+   "html": "<p>The county's forms page carries three downloads: a warranty deed form, a quit claim deed form and an agricultural property affidavit form. The affidavit matters on farmland, where a buyer may need to state that qualified agricultural property will stay qualified agricultural property after the sale.</p><p>A separate packet covers manufactured homes. A seller whose home is a mobile or manufactured unit on owned land should ask the office about the Affidavit of Affixture, which the county lists beside the recording requirements and the transfer tax exemption statutes.</p><p>The same office is a U.S. passport acceptance facility, so a family selling a house and moving abroad can handle a passport application in the same trip. Hours and appointment rules change, so phone (810) 648-2313 before driving to Sandusky."
+  },
+  {
+   "h2": "How has the Sanilac County housing market changed over time?",
+   "html": "<p>The county has shrunk slowly since 2000. It reached 44,547 residents that year, fell to 43,114 in 2010 and to 40,611 in 2020, and its median age in 2020 was 45.3 with 22.0 percent of residents aged 65 or older. By 2020 to 2024 that older share had risen to 25.2 percent in the Census Bureau's survey.</p><p>The Census Bureau counts 17,516 households and 21,972 housing units in Sanilac County, so there are roughly 4,450 more homes than households. That gap fits a county known for lakeshore cottages and for houses that sit empty after a death or a move to town.</p><ul><li>Households average 2.28 people.</li><li>91.0 percent of residents lived in the same house a year earlier.</li><li>Workers face a mean commute of 28.6 minutes.</li><li>16.5 percent of adults over 25 hold a bachelor's degree.</li></ul><p>The county was carved out of St. Clair County and unorganized territory in 1822, and it lost land in 1840 when Huron and Tuscola counties were created. Port Sanilac was once called Bark Shanty, after a bark-covered shed used for making shingles.</p>"
+  },
+  {
    "h2": "What is Sanilac County like for sellers?",
    "html": "<p>Sanilac County fronts Lake Huron in the Thumb, with Huron County above it, Tuscola and Lapeer to the west, and St. Clair below. Organized in 1849, it counted 40,611 residents in 2020 and an estimated 40,083 in 2025.</p><p>Its four cities are Sandusky, Croswell, Marlette and Brown City, while Lexington, Port Sanilac and Carsonville see seasonal visitors. Six state highways cross it, M-19 through M-90, and level, rich soil keeps farming at the center of many parcels.</p><ul><li>Share of homes occupied by their owners: 82.6 percent.</li><li>Monthly cost for owners with a mortgage: $1,226.</li><li>Median rent: $807.</li><li>Median household income: $58,863.</li><li>New building permits in 2025: 74.</li></ul><p>Local families and lake-home shoppers make up much of the buyer pool, and an inland farmhouse reaches a different audience than a cottage at the shore.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the recording charge for a Sanilac County deed?",
-   "a": "It is $30 per document, however many pages, under MCL 600.2567. Assignments or discharges that cover several instruments add $3 for each additional one."
+   "q": "Where is the Sanilac County Register of Deeds?",
+   "a": "The office is in Sandusky, the county seat, and its phone number is (810) 648-2313. It records deeds and mortgages and does not prepare documents."
   },
   {
-   "q": "What do the state and county transfer taxes add up to here?",
-   "a": "Together they come to $8.60 per $1,000 of price, with $7.50 going to the state and $1.10 to the county. The seller owes $1,720 on a $200,000 sale."
+   "q": "How much does a deed cost to record in Sanilac County?",
+   "a": "The base charge is $30 for each document. A warranty deed adds a $5 treasurer's certificate, and transfer tax runs $8.60 per $1,000, so a $200,000 sale owes the seller $1,720 in tax."
   },
   {
-   "q": "Can a deed be mailed to the Sanilac County recorder?",
-   "a": "Call (810) 648-2313 first to confirm the total for recording, tax and any certificate. A deed that falls short of MCL 565.201 comes back unrecorded."
+   "q": "Can I search Sanilac County land records without an account?",
+   "a": "Yes. The guest login at rod.sanilaccounty.net searches the index at no cost, and page images are $1 each plus a $5 order fee."
   },
   {
-   "q": "Must the treasurer approve my deed before it is recorded?",
-   "a": "Yes for a warranty deed or land contract. The treasurer's certificate costs $5, and the certified deed then goes to the Register of Deeds."
+   "q": "Which forms does the county offer for a farm or family sale?",
+   "a": "The forms page lists a warranty deed, a quit claim deed and an agricultural property affidavit. Have an attorney check any form against your facts before you sign."
   },
   {
    "q": "Is a gift of a house to my child taxed on transfer?",
-   "a": "The state tax does not apply to a deed from a parent to a child or from a grandparent to a grandchild. The county tax has no such exemption, so confirm the figure with the office before recording."
+   "a": "The state tax does not apply to a deed from a parent to a child, but the county tax act has no matching exemption. Confirm the figure with the office before recording."
   }
  ],
  "sources": [
