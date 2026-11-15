@@ -1,29 +1,101 @@
-{"slug":"jackson-tn-property-tax-guide","sections":[
-{"h2":"Which offices handle property tax for a house in Jackson, TN?","html":"<p>Four offices touch a Jackson property tax bill. The Madison County Assessor of Property sets the value, the City of Jackson Revenue Office bills and collects the city tax, and the Madison County Trustee collects the county tax. The county's own tax page says the Assessor does not take payments or send bills.</p><p>The City Revenue Office is on the first floor of City Hall, west end, open 8:30 a.m. to 4:30 p.m. Monday through Friday except national holidays, and city tax payments are taken at the customer service counter. The Trustee is Billy Burkhead, at 100 E. Main Street, Suite 107, phone (731) 423-6027, open 9:00 a.m. to 5:00 p.m. The Assessor is Frances Hunley, Suite 304 in the same courthouse building, phone (731) 423-6063, open 8:30 a.m. to 5:00 p.m. For city payment questions, call (731) 425-8212.</p>"},
-{"h2":"How does Jackson assess a home, and what rates apply?","html":"<p>The county's estimate calculator lists the assessment percentages below. A Jackson home is taxed on 25% of its appraised value, and the bill is the assessed value times the combined City of Jackson and Madison County rates.</p><table><caption>Assessment percentages used by the Madison County Assessor, with a Jackson example</caption><thead><tr><th>Property class</th><th>Share of value assessed</th></tr></thead><tbody><tr><td>Residential</td><td>25%</td></tr><tr><td>Farm</td><td>25%</td></tr><tr><td>Commercial</td><td>40%</td></tr><tr><td>Industrial</td><td>40%</td></tr><tr><td>Personal property (net)</td><td>30%</td></tr><tr><td>Example: house appraised at $217,800 (the Census median for Jackson)</td><td>$54,450 assessed</td></tr></tbody></table><p>The calculator page states that it gives an estimate only and that the 2026 rates for Jackson are the city rate plus the county rate. Tax rates are set each year by the County Commission and the Jackson City Council, so use the calculator or the Revenue Office for the current figures. Neither the Assessor nor the calculator replaces your bill.</p>"},
-{"h2":"When is Madison County's next reappraisal and what has happened to values?","html":"<p>Madison County's next countywide reappraisal is scheduled for 2027, and the last one was in 2022, as required by Tenn. Code Ann. 67-5-1601. Between reappraisals, about one third of parcels are inspected each year for changes to land or buildings.</p><p>The Assessor's page reports a median home sale price of $251,450 in January 2026, against $212,500 in January 2022, which it calls an estimated 18.33% increase. Assessment change notices go out by mail, usually in May, only to owners whose value moved up or down. Returned mail is common, so call the Assessor if you moved in the past two or three years.</p><ul><li>Jackson owners should expect a notice in spring 2027 if their value changes.</li><li>The county advises owners to contact the Assessor first and confirm the property record is correct before appealing.</li></ul>"},
-{"h2":"How do I appeal a Jackson property value?","html":"<p>Call the Assessor first to verify the record, then appear before the Madison County Board of Equalization. The board has five Madison County or City of Jackson property owners and hears appeals on weekdays during the first two weeks of June. Appointments open in the last two weeks of May.</p><p>The county warns that only the current year's value can be appealed, so 2025 taxes cannot be appealed in 2026. If the county board's decision is unsatisfactory, appeal to the State Board of Equalization by August 1 or within 45 days of the date on the county decision notice, whichever is later. The state charges an administrative fee, part of it, $10 to $17, nonrefundable. While the appeal is pending, pay at least the undisputed part of the tax before the delinquency date.</p><p>For a home, the Assessor suggests bringing:</p><ul><li>Sales of similar nearby homes from the one or two years before the tax year being appealed.</li><li>A recent fee-based appraisal.</li><li>Photos of the exterior and interior condition.</li></ul>"},
-{"h2":"What tax relief can Jackson homeowners apply for?","html":"<p>Elderly homeowners, disabled homeowners, disabled veterans and widows or widowers of disabled veterans can apply through the Madison County Trustee. The Trustee's page asks applicants to bring a driver's license, Medicare card, Social Security card, proof of income for the applicant, spouse and all owners of the property, and a title or bill of sale if the home is a mobile home.</p><p>The county also lists a state property tax freeze program. The Tennessee Comptroller notes that relief reimburses taxes after you pay, so you still need to pay each bill, and that relief covers only your primary residence. Call the Trustee at (731) 423-6027 for the current application period.</p><p>Online payment through the city covers real property, which is land and buildings, and personal property, which is business equipment. A homeowner will normally have only a real property bill and needs the parcel ID or street address to find it.</p>"},
-{"h2":"What does a seller owe at closing when a Jackson house has tax due?","html":"<p>The title company asks both the City Revenue Office and the Trustee for payoffs, since a home inside Jackson carries a city and a county bill. The Madison County page says homes within city limits should contact the City Revenue Office at (731) 425-8212 and also the County Trustee at (731) 423-6027, while homes outside the city deal with the Trustee alone.</p><p>The Assessor updates mailing addresses for both billing offices, so a new owner should ask the Assessor to change the address after the sale. For parcels outside Jackson, check whether the property sits in the City of Three Way or Humboldt, which the county calculator lists with their own rates.</p><p>If you do not know your parcel ID, the city's payment guide shows how to look up a property by address through the public records search.</p>"},
-{"h2":"What should a seller know about Jackson itself?","html":"<p>Jackson is the Madison County seat, 70 miles east of Memphis and 130 miles southwest of Nashville. It was founded in 1821, named for Andrew Jackson, and became a railroad hub from 1851 onward. The Census Bureau estimates 69,339 residents for 2025, up from 68,205 in 2020, across about 58 square miles of land.</p><p>For 2020-2024, the Census Bureau shows 51.2% of homes owner-occupied, a median owner-occupied value of $217,800, median gross rent of $1,145 and median household income of $53,032. About 22.2% of residents live in poverty, and there are 27,541 households. The average commute is 18.2 minutes.</p><p>Union University, Lane College and Jackson State Community College are in the city, and the Jackson-Madison County School System serves local students. Downtown has a designated Arts District with the Carl Perkins Civic Center nearby.</p>"}
+{
+"slug": "jackson-tn-property-tax-guide",
+"sections": [
+{
+"h2": "Which offices handle property tax for a house in Jackson, TN?",
+"html": "<p>Four offices touch a Jackson property tax bill. The Madison County Assessor of Property sets the value, the City of Jackson Revenue Office bills and collects the city tax, and the Madison County Trustee collects the county tax. The county's own tax page says the Assessor does not take payments or send bills.</p><p>The City Revenue Office is on the first floor of City Hall, west end, open 8:30 a.m. to 4:30 p.m. Monday through Friday except national holidays, and city tax payments are taken at the customer service counter. The Trustee is Billy Burkhead, at 100 E. Main Street, Suite 107, phone (731) 423-6027, open 9:00 a.m. to 5:00 p.m. The Assessor is Frances Hunley, Suite 304 in the same courthouse building, phone (731) 423-6063, open 8:30 a.m. to 5:00 p.m. For city payment questions, call (731) 425-8212.</p><p>The Revenue Office also issues city business licenses, so a landlord with a rental in Jackson should ask there whether one applies. The City Recorder keeps ordinances, resolutions and deeds the city holds, and they can be viewed on request.</p>"
+},
+{
+"h2": "How does Jackson assess a home, and what rates apply?",
+"html": "<p>The county's estimate calculator lists the assessment percentages below. A Jackson home is taxed on 25% of its appraised value, and the bill is the assessed value times the combined City of Jackson and Madison County rates.</p><table><caption>Assessment percentages used by the Madison County Assessor, with a Jackson example</caption><thead><tr><th>Property class</th><th>Share of value assessed</th></tr></thead><tbody><tr><td>Residential</td><td>25%</td></tr><tr><td>Farm</td><td>25%</td></tr><tr><td>Commercial</td><td>40%</td></tr><tr><td>Industrial</td><td>40%</td></tr><tr><td>Personal property (net)</td><td>30%</td></tr><tr><td>Example: house appraised at $217,800 (the Census median for Jackson)</td><td>$54,450 assessed</td></tr></tbody></table><p>The calculator page states that it gives an estimate only and that the 2026 rates for Jackson are the city rate plus the county rate. Tax rates are set each year by the County Commission and the Jackson City Council, so use the calculator or the Revenue Office for the current figures. Neither the Assessor nor the calculator replaces your bill.</p>"
+},
+{
+"h2": "When is Madison County's next reappraisal and what has happened to values?",
+"html": "<p>Madison County's next countywide reappraisal is scheduled for 2027, and the last one was in 2022, as required by Tenn. Code Ann. 67-5-1601. Between reappraisals, about one third of parcels are inspected each year for changes to land or buildings.</p><p>The Assessor's page reports a median home sale price of $251,450 in January 2026, against $212,500 in January 2022, which it calls an estimated 18.33% increase. Assessment change notices go out by mail, usually in May, only to owners whose value moved up or down. Returned mail is common, so call the Assessor if you moved in the past two or three years.</p><ul><li>Jackson owners should expect a notice in spring 2027 if their value changes.</li><li>The county advises owners to contact the Assessor first and confirm the property record is correct before appealing.</li></ul>"
+},
+{
+"h2": "How do I appeal a Jackson property value?",
+"html": "<p>Call the Assessor first to verify the record, then appear before the Madison County Board of Equalization. The board has five Madison County or City of Jackson property owners and hears appeals on weekdays during the first two weeks of June. Appointments open in the last two weeks of May.</p><p>The county warns that only the current year's value can be appealed, so 2025 taxes cannot be appealed in 2026. If the county board's decision is unsatisfactory, appeal to the State Board of Equalization by August 1 or within 45 days of the date on the county decision notice, whichever is later. The state charges an administrative fee, part of it, $10 to $17, nonrefundable. While the appeal is pending, pay at least the undisputed part of the tax before the delinquency date.</p><p>For a home, the Assessor suggests bringing:</p><ul><li>Sales of similar nearby homes from the one or two years before the tax year being appealed.</li><li>A recent fee-based appraisal.</li><li>Photos of the exterior and interior condition.</li></ul>"
+},
+{
+"h2": "What tax relief can Jackson homeowners apply for?",
+"html": "<p>Elderly homeowners, disabled homeowners, disabled veterans and widows or widowers of disabled veterans can apply through the Madison County Trustee. The Trustee's page asks applicants to bring a driver's license, Medicare card, Social Security card, proof of income for the applicant, spouse and all owners of the property, and a title or bill of sale if the home is a mobile home.</p><p>The county also lists a state property tax freeze program. The Tennessee Comptroller notes that relief reimburses taxes after you pay, so you still need to pay each bill, and that relief covers only your primary residence. Call the Trustee at (731) 423-6027 for the current application period.</p><p>Online payment through the city covers real property, which is land and buildings, and personal property, which is business equipment. A homeowner will normally have only a real property bill and needs the parcel ID or street address to find it.</p>"
+},
+{
+"h2": "What does a seller owe at closing when a Jackson house has tax due?",
+"html": "<p>The title company asks both the City Revenue Office and the Trustee for payoffs, since a home inside Jackson carries a city and a county bill. The Madison County page says homes within city limits should contact the City Revenue Office at (731) 425-8212 and also the County Trustee at (731) 423-6027, while homes outside the city deal with the Trustee alone.</p><p>The Assessor updates mailing addresses for both billing offices, so a new owner should ask the Assessor to change the address after the sale. For parcels outside Jackson, check whether the property sits in the City of Three Way or Humboldt, which the county calculator lists with their own rates.</p><p>If you do not know your parcel ID, the city's payment guide shows how to look up a property by address through the public records search.</p>"
+},
+{
+"h2": "What should a seller know about Jackson itself?",
+"html": "<p>Jackson is the Madison County seat, 70 miles east of Memphis and 130 miles southwest of Nashville. It was founded in 1821, named for Andrew Jackson, and became a railroad hub from 1851 onward. The Census Bureau estimates 69,339 residents for 2025, up from 68,205 in 2020, across about 58 square miles of land.</p><p>For 2020-2024, the Census Bureau shows 51.2% of homes owner-occupied, a median owner-occupied value of $217,800, median gross rent of $1,145 and median household income of $53,032. About 22.2% of residents live in poverty, and there are 27,541 households. The average commute is 18.2 minutes.</p><p>Union University, Lane College and Jackson State Community College are in the city, and the Jackson-Madison County School System serves local students. Downtown has a designated Arts District with the Carl Perkins Civic Center nearby.</p>"
+}
 ],
-"faqs":[
-{"q":"Where do I pay City of Jackson property tax?","a":"Pay at the Revenue Office on the first floor of City Hall, open 8:30 a.m. to 4:30 p.m. on weekdays, or use the online portal for real and personal property. The phone number for city payment questions is (731) 425-8212."},
-{"q":"Who collects Madison County property tax?","a":"The Madison County Trustee, Billy Burkhead, collects it at 100 E. Main Street, Suite 107, Jackson. The phone number is (731) 423-6027, and the office is open 9:00 a.m. to 5:00 p.m. on weekdays."},
-{"q":"When is the next property reappraisal in Madison County?","a":"The next countywide reappraisal is scheduled for 2027. The previous one took place in 2022. Notices of changed values are mailed by the Assessor, usually in May."},
-{"q":"When can I appeal my Jackson assessment?","a":"Appeals go to the Madison County Board of Equalization in the first two weeks of June. Appointments open in the last two weeks of May. Only the current year's assessment can be appealed."},
-{"q":"Does the Madison County Assessor send tax bills?","a":"No. The Assessor sets values only and does not accept payments or mail bills. The City Revenue Office bills city tax and the County Trustee bills county tax."}
+"faqs": [
+{
+"q": "Where do I pay City of Jackson property tax?",
+"a": "Pay at the Revenue Office on the first floor of City Hall, open 8:30 a.m. to 4:30 p.m. on weekdays, or use the online portal for real and personal property. The phone number for city payment questions is (731) 425-8212."
+},
+{
+"q": "Who collects Madison County property tax?",
+"a": "The Madison County Trustee, Billy Burkhead, collects it at 100 E. Main Street, Suite 107, Jackson. The phone number is (731) 423-6027, and the office is open 9:00 a.m. to 5:00 p.m. on weekdays."
+},
+{
+"q": "When is the next property reappraisal in Madison County?",
+"a": "The next countywide reappraisal is scheduled for 2027. The previous one took place in 2022. Notices of changed values are mailed by the Assessor, usually in May."
+},
+{
+"q": "When can I appeal my Jackson assessment?",
+"a": "Appeals go to the Madison County Board of Equalization in the first two weeks of June. Appointments open in the last two weeks of May. Only the current year's assessment can be appealed."
+},
+{
+"q": "Does the Madison County Assessor send tax bills?",
+"a": "No. The Assessor sets values only and does not accept payments or mail bills. The City Revenue Office bills city tax and the County Trustee bills county tax."
+}
 ],
-"sources":[
-{"title":"City of Jackson Revenue Department","url":"https://www.jacksontn.gov/government/departments/revenue"},
-{"title":"City of Jackson, Pay Property Taxes Online","url":"https://www.jacksontn.gov/how_do_i_/pay_property_taxes"},
-{"title":"Madison County Trustee","url":"https://www.madisoncountytn.gov/120/Trustee"},
-{"title":"Madison County Payment of Taxes","url":"https://www.madisoncountytn.gov/255/Payment-of-Taxes"},
-{"title":"Madison County Assessor of Property","url":"https://www.madisoncountytn.gov/90/Assessor-of-Property"},
-{"title":"Madison County Property Value Appeals","url":"https://www.madisoncountytn.gov/585/Property-Value-Appeals"},
-{"title":"Madison County Estimate Property Tax calculator","url":"https://www.madisoncountytn.gov/738/Calculator---Estimate-Property-Tax"},
-{"title":"Madison County Tax Relief","url":"https://www.madisoncountytn.gov/497/Tax-Relief"},
-{"title":"TN Comptroller Property Tax Relief","url":"https://comptroller.tn.gov/office-functions/pa/property-taxes/property-tax-programs/tax-relief.html"},
-{"title":"Jackson, Tennessee (Wikipedia)","url":"https://en.wikipedia.org/wiki/Jackson,_Tennessee"},
-{"title":"Census QuickFacts","url":"https://www.census.gov/quickfacts/fact/table/hamiltoncountytennessee,hawkinscountytennessee,hendersonvillecitytennessee,jacksoncitytennessee/PST045224"}
-]}
+"sources": [
+{
+"title": "City of Jackson Revenue Department",
+"url": "https://www.jacksontn.gov/government/departments/revenue"
+},
+{
+"title": "City of Jackson, Pay Property Taxes Online",
+"url": "https://www.jacksontn.gov/how_do_i_/pay_property_taxes"
+},
+{
+"title": "Madison County Trustee",
+"url": "https://www.madisoncountytn.gov/120/Trustee"
+},
+{
+"title": "Madison County Payment of Taxes",
+"url": "https://www.madisoncountytn.gov/255/Payment-of-Taxes"
+},
+{
+"title": "Madison County Assessor of Property",
+"url": "https://www.madisoncountytn.gov/90/Assessor-of-Property"
+},
+{
+"title": "Madison County Property Value Appeals",
+"url": "https://www.madisoncountytn.gov/585/Property-Value-Appeals"
+},
+{
+"title": "Madison County Estimate Property Tax calculator",
+"url": "https://www.madisoncountytn.gov/738/Calculator---Estimate-Property-Tax"
+},
+{
+"title": "Madison County Tax Relief",
+"url": "https://www.madisoncountytn.gov/497/Tax-Relief"
+},
+{
+"title": "TN Comptroller Property Tax Relief",
+"url": "https://comptroller.tn.gov/office-functions/pa/property-taxes/property-tax-programs/tax-relief.html"
+},
+{
+"title": "Jackson, Tennessee (Wikipedia)",
+"url": "https://en.wikipedia.org/wiki/Jackson,_Tennessee"
+},
+{
+"title": "Census QuickFacts",
+"url": "https://www.census.gov/quickfacts/fact/table/hamiltoncountytennessee,hawkinscountytennessee,hendersonvillecitytennessee,jacksoncitytennessee/PST045224"
+}
+]
+}
