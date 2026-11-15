@@ -15,7 +15,11 @@
   },
   {
    "h2": "Can you look up a Monroe County deed by street address?",
-   "html": "<p>No. The office searches by name only and asks for a grantor or grantee plus an approximate year. Its staff cannot trace ownership from a street address. A person who lacks the owner's name can obtain the names on the tax roll from the County Equalization Department or a city assessor, though the roll may list someone other than the true owner.</p>\n<p>That rule matters when a relative's house is being sold. Gather the earlier deed, the probate papers and the exact spelling of each name before asking a title company to search, and have the search check for any lis pendens or lien. Tax lien searches are priced separately: $1 for a state tax lien certificate and $6 per name for a federal one.</p>"
+   "html": "<p>No. The office searches by name only and asks for a grantor or grantee plus an approximate year. Its staff cannot trace ownership from a street address. A person who lacks the owner's name can obtain the names on the tax roll from the County Equalization Department or a city assessor, though the roll may list someone other than the true owner.</p>\n<p>That rule matters when a relative's house is being sold. Before asking a title company to search, collect these items and have the search check for any lis pendens or lien:</p>\n<ul>\n<li>The earlier deed or deeds in the family.</li>\n<li>Probate papers, if an estate owned the house.</li>\n<li>The exact spelling of every owner's name, with the approximate year of each transfer.</li>\n</ul>\n<p>Tax lien searches are priced separately: $1 for a state tax lien certificate and $6 per name for a federal one.</p>"
+  },
+  {
+   "h2": "Does the office handle commercial filings that touch a house sale?",
+   "html": "<p>The fee page also covers Uniform Commercial Code filings, which can surface in a title search. A standard form filing and a termination of a filing each cost $30, and the schedule lists fixture filing fees as not applicable. Its UCC section marks standard-form debt filings, assignments, amendments, continuations and partial releases as not accepted, and the notes say the information on UCC searches runs only through June 30, 2001, because realty-related filings after July 1, 2001 are recorded in the real estate index alone.</p>\n<p>The practical lesson is to search the real estate index, not the personal property files, when checking for a lien on a house.</p>"
   },
   {
    "h2": "What sets Monroe County apart as a place to sell a house?",
@@ -27,7 +31,7 @@
   },
   {
    "h2": "How do the Census figures describe Monroe County homes?",
-   "html": "<p>The Bureau's 2025 estimate is 156,004 people in 67,494 housing units. About 81.7 percent of households own, the median owner-occupied home is worth $228,900 in 2020-2024 data, and renters pay a median $1,059. Household income has a median of $77,335. Commuters travel 26.2 minutes on average, and building permits totaled 191 in 2025. Density was 281.8 people per square mile in 2020.</p>\n<p>The county has 63,029 households averaging 2.45 people. About 90.2 percent of residents lived in the same house a year earlier, 23.3 percent of adults hold a bachelor's degree, and 9.7 percent of residents are in poverty. Set beside Midland County, the typical Monroe County home is worth about $33,500 more, and the owner share is 3.6 points higher.</p>"
+   "html": "<p>The Bureau's 2025 estimate is 156,004 people in 67,494 housing units. Owners hold 81.7 percent of homes. Half of owner-occupied houses sit above $228,900 in the 2020-2024 data, and renters pay a median $1,059. Household income has a median of $77,335. Commuters travel 26.2 minutes on average, and building permits totaled 191 in 2025. Density was 281.8 people per square mile in 2020.</p>\n<p>The county has 63,029 households averaging 2.45 people. Nine in ten residents stayed at the same address over the prior year, 23.3 percent of adults hold a bachelor's degree, and 9.7 percent of residents are in poverty. Set beside Midland County, the middle Monroe County house is worth about $33,500 more, and owners make up 3.6 points more of the households.</p>"
   }
  ],
  "faqs": [

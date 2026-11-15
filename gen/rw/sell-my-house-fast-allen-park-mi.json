@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Why does the city inspection decide how an Allen Park sale goes?",
-   "html": "<p>Because an Allen Park house cannot close without a Certificate of Occupancy or a signed buyer affidavit, and getting either takes days. The rule covers homes first listed on or after March 1, 2022, under Chapter 10, Article 10, Section 10-404 of the city code.</p><p>Plan the order of events around it. Book the inspection as soon as you decide to sell, read the report, and decide whether to repair the cited items or sell with the buyer taking them on. Skipping this step is the usual reason a sale to a cash buyer in Allen Park slips past its scheduled closing date.</p>"
+   "html": "<p>Because no Allen Park house closes without a Certificate of Occupancy or a signed buyer affidavit, and each takes some days to arrange. The rule covers homes first listed on or after March 1, 2022, under Chapter 10, Article 10, Section 10-404 of the city code.</p><p>Build your schedule backward from it. Request the inspection first, read what the inspector cites, and then choose between repairing the items and handing them to a buyer who accepts them.</p>"
   },
   {
    "h2": "How does the Allen Park sales inspection work?",
@@ -23,11 +23,11 @@
   },
   {
    "h2": "What does Wayne County charge to record an Allen Park deed?",
-   "html": "<p>Recording costs $30 per document, split as $26 for the register plus a $4 state survey and remonumentation fee. That schedule started January 1, 2026, the first increase at the office since 1996.</p><p>Transfer tax is collected when the deed is recorded: $0.55 per $500 for the county and $3.75 per $500 for the state. For a house that sells at $185,000 the combined tax is $1,591, and the seller bears it. Warranty deeds must carry a certification from the Wayne County Treasurer before they are recorded.</p><p>Payment rules at the Register of Deeds are stricter than at many counties:</p><ul><li>Cards are taken at the counter with matching ID, but never by mail.</li><li>Personal checks are taken by mail only, not at the counter.</li><li>American Express and Discover are refused.</li><li>Each document needs its own check for the exact amount, and a check more than $25 too high sends the papers back.</li></ul><p>The office answers questions at (313) 224-5851.</p>"
+   "html": "<p>Recording costs $30 per document, split as $26 for the register plus a $4 state survey and remonumentation fee. That schedule started January 1, 2026, the first increase at the office since 1996.</p><p>Transfer tax comes due at recording, at $3.75 per $500 for the state and $0.55 per $500 for the county. A $185,000 house produces a combined $1,591, and the seller bears it. Warranty deeds must carry a certification from the Wayne County Treasurer before they are recorded.</p><p>Payment rules differ from other counties:</p><ul><li>Debit and credit cards work over the counter with matching ID, and are refused for mailed items.</li><li>A personal check can be mailed, but the counter will not take one.</li><li>The office does not process American Express or Discover.</li><li>One check per document, for the exact total: an overpayment above $25 returns the papers.</li></ul><p>The office answers questions at (313) 224-5851.</p>"
   },
   {
    "h2": "Why does the Wayne County Register of Deeds reject deeds?",
-   "html": "<p>Most rejections come from a short list of mistakes. Copies in place of original signatures are refused, and so is a deed that states neither a price nor an exemption statute. Other common problems are a legal description that is incomplete, a missing property tax ID number or address, a notary block that is unclear, and a missing return-to name and address.</p><p>When several documents share a single check, one bad document sends the whole bundle back. Have the drafter go through the checklist before closing day, and ask your title agent to confirm the tax certification is done.</p>"
+   "html": "<p>The office publishes its own list of repeat offenders. Photocopied signatures fail. So does a deed with no stated price and no exemption cited, a thin legal description, a notary block that is hard to read, or no return address for the recorded copy. Parcel number and street address belong on the page as well.</p><p>One flawed document sinks a whole bundle paid with a single check. Have the drafter run the checklist ahead of closing and confirm the treasurer has certified the deed.</p>"
   },
   {
    "h2": "What changes if the Allen Park house is a rental?",
@@ -36,24 +36,24 @@
  ],
  "faqs": [
   {
-   "q": "Does a house listed before March 1, 2022 need a Certificate of Occupancy?",
-   "a": "No. The city exempts homes listed before that date, but homes listed on or after it need the certificate or a buyer's signed affidavit before closing."
+   "q": "Which Allen Park homes are exempt from the occupancy certificate?",
+   "a": "Homes that were listed before March 1, 2022. Anything listed on or after that date needs the certificate or a buyer's signed affidavit before closing."
   },
   {
-   "q": "What does the Allen Park inspection fee cover?",
-   "a": "The $175 fee covers the initial inspection and the final one. Written reports are ready for mailing or pickup within 5 business days."
+   "q": "What do I get for the $175 city inspection fee?",
+   "a": "One initial walk-through and one final visit. Reports are mailed or held for pickup within 5 business days."
   },
   {
-   "q": "How is transfer tax figured on an Allen Park sale?",
-   "a": "Multiply the price in thousands by $8.60, since the state takes $3.75 per $500 and the county takes $0.55 per $500. A $185,000 sale produces $1,591, owed by the seller."
+   "q": "How do I estimate transfer tax on an Allen Park house?",
+   "a": "Take the price in thousands and multiply by $8.60. That blends the state share of $3.75 per $500 with the county share of $0.55 per $500, so $185,000 yields $1,591 owed by the seller."
   },
   {
-   "q": "Which county office records an Allen Park deed?",
-   "a": "The Wayne County Register of Deeds. Its fee has been $30 per document since January 1, 2026, and the county treasurer certifies warranty deeds beforehand."
+   "q": "Where does an Allen Park deed get recorded?",
+   "a": "At the Wayne County Register of Deeds, which has charged $30 per document since January 1, 2026. Warranty deeds go to the county treasurer for certification first."
   },
   {
-   "q": "Can the house sell with open code violations?",
-   "a": "Yes, as is. The buyer signs an affidavit taking on the violations and escrows at least $500, and the repairs happen after closing."
+   "q": "Can I close with open violations on the Allen Park house?",
+   "a": "Yes, if the buyer signs the city affidavit and escrows at least $500. The buyer then handles the repairs after closing."
   }
  ],
  "sources": [
