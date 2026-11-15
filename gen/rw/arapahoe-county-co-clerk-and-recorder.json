@@ -1,0 +1,69 @@
+{
+ "slug": "arapahoe-county-co-clerk-and-recorder",
+ "sections": [
+  {
+   "h2": "What does the Arapahoe County Clerk and Recorder do when a house sells?",
+   "html": "<p>The Arapahoe County Clerk and Recorder is the office that records deeds and mortgages for property in the county. Recording puts the new owner's name in the public record, and in Colorado it is also the moment the documentary fee is collected. Under C.R.S. 39-13-102, anyone who offers a deed or other title-conveying instrument for recording pays that fee to the county clerk and recorder, in addition to the ordinary recording charges.</p><p>The office is not the same as the treasurer or the assessor. It does not bill property tax or set values. Its role in a sale is narrower: take the signed deed, check that it can be recorded, collect the fee and make the document part of the public record.</p><p>We could not open the county's own recording page for this update, so we are not quoting Arapahoe's per-document recording charge, office hours or street address here. Call the office or check its site before you send anything for recording.</p>"
+  },
+  {
+   "h2": "What is the Colorado documentary fee, and how much is it?",
+   "html": "<p>The documentary fee is one cent for each $100 of consideration, counting any major fraction of $100 as a full unit. No fee is due if the total consideration is $500 or less. For most house sales, that works out to ten cents for every $1,000 of price.</p><table><thead><tr><th>Sale price</th><th>Documentary fee at one cent per $100</th></tr></thead><tbody><tr><td>$250,000</td><td>$25.00</td></tr><tr><td>$400,000</td><td>$40.00</td></tr><tr><td>$600,000</td><td>$60.00</td></tr><tr><td>$900,000</td><td>$90.00</td></tr></tbody></table><p>These amounts come from applying the statutory rate to round prices. They are examples, not quotes. The statute also counts liens and encumbrances and required charges as consideration, so the base can be larger than the price on the contract.</p><p>For property in more than one county in the same deal, each county collects its own share based on the consideration attributable to the parcels there. The person recording the instrument allocates the total among the counties.</p>"
+  },
+  {
+   "h2": "How does Colorado decide whether a sale is residential?",
+   "html": "<p>Colorado treats a property as residential unless the deed carries a conspicuous statement that the property is not to be regarded as residential. That statement has to be on the instrument when it is signed. It cannot be added afterward.</p><ul><li>Residential: consideration is the amount on the conveyance document. If that is missing or $500 or less and a declaration was filed under section 39-14-102, the total sales price on the declaration is used.</li><li>Commercial or industrial: the full sales price is treated as paid for the real property, unless separate consideration for personal property appears on the use tax return or declaration.</li><li>Supporting evidence is not recorded or made public. The clerk passes it to the county assessor, who keeps it confidential.</li></ul><p>That confidentiality rule is why a recorded deed can show a fee but not every detail of the price. It also means the assessor can see what the property sold for even when the deed stays quiet.</p>"
+  },
+  {
+   "h2": "Which recorder handles my house if it is in Aurora, Glendale or Centennial?",
+   "html": "<p>The county in which the parcel sits decides the recorder. Aurora spreads across Arapahoe, Adams and Douglas counties. Of its 386,261 residents in 2020, 336,035 lived in Arapahoe County, so most Aurora homes are recorded in Arapahoe, but a house in the Adams or Douglas parts is not.</p><p>Glendale is an exclave of Arapahoe County entirely surrounded by Denver, so its deeds still go to Arapahoe County even though Denver is next door. Centennial, formed in 2001 from unincorporated Arapahoe County, is fully inside the county.</p><table><thead><tr><th>City</th><th>County recording office</th></tr></thead><tbody><tr><td>Littleton (county seat)</td><td>Arapahoe County</td></tr><tr><td>Centennial</td><td>Arapahoe County</td></tr><tr><td>Englewood</td><td>Arapahoe County</td></tr><tr><td>Glendale (surrounded by Denver)</td><td>Arapahoe County</td></tr><tr><td>Aurora, Arapahoe portion</td><td>Arapahoe County</td></tr><tr><td>Aurora, Adams or Douglas portion</td><td>Adams or Douglas County</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What is selling a house like in Arapahoe County?",
+   "html": "<p>Arapahoe County mixes some of the densest suburbs on the Front Range with open plains, so no two sellers face the same situation. The county is 72 miles long and only a few miles wide in places. Strasburg, Deer Trail and Byers on the east side have their own school districts, while the west side is split between Littleton, Englewood, Sheridan and Cherry Creek.</p><p>The employer base shapes the market. Buckley Space Force Base, the Anschutz Medical Campus and Children's Hospital Colorado draw staff to Aurora. Comcast, Arrow Electronics and United Launch Alliance anchor Centennial. People relocating for jobs, or families settling an estate, often prefer a clean closing date to a long listing.</p><p>Cherry Creek State Park on the southwest edge of Aurora, where Pope John Paul II celebrated Mass in 1993, shows how much open land sits inside the metro area. Homes near parks, rail stops and the airport corridor can look quite different on paper from homes farther east.</p><ul><li>Confirm the county before you pick a recorder or treasurer.</li><li>Ask the title company for the recording instructions it will follow.</li><li>Plan for the documentary fee on top of recording charges.</li><li>Keep the closing statement, since the assessor receives sale details from the clerk.</li></ul>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the documentary fee in Colorado?",
+   "a": "One cent per $100 of consideration, or ten cents per $1,000. Nothing is owed on $500 or less. It is paid when the deed is offered for recording."
+  },
+  {
+   "q": "Who collects the documentary fee in Arapahoe County?",
+   "a": "The Arapahoe County Clerk and Recorder collects it when a deed or other instrument that conveys title is offered for recording."
+  },
+  {
+   "q": "How much would the fee be on a $500,000 sale?",
+   "a": "About $50, applying the statutory rate of one cent per $100. Added liens or charges counted as consideration would raise the figure."
+  },
+  {
+   "q": "Is my deed treated as residential or commercial?",
+   "a": "Residential by default. It is treated as non-residential only if the deed says so conspicuously when it is signed."
+  },
+  {
+   "q": "Do Aurora houses always record in Arapahoe County?",
+   "a": "No. Aurora lies in Arapahoe, Adams and Douglas counties, and a deed is recorded in the county where the parcel is located."
+  },
+  {
+   "q": "Where can I get the current per-document recording fee?",
+   "a": "Ask the Arapahoe County Clerk and Recorder directly. We have not confirmed the current figure from an official page, so we do not quote it."
+  }
+ ],
+ "sources": [
+  {
+   "title": "C.R.S. 39-13-102 Documentary fee (Colorado Public Law)",
+   "url": "https://colorado.public.law/statutes/crs_39-13-102"
+  },
+  {
+   "title": "Arapahoe County, Colorado (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Arapahoe_County,_Colorado"
+  },
+  {
+   "title": "Aurora, Colorado (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Aurora,_Colorado"
+  },
+  {
+   "title": "Centennial, Colorado (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Centennial,_Colorado"
+  }
+ ]
+}
