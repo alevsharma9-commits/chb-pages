@@ -66,6 +66,24 @@
   },
   {
    "file": "pages/pa/pennsylvania-directory-1.json"
+  },
+  {
+   "file": "pages/il/illinois-state-pages-1.json"
+  },
+  {
+   "file": "pages/il/illinois-city-pages-1.json"
+  },
+  {
+   "file": "pages/il/illinois-city-ptax-1.json"
+  },
+  {
+   "file": "pages/il/illinois-county-ptax-1.json"
+  },
+  {
+   "file": "pages/il/illinois-county-records-1.json"
+  },
+  {
+   "file": "pages/il/illinois-directory-1.json"
   }
  ]
 }
