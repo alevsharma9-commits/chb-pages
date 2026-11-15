@@ -1,0 +1,65 @@
+{
+  "slug": "washington-estate-tax",
+  "sections": [
+    {
+      "h2": "Does Washington have an estate tax that affects an inherited house?",
+      "html": "<p>Yes. Washington taxes the transfer of property at death once an estate passes the exclusion amount, and a house counts toward the total. The Department of Revenue describes it as a tax on the right to transfer property at death. It is figured on the value of the whole estate, not on what each heir receives, and the estate itself is a taxpayer under <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.020\">RCW 83.100.020</a>.</p><p>For heirs who plan to sell, the practical question is whether the estate owes tax, whether a return has to be filed, and whether the state's claim on the property has been released before closing. The answers depend on the date of death, so gather that date first.</p>"
+    },
+    {
+      "h2": "What is the Washington estate tax exclusion amount?",
+      "html": "<p>The exclusion amount depends on when the person died. <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.020\">RCW 83.100.020</a> lists $2,193,000 for deaths on or after July 1, 2018 and before July 1, 2025. It lists $3,000,000 for deaths from July 1, 2025 up to January 1, 2026, then $3,076,000 for January 1 through June 30, 2026, and $3,000,000 for deaths on or after July 1, 2026.</p><p>The statute also contains an annual inflation formula that begins with deaths in 2027, and the Department of Revenue's estate tax page carries its own note on that figure. For a death in 2027 or later, check the department's page for the amount that applies to your date.</p><p>Nonresidents can be pulled in too. The department says a person who lived elsewhere but owned Washington real estate or tangible personal property may owe, and the tax on such an estate is reduced by a fraction based on how much of the gross estate sits in the state.</p>"
+    },
+    {
+      "h2": "What are the Washington estate tax rates?",
+      "html": "<p>Rates are graduated and start at 10 percent. For estates of people who died on or after July 1, 2026, <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.040\">RCW 83.100.040</a> sets the schedule below, applied to the Washington taxable estate. That figure is the gross estate less allowed deductions and the exclusion amount.</p><table><thead><tr><th>Washington taxable estate</th><th>Initial tax</th><th>Plus rate on the excess</th></tr></thead><tbody><tr><td>$0 to $1,000,000</td><td>$0</td><td>10%</td></tr><tr><td>$1,000,000 to $2,000,000</td><td>$100,000</td><td>14%</td></tr><tr><td>$2,000,000 to $3,000,000</td><td>$240,000</td><td>15%</td></tr><tr><td>$3,000,000 to $4,000,000</td><td>$390,000</td><td>16%</td></tr><tr><td>$4,000,000 to $6,000,000</td><td>$550,000</td><td>18%</td></tr><tr><td>$6,000,000 to $7,000,000</td><td>$910,000</td><td>19%</td></tr><tr><td>$7,000,000 to $9,000,000</td><td>$1,100,000</td><td>19.5%</td></tr><tr><td>Above $9,000,000</td><td>$1,490,000</td><td>20%</td></tr></tbody></table><p>Deaths between July 1, 2025 and July 1, 2026 fall under a steeper schedule in the same section, with a 35 percent top rate above $9,000,000. Deaths before July 1, 2025 use a third table. The department's own worked example, for a 2024 death, takes a $4,000,000 gross estate, subtracts $100,000 of deductions and the $2,193,000 exclusion, and arrives at a taxable estate of $1,707,000 and a tax of $198,980.</p>"
+    },
+    {
+      "h2": "Does the estate have to file a return even if no tax is due?",
+      "html": "<p>Often, yes. Under <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.050\">RCW 83.100.050</a> a Washington return is required when the gross estate equals or exceeds the exclusion amount. The Department of Revenue states that a filing is required in that case even if no tax is due. An estate below the threshold files nothing.</p><p>There is one carve-out for married couples. A return is not required when the decedent left a surviving spouse, the qualifying family residence passed to that spouse, no election requires a return, and the gross estate less the value of that residence is below the exclusion amount. The statute defines the qualifying family residence as the principal home of the marital community or domestic partnership at the date of death.</p><ul><li>The filing threshold is the gross estate, which covers assets owned or held in trust wherever they are located.</li><li>Residents and nonresidents with Washington real property can both be required to file.</li><li>A return is judged by the date of death, so an estate for a death in early 2026 uses different figures than one from late 2026.</li></ul>"
+    },
+    {
+      "h2": "When is Washington estate tax due, and what happens if it is late?",
+      "html": "<p>The return and the payment are both due nine months after the date of death. A request for extension, together with an estimated payment, is due on the same day. The Department of Revenue allows a six-month extension to file, but an extension to file is not an extension to pay. Any tax unpaid after nine months accrues interest daily.</p><p>Late filing can add a penalty. Under <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.070\">RCW 83.100.070</a> the penalty is 5 percent of the tax due for each month the return is late, capped at the lesser of 25 percent of the tax or $1,500, and there is no penalty when a return is filed voluntarily before the department sends written notice. The interest rate is reset each January.</p><p>Returns and payments can be sent through My DOR or mailed to the Department of Revenue, PO Box 47474, Olympia, WA 98504-7474. The estate tax examiners can be reached at 360-704-5906 or estates@dor.wa.gov.</p>"
+    },
+    {
+      "h2": "How does the estate tax connect to selling the house?",
+      "html": "<p>The connection is the state's claim against the estate's property. <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.080\">RCW 83.100.080</a> says the department issues a release once the tax due has been paid, and after the release all property subject to the tax is free of the state's claim for it. If an estate is large enough to owe, ask the department how to obtain that release before you list the house, so the sale is not held up.</p><p>Timing also matters for cash. The nine-month deadline for payment can arrive before a house is sold, which is one reason personal representatives plan the sale early. If there is tax due and the house is the main asset, speak with the estate's attorney about whether to sell first and pay from the proceeds.</p>"
+    },
+    {
+      "h2": "Do heirs pay real estate excise tax when they inherit or sell a Washington house?",
+      "html": "<p>Receiving the house by will or inheritance is not subject to real estate excise tax, according to <a href=\"https://app.leg.wa.gov/wac/default.aspx?cite=458-61A-202\">WAC 458-61A-202</a>. That holds whether or not a mortgage is attached to the property. The documentation goes to the county treasurer where the property sits and might include a certified death certificate, letters testamentary or letters of administration for a probated estate, or a signed lack of probate affidavit when no probate happens.</p><p>A later sale is a different event. The rule states that a transfer from an heir to a third party is subject to the tax, and its example has an heir selling an inherited house for $50,000 and owing tax on the full $50,000. The same rule says that when one heir pays siblings to take sole title, the tax is due on the amount paid, which is $120,000 in its example.</p><p>On the income tax side, the IRS says property received through inheritance has its basis determined under Publication 551 rather than by simple cost. Ask a tax preparer for the figure before you set a price.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Washington estate tax exclusion for 2026?",
+      "a": "It is $3,076,000 for deaths from January 1 through June 30, 2026, and $3,000,000 for deaths on or after July 1, 2026. These figures come from RCW 83.100.020 and the Department of Revenue."
+    },
+    {
+      "q": "What is the top Washington estate tax rate?",
+      "a": "For deaths on or after July 1, 2026 the top rate is 20 percent on the portion of the taxable estate above $9,000,000. For deaths from July 1, 2025 to July 1, 2026 the top rate is 35 percent above $9,000,000."
+    },
+    {
+      "q": "When is the Washington estate tax return due?",
+      "a": "Nine months after the date of death. A six-month extension to file is available, but the tax itself is still due at nine months, and interest accrues daily on any unpaid amount."
+    },
+    {
+      "q": "Do I owe real estate excise tax when I inherit a house in Washington?",
+      "a": "No. Transfers by will or inheritance are not subject to the tax. A later sale of the house by the heir to a buyer is subject to it, based on the full sale price."
+    },
+    {
+      "q": "Can an estate file a Washington return when no tax is owed?",
+      "a": "An estate must file if its gross estate equals or exceeds the exclusion amount, even when the tax comes to zero. Estates below the exclusion amount do not file, and a limited exception exists for a family residence that passes to a surviving spouse."
+    }
+  ],
+  "sources": [
+    {"title": "RCW 83.100.020 Definitions", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.020"},
+    {"title": "RCW 83.100.040 Estate tax imposed", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.040"},
+    {"title": "RCW 83.100.050 Tax returns, filing dates", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.050"},
+    {"title": "RCW 83.100.070 Interest and penalty", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.070"},
+    {"title": "RCW 83.100.080 Department to issue release", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=83.100.080"},
+    {"title": "Washington Department of Revenue, Estate tax", "url": "https://dor.wa.gov/taxes-rates/other-taxes/estate-tax"},
+    {"title": "WAC 458-61A-202 Inheritance or devise", "url": "https://app.leg.wa.gov/wac/default.aspx?cite=458-61A-202"},
+    {"title": "IRS Topic 703, Basis of assets", "url": "https://www.irs.gov/taxtopics/tc703"}
+  ]
+}
