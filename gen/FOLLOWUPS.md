@@ -11,3 +11,4 @@
 - pennsylvania-landlord-tenant-law-tenant-rights: one source (AG guide). sell-my-house-fast-north-huntingdon-pa: tax figures from proposed 2026 budget; recheck.
 - bullitt-county-ky-property-tax-guide: rate unit (cents per $100) inferred; recheck. boyle/bracken closing-tax sentences borrowed from other counties' sheriff pages; recheck.
 - kentucky-transfer-on-death-deed: says no KY TOD statute exists (2024 HB 50, 2026 SB 34 stalled); verify. larue-county-ky: 2026 payment table from a newspaper notice; verify.
+- grant-county-ky-property-tax-guide: sheriff page says 21% penalty Feb 1-Apr 15 vs KRS 10%; page reports both. graves-county-ky-county-clerk: address conflicts across sources. Recheck.

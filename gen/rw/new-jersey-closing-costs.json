@@ -1,0 +1,81 @@
+{
+ "slug": "new-jersey-closing-costs",
+ "sections": [
+  {
+   "h2": "What closing costs does a New Jersey seller pay?",
+   "html": "<p>The main state charge is the Realty Transfer Fee, which the seller pays when the deed is recorded. Sales tax is not due on a home sale, and the buyer does not owe the transfer fee. On top of the fee, sellers pay whatever they agreed to in the contract, such as broker compensation, attorney fees and payoff of any mortgage or lien.</p>\n<ul>\n<li>Realty Transfer Fee, calculated on the consideration recited in the deed.</li>\n<li>Graduated Percent Fee, only when the sale price is above $1,000,000.</li>\n<li>Broker compensation, which is negotiable and set in a written agreement.</li>\n<li>An estimated income tax payment, only for nonresident sellers who do not qualify for an exemption.</li>\n<li>Payoff of the mortgage and any unpaid property tax.</li>\n</ul>\n<p>Most sellers also hand over the Affidavit of Consideration for Use by Seller, form RTF-1, with the fee. Any deed claiming a full or partial exemption must carry that affidavit (<a href=\"https://nj.gov/treasury/taxation/realty.shtml\">NJ Division of Taxation</a>).</p>"
+  },
+  {
+   "h2": "How is the New Jersey Realty Transfer Fee calculated?",
+   "html": "<p>The fee is a charge per $500 of consideration, and the rate rises with price. The base is the amount recited in the deed, or in certain cases the assessed value divided by the Director's Ratio. The fee applies to every deed conveying title unless an exemption fits.</p>\n<table>\n<caption>Seller's Realty Transfer Fee per $500 of consideration, price over $350,000 (NJ Division of Taxation)</caption>\n<thead><tr><th>Slice of the price</th><th>Rate per $500</th></tr></thead>\n<tbody>\n<tr><td>$0 to $150,000</td><td>$2.90</td></tr>\n<tr><td>$150,000 to $200,000</td><td>$4.25</td></tr>\n<tr><td>$200,000 to $550,000</td><td>$4.80</td></tr>\n<tr><td>$550,000 to $850,000</td><td>$5.30</td></tr>\n<tr><td>$850,000 to $1,000,000</td><td>$5.80</td></tr>\n<tr><td>Above $1,000,000</td><td>$6.05</td></tr>\n</tbody>\n</table>\n<p>For prices of $350,000 or less, a lower schedule applies: $2.00 per $500 up to $150,000, $3.35 from $150,000 to $200,000, and $3.90 from $200,000 to $350,000. The Division's own example puts the fee at $1,910 on a $325,000 sale with no exemption. Applying the table above to a $600,000 sale gives 870 plus 425 plus 3,360 plus 530, or $5,185.</p>\n<p>Seniors, blind or disabled sellers and low and moderate income housing get a reduced schedule, but the senior and disability break is personal. It cannot be given to an estate or a trust.</p>"
+  },
+  {
+   "h2": "What is the Graduated Percent Fee on sales over $1 million?",
+   "html": "<p>It is a percentage of the full sale price that the seller owes when consideration passes $1,000,000. Since P.L. 2025, c. 69 took effect on July 10, 2025, the fee is charged to the grantor instead of the buyer. Older descriptions that call it a 1 percent buyer's mansion tax are out of date for deeds submitted on or after that date.</p>\n<ul>\n<li>1% of total consideration when the price runs from $1,000,000 up to $2,000,000.</li>\n<li>2% when it runs above $2,000,000 up to $2,500,000.</li>\n<li>2.5% above $2,500,000 up to $3,000,000.</li>\n<li>3% above $3,000,000 up to $3,500,000.</li>\n<li>3.5% on prices above $3,500,000.</li>\n</ul>\n<p>Each rate is applied to the entire price. The Division's memo works a $2.75 million deed at 2.5 percent, or $68,750 due at recording. It covers Class 2 residential property, farms with a residential building, Class 4A commercial property and cooperative units. A limited refund window applied to deeds above $2 million with contracts fully signed before July 10, 2025 and recorded by November 15, 2025, and that date has passed (<a href=\"https://nj.gov/treasury/taxation/pdf/lpt/GraduatedPercentFeeNotice.pdf\">Division memo</a>).</p>"
+  },
+  {
+   "h2": "Which sales are exempt from the transfer fee?",
+   "html": "<p>The Division lists a long set of full exemptions, and the seller claims one on form RTF-1. Check the facts carefully, because the Division reads each exemption narrowly.</p>\n<ul>\n<li>Deeds between spouses or between a parent and child, which includes an adopted child but not a stepchild.</li>\n<li>A deed from an executor or administrator to a devisee or heir that carries out the will or intestacy.</li>\n<li>Deeds for consideration under $100.</li>\n<li>Deeds that only confirm or correct an earlier recorded deed.</li>\n<li>Tax sale deeds and deeds on partition.</li>\n<li>Deeds recorded within 90 days of a divorce decree between the former spouses.</li>\n</ul>\n<p>Some transfers look exempt and are not. A sale by an executor to someone who is not named in the will pays the fee. A will that orders a sale and a split of the cash is treated as a gift of money. A deed into a trust for the benefit of others is taxable, and a divorce settlement agreement does not qualify as specific performance of a judgment. Sheriff's sales require form RTF-8 in addition to the deed paperwork.</p>"
+  },
+  {
+   "h2": "Who sets broker compensation in New Jersey?",
+   "html": "<p>You and your brokerage do, in writing. Under P.L. 2024, c. 32, effective August 1, 2024, the brokerage must sign a brokerage services agreement with the seller in every residential transaction. That agreement states the term, the amount of compensation and how it is calculated, and it must say that compensation is fully negotiable and not set by law (<a href=\"https://nj.gov/dobi/bulletins/blt24_11.pdf\">DOBI Bulletin 24-11</a>).</p>\n<ul>\n<li>Compensation may be a flat fee, a percentage of the price or another lawful method.</li>\n<li>It can be paid by the seller, the buyer, a third party, or shared between brokerages.</li>\n<li>The agreement must show whether the agency is exclusive or non-exclusive.</li>\n<li>The brokerage must obtain a signed property condition disclosure statement from the seller.</li>\n</ul>\n<p>Read the agency section before you sign. New Jersey law now recognizes seller's agents, buyer's agents, disclosed dual agents, designated agents and transaction brokers, and each owes you different duties.</p>"
+  },
+  {
+   "h2": "What is the recording step, and what if the deed goes to the wrong county?",
+   "html": "<p>Recording happens at the clerk's office for the county where the land lies. The deed travels with the RTF paperwork and a GIT/REP form, which the Division says are submitted at closing as two separate requirements. The clerk makes the call on whether a deed is accepted.</p>\n<p>A deed filed in the wrong county can be fixed by recording it again in the correct one. The state portion of the fee is then recovered with form RTF-3, and the county portion needs its own refund request to the wrong county's recording office. Ask your title agent to double check the county before the package leaves the table.</p>"
+  },
+  {
+   "h2": "Does a nonresident seller pay anything extra at closing?",
+   "html": "<p>Yes, a nonresident seller of New Jersey property usually sends an estimated income tax payment with the deed. The amount is 2 percent of the consideration or 8.97 percent of the net gain, and it is due before or at closing. A seller who meets one of the assurances on form GIT/REP-3 skips the payment but still files the form.</p>\n<p>That payment is a deposit against the seller's tax, and it is separate from the Realty Transfer Fee. A New Jersey resident who sells and relocates out of state is treated as a nonresident for the sale. Our capital gains page walks through the forms, and the Division's GIT/REP FAQs answer who must sign.</p>\n<p>If the seller is a New Jersey resident staying in the state, the GIT/REP-3 residency certification is enough at closing, and income tax is settled on the NJ-1040 later.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who pays the Realty Transfer Fee in New Jersey?",
+   "a": "The seller pays it, and the fee is collected when the deed is recorded. The buyer owes no Realty Transfer Fee on a standard home purchase."
+  },
+  {
+   "q": "Is there sales tax on a New Jersey home sale?",
+   "a": "No. The Division of Taxation states that sales tax is not due on home sales."
+  },
+  {
+   "q": "How much is the Realty Transfer Fee on a $325,000 house?",
+   "a": "It comes to $1,910 with no exemption, based on the Division's own worked example for a $325,000 deed."
+  },
+  {
+   "q": "Does the old mansion tax still fall on buyers?",
+   "a": "For deeds submitted on or after July 10, 2025, the seller is responsible for the graduated percent fee on prices above $1,000,000. The rate starts at 1 percent and climbs to 3.5 percent."
+  },
+  {
+   "q": "Can I negotiate the real estate commission in New Jersey?",
+   "a": "Yes. Broker compensation is fully negotiable, not set by law, and must appear in the brokerage services agreement."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NJ Division of Taxation, Realty Transfer Fee",
+   "url": "https://nj.gov/treasury/taxation/realty.shtml"
+  },
+  {
+   "title": "NJ Division of Taxation, Realty Transfer Fee FAQs",
+   "url": "https://nj.gov/treasury/taxation/lpt/rtffaqs.shtml"
+  },
+  {
+   "title": "NJ Division of Taxation, Graduated Percent Fee memo",
+   "url": "https://nj.gov/treasury/taxation/pdf/lpt/GraduatedPercentFeeNotice.pdf"
+  },
+  {
+   "title": "NJ Division of Taxation, Buying or Selling a Home in New Jersey",
+   "url": "https://nj.gov/treasury/taxation/documents/pdf/guides/Buying-or-Selling-a-Home-in-New-Jersey.pdf"
+  },
+  {
+   "title": "NJ Division of Taxation, GIT/REP FAQs",
+   "url": "https://www.nj.gov/treasury/taxation/gitrepfaqs.shtml"
+  },
+  {
+   "title": "NJ DOBI Bulletin 24-11",
+   "url": "https://nj.gov/dobi/bulletins/blt24_11.pdf"
+  }
+ ]
+}

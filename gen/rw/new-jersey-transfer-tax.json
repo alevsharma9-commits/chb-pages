@@ -15,11 +15,11 @@
   },
   {
    "h2": "Which deeds are exempt from the realty transfer fee?",
-   "html": "<p>The Division lists a set of deeds that owe no RTF. Exemptions are read narrowly, so a transfer that is not on the list pays the fee even when the reason for it seems sympathetic.</p>\n<ul>\n<li>A deed for consideration under $100.</li>\n<li>A deed between husband and wife, or between parent and child.</li>\n<li>A deed from an executor or administrator to a devisee or heir to distribute the estate under the will or the intestacy laws.</li>\n<li>A deed recorded within 90 days after a divorce decree dissolves the marriage of grantor and grantee.</li>\n<li>A deed that gives or releases security for a debt, or that confirms or corrects a deed already recorded.</li>\n<li>A deed on partition, on a sale for delinquent taxes, or by a receiver, bankruptcy trustee or assignee for creditors.</li>\n</ul>"
+   "html": "<p>The Division lists a set of deeds that owe no RTF. Exemptions are read narrowly, so a transfer that is not on the list pays the fee even when the reason for it seems sympathetic.</p>\n<ul>\n<li>A deed for consideration under $100.</li>\n<li>A deed between husband and wife, or between parent and child.</li>\n<li>A deed from an executor or administrator to a devisee or heir to distribute the estate under the will or the intestacy laws.</li>\n<li>A deed filed in the three months after a divorce decree ends the marriage of grantor and grantee.</li>\n<li>A deed that gives or releases security for a debt, or that confirms or corrects a deed already recorded.</li>\n<li>A deed on partition, on a sale for delinquent taxes, or by a receiver, bankruptcy trustee or assignee for creditors.</li>\n</ul>"
   },
   {
    "h2": "How do family sales, estates and trusts work?",
-   "html": "<p>Family cases produce most of the questions the Division has answered in public. A sale from parents to their daughter and son-in-law is exempt as parent to child. A father selling to his daughter and her live-in boyfriend gets an exemption on half of the price, and the other half is taxed. A legally adopted child counts as a child, but a stepchild does not unless the stepparent adopted him or her.</p>\n<p>An executor who sells to an heir named in the will, or an heir under the intestacy rules, is exempt. A sale to anyone else is not. If a will tells the executor to sell and divide the money, the Division treats the bequest as a gift of money, so that sale pays the fee. Placing a house in trust for children is also taxable because the grantor gives up the benefits of ownership.</p>\n<p>A divorce settlement that is simply folded into a judgment does not qualify as specific performance of a final judgment. The deed has to be recorded within 90 days of the decree to use the divorce exemption. Attorney-prepared deeds in quitclaim form that move a freehold interest are treated by the Division as taxable transfers.</p>"
+   "html": "<p>Family cases produce most of the questions the Division has answered in public. A sale from parents to their daughter and son-in-law is exempt as parent to child. A father selling to his daughter and her live-in boyfriend gets an exemption on half of the price, and the other half is taxed. A legally adopted child counts as a child, but a stepchild does not unless the stepparent adopted him or her.</p>\n<p>An executor who sells to an heir named in the will, or an heir under the intestacy rules, is exempt. A sale to anyone else is not. If a will tells the executor to sell and divide the money, the Division treats the bequest as a gift of money, so that sale pays the fee. Placing a house in trust for children is also taxable because the grantor gives up the benefits of ownership.</p>\n<p>A divorce settlement that is simply folded into a judgment does not qualify as specific performance of a final judgment. The deed has to follow the decree closely, within the 90-day window, to use the divorce exemption. Attorney-prepared deeds in quitclaim form that move a freehold interest are treated by the Division as taxable transfers.</p>"
   },
   {
    "h2": "What reduced rates exist for seniors and disabled sellers?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "Where is the fee paid, and what if the deed goes to the wrong county?",
-   "html": "<p>The county recording officer collects it when the deed is recorded. Record in the county where the land lies. If a deed lands in the wrong county, record it in the right one and ask the State for a refund on Form RTF-3. The county share of the fee must be reclaimed separately from the wrong county's recording office.</p>\n<p>Ask the county clerk for the current recording charges, because those are county fees and sit on top of the state fee. Look for the RTF on the seller's closing statement and ask the closing attorney or title company how it will be remitted at recording.</p>"
+   "html": "<p>Payment goes to the county recording officer at the counter. The land's own county is the only valid place to file. A deed that lands in a different county must be filed again in the right one, with a State refund request on Form RTF-3, and the county portion has to be reclaimed from the wrong county's recording office.</p>\n<p>Ask the county clerk for the current recording charges, because those are county fees and sit on top of the state fee. Find the RTF line on the seller's closing statement and ask whoever runs your closing how it will reach the recording officer.</p>"
   }
  ],
  "faqs": [
@@ -49,7 +49,7 @@
   },
   {
    "q": "What form do I file to claim an exemption?",
-   "a": "File Form RTF-1, the Affidavit of Consideration for Use by Seller, with the deed. It must be notarized for a partial exemption. Deeds over $1,000,000 also carry Form RTF-1EE for the percent fee."
+   "a": "File Form RTF-1, the Affidavit of Consideration for Use by Seller, with the deed. It must be notarized for a partial exemption. Deeds priced above $1,000,000 also carry Form RTF-1EE for the percent fee."
   }
  ],
  "sources": [
