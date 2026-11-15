@@ -2,73 +2,112 @@
   "slug": "marion-county-ky-property-tax-guide",
   "sections": [
     {
-      "h2": "Where do I go for property tax questions in Marion County, KY?",
-      "html": "<p>Go to 223 North Spalding Avenue in Lebanon. The sheriff, the Property Valuation Administrator and the County Clerk all list that address, each in its own suite, so one trip can cover a bill, an assessment question and a deed.</p>\n<ul>\n<li>Sheriff's Office, Suite 101: collects the bill. Phone 270-692-3051, open weekdays 8:30 am to 4:30 pm.</li>\n<li>Property Valuation Administrator, Suite 202: assessed value, name and address changes, homestead and disability exemptions. Phone 270-692-3401, weekdays 8:30 a.m. to 4:30 p.m.</li>\n<li>County Clerk, Suite 102: records deeds and holds delinquent bills. Phone 270-692-2651. The clerk's site lists hours of 8:20 to 4:20 on weekdays and Saturday mornings.</li>\n</ul>\n<p>The sheriff's own FAQ sends questions about how a taxable value is set or how a bill is figured to the PVA, and questions about delinquent bills or buying a lien to the clerk. Starting at the right door saves a second trip.</p>"
+      "h2": "Which Lebanon offices share the building at 223 North Spalding Avenue?",
+      "html": "<p>The sheriff, the PVA and the County Clerk all list 223 North Spalding Avenue in Lebanon as their address, so a Marion County owner can settle most property tax business in a single visit. Each office keeps its own suite and hours.</p>\n<ul>\n<li>Sheriff's Office, Suite 101 (270-692-3051): bills and payments, weekdays 8:30 am to 4:30 pm.</li>\n<li>Property Valuation Administrator, Suite 202 (270-692-3401): value, owner name and mailing address, homestead and disability exemptions, weekdays 8:30 a.m. through 4:30 p.m.</li>\n<li>County Clerk, Suite 102 (270-692-2651): deed recording and delinquent bills. The clerk's own site lists 8:20 to 4:20 on weekdays and a Saturday morning session.</li>\n</ul>\n<p>The sheriff's FAQ hands off questions about taxable value and bill calculation to the PVA, and questions about delinquent bills or buying a lien to the clerk.</p>"
     },
     {
-      "h2": "What is Marion County, Kentucky like for someone selling a home?",
-      "html": "<p>Marion County is a lightly populated central Kentucky county of about 20,000 people with Lebanon as its seat and largest city. The Kentucky legislature formed it in 1834 from part of Washington County and named it for Revolutionary War officer Francis Marion. It covers 347 square miles, 343 of them land, and touches Washington, Boyle, Casey, Taylor, LaRue and Nelson counties.</p>\n<p>Besides Lebanon, the incorporated cities are Loretto and Bradfordsville. Smaller communities include Gravel Switch, Nerinx, Raywick and St. Mary. Wikipedia notes that planar maps place the geographic center of Kentucky about three miles north-northwest of Lebanon, just off KY 429, though neighboring counties dispute the exact spot.</p>\n<p>One school system covers the whole county: the Marion County School District, whose comprehensive high school is Marion County High School. Lebanon also has the Marion County Public Library. A seller with a rural parcel should know that farmland is assessed at agricultural use value under Section 172A of the Kentucky Constitution, while the barns and fencing on it are valued by replacement cost less depreciation. That split can matter when a farm with a house on it goes up for sale.</p>\n<p>Growth has been flat. Population was 19,820 in 2010 and 19,581 in 2020, and the July 2025 estimate is 20,115.</p>"
+      "h2": "What sets Marion County apart from other central Kentucky counties?",
+      "html": "<p>Marion County is lightly settled: about 57 people per square mile on 343 square miles of land. The legislature carved it from Washington County in 1834 and named it for Francis Marion. Washington, Boyle, Casey, Taylor, LaRue and Nelson counties surround it.</p>\n<p>Lebanon is the seat and the largest of three cities, the others being Loretto and Bradfordsville. Gravel Switch, Nerinx, Raywick and St. Mary are smaller places. Wikipedia notes that planar maps put the state's geographic center about three miles north-northwest of Lebanon near KY 429, though neighboring counties dispute it.</p>\n<p>Population has hovered near the same level for a century. The count was 15,499 in 1930, 16,499 in 1990, 18,212 in 2000, 19,820 in 2010 and 19,581 in 2020. The July 2025 estimate of 20,115 is up 2.8 percent from the 2020 base.</p>\n<p>One school district, Marion County Schools, serves every address, with Marion County High School as its comprehensive high school. The Marion County Public Library is in Lebanon. For a farm sale, remember that cropland and pasture are valued by agricultural use under Section 172A of the state constitution, and outbuildings by replacement cost less depreciation.</p>"
     },
     {
-      "h2": "How do Marion County housing numbers compare?",
-      "html": "<p>Marion County is mostly owner-occupied and mid-priced for Kentucky. The 2020 to 2024 Census figures put roughly three of every four households in homes they own.</p>\n<table>\n<caption>Marion County, Kentucky housing profile from Census Bureau QuickFacts</caption>\n<thead><tr><th>Measure</th><th>Marion County</th></tr></thead>\n<tbody>\n<tr><td>Population estimate, July 1, 2025</td><td>20,115</td></tr>\n<tr><td>Households, 2020 to 2024</td><td>7,724</td></tr>\n<tr><td>Housing units, 2025</td><td>8,652</td></tr>\n<tr><td>Owner-occupied rate</td><td>77.7%</td></tr>\n<tr><td>Median owner-occupied home value</td><td>$168,100</td></tr>\n<tr><td>Median gross rent</td><td>$726</td></tr>\n<tr><td>Residents living in the same house a year earlier</td><td>91.9%</td></tr>\n<tr><td>Building permits, 2025</td><td>56</td></tr>\n</tbody>\n</table>\n<p>The 91.9 percent figure for staying in the same house is high, and only 56 building permits were issued in 2025, so new construction is thin. Persons aged 65 and over make up 19.5 percent of the county, which is relevant to the homestead exemption covered below.</p>"
+      "h2": "How do households in Marion County look in the Census data?",
+      "html": "<p>Marion County's 2020 to 2024 figures show a settled, owner-heavy community where nearly nine in ten residents stayed in the same house for a year.</p>\n<table>\n<caption>Marion County, Kentucky: figures cited in this guide (Census Bureau QuickFacts)</caption>\n<thead><tr><th>Measure</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>Residents, July 2025 estimate</td><td>20,115</td></tr>\n<tr><td>Households</td><td>7,724</td></tr>\n<tr><td>Housing units</td><td>8,652</td></tr>\n<tr><td>Owner-occupied share</td><td>77.7%</td></tr>\n<tr><td>Median home value</td><td>$168,100</td></tr>\n<tr><td>Median monthly cost, owners with a mortgage</td><td>$1,243</td></tr>\n<tr><td>Median gross rent</td><td>$726</td></tr>\n<tr><td>Same house one year earlier</td><td>91.9%</td></tr>\n<tr><td>Building permits, 2025</td><td>56</td></tr>\n</tbody>\n</table>\n<p>Owners with no mortgage carry a median monthly cost of only $415. Median household income is $59,627, and 16.4 percent of residents are in poverty. Among adults 25 and older, 87.2 percent finished high school and 15.1 percent hold a bachelor's degree. Workers commute 22.4 minutes on average, and 1,026 residents are veterans. Employers numbered 353 establishments in 2023 with a combined payroll of $380.7 million.</p>"
     },
     {
-      "h2": "What are the Marion County property tax payment dates?",
-      "html": "<p>The sheriff mails bills before October 1 and runs the collection calendar below, according to the office's FAQ. If no bill arrives by October 10, call and the office will mail one.</p>\n<ul>\n<li>October 1 to November 1: 2% discount</li>\n<li>November 2 to December 31: face amount</li>\n<li>January 1 to January 31: 5% penalty</li>\n<li>February 1 to April 15: 21% penalty</li>\n<li>April 16: unpaid bills are transferred to the County Clerk for collection</li>\n</ul>\n<p>The 21 percent figure combines the 10 percent penalty in <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=28365'>KRS 134.015</a> with the sheriff's add-on from KRS 134.119. The sheriff's system does not track partial payments, so plan to pay the whole bill in one transaction. By mail, put the bill number on the check and enclose a stamped, self-addressed envelope if you want a receipt. Credit cards are taken in person only, and the card company's fee falls on the payer.</p>\n<p>Mortgage escrow does not change who receives the paper bill. The sheriff mails bills to homeowners, and it is up to the homeowner to pass the bill to the lender in time.</p>"
+      "h2": "What is the sheriff's collection calendar in Marion County?",
+      "html": "<p>Bills are mailed ahead of October 1, according to the sheriff's FAQ, and an owner who has not received one by October 10 should call so a copy can be mailed.</p>\n<ul>\n<li>October 1 through November 1: two percent discount.</li>\n<li>November 2 through December 31: bill at face value.</li>\n<li>January 1 through 31: a five percent penalty.</li>\n<li>February 1 through April 15: a twenty-one percent penalty.</li>\n</ul>\n<p>The unpaid balance moves to the County Clerk on April 16. The twenty-one percent adds the ten percent penalty of <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=28365'>KRS 134.015</a> to the sheriff's collection add-on.</p>\n<p>Mail payments need the bill number on the check, and a stamped, self-addressed envelope brings back a receipt. Card payments are accepted only at the counter, with the card company's fee passed to the payer. The sheriff's system does not record partial payments, so send the whole amount at once.</p>"
     },
     {
-      "h2": "Who owes the tax when a Marion County house changes hands?",
-      "html": "<p>The person who owned the property on January 1 is named on the bill, even if the house sells later in the year. The sheriff says the bill should then be forwarded in care of the buyer. A buyer who never gets a bill can ask the sheriff's office to mail one.</p>\n<p>The sheriff states plainly that the office is not responsible when a bill is missed because of oversights during the closing. Put the proration and the payoff on the settlement statement, and have the closing agent confirm payment with the sheriff before funds go out.</p>\n<p>Under KRS 134.015(4), unpaid tax is a personal debt of the taxpayer on the assessment date, and a lien continues for up to eleven years under KRS 134.420 no matter who owns the property afterward. Delinquent bills sit with the clerk, who also runs a free Online Deed Room. Call 270-692-2651 for a payoff.</p>"
+      "h2": "What happens to the bill when a Marion County house sells?",
+      "html": "<p>The January 1 owner stays on the bill all year. If the house sells afterward, the sheriff expects the bill to be forwarded in care of the buyer, and a buyer who never gets one can ask the sheriff to mail a copy. The office says it is not responsible when a bill is lost in the shuffle of a closing.</p>\n<p>Lenders do not receive the bill from the sheriff. Per the FAQ, all bills go to the homeowner, who must pass the bill to the mortgage company in time.</p>\n<p>For earlier years, call the clerk at 270-692-2651. Overdue bills are transferred there, and the clerk's site advertises a free Online Deed Room. KRS 134.420 lets a tax lien last up to eleven years against the property itself, so a title company will insist that it be paid from the seller's proceeds.</p>"
     },
     {
-      "h2": "How can a Marion County owner challenge a valuation?",
-      "html": "<p>Contact the PVA at 270-692-3401 and ask for a conference. That is the required first step, and <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58035'>KRS 133.120</a> says the PVA or a deputy must explain how your value was reached and keep a record of the meeting.</p>\n<p>If the conference does not settle it, a written petition goes to the County Clerk by one workday after the inspection period ends. It should identify the parcel, give your reasons and state what you believe the property is worth. The county board of assessment appeals then hears the case. Under <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45564'>KRS 133.030</a> it convenes 25 to 35 days after inspection closes.</p>\n<ul>\n<li>Bring evidence such as a recent appraisal, comparable sales, an insurance policy or a repair estimate.</li>\n<li>You may record the hearing, and the board must visit the property if you ask.</li>\n<li>Keep paying on the value you claim. An appeal does not pause collection.</li>\n</ul>\n<p>The Department of Revenue says the PVA must physically inspect every parcel at least once in four years, so a visit by PVA staff to your street is routine.</p>"
+      "h2": "What can a Marion County owner do about an assessment they dispute?",
+      "html": "<p>Call the PVA at 270-692-3401 and ask for a conference. <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58035'>KRS 133.120</a> requires that meeting before any formal appeal, and a petition to the clerk and a board hearing come next. The board sits 25 to 35 days after inspection closes under <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45564'>KRS 133.030</a>.</p>\n<p>A tip for Lebanon sellers: the Department of Revenue says every parcel must be physically inspected at least once in four years, so ask when yours last was. Bring comparable sales or a recent appraisal, and keep paying the amount you claim.</p>"
     },
     {
-      "h2": "How much is the Marion County homestead exemption?",
-      "html": "<p>It is $49,100 for the 2025 and 2026 assessment years, set by the Department of Revenue. You qualify as a homeowner who is 65 or older, or who is classified as totally disabled, and the home must be your permanent residence.</p>\n<p>Take the Census median home value of $168,100 as an example. After the exemption the taxable assessment would be $119,000. Once an age-based application is accepted, it carries forward for as long as the same owner lives in the house. For married couples, only one exemption applies per household. The exemption does not move with the property, so a buyer must apply separately. The sheriff directs homestead and disability questions to the PVA.</p>"
+      "h2": "Is the Marion County homestead exemption worth claiming?",
+      "html": "<p>For a qualifying owner it is. The exemption is $49,100 for 2025 and 2026, and at the county's median home value of $168,100 it leaves $119,000 taxable. Owners 65 or older, or totally disabled, who live in the house can apply at the PVA. With 19.5 percent of the county aged 65 or over, many Marion County owners are eligible. The deduction does not pass to a buyer, who applies on their own.</p>"
     },
     {
-      "h2": "What does it cost to record a deed in Marion County?",
-      "html": "<p>Kentucky's transfer tax under <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160'>KRS 142.050</a> is $0.50 per $500 of value or part of $500, and the Marion County Clerk collects it before taking the deed. On a $168,100 sale the tax works out to $168.50.</p>\n<p>The clerk's website lists weekday hours plus Saturday mornings, which helps a seller who works through the week, and says taxes paid there can be paid by cash, check, debit or credit card with extra fees for cards. Ask the clerk for the current recording charge. Note that foreclosures, parent-to-child gifts and transfers between divorcing spouses are exempt from the transfer tax.</p>"
+      "h2": "What should I expect at the clerk's counter when I record a deed?",
+      "html": "<p>The clerk collects Kentucky's transfer tax first. Under <a href='https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160'>KRS 142.050</a> the rate is fifty cents per $500 of value, and a $168,100 sale produces a charge of $168.50. The clerk's site says taxes can be paid in cash, by check, or with a debit or credit card, with extra fees for cards. Ask the office for its recording charge in advance. Transfers by foreclosure, between divorcing spouses, and from parent to child for nominal value escape the tax.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Where do I pay Marion County property taxes?",
-      "a": "Pay the Marion County Sheriff's Office at 223 North Spalding Avenue, Suite 101 in Lebanon, or call 270-692-3051. Checks by mail need the bill number written on them."
+      "q": "Where is the Marion County Sheriff's tax office?",
+      "a": "It is at 223 North Spalding Avenue, Suite 101, in Lebanon, phone 270-692-3051. Mailed payments should show the bill number."
     },
     {
-      "q": "What is the penalty for paying Marion County taxes in February?",
-      "a": "The sheriff lists a 21 percent penalty from February 1 through April 15. January costs 5 percent, and on April 16 the bill moves to the County Clerk."
+      "q": "How much extra does a Marion County bill cost in February?",
+      "a": "The sheriff lists a 21 percent penalty from February 1 to April 15, after 5 percent in January. Bills still open on April 16 go to the clerk."
     },
     {
-      "q": "Can I make a partial payment on my Marion County tax bill?",
-      "a": "Not reliably. The sheriff's FAQ says the office's system does not track partial payments, so pay the full amount during the discount or face-amount window."
+      "q": "Does the Marion County sheriff accept partial tax payments?",
+      "a": "The sheriff's FAQ says its system does not track partial payments, so send the full bill in one payment."
     },
     {
-      "q": "Who do I call about the Marion County homestead exemption?",
-      "a": "Call the Property Valuation Administrator at 270-692-3401. The sheriff's office refers all exemption and valuation questions there."
+      "q": "Which office handles Marion County exemptions?",
+      "a": "The PVA, at 270-692-3401. The sheriff refers homestead and disability questions there."
     },
     {
-      "q": "How do I find out if a Marion County property has delinquent taxes?",
-      "a": "Ask the County Clerk at 270-692-2651. The sheriff's FAQ says delinquent bills are transferred to the clerk, and the clerk's Online Deed Room is free to use."
+      "q": "Where do I look up a Marion County delinquent bill?",
+      "a": "Call the County Clerk at 270-692-2651. Delinquent bills are transferred to that office, and the clerk's site runs a free Online Deed Room."
     }
   ],
   "sources": [
-    {"title": "U.S. Census Bureau QuickFacts: Marion County, Kentucky", "url": "https://www.census.gov/quickfacts/fact/table/marioncountykentucky/PST045224"},
-    {"title": "Marion County, Kentucky (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Marion_County,_Kentucky"},
-    {"title": "Marion County Sheriff FAQ", "url": "https://sheriffofmarionco.com/home/services/faq"},
-    {"title": "Marion County Property Valuation Administrator", "url": "https://marioncounty.ky.gov/Elected-Officials/Pages/Property-Valuation-Administrator.aspx"},
-    {"title": "Marion County Clerk (county site)", "url": "https://marioncounty.ky.gov/Elected-Officials/Pages/County-Clerk.aspx"},
-    {"title": "Marion County Clerk website", "url": "https://marioncoclerkky.gov"},
-    {"title": "Kentucky Department of Revenue: Assessment Process for Real Property", "url": "https://revenue.ky.gov/Property/Pages/theassessmentprocessforrealproperty.aspx"},
-    {"title": "Kentucky Department of Revenue: Homestead Exemption", "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/pages/homestead-exemption.aspx"},
-    {"title": "KRS 134.015", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=28365"},
-    {"title": "KRS 134.119", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=51268"},
-    {"title": "KRS 133.120", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58035"},
-    {"title": "KRS 133.030", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45564"},
-    {"title": "KRS 142.050", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"}
+    {
+      "title": "U.S. Census Bureau QuickFacts: Marion County, Kentucky",
+      "url": "https://www.census.gov/quickfacts/fact/table/marioncountykentucky/PST045224"
+    },
+    {
+      "title": "Marion County, Kentucky (Wikipedia)",
+      "url": "https://en.wikipedia.org/wiki/Marion_County,_Kentucky"
+    },
+    {
+      "title": "Marion County Sheriff FAQ",
+      "url": "https://sheriffofmarionco.com/home/services/faq"
+    },
+    {
+      "title": "Marion County Property Valuation Administrator",
+      "url": "https://marioncounty.ky.gov/Elected-Officials/Pages/Property-Valuation-Administrator.aspx"
+    },
+    {
+      "title": "Marion County Clerk (county site)",
+      "url": "https://marioncounty.ky.gov/Elected-Officials/Pages/County-Clerk.aspx"
+    },
+    {
+      "title": "Marion County Clerk website",
+      "url": "https://marioncoclerkky.gov"
+    },
+    {
+      "title": "Kentucky Department of Revenue: Assessment Process for Real Property",
+      "url": "https://revenue.ky.gov/Property/Pages/theassessmentprocessforrealproperty.aspx"
+    },
+    {
+      "title": "Kentucky Department of Revenue: Homestead Exemption",
+      "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/pages/homestead-exemption.aspx"
+    },
+    {
+      "title": "KRS 134.015",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=28365"
+    },
+    {
+      "title": "KRS 134.119",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=51268"
+    },
+    {
+      "title": "KRS 133.120",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58035"
+    },
+    {
+      "title": "KRS 133.030",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45564"
+    },
+    {
+      "title": "KRS 142.050",
+      "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"
+    }
   ]
 }
