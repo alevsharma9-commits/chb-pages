@@ -1,0 +1,93 @@
+{
+ "slug": "maryland-eviction-process",
+ "sections": [
+  {
+   "h2": "What are the steps of a Maryland eviction, in order?",
+   "html": "<p>A Maryland eviction runs through the District Court in the county where the property sits, and it cannot end with a sheriff at the door unless the landlord first wins a judgment and obtains a warrant. Both the Maryland Courts help page and the state tenant guidance describe the same basic sequence for a rent case:</p><ol><li>The landlord sends the written notice of intent and waits out the 10-day cure period.</li><li>The landlord files a sworn complaint and the court issues a summons.</li><li>A rent court hearing takes place, usually on a short schedule.</li><li>If the landlord wins, the tenant has a short window to leave or pay.</li><li>The landlord petitions for a warrant of restitution, with no hearing.</li><li>The landlord gives the final written notice of the eviction date.</li><li>A sheriff or constable carries out the eviction.</li></ol><p>The notice rules themselves are covered in our Maryland eviction notice guide. This page follows what happens once the case is in court.</p>"
+  },
+  {
+   "h2": "Which kinds of landlord cases does the District Court hear?",
+   "html": "<p>Five. The Maryland Courts housing page lists them, along with the forms landlords use.</p><table><thead><tr><th>Case type</th><th>What it seeks</th><th>Form or step</th></tr></thead><tbody><tr><td>Failure to pay rent</td><td>Eviction and possibly back rent</td><td>DC-CV-115 notice, then DC-CV-082 complaint</td></tr><tr><td>Tenant holding over</td><td>Eviction after the lease ends</td><td>Court complaint</td></tr><tr><td>Breach of lease</td><td>Eviction for lease violations</td><td>Court complaint</td></tr><tr><td>Wrongful detainer</td><td>Removal of someone who is not a lawful occupant</td><td>Court complaint</td></tr><tr><td>Petition for warrant of restitution</td><td>Carrying out a judgment already won</td><td>DC-CV-081, no hearing</td></tr></tbody></table><p>Tenants have their own filings too, including rent escrow and breach of the warranty of habitability (DC-CV-083) and security deposit claims. Foreclosure cases belong to the circuit courts, not the District Court.</p>"
+  },
+  {
+   "h2": "What happens at rent court?",
+   "html": "<p>For unpaid rent, the trial is set for the fifth day after the complaint is filed. Under Real Property § 8-401, the court may adjourn for one day to bring in witnesses, or longer if all parties agree.</p><p>The landlord generally speaks first and the tenant responds. The judge can rule on the spot or set another hearing. If someone does not show up, the court may dismiss, enter judgment or postpone. A tenant can ask for a postponement by writing to the clerk before trial and mailing a copy to the landlord.</p><p>Service matters here. An eviction-only case can proceed on mail plus posting on the property, but a money judgment for back rent requires personal service on a residential tenant. Posting can support a default judgment for possession and cannot support one for money owed.</p><p>If rent is truly due, the court fixes the amount owed as of the filing date and orders possession surrendered within 4 days after trial. A physician's certificate can stretch that to no more than 15 days. If the tenant pays the rent, late fees and costs at trial or at an adjourned date, the complaint is marked satisfied and there is no eviction.</p>"
+  },
+  {
+   "h2": "Can a tenant stop an eviction after losing in court?",
+   "html": "<p>In most rent cases, yes, by paying what the judgment says before the eviction is carried out. This is called the right of redemption, and § 8-401(h) covers it. The tenant pays all past-due rent plus the costs and fees the court awarded.</p><ul><li>Checks from a government agency or government-funded organization must be accepted by the landlord.</li><li>The Maryland Courts page lists cash, certified check and money order as accepted forms of payment.</li><li>A landlord can ask the court to deny redemption when the tenant has had three possession judgments for unpaid rent in the previous 12 months (four in Baltimore City, according to the court's guidance).</li></ul><p>A tenant who wants the judgment reviewed can appeal to the circuit court within 4 days in a nonpayment case, and has to post a bond to stay in the home. In breach-of-lease and holdover cases the appeal window is 10 days.</p>"
+  },
+  {
+   "h2": "When can the landlord ask for the warrant, and how long does it last?",
+   "html": "<p>The Maryland Courts help page tells landlords to wait 7 business days after a possession judgment in a failure-to-pay-rent case. Breach-of-lease and holdover judgments allow the request immediately. The statute states the waiting period as 7 days, so a landlord or tenant working from the text of § 8-401(f) should compare it with the court's current instructions.</p><p>There is also an expiry date. In a nonpayment case the landlord must order the warrant within 60 days of the later of the judgment or the end of any stay, or the possession judgment is stricken. The same happens if a warrant is ordered and nothing is done within 60 days. A stricken judgment can still count toward the number of judgments that eliminates redemption rights.</p><p>Once the warrant is in hand, the landlord must send the final notice at least 6 days ahead. If the sheriff has doubts about that notice, or the tenant may have redeemed, the sheriff must tell the District Court and wait for a further order.</p>"
+  },
+  {
+   "h2": "What happens on eviction day in Maryland?",
+   "html": "<p>A sheriff or constable has to be present, and the law keeps the process orderly. The Maryland Courts page gives these ground rules:</p><ul><li>No evictions on Sundays or holidays.</li><li>The landlord is not required to tell the tenant the exact day in advance, beyond the 6-day window notice.</li><li>Once belongings are removed, the tenant is responsible for them.</li><li>The sheriff checks for dogs or cats. If the tenant is present the animal is handed over, and if not, the sheriff provides shelter or rescue contact information.</li><li>Baltimore City has extra notice and property-removal rules.</li></ul><p>Weather can postpone the day. For residential property, the warrant is stayed day to day during extreme weather, including temperatures of 32 degrees Fahrenheit or lower and certain National Weather Service winter, hurricane, tropical storm or excessive heat warnings. After conditions end, the eviction has to be finished within 5 days. Federal employees furloughed during a shutdown may also qualify for a stay, generally no longer than 30 days past the shutdown's end.</p><p>If the tenant is not home, the officer posts a notice on the front door stating that repossession is complete. A tenant who proves the landlord broke the notice rules can recover actual damages, attorney's fees and injunctive relief.</p>"
+  },
+  {
+   "h2": "What help exists for tenants, and why does it matter to an owner who wants to sell?",
+   "html": "<p>Tenants with household income at or below 50 percent of the state median may qualify for a free lawyer through the Access to Counsel in Evictions program, reached by calling 211. The Maryland Court Help Center takes calls at 410-260-1392, Monday through Friday, 8:30 a.m. to 8 p.m.</p><p>For an owner, free counsel for tenants can add steps and time. That is a reason many owners of a one-to-three-unit rental look at a direct sale rather than waiting out a contested case. The sale is still bound by tenant protections. Before listing a house with three or fewer units, an owner generally has to give a tenant of at least six months a written chance to offer, under § 8-119, with exceptions for foreclosure transfers, estate fiduciaries, inheritance and family sales.</p><p>A landlord also cannot force the issue. Section 8-216 bars lockouts and utility shutoffs, and the only lawful ways to regain possession are a court warrant carried out by a sheriff or constable or an abandonment or surrender by the tenant.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a Maryland eviction take?",
+   "a": "The statutes set short steps rather than one total. A rent trial is set for the fifth day after filing, possession is due within 4 days after trial, the warrant request follows, and the landlord gives at least 6 days written notice before the sheriff acts. Postponements, appeals and weather stays add time."
+  },
+  {
+   "q": "Can a tenant pay and stay after a judgment?",
+   "a": "Usually yes. A tenant can redeem by paying all past-due rent plus court-awarded costs and fees before the eviction is carried out. A landlord can ask the court to deny redemption after three possession judgments in 12 months (four in Baltimore City)."
+  },
+  {
+   "q": "Which court handles evictions in Maryland?",
+   "a": "The District Court in the county where the property is located. Circuit courts handle foreclosure cases and appeals from District Court landlord-tenant judgments."
+  },
+  {
+   "q": "Does the sheriff have to be there for an eviction?",
+   "a": "Yes. A sheriff or constable carries out the warrant of restitution, and evictions are not allowed on Sundays or holidays."
+  },
+  {
+   "q": "Can a landlord sell a rented house while an eviction case is pending?",
+   "a": "Yes, but tenant protections still apply. For a rental of three or fewer units, a tenant of six months or more generally gets a written chance to make an offer before the owner lists the property."
+  },
+  {
+   "q": "Is there free legal help for Maryland tenants facing eviction?",
+   "a": "Yes. The Access to Counsel in Evictions program offers free lawyers to tenants at or below 50 percent of the state median income. Call 211, or reach the Maryland Court Help Center at 410-260-1392."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maryland Courts: Housing Cases",
+   "url": "https://www.mdcourts.gov/legalhelp/housing"
+  },
+  {
+   "title": "Maryland General Assembly: Real Property § 8-401",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/8-401.pdf"
+  },
+  {
+   "title": "Maryland General Assembly: Real Property § 8-402",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/8-402.pdf"
+  },
+  {
+   "title": "Maryland General Assembly: Real Property § 8-402.1",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/8-402.1.pdf"
+  },
+  {
+   "title": "Maryland General Assembly: Real Property § 8-407",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/8-407.pdf"
+  },
+  {
+   "title": "Maryland General Assembly: Real Property § 8-216",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/8-216.pdf"
+  },
+  {
+   "title": "Maryland General Assembly: Real Property § 8-119",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/8-119.pdf"
+  },
+  {
+   "title": "Maryland DHCD: Tenant Bill of Rights",
+   "url": "https://dhcd.maryland.gov/Tenant-Landlord-Affairs/Documents/Tenant-Bill-of-Rights-V2.pdf"
+  }
+ ]
+}
