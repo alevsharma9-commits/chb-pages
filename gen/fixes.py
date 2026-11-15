@@ -1,7 +1,8 @@
 # Remove old lines that newer sourced sections contradict. (slug, substring that identifies the <p>/<li> to drop)
 import json,glob,re
 FIX=[('iowa-capital-gains-tax','requires holding at least 10 years'),
-     ('arkansas-estate-tax','2013')]
+     ('arkansas-estate-tax','2013'),
+     ('oregon-homestead-exemption','up to $150,000')]
 n=0
 for f in glob.glob('pages/*/*.json'):
     items=json.load(open(f));ch=False
