@@ -42,6 +42,12 @@
   },
   {
    "file": "pages/ny/new-york-county-ptax-1.json"
+  },
+  {
+   "file": "pages/fl/florida-directory-1.json"
+  },
+  {
+   "file": "pages/ny/new-york-directory-1.json"
   }
  ]
 }
