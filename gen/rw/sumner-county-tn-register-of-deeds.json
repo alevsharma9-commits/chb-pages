@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Where is the Sumner County Register of Deeds?",
-   "html": "<p>The office is at 355 N. Belvedere Drive, Suite 201, Gallatin, TN 37066. Call 615-452-3892 or fax 615-442-1105. Counter hours are 8:00 a.m. to 4:30 p.m., Monday through Friday. The register is an elected officer with a four-year term, and the staff is eight people plus the register.</p>\n<p>The same building houses the Assessor of Property in Room 206 and the Trustee in Room 107, which makes it easy to check a parcel's value and tax status on the way to or from the recording counter.</p>\n<p>The register's <a href=\"https://sumnercountytn.gov/departments/register-of-deeds\">county page</a> says the office records more than 30,000 legal documents in a typical fiscal year and handles over eighty types of instrument under the recording statutes.</p>"
+   "html": "<p>The office is at 355 N. Belvedere Drive, Suite 201, Gallatin, TN 37066. Call 615-452-3892 or fax 615-442-1105. The counter is staffed Monday through Friday, opening at 8:00 and closing at 4:30. The register is an elected officer with a four-year term, and the staff is eight people plus the register.</p>\n<p>The same building houses the Assessor of Property in Room 206 and the Trustee in Room 107, which makes it easy to check a parcel's value and tax status on the way to or from the recording counter.</p>\n<p>The register's <a href=\"https://sumnercountytn.gov/departments/register-of-deeds\">county page</a> says the office records more than 30,000 legal documents in a typical fiscal year and handles over eighty types of instrument under the recording statutes.</p>"
   },
   {
    "h2": "What is it like to sell a house in Sumner County?",
@@ -26,8 +26,12 @@
    "html": "<p>A recorded deed has to carry the details Tennessee Code requires, and the Shelby County register's published list shows the usual set. Typical items include:</p>\n<ul>\n<li>Grantor and grantee names and a legal description</li>\n<li>A derivation clause naming the prior recorded deed</li>\n<li>Owner and tax-payer name and address, plus the preparer's name and address</li>\n<li>The parcel number and, if taxable, a sworn statement of value</li>\n<li>A notarized acknowledgment of the signature</li>\n</ul>\n<p>The register does not draft documents or give legal advice, and a deed missing an item can be turned away. A closing attorney or title company usually checks this list.</p>"
   },
   {
+   "h2": "What should I bring to the Sumner County recording counter?",
+   "html": "<p>Arrive with the original deed, signed and notarized, and the payment that covers both recording and any state tax. If a lender is involved, the title company usually sends the deed of trust at the same time. Write down the parcel number from the assessor's records, the prior deed's recording reference and the mailing address for the tax bill, since the deed needs all three.</p>\n<p>After recording, the register's staff scan the document into the database, and it can be viewed online. Keep the recorded copy with your closing papers, because lenders and buyers later ask for the instrument number.</p>"
+  },
+  {
    "h2": "Does it matter which part of a Sumner County city the house is in?",
-   "html": "<p>It can. Goodlettsville lies partly in Davidson County, and Millersville, Portland and White House each reach into Robertson County. A mailing address with a Sumner city name does not prove the parcel is inside Sumner County. Confirm the county on the Assessor's property search or the deed's parcel number before choosing a register's office, and ask the title company which county will receive the filing.</p>\n<p>Gallatin, the county seat, is where the courthouse offices sit. Early military history left marks on its streets: the Union commander Eleazer A. Paine ran his garrison from Gallatin during the Civil War, and houses from that era still stand.</p>"
+   "html": "<p>It can. Goodlettsville lies partly in Davidson County, and Millersville, Portland and White House each reach into Robertson County. A mailing address with a Sumner city name does not prove the parcel is inside Sumner County. Confirm the county on the Assessor's property search or the deed's parcel number before choosing a register's office, and ask the title company which county will receive the filing.</p>\n<p>Gallatin grew near Asher's Station, a fort Captain William Asher built along Station Camp Creek in the early 1780s. Today the county seat holds the offices a seller visits to record, value and pay tax on a house.</p>"
   },
   {
    "h2": "How does Sumner County compare with other Tennessee counties for sellers?",
@@ -41,7 +45,7 @@
  "faqs": [
   {
    "q": "What are the Sumner County Register of Deeds hours?",
-   "a": "Monday through Friday, 8:00 a.m. to 4:30 p.m., at 355 N. Belvedere Drive, Suite 201, Gallatin. The phone number is 615-452-3892."
+   "a": "The counter opens at 8:00 and closes at 4:30 on weekdays, at 355 N. Belvedere Drive, Suite 201, Gallatin. Call 615-452-3892."
   },
   {
    "q": "Does Sumner County offer e-recording?",
