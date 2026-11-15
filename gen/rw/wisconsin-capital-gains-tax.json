@@ -1,0 +1,81 @@
+{
+ "slug": "wisconsin-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Wisconsin have its own capital gains tax on a house sale?",
+   "html": "<p>Wisconsin taxes a gain on a house inside its regular individual income tax, and it lets you subtract 30 percent of a net long-term gain. The Department of Revenue's <a href=\"https://www.revenue.wi.gov/DOR%20Publications/pb103.pdf\">Publication 103</a> explains that the amount of capital gain in Wisconsin income can differ from the federal amount, because Wisconsin allows a deduction for 30 percent of the net capital gain from assets held more than one year.</p><p>That means a Wisconsin house seller deals with two layers. The federal layer decides how much of the gain is taxable at all, including the home sale exclusion. The Wisconsin layer starts from federal adjusted gross income and then applies its own adjustments, including the 30 percent subtraction.</p>"
+  },
+  {
+   "h2": "How much of a Wisconsin home sale gain is taxed?",
+   "html": "<p>For a house held more than one year, Wisconsin taxes 70 percent of the net long-term gain that is left after the federal rules. The deduction is 30 percent of net capital gain from assets held more than a year, and 60 percent for farm assets held more than a year. Publication 103 counts an asset as long-term when you owned it for more than one year, and short-term when you owned it for one year or less.</p><p>Take a seller whose taxable gain, after the federal home exclusion, is $100,000 on a house owned for ten years. The Wisconsin subtraction is $30,000, so $70,000 of that gain stays in Wisconsin taxable income, where it is taxed at the seller's marginal Wisconsin rate. The same gain on a house owned for 11 months is short-term and gets no subtraction.</p><p>The 60 percent rate is written for farm assets. A seller of an ordinary residence should plan on the 30 percent figure, and a seller who thinks the farm rate applies should read the Schedule WD instructions or ask the Department of Revenue.</p>"
+  },
+  {
+   "h2": "Does the federal home sale exclusion apply in Wisconsin?",
+   "html": "<p>The federal exclusion shields up to $250,000 of gain on a main home, or $500,000 on a joint return, and Wisconsin income starts from federal adjusted gross income, so a gain the exclusion removes never enters the Wisconsin calculation. The IRS <a href=\"https://www.irs.gov/taxtopics/tc701\">Topic 701</a> gives the tests.</p><ul><li>Ownership test: you owned the home for at least 24 months out of the 5 years before the sale.</li><li>Use test: you used it as your residence for at least 24 months of those 5 years. The two periods need not be the same 24 months.</li><li>On a joint return, either spouse may meet the ownership test but both must meet the use test.</li><li>You generally cannot use the exclusion if you excluded the gain on another home during the two years before this sale.</li></ul><p>If you receive a Form 1099-S for the sale you must report it even if the whole gain is excludable, and you must report the sale if you cannot exclude all of the gain. Gain that remains is reported on federal Form 8949 and Schedule D. The exclusion is for a main home, so a rental house or a house you never lived in has to be tested against the same two rules.</p>"
+  },
+  {
+   "h2": "What are the Wisconsin income tax rates on that gain?",
+   "html": "<p>Wisconsin has four rates for 2025, from 3.5 percent to 7.65 percent, and a taxable gain is stacked on top of the seller's other income. The Department of Revenue's fall 2025 tax update lists the following 2025 brackets, which reflect 2025 Wisconsin Act 15.</p><table><thead><tr><th>Rate</th><th>Single, head of household</th><th>Married filing jointly</th></tr></thead><tbody><tr><td>3.50%</td><td>$0 to $14,679</td><td>$0 to $19,579</td></tr><tr><td>4.40%</td><td>$14,680 to $50,479</td><td>$19,580 to $67,299</td></tr><tr><td>5.30%</td><td>$50,480 to $323,289</td><td>$67,300 to $431,059</td></tr><tr><td>7.65%</td><td>$323,290 and up</td><td>$431,060 and up</td></tr></tbody></table><p>Source: <a href=\"https://www.revenue.wi.gov/Documents/2025-Tax-Update-Three-Slides.pdf\">Wisconsin Department of Revenue, Wisconsin Tax Update, Fall 2025</a>.</p><p>A large gain can push a seller into a higher bracket in the year of the sale. The 70 percent figure left after the subtraction is what gets taxed at these rates. Brackets change with inflation and legislation, so use the table for the tax year in which you close.</p>"
+  },
+  {
+   "h2": "How do you report a house sale on a Wisconsin return?",
+   "html": "<p>Individuals report the gain on Wisconsin Schedule WD, and the result flows to Schedule AD or Schedule SB of Form 1. Publication 103 says any adjustment from Schedule WD is entered on line 2 of Schedule AD, which is an addition, or line 5 of Schedule SB, which is a subtraction. The 30 percent deduction on a long-term gain ends up on Schedule SB.</p><ul><li>Residents file Form 1 with Schedule WD.</li><li>Nonresidents and part-year residents use Form 1NPR, and the publication points them to the Form 1NPR instructions.</li><li>A mutual fund or REIT capital gain distribution alone does not need Schedule WD on Form 1, though Form 1NPR filers still complete it.</li></ul><p>The publication available today is written for 2025 returns. A house that closes in 2026 is reported on the 2026 return, so check the edition and the forms for that year before you file.</p>"
+  },
+  {
+   "h2": "What if the house sells at a loss?",
+   "html": "<p>A loss on a home you lived in is not deductible. The IRS says losses from the sale of personal-use property, such as a home or car, are not tax deductible. A loss on a rental house or other investment property can offset gains.</p><p>Wisconsin follows the same ceiling as federal law for capital losses. Beginning with tax year 2023, if losses exceed gains, up to $3,000 of the excess ($1,500 if married filing separately) may be deducted against other income, and the rest carries forward with no time limit. A Wisconsin carryover can differ from the federal one, so the Schedule WD figure can differ from the number on your federal return.</p>"
+  },
+  {
+   "h2": "How is an inherited house taxed in Wisconsin?",
+   "html": "<p>Gain on an inherited house is measured from the owner's basis, and the IRS directs readers to Publication 551 for the basis of inherited or gifted property. Topic 409 also notes that property acquired from a decedent is one of the exceptions to the usual rule for deciding whether a gain is long-term, with details in Publication 544.</p><p>Publication 103 flags one Wisconsin difference. Land acquired by inheritance and valued differently for Wisconsin inheritance tax and federal estate tax purposes can carry a different basis, but this applies only to deaths before January 1, 1992. For recent inheritances the difference does not arise.</p>"
+  },
+  {
+   "h2": "Do the federal capital gains rates still matter to a Wisconsin seller?",
+   "html": "<p>Yes, because the federal bill is usually the larger one. For 2025 the IRS puts most net capital gain at no more than 15 percent, with the following thresholds for taxable income:</p><ul><li>0 percent rate: up to $48,350 for single filers and $96,700 for married filing jointly.</li><li>15 percent rate: above those amounts up to $533,400 for single filers and $600,050 for married filing jointly.</li><li>20 percent rate: above the 15 percent thresholds.</li></ul><p>Short-term gain is taxed as ordinary income. The unrecaptured section 1250 gain on real property, which can arise on a rental house after depreciation, is taxed at a maximum of 25 percent. High earners may also owe the net investment income tax, which the IRS explains in Topic 559. The IRS <a href=\"https://www.irs.gov/taxtopics/tc409\">Topic 409</a> adds that a large gain can require estimated tax payments.</p>"
+  },
+  {
+   "h2": "Can a Wisconsin seller defer the gain?",
+   "html": "<p>Wisconsin has a deferral that federal law lacks, but it applies to investing in a qualified Wisconsin business, not to buying another house. A taxpayer may defer tax on a long-term gain if the gain is invested in a qualified Wisconsin business within 180 days, using Schedule CG, and the basis in the new investment drops by the deferred gain. Long-term gain on such an investment held at least five uninterrupted years can qualify for exclusion from Wisconsin income.</p><p>An installment sale is a different tool. The federal default is to report gain as payments arrive, and Publication 103 says a Wisconsin election can differ from the federal one. A seller carrying a note for a buyer should plan the reporting with a tax professional before signing the contract.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Wisconsin tax capital gains on the sale of a home?",
+   "a": "Yes, as part of income. Wisconsin lets you subtract 30 percent of net long-term capital gain, and a federal home sale exclusion of up to $250,000 ($500,000 on a joint return) can remove the gain before Wisconsin sees it."
+  },
+  {
+   "q": "What is the Wisconsin capital gains deduction?",
+   "a": "It is 30 percent of net capital gain from assets held more than one year. Farm assets held more than a year get 60 percent. Schedule WD computes it."
+  },
+  {
+   "q": "What are the Wisconsin income tax rates for 2025?",
+   "a": "They are 3.5, 4.4, 5.3 and 7.65 percent. For a single filer the 5.3 percent bracket runs from $50,480 to $323,289, and 7.65 percent applies above $323,289."
+  },
+  {
+   "q": "Can I deduct a loss on a home I lived in?",
+   "a": "No. The IRS says losses on personal-use property such as a home are not deductible. A loss on a rental or investment house can offset capital gains, plus up to $3,000 of other income per year in Wisconsin."
+  },
+  {
+   "q": "Where do I report the sale on my Wisconsin return?",
+   "a": "On Schedule WD, which feeds line 2 of Schedule AD or line 5 of Schedule SB of Form 1. Nonresidents and part-year residents use Form 1NPR."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wisconsin Department of Revenue: Publication 103, Reporting Capital Gains and Losses (Jan 2026)",
+   "url": "https://www.revenue.wi.gov/DOR%20Publications/pb103.pdf"
+  },
+  {
+   "title": "Wisconsin Department of Revenue: Wisconsin Tax Update, Fall 2025",
+   "url": "https://www.revenue.wi.gov/Documents/2025-Tax-Update-Three-Slides.pdf"
+  },
+  {
+   "title": "IRS Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic no. 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  }
+ ]
+}
