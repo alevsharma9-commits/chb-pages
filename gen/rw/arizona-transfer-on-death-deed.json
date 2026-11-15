@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What is an Arizona beneficiary deed?",
-   "html": "<p>Arizona calls its transfer on death deed a beneficiary deed, and it passes real property to a named person when the owner dies. <a href=\"https://www.azleg.gov/ars/33/00405.htm\">A.R.S. 33-405</a> says a deed that names a grantee beneficiary and expressly states it is effective on the owner's death transfers the interest at death, subject to every mortgage, lien and encumbrance the owner created or was subject to during life.</p><p>Owners use it to skip probate for a house. It does not change who owns the home today. You keep full control while alive, which includes the right to sell it.</p>"
+   "html": "<p>Arizona calls its transfer on death deed a beneficiary deed, and it passes real property to a named person when the owner dies. <a href=\"https://www.azleg.gov/ars/33/00405.htm\">A.R.S. 33-405</a> says a deed that names a grantee beneficiary and expressly states it is effective on the owner's death transfers the interest at death, subject to every mortgage, lien and encumbrance the owner created or was subject to during life.</p><p>It names who receives the house at death. It does not change who owns the home today, and an owner who signs one remains free to sell, borrow against or live in the property.</p>"
   },
   {
    "h2": "How do you make an Arizona beneficiary deed valid?",
@@ -11,15 +11,23 @@
   },
   {
    "h2": "Can the owner change their mind or sell afterward?",
-   "html": "<p>Yes. The owner can revoke the deed at any time by recording a revocation before death, and no grantee has to sign or consent. Subsection I states that the signature, consent or notice to a grantee beneficiary is not required for any purpose during the owner's life.</p><p>Two more rules help a selling owner:</p><ul><li>If more than one beneficiary deed is recorded for the same property, the last one recorded before death is the effective one (subsection G).</li><li>A later will does not revoke a recorded beneficiary deed (subsection J).</li></ul><p>An owner who sells during life conveys by ordinary deed. The beneficiary deed then has nothing left to transfer. Revoking first and recording the revocation keeps the record clean, and it is worth asking the title company whether it wants that done."
+   "html": "<p>Yes. The owner can revoke the deed at any time by recording a revocation before death, and no grantee has to sign or consent. Subsection I states that the signature, consent or notice to a grantee beneficiary is not required for any purpose during the owner's life.</p><p>Two more rules help a selling owner:</p><ul><li>If more than one beneficiary deed is recorded for the same property, the last one recorded before death is the effective one (subsection G).</li><li>A later will does not revoke a recorded beneficiary deed (subsection J).</li></ul><p>A sale made during life is one of the conveyances the beneficiary deed is subject to under subsection A. Whether a title company also wants a recorded revocation first is a question for that company.</p>"
   },
   {
    "h2": "Does a beneficiary deed clear mortgages and tax liens?",
-   "html": "<p>No. The transfer is subject to all conveyances, mortgages, deeds of trust, liens and other encumbrances. A beneficiary who receives the house receives the loan and any lien attached to it.</p><p>That has a practical effect on selling. A beneficiary who wants to sell must pay off a mortgage, unpaid property tax and other liens from the proceeds. If the house has a delinquent tax lien, the statutes covered on our Arizona tax lien and tax sale pages apply to the new owner just as they did to the old one."
+   "html": "<p>No. The transfer is subject to all conveyances, mortgages, deeds of trust, liens and other encumbrances. A beneficiary who receives the house receives the loan and any lien attached to it.</p><p>That has a practical effect on selling. A beneficiary who wants to sell must pay off a mortgage, unpaid property tax and other liens from the proceeds. If the house has a delinquent tax lien, the statutes covered on our Arizona tax lien and tax sale pages apply to the new owner just as they did to the old one.</p>"
   },
   {
    "h2": "What does it cost to record a beneficiary deed in Arizona?",
-   "html": "<p>The statutory recording fee is $30 per instrument under <a href=\"https://www.azleg.gov/ars/11/00475.htm\">A.R.S. 11-475</a>, and Cochise County lists the same flat fee on its recorder page. There is no extra affidavit charge for most beneficiary deeds.</p><p>The affidavit of property value and its fee are normally appended to deeds. <a href=\"https://www.azleg.gov/ars/11/01134.htm\">Section 11-1134(B)(12)</a> exempts a transfer made under a beneficiary deed with only nominal actual consideration, and <a href=\"https://www.azleg.gov/ars/11/01133.htm\">section 11-1133</a> requires the exemption to be noted on the face of the instrument at recording. The recorder refuses a deed that has neither a complete affidavit nor an exemption notation.</p><table><thead><tr><th>Item</th><th>What the statute says</th></tr></thead><tbody><tr><td>Recording fee</td><td>$30 per instrument (11-475)</td></tr><tr><td>Affidavit of property value</td><td>Exempt for a nominal-consideration beneficiary deed (11-1134(B)(12))</td></tr><tr><td>Exemption note</td><td>Must appear on the face of the instrument (11-1134(C))</td></tr><tr><td>Recorded before death</td><td>Required for validity (33-405(E))</td></tr></tbody></table>"
+   "html": "<p>The statutory recording fee is $30 per instrument under <a href=\"https://www.azleg.gov/ars/11/00475.htm\">A.R.S. 11-475</a>, and Cochise County lists the same flat fee on its recorder page.</p><p>The affidavit of property value and its fee are normally appended to deeds. <a href=\"https://www.azleg.gov/ars/11/01134.htm\">Section 11-1134(B)(12)</a> exempts a transfer made under a beneficiary deed with only nominal actual consideration, and <a href=\"https://www.azleg.gov/ars/11/01133.htm\">section 11-1133</a> requires the exemption to be noted on the face of the instrument at recording. The recorder refuses a deed that has neither a complete affidavit nor an exemption notation.</p><table><thead><tr><th>Item</th><th>What the statute says</th></tr></thead><tbody><tr><td>Recording fee</td><td>$30 per instrument (11-475)</td></tr><tr><td>Affidavit of property value</td><td>Exempt for a nominal-consideration beneficiary deed (11-1134(B)(12))</td></tr><tr><td>Exemption note</td><td>Must appear on the face of the instrument (11-1134(C))</td></tr><tr><td>Recorded before death</td><td>Required for validity (33-405(E))</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How do joint owners and several beneficiaries change the picture?",
+   "html": "<p>Joint ownership changes who controls the outcome. When owners hold as joint tenants with right of survivorship or as community property with right of survivorship, a beneficiary deed signed by all surviving owners takes effect at the death of the last survivor (subsection D).</p><p>If fewer than all owners sign, the deed is valid only when the last surviving owner is one of the signers. If the last survivor did not sign, the transfer lapses and the deed is void. A surviving joint tenant or spouse keeps rights that prevail over the named grantee beneficiary.</p><p>With several beneficiaries, subsection B says that unless the deed provides otherwise, what each takes is that person's separate property and not community property. A house with three beneficiaries can therefore need three signatures at a sale, which affects how quickly a buyer can close.</p>"
+  },
+  {
+   "h2": "What does the statutory form say?",
+   "html": "<p>The form in subsection K is short. It reads, in substance, that the owner conveys the described property to the grantee beneficiary effective on the owner's death, followed by the legal description and a choice about a beneficiary who dies first.</p><p>A separate revocation form appears in subsection L. It identifies the recorded deed by recording date and by docket, book, page or instrument number, and by county. The statute says a deed is sufficient if it complies with other applicable laws and substantially follows the form, so a recorder or title company will still look at the acknowledgment and the legal description.</p>"
   },
   {
    "h2": "What if the owner dies without a beneficiary deed?",
@@ -27,7 +35,7 @@
   },
   {
    "h2": "How does a beneficiary deed affect a cash sale after death?",
-   "html": "<p>The beneficiary becomes owner at the moment of death, so a sale can start without waiting for probate. Title then depends on the deed having been recorded before death and on no later revocation or later deed existing.</p><p>Before listing or signing a contract, a beneficiary should work through these questions with a title company or attorney:</p><ul><li>Is the recorded deed the last one on file for this property, and was it recorded before the date of death?</li><li>Did any named beneficiary die first, and what does the deed say about that case?</li><li>What mortgage balance and unpaid taxes sit on the house today?</li><li>Are there several beneficiaries who must all sign the sale?</li></ul><p>A buyer paying cash for an as-is house can take on repairs, clean-out and a tenant, which is a common situation for an inherited property."
+   "html": "<p>The deed transfers the interest effective on the owner's death, so the beneficiary's title comes from the recorded deed. That title depends on the deed having been recorded before death and on no later revocation or later deed existing.</p><p>Before listing or signing a contract, a beneficiary should work through these questions with a title company or attorney:</p><ul><li>Is the recorded deed the last one on file for this property, and was it recorded before the date of death?</li><li>Did any named beneficiary die first, and what does the deed say about that case?</li><li>What mortgage balance and unpaid taxes sit on the house today?</li><li>Are there several beneficiaries who must all sign the sale?</li></ul><p>A buyer paying cash for an as-is house can take on repairs, clean-out and a tenant, which is a common situation for an inherited property.</p>"
   }
  ],
  "faqs": [
@@ -50,6 +58,10 @@
   {
    "q": "Does a will cancel a beneficiary deed?",
    "a": "No. A beneficiary deed that is executed, acknowledged and recorded as the statute requires is not revoked by a later will."
+  },
+  {
+   "q": "What if only some of the joint owners sign?",
+   "a": "The deed is valid only if the last surviving owner is one of the signers. If the last survivor did not sign, the transfer lapses and the deed is void."
   },
   {
    "q": "Does the beneficiary inherit the mortgage too?",
