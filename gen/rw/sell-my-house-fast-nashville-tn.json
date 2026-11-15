@@ -1,77 +1,117 @@
 {
-  "slug": "sell-my-house-fast-nashville-tn",
-  "sections": [
-    {
-      "h2": "What makes selling a house in Nashville different from other Tennessee cities?",
-      "html": "<p>Nashville and Davidson County share one government, so a house sale touches a single set of offices: the Assessor of Property, the Metropolitan Trustee and the Register of Deeds. Three small cities, Belle Meade, Ridgetop and Goodlettsville, bill their own city tax, and everything else in the county is billed by the Trustee. The county seat sits on the Cumberland River in the Nashville Basin, and the ground rises into the Highland Rim on the west side of town. The city is very hilly, so expect sloped lots.</p><p>The Census Bureau counts 721,074 people in the Nashville-Davidson balance as of July 1, 2025, up 4.6% from the April 2020 base. Only 52.4% of housing units are owner-occupied, so a large share of sellers here are investors, landlords and heirs rather than long-term residents. Use the table below to see which office handles which part of a sale.</p><table><thead><tr><th>Office</th><th>What a seller needs from it</th><th>Where and when</th></tr></thead><tbody><tr><td>Register of Deeds</td><td>Records the deed and collects the state recording tax</td><td>300 Deaderick St, Monday to Friday, 8:00 a.m. to 4:30 p.m.</td></tr><tr><td>Metropolitan Trustee</td><td>Bills and collects property tax</td><td>700 President Ronald Reagan Way, Suite 220, 8:00 a.m. to 4:30 p.m.</td></tr><tr><td>Assessor of Property</td><td>Sets the appraised value and hears informal reviews</td><td>615-862-6080 for assessment questions</td></tr><tr><td>Codes Administration</td><td>Issues short term rental permits</td><td>Applications run through the Metro Codes site</td></tr></tbody></table><p>Sources for the table: the <a href=\"https://www.nashville.gov/departments/register-deeds/recording-service/fee-calculator\">Register of Deeds</a> and the <a href=\"https://nashville.gov/departments/trustee/general-property-tax-questions\">Trustee's property tax FAQ</a>.</p>"
-    },
-    {
-      "h2": "What do Census figures say about Nashville homeowners?",
-      "html": "<p>The median value of an owner-occupied home in the Nashville-Davidson balance is $413,600 for 2020 to 2024, and median gross rent is $1,586. The city holds 313,513 households with an average of 2.13 people each, which points to many one and two person homes. About 80.7% of residents lived in the same house a year earlier, so churn is lower than the headline growth suggests.</p><ul><li>Bachelor's degree or higher: 48.0% of adults age 25 and over</li><li>Mean travel time to work: 24.7 minutes</li><li>Median household income: $77,371 in 2024 dollars</li><li>Persons in poverty: 14.1%</li></ul><p>These numbers come from <a href=\"https://www.census.gov/quickfacts/fact/table/nashvilledavidsonmetropolitangovernmentbalancetennessee/PST045224\">Census QuickFacts</a>. They describe the city as a whole, so a single street or condo building can look very different.</p>"
-    },
-    {
-      "h2": "How did the 2025 reappraisal change Nashville tax bills?",
-      "html": "<p>The Assessor mailed new values on April 18, 2025, and the countywide median increase was 45%. Council district medians ranged from 38% to 54%. The Assessor says the reappraisal was revenue neutral by law, but Metro then raised the rate to $2.814 per $100 of assessed value in the Urban Services District and $2.782 in the General Services District, increases of 26% and 39% over the certified rates. Owners can appeal a value, but they cannot appeal the rate.</p><p>A house appraised at $100,000 is assessed at 25%, or $25,000, so the Trustee's own example works out to $703.50 in the Urban Services District and $695.50 in the General Services District. Scale that to a Nashville house at the Census median value of $413,600 and the same arithmetic gives roughly $2,909 and $2,876 a year. The informal review deadline for 2025 was May 9 and the formal appeal deadline was June 27, so both have passed. Ask the Assessor at 615-862-6059 how to challenge a value in a later year.</p>"
-    },
-    {
-      "h2": "When are Nashville property taxes due, and who pays at closing?",
-      "html": "<p>Metro tax statements go out the first week of October. Taxes are due on the first Monday of October and can be paid without interest through the last day of February. From March 1, interest of 1.5% a month is added to the base tax. Partial payments are accepted, and a card payment carries a 2.55% fee with a $2.00 minimum.</p><p>The Trustee notes that the October bill covers the current calendar year and goes to the owner of record. New owners should check the closing statement to see who covers which months, because unpaid tax stays attached to the property. If you sell in the fall, ask the title company to confirm whether the current year's bill has been paid or prorated.</p><ul><li>Tax bills are not required to be mailed, so a missed bill does not excuse interest.</li><li>Mail payments are dated by postmark, and office meter dates do not count.</li><li>Delinquent parcels can end up in a tax sale, with a one year right to redeem.</li></ul>"
-    },
-    {
-      "h2": "Is there property tax relief for an older or disabled Nashville owner?",
-      "html": "<p>Davidson County runs both tax relief and a tax freeze. For tax year 2026 the Comptroller lists the freeze income limit for Davidson County at $54,900, and the Trustee says an applicant must turn 65 by December 31 of the tax year. Disabled veterans with a 100% rating have no income limit, and relief applies to the first $175,000 of market value.</p><p>If you are selling a home that carries one of these programs, tell your buyer or title company early. Both programs turn on the owner's age, residence and income. Ask the Trustee at 615-862-6330 which paperwork to bring.</p>"
-    },
-    {
-      "h2": "What happens at the Davidson County Register of Deeds when a house sells?",
-      "html": "<p>The deed is recorded at 300 Deaderick Street, and the office also offers remote filing and a fee calculator. State law puts a recording tax of $0.37 per $100 of price on the transfer. The office needs original, signed and notarized documents, and it cannot draft a deed for you or run a lien search, so those jobs go to an attorney or title company.</p><p>Ownership records here are searchable online by subscription, and the Register can tell you when a document was recorded and its reference number. You can get a copy of your own deed from the office at any time. For a quick sale, ask your buyer's title company to schedule recording the same day as closing so the new deed is indexed right away.</p>"
-    },
-    {
-      "h2": "How do short term rental permits affect a Nashville sale?",
-      "html": "<p>A permit for a short term rental belongs to one owner and one address. Metro Codes says it cannot be transferred, and any change in ownership cancels it, including a move from a person to a trust or an LLC. So a buyer who wants to keep renting by the night must apply fresh instead of inheriting yours.</p><ul><li>Permits expire 365 days after issue unless renewed.</li><li>Occupancy is capped at twice the number of sleeping rooms plus four, with a maximum of 12.</li><li>The principal renter must be at least 21.</li><li>The permit holder collects and remits room, occupancy and sales taxes.</li></ul><p>If your house has an active permit, mention it in the listing or offer so the buyer knows it ends at closing. See the <a href=\"https://nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements\">Metro Codes operating rules</a>.</p>"
-    },
-    {
-      "h2": "How old is Nashville, and does it matter to a seller?",
-      "html": "<p>Nashville grew from Fort Nashborough, built in 1779 on the Cumberland River. It was incorporated as a city in 1806, became the permanent state capital in 1843, and merged with Davidson County in 1963. Metro Nashville Public Schools lists 160 schools, and its history page notes that the first unified school board met on July 1, 1964.</p><p>That mix of old and new neighborhoods means houses range widely in age. Older homes often need a pre-sale look at roofs, foundations and wiring, and the Assessor's records can show you the year built and the square footage on file. Compare those details with what you know before you accept any price.</p>"
-    },
-    {
-      "h2": "What are the ways to sell a house quickly in Nashville?",
-      "html": "<p>You can list with an agent, sell it yourself, or take a cash offer from a buyer who purchases as-is. Listing usually brings the widest pool of buyers but adds showings and repair requests. A cash buyer removes most of that, and closing can follow the title work rather than a lender's schedule.</p><p>Whichever route you choose, ask for the offer in writing, confirm who pays the recording tax and any back taxes, and have a title company handle the deed. If the house has liens, a tax bill in arrears or an expired short term rental permit, resolve those at closing so they do not follow you.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Do I owe a Nashville tax bill if I sell in the fall?",
-      "a": "Usually yes for the part of the year you owned the house. The October bill covers the full calendar year and goes to the owner of record, so the closing statement should prorate it between you and the buyer."
-    },
-    {
-      "q": "Can I appeal the Nashville tax rate?",
-      "a": "No. The Assessor says an owner can appeal a property value, but the rate is set by the Mayor and Metro Council. For 2025 those rates were $2.814 in the Urban Services District and $2.782 in the General Services District per $100 of assessed value."
-    },
-    {
-      "q": "What does the Register of Deeds charge to record a Nashville deed?",
-      "a": "The state recording tax is $0.37 per $100 of price, plus a recording fee with a $10 minimum. Use the office's online fee calculator for a specific deed, since the total depends on page count and price."
-    },
-    {
-      "q": "Does my short term rental permit transfer to a buyer?",
-      "a": "No. Metro Codes states a permit cannot be assigned to another person, entity or address, and a change of ownership cancels it. The buyer has to apply on their own."
-    },
-    {
-      "q": "Where do I pay Davidson County property tax in person?",
-      "a": "The Trustee's office is in the Howard Office Building at 700 President Ronald Reagan Way, Suite 220, open Monday through Friday from 8:00 a.m. to 4:30 p.m. You can also pay online or by mail to PO Box 196358, Nashville, TN 37219-6358."
-    }
-  ],
-  "sources": [
-    {"title": "Census QuickFacts, Nashville-Davidson balance", "url": "https://www.census.gov/quickfacts/fact/table/nashvilledavidsonmetropolitangovernmentbalancetennessee/PST045224"},
-    {"title": "Davidson County Register of Deeds", "url": "https://www.nashville.gov/departments/register-deeds/recording-service/fee-calculator"},
-    {"title": "Register of Deeds FAQ", "url": "https://nashville.gov/departments/register-deeds/faq"},
-    {"title": "Metropolitan Trustee property tax questions", "url": "https://nashville.gov/departments/trustee/general-property-tax-questions"},
-    {"title": "Trustee: calculate property taxes", "url": "https://nashville.gov/departments/trustee/calculate-property-taxes"},
-    {"title": "Assessor: 2025 reappraisal values mailed", "url": "https://nashville.gov/departments/assessor/news/new-2025-reappraisal-property-values-were-mailed-today"},
-    {"title": "Assessor: reappraisal and tax rates briefing", "url": "https://nashville.gov/departments/assessor/news/assessor-wilhoite-meets-business-coalition-clarify-reappraisal-process-increased-property-tax-rates-and-address-concerns"},
-    {"title": "Metro Codes short term rental operating rules", "url": "https://nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements"},
-    {"title": "Tennessee Department of Revenue recordation tax rates", "url": "https://tn.gov/revenue/taxes/local-taxes/recordation-taxes/due-date-tax-rate.html"},
-    {"title": "Comptroller property tax freeze income limits 2026", "url": "https://comptroller.tn.gov/content/dam/cot/pa/documents/tax-freeze/TaxFreezeIncomeLimitsList2026.pdf"},
-    {"title": "Metro Nashville Public Schools about page", "url": "https://mnps.org/about"},
-    {"title": "Nashville, Tennessee (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Nashville,_Tennessee"}
-  ]
+ "slug": "sell-my-house-fast-nashville-tn",
+ "sections": [
+  {
+   "h2": "How does a house sale in Nashville work with one combined city and county government?",
+   "html": "<p>Nashville and Davidson County merged in 1963, so one Metro government handles the valuation, billing and recording steps of a sale. Belle Meade, Ridgetop and Goodlettsville are the exceptions: they levy a separate city tax. The city sits on the Cumberland River in the Nashville Basin, and the hills of the Highland Rim wrap around its western side, so sloped lots and retaining walls are part of many listings.</p><p>For July 1, 2025 the Census Bureau estimates 721,074 residents in the Nashville-Davidson balance, 4.6% above the April 2020 base. Just 52.4% of occupied units are lived in by their owners, which means plenty of sellers are landlords, heirs or people relocating for work. The table lists the Metro offices a seller is most likely to deal with.</p><table><thead><tr><th>Metro office</th><th>Its role in a sale</th><th>Contact detail</th></tr></thead><tbody><tr><td>Register of Deeds</td><td>Files the deed and collects state recording tax</td><td>300 Deaderick St, weekdays 8:00 a.m. to 4:30 p.m.</td></tr><tr><td>Trustee</td><td>Sends tax bills and takes payment</td><td>Howard Office Building, 700 President Ronald Reagan Way, Suite 220</td></tr><tr><td>Assessor of Property</td><td>Appraises each parcel</td><td>615-862-6080 for questions about a value</td></tr><tr><td>Codes Administration</td><td>Permits short term rentals</td><td>Applications and rules on nashville.gov</td></tr></tbody></table><p>Details for the table come from the <a href=\"https://www.nashville.gov/departments/register-deeds/recording-service/fee-calculator\">Register of Deeds</a> and the <a href=\"https://nashville.gov/departments/trustee/general-property-tax-questions\">Trustee's FAQ</a>.</p>"
+  },
+  {
+   "h2": "What does the Census say about homes and households in Nashville?",
+   "html": "<p>Census QuickFacts puts the typical owner-occupied home at $413,600 (2020 to 2024 figures) and median gross rent at $1,586 a month. Davidson County's balance holds 313,513 households averaging 2.13 people. Roughly four in five residents had stayed at the same address for the past year.</p><ul><li>Median household income: $77,371 in 2024 dollars</li><li>Adults with a bachelor's degree or higher: 48.0%</li><li>Average commute: 24.7 minutes each way</li><li>Share of people in poverty: 14.1%</li></ul><p>Treat these as citywide averages. A condo near downtown and a ranch house in Antioch can sit far apart from them, so ask for recent sales on your own street before you set a price. The figures come from <a href=\"https://www.census.gov/quickfacts/fact/table/nashvilledavidsonmetropolitangovernmentbalancetennessee/PST045224\">Census QuickFacts</a>.</p>"
+  },
+  {
+   "h2": "Why did Nashville tax bills jump after the 2025 reappraisal?",
+   "html": "<p>Values were mailed on April 18, 2025 and the median parcel rose 45%, with council district medians running from 38% to 54%. The Assessor points out that the state first cut the old rates to revenue-neutral ones, then Metro lifted them to $2.814 per $100 assessed in the Urban Services District and $2.782 in the General Services District. That is a 26% and a 39% rise over the certified rates. A value can be appealed; the rate cannot.</p><p>Residential property is assessed at 25% of appraised value. Take the Census median of $413,600: assessed value is about $103,400, and the Trustee's method yields roughly $2,909 in the Urban Services District or $2,876 elsewhere in the county. Informal reviews for 2025 closed on May 9 and formal appeals on June 27. Both dates are behind us, so call the Assessor at 615-862-6059 to learn how a future review works.</p>"
+  },
+  {
+   "h2": "What does a Nashville seller owe the Trustee at closing?",
+   "html": "<p>The October bill covers one calendar year, and it is addressed to whoever owned the parcel of record when it was printed. Your title company should split it on the closing statement. Anything unpaid stays with the parcel, so confirm the year is settled before you hand over keys.</p><ul><li>Bills go out in the first week of October and the due date is the first Monday of that month.</li><li>The interest-free window ends the last day of February.</li><li>From March 1 the Trustee adds 1.5% each month.</li><li>Cards carry a 2.55% fee, minimum $2.00; e-checks cost $1.00.</li></ul><p>The Trustee notes that no law requires a mailed notice, so a bill that never arrives does not erase interest. Parcels that stay delinquent can be offered at a tax sale, and the owner then has one year to redeem.</p>"
+  },
+  {
+   "h2": "Which Nashville tax relief programs matter when selling?",
+   "html": "<p>Two programs help older and disabled owners: reimbursement for low-income elderly or disabled homeowners, and a freeze that locks the bill at the first qualifying year. The Comptroller's 2026 list sets Davidson County's freeze income cap at $54,900, and applicants must reach age 65 by December 31 of the tax year. A veteran with a 100% service-connected rating faces no income test, and relief covers the first $175,000 of value.</p><p>If you receive one of these breaks, tell the buyer's side early so the closing numbers reflect the actual bill. Call the Trustee at 615-862-6330 with questions about which documents prove age, residence and income.</p>"
+  },
+  {
+   "h2": "What does the Davidson County Register of Deeds need from a seller?",
+   "html": "<p>The office moved to 300 Deaderick Street, and it also accepts remote filings. Tennessee charges $0.37 per $100 of price on a transfer, collected when the deed is recorded. Documents must be originals with notarized signatures. Staff cannot write a deed, and they do not report liens, since that falls to an attorney or title company.</p><p>Records are online for subscribers, and the office can tell you the date and reference number of any filing. Ask the buyer's closer to record the day you sign so the new deed shows up in the index without delay. The same office can furnish a certified copy of a deed you already hold.</p>"
+  },
+  {
+   "h2": "Does a short term rental permit stay with a Nashville house?",
+   "html": "<p>It does not. Metro Codes says the permit is tied to a named person and a single address, and a change of owner cancels it, even a move from a person into a trust or LLC. A buyer who wants nightly rentals must file a new application.</p><ul><li>A permit lapses 365 days after issue unless renewed.</li><li>The guest count tops out at twice the sleeping rooms plus four, never more than 12.</li><li>Renters must be 21 or older.</li><li>Three code violations can cost the holder the permit.</li></ul><p>List the permit status in your offer paperwork so the buyer is not surprised. The <a href=\"https://nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements\">Metro Codes operating rules</a> spell out every condition.</p>"
+  },
+  {
+   "h2": "What is the story behind Nashville's older neighborhoods?",
+   "html": "<p>Settlers built Fort Nashborough in 1779 beside the Cumberland. The town was incorporated in 1806, became the state's permanent capital in 1843, and a Metro charter joined it to the county in 1963. Nashville's public schools date to Hume School in 1855, and the unified Metro district now lists 160 schools.</p><p>Housing from many eras sits side by side. Sellers of older houses can pull the year built and living area from the Assessor's record and check them against the listing. Roof age, foundation movement and old wiring are the items buyers most often ask about, so price those in or fix them before showings.</p>"
+  },
+  {
+   "h2": "What are the quickest ways to sell a Nashville house?",
+   "html": "<p>A listing reaches the most buyers but brings showings, appraisals and repair requests. A sale to a cash buyer who takes the house as-is trades some of that reach for speed, since closing waits on title work and not on a lender.</p><p>With any route, get the price in writing, confirm in the contract who pays recording tax, and let a title company prepare and record the deed. Clear liens, unpaid tax and any short term rental permit issues before the closing date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Will I owe Davidson County tax if I sell in November?",
+   "a": "Yes, for your share of the year. The October bill covers the whole calendar year and goes to the owner of record, so the closing statement should divide it between you and the buyer."
+  },
+  {
+   "q": "Can a Nashville owner contest the tax rate?",
+   "a": "No. The Assessor says only values can be appealed. The Mayor and Metro Council set the rate, which for 2025 was $2.814 in the Urban Services District and $2.782 in the General Services District."
+  },
+  {
+   "q": "How much does the state charge to record a Nashville deed?",
+   "a": "The transfer tax is $0.37 per $100 of price, and the state recording fee has a $10 minimum. The Register of Deeds has an online calculator for exact totals."
+  },
+  {
+   "q": "Can a buyer take over my short term rental permit?",
+   "a": "No. Metro Codes bars assignment to another person, entity or address, and a change of ownership cancels the permit. The new owner must apply again."
+  },
+  {
+   "q": "Where can I pay Metro property tax in person?",
+   "a": "At the Trustee's office, Suite 220 of the Howard Office Building, 700 President Ronald Reagan Way. Hours are weekdays 8:00 a.m. to 4:30 p.m. Mail goes to PO Box 196358, Nashville, TN 37219-6358."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Census QuickFacts, Nashville-Davidson balance",
+   "url": "https://www.census.gov/quickfacts/fact/table/nashvilledavidsonmetropolitangovernmentbalancetennessee/PST045224"
+  },
+  {
+   "title": "Davidson County Register of Deeds",
+   "url": "https://www.nashville.gov/departments/register-deeds/recording-service/fee-calculator"
+  },
+  {
+   "title": "Register of Deeds FAQ",
+   "url": "https://nashville.gov/departments/register-deeds/faq"
+  },
+  {
+   "title": "Metropolitan Trustee property tax questions",
+   "url": "https://nashville.gov/departments/trustee/general-property-tax-questions"
+  },
+  {
+   "title": "Trustee: calculate property taxes",
+   "url": "https://nashville.gov/departments/trustee/calculate-property-taxes"
+  },
+  {
+   "title": "Assessor: 2025 reappraisal values mailed",
+   "url": "https://nashville.gov/departments/assessor/news/new-2025-reappraisal-property-values-were-mailed-today"
+  },
+  {
+   "title": "Assessor: reappraisal and tax rates briefing",
+   "url": "https://nashville.gov/departments/assessor/news/assessor-wilhoite-meets-business-coalition-clarify-reappraisal-process-increased-property-tax-rates-and-address-concerns"
+  },
+  {
+   "title": "Metro Codes short term rental operating rules",
+   "url": "https://nashville.gov/departments/codes/short-term-rentals/operation-rules-and-requirements"
+  },
+  {
+   "title": "Tennessee Department of Revenue recordation tax rates",
+   "url": "https://tn.gov/revenue/taxes/local-taxes/recordation-taxes/due-date-tax-rate.html"
+  },
+  {
+   "title": "Rutherford County register state fee schedule (TCA 8-21-1001)",
+   "url": "https://rutherfordcountytn.gov/state-fees"
+  },
+  {
+   "title": "Comptroller property tax freeze income limits 2026",
+   "url": "https://comptroller.tn.gov/content/dam/cot/pa/documents/tax-freeze/TaxFreezeIncomeLimitsList2026.pdf"
+  },
+  {
+   "title": "Metro Nashville Public Schools about page",
+   "url": "https://mnps.org/about"
+  },
+  {
+   "title": "Nashville, Tennessee (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Nashville,_Tennessee"
+  }
+ ]
 }
