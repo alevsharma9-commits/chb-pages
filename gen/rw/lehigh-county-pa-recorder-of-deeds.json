@@ -3,10 +3,10 @@
  "sections": [
   {
    "h2": "Where do I record a deed in Lehigh County, PA?",
-   "html": "<p>Deeds for Lehigh County property are recorded by the Recorder of Deeds Division in Room 122 of the Lehigh County Courthouse at 455 W. Hamilton Street, Allentown, PA 18101. The phone number is 610-782-3162, and the office is open Monday through Friday from 8:00 a.m. to 4:30 p.m. Parcel identification, called GIS PIN certification, stops earlier, at 3:45 p.m., so bring a deed that needs a new PIN in the morning or early afternoon.</p><p>The office closes on major holidays and on any day the President Judge of the Court of Common Pleas directs. For a seller the practical job is simple: whoever handles your closing, whether a title company or an attorney, files the deed and the payoff paperwork. You still want to know the fees, because they show up on the settlement statement.</p>"
+   "html": "<p>Deeds for Lehigh County property are recorded by the Recorder of Deeds Division in Room 122 of the Lehigh County Courthouse at 455 W. Hamilton Street, Allentown, PA 18101. The phone number is 610-782-3162, and the office is open Monday through Friday, 8:00 until 4:30. Parcel identification, called GIS PIN certification, ends earlier, at 3:45 in the afternoon, so bring a deed that needs a new PIN in the morning or early afternoon.</p><p>The office closes on major holidays and on any day the President Judge of the Court of Common Pleas directs. For a seller the practical job is simple: whoever handles your closing, whether a title company or an attorney, files the deed and the payoff paperwork. You still want to know the fees, because they show up on the settlement statement.</p>"
   },
   {
-   "h2": "How much does it cost to record a deed in Lehigh County?",
+   "h2": "What are the Lehigh County deed recording fees?",
    "html": "<p>A deed of any type costs $81.25 to record under the fee schedule effective January 1, 2026. The fee covers up to four pages, four names and one PIN certification. Anything beyond those limits is billed separately.</p><table><caption>Lehigh County recording fees, effective January 1, 2026 (source: Lehigh County Recorder of Deeds fee schedule)</caption><thead><tr><th>Document</th><th>Fee</th></tr></thead><tbody><tr><td>Deed, all types</td><td>$81.25</td></tr><tr><td>Mortgage</td><td>$81.25</td></tr><tr><td>Satisfaction piece</td><td>$71.75</td></tr><tr><td>Release of mortgage</td><td>$71.75</td></tr><tr><td>Assignment of mortgage</td><td>$71.75</td></tr><tr><td>Deed of dedication</td><td>$69.75</td></tr><tr><td>Easement or right-of-way</td><td>$69.75</td></tr><tr><td>Quiet title action</td><td>$28.50</td></tr><tr><td>Power of attorney</td><td>$18.50</td></tr></tbody></table><p>Extras are small but add up on a complicated parcel:</p><ul><li>Each page over four costs $2.00, and each name over four costs $0.50.</li><li>Each additional PIN costs $10.00, so a deed that covers several parcels costs more.</li><li>Each electronic notation costs $2.00.</li><li>A rejected document costs $10.00 each time, and a returned check costs $20.00.</li><li>Mailing documents back costs $3.00 each unless you enclose a stamped, self-addressed envelope.</li></ul><p>An overpayment of $10.00 or less is forfeited, and the office does not refund fees for a document sent twice by mistake. Double-check the amount before you send it.</p>"
   },
   {
@@ -15,7 +15,7 @@
   },
   {
    "h2": "How are old Lehigh County deeds searched?",
-   "html": "<p>The division holds records back to 1812, the year Lehigh County was formed from part of Northampton County. All of it is public except military discharge papers (DD-214), which the office records for free and keeps private. Staff are not authorized to do your search or research for you, so you search yourself.</p><ul><li>LANDEX Webstore: free searching, with a fee to view or print a document, aimed at occasional users.</li><li>LANDEX Remote: a pay-as-you-go service at $0.15 a minute and $0.10 for each page loaded, built for heavy users, with an Index Book tab covering 1812 to 1983.</li><li>Lehigh County Online Records Access: requires an account and a yearly fee arranged through the county Fiscal Office.</li><li>In person: the public review area on the first floor of the courthouse, open weekdays from 8:00 a.m. to 4:00 p.m.</li></ul><p>If you inherited a house and the paper trail is thin, the index books may turn up an old deed or an unreleased mortgage before a buyer's title search does.</p>"
+   "html": "<p>The division holds records back to 1812, the year Lehigh County was formed from part of Northampton County. All of it is public except military discharge papers (DD-214), which the office records for free and keeps private. Staff are not authorized to do your search or research for you, so you search yourself.</p><ul><li>LANDEX Webstore: free searching, with a fee to view or print a document, aimed at occasional users.</li><li>LANDEX Remote: a pay-as-you-go service at $0.15 a minute and $0.10 for each page loaded, built for heavy users, with an Index Book tab covering 1812 to 1983.</li><li>Lehigh County Online Records Access: requires an account and a yearly fee arranged through the county Fiscal Office.</li><li>In person: the public review area on the first floor of the courthouse, open weekdays from 8:00 in the morning until 4:00 in the afternoon</li></ul><p>If you inherited a house and the paper trail is thin, the index books may turn up an old deed or an unreleased mortgage before a buyer's title search does.</p>"
   },
   {
    "h2": "What transfer tax is due when a Lehigh County house sells?",
@@ -37,7 +37,7 @@
   },
   {
    "q": "Where is the Lehigh County Recorder of Deeds?",
-   "a": "The office is in Room 122 of the courthouse at 455 W. Hamilton Street in Allentown. It is open weekdays from 8:00 a.m. to 4:30 p.m., and the number is 610-782-3162."
+   "a": "The office is in Room 122 of the courthouse at 455 W. Hamilton Street in Allentown. It is open weekdays from 8:00 in the morning until 4:30 in the afternoon, and the number is 610-782-3162."
   },
   {
    "q": "Can I get a certified copy of a Lehigh County deed online?",
