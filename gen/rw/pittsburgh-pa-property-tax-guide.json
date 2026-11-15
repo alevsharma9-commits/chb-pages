@@ -1,68 +1,89 @@
 {
-  "slug": "pittsburgh-pa-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Who sends the property tax bills in Pittsburgh?",
-      "html": "<p>Pittsburgh owners deal with three taxing bodies: the city, the school district and Allegheny County. The city's Real Estate Division handles billing and collection of the city tax, while the county sets the assessed value that every rate is applied to. The city's <a href=\"https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Real-Estate-Taxes\">Real Estate Taxes page</a> says the tax applies to all owners of real estate within the city and school district, calculated by multiplying the millage rate by the assessed value.</p><p>The city's Real Estate Division sits at 414 Grant Street and answers at 412-255-2525. The tax was first levied in 1816 and is governed by Chapter 263 of the Pittsburgh Code. Bills usually go out in the middle of January, with installment bills mailed in April and July.</p><p>The county's role is separate. The Allegheny County Office of Property Assessments decides what your house is worth for tax purposes, and the Board of Property Assessment Appeals and Review hears disputes. If your bill looks wrong, work out whether the problem is the value (a county matter) or the payment record (a city matter) before you call anyone.</p>"
-    },
-    {
-      "h2": "When is Pittsburgh property tax due?",
-      "html": "<p>The year's bill can be paid in one amount or in three installments, and the dates repeat every year.</p><ul><li>February 10: last day to take the 2 percent discount, on either the full annual amount or the first installment</li><li>February 27: first installment due, or the annual amount at its gross figure</li><li>April 30: second installment due</li><li>July 31: third installment due</li></ul><p>The rule that catches people is the first installment. If nothing is paid by the last day of February, or the payment is smaller than the whole first installment, the entire year's tax becomes due and interest runs from March 1. Payments can be made online through the city's payment system, which is run by Magic Collection Solutions.</p><p>A taxpayer who misses the discount can ask for an extension using the discount extension form on the city's Real Estate Forms page.</p>"
-    },
-    {
-      "h2": "How much is the tax rate in Pittsburgh?",
-      "html": "<p>Allegheny County's community profile for the city lists three millage rates for 2026: 6.43 mills for the county, 9.67 for the city and 10.457 for the school district. Added together that is 26.557 mills, or $2,655.70 a year on a property assessed at $100,000.</p><p>The same profile shows how that changed. In 2025 the city rate was 8.06 and the county rate was 6.43, so the total on $100,000 was $2,474.00. In 2024 the county rate was 4.73 and the total was $2,304.00. The profile puts the taxable residential median value at $68,600 and the 2026 total at $1,821.81 for a home at that value.</p><table><caption>Pittsburgh millage rates, from Allegheny County's community profile for the city</caption><thead><tr><th>Taxing body</th><th>2024</th><th>2025</th><th>2026</th></tr></thead><tbody><tr><td>County</td><td>4.73</td><td>6.43</td><td>6.43</td></tr><tr><td>City</td><td>8.06</td><td>8.06</td><td>9.67</td></tr><tr><td>School district</td><td>10.25</td><td>10.25</td><td>10.457</td></tr><tr><td>Tax on $100,000 assessed</td><td>$2,304.00</td><td>$2,474.00</td><td>$2,655.70</td></tr></tbody></table><p>A buyer will estimate the bill from the assessment and these rates, so a seller who knows the assessed value and the current rates can answer the question before it is asked.</p>"
-    },
-    {
-      "h2": "How do I appeal a Pittsburgh assessment?",
-      "html": "<p>Appeals go to the Allegheny County Board of Property Assessment Appeals and Review, not to the city. The board runs the process itself, including scheduling and mailing hearing notices, starting with the 2027 annual season.</p><p>The 2027 annual appeal window ran from July 1 to September 1, 2026, and it has closed. The county says a person who misses the window may file under limited circumstances, but first has to submit a late-filed appeal form. Ask the Office of Property Assessments for the window that applies to the next tax year.</p><ul><li>Residential hearing notices are mailed at least 14 days ahead; commercial notices at least 21 days ahead.</li><li>The board meets every two weeks at 8:00 am in Room 328 of the County Office Building, 542 Forbes Avenue.</li><li>The 2027 common level ratio is 49.3 percent, and the county says it applies to current market value in appeals heard starting September 2026.</li></ul><p>The common level ratio matters because an appeal compares the assessed value with market value after that factor is applied. Bring recent comparable sales and any repair estimates to the hearing.</p>"
-    },
-    {
-      "h2": "What relief programs does Pittsburgh offer homeowners?",
-      "html": "<p>The city's property tax worksheet page lists two measures meant to lower a bill: the Act 50 homestead exemption of $15,000 and the Act 77 senior tax relief, described as a 40 percent reduction on assessment. The same page lists the city's millage as 9.67, matching the county profile above.</p><p>Eligibility rules, forms and filing dates come from the county and city offices, so ask the Real Estate Division or the Office of Property Assessments before you assume a reduction applies to your parcel.</p>"
-    },
-    {
-      "h2": "What if I sell a Pittsburgh house with back taxes?",
-      "html": "<p>Old delinquent taxes are split between two collectors. The city keeps prior-year delinquent City, Library and Parks real estate taxes and answers questions at 412-255-2525. Prior-year delinquent school taxes were turned over to Jordan Tax Service, Inc., which takes payment arrangements at 412-345-7960.</p><p>The city publishes a delinquency list that anyone can download. It warns that the list may not show the current owner if the county has not yet reported a transfer, may not reflect assessment changes decided on appeal, and may leave out accounts under $50. In practice that means a title search is the safer check, and the payoff figure should come directly from the city and the collection agency in writing.</p><p>At closing, the title company deducts unpaid taxes from the seller's proceeds and pays the offices. A seller who owes more than the sale price covers will see that on the settlement statement before signing.</p>"
-    },
-    {
-      "h2": "What does the transfer tax cost on a Pittsburgh sale?",
-      "html": "<p>Allegheny County says its realty transfer tax runs from 2 to 5 percent, and Pittsburgh sits at the top of that range. The county's worked example for a house in the city shows 5 percent in total: 1 percent to the state, 3 percent to the city and 1 percent to the Pittsburgh School District. On a $40,000 sale that is $2,000. County pages say the city applied the 5 percent rate to residential deeds recorded starting February 1, 2020.</p><p>The tax is paid when the deed is recorded, with a separate check from the recording fees. Pennsylvania's Department of Revenue makes buyer and seller jointly liable, and some transfers, including property passing by will or intestacy, are exempt. The purchase agreement decides who pays in practice.</p>"
-    },
-    {
-      "h2": "What is Pittsburgh like for owners and sellers?",
-      "html": "<p>The city covers about 55 square miles in the center of Allegheny County, with steep slopes, rolling hills and floodplains along the Allegheny, Monongahela and Ohio rivers. The county's profile divides it into 32 wards, from Squirrel Hill and Shadyside to Lawrenceville, Brookline, Carrick and the North Side. Slope and floodplain exposure differ a great deal from one neighborhood to the next.</p><ul><li>Population estimate, July 1, 2025: 307,632, up 1.5 percent from the 2020 base</li><li>Owner-occupied housing rate, 2020 to 2024: 47.7 percent</li><li>Median value of owner-occupied homes: $205,800</li><li>Median gross rent: $1,261</li><li>Households: 138,188, with 2.03 persons per household</li><li>Median household income: $65,742</li></ul><p>These numbers come from the Census Bureau's <a href=\"https://www.census.gov/quickfacts/fact/table/pittsburghcitypennsylvania/PST045224\">QuickFacts page for Pittsburgh</a>. With fewer than half of occupied homes owner-occupied, renters make up the majority of Pittsburgh households.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What is the Pittsburgh discount deadline?",
-      "a": "February 10. Paying the full annual tax or the first installment by that date earns a 2 percent discount. After that, the gross amount is due February 27."
-    },
-    {
-      "q": "What happens if I skip the first installment?",
-      "a": "The whole year's tax becomes due and interest starts March 1. That happens if nothing is paid by the last day of February or if the first installment is paid short."
-    },
-    {
-      "q": "Who do I call about a Pittsburgh tax bill?",
-      "a": "The City of Pittsburgh Real Estate Division at 412-255-2525, 414 Grant Street. For assessment questions, contact the Allegheny County Office of Property Assessments, which sets the value."
-    },
-    {
-      "q": "Can I appeal my Pittsburgh assessment now?",
-      "a": "The 2027 annual appeal window ran July 1 to September 1, 2026, and has closed. A late-filed appeal form is available under limited circumstances. Ask the county for the next window."
-    },
-    {
-      "q": "Who gets paid when a house with back taxes sells?",
-      "a": "The title company pays them from the seller's proceeds. Delinquent city taxes go to the city's finance department, and prior-year school taxes go to Jordan Tax Service, Inc. Get written payoff figures first."
-    }
-  ],
-  "sources": [
-    {"title": "City of Pittsburgh, Real Estate Taxes", "url": "https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Real-Estate-Taxes"},
-    {"title": "City of Pittsburgh, Real Estate Tax Delinquency", "url": "https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Real-Estate-Taxes/Real-Estate-Tax-Delinquency"},
-    {"title": "City of Pittsburgh, Property Tax Worksheet", "url": "https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Property-Tax-Worksheet"},
-    {"title": "Allegheny County, Board of Property Assessment Appeals and Review", "url": "https://www.alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Appeals/Board-of-Property-Assessment-Appeals-and-Review-BPAAR"},
-    {"title": "Allegheny County, Realty Transfer Taxes", "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"},
-    {"title": "Allegheny County Community Profile, City of Pittsburgh", "url": "https://apps.alleghenycounty.us/website/munipgh.asp"},
-    {"title": "Census Bureau QuickFacts, Pittsburgh city, Pennsylvania", "url": "https://www.census.gov/quickfacts/fact/table/pittsburghcitypennsylvania/PST045224"}
-  ]
+ "slug": "pittsburgh-pa-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Which offices handle property tax in Pittsburgh?",
+   "html": "<p>Pittsburgh owners deal with three taxing bodies: the city, the school district and Allegheny County. The city's Real Estate Division handles billing and collection of the city tax, while the county sets the assessed value that every rate is applied to. The city's <a href=\"https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Real-Estate-Taxes\">Real Estate Taxes page</a> says the tax applies to all owners of real estate within the city and school district, calculated by multiplying the millage rate by the assessed value.</p><p>The city's Real Estate Division sits at 414 Grant Street and answers at 412-255-2525. The city first levied the tax in 1816, and Chapter 263 of the Pittsburgh Code covers it. Bills usually go out in the middle of January, with installment bills mailed in April and July.</p><p>The county's role is separate. The Allegheny County Office of Property Assessments decides what your house is worth for tax purposes, and the Board of Property Assessment Appeals and Review hears disputes. If your bill looks wrong, work out whether the problem is the value (a county matter) or the payment record (a city matter) before you call anyone.</p>"
+  },
+  {
+   "h2": "When is Pittsburgh property tax due?",
+   "html": "<p>The year's bill can be paid in one amount or in three installments, and the dates repeat every year.</p><ul><li>February 10: last day to take the 2 percent discount, on either the full annual amount or the first installment</li><li>February 27: first installment due, or the annual amount at its gross figure</li><li>April 30: second installment due</li><li>July 31: third installment due</li></ul><p>The first installment is where people get caught. A payment that misses the end of February, or falls short of the whole first installment, makes the entire year's tax due, with interest running from March 1. An online payment portal run by Magic Collection Solutions is linked from the city page.</p><p>A taxpayer who misses the discount can ask for an extension using the discount extension form on the city's Real Estate Forms page.</p>"
+  },
+  {
+   "h2": "How much is the tax rate in Pittsburgh?",
+   "html": "<p>Allegheny County's community profile for the city lists three millage rates for 2026: 6.43 mills for the county, 9.67 for the city and 10.457 for the school district. Added together that is 26.557 mills, or $2,655.70 a year on a property assessed at $100,000.</p><p>The same profile shows how that changed. In 2025 the city rate was 8.06 and the county rate was 6.43, so the total on $100,000 was $2,474.00. In 2024 the county rate was 4.73 and the total was $2,304.00. The profile puts the taxable residential median value at $68,600 and the 2026 total at $1,821.81 for a home at that value.</p><table><caption>Pittsburgh millage rates, from Allegheny County's community profile for the city</caption><thead><tr><th>Taxing body</th><th>2024</th><th>2025</th><th>2026</th></tr></thead><tbody><tr><td>County</td><td>4.73</td><td>6.43</td><td>6.43</td></tr><tr><td>City</td><td>8.06</td><td>8.06</td><td>9.67</td></tr><tr><td>School district</td><td>10.25</td><td>10.25</td><td>10.457</td></tr><tr><td>Tax on $100,000 assessed</td><td>$2,304.00</td><td>$2,474.00</td><td>$2,655.70</td></tr></tbody></table><p>A buyer will estimate the bill from the assessment and these rates, so a seller who has the assessed value and these rates in hand can answer that question early.</p>"
+  },
+  {
+   "h2": "How does a Pittsburgh owner contest an assessment?",
+   "html": "<p>Disputes over value are heard by the Allegheny County Board of Property Assessment Appeals and Review, which sits outside city government. Beginning with the 2027 annual season the board handles scheduling and hearing notices on its own.</p><p>The 2027 annual appeal window ran from July 1 to September 1, 2026, and it has closed. The county says a person who misses the window may file under limited circumstances, but first has to submit a late-filed appeal form. Check with the county before the next tax year's window opens.</p><ul><li>Residential hearing notices are mailed at least 14 days ahead; commercial notices at least 21 days ahead.</li><li>The board meets every two weeks at 8:00 am in Room 328 of the County Office Building, 542 Forbes Avenue.</li><li>The 2027 common level ratio is 49.3 percent, and the county says it applies to current market value in appeals heard starting September 2026.</li></ul><p>The common level ratio matters because an appeal compares the assessed value with market value after that factor is applied. Bring recent comparable sales and any repair estimates to the hearing.</p>"
+  },
+  {
+   "h2": "What relief programs does Pittsburgh offer homeowners?",
+   "html": "<p>The city's property tax worksheet page lists two measures meant to lower a bill: the Act 50 homestead exemption of $15,000 and the Act 77 senior tax relief, described as a 40 percent reduction on assessment. The same page lists the city's millage as 9.67, matching the county profile above.</p><p>Eligibility rules, forms and filing dates come from the county and city offices, so ask the Real Estate Division or the Office of Property Assessments before you assume a reduction applies to your parcel.</p>"
+  },
+  {
+   "h2": "What happens if a Pittsburgh house is sold with back taxes?",
+   "html": "<p>Old delinquent taxes are split between two collectors. The city keeps prior-year delinquent City, Library and Parks real estate taxes and answers questions at 412-255-2525. Prior-year delinquent school taxes were turned over to Jordan Tax Service, Inc., which takes payment arrangements at 412-345-7960.</p><p>Anyone can download the city's delinquency list. It warns that the list may not show the current owner if the county has not yet reported a transfer, may not reflect assessment changes decided on appeal, and may leave out accounts under $50. In practice that means a title search is the safer check, and the payoff figure should come directly from the city and the collection agency in writing.</p><p>At settlement, the agent subtracts unpaid taxes from what the seller receives and sends the money to the collectors. If the debts exceed the price, the settlement statement shows the shortfall before anyone signs.</p>"
+  },
+  {
+   "h2": "What does the transfer tax cost on a Pittsburgh sale?",
+   "html": "<p>Allegheny County says its realty transfer tax runs from 2 to 5 percent, and Pittsburgh sits at the top of that range. The county's worked example for a house in the city shows 5 percent in total: 1 percent to the state, 3 percent to the city and 1 percent to the Pittsburgh School District. On a $40,000 sale that is $2,000. County pages say the city applied the 5 percent rate to residential deeds recorded starting February 1, 2020.</p><p>Payment happens at recording, on its own check apart from the recording fees. State rules hold both sides liable, and certain transfers, such as inheritances, are exempt. The sale contract decides who actually pays.</p>"
+  },
+  {
+   "h2": "What is Pittsburgh like for owners and sellers?",
+   "html": "<p>The city covers about 55 square miles in the center of Allegheny County, with steep slopes, rolling hills and floodplains along the Allegheny, Monongahela and Ohio rivers. The county's profile divides it into 32 wards, from Squirrel Hill and Shadyside to Lawrenceville, Brookline, Carrick and the North Side. Slope and floodplain exposure differ a great deal from one neighborhood to the next.</p><ul><li>Headcount in mid 2025: 307,632, which is 1.5 percent above the 2020 base</li><li>Owners occupy 47.7 percent of occupied homes</li><li>An owned home typically carries a $205,800 value</li><li>Gross rent in the middle runs $1,261</li><li>138,188 households, averaging 2.03 people</li><li>Household income in the middle: $65,742</li></ul><p>All of these are from <a href=\"https://www.census.gov/quickfacts/fact/table/pittsburghcitypennsylvania/PST045224\">Census QuickFacts for Pittsburgh</a>, on its 2020 to 2024 survey basis. With fewer than half of occupied homes owner-occupied, renters make up the majority of Pittsburgh households.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Pittsburgh discount deadline?",
+   "a": "February 10. Paying the full annual tax or the first installment by that date earns a 2 percent discount. After that, the gross amount is due February 27."
+  },
+  {
+   "q": "What happens if I skip the first installment?",
+   "a": "You owe the whole year at once, and interest starts March 1. The same result follows from paying less than the full first installment."
+  },
+  {
+   "q": "Where can I get answers on a Pittsburgh tax bill?",
+   "a": "Call the city's Real Estate Division at 412-255-2525 or visit 414 Grant Street. Questions about the value itself belong with the Allegheny County Office of Property Assessments."
+  },
+  {
+   "q": "Can I appeal my Pittsburgh assessment now?",
+   "a": "The 2027 annual appeal window ran July 1 to September 1, 2026, and has closed. A late-filed appeal form is available under limited circumstances. Ask the county for the next window."
+  },
+  {
+   "q": "Who gets paid when a house with back taxes sells?",
+   "a": "The title company pays them from the seller's proceeds. Delinquent city taxes go to the city's finance department, and prior-year school taxes go to Jordan Tax Service, Inc. Get written payoff figures first."
+  }
+ ],
+ "sources": [
+  {
+   "title": "City of Pittsburgh, Real Estate Taxes",
+   "url": "https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Real-Estate-Taxes"
+  },
+  {
+   "title": "City of Pittsburgh, Real Estate Tax Delinquency",
+   "url": "https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Real-Estate-Taxes/Real-Estate-Tax-Delinquency"
+  },
+  {
+   "title": "City of Pittsburgh, Property Tax Worksheet",
+   "url": "https://pittsburghpa.gov/City-Government/Finance-Budget/Taxes/Property-Tax-Worksheet"
+  },
+  {
+   "title": "Allegheny County, Board of Property Assessment Appeals and Review",
+   "url": "https://www.alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Appeals/Board-of-Property-Assessment-Appeals-and-Review-BPAAR"
+  },
+  {
+   "title": "Allegheny County, Realty Transfer Taxes",
+   "url": "https://alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"
+  },
+  {
+   "title": "Allegheny County Community Profile, City of Pittsburgh",
+   "url": "https://apps.alleghenycounty.us/website/munipgh.asp"
+  },
+  {
+   "title": "Census Bureau QuickFacts, Pittsburgh city, Pennsylvania",
+   "url": "https://www.census.gov/quickfacts/fact/table/pittsburghcitypennsylvania/PST045224"
+  }
+ ]
 }
