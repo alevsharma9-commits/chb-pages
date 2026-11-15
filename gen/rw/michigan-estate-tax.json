@@ -1,0 +1,81 @@
+{
+ "slug": "michigan-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Michigan still have an inheritance tax?",
+   "html": "<p>Only for old estates. Michigan Treasury says the inheritance tax remains in effect solely for people who inherited from someone who died on or before September 30, 1993. If the person whose house you are selling died after that date, the Michigan inheritance tax does not apply to what you received.</p><p>Treasury defines an inheritance tax as a tax on the right to receive property by inheritance. That separates it from an estate tax, which is charged on the estate itself before assets are handed out. The state's inheritance tax office still handles a small set of old cases, which is why its FAQ page is still online.</p>"
+  },
+  {
+   "h2": "When would a Michigan estate still owe the old inheritance tax?",
+   "html": "<p>Treasury's FAQ describes three situations in which an old estate can still need a tax determination. In each one the sender must write to Treasury within 90 days of the triggering event.</p><ul><li><strong>Estate reopened for a later-found asset:</strong> a probate estate is reopened because an asset turned up after the estate closed. Treasury wants the discovery date, the type of asset and its date-of-death value.</li><li><strong>First-time probate where an asset appears:</strong> the letter gives the same facts, plus the petition to commence proceedings and the probate inventory.</li><li><strong>Trust with deferred tax:</strong> when a life beneficiary dies and the trustee must make final distributions, the trustee reports the beneficiary's date of death and a breakdown of the remaining beneficiaries and their relationship to the original decedent.</li></ul><p>If the asset is real estate, Treasury also asks for a statement from the local community showing the state equalized value as close to the date of death as possible. Include the will or trust agreement with every letter.</p>"
+  },
+  {
+   "h2": "Where do I send inheritance tax questions in Michigan?",
+   "html": "<p>Mail them to the Michigan Department of Treasury, Inheritance Tax Section, Austin Building, 430 W Allegan St., Lansing, MI 48922. Treasury lists (517) 636-4419 as the contact number for the section. Keep the letter factual and attach the documents Treasury names, since the section decides from the file.</p><p>A seller who is the personal representative of a pre-October 1993 estate that is still open should also tell the probate court, because the court needs proof that inheritance tax has been resolved before it closes the estate.</p>"
+  },
+  {
+   "h2": "What federal estate tax limit applies to a house passed on in Michigan?",
+   "html": "<p>The federal basic exclusion amount is $15,000,000 for a death in 2026, after a law signed on July 4, 2025 raised it. An estate below that amount generally owes no federal estate tax, so most Michigan family homes never reach it. The table shows the recent amounts published by the IRS.</p><table><caption>Federal basic exclusion amount by year of death, from the IRS estate and gift tax page</caption><thead><tr><th>Year of death</th><th>Basic exclusion amount</th></tr></thead><tbody><tr><td>2023</td><td>$12,920,000</td></tr><tr><td>2024</td><td>$13,610,000</td></tr><tr><td>2025</td><td>$13,990,000</td></tr><tr><td>2026</td><td>$15,000,000</td></tr></tbody></table><p>A surviving spouse can elect, on a timely filed return for the decedent, to take over any unused part of the exclusion. The IRS calls this portability. The annual gift exclusion is $19,000 per recipient for 2026.</p>"
+  },
+  {
+   "h2": "What tax paperwork follows an inherited Michigan house?",
+   "html": "<p>An estate that must file Form 706 also owes a statement on Form 8971 to the IRS and to each person who receives property. The statement lets a beneficiary match their basis to the value finally set for federal estate tax purposes. If the estate did not have to file a return, the IRS asks that no Form 8971 be sent.</p><ul><li>The IRS raised the user fee for an estate tax closing letter from $56 to $76, effective October 26, 2026.</li><li>Transcripts from the IRS Transcript Delivery Service can stand in for a closing letter in some situations, and an authorized practitioner can request them.</li><li>Gain on a later sale of the house is a different subject. It is covered on our <a href='/michigan-capital-gains-tax/'>Michigan capital gains page</a>.</li></ul>"
+  },
+  {
+   "h2": "How does inheriting a house change Michigan property tax?",
+   "html": "<p>A transfer by will or by intestate succession is a transfer of ownership under MCL 211.27a(6)(f). The taxable value then resets to the state equalized value for the calendar year after the transfer. That can raise the bill noticeably if the old taxable value had been held down by the annual cap.</p><p>The reset does not happen when the heir is the decedent's spouse. Since December 31, 2014 it also does not happen for residential property passed to the decedent's or spouse's mother, father, brother, sister, son, daughter, adopted child, grandson or granddaughter, as long as the property is not used for any commercial purpose afterward. Treasury or the assessor can ask for proof of the relationship, and the heir has 30 days to supply it or face a $200 fine.</p><p>The person who receives the property must also notify the local assessing office of the transfer within 45 days, on the state tax commission form.</p>"
+  },
+  {
+   "h2": "Does selling an inherited Michigan house trigger the transfer tax?",
+   "html": "<p>Usually yes, because the personal representative is the seller or grantor and the deed is for consideration. The state and county deed taxes, $3.75 and $0.55 per $500 in most counties, are explained on our <a href='/michigan-closing-costs/'>Michigan closing costs page</a>.</p><p>Two exemptions can change the result. MCL 207.526 exempts a conveyance from an individual to a child, stepchild, grandchild or step-grandchild, and it exempts a transfer under a court judgment or order unless the court sets a specific money amount. Passing the house to a family member can therefore carry no state deed tax, while a sale to an outside buyer is taxed.</p><p>MCL 600.5714(1)(h) also lets a buyer recover possession by summary proceedings if a person stays in a house sold and conveyed by a personal representative under probate court license or the authority of the will.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Michigan estate tax I have to pay on a house?",
+   "a": "Michigan Treasury's published inheritance tax FAQ applies only to deaths on or before September 30, 1993. For a later death, ask Treasury or the probate court about state filings, and check the federal limit of $15,000,000 for 2026."
+  },
+  {
+   "q": "What is the federal estate tax exemption for a 2026 death?",
+   "a": "It is $15,000,000 under the IRS basic exclusion amount for 2026. A smaller estate generally owes no federal estate tax, though a return may still be filed to elect portability."
+  },
+  {
+   "q": "Who do I contact about an old Michigan inheritance tax matter?",
+   "a": "Write to the Michigan Department of Treasury, Inheritance Tax Section, Austin Building, 430 W Allegan St., Lansing, MI 48922, or call (517) 636-4419. Send the letter within 90 days of discovering the asset."
+  },
+  {
+   "q": "Will property taxes jump when I inherit a house in Michigan?",
+   "a": "They can. A transfer by will or intestate succession resets the taxable value to the state equalized value, except for a surviving spouse or a qualifying close relative who keeps the home residential."
+  },
+  {
+   "q": "Do I owe Michigan transfer tax if the estate deeds the house to my sibling?",
+   "a": "A deed to a sibling is not on the list of family exemptions, which names children, stepchildren, grandchildren and step-grandchildren. If the deed carries no price and no money changes hands, ask the county treasurer how the transfer will be treated."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Michigan Treasury: Inheritance Tax Frequently Asked Questions",
+   "url": "https://www.michigan.gov/taxes/iit/tax-guidance/tax-situations/inheritance-tax-frequently-asked-questions"
+  },
+  {
+   "title": "IRS: What's new, estate and gift tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax"
+  },
+  {
+   "title": "MCL 211.27a Taxable value and transfer of ownership",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
+  },
+  {
+   "title": "MCL 207.526 State transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "MCL 600.5714 Summary proceedings",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5714"
+  },
+  {
+   "title": "MCL 207.525",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"
+  }
+ ]
+}
