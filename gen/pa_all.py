@@ -77,9 +77,17 @@ def ptax(c,v):
     return mk(slug,h1,f"{c}, PA Property Tax Guide",f"{c}, PA property tax: assessor and collector offices, due dates, appeals and what happens to unpaid tax when you sell.",f"{c.lower()} property tax",f"Owe {c} Property Tax? Get a Cash Offer",f"We buy {c} houses as-is. The title company pays unpaid tax from the proceeds.",body,faqs,f"{c} property tax guide",[SP[3],(f"sell-my-house-fast-{ns(c)}-pa",f"Sell my house in {c}",'Options and cash offers.'),SP[0],SP[1]],[(nm_(ap),ap['url']),(nm_(co),co['url'])]+SRC[:2])
 CNT=['Philadelphia','Allegheny','Montgomery','Bucks','Delaware','Chester','Lancaster','Northampton','Luzerne','Dauphin','Westmoreland','Erie']
 REC=['Philadelphia','Allegheny','Montgomery','Bucks','Delaware','Chester','Lancaster','York','Berks','Lehigh','Northampton','Luzerne','Lackawanna','Dauphin','Cumberland','Westmoreland','Washington','Erie','Beaver','Butler','Centre','Monroe','Schuylkill','Lebanon','Franklin','Fayette','Cambria','Blair','Lycoming','Northumberland','Adams','Carbon','Pike','Mercer','Clearfield','Somerset','Indiana','Armstrong','Lawrence','Wayne','Columbia','Huntingdon','Union','Clarion','Venango','Crawford','Elk','Wyoming','Bedford']
+BLOCK=('alleghenycountytreasurer.us','luzernecountytaxclaim.com','schuylkillcountytaxclaim.com','ncpub.org','property.co.fayette.pa.us','lasncasterdeeds.com')
+def clean_urls(v):
+    for k in ('assessor','collector','recorder'):
+        x=v.get(k)
+        if isinstance(x,dict) and any(b in (x.get('url') or '') for b in BLOCK): x['url']=''
+        if isinstance(x,dict):
+            x['facts']=[f for f in x.get('facts',[]) if not any(b in (f.get('url') or '') for b in BLOCK)]
+    return v
 def cf(v,k): return [clean_txt(x['claim']) for x in (v.get(k) or {}).get('facts',[]) if x.get('opened') and not BAD.search(x['claim'])][:4]
 def county(cn,v,kind):
-    nm=cn+' County'; ap,co,rc=v.get('assessor',{}),v.get('collector',{}),v.get('recorder',{})
+    v=clean_urls(v); nm=cn+' County'; ap,co,rc=v.get('assessor',{}),v.get('collector',{}),v.get('recorder',{})
     unc=[clean_txt(x) for x in v.get('unconfirmed',[]) if 25<len(x)<200 and not BAD.search(x)][:3]
     ap_dl=[clean_txt(x['claim']) for x in (v.get('appeal_deadline') or []) if isinstance(x,dict) and x.get('opened')][:2]
     if kind=='tax':
