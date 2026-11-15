@@ -15,7 +15,7 @@
   },
   {
    "h2": "What must a deed look like before the Newton County recorder accepts it?",
-   "html": "<p>The recorder may refuse a paper that breaks the layout rules in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.310\">RSMo 59.310</a>. The office will record a nonconforming document if you pay the $25 surcharge, but a clean first try is cheaper. The county's format page boils the rules down:</p><ul><li>Letter-size white or light paper of at least 20 pound weight, no watermarks or logos, printed on one side only</li><li>Black or dark ink, type of at least 8 point, signatures with the name typed or printed beneath</li><li>A blank three-inch strip at the top of page one for the recorder's stamp, and margins of at least three-quarters of an inch elsewhere</li><li>Below that strip on page one: the title, the date, every grantor with marital status, every grantee, any statutory addresses and the legal description</li></ul><p>Grantors and grantees must be labeled with those words so the clerk can index them. A street address is never accepted as a legal description. Documents signed before January 1, 2002, military separation papers, certified copies and papers executed outside the United States are exempt from the format rules, and a rejected document comes back with the reason written down.</p>"
+   "html": "<p>Newton's recorder can turn away a paper that fails the layout test in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.310\">RSMo 59.310</a>, or take it and add a $25 penalty. The office's format page lays out what passes.</p><ul><li>Paper: 8.5 by 11, white or pale, 20 pound stock, no logos, ink on one side.</li><li>Text: dark ink, 8 point or bigger, with every signer's name typed under the signature.</li><li>Page one: a clear 3 inch band at the top for the recorder's certificate, then the title, date, grantors with their marital status, grantees, mailing addresses the statute calls for, and the legal description.</li><li>Side and bottom margins: three quarters of an inch.</li></ul><p>Indexing depends on labels. The words grantor and grantee must appear next to the parties, and the situs address of a house cannot stand in for a legal description. Exempt from these rules are papers signed before 2002, military separation papers, certified copies, foreign executed documents and anything where an original party has died or lacks capacity. Rejections are returned with a stated reason.</p>"
   },
   {
    "h2": "Can Newton County documents be recorded electronically?",
@@ -40,12 +40,12 @@
  ],
  "faqs": [
   {
-   "q": "Does Newton County charge a transfer tax when a deed is recorded?",
-   "a": "The county fee page lists no transfer tax line, only recording charges such as $26 for page one of a standard document. Ask your closing agent whether anything else is owed on your sale."
+   "q": "Is a transfer tax collected on Newton County deeds?",
+   "a": "None appears on the county fee page, which lists recording charges only. Ask your closing agent whether anything else is owed on your sale."
   },
   {
-   "q": "What time must I deliver a deed to Neosho to have it recorded the same day?",
-   "a": "Bring it before 3:30 pm. The recorder is staffed until 4:30 pm, but recordings are accepted only until 3:30, and later papers are recorded the next business day in the order they arrived."
+   "q": "What is the cutoff for same day recording at the Neosho courthouse?",
+   "a": "Be at the counter by 3:30 pm. Staff stay until 4:30, yet new recordings are taken only until 3:30, and later arrivals go on the record the following business day."
   },
   {
    "q": "Can the Newton County recorder tell me who owns a house at a street address?",
@@ -56,8 +56,8 @@
    "a": "You can mail them to P.O. Box 604 or use electronic recording through iCounty Technologies at (816) 295-1540. The office keeps up to $10 of any overpayment, so include enough to cover the fee."
   },
   {
-   "q": "What happens if my deed breaks the format rules?",
-   "a": "The recorder can reject it and must return it with the reason. It can also be recorded for the $25 nonstandard surcharge on top of the normal page fees."
+   "q": "What if the paper I bring does not meet the layout rules?",
+   "a": "The recorder may reject it and send it back with the reason, or record it with the $25 nonstandard charge added to the page fees."
   }
  ],
  "sources": [
