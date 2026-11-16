@@ -7,23 +7,23 @@
   },
   {
    "h2": "What does Hertford County post as its recording fees?",
-   "html": "<p>The county posts a fee schedule marked as subject to change. Cash, checks, money orders and cards are accepted, and checks should be payable to the Hertford County Register of Deeds with a working phone number on them. Documents returned by mail need a self-addressed stamped envelope.</p><table><caption>Real estate lines from the Hertford County Register of Deeds fee schedule</caption><thead><tr><th>Item</th><th>Posted charge</th></tr></thead><tbody><tr><td>Deeds and general instruments</td><td>$26.00, first 15 pages; $4.00 per extra page</td></tr><tr><td>Deeds of trust and mortgages</td><td>$64.00, first 35 pages; $4.00 per extra page</td></tr><tr><td>Excise tax on deeds</td><td>$2.00 per $1000.00 of purchase price</td></tr><tr><td>Satisfactions and cancellations</td><td>No fee</td></tr><tr><td>Non-standard document</td><td>$25.00 per document</td></tr><tr><td>Several instruments in one packet</td><td>$10.00 extra</td></tr></tbody></table><p>Uncertified copies run $.25 per page, plat copies $3.00 per page, and certified copies $5.00 for page one and $2.00 for each added page. Requests by fax or online carry their own charge of $1.00 for the first page and $.25 for each added page.</p>"
+   "html": "<p>The posted schedule carries a warning that fees can change. Make checks payable to the Hertford County Register of Deeds and put a working phone number on them; mailed returns need your own stamped envelope addressed to yourself.</p><table><caption>Real estate lines from the Hertford County Register of Deeds fee schedule</caption><thead><tr><th>Item</th><th>Posted charge</th></tr></thead><tbody><tr><td>Deeds and general instruments</td><td>$26.00, first 15 pages; $4.00 per extra page</td></tr><tr><td>Deeds of trust and mortgages</td><td>$64.00, first 35 pages; $4.00 per extra page</td></tr><tr><td>Excise tax on deeds</td><td>$2.00 per $1000.00 of purchase price</td></tr><tr><td>Satisfactions and cancellations</td><td>No fee</td></tr><tr><td>Non-standard document</td><td>$25.00 per document</td></tr><tr><td>Several instruments in one packet</td><td>$10.00 extra</td></tr></tbody></table><p>Plat copies are $3.00 a page. Copy requests made by fax or online cost $1.00 for page one, then $.25 for each page after.</p>"
   },
   {
    "h2": "Which formatting rules can trigger the Hertford County nonstandard fee?",
-   "html": "<p>The county repeats the paper standards from G.S. 161-14 on its recording rules page. A document that misses them is still recorded, with the $25.00 nonstandard fee added.</p><ul><li>Letter or legal size paper, one side only</li><li>Black type on white, 10 point or larger</li><li>Wide blank band across the head of page one</li></ul><p>Hertford adds a drafter rule from Session Law 2011-351: no deed or deed of trust is accepted unless page one names the person or law firm that prepared it. The county also asks for the tax parcel pin on deeds, together with either a tax department stamp showing no delinquent taxes or the stock sentence that any delinquent taxes will be paid by the closing attorney to the county tax collector from closing proceeds. An electronic deed must carry that sentence.</p>"
+   "html": "<p>The recording rules page repeats the paper standards of G.S. 161-14. A document that misses them is still recorded, with the $25.00 fee added.</p><ul><li>Letter or legal size paper, one side only</li><li>Black type on white, 10 point or larger</li><li>Wide blank band across the head of page one</li></ul><p>Session Law 2011-351 adds a drafter rule: page one of a deed or deed of trust must name the person or law firm that prepared it. The county also wants the tax parcel pin on each deed, plus either a tax department stamp showing no delinquent taxes or a sentence directing the closing attorney to pay any back taxes from closing proceeds. Electronic deeds must carry the sentence.</p>"
   },
   {
    "h2": "Can a Hertford County deed be e-recorded?",
-   "html": "<p>Yes. The county's FAQ says it e-records every document except maps, and the e-recording page names two submitters, Corporation Service Company and Simplifile. Documents travel from the submitter's office to the register and the recorded copy returns electronically right after recording.</p><p>Your closing attorney picks the route. If you walk a paper deed to Winton instead, the office still needs a drafter name on page one and your return envelope if you want it mailed back.</p>"
+   "html": "<p>Yes. Everything except maps can be e-recorded, according to the county FAQ, and the e-recording page names Corporation Service Company and Simplifile as submitters. The recorded copy comes back electronically right after recording.</p><p>Your closing attorney picks the route.</p>"
   },
   {
    "h2": "What can the Hertford County office not do for a seller?",
-   "html": "<p>The list matters more than people expect, because sellers often call the register for help it cannot give.</p><ul><li>It cannot search a title, because state law bars register staff from doing so. An individual or a legal representative can run the search.</li><li>It cannot confirm whether a lien exists. A deed of trust recorded in the office is the sign that the property secured a loan.</li><li>It cannot change a recorded deed. A new deed must be prepared, and the office recommends seeing an attorney.</li><li>It cannot name an owner from a street address, since records are indexed by name. Land Records Mapping, at 252-358-7809, handles location questions.</li><li>It holds no estate, will or divorce records. Those sit with the Clerk of Superior Court, 252-358-7100.</li></ul><p>Real estate documents are available online, though older indexes and images may not be. A certified copy of a lost original deed costs the same $5.00 plus $2.00 per added page.</p>"
+   "html": "<p>The list matters more than people expect, because sellers often call the register for help it cannot give.</p><ul><li>It cannot search a title, because state law bars register staff from doing so. An individual or a legal representative can run the search.</li><li>It cannot confirm whether a lien exists. A deed of trust recorded in the office is the sign that the property secured a loan.</li><li>It cannot change a recorded deed. A new deed must be prepared, and the office recommends seeing an attorney.</li><li>It cannot name an owner from a street address, since records are indexed by name. Land Records Mapping, at 252-358-7809, handles location questions.</li><li>It holds no estate, will or divorce records. Those sit with the Clerk of Superior Court, 252-358-7100.</li></ul><p>Real estate documents are online, though older indexes and images may not be.</p>"
   },
   {
    "h2": "Who pays the deed excise tax in a Hertford County sale?",
-   "html": "<p>The seller, because G.S. 105-228.30 makes the transferor pay the register before the deed can be recorded. The county prints the rate as $2.00 per $1000.00 of purchase price, which matches the statute's dollar per five hundred. Half goes to the county and half to the Department of Revenue.</p><p>A conveyance only binds later purchasers and lien creditors from the time it is registered, per G.S. 47-18. Plan closing and recording for the same day. The statutes are at <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> and <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html\">G.S. 47-18</a>.</p>"
+   "html": "<p>The seller. G.S. 105-228.30 puts the burden on the transferor, and the county prints $2.00 per $1000.00 of purchase price on its schedule.</p><p>Under G.S. 47-18 a conveyance reaches later purchasers and lien creditors only once it is registered, so recording should follow signing quickly. The statutes are at <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> and <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html\">G.S. 47-18</a>.</p>"
   },
   {
    "h2": "What else is handled at the Winton counter?",
@@ -35,29 +35,29 @@
   },
   {
    "h2": "How does the 2027 revaluation touch deeds recorded now?",
-   "html": "<p>The county's revaluation takes effect January 1, 2027, the first since 2019, and field measuring began in July 2025. Deeds recorded before and after that date use the same recording steps. What changes is the assessed value attached to the parcel.</p><p>The Tax Assessor and Tax Collector offices are at 115 Justice Drive in Winton. The collector notes that real property is listed in the owner's name as of January 1, so ask the office about the current bill before you close. The county also warns the public about deed scams, with a fraud detection page linked from the Register of Deeds site.</p>"
+   "html": "<p>The county's revaluation takes effect January 1, 2027, the first since 2019, and field measuring began in July 2025. Deeds recorded before and after that date use the same recording steps. What changes is the assessed value attached to the parcel.</p><p>The Tax Assessor and Tax Collector sit at 115 Justice Drive in Winton. Ask the collector about the current bill before you close. The county also warns the public about deed scams, with a fraud detection page linked from the Register of Deeds site.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How much does Hertford County charge to record a deed?",
-   "a": "Page one through fifteen of a general instrument cost $26.00 in total, with $4.00 for each added page. A deed of trust is $64.00 for its first 35 pages. The county says fees are subject to change, so call 252-358-7850 first."
+   "a": "The schedule lists $26.00 for a general instrument up to 15 pages, then $4.00 per page after that, and $64.00 for a deed of trust up to 35 pages. Call 252-358-7850 to check for changes."
   },
   {
    "q": "What is the excise tax on a Hertford County deed?",
-   "a": "The county lists $2.00 per $1000.00 of purchase price. That equals the state rate of one dollar per $500, and the seller pays it to the register before the deed is recorded."
+   "a": "The county lists $2.00 per $1000.00 of purchase price, and the seller pays it."
   },
   {
    "q": "What happens if my Hertford County deed is formatted wrong?",
-   "a": "The office still records it and adds a $25.00 non-standard fee. Check paper size, margins, type size and the drafter's name beforehand to avoid the charge."
+   "a": "It is recorded anyway, with a $25.00 non-standard fee added. Review the rules above first."
   },
   {
    "q": "Can Hertford County staff search my title or find a lien?",
-   "a": "No. State law prohibits register staff from searching titles, and the office cannot say whether a lien exists. Hire an attorney or title professional, who can read the recorded deeds of trust."
+   "a": "No. State law keeps register staff from searching titles, and the office will not say whether a lien exists. An attorney or title professional can read the recorded instruments."
   },
   {
    "q": "Can I get a copy of my recorded deed in Hertford County?",
-   "a": "Yes, in person or through the county sites, where real estate documents are online but older indexes and images may be missing. A certified copy costs $5.00 for the first page and $2.00 for each added page."
+   "a": "Yes, at the counter or on the county sites, though older indexes and images may be missing online. Certified copies are priced per page."
   }
  ],
  "sources": [
