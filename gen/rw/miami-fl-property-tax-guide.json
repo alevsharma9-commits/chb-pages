@@ -2,8 +2,8 @@
  "slug": "miami-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who bills property tax on a house in the city of Miami?",
-   "html": "<p>The Miami-Dade County tax collector bills it, using values set by the county property appraiser. The city of Miami levies its own mills on the same bill, next to the county, schools and special districts.</p><p>Miami covers 36.00 square miles of land and had an estimated 489,812 residents in July 2025, up 10.8 percent from the 2020 base, based on Census figures. A growing city with this much land means parcels in different neighborhoods can sit under different taxing lines.</p>"
+   "h2": "Who bills the property tax in Miami?",
+   "html": "<p>The county tax collector mails the bill, working from values the county property appraiser sets. Miami adds its own mills to the same statement, next to county, school and special-district lines.</p><p>Miami spreads over 36.00 square miles and had about 489,812 residents in mid-2025, a rise of 10.8 percent since the 2020 base. With that much ground, parcels in different neighborhoods can fall on different taxing lines.</p>"
   },
   {
    "h2": "What does the 2026 adopted millage chart show for Miami?",
@@ -14,12 +14,12 @@
    "html": "<p>Miami's total of 19.9544 mills is higher than Miami Beach at 18.6681, Coral Gables at 18.1518 and Hialeah at 18.6134. It is lower than Miami Gardens at 22.3393 and North Miami at 22.1081.</p><p>The spread comes almost entirely from the city line. Every row shares the same countywide, school and regional pieces, so moving across a city boundary changes the bill mainly through the municipal mills.</p><p>For a seller, that gap matters when buyers compare a Miami house against one a few miles away. Ask the title agent to show the exact folio total on the 2026 bill.</p>"
   },
   {
-   "h2": "What do Census numbers say about the size and economy of Miami?",
-   "html": "<p>The 2020 Census count was 442,241 people, up from 399,457 in 2010, and the city packs 12,285.8 people into each square mile. About 77.2 percent of residents age 5 and over speak a language other than English at home.</p><ul><li>Veterans number 7,305.</li><li>Mean commute is 27.3 minutes.</li><li>Education: 81.3 percent of adults hold a high school diploma, and 37.4 percent hold a bachelor's degree or higher.</li><li>2022 sales: transportation and warehousing receipts were about $17.0 billion, health care and social assistance about $8.7 billion, and retail about $13.2 billion.</li></ul><p>Those totals show how much of the city's economy runs through freight, health care and retail.</p>"
+   "h2": "How large is Miami, and what drives its economy?",
+   "html": "<p>Miami counted 442,241 people in 2020, up from 399,457 in 2010, and it holds 12,285.8 people per square mile.</p><ul><li>Foreign-born residents are 57.7 percent of the city.</li><li>Veterans number 7,305, and commutes average 27.3 minutes.</li><li>Among adults 25 and older, 81.3 percent finished high school and 37.4 percent hold a four-year degree.</li><li>For 2022 the Census lists about $17.0 billion in transportation and warehousing receipts, $13.2 billion in retail sales and $8.7 billion in health care revenue.</li></ul><p>Those totals show how much of the city's economy runs through freight, health care and retail.</p>"
   },
   {
-   "h2": "What do Census figures say about homes in Miami?",
-   "html": "<p>Just 30.8 percent of Miami housing units are owner occupied. The median value of owner-occupied homes is $518,100, and median gross rent is $1,758.</p><p>The city counts 194,821 households, and 57.7 percent of residents were born abroad. Median household income is $62,462 in 2024 dollars, and 19.4 percent of residents live in poverty.</p><p>With owner occupancy this low, a lot of Miami property is rented or held by investors. Homestead relief only helps an owner who lives in the house, so a landlord selling usually sees the full just-value assessment.</p>"
+   "h2": "Who owns homes in Miami?",
+   "html": "<p>Owners occupy just 30.8 percent of Miami housing units. Owners put the typical home at $518,100, while renters pay a median of $1,758 gross.</p><p>The city counts 194,821 households. Median household income is $62,462 in 2024 dollars, and 19.4 percent of residents are in poverty.</p><p>Where renting dominates, many houses belong to investors. Homestead relief helps only a resident owner, so a landlord selling typically sees the full just-value assessment.</p>"
   },
   {
    "h2": "Which Miami property tax dates matter most?",
@@ -27,19 +27,19 @@
   },
   {
    "h2": "How do I claim homestead on a Miami house?",
-   "html": "<p>File Form DR-501 with the county property appraiser by March 1, and the home must be your permanent residence on January 1. The appraiser now takes widow(er) and veteran disability exemption filings online as well.</p><p>Homestead protects up to $50,000 of value in the way the state describes: the first $25,000 for all taxes, and an additional amount for non-school taxes only. The Save Our Homes limit then holds yearly growth to the lower of 3 percent or CPI.</p><p>If you rent the house, the exemption is lost. A servicemember is the narrow exception under state law.</p>"
+   "html": "<p>Send Form DR-501 to the county property appraiser before March 1, and live in the home as your permanent residence on January 1. The appraiser also takes widow(er) and veteran disability exemption filings online.</p><p>The state describes up to $50,000 of exemption: $25,000 against every tax, plus a second slice that skips school taxes. Save Our Homes then holds yearly growth to the lower of 3 percent or CPI.</p><p>A rented house loses the exemption. Servicemembers get a narrow exception.</p>"
   },
   {
    "h2": "Can I move my Save Our Homes benefit when I leave a Miami house?",
-   "html": "<p>Possibly. Portability lets you carry assessment savings to a new Florida homestead if you establish it within three years of January 1 of the year you abandoned the old one. You file Form DR-501T with the DR-501 by March 1.</p><p>Without portability, a sale resets the buyer's assessed value to just value the next January 1. The state names exceptions for transfers between spouses and certain transfers at death.</p><p>If the bill is hard to pay, the tax collector handles deferral applications on Form DR-570 by March 31 and installment requests by May 1.</p>"
+   "html": "<p>Possibly. Portability lets assessment savings follow you to a new Florida homestead, provided the new one starts within three years of the January 1 that follows abandoning the old. File Form DR-501T alongside the DR-501 by March 1.</p><p>Without it, a sale resets the buyer's assessed value to just value. The state names exceptions for spouses and certain transfers at death.</p><p>If a bill is hard to pay, deferral applications on Form DR-570 are due March 31, and installment requests May 1.</p>"
   },
   {
    "h2": "What if I owe back taxes on a Miami house?",
-   "html": "<p>Unpaid taxes become delinquent on April 1, and the tax collector then sells a certificate on the debt. State law lets the sale of certificates run by June 1.</p><ul><li>The certificate holder cannot press you for payment until two years after April 1 of the issue year.</li><li>After that waiting period, the holder may file for a tax deed with a $75 application fee.</li><li>Opening bids on homestead property include one half of the latest assessed value.</li></ul><p>The title company pays the lien from sale proceeds, so a Miami seller with back taxes can still close. Ask the tax collector for a payoff figure well before the closing date.</p>"
+   "html": "<p>Unpaid bills go delinquent on April 1, and the tax collector sells a certificate on the debt. State law has those sales done by June 1.</p><ul><li>The holder cannot demand money from you for two years after April 1 of the issue year.</li><li>A tax deed application costs $75.</li><li>On a homestead parcel, the opening bid adds half of the latest assessed value.</li></ul><p>A Miami seller with arrears can still close, because the title company clears the lien from proceeds. Request a payoff figure from the tax collector early.</p>"
   },
   {
    "h2": "What does a tax deed sale mean for a Miami owner?",
-   "html": "<p>If a certificate stays unpaid, the holder may apply for a tax deed two years after April 1 of the issue year. The clerk then runs a public auction, and the high bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater.</p><p>The tax collector lists the people who must be noticed: the titleholder, lienholders, mortgagees and contract-for-deed vendees. If no one bids, the land goes on a list of lands available for taxes. The county then has 90 days to buy at the opening bid.</p><p>A Miami owner who is behind should talk to the tax collector long before an auction is set, since selling the house normally clears the lien at closing.</p>"
+   "html": "<p>When a certificate sits unpaid, the clerk can run a public auction. The top bidder posts a nonrefundable deposit, the larger of 5 percent of the bid or $200.</p><p>The tax collector lists who must receive notice: the titleholder, lienholders, mortgagees and contract-for-deed vendees. With no bidder, the land joins a list of lands available for taxes, and the county has 90 days to buy at the opening bid.</p><p>An owner who is behind should talk to the tax collector long before an auction is set, since a sale of the house normally clears the lien.</p>"
   },
   {
    "h2": "Where do Miami deeds get recorded?",
@@ -49,23 +49,23 @@
  "faqs": [
   {
    "q": "Is the Miami city millage rate 7.1080?",
-   "a": "Yes, for city operations in the county's 2026 adopted chart, plus 0.2536 for debt service. The total for all authorities is 19.9544 mills, or 20.3344 inside the downtown development area line."
+   "a": "Yes, for city operations on the county's 2026 adopted chart, with 0.2536 more for city debt. All authorities together total 19.9544 mills, or 20.3344 on the downtown development line."
   },
   {
    "q": "Can a Miami landlord claim homestead?",
    "a": "No. Homestead needs the owner to live there as a permanent residence by January 1, and renting the unit ends it."
   },
   {
-   "q": "What discount do I get for paying a Miami tax bill early?",
-   "a": "Four percent in November, 3 in December, 2 in January and 1 in February. March payments carry no discount."
+   "q": "What early-payment discounts apply to a Miami tax bill?",
+   "a": "The schedule steps down monthly from 4 percent for November to 1 percent for February. March is due at the full amount."
   },
   {
    "q": "Does the Miami property appraiser collect tax?",
    "a": "No. Its homepage says it neither sends bills nor sets or collects taxes. Pay the Miami-Dade tax collector."
   },
   {
-   "q": "How do I find out my Miami taxable value?",
-   "a": "Search your address, owner name or folio on the property appraiser site, or call 305-375-4712 and ask for an assessment review."
+   "q": "How do I look up my Miami taxable value?",
+   "a": "Search by address, owner name or folio on the property appraiser's site, or call 305-375-4712 to ask for an assessment review."
   }
  ],
  "sources": [

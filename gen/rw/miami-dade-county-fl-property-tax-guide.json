@@ -2,12 +2,12 @@
  "slug": "miami-dade-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "How big is Miami-Dade County and who pays tax there?",
-   "html": "<p>Miami-Dade County covers 1,899.90 square miles of land and had an estimated 2,802,029 residents in July 2025, according to the Census Bureau. The county has 1,125,274 housing units, and 52.2 percent of occupied homes are owner occupied.</p><p>The median value of an owner-occupied home is $463,000 for 2020 to 2024. Median household income is $71,753 in 2024 dollars. Those figures matter because the tax bill follows value, and values here sit well above many Florida counties.</p>"
+   "h2": "How big is Miami-Dade County, and who pays the tax?",
+   "html": "<p>The county spans 1,899.90 square miles of land and held an estimated 2,802,029 people in mid-2025, per the Census Bureau. Housing units total 1,125,274, and owners live in 52.2 percent of them.</p><p>A typical owned home was valued at $463,000 in the 2020 to 2024 survey. Median household income is $71,753 in 2024 dollars. Tax follows value, and values here sit above many Florida counties.</p>"
   },
   {
    "h2": "Which Miami-Dade offices handle property tax?",
-   "html": "<p>Three county offices split the work, and each answers a different question.</p><ul><li>The Property Appraiser sets values and decides exemptions. The main office is at 111 NW 1st Street, Suite 710, and a south branch sits at 10710 SW 211 Street in Cutler Bay. Phone 305-375-4712.</li><li>The Tax Collector sends bills and takes payment at 13 locations, online and through mobile offices.</li><li>The Clerk of the Circuit Court records deeds and runs the Value Adjustment Board filing desk and tax deed sales under state law.</li></ul><p>The appraiser states plainly that it does not send tax bills.</p>"
+   "html": "<p>Three county offices share the work, and each answers a different question.</p><ul><li>The Property Appraiser sets values and rules on exemptions. Its main office is 111 NW 1st Street, Suite 710, with a south branch at 10710 SW 211 Street in Cutler Bay. Phone 305-375-4712.</li><li>The Tax Collector mails bills and takes payment at 13 locations, online and through mobile offices.</li><li>The Clerk of the Circuit Court records deeds, and state law gives it the filing desk for value petitions and the tax deed auctions.</li></ul><p>The appraiser states plainly that it mails no tax bills.</p>"
   },
   {
    "h2": "What did the 2026 Miami-Dade tax roll look like?",
@@ -23,11 +23,11 @@
   },
   {
    "h2": "When are Miami-Dade property taxes due?",
-   "html": "<p>Bills go out in November, and the discount ladder runs 4 percent in November, 3 in December, 2 in January and 1 in February. State law makes unpaid bills delinquent on April 1.</p><ul><li>The Department of Revenue says the Notice of Proposed Property Taxes arrives in August.</li><li>A value challenge is filed with the clerk within 25 days of that notice.</li><li>Denial of an exemption can be petitioned to the Value Adjustment Board within 30 days of the denial letter being mailed.</li><li>Installment prepayment requests go to the tax collector by May 1.</li></ul>"
+   "html": "<p>Bills go out in November, with a discount that falls each month from 4 percent to 1 percent by February. By state law, whatever is unpaid on April 1 turns delinquent.</p><ul><li>The state calendar has the proposed-tax notice arriving in August.</li><li>A value challenge goes to the clerk within 25 days of that notice.</li><li>If an exemption is denied, the board petition is due 30 days after the letter is mailed.</li><li>Installment prepayment requests go to the tax collector by May 1.</li></ul>"
   },
   {
    "h2": "How do Miami-Dade tax certificates and tax deeds work?",
-   "html": "<p>On unpaid bills, the tax collector sells a tax certificate to the bidder who accepts the lowest interest rate, in quarter-percent steps. Certificates nobody wants are struck to the county at the maximum rate. Sales must be complete by June 1.</p><p>A homestead property with less than $250 delinquent goes to the county and not to auction. The collector keeps a 5 percent commission on certificates.</p><ul><li>The holder may not demand payment from the owner until two years after April 1 of the issue year.</li><li>A tax deed application carries a $75 fee.</li><li>Auction deposits are 5 percent of the bid or $200, whichever is greater, and the balance is due within 24 hours, excluding weekends and holidays.</li></ul><p>The tax collector's homepage lists a Tax Certificate Sales service, and the clerk runs the deed auction. Ask either office for the current sale schedule.</p>"
+   "html": "<p>When a bill stays unpaid, the tax collector sells a certificate to whoever bids the lowest interest rate, in quarter-percent steps. Certificates nobody wants go to the county at the maximum rate, and all sales wrap up by June 1.</p><p>Homestead property with under $250 owed goes to the county instead of auction. The collector keeps a 5 percent commission.</p><ul><li>No holder may press an owner until two years after April 1 of the issue year.</li><li>A tax deed application costs $75.</li><li>At auction, the winner posts the larger of 5 percent or $200 and pays the rest within 24 hours, not counting weekends and holidays.</li></ul><p>The tax collector's homepage lists a Tax Certificate Sales service, and the clerk runs the deed auction. Ask either office for the current sale schedule.</p>"
   },
   {
    "h2": "What limits how fast Miami-Dade tax bills can grow?",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "What relief programs exist for Miami-Dade homeowners?",
-   "html": "<p>The standard homestead exemption is up to $50,000, filed with the appraiser by March 1. Seniors 65 and older may receive an additional exemption of up to $50,000 if a local ordinance allows it and household income is within the limit.</p><p>Veterans have several paths. A disabled ex-servicemember with a 10 percent or greater rating gets a $5,000 reduction, and a veteran 65 or older with a permanent service-connected disability may receive a discount equal to the VA percentage.</p><p>Deferral is also available. File Form DR-570 with the tax collector by March 31 to defer taxes above 5 percent of household income, or 3 percent for a permanent resident 65 or older.</p>"
+   "html": "<p>The base exemption is up to $50,000, filed with the appraiser by March 1. Seniors 65 and older may qualify for a further $50,000 if a local ordinance allows it and household income is within the limit.</p><p>Veterans have several paths. A disabled ex-servicemember rated 10 percent or more gets a $5,000 reduction, and a veteran 65 or older with a permanent service-connected disability may receive a discount matching the VA percentage.</p><p>Deferral is another option. File Form DR-570 with the tax collector by March 31 to defer the part of the tax above 5 percent of household income, or 3 percent for a permanent resident 65 or older.</p>"
   },
   {
    "h2": "What else can the property appraiser's office do for me?",
@@ -43,7 +43,7 @@
   },
   {
    "h2": "How are taxes handled when a Miami-Dade house sells?",
-   "html": "<p>The title agent gets a payoff from the tax collector and pays the year's tax from the seller's proceeds. Your contract decides how the year's tax is split between buyer and seller.</p><p>Deed stamps in this county run 60 cents per $100 plus a 45 cents per $100 surtax that the state revenue department says does not apply to a document transferring only a single-family dwelling. The clerk collects these when the deed is recorded.</p>"
+   "html": "<p>The title agent asks the tax collector for a payoff and settles the year's tax from the seller's proceeds. Your contract decides how that year's tax is divided between buyer and seller.</p><p>Deed stamps here run 60 cents per $100, plus a 45 cents per $100 surtax that the revenue department says is not due on a document moving only a single-family dwelling. The clerk collects them at the counter or by e-filing.</p>"
   }
  ],
  "faqs": [
@@ -57,11 +57,11 @@
   },
   {
    "q": "When does the Miami-Dade value appeal window close?",
-   "a": "Twenty-five days after the Notice of Proposed Property Taxes, which arrives in August. A 2026 window has already closed."
+   "a": "Twenty-five days after the notice of proposed taxes, which arrives in August. The 2026 window has already closed."
   },
   {
-   "q": "Can I get a discount for paying early in Miami-Dade?",
-   "a": "Yes: 4 percent in November, 3 in December, 2 in January and 1 in February."
+   "q": "Does Miami-Dade offer a discount for early payment?",
+   "a": "Yes. It starts at 4 percent for November and drops one point each month through February."
   },
   {
    "q": "Does Miami-Dade have a Save Our Homes cap?",

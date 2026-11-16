@@ -1,0 +1,93 @@
+{
+ "sections": [
+  {
+   "h2": "Which offices handle property tax for Ocala, Florida?",
+   "html": "<p>Ocala's tax bill comes from Marion County offices. The Marion County Property Appraiser sets values and decides exemptions, and the Marion County Tax Collector sends the bills. The tax collector's page lists the City of Ocala beside the county commission and school board as bodies that set millage rates.</p><p>The appraiser's site lists an office at 501 SE 25th Avenue in Ocala and tells visitors that walk-ins are welcome or an appointment can be made. Its online services include a homestead exemption e-file, a property tax estimator, a mortgage estimate letter, a mailing address change request and a link to the value adjustment board.</p><p>One note on names: another Marion County exists in Texas, with its own tax office, so make sure you are on the Florida Marion County sites when you look up a parcel.</p>"
+  },
+  {
+   "h2": "What does the Census say about Ocala homes and households?",
+   "html": "<p>Ocala is a compact city of 47.26 square miles with 71,753 people in the July 2025 estimate, up 12.7 percent from the 2020 base. That is 1,345.6 people per square mile as of the 2020 count.</p><table><caption>Ocala housing and income figures (source: Census QuickFacts, Ocala city, 2020 to 2024 unless noted)</caption><thead><tr><th>Measure</th><th>Figure</th></tr></thead><tbody><tr><td>Owner-occupied rate</td><td>52.1 percent</td></tr><tr><td>Median owner-occupied value</td><td>$241,400</td></tr><tr><td>Median gross rent</td><td>$1,359</td></tr><tr><td>Households</td><td>27,152</td></tr><tr><td>Median household income</td><td>$56,376</td></tr><tr><td>Persons in poverty</td><td>21.1 percent</td></tr></tbody></table><p>With only about half of homes owner-occupied, Ocala has many rental parcels. Rented homes cannot hold a homestead exemption, so a landlord selling an Ocala rental should expect the buyer's bill to follow the non-homestead rules.</p>"
+  },
+  {
+   "h2": "How do Ocala owners find out what a house is taxed at?",
+   "html": "<p>The tax is the taxable value after exemptions, multiplied by the combined millage of the taxing bodies. The Marion County tax collector's page describes it this way, with the appraiser producing the roll and certifying it to the collector.</p><p>Florida's Department of Revenue says the notice of proposed property taxes arrives in August. A challenge to value is a petition filed with the clerk within 25 days of that notice, using the DR-486 forms. Denied exemptions go to the value adjustment board 30 days after the denial letter was mailed.</p><ul><li>January 1: the assessment date.</li><li>March 1: exemption filing deadline.</li><li>August: the notice of proposed taxes.</li><li>November: tax bills go out.</li></ul><p>The appraiser's property tax estimator is a good starting point for a buyer. Remember that a buyer's value is reset after a sale, and a seller's old bill will not match it.</p>"
+  },
+  {
+   "h2": "When are Ocala property taxes due, and what discounts apply?",
+   "html": "<p>Florida bills arrive in November, and a 4 percent discount applies to November payments, 3 percent to December, 2 percent to January and 1 percent to February. Unpaid taxes become delinquent on April 1.</p><p>Early payment pays off. The collector for neighboring Monroe and Nassau counties prints the same ladder, since it is set by state law. If you do not get a bill, the state's collection rules still make the owner responsible for finding out the amount.</p><p>Ocala owners who cannot pay in a lump sum can ask the tax collector about installments, which the state says require an application to the collector by May 1 of the assessment year, and about partial payments before the delinquency date at the collector's discretion. Seniors with limited income may defer part of a homestead bill by filing Form DR-570 by March 31.</p>"
+  },
+  {
+   "h2": "How do homestead and Save Our Homes work for an Ocala seller?",
+   "html": "<p>Homestead gives up to $50,000 off taxable value. The first $25,000 applies to every tax and the second layer, on value over $50,000, applies only to non-school taxes. File Form DR-501 with the appraiser by March 1, with the home your permanent residence on January 1.</p><p>Save Our Homes holds yearly assessed value growth to the lower of 3 percent or CPI. State data shows 2.7 percent for 2026 and 2.9 percent for 2025. A sale resets assessment to just value the following January 1, with exceptions for spouse transfers and certain transfers on death.</p><p>An Ocala owner buying a new Florida home can use portability if the new home becomes a homestead within three years of January 1 of the year the old one was abandoned. Amendments passed in 2026 first apply to the 2027 roll per the statute page.</p>"
+  },
+  {
+   "h2": "What taxes and fees apply when an Ocala house sells?",
+   "html": "<p>Deed stamp tax in Marion County follows the statewide rate of 70 cents per $100 of consideration, under section 201.02. The revenue department says each party to the deed is liable and the clerk collects it when the deed is recorded. Recording costs include $5.00 for page one and $4.00 for each later page under section 28.24.</p><ul><li>Taxable deeds include warranty, special warranty, quit claim and certificate of title.</li><li>A personal representative's deed under a probated will is listed as not taxable.</li><li>Spousal homestead and divorce deeds for a marital home can be exempt.</li></ul><p>If property tax is behind, tax certificates are sold by June 1 and a certificate holder may seek a deed after two years from April 1 of issuance. Clear the account with the tax collector before listing, so that title work stays quick.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which county taxes a home in Ocala?",
+   "a": "Marion County, Florida. Its property appraiser values the home and its tax collector bills it, with City of Ocala millage among the rates included."
+  },
+  {
+   "q": "What is Ocala's median home value according to the Census?",
+   "a": "$241,400 for owner-occupied homes in the 2020 to 2024 figures, with a median gross rent of $1,359 and an owner-occupied rate of 52.1 percent."
+  },
+  {
+   "q": "Where is the Marion County Property Appraiser's office?",
+   "a": "501 SE 25th Avenue in Ocala, per the appraiser's site, which welcomes walk-ins or appointments and lists a phone number of (352) 368-8300."
+  },
+  {
+   "q": "Can an Ocala rental property have homestead?",
+   "a": "No. Homestead is lost if the unit is rented, so a rental is assessed without the exemption and the owner's cap does not transfer to a buyer."
+  },
+  {
+   "q": "Is the Ocala tax bill reset when the house sells?",
+   "a": "Yes. Any sale or transfer of title resets assessment to just value on the next January 1, so a buyer should not assume the seller's bill."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Marion County Tax Collector, Property Taxes",
+   "url": "https://mariontax.com/property-taxesproperty-taxes"
+  },
+  {
+   "title": "Marion County Property Appraiser",
+   "url": "https://www.pa.marion.fl.us/"
+  },
+  {
+   "title": "Census QuickFacts, Ocala city",
+   "url": "https://census.gov/quickfacts/ocalacityflorida"
+  },
+  {
+   "title": "Florida DOR, Taxpayer information",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  },
+  {
+   "title": "Florida DOR, Homestead (pt113)",
+   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
+  },
+  {
+   "title": "Florida DOR, Save Our Homes (pt112)",
+   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  },
+  {
+   "title": "Florida DOR, Documentary stamp tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Statutes 201.02",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
+  },
+  {
+   "title": "Florida Statutes 28.24",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
+  },
+  {
+   "title": "Florida Statutes 197.502",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
+  }
+ ],
+ "slug": "ocala-fl-property-tax-guide"
+}
