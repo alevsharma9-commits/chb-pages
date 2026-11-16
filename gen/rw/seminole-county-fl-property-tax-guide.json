@@ -2,11 +2,11 @@
  "slug": "seminole-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who sends the property tax bill in Seminole County?",
+   "h2": "Which offices handle Seminole County property tax?",
    "html": "<p>In Seminole County the paper trail runs through three elected offices. One sets your value, one collects your money, and one files your deed.</p><p>Every Florida county elects the same officers, so a buyer from another county will recognize the setup. Knowing which counter to call saves days during a sale.</p><ul><li>Seminole County Property Appraiser: value, exemptions and portability.</li><li>Seminole County Tax Collector: bills, installment plans, deferral requests and certificates.</li><li>Clerk of Court: recording the deed and stamp tax.</li></ul>"
   },
   {
-   "h2": "What does Seminole County look like for a home seller?",
+   "h2": "How big and how dense is Seminole County?",
    "html": "<p>Seminole County held 491,884 people by the Bureau's mid-2025 estimate, packed onto about 309 square miles. In 2020 that meant 1,521.9 neighbors per square mile.</p><p>Census survey years 2020 to 2024 put a typical owned home at $386,900. Two in three households (66.2 percent) own, and midpoint household income was $85,761. Seniors account for 18.3 percent of the population, and Florida starts some tax breaks at 65.</p><table><caption>Seminole County by the numbers, Census QuickFacts</caption><thead><tr><th>Item</th><th>Value</th></tr></thead><tbody><tr><td>Residents, mid-2025 estimate</td><td>491,884</td></tr><tr><td>Homes and apartments counted, mid-2025</td><td>206,563</td></tr><tr><td>Typical owner-occupied home value</td><td>$386,900</td></tr><tr><td>Typical monthly rent</td><td>$1,783</td></tr><tr><td>Permits issued in 2025</td><td>1,997</td></tr><tr><td>Average one-way commute</td><td>26.8 minutes</td></tr></tbody></table>"
   },
   {
@@ -22,7 +22,19 @@
    "html": "<p>A closing wipes the slate. Any transfer of title is a change of ownership, so the buyer's assessment jumps to market value the next January 1 and none of your cap carries over.</p><p>You, though, can take the savings with you. Portability moves the gap between market and assessed value, to a ceiling of $500,000, onto a new Florida homestead set up within three years. File it with the new homestead application by March 1. The yearly cap itself is the smaller of 3 percent or inflation, and it came to 2.7 percent for 2026.</p><p>Homestead lapses if you rent the place or move away. Call the appraiser before turning a Seminole County house into a rental.</p>"
   },
   {
-   "h2": "What does the Seminole County deed cost at closing?",
+   "h2": "What should a Seminole County buyer of an investment or second home expect?",
+   "html": "<p>Without homestead, the 10 percent annual limit on assessment growth for non-homestead property is what slows increases, and a change of ownership resets it.</p><p>Owners occupy 66.2 percent of homes, and the Census lists a typical rent of $1,783 for 2020 to 2024. A landlord who buys a house to rent never qualifies for homestead, so budget the full market-value tax from the first bill. A seller marketing a rental should expect buyers to ask for the property's tax history.</p>"
+  },
+  {
+   "h2": "How can a Seminole County owner contest a value or a denied exemption?",
+   "html": "<p>Value disputes go to the Value Adjustment Board by petition inside the 25-day window printed on the proposed-tax notice. Ask the appraiser's office to review the property record first and bring any errors to its attention.</p><p>If the appraiser denies an exemption, a classification or a portability claim, the state gives 30 days from the date the denial letter was mailed. Hearings run from November. Skipping the window means waiting for the next cycle, which matters when a sale is pending and the buyer wants a lower carrying cost.</p><ul><li>Check the notice for the exact deadline.</li><li>Gather recent sales and photos of defects.</li><li>Ask the title agent how a pending petition affects the closing.</li></ul>"
+  },
+  {
+   "h2": "What paperwork should a Seminole County seller gather before listing?",
+   "html": "<p>Pull the latest bill and the notice of proposed taxes so buyers see the exemptions and caps currently on the parcel. Confirm whether the property had homestead on January 1 and whether any deferral or installment plan is active, because each leaves a trail the title company will find.</p><p>Gather the deed, the payoff letter from any lender, and any open permits. If the seller plans to port the Save Our Homes difference, copy the TRIM notice that shows it, since the new county's appraiser will want the amount. Taking these steps early shortens the time between contract and closing.</p>"
+  },
+  {
+   "h2": "What do the deed and recording cost in Seminole County?",
    "html": "<p>Florida levies seventy cents per hundred dollars of price. Seminole is not Miami-Dade, the lone county with a different schedule. A loan the buyer assumes counts toward the price.</p><p>Everyone on the deed is answerable, so the purchase agreement should name who funds it. Recording starts at $5.00 for page one, then $4.00 a page, before technology add-ons. Probated estates get a break: a personal representative's deed is listed as not taxable.</p>"
   },
   {
@@ -44,15 +56,15 @@
    "a": "In November, from the tax collector. Proposed-tax notices come first, in mid-August."
   },
   {
-   "q": "Where do I file a homestead exemption in Seminole County?",
+   "q": "Where is Seminole County homestead filed?",
    "a": "At the property appraiser's office, by March 1, using Form DR-501. The home must already be your permanent residence on January 1."
   },
   {
-   "q": "What is the deadline to dispute a Seminole County assessment?",
+   "q": "How long is the Seminole County appeal window?",
    "a": "You get 25 days from the August notice. The petition, on a DR-486 form, goes through the clerk to the Value Adjustment Board."
   },
   {
-   "q": "Who pays documentary stamp tax when I sell a Seminole County house?",
+   "q": "Who pays stamp tax on a Seminole County sale?",
    "a": "The law makes every party to the deed liable, so the sale contract should name who pays. The rate is 70 cents per $100 of consideration, handled by the clerk when the deed is recorded."
   }
  ],
