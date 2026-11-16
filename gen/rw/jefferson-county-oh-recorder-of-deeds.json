@@ -1,61 +1,65 @@
 {
- "slug": "jefferson-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "What happens at the Recorder's counter in Steubenville?",
-   "html": "<p>This is where the permanent record is kept of each paper that moves land, secures a mortgage or adds some other charge on a Jefferson County parcel. The office is at 301 Market Street, Steubenville, OH 43952. A statewide legal aid directory shows it open weekdays, opening at 8:30 in the morning and closing at 4:30 in the afternoon. Ask for the current fee schedule before you go. The county's 2025 financial report counts five employees in the Recorder's office, so send complete packets and call ahead.</p>\n<p>Jefferson County runs along the Ohio River and the West Virginia line, with Steubenville as seat and largest city. The county's financial report counts 14 townships inside its 410 square miles, with Columbiana County on the north and Belmont County on the south, as the report describes the area. Every parcel in the county is recorded here, whether it sits in Steubenville, in Toronto, the one other city, or out in a village or township. Property across the river in Brooke or Hancock County, West Virginia, falls under West Virginia's own recording system.</p>"
+   "h2": "The Recorder's office in Steubenville",
+   "html": "<p>Think of this office as the county's memory for land: every deed, mortgage and other charge on a Jefferson County parcel ends up in its permanent record. The office is at 301 Market Street, Steubenville, OH 43952, and keeps weekday hours of 8:30 am to 4:30 pm. Request the current fee schedule when you phone. The staff is small, so send complete packets and call ahead.</p>\n<p>All land in the county is recorded in this one place, from lots in Steubenville and Toronto to farms in the townships. Property across the river in Brooke or Hancock County, West Virginia, falls under West Virginia's own recording system.</p>"
   },
   {
-   "h2": "What goes into a recording fee on a Jefferson County deed?",
-   "html": "<p>Under R.C. 317.32 every charge pairs a recorder's base fee with an equal fee for the Ohio housing trust fund. Get the Recorder's total for your paper before writing a check. The statute's pieces are:</p>\n<ul>\n<li>pages one and two: seventeen dollars to the recorder and seventeen to the trust fund</li>\n<li>every later page, or fraction of a page, at legal size: four dollars and four dollars</li>\n<li>each marginal reference entered by a separate instrument: two dollars and two dollars</li>\n<li>a certified copy: one dollar and one dollar a page, with fifty cents and fifty cents more for the seal</li>\n<li>an optional preservation surcharge, up to five dollars, that stays in the county's general fund</li>\n</ul>\n<p>The surcharge entered the statute through Senate Bill 94, effective October 24, 2024. Only the Recorder can say whether Jefferson County charges it and how much.</p>"
+   "h2": "What goes into a recording fee",
+   "html": "<p>R.C. 317.32 sets each recording charge as two equal halves: a base fee for the recorder and a matching fee for the Ohio housing trust fund. Get the Recorder's total for your paper before you write a check.</p>\n<table><caption>Statutory recording charges, each paid twice (recorder and trust fund)</caption><thead><tr><th>Service</th><th>Each of the two fees</th></tr></thead><tbody>\n<tr><td>Pages one and two</td><td>Seventeen dollars</td></tr>\n<tr><td>Each added legal-size page or partial page</td><td>Four dollars</td></tr>\n<tr><td>Marginal reference made by separate instrument</td><td>Two dollars</td></tr>\n<tr><td>Certified copy, per page</td><td>One dollar, plus fifty cents for the seal</td></tr>\n</tbody></table>\n<p>Senate Bill 94, effective October 24, 2024, let counties tack on a preservation surcharge of up to five dollars, kept in the general fund. Whether Jefferson County does so, and for how much, is a question for the Recorder.</p>"
   },
   {
-   "h2": "Which conveyance charges does a Steubenville-area seller owe?",
-   "html": "<p>Two layers are collected at the Auditor's counter. The Auditor's own fee, in R.C. 319.54(G)(3), is the larger of one dollar or ten cents for each hundred dollars of value, fractions counted. Beyond it, a county may adopt a transfer tax under R.C. 322.02, limited to thirty cents on each hundred dollars.</p>\n<p>In its 2025 annual financial report, Jefferson County refers to a four mill permissive conveyance fee and says one of those mills is dedicated to the GIS Fund by the commissioners. The Auditor is at 301 Market Street, P.O. Box 159, Steubenville, with phone (740) 283-8511 and fax (740) 283-8520. Confirm the rate with that office, since a permissive levy is set by commissioner resolution.</p>\n<p>The seller pays, per R.C. 319.202(D). An exempt transfer travels with a statement of the exemption's basis instead of the fee.</p>"
+   "h2": "Conveyance charges a seller pays",
+   "html": "<p>The Auditor's counter collects in two layers. First comes the Auditor's fee under R.C. 319.54(G)(3): ten cents per hundred dollars of value, fractions counted, with a one dollar floor. On top of that, R.C. 322.02 lets a county adopt a transfer tax, capped at thirty cents per hundred dollars.</p>\n<p>The county's 2025 annual financial report refers to a four mill permissive conveyance fee, with one of those mills dedicated to the GIS Fund by the commissioners. The Auditor is at 301 Market Street, P.O. Box 159, Steubenville, with phone (740) 283-8511 and fax (740) 283-8520. Call that office to confirm the rate, since a permissive levy is set by commissioner resolution.</p>\n<p>Under R.C. 319.202(D) the seller pays. A transfer that qualifies as exempt carries a written statement of the reason in place of the fee.</p>"
   },
   {
-   "h2": "Which family transfers in Jefferson County skip the conveyance fee?",
-   "html": "<p>About two dozen exemptions appear in R.C. 319.54(G)(3). These are the ones a family handling a house in the county is likely to meet:</p>\n<ul>\n<li>a gift between husband and wife, or to a child from a parent, or to the spouse of either</li>\n<li>a deed among the heirs or devisees of the same decedent, with no money paid</li>\n<li>a deed into a trust that its maker can revoke at will</li>\n<li>a deed that corrects or confirms one already of record</li>\n<li>an interest worth one hundred dollars or less</li>\n<li>a transfer by court order, except one that results from a sale under that order</li>\n</ul>\n<p>A sale to an outside buyer is a different matter. Even a fast as-is sale for cash is a fee-paying transfer, and the seller covers the fee at closing.</p>"
+   "h2": "Family transfers that skip the conveyance fee",
+   "html": "<p>The statute lists about two dozen exemptions. These are the ones families use most:</p>\n<ul>\n<li>a gift from one spouse to the other, or from a parent to a child or the child's spouse</li>\n<li>a deed passing between heirs or devisees of one decedent, as long as no money is paid</li>\n<li>a deed placing the house in a trust the maker can cancel at will</li>\n<li>a corrective or confirming deed that repairs one already of record</li>\n<li>an interest worth one hundred dollars or less</li>\n<li>a court-ordered transfer, unless it follows a sale under that order</li>\n</ul>\n<p>Selling to an outside buyer is different. Even a quick as-is cash sale is a fee-paying transfer.</p>"
   },
   {
-   "h2": "Who employs the people buying homes in Jefferson County?",
-   "html": "<p>The county's 2025 annual financial report ranks ten large employers, and the table shows the top five. The report puts total county employment at 26,800.</p>\n<table><thead><tr><th>Employer</th><th>Business</th><th>Employees</th></tr></thead><tbody>\n<tr><td>Trinity Health System</td><td>Acute care hospital</td><td>1,917</td></tr>\n<tr><td>Wal-Mart Distribution Center</td><td>Retail food sales distribution</td><td>1,014</td></tr>\n<tr><td>Titanium Metals Corporation</td><td>Titanium mill production</td><td>780</td></tr>\n<tr><td>Jefferson County Government</td><td>Local government</td><td>621</td></tr>\n<tr><td>Franciscan University</td><td>Higher education</td><td>577</td></tr>\n</tbody></table>\n<p>Source: Jefferson County Annual Comprehensive Financial Report for 2025. The same report puts 2025 unemployment at 4.90% and population at 63,597, which ranks 39th among Ohio's 88 counties. Wikipedia traces the county's industrial turn to 1856, when a rolling mill was built and a coal shaft sunk.</p>"
+   "h2": "Order of steps: Auditor, then Recorder",
+   "html": "<p>The Auditor is first in line. If the county levies a transfer tax, the grantor owes it, paid to the auditor when the deed is delivered and before it is shown to the recorder (R.C. 322.02). The Auditor notes the fee amount on the deed, and the deed then goes to the Recorder.</p>\n<p>A Steubenville title company can file a closing package electronically instead of carrying it across the floor, since Ohio recorders, auditors and engineers must provide electronic recording of conveyance papers (R.C. 317.13). If you are handling the deed yourself, carry the signed, notarized original in case the office wants paper.</p>"
   },
   {
-   "h2": "How do Jefferson County housing figures compare?",
-   "html": "<p>QuickFacts lists 30,964 housing units for July 2025, with 70.5% occupied by their owners. Its 2020 to 2024 figures put a typical owner-occupied home at $127,800, monthly gross rent at $835 and household income at $59,055. Residents 65 and older make up 23.9% of the county, a bigger share than in Holmes, Huron or Jackson, and 17.7% of people are in poverty.</p>\n<p>Census data show 27,143 households averaging 2.29 people, 3,559 veterans and 86.6% broadband adoption. The head count slid 2.5% from the 2020 base to July 2025, the steepest drop of the four counties. The Weirton-Steubenville metropolitan area, which adds Brooke and Hancock counties in West Virginia, is the labor market most residents work in.</p>"
+   "h2": "What the Recorder does with your deed",
+   "html": "<p>Once the deed arrives with the Auditor's mark on it, the Recorder checks that it can be filed, enters it in the permanent record and returns it. After that the public record names the owner of the parcel. Before it, a buyer's claim is weaker than it looks, so closing agents do not let a signed deed sit on a desk.</p>\n<p>The same counter handles the other papers that tie to your parcel. The buyer's new mortgage is recorded here, and so is the release that clears your old loan. Easements and leases go through the same office. A stray lien or an old mortgage nobody ever released can slow a closing by days, so raise it with your title company before you list.</p>"
   },
   {
-   "h2": "In what order do the Auditor and Recorder act on a Jefferson County deed?",
-   "html": "<p>The Auditor is first in line. Any county transfer tax is owed by the grantor, payable to the auditor at delivery of the deed and ahead of presentation to the recorder (R.C. 322.02). The Auditor marks the fee amount on the deed, which then moves on to the Recorder.</p>\n<p>Ohio gave county recorders, auditors and engineers until June 30, 2026 to provide electronic recording of conveyance papers (R.C. 317.13), and that deadline has gone by. A Steubenville title company can file a closing package electronically instead of carrying it across the floor. A seller handling a deed alone should bring the signed, notarized original if the office wants paper.</p>"
+   "h2": "Selling for cash in Jefferson County",
+   "html": "<p>A cash buyer has no lender's appraisal or underwriting to wait on, so the courthouse side is a short chain: deed, Auditor, Recorder. The fees stay the same, though. Recording charges and the conveyance fee come due on a cash sale just as on a financed one, and you pay the conveyance fee at closing.</p>\n<p>A house that needs work or has an unpaid tax bill calls for an early payoff figure from the title company. Amounts owed on the parcel come out of your proceeds, and the title company cannot promise a closing date without them. Heirs selling an inherited house should read the exemption list above first, since a deed between heirs with no money changing hands may owe nothing.</p>"
   },
   {
-   "h2": "How did Steubenville and Jefferson County begin?",
-   "html": "<p>The United States built Fort Steuben in 1786 to protect surveyors mapping land west of the Ohio River. Settlers built homes around it, calling the place La Belle at first, and the town was later renamed Steubenville for the fort. La Belle was picked as county seat when the county was created. Through the first half of the 19th century Steubenville worked mainly as a port, while the rest of the county held small villages and farms. The county was organized on July 29, 1797, six years ahead of Ohio statehood, and reached its current boundaries in 1833 once Carroll County was formed.</p>\n<p>Route 7 carries traffic north and south through the county, and U.S. Route 22 leads east toward Pittsburgh International Airport. About 408 square miles of land are bounded by Columbiana, Belmont, Carroll and Harrison counties and by West Virginia.</p>"
+   "h2": "Housing figures for Jefferson County",
+   "html": "<p>Jefferson County had 63,597 residents and 30,964 housing units in 2025, and owners occupy 70.5% of homes. The typical owner-occupied home sells near a $127,800 value, monthly gross rent is $835 and household income is $59,055. The county's population has slid 2.5% since the 2020 base, so expect a buyer pool that leans local. Many residents work in the Weirton-Steubenville metropolitan area, which adds Brooke and Hancock counties in West Virginia. Buyers who commute across the river may be shopping in both states, so be ready to explain Ohio's process if an out-of-state agent calls. Pricing near the river towns often moves with job news from the Steubenville area, and a clean deed with clear paperwork keeps a sale on schedule when a buyer is on a deadline.</p>"
+  },
+  {
+   "h2": "Before you take the deed in",
+   "html": "<p>Pull these together first: the signed, notarized deed, the parcel number and the full legal description. Phone the Auditor about the conveyance fee and the permissive fee. Phone the Recorder for the total on your page count, including any preservation surcharge. An exempt transfer needs its exemption statement stapled to the deed.</p>\n<p>Your lender files its own release when the mortgage is paid off, and your title company can confirm it reached the Recorder. File the Auditor's marked copy with the recorded deed.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Which office records the deed on a house in Steubenville?",
-   "a": "The Jefferson County Recorder, 301 Market Street. Steubenville lies inside Jefferson County, so its deeds are filed there."
+   "a": "The Jefferson County Recorder at 301 Market Street. Steubenville is inside Jefferson County, so deeds there are filed in that office."
   },
   {
    "q": "Does Jefferson County charge the optional document preservation surcharge?",
-   "a": "Ask the Recorder. R.C. 317.32 allows a surcharge of up to five dollars, and the office can tell you what it adds to a deed."
+   "a": "Ask the Recorder. State law lets a county add up to five dollars, and the office can say what, if anything, it adds to a deed."
   },
   {
    "q": "Who pays the conveyance fee on a Jefferson County sale?",
-   "a": "The seller does. R.C. 319.202(D) assigns the Auditor's fee, and any Chapter 322 transfer tax the county levies, to the grantor."
+   "a": "The seller does. As grantor, you owe the Auditor's fee and any Chapter 322 transfer tax the county levies (R.C. 319.202(D))."
   },
   {
-   "q": "Is a gift from a parent to a child exempt from the conveyance fee in Jefferson County?",
-   "a": "Yes. Subdivision (d) of R.C. 319.54(G)(3) covers it. The deed still passes through the Auditor with an exemption statement before recording."
+   "q": "Does a gift of a house from a parent to a child owe the conveyance fee?",
+   "a": "No, subdivision (d) of R.C. 319.54(G)(3) exempts it. The deed still goes to the Auditor with an exemption statement before it is recorded."
   },
   {
    "q": "What is the four mill fee in the Jefferson County financial report?",
-   "a": "It is the county's permissive conveyance fee. The 2025 report says the commissioners dedicated one mill of the four mill fee to the county's GIS Fund, which keeps the parcel maps current."
+   "a": "It is the county's permissive conveyance fee. The commissioners dedicated one mill of it to the county's GIS Fund, which keeps the parcel maps current."
   }
  ],
+ "slug": "jefferson-county-oh-recorder-of-deeds",
  "sources": [
   {
    "title": "Jefferson County Recorder (Ohio Legal Help)",

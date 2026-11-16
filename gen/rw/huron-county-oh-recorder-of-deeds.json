@@ -1,51 +1,54 @@
 {
- "slug": "huron-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where do I take a deed in Norwalk, and until what time?",
-   "html": "<p>Take it to the Huron County Recorder at 12 E. Main Street, Suite 100, Norwalk, OH 44857. The office keeps weekday hours of 8:00 AM to 4:30 PM. Its phone is 419-668-1916, its fax is 419-663-4052, and document requests go to Recorder@huroncounty-oh.gov.</p>\n<p>The real cutoff is 4:20 PM. Anything submitted later is recorded the next business day, according to the office. Ohio recorders file instruments in the order they arrive and note the exact time (R.C. 317.13), so two deeds for the same house are ranked by that clock.</p>\n<p>The same statute told every recorder to post electronic indexes and images of everything recorded since January 1, 1980 by June 30, 2026. A county may require a username and password but cannot charge for one. In Huron County, copies still come from the office.</p>"
+   "h2": "Where to take a deed in Norwalk",
+   "html": "<p>Take it to the Huron County Recorder at 12 E. Main Street, Suite 100, Norwalk, OH 44857. The office keeps weekday hours of 8:00 AM to 4:30 PM. Its phone is 419-668-1916, its fax is 419-663-4052, and document requests go to Recorder@huroncounty-oh.gov.</p>\n<p>The real cutoff is 4:20 PM. Anything submitted later is recorded the next business day. Ohio recorders file instruments in the order they arrive and note the exact time (R.C. 317.13), so two deeds for the same house are ranked by that clock.</p>\n<p>Electronic indexes and images of everything recorded since January 1, 1980 are meant to be posted online. A county may require a username and password but cannot charge for one. Copies still come from the Norwalk office.</p>"
   },
   {
-   "h2": "Which charges apply when a deed is recorded in Huron County?",
-   "html": "<p>The Recorder posts a table effective January 1, 2025. Two pages cost $39.00, up from $34.00, because Senate Bill 94 created a $5.00 document preservation surcharge and Huron County started collecting it on the first day of that year.</p>\n<table><thead><tr><th>Pages</th><th>Recording fee</th></tr></thead><tbody>\n<tr><td>1 to 2</td><td>$39.00</td></tr>\n<tr><td>3</td><td>$47.00</td></tr>\n<tr><td>5</td><td>$63.00</td></tr>\n<tr><td>7</td><td>$79.00</td></tr>\n<tr><td>10</td><td>$103.00</td></tr>\n</tbody></table>\n<p>Source: Huron County Recorder fee table, trimmed for space. Past page two the price climbs $8.00 a page. Each marginal reference adds $4.00, and the standardization guidelines still apply. A mortgage release that points back to a recorded mortgage is the common reason for a marginal reference.</p>"
+   "h2": "Recording charges",
+   "html": "<p>The Recorder's fee table took effect January 1, 2025. Two pages cost $39.00, up from $34.00, because Senate Bill 94 created a $5.00 document preservation surcharge and Huron County started collecting it on the first day of that year.</p>\n<table><caption>Recording fee by page count (partial list)</caption><thead><tr><th>Pages</th><th>Recording fee</th></tr></thead><tbody>\n<tr><td>1 to 2</td><td>$39.00</td></tr>\n<tr><td>3</td><td>$47.00</td></tr>\n<tr><td>5</td><td>$63.00</td></tr>\n<tr><td>7</td><td>$79.00</td></tr>\n<tr><td>10</td><td>$103.00</td></tr>\n</tbody></table>\n<p>Past page two the price climbs $8.00 a page. Each marginal reference adds $4.00, and the standardization guidelines still apply. A mortgage release that points back to a recorded mortgage is the common reason for a marginal reference.</p>"
   },
   {
-   "h2": "Can I record a Huron County deed online?",
-   "html": "<p>Yes, for nearly everything. Plats and vacation documents are the exceptions and must be mailed or brought to Norwalk. Six submitting vendors are listed:</p>\n<ul>\n<li>Corporation Service Company (CSC)</li>\n<li>eRecording Partners Network (EPN)</li>\n<li>Indecomm Global Services</li>\n<li>Simplifile</li>\n<li>Hopdox</li>\n<li>File And Go</li>\n</ul>\n<p>Each vendor sets its own pricing and onboarding, so contact one directly. The office also runs AlertMe, which sends a notice when a paper carrying a name you register is recorded or corrected. An owner who fears a forged filing against the family home can watch for it that way. The Public Access site searches recorded documents, and the Recorder asks that copy requests come by email or phone.</p>"
+   "h2": "Recording a Huron County deed online",
+   "html": "<p>Nearly everything can be sent electronically. Plats and vacation documents are the exceptions and must be mailed or brought to Norwalk. Six submitting vendors are listed:</p>\n<ul>\n<li>Corporation Service Company (CSC)</li>\n<li>eRecording Partners Network (EPN)</li>\n<li>Indecomm Global Services</li>\n<li>Simplifile</li>\n<li>Hopdox</li>\n<li>File And Go</li>\n</ul>\n<p>Each vendor sets its own pricing and onboarding, so contact one directly. The office also runs AlertMe, which sends a notice when a paper carrying a name you register is recorded or corrected. An owner who fears a forged filing against the family home can watch for it that way. The Public Access site searches recorded documents, and the Recorder asks that copy requests come by email or phone.</p>"
   },
   {
-   "h2": "What must a deed show before the Huron County Auditor will transfer it?",
+   "h2": "What a deed must show before the Auditor transfers it",
    "html": "<p>Chapter 14 of the county's conveyance standards, written jointly by the Auditor and the Engineer, lists what the deed has to carry. The Tax Map Department takes files first come, first served, and splits, combinations, annexations and subdivisions can run several days.</p>\n<ul>\n<li>the grantor's original signature, or a certified copy of a court order</li>\n<li>the volume and page of the last recorded deed in the chain of title</li>\n<li>the grantee's full tax mailing address</li>\n<li>the full names of grantor and grantee</li>\n<li>the Auditor's parcel number and the site address</li>\n<li>a completed DTE 100, or the exemption form when the transfer is exempt</li>\n</ul>\n<p>The standards suggest a pre-transfer check at the Tax Map Department before anyone signs. The Auditor is at 12 E. Main Street, Suite 300, phone (419) 668-4304, on weekday hours that match the Recorder's.</p>"
   },
   {
-   "h2": "What does the DTE 100 ask a Huron County seller to disclose?",
-   "html": "<p>The form is the statement of value that travels with the deed. It breaks the price into a new mortgage, any balance assumed and cash, then subtracts whatever was paid for items other than real property. The conveyance fee is figured on the remainder.</p>\n<p>Two questions affect the buyer's tax bill. One asks whether the seller said the home receives the senior, disabled or surviving spouse homestead exemption, which brings in form DTE 101. The other asks about current agricultural use valuation and form DTE 102. A final item is the owner-occupancy application for the 2.5% reduction on qualified levies, and the form warns that skipping it blocks the reduction until a new proper and timely application is filed.</p>\n<p>The Auditor's receipt on the form covers the fee under R.C. 319.54(G)(3) and, where one exists, the Chapter 322 fee. Ask the Auditor what rate is in force.</p>"
+   "h2": "The DTE 100 statement of value",
+   "html": "<p>This form travels with the deed. It breaks the price into a new mortgage, any balance assumed and cash, then subtracts whatever was paid for items other than real property. The conveyance fee is figured on the remainder.</p>\n<p>Two questions affect the buyer's tax bill. One asks whether the home receives the senior, disabled or surviving spouse homestead exemption, which brings in form DTE 101. The other asks about current agricultural use valuation and form DTE 102. A final item is the owner-occupancy application for the 2.5% reduction on qualified levies, and the form warns that skipping it blocks the reduction until a new proper and timely application is filed.</p>\n<p>The Auditor's receipt on the form covers the fee under R.C. 319.54(G)(3) and, where one exists, the Chapter 322 fee. Ask the Auditor what rate is in force.</p>"
   },
   {
-   "h2": "Which Huron County Auditor forms matter to someone selling a home?",
-   "html": "<p>Besides the conveyance forms, the Auditor's Forms page carries the tax applications a seller or buyer may need around closing. Several concern relief that either helps the seller or has to be reapplied for by the buyer:</p>\n<ul>\n<li>DTE 105A and 105B, the homestead exemption applications for senior citizens, disabled persons and surviving spouses</li>\n<li>DTE 105I, the homestead application for disabled veterans and surviving spouses</li>\n<li>DTE 105C, the 2.5% reduction on an owner-occupied home</li>\n<li>DTE 26, the valuation deduction for damaged or destroyed real property</li>\n<li>DTE 23A, the remission of late-payment penalties</li>\n<li>DTE 1, the complaint against the valuation of real property</li>\n</ul>\n<p>The seller's own homestead status is disclosed on the DTE 100, and the buyer should file the owner-occupancy application when the house will be a principal residence. The Auditor's home page keeps a link to current homestead information.</p>"
+   "h2": "Auditor forms around a home sale",
+   "html": "<p>Besides the conveyance forms, the Auditor's Forms page carries the tax applications a seller or buyer may need around closing. Several concern relief that either helps the seller or has to be reapplied for by the buyer:</p>\n<ul>\n<li>DTE 105A and 105B, the homestead exemption applications for senior citizens, disabled persons and surviving spouses</li>\n<li>DTE 105I, the homestead application for disabled service members and surviving spouses</li>\n<li>DTE 105C, the 2.5% reduction on an owner-occupied home</li>\n<li>DTE 26, the valuation deduction for damaged or destroyed real property</li>\n<li>DTE 23A, the remission of late-payment penalties</li>\n<li>DTE 1, the complaint against the valuation of real property</li>\n</ul>\n<p>Your homestead status is disclosed on the DTE 100, and the buyer should file the owner-occupancy application when the house will be a principal residence. The Auditor's home page keeps a link to current homestead information.</p>"
   },
   {
-   "h2": "Who can sign a deed for the Huron County Recorder, and why record it?",
+   "h2": "Signing and recording the deed",
    "html": "<p>The grantor signs, and under R.C. 5301.01 the signature is acknowledged before a judge or court clerk, a county auditor, a county engineer, a notary or a mayor. Most sellers use the notary at a title company or bank.</p>\n<p>Recording follows. R.C. 5301.25 treats an unrecorded deed as fraudulent against a later buyer who paid without knowing of it, which is why closing agents file the same day.</p>\n<p>The Recorder may decline a paper that is not required or authorized to be recorded, or that looks materially false or fraudulent. Someone refused can ask the Huron County Court of Common Pleas for an order. The Recorder has no duty to inspect a deed for mistakes, so the preparer must check the legal description, each name and the notary block. A deed returned for a defect loses its place in line.</p>"
   },
   {
-   "h2": "What is Huron County like for a homeowner?",
-   "html": "<p>Huron County lies in the Firelands, the western section of Connecticut's old Western Reserve, which is why many townships carry Connecticut names. It was created in 1809, organized in 1815, and Norwalk serves as seat. The Norwalk micropolitan area belongs to the Cleveland-Akron-Canton combined area.</p>\n<p>QuickFacts estimates 58,250 residents for July 2025, a 0.5% slip since the 2020 base. Housing units total 25,763, and 74.0% of homes are owner-occupied. The middle owner-occupied home is valued at $166,000, median gross rent is $848 and median household income is $67,878. Hispanic or Latino residents make up 7.9% of the population, the highest share among Holmes, Jackson and Jefferson counties.</p>\n<p>The 23,490 households average 2.45 people, and 88.4% have a broadband subscription, so online searching and e-filing reach most homes. Wikipedia places the Norwalk-Huron County Airport three nautical miles east of downtown Norwalk, and the county touches seven other Ohio counties, Erie to the north and Richland to the south among them.</p>"
+   "h2": "Huron County housing at a glance",
+   "html": "<p>Huron County had 58,250 residents in July 2025 and 25,763 housing units, with 74.0% of homes owner-occupied. The middle owner-occupied home is valued at $166,000, median gross rent is $848 and median household income is $67,878.</p>"
+  },
+  {
+   "h2": "Putting the steps in order",
+   "html": "<p>A typical Huron County sale runs like this. Ask the Tax Map Department to check the description before anyone signs. The seller signs before a notary, and the deed goes to the Auditor with a completed DTE 100 and the conveyance fee. After that the deed is recorded, ideally before 4:20 PM, either at the Norwalk counter or through one of the listed e-recording vendors. Keep the receipts from both offices with your closing file, and note the time stamp on the recorded deed. If the deed comes back for a defect, fix it and resubmit early in the day, because a returned deed loses its place in line.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How much does the Huron County Recorder charge for a three-page deed?",
-   "a": "$47.00, per the table effective January 1, 2025. Pages one and two total $39.00, the third adds $8.00, and a $4.00 charge applies to each marginal reference."
+   "a": "$47.00 under the table effective January 1, 2025. Pages one and two total $39.00, the third adds $8.00, and a $4.00 charge applies to each marginal reference."
   },
   {
    "q": "When does a Huron County deed miss same-day recording?",
-   "a": "After 4:20 PM. The office says later submissions are recorded the next business day, though it stays open until 4:30 PM on weekdays."
+   "a": "After 4:20 PM. Later submissions are recorded the next business day, though the office stays open until 4:30 PM on weekdays."
   },
   {
    "q": "Can I view recorded Huron County documents from home?",
-   "a": "The Public Access site searches the records, but the Recorder tells users to visit or contact the office for copies. Email Recorder@huroncounty-oh.gov or call 419-668-1916."
+   "a": "The Public Access site searches the records, but copies come from the office. Email Recorder@huroncounty-oh.gov or call 419-668-1916."
   },
   {
    "q": "Do plats go through e-recording in Huron County?",
@@ -56,6 +59,7 @@
    "a": "The County Auditor and the County Engineer, under R.C. 315.251 and 319.203. They may reject a nonconforming description and are expected to work out technical problems informally with the presenter."
   }
  ],
+ "slug": "huron-county-oh-recorder-of-deeds",
  "sources": [
   {
    "title": "Huron County Recorder (county site)",

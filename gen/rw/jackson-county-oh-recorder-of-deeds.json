@@ -1,61 +1,65 @@
 {
- "slug": "jackson-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where in the Jackson County Courthouse do I file a deed?",
-   "html": "<p>Go upstairs to the third floor. The Recorder sits inside the courthouse at 226 East Main Street, Jackson, OH 45640, phone (740) 286-1919, fax (740) 286-8835. The county page says the office runs 8:30 am to 4:00 pm on weekdays and shuts for lunch between 11:30 am and 12:30 pm, so plan to arrive outside that gap.</p>\n<p>Payment may be cash, a check or a debit or credit card, and the card route adds a $2.00 service fee. The county's official records begin in 1997. Anything older must be viewed and printed at the office, while later records are searchable online after you set up an account.</p>"
+   "h2": "Where to file a deed in Jackson County",
+   "html": "<p>Go upstairs to the third floor. The Recorder sits inside the courthouse at 226 East Main Street, Jackson, OH 45640, phone (740) 286-1919, fax (740) 286-8835. Counter service runs weekdays from 8:30 am to 4:00 pm, with a midday closure from 11:30 am to 12:30 pm. Time your visit around that hour.</p>\n<p>You can pay with cash, a check or a debit or credit card. Cards add a $2.00 service fee. The county's official records begin in 1997. Anything older must be viewed and printed at the office, while later records are searchable online after you set up an account.</p>"
   },
   {
-   "h2": "What are the Jackson County Recorder's listed prices?",
-   "html": "<p>The county's fee page puts most recordable papers, from deeds and mortgages to leases and affidavits, at $39.00 for two pages and $8.00 for every further page, counting each printed side separately. It explains that Ohio sets these amounts, with one half paying for the basic recording fee and the other half going to the Ohio Housing Trust Fund.</p>\n<table><thead><tr><th>Item</th><th>Fee</th></tr></thead><tbody>\n<tr><td>Recording a deed, mortgage or lease (two pages included)</td><td>$39.00</td></tr>\n<tr><td>Each page past two</td><td>$8.00</td></tr>\n<tr><td>Marginal notation on a release, assignment or amendment</td><td>$4.00 each</td></tr>\n<tr><td>Plat or condominium drawing, each 8 by 14 sheet</td><td>$40.00</td></tr>\n<tr><td>Real estate UCC financing statement</td><td>$12.00 plus $4.00 per name indexed</td></tr>\n<tr><td>Plain copy</td><td>$2.00 a page</td></tr>\n<tr><td>Certified copy</td><td>$2.00 a page, plus $1.00 for the seal</td></tr>\n</tbody></table>\n<p>Source: Jackson County Recorder fee page. A veteran's service discharge and one certified copy carry no fee, and a zoning resolution costs $50.00.</p>"
+   "h2": "Recorder fees",
+   "html": "<p>Deeds, mortgages, leases, affidavits and most other recordable papers are priced the same way: $39.00 covers two pages, then $8.00 for each additional page. Each printed side counts as a page. The state fixes the price. One half is the recording fee itself, and the other half is sent to the Ohio Housing Trust Fund.</p>\n<table><caption>Jackson County Recorder fees</caption><thead><tr><th>Paper or service</th><th>Fee</th></tr></thead><tbody>\n<tr><td>Deed, mortgage or lease (first two pages)</td><td>$39.00</td></tr>\n<tr><td>Each page past two</td><td>$8.00</td></tr>\n<tr><td>Marginal note on a release, assignment or amendment</td><td>$4.00 each</td></tr>\n<tr><td>Plat or condominium drawing, each 8 by 14 sheet</td><td>$40.00</td></tr>\n<tr><td>UCC filing against real estate</td><td>$12.00 plus $4.00 per name indexed</td></tr>\n<tr><td>Uncertified copy</td><td>$2.00 a page</td></tr>\n<tr><td>Certified copy</td><td>$2.00 a page plus $1.00 for the seal</td></tr>\n</tbody></table>\n<p>A veteran's service discharge and one certified copy carry no fee, and a zoning resolution costs $50.00.</p>"
   },
   {
-   "h2": "What does the Jackson County Auditor add ahead of recording?",
-   "html": "<p>Two charges are printed on the Auditor's real estate transfers page: a conveyance fee of $4.00 per thousand and a transfer fee of fifty cents per parcel. A history note records that on March 24, 1993 the conveyance fee jumped from $1.00 per thousand of the purchase price.</p>\n<p>The Auditor works in the same building, 226 East Main Street, Suite 5, phone (740) 286-4231, opening at 8:00 am and closing at 4:00 pm. Under the Auditor's Tools menu you will find a Conveyance Calculator and a Sales Reports page. The seller carries the cost, since R.C. 319.202(D) charges the grantor. Forms on the site include:</p>\n<ul>\n<li>DTE 100, the value statement that doubles as the fee receipt</li>\n<li>DTE 100EX, the reason an exemption applies</li>\n<li>DTE 100M and 100MEX, the manufactured and mobile home versions</li>\n</ul>\n<p>The order is Auditor, then Recorder. The Recorder's site is blunt about changes of names: adding or removing someone requires a new deed that clears the Auditor and is then recorded.</p>"
+   "h2": "What the Auditor adds before recording",
+   "html": "<p>The Auditor's transfers page lists two charges. The conveyance fee is $4.00 per thousand, and the transfer fee is fifty cents on each parcel. The conveyance rate was raised from $1.00 per thousand of the purchase price on March 24, 1993.</p>\n<p>The Auditor is down the hall in the same courthouse, 226 East Main Street, Suite 5, phone (740) 286-4231, open 8:00 am to 4:00 pm. Under the Auditor's Tools menu you will find a Conveyance Calculator and a Sales Reports page. R.C. 319.202(D) puts the bill on the grantor, so you carry it as the seller. Forms on the site include:</p>\n<ul>\n<li>DTE 100, the statement of value and fee receipt in one</li>\n<li>DTE 100EX, the reason an exemption applies</li>\n<li>DTE 100M and 100MEX, the manufactured and mobile home versions</li>\n</ul>\n<p>Sequence matters: Auditor first, Recorder second. Changing who is named on title, whether adding a person or taking one off, needs a brand new deed, which clears the Auditor before it is recorded.</p>"
   },
   {
-   "h2": "What goes wrong if a Jackson County deed is never recorded?",
-   "html": "<p>A second buyer can end up owning the house. R.C. 5301.25 requires a deed to be recorded in the county of the land, and until that happens it is treated as fraudulent against a later purchaser who bought in good faith.</p>\n<p>The Recorder's own site answers three things sellers ask:</p>\n<ul>\n<li>Most records are public. Military service records go only to the veteran, with proof of ID.</li>\n<li>A will is recorded through Probate Court, which the site prices at $46.00.</li>\n<li>Deeds and similar papers are best drafted by an attorney or other professional, in the office's view.</li>\n</ul>\n<p>A name error means a fresh deed, which repeats the Auditor and Recorder steps.</p>"
+   "h2": "What happens if a deed is never recorded",
+   "html": "<p>Skip the recorder and a second buyer could end up owning your house. Under R.C. 5301.25 the deed has to be recorded where the land lies. Until it is, the law treats it as fraudulent toward any later purchaser who paid in good faith.</p>\n<p>A few things sellers often ask the Recorder:</p>\n<ul>\n<li>Nearly every record is open to the public. Military service records go only to the veteran who earned them, with proof of ID.</li>\n<li>A will is recorded through Probate Court, which charges $46.00.</li>\n<li>The office suggests an attorney or other professional draft your deed.</li>\n</ul>\n<p>A name error means a fresh deed, and you start again at the Auditor.</p>"
   },
   {
-   "h2": "How do I order copies or search Jackson County records?",
-   "html": "<p>Viewing most records online starts with an account, as the county's Recorder page directs. A deed from the 1980s predates the 1997 start of the official records and has to be pulled at the courthouse itself.</p>\n<p>Ordering an image works by email: send the document's book and page to recordersoffice@jacksoncounty.us. The charge is $2.00 a page, paid in cash or by check. Someone planning to list a house can also open the Sales Reports page on the Auditor's site, which sits alongside the Conveyance Calculator and a Tax Estimator.</p>"
+   "h2": "Ordering copies and searching records",
+   "html": "<p>Viewing most records online starts with an account. A deed from the 1980s predates the 1997 start of the official records and has to be pulled at the courthouse itself.</p>\n<p>To order an image, email the document's book and page to recordersoffice@jacksoncounty.us. Copies run $2.00 a page, payable by cash or check. Someone planning to list a house can also open the Sales Reports page on the Auditor's site, next to the Conveyance Calculator and a Tax Estimator.</p>"
   },
   {
-   "h2": "Which other papers does the Jackson County Recorder file, and what do they cost?",
-   "html": "<p>The fee page covers more than deeds. These items surface when a title search finds old liens or a former owner left paperwork behind:</p>\n<ul>\n<li>federal tax liens and other federal liens: $5.00</li>\n<li>releases or partial releases of those liens: $3.00</li>\n<li>a living will or durable power of attorney for health care: $40.00</li>\n<li>zoning amendments: $20.00</li>\n<li>no fee for personal property tax, workers' compensation, recognizance and unemployment compensation liens, or for certificates of premium due</li>\n</ul>\n<p>The county ties these charges to R.C. 317.32 and 317.36. If an old lien shows up on your parcel, ask the Recorder which release clears it and what that costs, because a release is recorded on its own, apart from the deed.</p>"
+   "h2": "Other papers the Recorder files",
+   "html": "<p>The county's fee list reaches well past deeds. Watch for these when a title search digs up old liens or a prior owner left paperwork behind:</p>\n<ul>\n<li>federal tax liens and other federal liens: $5.00</li>\n<li>releases or partial releases of those liens: $3.00</li>\n<li>a living will or health care power of attorney: $40.00</li>\n<li>zoning amendments: $20.00</li>\n<li>no fee for personal property tax, workers' compensation, recognizance and unemployment compensation liens, or for certificates of premium due</li>\n</ul>\n<p>R.C. 317.32 and 317.36 back these charges. When an old lien turns up on your parcel, ask the Recorder which release clears it and what it costs. A release is its own filing and is not folded into the deed.</p>"
   },
   {
-   "h2": "Can a new owner contest a Jackson County valuation after buying?",
-   "html": "<p>Yes, by a complaint to the county Board of Revision. As the Auditor's complaint page describes it, the board is the Auditor, the Treasurer and the President of the County Commissioners, or their designees, and it changes values rather than tax dollars. A complaint is filed on form DTE 1 with the Auditor, who acts as the board's secretary, and the Auditor's public notice gives March 31 as the filing deadline.</p>\n<p>The page adds several cautions. The form must show the owner's opinion of value on line 8 and be notarized. Ohio allows one filing per three-year period in general, and a withdrawn complaint still counts. Proof falls on the owner, and the outcome can be a higher value, a lower one or no change. The board will not weigh a percentage jump in the tax bill or a neighbor's lower valuation.</p>\n<p>For payment questions, the Auditor's site sends people to the County Treasurer at 740-286-2402. Real estate taxes can be paid online or by the Autoagent phone line, 1-844-674-1100.</p>"
+   "h2": "Contesting a valuation after buying",
+   "html": "<p>Disputes about value go to the county Board of Revision. Its members are the Auditor, the Treasurer and the President of the County Commissioners, or their designees. The board adjusts values, not tax dollars. Submit form DTE 1 to the Auditor, who serves as secretary to the board, by March 31.</p>\n<p>Watch the details. The form needs your own opinion of value on line 8 and a notary's stamp. You generally get one complaint per three-year period, and withdrawing one still uses it up. Proof is your job, and the result can go up, go down or stay put. It will not weigh a percentage jump in the tax bill or a neighbor's lower valuation.</p>\n<p>Questions about paying a bill go to the County Treasurer at 740-286-2402. You can pay real estate taxes online or on the Autoagent phone line, 1-844-674-1100, and skip the trip to the courthouse.</p>"
   },
   {
-   "h2": "What is Jackson County like for a homeowner?",
-   "html": "<p>Jackson County was founded on March 1, 1818 and carries the name of Andrew Jackson. Wikipedia calls it the Little Wales of Ohio. The Hanging Rock Iron Region shaped its past. The Jefferson Iron Furnace went up in 1854, county iron went into the USS Monitor, and coal and salt mining followed. Furnace remnants stand in Jackson Lake State Park, and Wayne National Forest takes in part of the county.</p>\n<p>QuickFacts estimates 32,817 residents for July 2025. It lists 14,665 housing units, 73.9% owner-occupied, the median owner-occupied home is worth $150,700, and median household income is $57,106. Commutes average 29.4 minutes, longer than in Holmes, Huron or Jefferson counties, and poverty affects 15.5% of residents. The Auditor's site counts 28,916 parcels for 2024 and 422 square miles of total area. The 12,933 households average 2.50 people, 84.3% have broadband, and the Census Bureau logged 30 building permits for 2025. Vinton, Gallia, Lawrence, Scioto, Pike and Ross counties surround it.</p>"
+   "h2": "Jackson County housing figures",
+   "html": "<p>Jackson County counted 32,817 residents in July 2025 and 14,665 housing units. Owners live in 73.9% of homes. A median owner-occupied home is worth $150,700, and median household income is $57,106. The Auditor's site counts 28,916 parcels for 2024.</p>"
+  },
+  {
+   "h2": "Steps for a seller",
+   "html": "<p>Have the deed drafted, preferably by an attorney. Sign it, then take it to Suite 5 to pay the conveyance and transfer fees, with form DTE 100 or the exemption form. Carry the stamped deed up to the third floor and pay the recording fee, mindful of the lunch closure. Request a copy for your files. The buyer's title company usually handles most of this at closing, so confirm who is carrying the deed to each office and by what day, and keep your receipts from both counters until the sale is fully recorded. A mortgage payoff produces a release that is recorded separately, with its own page charge and perhaps a marginal notation. Have your title company confirm it was filed. After closing, the buyer can search the new deed online, assuming it was recorded after 1997 and the buyer has set up an account. Should the recorded paper contain a mistake, call the Recorder right away.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How much does the Jackson County Recorder charge for a three-page deed?",
-   "a": "$47.00 on the fee page's formula, which is $39.00 for the first two pages plus $8.00 for the third. Each marginal notation adds $4.00, so ask the office whether any apply to your paper."
+   "a": "$47.00. That is the $39.00 two-page price plus $8.00 for page three. A marginal note adds $4.00 apiece, so find out whether your paper needs any."
   },
   {
    "q": "Is the Jackson County Recorder open over lunch?",
-   "a": "No. The office shuts from 11:30 am to 12:30 pm, according to the county page, and its weekday service window is 8:30 am to 4:00 pm."
+   "a": "No. It closes from 11:30 am to 12:30 pm and otherwise serves the public weekdays between 8:30 am and 4:00 pm."
   },
   {
    "q": "What conveyance fee does Jackson County charge?",
-   "a": "$4.00 per thousand dollars of purchase price, plus a $0.50 transfer fee for each parcel, per the Auditor's page. The $4.00 rate dates to March 24, 1993."
+   "a": "The rate is $4.00 for every thousand dollars of purchase price, with $0.50 more per parcel as a transfer fee. The $4.00 figure has applied since March 24, 1993."
   },
   {
    "q": "Does paying the Jackson County Recorder by card cost extra?",
-   "a": "Yes, by $2.00. The Recorder's site accepts debit and credit cards with that service fee, while cash and checks carry no add-on."
+   "a": "Yes, by $2.00. That service fee applies to debit and credit cards only, not to cash or checks."
   },
   {
    "q": "Does the Jackson County Recorder record wills?",
-   "a": "No. The Recorder's site says a will is recorded in Probate Court and gives the cost as $46.00. The Recorder files deeds, mortgages and similar land records."
+   "a": "No. A will is recorded in Probate Court, at a cost of $46.00. The Recorder files deeds, mortgages and similar land records."
   }
  ],
+ "slug": "jackson-county-oh-recorder-of-deeds",
  "sources": [
   {
    "title": "Jackson County Recorder, fees",
