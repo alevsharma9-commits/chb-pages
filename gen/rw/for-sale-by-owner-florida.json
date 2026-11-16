@@ -7,44 +7,44 @@
   },
   {
    "h2": "What disclosures must a Florida for sale by owner seller give?",
-   "html": "<p>Two statutory forms apply to residential sales: a property tax disclosure summary and a flood disclosure. Both must reach the buyer at or before the contract is executed.</p><table><caption>Written items a Florida seller hands the buyer</caption><thead><tr><th>Item</th><th>Statute</th><th>What it covers</th></tr></thead><tbody><tr><td>Property tax disclosure summary</td><td>s. 689.261</td><td>Warns the buyer not to assume the seller's tax bill carries over, since a change of ownership or improvements can trigger reassessment</td></tr><tr><td>Flood disclosure</td><td>s. 689.302</td><td>Seller's knowledge of past flooding, any flood insurance claim, and any flood assistance received</td></tr></tbody></table><p>If the tax summary is not built into the contract, it must be attached, and the contract must refer to it and tell the buyer not to sign until it is read.</p>"
+   "html": "<p>Two statutory forms apply to residential sales: a property tax disclosure summary and a flood disclosure. The buyer needs each one no later than contract signing.</p><table><caption>Written items a Florida seller hands the buyer</caption><thead><tr><th>Item</th><th>Statute</th><th>What it covers</th></tr></thead><tbody><tr><td>Property tax disclosure summary</td><td>s. 689.261</td><td>Warns the buyer not to assume the seller's tax bill carries over, since a change of ownership or improvements can trigger reassessment</td></tr><tr><td>Flood disclosure</td><td>s. 689.302</td><td>Seller's knowledge of past flooding, any flood insurance claim, and any flood assistance received</td></tr></tbody></table><p>If the tax summary is not built into the contract, it must be attached, and the contract must refer to it and tell the buyer not to sign until it is read.</p>"
   },
   {
    "h2": "What does the flood disclosure ask?",
-   "html": "<p>It opens with a notice that homeowners' policies do not cover flood damage and that the buyer should discuss separate flood coverage with an insurance agent.</p><ul><li>Whether the seller knows of flooding that damaged the property during the seller's ownership.</li><li>Whether the seller filed a flood damage claim, including with the National Flood Insurance Program.</li><li>Whether the seller received help for flood damage, including from FEMA.</li></ul><p>The statute defines flooding as inundation from overflowing inland or tidal water, rapid runoff from an established water source such as a ditch, or sustained standing water after rainfall. Answer from your own records and do not guess.</p>"
+   "html": "<p>It opens with a notice that homeowners' policies do not cover flood damage and that the buyer should discuss separate flood coverage with an insurance agent.</p><ul><li>Any flood damage you know of while you owned the home.</li><li>Whether the seller filed a flood damage claim, including with the National Flood Insurance Program.</li><li>Whether the seller received help for flood damage, including from FEMA.</li></ul><p>The statute defines flooding as inundation from overflowing inland or tidal water, rapid runoff from an established water source such as a ditch, or sustained standing water after rainfall.</p>"
   },
   {
    "h2": "How do listing rules about property taxes change in 2027?",
-   "html": "<p>Starting February 1, 2027, listing platforms must show an estimated tax figure, and the current owner's tax amount may not appear in printed listing materials.</p><p>Section 689.261(3) says the estimate must be built from the listing price at current millage rates, or from the countywide average rate, using data the Department of Revenue publishes. The statute adds that no one is liable for an inaccurate estimate. For a seller advertising a house, this means flyers should leave out your own tax amount, and online listings will lean on the estimator instead.</p>"
+   "html": "<p>From February 1, 2027, online listings must display a tax estimate and printed marketing must drop the owner's present tax figure.</p><p>Section 689.261(3) says the estimate must be built from the listing price at current millage rates, or from the countywide average rate, using data the Department of Revenue publishes. The statute adds that no one is liable for an inaccurate estimate. For a seller advertising a house, this means flyers should leave out your own tax amount, and online listings will lean on the estimator instead.</p>"
   },
   {
    "h2": "What goes into the deed and closing paperwork?",
-   "html": "<p>The deed is a written instrument signed before two subscribing witnesses, as s. 689.01 describes, and recording under s. 695.26 needs printed names, addresses and blank margin space for the clerk.</p><ul><li>A warranty deed or another deed type that matches what you promise the buyer.</li><li>Printed names and post-office addresses for signers, witnesses and the preparer.</li><li>Payment of documentary stamp tax at recording, at 70 cents per $100 of consideration in every county except Miami-Dade.</li><li>Clerk recording charges that depend on page count.</li></ul><p>Consideration includes any mortgage or encumbrance on the property. The state holds all parties liable for the tax, so spell out in the contract who pays it. A title company or attorney can run the closing if you prefer not to handle a deed alone.</p>"
+   "html": "<p>The deed is a written instrument signed before two subscribing witnesses, as s. 689.01 describes, and recording under s. 695.26 needs printed names, addresses and blank margin space for the clerk.</p><ul><li>A warranty deed or another deed type that matches what you promise the buyer.</li><li>Printed names and post-office addresses for signers, witnesses and the preparer.</li><li>Stamp tax paid when the deed is recorded, at the statewide deed rate (Miami-Dade has its own schedule).</li><li>Clerk recording charges that depend on page count.</li></ul><p>Because every party stays liable, the contract should say who pays. A title company or attorney can run the closing if you prefer not to handle a deed alone.</p>"
   },
   {
-   "h2": "What happens to the tax bill and the exemption when I sell?",
-   "html": "<p>The county tax collector bills the owner of record, so the closing statement is where the year's tax is split between buyer and seller.</p><p>The property appraiser sets value each January 1, tax bills go out in November, and the state prints early-payment discounts of 4 percent in November, 3 in December, 2 in January and 1 in February. Unpaid taxes turn delinquent April 1. A sale resets the property to just value the next January 1, so the buyer's bill can differ sharply from yours. The buyer must file for a homestead exemption by March 1. Tell the appraiser the home was sold, and cancel your exemption on it if it is not changed automatically.</p>"
+   "h2": "How does a sale affect the tax bill and my exemption?",
+   "html": "<p>Bills go to whoever owns the property of record, so the settlement statement is where a year's tax gets divided.</p><p>Paying early in November earns the biggest state-printed discount, and the discount steps down each month to 1 percent in February. Because assessment returns to just value after a sale, the buyer's bill may look nothing like yours. The buyer files a fresh homestead application. Let the property appraiser know you sold, so your own exemption is cancelled.</p>"
   },
   {
    "h2": "What are the tax lien risks if I skip the closing agent?",
-   "html": "<p>A sale does not erase an unpaid tax bill, so a private seller should confirm the year's taxes are paid or credited at closing.</p><p>Taxes that stay unpaid turn delinquent on April 1, and tax certificates are sold on unpaid items by June 1. The certificate buyer cannot demand payment from the owner until two years after April 1 of the year of issuance, and a tax deed application can follow after that period. On a homestead property, the opening bid at a tax deed sale includes half of the latest assessed value on top of the amounts due. These rules come from ss. 197.432 and 197.502 and are a reason to keep tax payments current right up to the sale.</p>"
+   "html": "<p>A sale does not erase an unpaid tax bill, so a private seller should confirm the year's taxes are paid or credited at closing.</p><p>Delinquency begins April 1, and certificates on unpaid parcels are auctioned by June 1. A certificate holder waits two years before pressing the owner, and a tax deed application may follow. For a homestead, a tax deed sale opens at the amounts due plus half the latest assessed value (ss. 197.432 and 197.502). Keep the account current through closing.</p>"
   },
   {
-   "h2": "What is a sensible order of steps for a private sale?",
-   "html": "<p>Work backward from the closing date, since several steps can only start once an earlier one is done.</p><ul><li>Order a title search and clear any liens before the house is listed.</li><li>Prepare the property tax summary and the flood disclosure so they can be handed over with the contract.</li><li>Agree in writing on who pays the deed tax and recording charges.</li><li>Prepare the deed, then sign it before two witnesses and a notary.</li><li>Record the deed with the county clerk, with stamp tax paid.</li><li>Notify the property appraiser of the sale and cancel your exemptions.</li></ul>"
+   "h2": "In what order should a private sale proceed?",
+   "html": "<p>Work backward from the closing date, since several steps can only start once an earlier one is done.</p><ul><li>Order a title search and clear any liens before the house is listed.</li><li>Prepare the property tax summary and the flood disclosure so they can be handed over with the contract.</li><li>Put in the contract who bears the deed tax and recording fees.</li><li>Prepare the deed, then sign it before two witnesses and a notary.</li><li>File the signed deed at the county clerk with the stamp tax.</li><li>Notify the property appraiser of the sale and cancel your exemptions.</li></ul>"
   },
   {
    "h2": "When are the main property tax dates a seller should know?",
-   "html": "<p>The state calendar is the same for every Florida seller.</p><ul><li>January 1: the appraiser sets just value.</li><li>March 1: filing deadline for homestead and other exemptions.</li><li>August: the TRIM notice arrives, and a value petition is due within 25 days.</li><li>November: tax bills are sent.</li><li>April 1: unpaid taxes turn delinquent.</li></ul><p>A seller who closes between those dates should settle the proration with the buyer in the contract and confirm the payoff with the county tax collector.</p>"
+   "html": "<p>The state calendar is the same for every Florida seller.</p><ul><li>January 1: the appraiser sets just value.</li><li>March 1: last timely day to apply for exemptions.</li><li>August: the TRIM notice arrives, and a value petition is due within 25 days.</li><li>November: tax bills are sent.</li><li>April 1: unpaid taxes turn delinquent.</li></ul><p>Whatever the closing date, set the proration in the contract and ask the county tax collector for a payoff figure.</p>"
   },
   {
    "h2": "Are there other risks that FSBO sellers overlook?",
-   "html": "<p>Three come up often: lender liens, county tax liens and occupants.</p><ul><li>Unpaid taxes can eventually lead to a tax certificate sale and then a tax deed, so confirm the current bill is paid or will be at closing.</li><li>Renters or relatives living in the home need proper notice before closing. A month-to-month tenancy ends with at least 30 days' notice, per s. 83.57.</li><li>A buyer's lender will want clear title, so order a title search early.</li></ul>"
+   "html": "<p>Three come up often: lender liens, county tax liens and occupants.</p><ul><li>Delinquent taxes lead down a path to a certificate sale, so settle the bill.</li><li>Occupants need proper notice before closing; section 83.57 sets 30 days for a month-to-month tenancy.</li><li>A buyer's lender will want clear title, so order a title search early.</li></ul>"
   }
  ],
  "faqs": [
   {
-   "q": "Do I need a lawyer to sell my Florida home myself?",
+   "q": "Is a lawyer required for a private sale?",
    "a": "No statute requires one, but a Florida attorney or title company can prepare the deed, check title and handle recording. Many sellers hire one for the closing even when they find their own buyer."
   },
   {
@@ -57,11 +57,11 @@
   },
   {
    "q": "Who pays documentary stamp tax in a private sale?",
-   "a": "The contract decides who pays, but the Department of Revenue holds every party to the deed liable. The tax is 70 cents per $100 of consideration outside Miami-Dade, collected by the clerk at recording."
+   "a": "The contract decides who pays, but the Department of Revenue holds every party to the deed liable. The clerk collects it with the recording, at the statewide per-$100 rate."
   },
   {
-   "q": "Can I advertise my current property tax amount?",
-   "a": "Printed listing materials may not include the current owner's tax amount beginning February 1, 2027, and online platforms follow estimator rules. Ask the county property appraiser for official estimates."
+   "q": "May I put my present tax bill in a flyer?",
+   "a": "After February 1, 2027, no. Printed marketing must leave out the owner's current ad valorem taxes, and online platforms must use estimators. The appraiser's website has an estimator."
   }
  ],
  "sources": [

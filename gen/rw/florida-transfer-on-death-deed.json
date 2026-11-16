@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "Does Florida use a transfer on death deed?",
-   "html": "<p>Florida homeowners who want a house to skip probate generally use an enhanced life estate deed, commonly called a lady bird deed. Ask a Florida real property attorney whether a statutory transfer on death deed is available to you before relying on that name for any form you find online.</p><p>The practical goal is the same in either case: the owner keeps control during life and the house passes to named people at death. This page explains the lady bird version, the homestead rule that limits it and the tax and title points a buyer or heir will meet.</p>"
+   "html": "<p>Florida homeowners who want a house to skip probate generally use an enhanced life estate deed, commonly called a lady bird deed. Before using any form labeled a TOD deed that you find online, ask a Florida real property attorney whether the statutes authorize it.</p><p>The practical goal is the same in either case: the owner keeps control during life and the house passes to named people at death. This page explains the lady bird version, the homestead rule that limits it and the tax and title points a buyer or heir will meet.</p>"
   },
   {
    "h2": "What is a lady bird deed in Florida?",
-   "html": "<p>It is a deed in which the owner keeps a life estate with extra powers, and the remainder passes to named beneficiaries. A letter in the <a href=\"https://www.floridabar.org/the-florida-bar-journal/lady-bird-deeds/\">Florida Bar Journal</a> describes the arrangement: the owner may sell, lease or otherwise transfer the property without the remainder persons' consent, and if the owner does not, title passes to them at death once a death certificate is filed in the official records.</p><p>The author of that letter also notes that in his office such a deed costs about the same as a simple will, and that it suits families whose main asset is the home and whose heirs could not easily pay for a probate.</p>"
+   "html": "<p>It is a deed in which the owner keeps a life estate with extra powers, and the remainder passes to named beneficiaries. A letter in the <a href=\"https://www.floridabar.org/the-florida-bar-journal/lady-bird-deeds/\">Florida Bar Journal</a> describes the arrangement: the owner may sell, lease or otherwise transfer the property without the remainder persons' consent, and absent such a sale, title passes to them at death once a death certificate is filed in the official records.</p><p>The author of that letter also notes that in his office such a deed costs about the same as a simple will, and that it suits families whose main asset is the home and whose heirs could not easily pay for a probate.</p>"
   },
   {
    "h2": "Is a lady bird deed subject to documentary stamp tax?",
@@ -23,11 +23,15 @@
   },
   {
    "h2": "What signing and recording rules apply to a Florida deed?",
-   "html": "<p>A conveyance of an interest in land must be in writing and signed in front of two subscribing witnesses. <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html\">Section 689.01</a> adds that no seal is needed and that witnessing can happen by audio-video technology.</p><p>The county clerk records the deed. The statutory recording charge listed in section 28.24 is $5.00 for the first page and $4.00 for each extra page, with a trust fund charge and a technology charge per page on top. Call the recording desk for the total on your deed, because page count drives it.</p>"
+   "html": "<p>A conveyance of an interest in land needs a signed writing made in front of two subscribing witnesses. <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html\">Section 689.01</a> adds that no seal is needed and that witnessing can happen by audio-video technology.</p><p>Recording takes place at the clerk's office. The statutory recording charge listed in section 28.24 is five dollars for page one and four dollars for each extra page, with a trust fund charge and a technology charge per page on top. Call the recording desk for the total on your deed, because page count drives it.</p>"
   },
   {
    "h2": "What does a lady bird deed mean when an heir wants to sell?",
-   "html": "<p>After the owner dies, the beneficiaries hold the property, and a title company will want to see the recorded deed and the death certificate. Sometimes it asks for additional proof on liens or the owner's marital status.</p><table><caption>Florida deed choices for passing a house at death</caption><thead><tr><th>Tool</th><th>Key point</th><th>Source</th></tr></thead><tbody><tr><td>Lady bird deed</td><td>Owner keeps power to sell; passes at death</td><td>Florida Bar Journal letter</td></tr><tr><td>Will or trust</td><td>Homestead limits for spouse and minor children</td><td>732.4015</td></tr><tr><td>Quitclaim deed</td><td>Taxable deed; change of ownership unless exception</td><td>DOR doc stamp page, 193.155</td></tr></tbody></table><p>Heirs who plan to sell should confirm early that every beneficiary will sign the sale deed.</p>"
+   "html": "<p>After the owner dies, the beneficiaries hold the property, and the title insurer will want to see the recorded instrument and a death certificate. Sometimes it asks for additional proof on liens or the owner's marital status.</p><table><caption>Florida deed choices for passing a house at death</caption><thead><tr><th>Tool</th><th>Key point</th><th>Source</th></tr></thead><tbody><tr><td>Lady bird deed</td><td>Owner keeps power to sell; passes at death</td><td>Florida Bar Journal letter</td></tr><tr><td>Will or trust</td><td>Homestead limits for spouse and minor children</td><td>732.4015</td></tr><tr><td>Quitclaim deed</td><td>Taxable deed; change of ownership unless exception</td><td>DOR doc stamp page, 193.155</td></tr></tbody></table><p>Heirs planning a sale should check early that every beneficiary will sign the sale deed.</p>"
+  },
+  {
+   "h2": "What risks come with using a lady bird deed?",
+   "html": "<p>The main risk is a gap between the family's plan and the facts. A deed may name beneficiaries who die first, and a beneficiary's own creditors or divorce may touch what that person is due to receive. The attorney should address each prior to recording.</p><p>Another risk is paper that sits unrecorded. A deed that never reaches the Official Records gives a buyer or a title insurer nothing to read. The Florida Bar letter describes passage of title at death by filing a death certificate in the official records, so the recording step carries real weight.</p><p>Families also forget that the deed controls only that house. Bank accounts, vehicles and other assets need their own beneficiary designations, and a will still matters for anything outside the deed. The same letter recommends pairing the deed with pay on death and beneficiary designations on financial accounts.</p>"
   },
   {
    "h2": "What should an owner ask an attorney before signing a lady bird deed?",
@@ -36,7 +40,7 @@
  ],
  "faqs": [
   {
-   "q": "Can I use a transfer on death deed in Florida?",
+   "q": "Is a TOD deed available to Florida owners?",
    "a": "Ask a Florida real property attorney. Florida owners commonly use an enhanced life estate deed, also called a lady bird deed, to pass a house at death."
   },
   {
