@@ -3,57 +3,69 @@
  "sections": [
   {
    "h2": "Dallas County market context",
-   "html": "<p>Dallas County sits just west of Des Moines, with Adel as seat and Waukee as the largest city. Growth here is fast: 66,135 residents in 2010, 99,678 in 2020, and an estimated 118,457 in 2025. Median home value is $355,600, 69.0 percent of homes are owner-occupied, and median household income is $102,379. Waukee alone climbed from 5,126 people in 2000 to 23,940 in 2020.</p><p>Watch for one wrinkle on addresses. West Des Moines is mostly in Polk County, so a West Des Moines mailing address can be billed by either county. The parcel record settles which one taxes your house.</p>"
+   "html": "<p>Dallas County sits just west of Des Moines, with Adel as seat and Waukee as the largest city. Few places grow like this one: 66,135 residents in 2010, 99,678 in 2020, and an estimated 118,457 in 2025. Median home value is $355,600, 69.0 percent of homes are owner-occupied, and median household income is $102,379. Waukee alone climbed from 5,126 people in 2000 to 23,940 in 2020.</p><p>Addresses can mislead. West Des Moines lies mostly in Polk County, so a house with that mailing city might be billed by either county. Look up the parcel record to see who taxes it.</p>"
   },
   {
    "h2": "County offices and phone numbers",
-   "html": "<p>Most property offices share the Administration Building at 800 Court Street in Adel, and the county also has a location in Perry. The courthouse itself is listed at 801 Court Street.</p><ul><li><strong>Treasurer, Tax Division:</strong> 800 Court Street, Suite 111, first floor. Phone 515-993-5808, email propertytax@dallascountyiowa.gov.</li><li><strong>Assessor:</strong> 515-993-5802.</li><li><strong>Auditor:</strong> 515-993-6914. Builds levy rates out of local budgets.</li><li><strong>Recorder:</strong> 800 Court Street, Suite 130. Phone 515-993-5804, open Monday to Friday, 8:00 a.m. to 4:00 p.m., with an online record search and a transfer tax calculator.</li></ul>"
+   "html": "<p>Most property offices share the Administration Building, 800 Court Street, Adel, and a second county location operates in Perry. The courthouse itself is listed at 801 Court Street.</p><ul><li><strong>Treasurer, Tax Division:</strong> 800 Court Street, Suite 111, first floor. Phone 515-993-5808, email propertytax@dallascountyiowa.gov.</li><li><strong>Assessor:</strong> 515-993-5802.</li><li><strong>Auditor:</strong> 515-993-6914. Builds levy rates out of local budgets.</li><li><strong>Recorder:</strong> 800 Court Street, Suite 130. Phone 515-993-5804, open Monday to Friday, 8:00 a.m. to 4:00 p.m., with an online record search and a transfer tax calculator.</li></ul>"
   },
   {
    "h2": "Payment dates and penalties",
-   "html": "<p>Half the bill is due September 1 and goes delinquent after September 30. The other half is due March 1 and goes delinquent after March 31. Mailed statements go out in August.</p><p>Interest on late payments is 1.5 percent monthly, rounded to the dollar. For proof of mailing, Dallas County takes only a U.S. Postal Service postmark. A check date or a postage meter date will not do, so ask the post office to stamp the envelope while you wait.</p><table><caption>Dallas County property tax calendar</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>September 1</td><td>First half due</td></tr><tr><td>March 1</td><td>Second half due</td></tr><tr><td>Third Monday in June</td><td>Annual county tax sale</td></tr><tr><td>June 1</td><td>Senior and disabled credit applications due</td></tr><tr><td>September 30</td><td>Special assessment credit claim due</td></tr></tbody></table><p>Never receiving a statement is not an excuse. New owners should phone for one, and owners with a lender should confirm the lender holds the right parcel data.</p>"
+   "html": "<p>Your tax comes in two parts. The fall part is due September 1 and turns delinquent once September 30 passes. The spring part is due March 1 and turns delinquent after March 31. Statements reach mailboxes in August.</p><p>A late payment accrues 1.5 percent per month, rounded to the dollar. As proof of mailing, the county honors only a U.S. Postal Service postmark. Neither the date on your check nor a postage meter date counts, so have a clerk at the post office stamp the envelope while you stand there.</p><table><caption>Dallas County property tax calendar</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>September 1</td><td>First half due</td></tr><tr><td>March 1</td><td>Second half due</td></tr><tr><td>Third Monday in June</td><td>Annual county tax sale</td></tr><tr><td>June 1</td><td>Senior and disabled credit applications due</td></tr><tr><td>September 30</td><td>Special assessment credit claim due</td></tr></tbody></table><p>A statement that never came does not excuse a late payment. Newcomers should call for a copy, and anyone with a lender should confirm the lender has the correct parcel data.</p>"
   },
   {
    "h2": "The June tax sale",
-   "html": "<p>The treasurer runs the yearly auction on the third Monday in June, though another date can be chosen if needed. The same office processes redemptions, issues tax sale deeds and handles suspensions.</p><p>A certificate holder may pay later delinquent taxes after November 15 and May 15 when a half remains unpaid. Owners and others with a recorded interest can redeem by paying the tax that was sold plus 2 percent for each month. If nobody redeems, the lien can end in a tax deed.</p>"
+   "html": "<p>Each year the treasurer conducts the auction, set for the third Monday of June unless the office picks another day. Redemptions, tax sale deeds and suspensions run through the same desk.</p><p>A certificate holder can pay later delinquent taxes after November 15 and May 15 if a half is still open. An owner, or anyone with a recorded interest, redeems by paying the sold tax plus 2 percent monthly. When no one does, the lien may end in a tax deed.</p>"
   },
   {
    "h2": "Assessments and protests",
-   "html": "<p>Each parcel is valued as of January 1, and Iowa's cycle takes roughly 18 months to reach a bill. A January 2026 assessment, for instance, leads to bills in fall 2027 and spring 2028.</p><p>Protests go to the Board of Review from April 2 through April 30 under Iowa Code 441.37. You may argue unequal treatment against like property, a value over the legal amount, a wrong exemption or classification, a mistake, or fraud. The board cannot extend the deadline, though in federal disaster counties the window can shift to May 1 through June 5.</p><p>After a state equalization order, a second protest period runs October 9 to October 31, limited to arguing that the order pushed value past what Iowa Code 441.21 allows. Appeals go to the Property Assessment Appeal Board or to district court within 20 days after the board adjourns.</p>"
+   "html": "<p>The assessor values each parcel on a January 1 snapshot, and the Iowa cycle needs about 18 months before that value shows on a bill. Value as of January 2026, for example, produces the fall 2027 and spring 2028 payments.</p><p>The Board of Review takes protests from April 2 through April 30 (Iowa Code 441.37). Your case can rest on unequal treatment, an overstated value, a wrong exemption or class, a mistake, or fraud. Deadlines are firm, except in federal disaster counties, where the window can move to May 1 through June 5.</p><p>A state equalization order opens one more protest period, October 9 to October 31, and the only argument allowed is that the order raised value beyond Iowa Code 441.21. Appeals continue to the Property Assessment Appeal Board or district court, and you have 20 days from adjournment.</p>"
   },
   {
    "h2": "Homestead exemption changes",
-   "html": "<p>Senate File 2472, signed May 18, 2026, trades the old homestead credit for an exemption worth 10 percent of taxable value, with a floor of $5,500 and a cap of $20,000, starting with the 2026 assessment year. It first appears on the September 2027 and March 2028 bills.</p><p>Current claimants need not refile, and the disabled veteran credit stays. A buyer applies in their own name. For eligibility questions, the Department of Revenue's property tax division answers at 515-281-3114.</p>"
+   "html": "<p>Under Senate File 2472, signed May 18, 2026, the homestead credit is replaced by an exemption: 10 percent of taxable value, at least $5,500 and at most $20,000. It begins with assessment year 2026 and first shows on the September 2027 and March 2028 bills.</p><p>Existing claimants stay enrolled, and the disabled veteran credit remains. Anyone buying applies on their own. Eligibility questions go to the Department of Revenue's property tax division at 515-281-3114.</p>"
   },
   {
    "h2": "Taxes and recording at closing",
-   "html": "<p>Most sales credit the buyer with the seller's share of the current year's tax at the table, and the deed is recorded with the Recorder in Adel.</p><p>Transfer tax is 80 cents per $500 over the first $500. Each deed needs a declaration of value signed by a seller, a buyer or an agent, and the assessor holds it for three years from December 31 of the transfer year. The contract decides which side pays the tax.</p>"
+   "html": "<p>At most closings the buyer receives a credit for the seller's part of this year's tax, and the Recorder in Adel files the deed.</p><p>Iowa's transfer tax comes to 80 cents for each $500 past the first $500. A declaration of value, signed by a seller, buyer or agent, travels with every deed and stays with the assessor for three years from December 31 of the transfer year. Your sales contract settles who pays.</p>"
   },
   {
    "h2": "Steps before you list",
-   "html": "<p>Phone the Treasurer's Tax Division at 515-993-5808 and ask for the balance on each half. If either half is late, ask for the interest to your target closing date. Confirm the parcel number matches your deed, especially if your mailing address sounds like a different city. Ask the assessor at 515-993-5802 what credits are on the house, and note that a buyer must apply for their own. Use the Recorder's transfer tax calculator to see the tax before you set a price. With these answers, the title company can order a payoff, and the closing proceeds without a late surprise. If the house needs work and you would rather skip repairs, a cash sale as-is leaves these tax steps unchanged while shortening the rest of the timeline.</p>"
+   "html": "<p>Start by calling the Treasurer's Tax Division at 515-993-5808 for the amount owed on each half, plus accrued interest through your planned closing date if a half is late. Confirm the parcel number matches your deed, especially if your mailing address sounds like a different city. Next, ask the assessor at 515-993-5802 which credits are attached to the house. The Recorder's transfer tax calculator shows that cost before you set a price. Armed with those answers, the title company orders a payoff and closing avoids late surprises. Houses that need work can also sell for cash as-is, which keeps every tax step above but trims the rest of the timeline.</p>"
+  },
+  {
+   "h2": "Why timing matters for a seller",
+   "html": "<p>Because value takes about 18 months to reach a bill, the tax you pay this year reflects an assessment from the year before last. A seller in a fast-growing county can face a valuation that lags behind sale prices, and a buyer may ask what the next reassessment will do. The assessor at 515-993-5802 can say when your parcel's next valuation lands, which helps you answer that question honestly. Odd or even year, the protest window is the same: April 2 to April 30.</p>"
+  },
+  {
+   "h2": "Special credits to know about",
+   "html": "<p>Two deadlines in the calendar above deserve attention. Senior and disabled credit applications are due June 1, and a special assessment credit claim is due September 30. If you hold either, mention it to the title company so the closing statement accounts for it, and tell the buyer that a fresh application is theirs to file. Missing a credit date does not usually stop a sale, but it can cost the next owner a year of savings.</p>"
+  },
+  {
+   "h2": "If your house is in Perry or a smaller town",
+   "html": "<p>Sellers outside the metro suburbs have the same obligations as those in Waukee: the same two payment dates, the same assessor, and the same June auction. The difference is mostly in the buyer pool, which is smaller, so a clean tax record helps a listing move. Before you advertise, pay any open half, get a letter or printout of the balance for the title company, and keep the postmarked proof of payment. If an old statement went to a lender or to a deceased owner, call the treasurer so the right person receives the next one.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Dallas County property taxes due?",
-   "a": "The first half is due September 1 and the second March 1. Interest of 1.5 percent a month applies after September 30 and March 31."
+   "a": "Fall half September 1, spring half March 1. Once September 30 or March 31 passes, 1.5 percent a month is added."
   },
   {
    "q": "Where is the Dallas County Treasurer?",
-   "a": "The tax division is at 800 Court Street, Suite 111, Adel, on the first floor of the Administration Building. The phone is 515-993-5808."
+   "a": "Visit Suite 111 at 800 Court Street in Adel, or call 515-993-5808."
   },
   {
    "q": "When is the Dallas County tax sale?",
-   "a": "The third Monday in June, unless the treasurer sets a different date."
+   "a": "June, normally the third Monday, with the treasurer free to choose another date."
   },
   {
    "q": "How do I protest my Dallas County assessment?",
-   "a": "File a written petition with the Board of Review between April 2 and April 30. If you disagree with the ruling, appeal to the Property Assessment Appeal Board or to district court."
+   "a": "Send a written petition to the Board of Review during April 2 to April 30, then, if needed, take the ruling to the appeal board or district court."
   },
   {
    "q": "Do Dallas County owners need to refile for the new homestead exemption?",
-   "a": "No, current credit claimants do not need to refile. New owners apply for their own."
+   "a": "No. People already claiming the credit stay enrolled, while a new owner files separately."
   }
  ],
  "sources": [
