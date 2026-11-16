@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Who bills and collects property tax in Kent County, Michigan?",
-   "html": "<p>A city or township bills the tax, and the county treasurer enters the picture only for parcels that went unpaid. Kent's Bureau of Equalization keeps assessments uniform across <strong>21 townships and nine cities</strong>, while each local assessor sets the value on your own parcel.</p><p>Use that split to pick the right phone call. A wrong value, a missing exemption or a bill that never showed up goes to the local assessor or treasurer. A balance that was returned unpaid, and any foreclosure auction after a court order, belongs to the <a href='https://www.kentcountymi.gov/860/Treasurer'>Kent County Treasurer</a>, whose counter is on the first floor of the Administration Building at 300 Monroe Avenue NW, Grand Rapids. Hours run Monday to Friday, 8 am to 5 pm.</p>"
+   "html": "<p>A city or township bills the tax, and the county treasurer enters the picture only for parcels that went unpaid. Kent's Bureau of Equalization keeps assessments uniform across <strong>21 townships and nine cities</strong>, while each local assessor sets the value on your own parcel.</p><p>Use that split to pick the right phone call. A wrong value, a missing exemption or a bill that never showed up goes to the local assessor or treasurer. A balance that was returned unpaid, and any foreclosure auction after a court order, belongs to the <a href='https://www.kentcountymi.gov/860/Treasurer'>Kent County Treasurer</a>, with a counter on the first floor of the county building at 300 Monroe Avenue NW in Grand Rapids. It is open weekdays from 8 am to 5 pm.</p>"
   },
   {
    "h2": "What does Kent County look like for someone selling a house?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "When do unpaid Kent County property taxes become delinquent, and what do they cost?",
-   "html": "<p>Kent's local treasurers send bills on July 1 and December 1. Whatever is still open after the following March 1 moves to the county treasurer, with a 4% fee and monthly interest of 1% on top. The county FAQ is blunt that no rule allows those charges to be waived, including for an owner whose bill never arrived.</p><p>Summer bills have an earlier pinch point. MCL 211.44a puts the interest start for summer tax at September 15. The county's later steps follow a fixed calendar:</p><table><caption>Kent County delinquent tax steps and added costs (Kent County Treasurer FAQ; MCL 211.78a)</caption><thead><tr><th>Stage</th><th>Timing</th><th>What is added</th></tr></thead><tbody><tr><td>Returned delinquent</td><td>March 1 after the tax year</td><td>4% fee plus 1% interest per month</td></tr><tr><td>Forfeiture</td><td>March 1, one year later</td><td>$175 title search fee, $60 recording fees, interest rises to 1.5% per month</td></tr><tr><td>Foreclosure preparation</td><td>March 31 after the forfeiture date</td><td>Property is readied for a foreclosure judgment</td></tr></tbody></table><p>The county sums it up as two years and one month to pay before foreclosure. Its auction list of foreclosed properties appears around July 1 each year.</p>"
+   "html": "<p>Kent's local treasurers send bills on July 1 and December 1. A balance still open once the next March 1 arrives is handed to the county treasurer, who adds a 4% fee and charges 1% interest each month. The county FAQ is blunt that no rule allows those charges to be waived, including for an owner whose bill never arrived.</p><p>Summer bills have an earlier pinch point. MCL 211.44a puts the interest start for summer tax at September 15. The county's later steps follow a fixed calendar:</p><table><caption>Kent County delinquent tax steps and added costs (Kent County Treasurer FAQ; MCL 211.78a)</caption><thead><tr><th>Stage</th><th>Timing</th><th>What is added</th></tr></thead><tbody><tr><td>Returned delinquent</td><td>March 1 after the tax year</td><td>4% fee plus 1% interest per month</td></tr><tr><td>Forfeiture</td><td>March 1, one year later</td><td>$175 title search fee, $60 recording fees, interest rises to 1.5% per month</td></tr><tr><td>Foreclosure preparation</td><td>March 31 after the forfeiture date</td><td>Property is readied for a foreclosure judgment</td></tr></tbody></table><p>The county sums it up as two years and one month to pay before foreclosure. Its auction list of foreclosed properties appears around July 1 each year.</p>"
   },
   {
    "h2": "How can an owner pay delinquent taxes to the Kent County Treasurer?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "Which exemptions and relief programs apply in Kent County?",
-   "html": "<p>The Principal Residence Exemption and the poverty exemption are the two most owners ask about. The PRE takes the local school operating levy, up to 18 mills, off a home you own and live in. Owners file with the local assessor. The county's stated cutoffs are June 1 for the summer bill and November 1 for the winter bill.</p><p>The county FAQ sends a PRE denial from the state to the Michigan Department of Treasury for an informal conference, and a denial from the local unit or county to the Michigan Tax Tribunal. Poverty exemption questions go to the city or township assessor. The homestead property tax credit is a separate item, claimed on the Michigan income tax return.</p><p>One more tip from the treasurer: escrow does not make you safe. A mortgage servicer can miss a payment after a refinance, and the owner is still the one responsible for checking that the bill was paid.</p>"
+   "html": "<p>The Principal Residence Exemption and the poverty exemption are the two most owners ask about. The PRE takes the local school operating levy, up to 18 mills, off a home you own and live in. Owners file with the local assessor. Kent lists June 1 for the summer bill and November 1 for the winter bill as the filing cutoffs.</p><p>The county FAQ sends a PRE denial from the state to the Michigan Department of Treasury for an informal conference, and a denial from the local unit or county to the Michigan Tax Tribunal. Poverty exemption questions go to the city or township assessor. The homestead property tax credit is a separate item, claimed on the Michigan income tax return.</p><p>One more tip from the treasurer: escrow does not make you safe. A mortgage servicer can miss a payment after a refinance, and the owner is still the one responsible for checking that the bill was paid.</p>"
   },
   {
    "h2": "What happens with property tax when a Kent County house sells?",
@@ -37,7 +37,7 @@
  "faqs": [
   {
    "q": "When does Kent County start charging interest on unpaid property tax?",
-   "a": "Summer tax collects interest from September 15, and the county adds its own fee on March 1. That date comes from MCL 211.44a. On March 1 the Kent County Treasurer adds a 4% administration fee and 1% interest per month to anything left unpaid, and the county FAQ says none of these charges can be waived."
+   "a": "Summer tax collects interest from September 15, and the county adds its own fee on March 1. That date comes from MCL 211.44a. After March 1 the 4% fee and the monthly 1% interest apply, and the county FAQ says none of those charges can be waived."
   },
   {
    "q": "How long before Kent County can foreclose on a house for unpaid taxes?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "Who do I call to fight my assessment in Kent County?",
-   "a": "Start with your local assessor. The county does not change values, so it sends valuation complaints to the local March board of review, and the Michigan Tax Tribunal hears further appeals."
+   "a": "Start with your local assessor. Valuation complaints go to the local March board of review, and the Michigan Tax Tribunal takes it from there."
   },
   {
    "q": "Do I have to pay Kent County back taxes before I sell?",

@@ -11,7 +11,7 @@
   },
   {
    "h2": "Who owes the transfer tax on a Sanilac County sale?",
-   "html": "<p>The seller does. State law puts the tax on the grantor and gives 15 days after delivery of the deed to pay the county treasurer, though at the Sanilac counter it is collected as the deed is recorded.</p><p>Put the full value of the land on the face of the deed, or attach an affidavit stating it. A sale that bundles a house with furniture or equipment is taxed on the real estate alone when the two values are written separately.</p><p>Some deeds owe no tax. The state exemptions include:</p><ul><li>a transfer for under $100;</li><li>family transfers from a parent to a child and from a grandparent to a grandchild;</li><li>a court-ordered transfer with no price set by the order;</li><li>a land contract, until title actually passes.</li></ul><p>The county act is narrower and omits the family exemption, so a deed to a child can dodge the state share and still owe the county share. Cite the exemption on the deed itself, since a deed with neither a price nor an exemption gets returned.</p>"
+   "html": "<p>The seller does. State law puts the tax on the grantor and gives 15 days after delivery of the deed to pay the county treasurer, though at the Sanilac counter it is collected as the deed is recorded.</p><p>Put the full value of the land on the face of the deed, or attach an affidavit stating it. A sale that bundles a house with furniture or equipment is taxed on the real estate alone when the two values are written separately.</p><p>Some deeds owe no tax. The state exemptions include:</p><ul><li>a transfer for under $100;</li><li>family transfers from a parent to a child and from a grandparent to a grandchild;</li><li>a court-ordered transfer with no price set by the order;</li><li>a land contract, until title actually passes.</li></ul><p>The county act has no family exemption, so a gift deed can skip the state share and still owe the county share. A deed with neither a price nor an exemption cited is returned.</p>"
   },
   {
    "h2": "What formatting does a deed need before the office accepts it?",
@@ -56,8 +56,8 @@
    "a": "The forms page lists a warranty deed, a quit claim deed and an agricultural property affidavit. Have an attorney check any form against your facts before you sign."
   },
   {
-   "q": "Is a gift of a house to my child taxed on transfer?",
-   "a": "The state tax does not apply to a deed from a parent to a child, but the county tax act has no matching exemption. Confirm the figure with the office before recording."
+   "q": "How far back do the online Sanilac County land records go?",
+   "a": "The index at rod.sanilaccounty.net starts in 1801. Searching is free for guests, and image copies are $1 per page plus a $5 fee per order."
   }
  ],
  "sources": [

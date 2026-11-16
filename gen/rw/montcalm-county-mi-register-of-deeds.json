@@ -11,7 +11,7 @@
   },
   {
    "h2": "What do the Census figures show for Montcalm County?",
-   "html": "<p>Rural living dominates: 84.6% of residents are outside urban areas, spread across 705 square miles of land. The 2020 count of 66,614 grew to an estimated 69,406 by July 2025, and 20.1% are 65 or older.</p><p>Owners live in 83.1% of occupied housing. Half of owner-occupied homes were worth under $185,500 in 2020 to 2024 figures, rent at the median ran $869 and median household income reached $67,344. A one-way trip to work averages 30.7 minutes, and the Census tally for 2025 shows 201 building permits.</p><p>Families choose among eight public districts: Carson City Crystal Area, Central Montcalm, Greenville, Lakeview, Montabella, Tri County Area and Vestaburg, with the Montcalm Area ISD coordinating services. Montcalm Community College anchors higher education.</p>"
+   "html": "<p>Rural living dominates: 84.6% of residents are outside urban areas, spread across 705 square miles of land. The 2020 count of 66,614 grew to an estimated 69,406 by July 2025, and 20.1% are 65 or older.</p><p>Owners live in 83.1% of occupied housing. Half of owner-occupied homes were worth under $185,500 in 2020 to 2024 figures, rent at the median ran $869 and median household income reached $67,344. A one-way trip to work averages 30.7 minutes, and the Census tally for 2025 shows 201 building permits.</p><p>Connectivity matters to remote buyers: 83.9% of households have a broadband subscription, and 88.5% of adults have finished high school. About 16.0% hold a bachelor's degree, and 14.2% of residents live in poverty.</p><p>Families choose among eight public districts: Carson City Crystal Area, Central Montcalm, Greenville, Lakeview, Montabella, Tri County Area and Vestaburg, with the Montcalm Area ISD coordinating services. Montcalm Community College anchors higher education.</p>"
   },
   {
    "h2": "What will the recording fee be in Montcalm County?",
@@ -19,19 +19,19 @@
   },
   {
    "h2": "How much transfer tax would a Montcalm County seller pay?",
-   "html": "<p>On a Montcalm sale, the grantor carries both taxes, due at the county treasurer in the 15 days after the deed is handed over. The state portion is $3.75 and the county portion $0.55 per $500 or part of $500. The table prices a sale at the county's median home value.</p><table><caption>Transfer tax on a $185,500 Montcalm County sale (rates in MCL 207.504 and 207.523; median value from Census QuickFacts)</caption><thead><tr><th>Step</th><th>Result</th></tr></thead><tbody><tr><td>$500 blocks in $185,500</td><td>371</td></tr><tr><td>State share</td><td>$1,391.25</td></tr><tr><td>County share</td><td>$204.05</td></tr><tr><td>Seller's combined bill</td><td>$1,595.30</td></tr></tbody></table><p>Family handovers get special treatment. The state act excludes a deed from a parent to a child or grandchild, and it excludes foreclosure deeds and deeds in lieu. The county act has no family exclusion, so the county share can still apply. Whichever exemption fits, write it on the deed itself.</p>"
+   "html": "<p>Both taxes fall on the grantor. Michigan takes $3.75 and the county $0.55 for every $500 block of value, with a partial block counted whole, and payment reaches the county treasurer inside 15 days of handing over the deed. The table prices a sale at the Montcalm median.</p><table><caption>Transfer tax on a $185,500 Montcalm County sale (rates in MCL 207.504 and 207.523; median value from Census QuickFacts)</caption><thead><tr><th>Step</th><th>Result</th></tr></thead><tbody><tr><td>$500 blocks in $185,500</td><td>371</td></tr><tr><td>State share</td><td>$1,391.25</td></tr><tr><td>County share</td><td>$204.05</td></tr><tr><td>Seller's combined bill</td><td>$1,595.30</td></tr></tbody></table><p>Family handovers get special treatment. The state act excludes a deed from a parent to a child or grandchild, and it excludes foreclosure deeds and deeds in lieu. The county act has no family exclusion, so the county share can still apply. Whichever exemption fits, write it on the deed itself.</p>"
   },
   {
-   "h2": "Which formatting rules can get a deed bounced in Stanton?",
-   "html": "<p>The register works from MCL 565.201 and may refuse a paper that misses a requirement, which costs you a trip. Walk through this list with your closing agent.</p><ul><li>Signatures in black or dark blue ink, each with the printed name below it that the notary also used.</li><li>Grantee addresses and the drafter's name and address written on the deed.</li><li>A top margin of 2.5 inches on the first page, half an inch elsewhere.</li><li>A first line identifying the one event being recorded.</li><li>Ten-point print on white 20-pound paper between letter and legal size.</li><li>Social Security numbers cut to their last four digits.</li></ul><p>A translation must be attached to any foreign-language paper. Staff cannot advise on or write the document.</p>"
+   "h2": "What should I check on a deed before bringing it to Stanton?",
+   "html": "<p>MCL 565.201 gives the register grounds to refuse a paper, and a refusal costs a trip across the county. Hand your closing agent this short list before anyone signs.</p><ul><li>Dark ink signatures, with every signer's name printed beneath and spelled as the notary spelled it.</li><li>Each grantee's mailing address, plus the preparer's name and address.</li><li>Roomy margins: 2.5 inches at the top of page one, half an inch around the rest.</li><li>One recordable event named on the opening line.</li><li>Letter or legal size sheets in 10-point type or larger.</li></ul><p>Anything in a foreign language travels with an English translation, and a Social Security number has to be masked down to four digits.</p>"
   },
   {
-   "h2": "How does a sale change the tax bill and the homestead exemption?",
-   "html": "<p>Taxable value normally climbs at the lesser of 5% or inflation each year. A sale breaks that cap: the next year's taxable value resets to state equalized value, which is half of true cash value. Residential transfers to a parent, child, sibling or grandchild who will not use the home commercially are excepted, which can help an heir.</p><p>The new owner must tell the assessor within 45 days. Meanwhile the register sends the assessing offices a monthly list of recorded transactions.</p><p>In Michigan, tax assessment belongs to cities and townships, not the county, so your local assessor handles exemptions and affidavits even though the deed goes to Stanton.</p><p>If you took the principal residence exemption, send Form 2602 to your township or city assessor within 90 days of leaving. Lateness costs $5 per day up to $200, and the exemption ends on December 31. A buyer who will live in the house files Form 2368 by June 1 or November 1.</p>"
+   "h2": "How does a sale change taxes for the next owner?",
+   "html": "<p>Between sales, Michigan lets taxable value rise by no more than 5% or inflation, whichever is smaller. A transfer ends that protection, and the next owner's value jumps to state equalized value. A close relative who keeps a residence non-commercial can inherit without the jump.</p><p>Assessing is a city and township job in Michigan, not a county one, so your local assessor handles the paperwork even though the deed goes to Stanton. The new owner reports the transfer within 45 days.</p><p>Sellers who claimed the homestead exemption rescind it on Form 2602 within 90 days of moving out. Late filing runs $5 per day to a $200 limit, and the exemption ends December 31. New occupants file Form 2368 by June 1 or November 1.</p>"
   },
   {
-   "h2": "Can I sell an inherited or rundown Montcalm County house?",
-   "html": "<p>Yes. An heir needs authority to sign, usually through the estate's personal representative, and a certified death certificate may need to go on record if a deed names a surviving owner. The deed from the estate follows the same recording steps as any other.</p><p>A cash buyer who takes the property as it stands skips lender appraisals and repair demands, though transfer tax, recording and the assessor notice still apply. Ask the county treasurer for the parcel's tax status first, since a delinquent balance should be settled before you set a closing date.</p>"
+   "h2": "What if the Montcalm County house is inherited or worn out?",
+   "html": "<p>It can still sell. An heir signs through the personal representative, and a certified death certificate gets recorded when the deed names a survivor. A buyer who pays cash and takes the house as it stands skips lender appraisals and repair demands.</p><p>Before choosing a closing date, ask the county treasurer where the parcel stands on taxes, because any delinquent balance is cleaned up first. If you cannot reach the person named on the deed, a title company can tell you what paper the register will need.</p>"
   }
  ],
  "faqs": [
@@ -48,12 +48,12 @@
    "a": "Staff check that a paper meets recording standards and then record it. Drafting is outside their role, so bring a finished deed prepared by an attorney or title company."
   },
   {
-   "q": "Do the buyer's taxes go up after a sale?",
-   "a": "Typically yes, since ownership change moves taxable value to the state equalized value the next year. The buyer notifies the assessor within 45 days, and some family transfers keep the old value."
+   "q": "How far is Stanton from Greenville?",
+   "a": "About 16 miles by road. Carson City is roughly 20 miles from Stanton, so sellers in the south and west should allow time for an in-person filing."
   },
   {
-   "q": "How soon must I drop my homestead exemption?",
-   "a": "Within 90 days of moving out, on Form 2602 filed with the local assessor. After that, $5 per day accrues until it reaches $200."
+   "q": "What happens to the homestead exemption when I sell?",
+   "a": "It has to be rescinded on Form 2602 with the local assessor within 90 days of moving out. A late filing is charged $5 per day up to $200."
   }
  ],
  "sources": [
@@ -108,6 +108,10 @@
   {
    "title": "Wikipedia: Stanton, Michigan",
    "url": "https://en.wikipedia.org/wiki/Stanton,_Michigan"
+  },
+  {
+   "title": "Wikipedia: Carson City, Michigan",
+   "url": "https://en.wikipedia.org/wiki/Carson_City,_Michigan"
   }
  ]
 }

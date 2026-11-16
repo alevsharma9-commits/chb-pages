@@ -15,7 +15,7 @@
   },
   {
    "h2": "Which taxes and costs apply when an heir sells the inherited house?",
-   "html": "<p>Selling the house triggers the same transfer charges as any sale. The state transfer tax is collected at 50 cents per $500 of value under 35 ILCS 200/31-15, and counties may add 25 cents per $500. Home rule municipalities can impose an additional transfer tax. Buyer and seller complete Form PTAX-203, the Illinois Real Estate Transfer Declaration, which is filed in the county where the property sits and can be prepared through MyDec in participating counties.</p><p>If the property remains subject to a mortgage, only the owner's equity counts in the base, provided the deed states that on its face. Ask the county recorder of deeds what the local stamp or transfer tax is for your parcel, because counties and some municipalities differ.</p><p>Property tax keeps running while the estate is open. In Cook County, a parent who lived in the home on January 1 and used it as a principal residence leaves a property that is still eligible for the senior exemption for that year, and the heir applies using the death certificate and letters of office.</p>"
+   "html": "<p>Selling the house triggers the same transfer charges as any sale. Section 31-15 sets the state transfer tax at 50¢ per $500, and the Department of Revenue notes that a county may add a 25¢ per $500 levy. Home rule municipalities can impose an additional transfer tax. Buyer and seller complete Form PTAX-203, the Illinois Real Estate Transfer Declaration, which goes to the county that holds the parcel and can be prepared through MyDec in participating counties.</p><p>If the property remains subject to a mortgage, only the owner's equity counts in the base, provided the deed states that on its face. Ask the county recorder of deeds what the local stamp or transfer tax is for your parcel, because counties and some municipalities differ.</p><p>Property tax keeps running while the estate is open. In Cook County, a parent who lived in the home on January 1 and used it as a principal residence leaves a property that is still eligible for the senior exemption for that year, and the heir applies using the death certificate and letters of office.</p>"
   },
   {
    "h2": "What if the person who died lived out of state but owned Illinois property?",
@@ -44,11 +44,11 @@
    "a": "It is due nine months after the date of death, payable to the State Treasurer. Extensions can be requested within nine months, and federal extensions are honored."
   },
   {
-   "q": "Do I owe transfer tax if I sell an inherited house?",
-   "a": "Yes, the usual transfer tax applies to the sale. The state rate is 50 cents per $500 of value, counties may add 25 cents per $500, and some municipalities add their own."
+   "q": "Does transfer tax apply to an estate sale?",
+   "a": "Yes, the sale carries the usual transfer tax: 50¢ per $500 at the state level, a possible county levy, and in some home rule municipalities a local one."
   },
   {
-   "q": "Can I sell an inherited Illinois house before probate ends?",
+   "q": "Is a sale possible before the estate closes?",
    "a": "Possibly. An independent representative with letters of office may sell real estate without a court order, except property specifically left to a legatee needs that person's written consent. Title held in joint tenancy or a trust follows its own rules."
   }
  ],

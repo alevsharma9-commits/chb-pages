@@ -1,73 +1,125 @@
 {
-  "slug": "lansing-mi-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Who handles property tax in Lansing, Michigan?",
-      "html": "<p>Three city bodies share the work: the City Assessor, the Treasury and Income Tax Office, and the Board of Review. The assessor keeps the inventory and yearly value of all assessable property inside the city. The treasury office takes property tax payments, and the board of review hears valuation appeals under state law and city ordinance.</p><p>Lansing has one unusual feature for a tax guide. Most of the city lies in Ingham County, but parts extend into Eaton and Clinton counties, and the city's millage library lists levies from all three. Which county treasurer takes over an unpaid bill depends on where the parcel sits, so look at the county named on your tax bill before you call anyone about delinquent tax.</p>"
-    },
-    {
-      "h2": "What is Lansing like for homeowners and sellers?",
-      "html": "<p>Lansing is the state capital, a city of 113,884 people in the Census Bureau's July 2025 estimate, packed into about 39 square miles of land. It was founded in 1835 and chosen as capital in 1847, and car makers Oldsmobile and REO built its industrial base. State government, higher education across the line in East Lansing, health care and insurance carry the economy now.</p><ul><li>Median value of an owner-occupied home (2020-2024): $128,700</li><li>Owner-occupied housing rate: 53.8%</li><li>Median gross rent: $993</li><li>Median household income: $54,382</li><li>Mean commute: 18.9 minutes</li></ul><p>About 46% of homes are rented. With a $128,700 typical value, a fixed state charge such as the $175 title search fee added at forfeiture is a larger share of the bill than it would be on a higher-priced house.</p>"
-    },
-    {
-      "h2": "What tax rates appear on a Lansing bill?",
-      "html": "<p>The city's millage library posts every levy for the 2025 tax year, and a typical parcel in the Lansing School District picks up the city, county, school and college levies. A mill is $1 of tax per $1,000 of taxable value. The table lists the summer levies for a parcel in Ingham County and the Lansing School District.</p><table><caption>Summer 2025 millage on a Lansing parcel in Ingham County and the Lansing School District (City of Lansing millage library)</caption><thead><tr><th>Levy</th><th>Mills</th></tr></thead><tbody><tr><td>City of Lansing operating</td><td>19.4400</td></tr><tr><td>City of Lansing public safety</td><td>3.5000</td></tr><tr><td>Lansing School District operating</td><td>17.4478</td></tr><tr><td>Lansing School District debt</td><td>4.1000</td></tr><tr><td>Lansing School District sinking fund</td><td>2.9468</td></tr><tr><td>State education tax</td><td>6.0000</td></tr><tr><td>Lansing Community College</td><td>3.7550</td></tr><tr><td>Ingham County operating</td><td>6.7548</td></tr></tbody></table><p>Other levies, including the intermediate school district and storm drains, are listed in the library too, so use the library for the full set and your actual bill for the final figure. A homeowner with a principal residence exemption does not pay the school operating levy, which is the 17.4478 line.</p>"
-    },
-    {
-      "h2": "When does Lansing property tax become delinquent?",
-      "html": "<p>Summer taxes that collect with city taxes pick up interest after September 14, and any tax unpaid on March 1 of the next year is returned to the county treasurer. MCL 211.44a sets the September date, and MCL 211.78a sets the March 1 return along with a 4% county administration fee and interest of 1% per month.</p><ul><li>In the millage library the city and Lansing School District levies are summer items, while Ingham County operating appears on both the summer and winter bills.</li><li>Property returned delinquent is subject to forfeiture, foreclosure and sale under MCL 211.78 to 79a.</li><li>An owner who wants notice when delinquent tax is returned on a parcel can pay a fee of $5 or less a year to the county treasurer by February 1.</li></ul><p>A parcel goes to the Ingham, Eaton or Clinton County treasurer depending on its location, and each county has its own payoff process, so call the one on your bill. Ask for the payoff figure for a specific closing date because interest accrues by the month.</p>"
-    },
-    {
-      "h2": "How can you pay Lansing property tax?",
-      "html": "<p>The Treasury and Income Tax Office lists six ways to pay: ACH payments, a drop box or in person, mail, MSU Federal Credit Union, online, and by phone. The city's Ways to Pay Property Tax page has a tab for each method, and the treasury office can tell you where to drop a payment and what each channel costs.</p><p>If your mortgage lender escrows the taxes, confirm that the lender has paid before the September 14 interest date and the winter due date rather than assuming it did. When a Lansing owner sells, have your parcel number and latest bill ready when you ask the treasury for a payoff, since the county named on the bill decides who answers.</p>"
-    },
-    {
-      "h2": "How do you appeal a Lansing assessment?",
-      "html": "<p>File with the Lansing Board of Review, which meets on the second Monday in March unless the city has chosen the Tuesday or Wednesday that week. In 2026 that second Monday fell on March 9. The board must sit at least 12 hours during the week it starts, and MCL 211.30 requires at least three of the required hours to run after 6 pm.</p><p>A resident taxpayer can file by letter without appearing in person, but only if the city has adopted a resolution allowing it, and the city must say so on its assessment notices. The written decision should reach you by the first Monday in June with details on appealing to the Michigan Tax Tribunal. The board's July and December sessions are mainly for qualified errors and cover the current and prior year only.</p>"
-    },
-    {
-      "h2": "What happens to a Lansing tax bill when you sell?",
-      "html": "<p>Unpaid tax is settled at closing and the taxable value resets for the buyer. Under MCL 211.135, a deed with warranty covenants cannot be recorded without a treasurer's certificate showing no tax liens and five years of taxes paid. The county treasurer issues that certificate, and the delinquent amount, including the 4% fee and interest, comes out of the seller's proceeds.</p><p>The transfer also resets the assessment. MCL 211.27a sets the taxable value for the year after a transfer to the state equalized value, and the new owner has to notify the local assessor within 45 days. That reset can raise a Lansing parcel's bill after a sale. A seller who wants a quick, as-is sale with back tax owed should get a payoff from the treasurer first, then compare it with the offer.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Which county does Lansing property tax go to if it is delinquent?",
-      "a": "It depends on where the parcel is. Most of Lansing is in Ingham County, but parts of the city are in Eaton and Clinton counties, and delinquent tax goes to the treasurer of the county that holds the parcel."
-    },
-    {
-      "q": "What is the Lansing city millage rate?",
-      "a": "The 2025 millage library lists 19.4400 mills for city operating and 3.5000 mills for city public safety on the summer bill. Those are in addition to school, county and college levies, and your own bill is the final word."
-    },
-    {
-      "q": "When is the Lansing Board of Review?",
-      "a": "It meets on the second Monday in March, or the Tuesday or Wednesday after if the city allows. In 2026 the second Monday was March 9. Owners with a clerical error can also go to the July or December board."
-    },
-    {
-      "q": "Does Lansing add penalties to late property tax?",
-      "a": "Yes. Interest is added to summer taxes collected after September 14, and on March 1 the county adds a 4% administration fee and 1% interest per month on unpaid taxes returned as delinquent."
-    },
-    {
-      "q": "Can I sell a Lansing house that owes back property tax?",
-      "a": "Yes. The tax is paid from the sale proceeds at closing. A warranty deed needs a treasurer's certificate that five years of taxes are paid, so ask the treasury for a payoff figure before you set a closing date."
-    }
-  ],
-  "sources": [
-    {"title": "City of Lansing Property Tax", "url": "https://www.lansingmi.gov/property-tax"},
-    {"title": "City of Lansing Millage Library", "url": "https://www.lansingmi.gov/millage-library"},
-    {"title": "City of Lansing Ways to Pay Property Tax", "url": "https://www.lansingmi.gov/ways-to-pay-property-tax"},
-    {"title": "City of Lansing Treasury and Income Tax Office", "url": "https://www.lansingmi.gov/treasury-income-tax-office"},
-    {"title": "City of Lansing City Assessor", "url": "https://www.lansingmi.gov/city-assessor"},
-    {"title": "City of Lansing Board of Review", "url": "https://www.lansingmi.gov/board-of-review"},
-    {"title": "MCL 211.30", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-30"},
-    {"title": "MCL 211.44a", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-44a"},
-    {"title": "MCL 211.78a", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-78a"},
-    {"title": "MCL 211.78", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-78"},
-    {"title": "MCL 211.135", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-135"},
-    {"title": "MCL 211.27a", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"},
-    {"title": "MCL 211.53b", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-53b"},
-    {"title": "Census QuickFacts, Lansing city", "url": "https://www.census.gov/quickfacts/fact/table/lansingcitymichigan/PST045224"},
-    {"title": "Lansing, Michigan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lansing,_Michigan"},
-    {"title": "Kent County Treasurer FAQ (PRE description)", "url": "https://www.kentcountymi.gov/871/Frequently-Asked-Questions"}
-  ]
+ "slug": "lansing-mi-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who handles property tax in Lansing, Michigan?",
+   "html": "<p>Lansing splits the work among the City Assessor, the Treasury and Income Tax Office and the Board of Review. The assessor tracks every assessable property inside the city and values it each year. The treasury office collects property tax, and the board hears valuation appeals under state law and city ordinance.</p><p>Geography adds a wrinkle. Most of Lansing sits in Ingham County, yet parts of it reach into Eaton and Clinton counties, and the city's millage library lists levies from all three. The county on your bill also decides which treasurer collects after a tax goes delinquent, so read that line before you phone anyone.</p>"
+  },
+  {
+   "h2": "What is Lansing like for homeowners and sellers?",
+   "html": "<p>Lansing is Michigan's capital, with 113,884 residents in the July 2025 Census estimate and about 39 square miles of land. Settled in 1835 and named capital in 1847, it grew on automobile plants run by Oldsmobile and REO. State government, health care and insurance carry much of the economy now, and Michigan State University sits in neighboring East Lansing.</p><ul><li>Median value of an owner-occupied home (2020-2024): $128,700</li><li>Owner-occupied rate: 53.8%</li><li>Median gross rent: $993</li><li>Median household income: $54,382</li><li>Mean commute: 18.9 minutes</li></ul><p>About 46% of homes are rented. With a $128,700 typical value, a fixed state charge such as the $175 title search fee added at forfeiture is a larger share of the bill than it would be on a higher-priced house.</p>"
+  },
+  {
+   "h2": "What tax rates appear on a Lansing bill?",
+   "html": "<p>The city's millage library posts every levy for the 2025 tax year, and a typical parcel in the Lansing School District picks up the city, county, school and college levies. A mill is $1 of tax per $1,000 of taxable value. The table lists the summer levies for a parcel in Ingham County and the Lansing School District.</p><table><caption>Summer 2025 millage on a Lansing parcel in Ingham County and the Lansing School District (City of Lansing millage library)</caption><thead><tr><th>Levy</th><th>Mills</th></tr></thead><tbody><tr><td>City of Lansing operating</td><td>19.4400</td></tr><tr><td>City of Lansing public safety</td><td>3.5000</td></tr><tr><td>Lansing School District operating</td><td>17.4478</td></tr><tr><td>Lansing School District debt</td><td>4.1000</td></tr><tr><td>Lansing School District sinking fund</td><td>2.9468</td></tr><tr><td>State education tax</td><td>6.0000</td></tr><tr><td>Lansing Community College</td><td>3.7550</td></tr><tr><td>Ingham County operating</td><td>6.7548</td></tr></tbody></table><p>Other levies, including the intermediate school district and storm drains, are listed in the library too, so use the library for the full set and your actual bill for the final figure. A homeowner with a principal residence exemption does not pay the school operating levy, which is the 17.4478 line.</p>"
+  },
+  {
+   "h2": "How does the county line change a Lansing bill?",
+   "html": "<p>It adds county, township and transit levies that an Ingham parcel never sees. The millage library separates them by county, which is why two Lansing neighbors on opposite sides of a county line can pay different totals.</p><ul><li>Ingham County parcels show Ingham County operating at 6.7548 mills in summer and 5.6614 in winter.</li><li>Eaton County parcels add Eaton County operating at 5.2023 mills in summer, plus winter levies for the jail (0.6983), 911 (0.9486), roads (1.4964), parks (0.4993) and EATRAN (0.2493).</li><li>Clinton County parcels add Clinton County operating at 5.7288 mills in summer, with winter levies for DeWitt Township operating (3.9736), fire (1.2239), police (1.2239) and Clinton Transit (0.6962).</li></ul><p>These are the 2025 tax year rates posted by the city. The library says its figures do not replace the rates on an individual bill, so confirm the numbers against your own statement.</p>"
+  },
+  {
+   "h2": "When does Lansing property tax become delinquent?",
+   "html": "<p>Tax unpaid on March 1 of the following year goes to the county treasurer with a 4% fee and 1% monthly interest (MCL 211.78a), and summer tax collected with city taxes carries interest after September 14 (MCL 211.44a).</p><ul><li>In the millage library the city levies and the Lansing School District levies are summer items, while Ingham County operating appears on both the summer and winter bills.</li><li>A parcel returned delinquent can be forfeited, foreclosed and sold under MCL 211.78 to 79a.</li><li>A person who wants a notice when tax is returned on a parcel can pay the county treasurer up to $5 a year, by February 1.</li></ul><p>The Ingham, Eaton or Clinton County treasurer takes the parcel depending on where it lies, and each runs its own payoff process. Request a figure for the exact closing date, since interest builds month by month.</p>"
+  },
+  {
+   "h2": "How can you pay Lansing property tax?",
+   "html": "<p>The Treasury and Income Tax Office lists six ways to pay: ACH payments, a drop box or in person, mail, MSU Federal Credit Union, online, and by phone. The city's Ways to Pay Property Tax page has a tab for each method, and the treasury office can tell you where to drop a payment and what each channel costs.</p><p>If your mortgage lender escrows the taxes, confirm that the lender has paid before the September 14 interest date and the winter due date rather than assuming it did. When a Lansing owner sells, have your parcel number and latest bill ready when you ask the treasury for a payoff, since the county named on the bill decides who answers.</p><p>The millage library puts the city operating and public safety levies, the Lansing School District levies, the state education tax and Lansing Community College on the summer bill, so September 14 is the date that matters for most of a Lansing owner's tax.</p>"
+  },
+  {
+   "h2": "How do you appeal a Lansing assessment?",
+   "html": "<p>Take it to the Lansing Board of Review, which opens on the second Monday of March, or the Tuesday or Wednesday that week if the city has picked one of those. That Monday was March 9 in 2026. State law (MCL 211.30) requires 12 hours of sessions in the first week and at least three of them after 6 pm.</p><p>A resident can protest by letter only if the city has passed a resolution allowing it, and the city must say so on its assessment notices. You should get a written decision by the first Monday in June with details on the Michigan Tax Tribunal. The July and December boards are mainly for qualified errors and reach back one year.</p>"
+  },
+  {
+   "h2": "What happens to a Lansing tax bill when you sell?",
+   "html": "<p>The tax is cleared at closing and the buyer's value is reset. A deed with warranty covenants needs a treasurer's certificate of no liens and five paid years (MCL 211.135), so any delinquent balance, with its 4% fee and interest, comes out of the seller's proceeds.</p><p>Next, MCL 211.27a moves the taxable value to the state equalized value for the year after the transfer, and the buyer must tell the local assessor within 45 days. That reset can raise a Lansing parcel's bill after a sale. A seller with back tax who wants a fast, as-is sale should get the payoff from the treasurer first and then weigh it against any offer.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which county collects delinquent tax on a Lansing house?",
+   "a": "The county where the parcel lies. Lansing is mostly in Ingham County with sections in Eaton and Clinton counties, and the treasurer of that county collects what the city could not."
+  },
+  {
+   "q": "What is the Lansing city millage rate?",
+   "a": "The 2025 millage library lists 19.4400 mills for city operating and 3.5000 mills for city public safety on the summer bill. Those are in addition to school, county and college levies, and your own bill is the final word."
+  },
+  {
+   "q": "When is the Lansing Board of Review?",
+   "a": "Second Monday in March, with Tuesday or Wednesday that week allowed if the city chooses. March 9 was the date in 2026. A July or December board handles clerical and similar errors."
+  },
+  {
+   "q": "Does Lansing add penalties to late property tax?",
+   "a": "Yes. Summer tax collected after September 14 picks up interest, and a March 1 return to the county adds a 4% fee plus 1% interest per month."
+  },
+  {
+   "q": "Can I sell a Lansing house that owes back property tax?",
+   "a": "Yes. The balance is subtracted from your proceeds at closing, and the county treasurer's certificate of five paid years is needed for a warranty deed. Request the payoff before choosing a closing date."
+  }
+ ],
+ "sources": [
+  {
+   "title": "City of Lansing Property Tax",
+   "url": "https://www.lansingmi.gov/property-tax"
+  },
+  {
+   "title": "City of Lansing Millage Library",
+   "url": "https://www.lansingmi.gov/millage-library"
+  },
+  {
+   "title": "City of Lansing Ways to Pay Property Tax",
+   "url": "https://www.lansingmi.gov/ways-to-pay-property-tax"
+  },
+  {
+   "title": "City of Lansing Treasury and Income Tax Office",
+   "url": "https://www.lansingmi.gov/treasury-income-tax-office"
+  },
+  {
+   "title": "City of Lansing City Assessor",
+   "url": "https://www.lansingmi.gov/city-assessor"
+  },
+  {
+   "title": "City of Lansing Board of Review",
+   "url": "https://www.lansingmi.gov/board-of-review"
+  },
+  {
+   "title": "MCL 211.30",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-30"
+  },
+  {
+   "title": "MCL 211.44a",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-44a"
+  },
+  {
+   "title": "MCL 211.78a",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-78a"
+  },
+  {
+   "title": "MCL 211.78",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-78"
+  },
+  {
+   "title": "MCL 211.135",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-135"
+  },
+  {
+   "title": "MCL 211.27a",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
+  },
+  {
+   "title": "MCL 211.53b",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-53b"
+  },
+  {
+   "title": "Census QuickFacts, Lansing city",
+   "url": "https://www.census.gov/quickfacts/fact/table/lansingcitymichigan/PST045224"
+  },
+  {
+   "title": "Lansing, Michigan (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Lansing,_Michigan"
+  },
+  {
+   "title": "Kent County Treasurer FAQ (PRE description)",
+   "url": "https://www.kentcountymi.gov/871/Frequently-Asked-Questions"
+  }
+ ]
 }
