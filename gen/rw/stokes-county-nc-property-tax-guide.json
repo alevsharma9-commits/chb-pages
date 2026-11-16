@@ -32,6 +32,22 @@
   {
    "h2": "How is personal property valued in Stokes County?",
    "html": "<p>Owners report original cost by year of purchase. The county trends it up to current replacement cost and then applies straight line depreciation using state schedules. Manufacturer, retailer, wholesaler and contractor inventories are exempt, as is non-business personal property.</p><p>The same appeal path of county board, then state commission, applies. The FAQ page also posts the county's ten largest taxpayers.</p>"
+  },
+  {
+   "h2": "How do the Stokes County listing steps work for a first-time owner?",
+   "html": "<p>North Carolina requires everyone to list taxable property each year, and the county's FAQ points to G.S. 105-287 for that duty. A person who bought a house in the past year typically has real estate already on the books, so the main item to list is personal property such as a boat or business equipment.</p><p>The county posts a 2025 online listing service link and a form for tax extension requests on the Tax Administration page. Individual extensions for good cause can run as late as April 15, but only if you ask during January.</p>"
+  },
+  {
+   "h2": "What is the foreclosure bidding process after a Stokes County tax sale?",
+   "html": "<p>After the commissioner reports a sale, anyone can submit an upset bid in the following 10 days. A new bid must beat the last one by at least 5%, with a minimum increase of $750, and needs a deposit of at least 5% of the bid but no less than $750. Each upset bid starts a new 10 day period, and rights become fixed when no bid arrives in time.</p><p>The commissioner's fee can reach 5% of the purchase price, and leftover proceeds after taxes go to the court for the people entitled to them. These rules reward a quick sale before foreclosure, which is why talking to Tax Administration early is worth the phone call.</p>"
+  },
+  {
+   "h2": "How long does the Stokes County review board sit?",
+   "html": "<p>In a year without a general reappraisal, the board completes its work by the third Monday after its first meeting unless more time is necessary, and cannot sit past July 1 except for certain requests. In a reappraisal year, it finishes by December 1.</p><p>That difference matters in Stokes County because the county reappraises on a four year cycle. Owners in a reappraisal year have a longer window to be heard, while owners in an off year face a tighter one. Look for the date of the board's first meeting when your notice arrives.</p>"
+  },
+  {
+   "h2": "Where are the Stokes County offices a taxpayer will need?",
+   "html": "<p>They cluster in Danbury at the Administration Building, 1014 Main Street.</p><ul><li>Tax Administration, P.O. Box 57, weekdays 8:30 to 5:00.</li><li>Register of Deeds, (336) 593-2414, recording until 4:45 on weekdays.</li><li>Planning and Inspections, (336) 593-2444.</li><li>Finance, (336) 914-9188.</li></ul><p>The deed certification rule means the first two will often be visited on the same day.</p>"
   }
  ],
  "faqs": [
@@ -100,6 +116,22 @@
   {
    "title": "G.S. 105-374 tax foreclosure",
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-374.html"
+  },
+  {
+   "title": "Stokes County Register of Deeds",
+   "url": "https://www.co.stokes.nc.us/departments/register_of_deeds.php"
+  },
+  {
+   "title": "Stokes County Planning & Inspections",
+   "url": "https://www.co.stokes.nc.us/departments/planning.php"
+  },
+  {
+   "title": "Stokes County Finance",
+   "url": "https://www.co.stokes.nc.us/departments/finance.php"
+  },
+  {
+   "title": "G.S. 105-374 sale and upset bids",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-21.27.html"
   }
  ]
 }

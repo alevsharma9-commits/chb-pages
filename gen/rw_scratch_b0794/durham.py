@@ -3,14 +3,14 @@ S=[]
 def s(h,html): S.append({"h2":h,"html":html})
 s("Is a cash offer or a listing better for a house in Durham, NC?",
 "<p>A listing usually targets the highest price, and a cash offer targets speed and fewer moving parts. Durham sellers who need a quick closing, a repair-free sale or a clean exit from an inherited or rented house often look at both.</p>"
-"<p>Durham is a renter-heavy city, which affects who is likely to buy. The Census Bureau puts the owner-occupied housing unit rate at 52.3 percent for 2020 to 2024, well under the shares in most North Carolina suburbs. Investors and landlords are part of the buyer pool alongside owner-occupants.</p>"
+"<p>Durham has a large renter population. The Census Bureau puts the owner-occupied housing unit rate at 52.3 percent for 2020 to 2024, so nearly half of households rent, and a house may appeal to landlords as well as owner-occupants.</p>"
 "<ul><li>List when the house shows well and you can wait through inspections and the buyer's loan approval.</li>"
 "<li>Sell by owner if you can price the house and run the contract yourself.</li>"
 "<li>Take a cash offer when repairs, tenants, probate or a deadline make a normal listing hard.</li></ul>"
 "<p>The deed is recorded with the Durham County Register of Deeds. State law ranks competing conveyances by the time of registration in the county where the land sits.</p>")
 s("What does Durham look like for a house seller?",
-"<p>Durham is the largest city in Durham County, with 305,561 residents in the Census Bureau's July 1, 2025 estimate and 112.79 square miles of land. The 2020 Census count was 283,506, up from 228,330 in 2010.</p>"
-"<p>The city's economy leans on health care and education. QuickFacts lists 2022 health care and social assistance receipts at 6,106,797 thousand dollars, more than four times the city's accommodation and food services sales of 1,277,689 thousand dollars. Some 57.3 percent of adults 25 and older hold a bachelor's degree or higher, and the mean commute is 22.3 minutes.</p>"
+"<p>Durham had 305,561 residents in the Census Bureau's July 1, 2025 estimate and 112.79 square miles of land. The 2020 Census count was 283,506, up from 228,330 in 2010.</p>"
+"<p>Health care is the biggest line in the city's QuickFacts business data: 2022 health care and social assistance receipts are listed at 6,106,797 thousand dollars, against 1,277,689 thousand dollars for accommodation and food services. Some 57.3 percent of adults 25 and older hold a bachelor's degree or higher, and the mean commute is 22.3 minutes.</p>"
 "<table><caption>Durham city figures from Census QuickFacts</caption><thead><tr><th>Measure</th><th>Durham figure</th></tr></thead><tbody>"
 "<tr><td>Population estimate, July 1, 2025</td><td>305,561</td></tr>"
 "<tr><td>Owner-occupied housing unit rate, 2020-2024</td><td>52.3%</td></tr>"
@@ -19,7 +19,7 @@ s("What does Durham look like for a house seller?",
 "<tr><td>Households, 2020-2024</td><td>126,550</td></tr>"
 "<tr><td>Persons per household, 2020-2024</td><td>2.21</td></tr>"
 "<tr><td>Median household income, 2020-2024</td><td>$81,619</td></tr></tbody></table>"
-"<p>With 2.21 people per household and a majority renting, many Durham houses are sold with a tenant or have been rented in the past, which makes the lease and rent-ready condition part of the conversation.</p>")
+"<p>With 2.21 people per household and close to half of households renting, a Durham house is often sold with a tenant in place, which makes the lease part of the conversation.</p>")
 s("When does Durham County revalue property, and what is the next date?",
 "<p>Durham County's most recent revaluation took effect January 1, 2025, and the county says the next reappraisal is January 1, 2029. State law requires every county to reappraise at least every eight years, and a county can advance the date by resolution.</p>"
 "<p>The county explains that an eight-year gap in a fast-growing county invites larger and less predictable jumps, which is why it shortened the cycle. Between revaluations, a value can still change for new construction, a change in zoning, or a parcel split, and the county then applies the rates built for the last reappraisal year. A house built in 2026 on a lot that was vacant in 2025, the county's own example, is appraised at January 1, 2025 market values.</p>"
