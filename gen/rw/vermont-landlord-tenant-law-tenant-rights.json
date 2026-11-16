@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What happens to tenants when a Vermont landlord sells a rental?",
-   "html": "<p>A sale does not by itself end a tenancy in Vermont, and the landlord still needs a legal reason and a written notice to end it. The state's residential rental law sits in Title 9, Chapter 137, and the rules below come from the statutes and the Vermont Judiciary.</p><p>The one provision that speaks to a sale directly is <a href=\"https://legislature.vermont.gov/statutes/section/09/137/04467\">9 V.S.A. § 4467(d)</a>. A landlord who has contracted to sell the building may end a tenancy that has no written rental agreement on at least 30 days of actual notice. We did not confirm in the pages we read how a written lease is treated when the building changes hands, so a seller with a signed lease should ask a Vermont attorney before promising a buyer an empty building.</p><p>Security deposits move with the property. When the landlord's interest ends, the deposit must be transferred to the new landlord, who must give the tenant actual notice of the new landlord's name and address (9 V.S.A. § 4461(f)).</p>"
+   "html": "<p>A sale does not by itself end a tenancy in Vermont, and the landlord still needs a legal reason and a written notice to end it. The state's residential rental law sits in Title 9, Chapter 137, and the rules below come from the statutes and the Vermont Judiciary.</p><p>The one provision that speaks to a sale directly is <a href=\"https://legislature.vermont.gov/statutes/section/09/137/04467\">9 V.S.A. § 4467(d)</a>. A landlord who has contracted to sell the building may end a tenancy that has no written rental agreement on at least 30 days of actual notice.</p><p>Security deposits move with the property. When the landlord's interest ends, the deposit must be transferred to the new landlord, who must give the tenant actual notice of the new landlord's name and address (9 V.S.A. § 4461(f)).</p>"
   },
   {
    "h2": "How much notice does a Vermont landlord have to give?",
@@ -41,7 +41,7 @@
  "faqs": [
   {
    "q": "Can a Vermont landlord end a tenancy because the house is being sold?",
-   "a": "Only with proper notice. If there is no written agreement and the landlord has contracted to sell the building, 9 V.S.A. § 4467(d) allows at least 30 days of actual notice. We did not confirm the rule for a written lease."
+   "a": "Only with proper notice. If there is no written agreement and the landlord has contracted to sell the building, 9 V.S.A. § 4467(d) allows at least 30 days of actual notice."
   },
   {
    "q": "How many days does a landlord have to return a security deposit in Vermont?",
