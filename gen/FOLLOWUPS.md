@@ -34,3 +34,11 @@
 - TX clerk fee conflicts: cameron-county-tx and hidalgo-county-tx pages quote a clerk-printed $35 first-page fee vs state manual $5; pages tell readers to confirm. Recheck against current clerk fee schedules.
 - north-carolina-closing-costs 84, north-carolina-eviction-process 85 (merged); old NC probate page said register of deeds acts as probate judge, new page says clerk of superior court: check other NC pages for the old claim.
 - merged below gate: lenoir-county-nc-property-tax-guide 84.
+
+Added this session (NC b0787-b0808, TX b0822-b0839 merges)
+
+* Merged below 85% gate: sell-my-house-fast-mcallen-tx 84.
+* Rates stated as adopted from an official page: sell-my-house-fast-killeen-tx (73.01 cents, city home page), sell-my-house-fast-leland-nc (FY26-27 7.4% reduction), wake-county-nc-property-tax-guide (53.71 cents), sell-my-house-fast-league-city-tx, leander-tx, lewisville-tx (two printed rates .419009 and .422435), deer-park-tx, hurst-tx. Verify.
+* Conflicting official figures: pitt-county-nc-register-of-deeds ($56 county page vs $64 statute for deeds of trust), pender-county-nc-property-tax-guide (appeal deadline Dec 31 2026 vs old June 30), wilson-county-nc-property-tax-guide (Jan 6 vs old Jan 5), warren-county-nc-register-of-deeds (county fee page dated vs G.S. 161-10).
+* Dated figures on pages: sell-my-house-fast-frisco-tx (fiscal 2021 report), sell-my-house-fast-grand-prairie-tx (FY2024-25 rates), sell-my-house-fast-high-point-nc (older city report), sell-my-house-fast-garland-tx (STR ordinance hearing Oct 20 2026 outcome unknown).
+* Census QuickFacts was bot_blocked for most agents; many new city pages carry no Census figures.
