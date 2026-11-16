@@ -7,7 +7,7 @@
   },
   {
    "h2": "Which Miami-Dade offices handle property tax?",
-   "html": "<p>Three county offices divide the work, and each answers a different question.</p><ul><li>The Property Appraiser sets values and rules on exemptions. Its main office is 111 NW 1st Street, Suite 710, with a south branch at 10710 SW 211 Street in Cutler Bay. Phone 305-375-4712.</li><li>The Tax Collector mails bills and takes payment at 13 locations, online and through mobile offices.</li><li>The clerk's office records deeds, and state law gives it the filing desk for value petitions and the tax deed auctions.</li></ul><p>The appraiser states plainly that it mails no tax bills.</p>"
+   "html": "<p>Three county offices divide the work, and every office handles one part of the bill.</p><ul><li>The Property Appraiser sets values and rules on exemptions. Its main office is 111 NW 1st Street, Suite 710, with a south branch at 10710 SW 211 Street in Cutler Bay. Phone 305-375-4712.</li><li>The Tax Collector mails bills and takes payment at 13 locations, online and through mobile offices.</li><li>The clerk's office records deeds, and state law gives it the filing desk for value petitions and the tax deed auctions.</li></ul><p>The appraiser states plainly that it mails no tax bills.</p>"
   },
   {
    "h2": "What did the 2026 Miami-Dade tax roll look like?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "When are Miami-Dade property taxes due?",
-   "html": "<p>Bills go out in November, with a discount that falls each month from 4 percent to 1 percent by February. By state law, whatever is unpaid on April 1 turns delinquent.</p><ul><li>The state calendar has the proposed-tax notice arriving in August.</li><li>A value challenge goes to the clerk within 25 days of that notice.</li><li>If an exemption is denied, the board petition is due 30 days after the letter is mailed.</li><li>Installment prepayment requests go to the tax collector by May 1.</li></ul>"
+   "html": "<p>Statements are mailed in November, and the discount shrinks monthly from 4 percent down to 1 percent in February. By state law, whatever is unpaid on April 1 turns delinquent.</p><ul><li>The proposed-tax notice reaches owners in August, per the state calendar.</li><li>Value challenges are filed at the clerk's desk inside 25 days of that notice.</li><li>If an exemption is denied, the board petition is due 30 days after the letter is mailed.</li><li>Anyone wanting installments must ask the tax collector by May 1.</li></ul>"
   },
   {
    "h2": "How do Miami-Dade tax certificates and tax deeds work?",
@@ -43,10 +43,10 @@
   },
   {
    "h2": "What else can the property appraiser's office do for me?",
-   "html": "<p>The appraiser now accepts widow(er) exemption and veteran disability exemption filings online, plus agricultural classification applications on form MD-482 with uploaded documents. In-person visits can be booked online to skip the line.</p><p>The office also runs a property tax estimator and a hotline for suspected homestead fraud at 305-375-3402. The clerk offers a free alert that emails you within 24 hours if a deed or mortgage is recorded in your name.</p>"
+   "html": "<p>The appraiser now accepts widow(er) exemption and veteran disability exemption filings online, plus agricultural classification applications on form MD-482 with uploaded documents. In-person visits can be booked online to skip the line.</p><p>The office also runs a property tax estimator and a hotline for suspected homestead fraud at 305-375-3402.</p>"
   },
   {
-   "h2": "How are taxes handled when a Miami-Dade house sells?",
+   "h2": "What happens to the tax bill when a Miami-Dade house sells?",
    "html": "<p>The title agent gets a balance statement from the tax collector and settles the year's tax from the seller's proceeds. Your contract decides how that year's tax is divided between buyer and seller.</p><p>Deed stamps here run 60 cents per $100, plus a 45 cents per $100 surtax that the revenue department says is not due on a document moving only a single-family dwelling. The clerk collects them at the counter or by e-filing.</p>"
   }
  ],
@@ -56,7 +56,7 @@
    "a": "The adopted chart lists 16.8983 mills in total for unincorporated areas, with a municipal-services line of 1.9090."
   },
   {
-   "q": "Where do I pay a Miami-Dade property tax bill?",
+   "q": "How can I pay a Miami-Dade tax bill?",
    "a": "Pay the county tax collector online, at one of its 13 locations, or through a mobile office. The property appraiser does not take payments."
   },
   {

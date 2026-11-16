@@ -7,7 +7,7 @@
   },
   {
    "h2": "How do I search Miami-Dade Official Records?",
-   "html": "<p>Use the clerk's online Official Records search, which covers all of the instruments above. A search by name or by book and page finds the document you need.</p><ul><li>Name searches work for grantors, grantees and lienholders.</li><li>Credit bureaus pick up liens and judgments recorded here. If a bureau reports one you do not recognize, ask them for its book and page and request a copy from the Records Library.</li><li>The Property Appraiser's free fraud alert, run with the clerk, tells you within 24 hours when a deed or mortgage is recorded in your name.</li></ul>"
+   "html": "<p>Use the clerk's online Official Records search, which covers all of the instruments above. A search by name or by book and page finds the document you need.</p><ul><li>Name searches work for grantors, grantees and lienholders.</li><li>Credit bureaus pick up liens and judgments recorded here. If a bureau reports one you do not recognize, ask them for its book and page and request a copy from the Records Library.</li><li>The clerk also runs a free fraud alert that notifies an owner within a day whenever a deed or mortgage is filed against the owner's name.</li></ul>"
   },
   {
    "h2": "Which fees does the Miami-Dade clerk charge?",
@@ -23,11 +23,11 @@
   },
   {
    "h2": "What goes on a mortgage, satisfaction or lien filing?",
-   "html": "<p>A mortgage must be original, signed and notarized, with a copy of the note attached or the note amount written on the face. It needs addresses for lender and borrower and a Prepared By line.</p><ul><li>A satisfaction or release needs the book and page of the mortgage, the holder's signature and a notarized acknowledgement.</li><li>An assignment of mortgage needs the book and page, the assignor's signature and a notary.</li><li>A construction lien needs the lienor's signature, a notary and a legal description or property address.</li></ul><p>A seller paying off a loan should confirm the satisfaction is recorded, then search the Official Records to see it indexed.</p>"
+   "html": "<p>Mortgage filings must be original, signed and notarized. Attach a copy of the note, or write the note amount across the face of the mortgage. It needs addresses for lender and borrower and a Prepared By line.</p><ul><li>A satisfaction or release needs the book and page of the mortgage, the holder's signature and a notarized acknowledgement.</li><li>An assignment of mortgage needs the book and page, the assignor's signature and a notary.</li><li>A construction lien needs the lienor's signature, a notary and a legal description or property address.</li></ul><p>A seller paying off a loan should confirm the satisfaction is recorded, then search the Official Records to see it indexed.</p>"
   },
   {
    "h2": "How do special deeds and court sales show up in Miami-Dade records?",
-   "html": "<p>A quit claim deed, a deed given in place of foreclosure and a contract for deed are all on the revenue department's list of taxable documents. A personal representative's deed under a probated will is listed as not taxable.</p><p>A foreclosure certificate of title is taxed on the highest and best bid. A lis pendens, the notice that a foreclosure suit is pending, records at $5 for the first page, so searching for one early can warn a buyer that a lender has gone to court.</p><p>Any buyer or seller in a distressed transfer should pull the title record before signing so every lien is in view.</p>"
+   "html": "<p>A quit claim deed, a deed given in place of foreclosure and a contract for deed are all on the revenue department's list of taxable documents. The revenue department treats an executor's deed under a probated will as not taxable.</p><p>A foreclosure certificate of title is taxed on the highest and best bid. A lis pendens, the notice that a foreclosure suit is pending, records at $5 for the first page, so searching for one early can warn a buyer that a lender has gone to court.</p><p>Any buyer or seller in a distressed transfer should pull the title record before signing so every lien is in view.</p>"
   },
   {
    "h2": "What must a Miami-Dade deed include to be accepted?",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "What are my options for filing a document in person, by mail or electronically?",
-   "html": "<p>There are four routes. Bring the original and fees to the Osvaldo N. Soto Miami-Dade Justice Center, mail it to the Office of County Recorder at 20 NW 1st Avenue, Suite 5.246, Miami, FL 33128, use an approved eRecording vendor, or use the clerk's eRecording Web Service for Notices of Commencement and Declarations of Domicile.</p><p>Electronic filings, which the clerk says it cannot promise to process the same day, take roughly 1 to 3 business days, excluding weekends and holidays, before they appear online. The clerk says it cannot promise same-day recording, so bring time-sensitive documents in person.</p><p>Cash is accepted only in person. Credit cards are in person only, with a $5,000 daily limit.</p>"
+   "html": "<p>The clerk gives four routes for filing. Bring the original and fees to the Osvaldo N. Soto Miami-Dade Justice Center, mail it to the Office of County Recorder at 20 NW 1st Avenue, Suite 5.246, Miami, FL 33128, use an approved eRecording vendor, or use the clerk's eRecording Web Service for Notices of Commencement and Declarations of Domicile.</p><p>Electronic filings, which the clerk says it cannot promise to process the same day, take roughly 1 to 3 business days, excluding weekends and holidays, before they appear online. The clerk says it cannot promise same-day recording, so bring time-sensitive documents in person.</p><p>Cash is accepted only in person. Credit cards are in person only, with a $5,000 daily limit.</p>"
   },
   {
    "h2": "Can I remove a Social Security number from a public record?",
@@ -48,11 +48,11 @@
  ],
  "faqs": [
   {
-   "q": "Where does a Miami-Dade deed get filed?",
+   "q": "Where do I file a deed in Miami-Dade?",
    "a": "At the County Recorder's Office, 20 NW 1st Avenue, Suite 5.246, Miami, or by an approved eRecording vendor. The clerk accepts mail and in-person filings as well."
   },
   {
-   "q": "How much is the recording fee for a Miami-Dade deed?",
+   "q": "What does the clerk charge to file a Miami-Dade deed?",
    "a": "The clerk lists $10 for the first page and $8.50 for each additional page, before documentary stamps. Statute section 28.24(13) prints a base of $5.00 and $4.00 per page and allows other charges on top, so use the clerk's list."
   },
   {
