@@ -1,71 +1,101 @@
 {
-  "slug": "cass-county-mo-recorder-of-deeds",
-  "sections": [
-    {
-      "h2": "What does the Cass County Recorder of Deeds do?",
-      "html": "<p>The Recorder of Deeds in Harrisonville records, indexes and preserves every land transaction in Cass County. That includes deeds, deeds of trust, release deeds, plats, surveys, powers of attorney, deed restrictions, state and federal tax liens and UCC fixture filings. The same office issues marriage licenses and records military discharge papers at no charge.</p><p>Mike Medsker holds the office. He was elected in November 2010 and returned in 2014, 2018 and 2022. Recording matters to a seller because <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=442.400\">RSMo 442.400</a> says an unrecorded instrument is valid only between the parties and anyone with actual notice. A deed that stays in a drawer does not protect the buyer against the rest of the world.</p>"
-    },
-    {
-      "h2": "Where is the Cass County Recorder's office and how do I submit a deed?",
-      "html": "<p>The office is at 102 E. Wall St., Harrisonville, MO 64701, and its page lists hours from 8 a.m. until 4 p.m. on weekdays. The recorder's contact box gives 816-380-8118, while the county directory lists 816-380-8123 for the same office, so use whichever connects. The staff cannot draft or prepare documents for you. Cass County sends that work to a title company or a real estate attorney.</p><ul><li>In person or by mail at the Wall Street address, with the correct fee.</li><li>Electronic recording through the iCounty portal. You sign a registration packet with the Recorder, mail it to Wall Street or email it to the address on the county's e-recording page, and pay by ACH through the portal.</li><li>ACH payments are refused for documents in delinquent status.</li><li>Free online document search once you register on the county site.</li></ul><p>Cass County also runs a fraud alert system at casscounty.com/fraud. Anyone can sign up to be notified when a document carrying their name or business name is recorded.</p>"
-    },
-    {
-      "h2": "How much does recording a deed in Cass County run?",
-      "html": "<p>Fees come from state law plus the county's own formatting rule. The base charge in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.310\">RSMo 59.310</a> is per page, and <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.319\">RSMo 59.319</a> adds a flat user fee on every recorded instrument. The county's fee page links to the current posted schedule, so check it before mailing a check.</p><table><thead><tr><th>Charge</th><th>Amount</th><th>Where it comes from</th></tr></thead><tbody><tr><td>First page of a deed or instrument</td><td>$5</td><td>RSMo 59.310</td></tr><tr><td>Each page after the first</td><td>$3</td><td>RSMo 59.310</td></tr><tr><td>User fee on each instrument</td><td>$6</td><td>RSMo 59.319, version effective August 28, 2026</td></tr><tr><td>Added housing trust fund fee on instruments named in RSMo 59.330</td><td>$3</td><td>RSMo 59.319</td></tr><tr><td>Document that misses the formatting standards</td><td>$25 extra</td><td>Cass County formatting page</td></tr><tr><td>Each book and page reference beyond the first on a release or assignment</td><td>$5</td><td>Cass County recorder FAQ</td></tr><tr><td>Copy of a recorded instrument</td><td>$1 per page</td><td>Cass County recorder FAQ</td></tr></tbody></table><p>A three-page deed in proper format costs $11 in page charges alone: $5 for page one and $3 for each of the other two. The user fee comes on top of that.</p>"
-    },
-    {
-      "h2": "How must a deed be formatted for the Cass County recorder?",
-      "html": "<p>Cass County applies the formatting standards in effect since January 1, 2002. Documents signed before that date, military separation papers, documents executed outside the United States, certified copies, documents where an original party has died or is incapacitated, court-formatted judgments and national-form UCC fixture filings are exempt.</p><ul><li>8.5 by 11 inch white or light paper, at least 20 pound, printed on one side, black or dark ink, type no smaller than 8 point.</li><li>A blank top margin of 3 inches on the first page only, kept for the Recorder's certification, and at least three quarters of an inch on all other margins.</li><li>Signatures in dark ink with the name typed, printed or stamped underneath.</li><li>On the first page below the 3 inch margin: the document title, date, grantors and their marital status, grantees, any statutory addresses and the legal description.</li><li>Parties labeled with the words Grantor or Grantee so they can be indexed. The filer, not the office, makes those labels.</li></ul><p>A cover page is optional, but if you use one it takes the same top margin and first page items. Re-recording a document needs a new cover sheet, new signatures and a fresh notarization.</p>"
-    },
-    {
-      "h2": "Why does the Cass County recorder reject documents?",
-      "html": "<p>A rejected document comes back with the reason written out. The office lists the usual causes on its FAQ page, and most are fixable before you submit.</p><ul><li>The fee is wrong.</li><li>The first page lacks the required designations.</li><li>Text sits inside the margins.</li><li>Signatures are missing a typed name or an acknowledgment.</li><li>A document affecting land has no proper legal description. A street address does not count.</li><li>A transfer of an interest in land has no mailing address for the grantee.</li><li>The copy is too faint to reproduce.</li><li>A release or assignment cites several book and page numbers without the extra $5 each.</li></ul><p>Blanket assignments are not accepted. Because a rejection costs days, many sellers let the title company handle submission.</p>"
-    },
-    {
-      "h2": "How fast does Cass County record a deed, and what does the public see?",
-      "html": "<p>The recorder states a turnaround of same day to 24 hours for real estate recordings, not counting holidays and weekends. Documents go back to the person who submitted them, often a lender or servicer. After a payoff, the lender usually files only a release deed, one to two pages long. The deed to a purchased house normally reaches the buyer at closing.</p><p>Some limits are worth knowing. Recorded real estate documents do not show the sale price. The office does not phone out closing details such as book, page or recording time, and it does not run lien searches, citing state law. Liens can also sit with the court or the Collector. For closing information, ask the title insurer, lender or agent. Anyone can see a recorded instrument on the public computers at the Harrisonville office.</p>"
-    },
-    {
-      "h2": "What happens to property tax when a Cass County house sells?",
-      "html": "<p>The Collector of Revenue, Chris Molendorp, bills Cass County real estate from 2725 Cantrell Road in Harrisonville (816-380-8377, weekdays, opening at 8 and closing at 4:30). Bills go out in November and are due by December 31, judged by the U.S. postmark. Unpaid balances accrue penalties that can reach 25 percent in the first year of delinquency.</p><ul><li>Taxes are a lien that stays with the land, so a new owner is liable for unpaid back taxes.</li><li>The county says taxes are generally prorated between buyer and seller at closing, and no money goes to the Collector at the sale.</li><li>A bill may still be issued in the seller's name until the Collector or Assessor learns of the new owner. A seller who receives one should send the buyer's name and address to the Collector.</li><li>Assessment ratios run 19 percent of market value for homes, 32 for commercial parcels and 12 for farmland.</li><li>Land with unpaid tax is offered at the annual tax sale, held on the fourth Monday in August at 10 a.m. The 2027 sale is set for Monday, August 23, 2027.</li></ul><p>The Cass Assessor sets the value that the tax rate is applied to. The Collector has no power to raise or lower levies set by school, fire, library and hospital boards.</p>"
-    },
-    {
-      "h2": "How large is the Cass County housing market?",
-      "html": "<p>Cass County sits in western Missouri, within the Kansas City area. Harrisonville holds the courthouse, and the county borders Jackson County to the north and Miami and Johnson counties in Kansas to the west. These Census Bureau QuickFacts figures cover the county as a whole.</p><ul><li>The mid-2025 Census estimate is 115,859 people, up from 107,824 at the 2020 count.</li><li>Housing units in 2025: 48,259, with 75.6 percent of homes owner-occupied.</li><li>Owner-occupied homes had a middle value of $292,400 in the 2020 to 2024 survey.</li><li>Median gross rent: $1,205.</li><li>Median household income: $87,535.</li><li>Building permits issued in 2025: 487.</li><li>Mean commute to work: 28 minutes.</li></ul><p>Cities listed on the county site include Belton, Raymore, Peculiar, Pleasant Hill, Harrisonville, Archie, Drexel and Garden City. Each records its deeds in the same Harrisonville office.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What does Cass County, MO bill for recording a deed?",
-      "a": "State law sets $5 on page one and $3 on each added page, and a $6 user fee applies to each instrument. Instruments named in RSMo 59.330 also carry a $3 housing trust fund fee. A document that does not meet the county's formatting standards adds $25. Check the posted schedule on the county fee page before you send payment."
-    },
-    {
-      "q": "Can the Cass County Recorder of Deeds write or fix my deed?",
-      "a": "No. The Recorder reviews and records documents but does not prepare or change them. The office points people to a title company or a real estate attorney. If a recorded deed needs correcting, it goes back through as a corrected recording or a re-recording with a new cover sheet, new signatures and a new acknowledgment."
-    },
-    {
-      "q": "How long does recording take at the Cass County recorder?",
-      "a": "The office reports same-day to 24-hour turnaround on real estate recordings, excluding holidays and weekends. Electronic submissions through the iCounty portal can be recorded and returned in minutes for registered users. A rejected paper document restarts the clock, so check the margins and first page items before sending it."
-    },
-    {
-      "q": "Can I record a Cass County deed electronically?",
-      "a": "Yes, for registered submitters. You complete an electronic recording registration packet, either with the Cass County Recorder or through iCounty, and send it to the Wall Street address in Harrisonville or to the email on the county's e-recording page. Fees can be paid by ACH through the portal, though delinquent documents are not accepted for ACH."
-    },
-    {
-      "q": "Does the Cass County recorder show what a house sold for?",
-      "a": "No. Recorded real estate documents in Cass County do not carry the selling price, and the office does not give out closing details by phone. Ask the title insurance company, lender or real estate agent. The recorder can show you the recorded deed itself, its book and page and its recording date on the public computers."
-    }
-  ],
-  "sources": [
-    {"title": "Cass County Recorder of Deeds", "url": "https://casscounty.com/recorder"},
-    {"title": "Cass County Formatting Standards", "url": "https://casscounty.com/2173/Formatting-Standards"},
-    {"title": "Cass County Recorder FAQ", "url": "https://www.casscounty.com/faq.aspx?TID=49"},
-    {"title": "Cass County Electronic Recording Instructions", "url": "https://casscounty.com/2172/Electronic-Recording-Instructions"},
-    {"title": "Cass County Collector general information", "url": "https://casscounty.com/2298/General-Information"},
-    {"title": "Cass County Collector", "url": "https://casscounty.com/2223/Collector"},
-    {"title": "RSMo 59.310", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=59.310"},
-    {"title": "RSMo 59.319", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=59.319"},
-    {"title": "RSMo 442.400", "url": "https://revisor.mo.gov/main/OneSection.aspx?section=442.400"},
-    {"title": "Census QuickFacts Cass County MO", "url": "https://www.census.gov/quickfacts/fact/table/casscountymissouri/PST045224"}
-  ]
+ "slug": "cass-county-mo-recorder-of-deeds",
+ "sections": [
+  {
+   "h2": "What the Recorder's office does",
+   "html": "<p>The Harrisonville Recorder of Deeds is where Cass County land paperwork ends up. Staff log each item, index it and keep it for good: deeds and deeds of trust, release deeds, plats and surveys, powers of attorney, deed restrictions, federal and state tax liens, and UCC fixture filings. You can also get a marriage license there, and a veteran's discharge papers are filed at no charge.</p>\n<p>Recording is the buyer's shield. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=442.400\">RSMo 442.400</a> makes an unrecorded instrument valid just between the signers and people with actual notice of it. If the deed sits unfiled, outsiders can ignore it.</p>"
+  },
+  {
+   "h2": "Where to file and how",
+   "html": "<p>The counter is at 102 E. Wall St., Harrisonville, MO 64701, open weekdays 8 a.m. to 4 p.m. Call 816-380-8118 with questions. Drafting is not part of the job here, so hire a title company or real estate attorney to prepare the paperwork.</p>\n<ul>\n<li>Bring it in or mail it to Wall Street, with the correct fee enclosed.</li>\n<li>E-record through iCounty. First sign a registration packet, then mail it to Wall Street or email it to the address on the county's e-recording page. Payment is by ACH inside the portal.</li>\n<li>ACH payment is refused for documents in delinquent status.</li>\n<li>Registered users can search the document index online at no cost.</li>\n</ul>\n<p>A free fraud alert system lives at casscounty.com/fraud. Enroll a personal or business name and you are told whenever a document carrying it is recorded.</p>"
+  },
+  {
+   "h2": "Recording fees",
+   "html": "<p>The price of recording mixes state statute with a county formatting rule. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.310\">RSMo 59.310</a> sets the base per-page charge, and <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.319\">RSMo 59.319</a> adds a flat user fee on each recorded instrument. The county's fee page carries the current posted schedule, so look there before writing a check.</p>\n<table>\n<thead><tr><th>Charge</th><th>Amount</th></tr></thead>\n<tbody>\n<tr><td>First page of a deed or instrument</td><td>$5</td></tr>\n<tr><td>Each page after the first</td><td>$3</td></tr>\n<tr><td>User fee on each instrument (effective August 28, 2026)</td><td>$6</td></tr>\n<tr><td>Housing trust fund fee on instruments named in RSMo 59.330</td><td>$3</td></tr>\n<tr><td>Document that misses the formatting standards</td><td>$25 extra</td></tr>\n<tr><td>Each book and page reference beyond the first on a release or assignment</td><td>$5</td></tr>\n<tr><td>Copy of a recorded instrument</td><td>$1 per page</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "Deed formatting rules",
+   "html": "<p>Formatting standards have applied since January 1, 2002. The exceptions are documents signed earlier, military separation papers, documents executed outside the United States, certified copies, documents where an original party has died or is incapacitated, court-formatted judgments and national-form UCC fixture filings.</p>\n<ul>\n<li>Letter-size sheets (8.5 by 11 inches), white or light, 20 pound stock or heavier, one side only, in dark ink with at least 8 point type.</li>\n<li>Leave 3 inches blank at the top of page one for the Recorder's stamp, and keep at least three quarters of an inch clear on all other edges.</li>\n<li>Sign in dark ink and put the name typed, printed or stamped under each signature.</li>\n<li>Under that blank band on page one, show the title, date, grantors with marital status, grantees, any statutory addresses and the legal description.</li>\n<li>Parties tagged with the words Grantor or Grantee so they can be indexed. The person filing adds those tags, not the office.</li>\n</ul>\n<p>A cover page is optional, but it must carry the same top margin and first-page details. Re-recording a document calls for a new cover sheet, fresh signatures and a new notarization.</p>"
+  },
+  {
+   "h2": "Why documents get rejected",
+   "html": "<p>When the office turns a document down, the reason comes back in writing. Its FAQ names the common causes, and most are easy to catch before you file.</p>\n<ul>\n<li>The fee is wrong.</li>\n<li>Page one lacks the required designations.</li>\n<li>Text runs into the margins.</li>\n<li>A signature has no typed name or no acknowledgment.</li>\n<li>Anything affecting land needs a real legal description, and a street address won't pass.</li>\n<li>The grantee's mailing address is missing from a land transfer.</li>\n<li>The copy is too faint to reproduce.</li>\n<li>A release or assignment cites several book and page numbers without the extra $5 each.</li>\n</ul>\n<p>Blanket assignments are not accepted. A rejection can cost days, which is why many sellers let the title company do the filing.</p>"
+  },
+  {
+   "h2": "Turnaround and what the public can see",
+   "html": "<p>Expect real estate recordings back the same day or in 24 hours, weekends and holidays excluded. The originals return to the submitter, often a lender or servicer. When a mortgage is paid off, the lender typically files a short release deed. A buyer ordinarily gets the deed to the new house at closing.</p>\n<p>Some things the office won't do. No sale price appears on recorded real estate documents. Staff won't phone with book, page or recording time, and state law keeps them from searching for liens. Since liens may also sit with the court or the Collector, your title insurer, lender or agent is the better source. Public computers at the Harrisonville office let anyone view a recorded instrument.</p>"
+  },
+  {
+   "h2": "Property tax when a house sells",
+   "html": "<p>Real estate tax is billed by the Collector of Revenue at 2725 Cantrell Road, Harrisonville, phone 816-380-8377, weekdays 8 to 4:30. November brings the statement, December 31 is the deadline, and mail is judged by U.S. postmark. A delinquent balance can pick up penalties of up to 25 percent in year one.</p>\n<ul>\n<li>The tax lien rides with the land, which makes a new owner liable for any back taxes.</li>\n<li>Closing generally prorates the year's tax between buyer and seller, and the Collector is paid nothing at the sale.</li>\n<li>Until the Collector or Assessor hears about the new owner, a bill can still be mailed to the seller. If you get one, forward the buyer's name and address to the Collector.</li>\n<li>Homes are assessed at 19 percent of market value, commercial parcels at 32 and farmland at 12.</li>\n<li>Unpaid land goes to the yearly tax sale on August's fourth Monday at 10 a.m. Next up: Monday, August 23, 2027.</li>\n</ul>\n<p>Values come from the Assessor. Levies are voted by school, fire, library and hospital boards, and the Collector has no say in them.</p>"
+  },
+  {
+   "h2": "Cass County housing context",
+   "html": "<p>Greater Kansas City reaches into Cass County, though the courthouse is in Harrisonville. The county grew from 107,824 residents in 2020 to 115,859 by mid-2025. Of 48,259 housing units, 75.6 percent are owner-occupied, with a middle home value of $292,400 and median rent of $1,205. A house in Belton, Raymore, Peculiar, Pleasant Hill or Garden City is still filed at the Harrisonville office.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What do deed recording fees run?",
+   "a": "Page one costs $5 and each added page $3, plus a $6 user fee per instrument. Instruments listed in RSMo 59.330 add a $3 housing trust fund fee, and a badly formatted document adds $25. Look at the posted schedule before paying."
+  },
+  {
+   "q": "Can the Recorder write or fix my deed?",
+   "a": "No. Staff review and file documents but never draft or alter them, and they send people to a title company or attorney. A flawed deed is corrected through a corrective filing or a re-recording with a new cover sheet, signatures and acknowledgment."
+  },
+  {
+   "q": "How long does recording take?",
+   "a": "Real estate recordings come back the same day or within 24 hours, not counting weekends and holidays. Registered iCounty users can see results in minutes. A rejected paper filing restarts the clock, so check margins and page-one items first."
+  },
+  {
+   "q": "Can I record a deed electronically?",
+   "a": "Yes, after registering. Fill out the e-recording packet through the Recorder or iCounty and return it by mail to Wall Street or by email. You can pay by ACH in the portal, though ACH is refused for delinquent documents."
+  },
+  {
+   "q": "Will the Recorder tell me what a house sold for?",
+   "a": "No. The price is not on recorded documents, and nobody at the office gives closing details by phone. Ask your title insurer, lender or agent. The public computers display the deed, its book and page and the date recorded."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Cass County Recorder of Deeds",
+   "url": "https://casscounty.com/recorder"
+  },
+  {
+   "title": "Cass County Formatting Standards",
+   "url": "https://casscounty.com/2173/Formatting-Standards"
+  },
+  {
+   "title": "Cass County Recorder FAQ",
+   "url": "https://www.casscounty.com/faq.aspx?TID=49"
+  },
+  {
+   "title": "Cass County Electronic Recording Instructions",
+   "url": "https://casscounty.com/2172/Electronic-Recording-Instructions"
+  },
+  {
+   "title": "Cass County Collector general information",
+   "url": "https://casscounty.com/2298/General-Information"
+  },
+  {
+   "title": "Cass County Collector",
+   "url": "https://casscounty.com/2223/Collector"
+  },
+  {
+   "title": "RSMo 59.310",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=59.310"
+  },
+  {
+   "title": "RSMo 59.319",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=59.319"
+  },
+  {
+   "title": "RSMo 442.400",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=442.400"
+  },
+  {
+   "title": "Census QuickFacts Cass County MO",
+   "url": "https://www.census.gov/quickfacts/fact/table/casscountymissouri/PST045224"
+  }
+ ]
 }
