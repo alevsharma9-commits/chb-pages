@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Who records deeds in DuPage County",
-   "html": "<p>The DuPage County Recorder's Office takes in, reviews, records and keeps every deed, mortgage, lien and plat for property in the county. Its collection reaches back to 1839, the year DuPage was cut out of Cook County.</p>\n<p>The office is fee funded, so recording charges pay for its operations. The public line is 630-407-5400 and the research desk answers at 630-407-5401. The counter is open weekdays from 8 a.m. until half past four, and closed on county holidays. Closing companies usually prepare the deed packet, pay the fees and submit it, so a seller mainly needs to know what gets charged and why.</p>"
+   "html": "<p>The DuPage County Recorder's Office takes in, reviews, records and keeps every deed, mortgage, lien and plat for property in the county. Its collection reaches back to 1839, the year DuPage was cut out of Cook County.</p>\n<p>The office is fee funded, so recording charges pay for its operations. The public line is 630-407-5400 and the research desk answers at 630-407-5401. The counter is open weekdays from 8 a.m. until half past four, and closed on county holidays. Most closings are handled by a company that prepares the deed packet, pays the fees and submits it, so a seller mainly needs to know what gets charged and why.</p>"
   },
   {
    "h2": "Deed recording fees",
@@ -15,7 +15,7 @@
   },
   {
    "h2": "Transfer tax on a sale",
-   "html": "<p>Illinois charges a state transfer tax through revenue stamps at 50 cents for each $500 of value or fraction of $500, under 35 ILCS 200/31-15. The Recorder sells the stamps, and since paper stamps were phased out at the end of 2025, counties issue electronic stamps or similar proof of payment.</p>\n<p>Each sale also needs a signed real estate transfer declaration, Form PTAX-203, with at least one seller and one buyer (or their agents) signing. The Illinois Department of Revenue handles questions about the form and the MyDec online tool at 844-445-1114. The DuPage Recorder has accepted MyDec-prepared forms since January 14, 2015.</p>\n<p>Some deeds are exempt from the tax under 35 ILCS 200/31-45. The DuPage list includes deeds where the actual consideration is under $100, tax deeds, deeds that only correct or confirm an earlier recorded deed, deeds of partition, and deeds issued to a mortgage holder after foreclosure or in lieu of foreclosure. Deeds exempt under paragraphs (b), (k) or (m) of the county list still need a PTAX-203. For local rules the county points to its Resolution F11879, so ask the Recorder which stamps your deed needs.</p>"
+   "html": "<p>The state transfer tax is paid with revenue stamps and comes to 50 cents per $500 of value, counting any partial $500 as a full one (35 ILCS 200/31-15). Stamps are sold by the Recorder. Paper stamps ended with 2025, so you now get an electronic stamp or similar proof that the tax was paid.</p>\n<p>Every sale also needs a signed Form PTAX-203 real estate transfer declaration. At least one seller and one buyer, or their agents, must sign it. The Illinois Department of Revenue handles questions about the form and the MyDec online tool at 844-445-1114. The DuPage Recorder has accepted MyDec-prepared forms since January 14, 2015.</p>\n<p>Some deeds are exempt from the tax under 35 ILCS 200/31-45. The DuPage list includes deeds where the actual consideration is under $100, tax deeds, deeds that only correct or confirm an earlier recorded deed, deeds of partition, and deeds issued to a mortgage holder after foreclosure or in lieu of foreclosure. A deed that is exempt under paragraphs (b), (k) or (m) of the county list must still carry a PTAX-203. Local rules sit in the county's Resolution F11879, so ask the Recorder which stamps apply to your deed.</p>"
   },
   {
    "h2": "Municipal transfer stamps",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Recording a deed online",
-   "html": "<p>Yes, you can record electronically. The Recorder accepts deeds, mortgages, releases, liens and similar documents through electronic recording. Plats and DD-214 discharge forms are not accepted that way.</p>\n<p>Electronic recording runs through an account with an approved vendor: Corporation Service Company, eRecording Partners Network, Hopdox, Indecomm Global Services and Simplifile. Any setup fee is between the customer and the vendor. Most sellers never open an account, because their closing company already has one.</p>\n<p>The other routes are to hand the document in at the office or mail it to the office's mailing address. Documents recorded electronically come back electronically.</p>"
+   "html": "<p>You can. The Recorder accepts deeds, mortgages, releases, liens and similar documents through electronic recording. Plats and DD-214 discharge forms are not accepted that way.</p>\n<p>Electronic recording runs through an account with an approved vendor: Corporation Service Company, eRecording Partners Network, Hopdox, Indecomm Global Services and Simplifile. Any setup fee is between the customer and the vendor. Most sellers never open an account, because their closing company already has one.</p>\n<p>The other routes are to hand the document in at the office or mail it to the office's mailing address. Documents recorded electronically come back electronically.</p>"
   },
   {
    "h2": "How far back the records go",
@@ -35,29 +35,29 @@
   },
   {
    "h2": "Property tax around a DuPage County closing",
-   "html": "<p>Property tax is billed in arrears, so a bill issued in 2026 covers the 2025 tax year. DuPage mails one bill with two payment coupons, due June 1 and September 1.</p>\n<p>The Treasurer's Office, at 630-407-5900, collects the tax but does not set values, so questions about an assessment go to the assessor whose number is on the bill. The County Clerk calculates the tax on each parcel and certifies it to the Treasurer. Look for the exemptions listed on the bill, since the general homestead and senior exemptions are $8,000 each. If a mortgage company pays the bill, a yellow box on the bill says so, and a second payment would only create a refund request. The Treasurer reports just under $4 million in such duplicate payments in a recent year.</p>"
+   "html": "<p>Because bills arrive a year behind, one issued in 2026 pays for tax year 2025. You get a single bill with two coupons, due June 1 and September 1.</p>\n<p>Collection is the job of the Treasurer's Office (630-407-5900). It does not set values, so assessment questions belong with the assessor named on the bill. The County Clerk calculates the tax on each parcel and certifies it to the Treasurer. Look for the exemptions listed on the bill, since the general homestead and senior exemptions are $8,000 each. If a mortgage company pays the bill, a yellow box on the bill says so, and a second payment would only create a refund request. The Treasurer reports just under $4 million in such duplicate payments in a recent year.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What does the DuPage County Recorder charge to file a deed?",
-   "a": "$86.00 for a standard deed. That price includes storage, GIS, real property and rental housing support charges. A nonstandard document costs $112.00 and a plat $110.00. Card payments carry a convenience fee on top."
+   "a": "A standard deed is $86.00, which already covers the storage, GIS, real property and rental housing support charges. Nonstandard documents are $112.00 and plats $110.00. Paying by card adds a convenience fee."
   },
   {
    "q": "Does the DuPage County Recorder write or review my deed?",
-   "a": "No. The office checks that a document meets recording requirements but cannot prepare a deed or give legal advice. Deed forms come from an attorney, a title company or a form seller, and an incomplete package is returned to the sender."
+   "a": "No. Staff check that a document meets recording requirements, but they cannot draft a deed or give legal advice. Get the deed from an attorney, title company or form seller. Incomplete packages go back to the sender."
   },
   {
    "q": "Do I pay Illinois transfer tax if I sell my DuPage County house?",
-   "a": "Usually yes, because the state tax is collected through revenue stamps at 50 cents per $500 of value when the deed is recorded. Certain deeds are exempt under 35 ILCS 200/31-45, such as tax deeds and corrective deeds. Exempt deeds in some categories still need a PTAX-203."
+   "a": "Usually. Revenue stamps at 50 cents per $500 of value are bought when the deed is recorded. A few deeds are exempt under 35 ILCS 200/31-45, for example tax deeds and corrective deeds, and some of those still need a PTAX-203."
   },
   {
    "q": "Can I look up my deed online for free in DuPage County?",
-   "a": "Yes. The online search lets you view and print document images at no charge. A deed copy proves ownership but shows nothing about liens, so use a title search for that. In person or by mail, copies cost $0.50 a page."
+   "a": "Yes, viewing and printing document images online costs nothing. A deed copy proves ownership but cannot show liens, which need a title search. Copies in person or by mail are $0.50 a page."
   },
   {
    "q": "Where do I send questions about my DuPage County tax bill?",
-   "a": "Call the DuPage County Treasurer at 630-407-5900 for payments and the County Clerk at 630-407-5500 for tax calculation questions. Questions about the assessed value go to the township assessor listed on the bill. The Recorder's Office does not handle assessments."
+   "a": "Payments go through the Treasurer at 630-407-5900, and tax calculation questions go to the County Clerk at 630-407-5500. For the assessed value, call the township assessor on the bill. The Recorder's Office does not handle assessments."
   }
  ],
  "sources": [
