@@ -1,0 +1,85 @@
+{
+ "slug": "onondaga-county-ny-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Onondaga County at a glance",
+   "html": "<p>Syracuse is the county seat and the only city inside the county line. Everything else is a town, a village or a hamlet, and that matters because the office that collects your tax depends on where the parcel sits. The county has an estimated 466,584 people and 212,925 housing units, with 65.9% of homes owner-occupied. The median owner-occupied home is worth $200,200 and median gross rent is $1,108, so a tax balance of a few thousand dollars takes a real bite out of a typical sale.</p>"
+  },
+  {
+   "h2": "Who sends and collects property tax bills in Onondaga County?",
+   "html": "<p>The county Finance Department prepares the tax bills for county, town, school and village levies and collects delinquent taxes for all four. Its Real Property Tax Services office sits on the 15th floor of the Civic Center at 421 Montgomery Street in Syracuse, and the number on the county pages is 315-435-2426.</p>\n<p>That office takes payments on delinquent taxes for parcels outside the City of Syracuse. Syracuse city parcels are handled on the city side, so a seller with a Syracuse address should ask the city about a payoff instead of calling the county.</p>\n<ul><li>Pay online, view bills and print receipts for town properties through the RPTS pages.</li><li>Mail a check payable to Chief Fiscal Officer at PO Box 1004, Syracuse, NY 13201.</li><li>Pull up sales history, lot dimensions and assessed values through the county's parcel lookup.</li><li>Order tax maps online, in the office or by mail.</li></ul>"
+  },
+  {
+   "h2": "When taxes become delinquent",
+   "html": "<p>The county treats each kind of bill as delinquent after a set date. If your school or village bill from this year is still open, it is already in the delinquent column.</p>\n<table><caption>Delinquency dates used by the county</caption><thead><tr><th>Tax type</th><th>Delinquent if unpaid by</th></tr></thead><tbody><tr><td>County tax</td><td>March 31 of its year</td></tr><tr><td>School tax</td><td>November 1</td></tr><tr><td>Village tax</td><td>November 1</td></tr></tbody></table>\n<p>New York law lets the owner redeem a parcel with a delinquent lien by paying the enforcing officer before the redemption period ends. That period is two years after the lien date unless the tax district changes it (Real Property Tax Law section 1110). A county may lengthen it for residential or farm property or shorten it for vacant and abandoned homes. Ask the county for the lien date on your parcel before you assume you have the full two years.</p>\n<p>The county's pages publish no payoff for an individual parcel, so ask the RPTS office for a written figure good through the day you plan to close.</p>"
+  },
+  {
+   "h2": "The county tax auction",
+   "html": "<p>The county runs its real property tax auction once a year, in October, on an online platform, and it begins listing the parcels in September. Those parcels come from the county's collection of unpaid taxes, which is why the RPTS office is the right first call for an owner who is behind.</p>\n<p>If your parcel might be headed there, call RPTS early and ask which stage it has reached. Get the answer in writing, and compare the payoff figure with what a sale would bring before you decide between paying, selling or doing nothing.</p>"
+  },
+  {
+   "h2": "How do I contest an assessment or claim an exemption?",
+   "html": "<p>Each town sets its own assessments, and county staff help the assessors with state tax law and tax maps. State law has the board of assessment review begin hearing complaints on the fourth Tuesday of May unless a local law sets another date (Real Property Tax Law section 512), so confirm the date with your town assessor in spring.</p>\n<p>If the board leaves the assessment alone, the State Tax Department describes two next steps: Small Claims Assessment Review, a lower-cost route open to most homeowners, or a tax certiorari case in State Supreme Court, where a lawyer is advised. You must go through the local grievance first.</p>\n<p>The county RPTS page gives March 1 as the exemption deadline for county properties outside the city of Syracuse. If you are about to sell, the STAR credit is the exemption most owners ask about. Close the registration with the State Tax Department when you sell, and the new owner registers separately.</p>"
+  },
+  {
+   "h2": "Selling a house when tax is still owed",
+   "html": "<p>Start by finding out which office holds the balance. Outside Syracuse it is Real Property Tax Services, and inside the city it is the city's own tax office. Ask for a payoff letter that lists tax, interest and any added fees, and give the letter to your closing attorney.</p>\n<ul><li>Confirm whether the parcel has a delinquent lien on file and the date it attached.</li><li>Check whether any school or village balance has been moved onto the next county bill.</li><li>Ask whether the parcel appears on the auction listings that begin in September.</li><li>Pick a closing date well before any redemption deadline.</li></ul>\n<p>A cash buyer can take the house as it stands, with the tax debt, repairs and any tenants, which saves an owner who is short on time from preparing the house for a financed buyer. Compare that against listing with an agent, and keep the redemption date in front of you either way.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who do I pay if my Onondaga County property tax is late?",
+   "a": "Pay the county Real Property Tax Services office on the 15th floor of the Civic Center in Syracuse, or mail a check payable to Chief Fiscal Officer to PO Box 1004, Syracuse, NY 13201. This applies to parcels outside the City of Syracuse. City parcels go through the city. The county's number for these payments is 315-435-2426."
+  },
+  {
+   "q": "What dates make an Onondaga County tax delinquent?",
+   "a": "A county tax not paid by March 31 and a school or village tax not paid by November 1 are treated as delinquent by the county. Ask RPTS for the exact total on your parcel."
+  },
+  {
+   "q": "How long can I redeem a parcel with a delinquent tax lien?",
+   "a": "The default redemption period is two years from the lien date under Real Property Tax Law section 1110. A tax district can extend it for residential and farm property or shorten it to one year for vacant and abandoned homes. Ask the county which period applies to your parcel."
+  },
+  {
+   "q": "When is the Onondaga County tax auction?",
+   "a": "The county holds its real property tax auction once a year in October, online, and it starts listing parcels in September. For the current list, use the RPTS auction page, since the parcels change every year."
+  },
+  {
+   "q": "Can I sell a house in Onondaga County that has a tax lien?",
+   "a": "Yes. The lien is paid off as part of the sale, and the payoff figure comes from the county RPTS office or, inside Syracuse, from the city. Get that written figure before you set a closing date, and sell before the redemption period or foreclosure steps remove your right to the house."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Onondaga County Real Property Tax Services",
+   "url": "https://onondaga.gov/rpts/"
+  },
+  {
+   "title": "Onondaga County Finance Department",
+   "url": "https://onondaga.gov/finance/"
+  },
+  {
+   "title": "NY Real Property Tax Law section 1110",
+   "url": "https://www.nysenate.gov/legislation/laws/RPT/1110"
+  },
+  {
+   "title": "NY Real Property Tax Law section 512",
+   "url": "https://www.nysenate.gov/legislation/laws/RPT/512"
+  },
+  {
+   "title": "NYS Tax Department: Contest your assessment",
+   "url": "https://www.tax.ny.gov/pit/property/contest/contestasmt.htm"
+  },
+  {
+   "title": "NYS Tax Department: STAR registration",
+   "url": "https://www.tax.ny.gov/pit/property/star/"
+  },
+  {
+   "title": "Census QuickFacts",
+   "url": "https://www.census.gov/quickfacts/fact/table/queenscountynewyork,orangecountynewyork,onondagacountynewyork,oswegocountynewyork/PST045224"
+  },
+  {
+   "title": "Onondaga County, New York (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Onondaga_County,_New_York"
+  }
+ ]
+}
