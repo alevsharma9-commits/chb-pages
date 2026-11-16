@@ -15,7 +15,7 @@
   },
   {
    "h2": "Who lives in Miami Beach, according to the Census?",
-   "html": "<p>The 2020 count was 82,890 people, against 87,779 in 2010, and the mid-2025 estimate of 81,594 is a 1.6 percent dip from the 2020 base figure. Land density works out to 10,774.7 residents per square mile.</p><p>More than half of residents (52.9 percent) were born abroad. About four in five had stayed at the same address over the previous twelve months, so turnover is modest.</p><ul><li>Commutes average 26.7 minutes each way.</li><li>Per capita income is $75,054, above the household median because households are small.</li><li>Lodging and restaurant sales reached about $3.78 billion in 2022, which shows how much the local economy leans on visitors.</li></ul>"
+   "html": "<p>The 2020 count was 82,890 people, against 87,779 in 2010, and the latest estimate, 81,594, is a 1.6 percent dip from the 2020 base figure. Land density works out to 10,774.7 residents per square mile.</p><p>More than half of residents (52.9 percent) were born abroad. Stability is high: 81.4 percent kept the same address.</p><ul><li>Commutes average 26.7 minutes each way.</li><li>Per capita income is $75,054, above the household median because households are small.</li><li>Lodging and restaurant sales reached about $3.78 billion in 2022, which shows how much the local economy leans on visitors.</li></ul>"
   },
   {
    "h2": "How many people own versus rent in Miami Beach?",
@@ -27,15 +27,15 @@
   },
   {
    "h2": "How does homestead work for a Miami Beach house?",
-   "html": "<p>Homestead can shield up to $50,000 of value. Send Form DR-501 to the appraiser's office before March 1. The first $25,000 counts against school taxes as well, while the second $25,000 touches only assessed value above $50,000 and skips school taxes.</p><ul><li>You must live there as your permanent home on the first of January.</li><li>Renting the unit or moving out ends the exemption.</li><li>Save Our Homes holds yearly assessment growth under a ceiling of 3 percent or CPI, whichever is smaller, and the 2026 figure on the state chart is 2.7 percent.</li><li>A sale resets the property to just value on the next January 1.</li></ul><p>That reset is why a buyer's first full bill in Miami Beach can look very different from yours.</p>"
+   "html": "<p>Homestead can take as much as $50,000 off taxable value. Send Form DR-501 to the appraiser's office before March 1. The first $25,000 counts against school taxes as well, while the second $25,000 touches only assessed value above $50,000 and skips school taxes.</p><ul><li>You must live there as your permanent home on the first of January.</li><li>Renting the unit or moving out ends the exemption.</li><li>Save Our Homes holds yearly assessment growth under a ceiling of 3 percent or CPI, whichever is smaller, and the 2026 figure on the state chart is 2.7 percent.</li><li>After a sale, the buyer's assessment jumps back to just value the following January.</li></ul><p>That reset is why a buyer's first full bill in Miami Beach can look very different from yours.</p>"
   },
   {
    "h2": "Can I take my homestead savings to a new house if I move from Miami Beach?",
    "html": "<p>Often yes, through portability. The new homestead must begin inside a three-year window that starts on the January 1 of the year you moved out of the old one, which is not the sale date. File Form DR-501T together with the DR-501 by March 1.</p><p>The state statute describes the transfer as the lesser of $500,000 or the gap between just value and assessed value on the old home. The statute page notes amendments that first apply to the 2027 roll, so confirm the current cap with the appraiser before you plan around a number.</p><p>Owners who cannot pay a full bill can ask the tax collector about a homestead deferral on Form DR-570, due March 31, or an installment plan requested by May 1.</p>"
   },
   {
-   "h2": "Can I sell a Miami Beach house with tax still owed?",
-   "html": "<p>The unpaid amount comes out of what you receive at the table. At closing, the title agent collects a balance figure from the tax collector and settles that year's share.</p><p>After April 1, the county can sell a certificate on the debt, and a holder may seek a tax deed once two years have passed. A homestead property opens at a bid that includes half the latest assessed value.</p><p>Clearing a balance before listing keeps the sale clean. The tax collector runs 13 locations, online payment and mobile offices, so options exist.</p>"
+   "h2": "Can a Miami Beach house sell while tax is still owed?",
+   "html": "<p>The unpaid amount comes out of what you receive at the table. At closing, the title agent collects a balance figure from the tax collector and settles that year's share between you and the buyer.</p><p>After April 1, the county can sell a certificate on the debt, and a holder may seek a tax deed once two years have passed. A homestead property opens at a bid that includes half the latest assessed value.</p><p>Clearing a balance before listing keeps the sale clean. The tax collector runs 13 locations, online payment and mobile offices, so options exist.</p>"
   },
   {
    "h2": "Which office takes a Miami Beach deed for recording?",
@@ -48,8 +48,8 @@
  ],
  "faqs": [
   {
-   "q": "Does Miami Beach send its own property tax bill?",
-   "a": "No. The Miami-Dade County tax collector sends one combined bill that includes the city line of 5.8060 mills for operations plus 0.2693 for debt service."
+   "q": "Does the city of Miami Beach mail a separate tax statement?",
+   "a": "No. One statement from the county collector's office includes the city line of 5.8060 mills for operations plus 0.2693 for debt service."
   },
   {
    "q": "When does a Miami Beach tax bill become delinquent?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Can I keep my Save Our Homes cap if I sell?",
-   "a": "The cap does not transfer with the sale, because a change of ownership resets value to just value. You may carry part of the benefit to a new Florida homestead through portability, which needs Form DR-501T by March 1 and a new homestead within three years."
+   "a": "The cap does not transfer with the sale, because a change of ownership resets value to just value. You may carry part of the benefit to a later Florida homestead through portability, using Form DR-501T filed with your March 1 application."
   },
   {
    "q": "Is the 2026 Miami Beach millage rate final?",

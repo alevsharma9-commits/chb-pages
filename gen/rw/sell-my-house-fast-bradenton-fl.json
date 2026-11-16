@@ -11,7 +11,7 @@
   },
   {
    "h2": "What dates does the Manatee County Property Appraiser follow?",
-   "html": "<p>The county follows the statewide calendar, and its Important Dates page lists each step. The table shows what it prints.</p><table><caption>Manatee County Property Appraiser, annual dates</caption><thead><tr><th>Month</th><th>Event</th></tr></thead><tbody><tr><td>January 1</td><td>Date of assessment</td></tr><tr><td>March 1</td><td>Deadline for homestead, low-income senior, widow and widower, non-profit exemptions and agricultural classification</td></tr><tr><td>April 1</td><td>Tangible personal property returns due</td></tr><tr><td>July</td><td>Denial notices mailed; 30 days after mailing to petition the Value Adjustment Board</td></tr><tr><td>August</td><td>TRIM notices mailed, starting a 25-day appeal period</td></tr><tr><td>October</td><td>Value Adjustment Board hearings</td></tr><tr><td>November</td><td>Tax Collector mails bills</td></tr></tbody></table><p>The deadline to petition on value is stated on the TRIM notice itself, so read the notice when it arrives.</p>"
+   "html": "<p>The county follows the statewide calendar, and its Important Dates page lists each step. The table shows what it prints.</p><table><caption>Manatee County Property Appraiser, annual dates</caption><thead><tr><th>Month</th><th>Event</th></tr></thead><tbody><tr><td>January 1</td><td>Date of assessment</td></tr><tr><td>March 1</td><td>Deadline for homestead, low-income senior, widow and widower, non-profit exemptions and agricultural classification</td></tr><tr><td>April 1</td><td>Tangible personal property returns due</td></tr><tr><td>July</td><td>Denial notices mailed; 30 days after mailing to petition the Value Adjustment Board</td></tr><tr><td>August</td><td>TRIM notices mailed, starting a 25-day appeal period</td></tr><tr><td>October</td><td>Value Adjustment Board hearings</td></tr><tr><td>November</td><td>Tax Collector mails bills</td></tr></tbody></table><p>The deadline to petition on value is stated on the TRIM notice itself, so read the notice when it arrives. Appeals on value are separate from exemption denials, which follow the July timeline shown above.</p>"
   },
   {
    "h2": "How do homestead and Save Our Homes affect a Bradenton sale?",
@@ -20,6 +20,14 @@
   {
    "h2": "What does the tax bill look like at closing?",
    "html": "<p>Florida bills in November and rewards early payment: 4 percent off in November, 3 in December, 2 in January and 1 in February, as the Department of Revenue prints it. Bills go delinquent on April 1.</p><p>When a house closes between November and the following March, the closing agent usually divides the year's bill between you and the buyer. Ask the Manatee County Tax Collector for the exact amount and whether the discount was taken. If you owe back taxes, tax certificates on unpaid items are sold by June 1, and a payoff at closing keeps the title clean.</p>"
+  },
+  {
+   "h2": "What does it cost to transfer the deed in Manatee County?",
+   "html": "<p>The state charges 70 cents for every $100 of consideration on a deed, a rate the Department of Revenue applies everywhere except Miami-Dade. Whoever the contract names as payer, every party to the document stays liable for it, so the closing agent collects it when the deed is recorded with the Clerk.</p><p>Recording charges come on top. Section 28.24 sets $5.00 for a deed's first page and $4.00 for each page after it, with smaller add-on charges for the records modernization fund and technology. Ask the Clerk of the Circuit Court for the figure on your exact document.</p><ul><li>The tax applies to warranty, special warranty, quit claim and trustee's deeds alike.</li><li>A deed in lieu of foreclosure is also on the Department's taxable list.</li><li>Have your closing agent price both the tax and the recording before you sign.</li></ul>"
+  },
+  {
+   "h2": "Can I sell an inherited house in Bradenton?",
+   "html": "<p>Yes, once the person who can sign for the estate has authority. Florida offers summary administration when the non-exempt estate does not exceed $150,000 or the owner died more than 2 years ago, under section 735.201, which is shorter than a full probate case.</p><p>Creditors face a deadline too: claims are barred unless filed by the later of 3 months after first publication of the notice to creditors or 30 days after service on a creditor who had to be served. Florida has no estate tax for people who died after December 31, 2004, according to the Department of Revenue. A personal representative's deed under a probated will is listed as not subject to documentary stamp tax. Talk with a probate attorney before you list or sign a contract.</p>"
   },
   {
    "h2": "What if the Bradenton house is rented or in foreclosure?",
@@ -80,6 +88,26 @@
   {
    "title": "Florida Statutes 83.57",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
+  },
+  {
+   "title": "Florida Statutes 735.201",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.201.html"
+  },
+  {
+   "title": "Florida Statutes 733.702",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0733/Sections/0733.702.html"
+  },
+  {
+   "title": "Florida Department of Revenue, Estate Tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/pages/estate_tax.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue, Documentary Stamp Tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Statutes 28.24",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
   },
   {
    "title": "Florida Statutes 45.031",

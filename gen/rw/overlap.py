@@ -28,4 +28,4 @@ for s in sys.argv[1:]:
     rep=[x for x in S if df[x]]
     print(s,'unique %.0f%%'%(100*(1-len(rep)/len(S))))
     if len(sys.argv)==2 or 1-len(rep)/len(S)<.85:
-        print('  repeated phrases elsewhere (sample):',sorted(rep,key=lambda x:-df[x])[:8])
+        print('  repeated phrases elsewhere (sample):',sorted(rep,key=lambda x:-df[x])[:int(os.environ.get("N","8"))])
