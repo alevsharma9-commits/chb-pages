@@ -3,57 +3,61 @@
  "sections": [
   {
    "h2": "What makes Ohio different for a home seller?",
-   "html": "<p>Ohio is a big state with several large metro areas, and the rules for taxes, probate, foreclosure and tenants come from state statute but are carried out by county offices. The state was admitted to the Union on March 1, 1803, its capital and largest city is Columbus, and its largest metro areas center on Cleveland, Cincinnati and Columbus. Ohio's land area is 40,858.76 square miles by the 2020 Census count, and the Census Bureau's mid-2025 estimate counts 11,900,510 people.</p>\n<p>A seller in Toledo, Dayton, Akron or a small township faces one Revised Code but a different auditor, recorder, treasurer, probate court and clerk of courts in each county. The guides on this site follow that split: statewide topic pages cover the law, and city and county pages cover the offices.</p>"
+   "html": "<p>Ohio writes its property, probate, foreclosure and tenant rules at the state level, then leaves their daily handling to county offices. The state joined the Union on March 1, 1803. Columbus is both the capital and the largest city, and Cleveland, Cincinnati and Columbus anchor its biggest metro areas. The Census Bureau counts 40,858.76 square miles of land and estimates 11,900,510 people for mid-2025.</p>\n<p>A seller in Toledo, Dayton, Akron or a small township works under one Revised Code but meets a different auditor, recorder, treasurer, probate court and clerk of courts in each county. This site follows that split. Statewide pages explain the law, and the city and county pages explain the offices.</p>"
   },
   {
-   "h2": "What do Census figures say about Ohio homes?",
-   "html": "<p>These statewide numbers give a baseline to hold against any single county.</p>\n<table><caption>Ohio housing and household baseline</caption><thead><tr><th>Measure</th><th>Ohio figure</th></tr></thead><tbody>\n<tr><td>Housing units, July 1, 2025</td><td>5,367,824</td></tr>\n<tr><td>Owner-occupied housing unit rate, 2020-2024</td><td>67.2%</td></tr>\n<tr><td>Median value of owner-occupied housing units, 2020-2024</td><td>$214,800</td></tr>\n<tr><td>Median gross rent, 2020-2024</td><td>$1,034</td></tr>\n<tr><td>Households, 2020-2024</td><td>4,863,191</td></tr>\n<tr><td>Median household income, 2020-2024</td><td>$71,389</td></tr>\n<tr><td>Living in the same house one year ago, 2020-2024</td><td>88.1%</td></tr>\n</tbody></table>\n<p>Source: QuickFacts table for Ohio, Census Bureau.</p>\n<p>Roughly two of every three homes are lived in by their owners, and most residents stay put from one year to the next. A given city can sit well above or below these medians, so use the county pages for local numbers.</p>"
-  },
-  {
-   "h2": "How do Ohio property tax appeals and transfer charges work?",
-   "html": "<p>Valuation disputes start at the county auditor. Under R.C. 5715.19, an owner files a complaint against a parcel's valuation with the county auditor on or before March 31 of the following tax year, or the date the first-half collection closes if that is later, and the county board of revision hears it. A second complaint on the same parcel in the same interim period is barred unless an arm's length sale, a casualty loss, a substantial improvement or a change of at least fifteen percent in occupancy intervenes.</p>\n<p>At closing, each county may levy a real property transfer tax of up to thirty cents per hundred dollars of value under R.C. 322.02. The grantor pays it to the county auditor before the deed goes to the recorder. Because counties set their own rates and many differ, the county page for the property is where to look.</p>"
-  },
-  {
-   "h2": "How do Ohio probate, transfer on death deeds and foreclosure sales work?",
-   "html": "<p>Ohio estates go through the probate court that serves the decedent's home county. A court may release a small estate from administration when assets total $35,000 or less, or $100,000 or less when everything goes to a surviving spouse (R.C. 2113.03). Executors and administrators sell land under R.C. 2127.01 through 2127.43. The Ohio estate tax was repealed for deaths on or after January 1, 2013, and the Department of Taxation says the 2021 sunset ended collection on older estates too.</p>\n<p>Owners can also record a transfer on death designation affidavit with the county recorder, which vests title in named beneficiaries at death (R.C. 5302.22).</p>\n<p>Foreclosure in Ohio is a court process. R.C. 2323.07 says that when a mortgage is foreclosed, a sale of the property shall be ordered by the court, which may direct the officer to sell in parcels or as a whole, and may name the sheriff or master of each county where the land lies. A homeowner who wants to avoid a sale has to act before the court orders it.</p>"
-  },
-  {
-   "h2": "How do landlord and tenant rules affect selling a rented Ohio house?",
-   "html": "<p>Selling with a tenant in the house adds a notice calendar and a court calendar. Ohio requires at least three days of written notice before filing an eviction (R.C. 1923.04), thirty days before a periodic rental date to end a month-to-month tenancy (R.C. 5321.17), and a court hearing no sooner than the seventh day after service. Landlords cannot lock out tenants or shut off utilities (R.C. 5321.15).</p>\n<ul><li>The state topic pages on eviction notice and eviction process lay out the notice types and the court stages.</li><li>The landlord-tenant page covers deposits, repairs and retaliation.</li><li>Rented-house sellers should read both before setting a closing date.</li></ul>"
-  },
-  {
-   "h2": "Which Ohio county office handles which step?",
-   "html": "<p>Ohio splits property work across several county offices, which is why a statewide rule can produce a different experience in each county.</p>\n<ul><li>County auditor: property valuation complaints, and the transfer tax paid at deed delivery.</li><li>County recorder: deeds, transfer on death affidavits and recorded liens.</li><li>County treasurer: tax bills and payment of property tax.</li><li>Probate court: estates, release from administration and land sales by fiduciaries.</li><li>Municipal or county court clerk: eviction filings and summons service.</li><li>Sheriff: carries out writs and foreclosure sales ordered by the common pleas court.</li></ul>\n<p>Ask each office for its current fee schedule and forms, since those change more often than the statutes.</p>"
+   "h2": "What does the Census show about Ohio's housing stock?",
+   "html": "<p>These statewide figures give a baseline to hold against any single county or city.</p>\n<table><caption>Ohio housing and household baseline</caption><thead><tr><th>Measure</th><th>Ohio</th></tr></thead><tbody>\n<tr><td>Homes and apartments (housing units), mid-2025</td><td>5,367,824</td></tr>\n<tr><td>Homes where the owner lives, 2020-2024</td><td>67.2%</td></tr>\n<tr><td>Midpoint value of those owned homes, 2020-2024</td><td>$214,800</td></tr>\n<tr><td>Typical gross rent, 2020-2024</td><td>$1,034</td></tr>\n<tr><td>Households, 2020-2024</td><td>4,863,191</td></tr>\n<tr><td>Typical household income, 2020-2024</td><td>$71,389</td></tr>\n<tr><td>Residents who did not move in the past year</td><td>88.1%</td></tr>\n</tbody></table>\n<p>Source: QuickFacts table for Ohio, Census Bureau.</p>\n<p>Most Ohio residents stay put from one year to the next, and about two in three homes house their owners. A given city may sit far above or below these midpoints.</p>"
   },
   {
    "h2": "What does Ohio's land and housing mix mean for a sale?",
-   "html": "<p>The state covers 40,858.76 square miles of land and 288.8 people per square mile by the 2020 count, which puts dense city blocks in Cleveland and Columbus alongside farm townships. Mean travel time to work is 23.4 minutes for Ohio workers aged 16 and over, a figure that shapes how far buyers will look from a job center.</p>\n<p>Ohio's median monthly owner costs run $1,517 with a mortgage and $588 without one, and the median gross rent is $1,034. Those numbers frame what a buyer or a landlord can carry. Sellers with a property that needs work often weigh a cash sale against the cost and delay of repairs before listing.</p>\n<ul><li>Dense counties usually have more recorded sales to support a valuation complaint.</li><li>Rural counties may have fewer comparable sales, so a tax appeal can rest on property condition.</li><li>Cities add their own permits and codes on top of state law, so check city hall as well as the county.</li></ul>"
+   "html": "<p>Population density was 288.8 per square mile in 2020, and the state mixes dense blocks in Cleveland and Columbus with farm townships. Commutes average 23.4 minutes for workers aged 16 and over, which shapes how far buyers will search from a job center. Monthly owner costs have a midpoint of $1,517 with a mortgage and $588 without one, a range that frames what a buyer can carry.</p>\n<p>Sellers whose homes need work often weigh a cash sale against the delay and cost of repairs before listing.</p>\n<ul><li>Dense counties tend to have more recorded sales to support a valuation complaint.</li><li>Rural counties may have few comparable sales, so a tax appeal can rest on the house's condition.</li><li>Cities add permits and codes on top of state law, so check city hall as well as the county.</li></ul>"
+  },
+  {
+   "h2": "What does Ohio's economy mean for demand on the housing market?",
+   "html": "<p>Buyer demand follows jobs. The Census Bureau counts 255,049 employer establishments in the state for 2023, with total employment of 5,081,279, a gain of 2.4 percent over 2022. Across Ohio, 63.0 percent of residents aged 16 and over were in the civilian labor force for 2020 to 2024, and 31.5 percent of adults aged 25 and over held a bachelor's degree or higher.</p>\n<p>Those totals say little about any one street, but they show a state with a deep base of employers. A seller in a county that gained jobs may see more local interest than one in a county where large employers have cut back. The county pages are the place to look for that detail.</p>"
+  },
+  {
+   "h2": "How do Ohio property tax appeals and transfer charges work?",
+   "html": "<p>Valuation disputes begin at the county auditor. R.C. 5715.19 sets a March 31 filing date for the following tax year, or the close of first-half collection when that comes later, and the county board of revision hears the case. A repeat complaint on the same parcel waits until a new interim period unless a sale between unrelated parties, a casualty loss, a substantial improvement or a swing of at least fifteen percent in occupancy intervenes.</p>\n<p>At closing, a county can levy a transfer tax of no more than thirty cents per hundred dollars of value under R.C. 322.02. The seller named in the deed pays the auditor before recording. Counties set their own rates, so the county guide for the property carries the number.</p>"
+  },
+  {
+   "h2": "How do probate, transfer on death affidavits and foreclosure sales work in Ohio?",
+   "html": "<p>An estate goes through the probate court that serves the decedent's home county. That court can release a small estate from administration, with limits of $35,000 or $100,000 depending on who inherits (R.C. 2113.03), and executors sell land under R.C. 2127.01 through 2127.43. Ohio no longer taxes estates for deaths from 2013 forward, and the Department of Taxation says the 2021 sunset ended collection on older ones.</p>\n<p>An owner can also record a transfer on death affidavit with the county recorder so that title passes to named beneficiaries at death (R.C. 5302.22).</p>\n<p>Foreclosure runs through the courts. R.C. 2323.07 says a foreclosed mortgage leads to a sale ordered by the court, which may direct the officer to sell parcels separately or the whole tract and may assign the sheriff or master in each county where the land lies. Anyone hoping to stop a sale has to move before the court enters that order.</p>"
+  },
+  {
+   "h2": "How do tenant rules affect selling a rented Ohio house?",
+   "html": "<p>A tenant in the house adds a notice calendar and a court calendar. Landlords give at least three days of written notice before filing (R.C. 1923.04), thirty days before the next periodic rental date to end a month-to-month tenancy (R.C. 5321.17), and the first hearing falls no sooner than the seventh day after service. Lockouts and utility shutoffs are barred (R.C. 5321.15).</p>\n<ul><li>The eviction notice page sets out each notice type.</li><li>The eviction process page walks through summons, hearing and writ.</li><li>Read both pages before you commit to a closing date on a rented house.</li></ul>"
+  },
+  {
+   "h2": "Which county office handles which step in Ohio?",
+   "html": "<p>Property work is spread across several county offices, so one statewide rule can feel different from county to county.</p>\n<ul><li>Auditor: valuation complaints and the transfer tax paid at deed delivery.</li><li>Recorder: deeds, transfer on death affidavits and recorded liens.</li><li>Treasurer: tax bills and payments.</li><li>Probate court: estates, releases from administration and land sales by fiduciaries.</li><li>Municipal or county court clerk: eviction filings and summons service.</li><li>Sheriff: writs and sales ordered in foreclosure cases.</li></ul>\n<p>Ask each office for its current forms and fees, which change more often than statutes do.</p>"
   },
   {
    "h2": "How should I use the Ohio guides on this site?",
-   "html": "<p>Begin with the statewide topic page that matches the problem, such as probate, foreclosure, eviction or estate tax, then move to the county or city guide for the house itself. County recorder guides cover deed recording, property tax guides cover the auditor and treasurer, and city pages cover local selling conditions. If a situation spans topics, such as an inherited rental with a tenant, read the probate and eviction pages together.</p>"
+   "html": "<p>Pick the statewide topic page that matches the problem, whether probate, foreclosure, eviction or estate tax, and then open the county or city guide for the house itself. The county recorder guides cover deed recording, the property tax guides cover the auditor and treasurer, and city pages cover local selling conditions. A problem that spans topics, such as an inherited rental with a tenant, calls for the probate and eviction pages together.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the latest population estimate for Ohio?",
-   "a": "About 11.9 million. The Census Bureau lists 11,900,510 for mid-2025, a rise of 0.9 percent from its April 2020 estimates base."
+   "a": "About 11.9 million. The Census Bureau lists 11,900,510 for mid-2025, up 0.9 percent from its April 2020 estimates base."
   },
   {
-   "q": "What share of Ohio homes are owner-occupied?",
-   "a": "67.2 percent for 2020 to 2024, according to the Census Bureau, and the median value of those homes is $214,800."
+   "q": "How many Ohio homes have the owner living in them?",
+   "a": "Roughly two thirds: the Census Bureau gives 67.2 percent, with a midpoint value of $214,800 for those homes."
   },
   {
-   "q": "Where do I file a property valuation complaint in Ohio?",
-   "a": "With the county auditor, by March 31 of the following tax year or the close of first-half collection if later. The county board of revision then hears it, under R.C. 5715.19."
+   "q": "Where is a valuation complaint filed in Ohio?",
+   "a": "With the county auditor, by March 31 of the following tax year or the close of first-half collection if that is later. The county board of revision then hears it, under R.C. 5715.19."
   },
   {
-   "q": "Is there a statewide transfer tax on Ohio home sales?",
-   "a": "The tax is county-based. R.C. 322.02 lets each county levy a real property transfer tax of up to thirty cents per hundred dollars, paid by the grantor to the county auditor. Ask the county auditor for the current rate."
+   "q": "Is there a transfer tax on an Ohio home sale?",
+   "a": "Counties may charge one. Under R.C. 322.02 a county can levy no more than thirty cents for each hundred dollars of value, and the seller settles it with the auditor ahead of recording. The auditor can quote the local rate."
   },
   {
    "q": "Does Ohio still have an estate tax?",
-   "a": "No. The Ohio Department of Taxation says the estate tax was repealed for deaths on or after January 1, 2013, and that no tax is due on property first discovered after December 31, 2021."
+   "a": "No. The Department of Taxation says the estate tax was repealed for deaths in 2013 and later, and that no tax is due on property first discovered after December 31, 2021."
   }
  ],
  "sources": [

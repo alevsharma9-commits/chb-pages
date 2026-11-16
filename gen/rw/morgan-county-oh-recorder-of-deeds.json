@@ -2,7 +2,7 @@
  "slug": "morgan-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where do you record a deed in Morgan County?",
+   "h2": "Which Morgan County office takes a deed for recording?",
    "html": "<p>The Morgan County Recorder's Office is in the Riecker Building at 155 East Main Street, Room 160, McConnelsville, OH 43756. The <a href='https://www.morgancounty-oh.gov/recorder.html'>county recorder page</a> gives 740-962-4051 for calls and recorder@morgancountyohio.gov for email.</p><p>The Auditor works from the same building and answers at 740-962-4475. A Morgan County deed does not go straight to the Recorder, though. The Auditor's FAQ sends questions about prior deeds and recording fees to the Recorder's counter on the first floor, so call that number before you drive in.</p>"
   },
   {
@@ -14,20 +14,24 @@
    "html": "<p>The Auditor's <a href='https://www.morgancountyauditor.org/real-estate-real-estate-transfers'>transfer page</a> lists the charges that precede recording. Payment is by cash or a check payable to the Morgan County Auditor.</p><table><caption>Morgan County Auditor transfer charges as printed on the county's transfer page</caption><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Conveyance fee</td><td>$3.00 per $1,000 (sale price x .003)</td></tr><tr><td>Transfer fee</td><td>$0.50 per parcel</td></tr><tr><td>Split fee, for every split</td><td>$100.00</td></tr></tbody></table><p>Morgan quotes one conveyance figure of $3.00 per $1,000. The statute on the auditor's fee, <a href='https://codes.ohio.gov/ohio-revised-code/section-319.54'>section 319.54</a>, sets $1 or ten cents per $100, and a county may levy a transfer tax of up to thirty cents per $100 under <a href='https://codes.ohio.gov/ohio-revised-code/section-322.02'>section 322.02</a>. Ask the Auditor how Morgan's single number is divided if your closing statement needs a line for each. For acreage splits, call the Engineer, since the survey and the split fee start there.</p>"
   },
   {
-   "h2": "What does recording cost at the Morgan County Recorder?",
-   "html": "<p>Morgan County's published pages send recording-fee questions to the Recorder, so ask for the current sheet when you call 740-962-4051. The ceiling is set by <a href='https://codes.ohio.gov/ohio-revised-code/section-317.32'>section 317.32</a>: a $17 base fee plus a $17 housing trust fund fee for the first two pages, then $4 plus $4 for each added page. A county may also add a preservation surcharge of up to $5 per instrument.</p><p>Certified copies cost $1 base plus $1 trust fund per page, and a counter photocopy is the same. A marginal reference entered by a separate instrument is $2 plus $2. Each page is measured at 8.5 by 14 inches, and the caption page counts, so a three-page deed costs more than a two-page one.</p>"
+   "h2": "What fees apply when the Morgan County Recorder records a deed?",
+   "html": "<p>Morgan County's published pages send recording-fee questions to the Recorder, so ask for the current sheet when you call 740-962-4051. The ceiling is set by <a href='https://codes.ohio.gov/ohio-revised-code/section-317.32'>section 317.32</a>: a $17 base fee plus a $17 housing trust fund fee for the first two pages, then $4 plus $4 for each added page. A county may also add a preservation surcharge of up to $5 per instrument.</p><p>Certified copies cost $1 base plus $1 trust fund per page, and a counter photocopy is the same. A marginal reference entered by a separate instrument is $2 plus $2. The statute measures pages at 8.5 by 14 inches and counts the caption page, so a three-page deed costs more than a two-page one.</p>"
   },
   {
    "h2": "Is a Morgan County transfer taxable if no money changes hands?",
-   "html": "<p>It can be. The Auditor's FAQ says a transfer is taxable when money changes hands, and also when no money does but the transfer is a gift. Only the relationships listed on the DTE 100EX form are exempt, and the filer reads each lettered choice to see whether one fits.</p><p>The statute lists many of those exemptions in <a href='https://codes.ohio.gov/ohio-revised-code/section-319.54'>section 319.54(G)(3)</a>, including transfers among heirs of one decedent when no money is paid and transfers to the grantor of a trust the grantor can revoke. If someone on the deed has died, the Auditor points families to Morgan County Probate Court at 740-962-2861 when there is a will, and to a title company or attorney when a survivorship deed or transfer on death designation was recorded.</p><p>Under <a href='https://codes.ohio.gov/ohio-revised-code/section-319.202'>section 319.202</a>, the buyer also certifies what the seller said about reduced taxes and farm-use valuation. Morgan's Auditor lists a $25 one-time filing fee for the farm program (CAUV), which requires crops, animals or timber on at least 10 acres.</p>"
+   "html": "<p>It can be. The Auditor's FAQ says a transfer is taxable when money changes hands, and also when no money does but the transfer is a gift. Only the relationships listed on the DTE 100EX form are exempt, and the filer reads each lettered choice to see whether one fits.</p><p>The statute lists many of those exemptions in <a href='https://codes.ohio.gov/ohio-revised-code/section-319.54'>section 319.54(G)(3)</a>, including transfers among heirs of one decedent when no money is paid and transfers to the grantor of a trust the grantor can revoke. If someone on the deed has died, the Auditor points families to Morgan County Probate Court at 740-962-2861 when there is a will, and to a title agent or real estate lawyer when a survivorship deed or transfer on death designation was recorded.</p><p>Under <a href='https://codes.ohio.gov/ohio-revised-code/section-319.202'>section 319.202</a>, the buyer also certifies what the seller said about reduced taxes and farm-use valuation. Morgan's Auditor lists a $25 one-time filing fee for the farm program (CAUV), which requires crops, animals or timber on at least 10 acres.</p>"
   },
   {
    "h2": "What should a Morgan County seller expect on parcels and tax bills?",
-   "html": "<p>Parcel changes take effect at once, but the bills lag. After combining parcels, the owner keeps getting separate paper bills until the next tax year, and the owner of an original parcel receives the tax bill for the whole original parcel until the next year after a split. The Auditor advises raising that with a title company or real estate attorney before the sale closes.</p><p>Property taxes are due in February and July and are billed and collected by the Treasurer at 740-962-3561. Valuation complaints go to the Board of Revision, filed with the Auditor between January 1 and March 31, and the standard Homestead Exemption removes $25,000 of market value for qualifying seniors and permanently and totally disabled owners.</p>"
+   "html": "<p>Parcel changes take effect at once, but the bills lag. After combining parcels, the owner keeps getting separate paper bills until the next tax year, and the owner of an original parcel receives the tax bill for the whole original parcel until the next year after a split. The Auditor advises raising that with a title company or real estate attorney before the sale closes.</p><p>Taxes are due in February and July, and the Treasurer at 740-962-3561 bills and collects them. Valuation complaints are filed with the Auditor from January 1 through March 31, and the standard Homestead Exemption removes $25,000 of market value for qualifying seniors and permanently and totally disabled owners.</p>"
+  },
+  {
+   "h2": "Why did the Morgan County Auditor change a property's value?",
+   "html": "<p>Value changes come from a short list of causes, per the Auditor's FAQ:</p><ul><li>A full reappraisal, which Ohio law requires of every parcel once every six years.</li><li>A countywide update in the third year of that cycle, based on market trends.</li><li>New construction, as shown by local permits.</li><li>Corrections to square footage, bedroom or bathroom counts.</li><li>A Board of Revision decision, or damage to or destruction of the property.</li></ul><p>The Board of Revision has three members: the Auditor, the Treasurer and the president of the county commissioners, or their designees. It adjusts values, not tax dollars. Ohio law generally allows one filing in a three-year period, and withdrawing a complaint still counts as that filing. Corporations should have an attorney file for them.</p>"
   },
   {
    "h2": "What is Morgan County like for a house seller?",
-   "html": "<p>Morgan County was formed December 29, 1817, from parts of Guernsey, Muskingum and Washington counties and organized in 1819, per <a href='https://en.wikipedia.org/wiki/Morgan_County,_Ohio'>Wikipedia</a>. It covers 422 square miles, and McConnelsville, Chesterhill, Malta and Stockport are its villages. The county is the third-least populous in Ohio, with 13,802 people in 2020. Neighbors are Muskingum, Noble, Washington, Athens and Perry counties.</p><p>The Census Bureau's <a href='https://www.census.gov/quickfacts/fact/table/montgomerycountyohio,miamicountyohio,morgancountyohio/PST045224'>QuickFacts</a> reports a 2025 estimate of 13,626 residents, down 1.3% from the 2020 base, and 7,437 housing units. Owners occupy 78.9% of homes, the median value for 2020 to 2024 is $150,900, and median household income is $59,351. The mean commute is 37.5 minutes, the longest of the three counties compared there, and 23 building permits were issued in 2025. With about 33 people per square mile, the Engineer's survey and split steps are worth planning for if you are selling part of a larger tract.</p>"
+   "html": "<p>Morgan County was formed December 29, 1817, from parts of Guernsey, Muskingum and Washington counties and organized in 1819, per <a href='https://en.wikipedia.org/wiki/Morgan_County,_Ohio'>Wikipedia</a>. It covers 422 square miles, and McConnelsville, Chesterhill, Malta and Stockport are its villages. The county is the third-least populous in Ohio, with 13,802 people in 2020. Neighbors are Muskingum, Noble, Washington, Athens and Perry counties.</p><p>The Census Bureau's <a href='https://www.census.gov/quickfacts/fact/table/montgomerycountyohio,miamicountyohio,morgancountyohio/PST045224'>QuickFacts</a> reports a 2025 estimate of 13,626 residents, down 1.3% from the 2020 base, and 7,437 housing units. Owners occupy 78.9% of homes, the median value for 2020 to 2024 is $150,900, with a median household income of $59,351. The mean commute is 37.5 minutes, the longest of the three counties compared there, and the county logged 23 building permits in 2025. With about 33 people per square mile, the Engineer's survey and split steps are worth planning for if you are selling part of a larger tract.</p>"
   }
  ],
  "faqs": [
@@ -48,22 +52,58 @@
    "a": "It can be. Only the relationships listed on the DTE 100EX exemption form qualify as exempt, so read each choice on that form or ask the Auditor at 740-962-4475."
   },
   {
-   "q": "How much does Morgan County charge to record a deed?",
+   "q": "What is the Morgan County deed recording fee?",
    "a": "Ask the Recorder at 740-962-4051 for the current sheet. State law caps the base at $17 plus $17 for the first two pages and $4 plus $4 for each page after, with an optional preservation surcharge of up to $5."
   }
  ],
  "sources": [
-  {"title": "Morgan County Recorder", "url": "https://www.morgancounty-oh.gov/recorder.html"},
-  {"title": "Morgan County Auditor Real Estate Transfers", "url": "https://www.morgancountyauditor.org/real-estate-real-estate-transfers"},
-  {"title": "Morgan County Auditor Real Estate FAQ", "url": "https://www.morgancountyauditor.org/real-estate-real-estate-faq"},
-  {"title": "Morgan County Auditor FAQs", "url": "https://www.morgancountyauditor.org/faqs"},
-  {"title": "Morgan County Auditor Board of Revision", "url": "https://www.morgancountyauditor.org/real-estate-board-of-revision"},
-  {"title": "Morgan County Auditor Homestead Exemption", "url": "https://www.morgancountyauditor.org/real-estate-homestead-exemption"},
-  {"title": "Ohio Revised Code 317.32", "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"},
-  {"title": "Ohio Revised Code 319.54", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"},
-  {"title": "Ohio Revised Code 319.202", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"},
-  {"title": "Ohio Revised Code 322.02", "url": "https://codes.ohio.gov/ohio-revised-code/section-322.02"},
-  {"title": "Census QuickFacts: Montgomery, Miami and Morgan Counties, Ohio", "url": "https://www.census.gov/quickfacts/fact/table/montgomerycountyohio,miamicountyohio,morgancountyohio/PST045224"},
-  {"title": "Morgan County, Ohio (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Morgan_County,_Ohio"}
+  {
+   "title": "Morgan County Recorder",
+   "url": "https://www.morgancounty-oh.gov/recorder.html"
+  },
+  {
+   "title": "Morgan County Auditor Real Estate Transfers",
+   "url": "https://www.morgancountyauditor.org/real-estate-real-estate-transfers"
+  },
+  {
+   "title": "Morgan County Auditor Real Estate FAQ",
+   "url": "https://www.morgancountyauditor.org/real-estate-real-estate-faq"
+  },
+  {
+   "title": "Morgan County Auditor FAQs",
+   "url": "https://www.morgancountyauditor.org/faqs"
+  },
+  {
+   "title": "Morgan County Auditor Board of Revision",
+   "url": "https://www.morgancountyauditor.org/real-estate-board-of-revision"
+  },
+  {
+   "title": "Morgan County Auditor Homestead Exemption",
+   "url": "https://www.morgancountyauditor.org/real-estate-homestead-exemption"
+  },
+  {
+   "title": "Ohio Revised Code 317.32",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"
+  },
+  {
+   "title": "Ohio Revised Code 319.54",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
+  },
+  {
+   "title": "Ohio Revised Code 319.202",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"
+  },
+  {
+   "title": "Ohio Revised Code 322.02",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-322.02"
+  },
+  {
+   "title": "Census QuickFacts: Montgomery, Miami and Morgan Counties, Ohio",
+   "url": "https://www.census.gov/quickfacts/fact/table/montgomerycountyohio,miamicountyohio,morgancountyohio/PST045224"
+  },
+  {
+   "title": "Morgan County, Ohio (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Morgan_County,_Ohio"
+  }
  ]
 }

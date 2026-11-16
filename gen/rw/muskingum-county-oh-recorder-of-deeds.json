@@ -1,74 +1,105 @@
 {
-"slug": "muskingum-county-oh-recorder-of-deeds",
-"sections": [
-{
-"h2": "Where is the Muskingum County Recorder's Office?",
-"html": "<p>The Muskingum County Recorder works from 401 Main Street, Zanesville, OH 43701, with a mailing address of P.O. Box 2333, Zanesville, OH 43702. The <a href=\"https://www.muskingumcountyoh.gov/Offices/Recorder/\">county recorder page</a> gives (740) 455-7107 and counter hours of 8:30 a.m. to 4:30 p.m., Monday through Friday, with legal holidays closed.</p>\n<p>The same page says the office's holdings reach back to 1803, the year before the county itself was organized in 1804. Surveyors, genealogists, attorneys and title examiners all use them.</p>"
-},
-{
-"h2": "How far back do the online Muskingum County indexes go?",
-"html": "<p>Not every record type was indexed from the same year, so a search that returns nothing may only mean you are looking before the index begins. The recorder's page prints a start year for each category, and a Historical Indexes tab covers earlier material.</p>\n<table>\n<caption>Online index start years printed on the Muskingum County Recorder's page</caption>\n<thead><tr><th>Record type</th><th>Index begins</th></tr></thead>\n<tbody>\n<tr><td>Deeds</td><td>1977</td></tr>\n<tr><td>Mortgages</td><td>1976</td></tr>\n<tr><td>Liens and miscellaneous</td><td>1975</td></tr>\n<tr><td>Leases</td><td>1981</td></tr>\n<tr><td>Military discharges</td><td>1965</td></tr>\n<tr><td>Plats</td><td>1800</td></tr>\n<tr><td>UCC filings</td><td>1993</td></tr>\n</tbody>\n</table>\n<p>For anything older than those years, use the Historical Indexes tab, and look at the training sheet in the office's Forms section for instructions.</p>"
-},
-{
-"h2": "What documents does the Muskingum County Recorder file?",
-"html": "<p>The documents-filed list on the recorder's page covers almost everything tied to land. The entries a seller or heir meets most often are below.</p>\n<ul>\n<li>Warranty, quit claim, survivorship and sheriff's deeds.</li>\n<li>Mortgages and every companion paper: releases, assignments, assumptions, subordinations and waivers of priority.</li>\n<li>Land contracts, leases, easements and powers of attorney.</li>\n<li>Trusts, affidavits and certificates of transfer.</li>\n<li>Mechanic's liens, notices of commencement and federal or personal tax liens.</li>\n</ul>\n<p>Plats, condominiums, street name changes, zoning resolutions and name changes sit on the same list.</p>"
-},
-{
-"h2": "What does the county do before a Muskingum County deed reaches the recorder?",
-"html": "<p>The auditor's <a href=\"https://www.muskingumcountyauditor.org/real-estate-transfers\">transfer page</a> lays out the path. A document can be handed in at the counter, mailed, or sent through eRecording software. If the legal description uses metes and bounds, or covers something other than a full lot in a subdivision, it first goes to the County Engineer's Office on the third floor of the courthouse for approval. After that it goes to the Auditor's Office for the transfer, and only then to the recorder.</p>\n<p>A full subdivision lot can skip the engineer and go straight to the auditor. The auditor's FAQ adds that every deed and related document must be notarized by a notary registered with the Ohio Secretary of State.</p>"
-},
-{
-"h2": "What are the Muskingum County conveyance and transfer fees?",
-"html": "<p>The Muskingum County Auditor prints a conveyance fee of $4.00 per thousand of the sale price, rounded to the nearest ten cents, plus a transfer fee of $0.50 per parcel. State law sets a floor and a ceiling for this charge. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">Section 319.54(G)(3)</a> requires $1 or ten cents per hundred dollars, whichever is greater, and <a href=\"https://codes.ohio.gov/ohio-revised-code/section-322.02\">section 322.02</a> lets commissioners add an optional tax of up to thirty cents per hundred.</p>\n<p>The grantor, meaning the seller, pays these amounts to the auditor when the deed is delivered, according to <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">section 319.202</a>. The statement of value that goes with the deed is where the seller reports any owner-occupancy tax reduction or agricultural valuation tied to the parcel.</p>"
-},
-{
-"h2": "What does Ohio charge the recorder to record a deed?",
-"html": "<p>The recorder's basic filing charge comes from <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">section 317.32</a>: a base fee of $17 for the first two pages and a housing trust fund fee of the same amount, followed by $4 plus $4 for each page after that. A document preservation surcharge of up to five dollars may be added.</p>\n<p>Certified copies run $1 plus $1 a page, and a seal on a certification adds 50 cents plus 50 cents. The statute allows e-filers to pay after presentation by electronic funds transfer or a comparable method. The recorder can tell you which surcharge figure Muskingum County applies, so ask before you write the check.</p>"
-},
-{
-"h2": "Which transfers in Muskingum County are exempt from the conveyance fee?",
-"html": "<p>Section 319.54(G)(3) excludes a long list. Sellers and heirs usually care about the following ones.</p>\n<ul>\n<li>Gifts between spouses or between a parent and child.</li>\n<li>Deeds that confirm or correct an earlier recorded deed.</li>\n<li>Transfers by court order that are not the result of a sale ordered by the court.</li>\n<li>Moves among heirs of the same decedent when nothing is paid.</li>\n<li>Transfers into and out of a revocable trust.</li>\n<li>Interests valued at $100 or less.</li>\n</ul>\n<p>The statement of value must state the reason for any exemption claimed.</p>"
-},
-{
-"h2": "How can a Muskingum County owner guard against a forged deed?",
-"html": "<p>Two free alert tools exist. The recorder offers Property Check, a fraud alert system that warns you about filings made on your behalf. The auditor's FAQ explains that you can also call (740) 455-7109, option 1, to have your phone number attached to your parcels so you hear when one appears on a deed to be transferred.</p>\n<p>Anyone who suspects the ownership record has been changed should phone the auditor at that same number. The auditor says it will investigate the property record and coordinate with the proper authorities if needed.</p>"
-},
-{
-"h2": "What should a seller know about Muskingum County itself?",
-"html": "<p>Muskingum County is in east-central Ohio and is nearly split in two by the Muskingum River. Zanesville is the county seat and largest city. At 673 square miles it ranks fourth in Ohio by land area, and its 2020 population was 86,410. Neighbors include Coshocton, Guernsey, Noble, Morgan, Perry and Licking counties. Higher education is local: Muskingum University, Zane State College and an Ohio University branch campus in Zanesville.</p>\n<p>On the <a href=\"https://www.census.gov/quickfacts/fact/table/muskingumcountyohio,morrowcountyohio/PST045224\">Census QuickFacts</a> table, Muskingum County lists 38,597 housing units for 2025 and a 68.2 percent owner-occupied rate. The median owner-occupied value for 2020 to 2024 is $182,200, and median household income is $60,780. About one occupied home in three is rented, so many sellers here are landlords with tenants in place.</p>"
-}
-],
-"faqs": [
-{
-"q": "What are the Muskingum County Recorder's hours?",
-"a": "The office is open Monday through Friday from 8:30 a.m. to 4:30 p.m. and closes on legal holidays. The recorder's phone number is (740) 455-7107."
-},
-{
-"q": "Where do I send a deed in Muskingum County?",
-"a": "Bring or mail it to the Auditor's Office first for the transfer, then it goes to the recorder at 401 Main Street, Zanesville. Metes and bounds descriptions need County Engineer approval before the auditor accepts them."
-},
-{
-"q": "What is the conveyance fee in Muskingum County?",
-"a": "The auditor's page prints $4.00 per thousand of the sale price, rounded to the nearest ten cents, plus $0.50 per parcel. The seller pays it at the auditor's office."
-},
-{
-"q": "Can I search Muskingum County deeds online?",
-"a": "Yes, but the deed index starts in 1977. Older records are in the Historical Indexes tab on the recorder's site, which has its own training sheet."
-},
-{
-"q": "Does the county offer a fraud alert for my property?",
-"a": "Yes. The recorder runs a free service called Property Check, and the auditor will add your phone number to your parcels if you call (740) 455-7109 and choose option 1."
-}
-],
-"sources": [
-{"title": "Muskingum County Recorder", "url": "https://www.muskingumcountyoh.gov/Offices/Recorder/"},
-{"title": "Muskingum County Auditor: Real Estate Transfers", "url": "https://www.muskingumcountyauditor.org/real-estate-transfers"},
-{"title": "Muskingum County Auditor: Frequently Asked Questions", "url": "https://www.muskingumcountyauditor.org/frequently-asked-questions"},
-{"title": "Ohio Revised Code 317.32", "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"},
-{"title": "Ohio Revised Code 319.202", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"},
-{"title": "Ohio Revised Code 319.54", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"},
-{"title": "Ohio Revised Code 322.02", "url": "https://codes.ohio.gov/ohio-revised-code/section-322.02"},
-{"title": "Wikipedia: Muskingum County, Ohio", "url": "https://en.wikipedia.org/wiki/Muskingum_County,_Ohio"},
-{"title": "Census QuickFacts: Muskingum and Morrow Counties, Ohio", "url": "https://www.census.gov/quickfacts/fact/table/muskingumcountyohio,morrowcountyohio/PST045224"}
-]
+ "slug": "muskingum-county-oh-recorder-of-deeds",
+ "sections": [
+  {
+   "h2": "Where is the Muskingum County Recorder's Office?",
+   "html": "<p>The Muskingum County Recorder works from 401 Main Street, Zanesville, OH 43701, with a mailing address of P.O. Box 2333, Zanesville, OH 43702. The <a href=\"https://www.muskingumcountyoh.gov/Offices/Recorder/\">county recorder page</a> gives (740) 455-7107 and a weekday window from half past eight until half past four, closed on legal holidays.</p>\n<p>The same page says the office's holdings reach back to 1803, the year before the county itself was organized in 1804. Surveyors, genealogists, attorneys and title examiners all use them.</p>"
+  },
+  {
+   "h2": "How far back do the online Muskingum County indexes go?",
+   "html": "<p>Not every record type was indexed from the same year, so a search that returns nothing may only mean you are looking before the index begins. The recorder's page prints a start year for each category, and a Historical Indexes tab covers earlier material.</p>\n<table>\n<caption>Online index start years printed on the Muskingum County Recorder's page</caption>\n<thead><tr><th>Record type</th><th>Index begins</th></tr></thead>\n<tbody>\n<tr><td>Deeds</td><td>1977</td></tr>\n<tr><td>Mortgages</td><td>1976</td></tr>\n<tr><td>Liens and miscellaneous</td><td>1975</td></tr>\n<tr><td>Leases</td><td>1981</td></tr>\n<tr><td>Military discharges</td><td>1965</td></tr>\n<tr><td>Plats</td><td>1800</td></tr>\n<tr><td>UCC filings</td><td>1993</td></tr>\n</tbody>\n</table>\n<p>For anything older than those years, use the Historical Indexes tab, and look at the training sheet in the office's Forms section for instructions.</p>"
+  },
+  {
+   "h2": "What documents does the Muskingum County Recorder file?",
+   "html": "<p>The documents-filed list on the recorder's page covers almost everything tied to land. The entries a seller or heir meets most often are below.</p>\n<ul>\n<li>Warranty, quit claim, survivorship and sheriff's deeds.</li>\n<li>Mortgages and every companion paper: releases, assignments, assumptions, subordinations and waivers of priority.</li>\n<li>Land contracts, leases, easements and powers of attorney.</li>\n<li>Trusts, affidavits and certificates of transfer.</li>\n<li>Mechanic's liens, notices of commencement and federal or personal tax liens.</li>\n</ul>\n<p>Plats, condominiums, street name changes, zoning resolutions and name changes sit on the same list.</p>"
+  },
+  {
+   "h2": "What does the county do before a Muskingum County deed reaches the recorder?",
+   "html": "<p>The auditor's <a href=\"https://www.muskingumcountyauditor.org/real-estate-transfers\">transfer page</a> lays out the path. A document can be handed in at the counter, mailed, or sent through eRecording software. If the legal description uses metes and bounds, or covers something other than a full lot in a subdivision, it first goes to the County Engineer's Office on the third floor of the courthouse for approval. After that it goes to the Auditor's Office for the transfer, and only then to the recorder.</p>\n<p>A full subdivision lot can skip the engineer and go straight to the auditor. The auditor's FAQ adds that every deed and related document must be notarized by a notary registered with the Ohio Secretary of State.</p>"
+  },
+  {
+   "h2": "What are the Muskingum County conveyance and transfer fees?",
+   "html": "<p>The Muskingum County Auditor prints a conveyance fee of $4.00 per thousand of the sale price, rounded to the nearest ten cents, plus a transfer fee of $0.50 per parcel. State law sets a floor and a ceiling for this charge. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">Section 319.54(G)(3)</a> requires $1 or ten cents per hundred dollars, whichever is greater, and <a href=\"https://codes.ohio.gov/ohio-revised-code/section-322.02\">section 322.02</a> lets commissioners add an optional tax of up to thirty cents per hundred.</p>\n<p>The grantor, meaning the seller, pays these amounts to the auditor when the deed is delivered, according to <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">section 319.202</a>. The statement of value that goes with the deed is where the seller reports any owner-occupancy tax reduction or agricultural valuation tied to the parcel.</p>"
+  },
+  {
+   "h2": "What does Ohio charge the recorder to record a deed?",
+   "html": "<p>The recorder's basic filing charge comes from <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">section 317.32</a>: a base fee of $17 for the first two pages and a housing trust fund fee of the same amount, followed by $4 plus $4 for each page after that. A document preservation surcharge of up to five dollars may be added.</p>\n<p>Certified copies run $1 plus $1 a page, and a seal on a certification adds 50 cents plus 50 cents. The statute allows e-filers to pay after presentation by electronic funds transfer or a comparable method. The recorder can tell you which surcharge figure Muskingum County applies, so ask before you write the check.</p>"
+  },
+  {
+   "h2": "Which transfers in Muskingum County are exempt from the conveyance fee?",
+   "html": "<p>Section 319.54(G)(3) excludes a long list. Sellers and heirs usually care about the following ones.</p>\n<ul>\n<li>Gifts between spouses or between a parent and child.</li>\n<li>Deeds that confirm or correct an earlier recorded deed.</li>\n<li>Transfers by court order that are not the result of a sale ordered by the court.</li>\n<li>Moves among heirs of the same decedent when nothing is paid.</li>\n<li>Transfers into and out of a revocable trust.</li>\n<li>Interests valued at $100 or less.</li>\n</ul>\n<p>The statement of value must state the reason for any exemption claimed.</p>"
+  },
+  {
+   "h2": "How can a Muskingum County owner guard against a forged deed?",
+   "html": "<p>Two free alert tools exist. The recorder offers Property Check, a fraud alert system that warns you about filings made on your behalf. The auditor's FAQ explains that you can also call (740) 455-7109, option 1, to have your phone number attached to your parcels so you hear when one appears on a deed to be transferred.</p>\n<p>Anyone who suspects the ownership record has been changed should phone the auditor at that same number. The auditor says it will investigate the property record and coordinate with the proper authorities if needed.</p>"
+  },
+  {
+   "h2": "What is the county around Zanesville like for a home seller?",
+   "html": "<p>Muskingum County is in east-central Ohio and is nearly split in two by the Muskingum River. Zanesville is the county seat and largest city. At 673 square miles it ranks fourth in Ohio by land area, and its 2020 population was 86,410. Neighbors include Coshocton, Guernsey, Noble, Morgan, Perry and Licking counties. Higher education is local: Muskingum University, Zane State College and an Ohio University branch campus in Zanesville.</p>\n<p>On the <a href=\"https://www.census.gov/quickfacts/fact/table/muskingumcountyohio,morrowcountyohio/PST045224\">Census QuickFacts</a> table, Muskingum County lists 38,597 housing units for 2025 and a 68.2 percent owner-occupied rate. The median owner-occupied value for 2020 to 2024 is $182,200, and median household income is $60,780. About one occupied home in three is rented, so many sellers here are landlords with tenants in place.</p>"
+  },
+  {
+   "h2": "What happens to a Muskingum County deed after it is recorded?",
+   "html": "<p>Once the recorder indexes the deed, it appears in the online records, which the office says are refreshed each weekday. Documents are posted to the website within a reasonable time after filing, so a deed recorded this morning may not show up in a search until later in the week.</p><p>Two follow-up steps are worth doing. First, look up the parcel in the auditor's property search to confirm that the owner name and tax mailing address changed. The treasurer's FAQ says a billing address change needs a written, signed form, so a buyer who wants bills at a new address should send one. Second, when a mortgage was paid off at closing, search the mortgage index for the lender's release, since the lender has ninety days to record it under section 5301.36.</p><p>The recorder's page also carries a fair housing notice. Any deed provision that restricts the sale, rental or use of a dwelling because of race or color is invalid under federal law and cannot be enforced, which matters when you read very old deeds from the county's long record.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What are the Muskingum County Recorder's hours?",
+   "a": "Weekdays from half past eight to half past four, except legal holidays. The phone line is (740) 455-7107."
+  },
+  {
+   "q": "Where do I send a deed in Muskingum County?",
+   "a": "Bring or mail it to the Auditor's Office first for the transfer, then it goes to the recorder at 401 Main Street, Zanesville. Metes and bounds descriptions need County Engineer approval before the auditor accepts them."
+  },
+  {
+   "q": "What is the conveyance fee in Muskingum County?",
+   "a": "The auditor's page prints $4.00 per thousand of the sale price, rounded to the nearest ten cents, plus $0.50 per parcel. The seller pays it at the auditor's office."
+  },
+  {
+   "q": "Can I search Muskingum County deeds online?",
+   "a": "Yes, but the deed index starts in 1977. Older records are in the Historical Indexes tab on the recorder's site, which has its own training sheet."
+  },
+  {
+   "q": "Does the county offer a fraud alert for my property?",
+   "a": "Yes. The recorder runs a free service called Property Check, and the auditor will add your phone number to your parcels if you call (740) 455-7109 and choose option 1."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Muskingum County Recorder",
+   "url": "https://www.muskingumcountyoh.gov/Offices/Recorder/"
+  },
+  {
+   "title": "Muskingum County Auditor: Real Estate Transfers",
+   "url": "https://www.muskingumcountyauditor.org/real-estate-transfers"
+  },
+  {
+   "title": "Muskingum County Auditor: Frequently Asked Questions",
+   "url": "https://www.muskingumcountyauditor.org/frequently-asked-questions"
+  },
+  {
+   "title": "Ohio Revised Code 317.32",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"
+  },
+  {
+   "title": "Ohio Revised Code 319.202",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"
+  },
+  {
+   "title": "Ohio Revised Code 319.54",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
+  },
+  {
+   "title": "Ohio Revised Code 322.02",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-322.02"
+  },
+  {
+   "title": "Wikipedia: Muskingum County, Ohio",
+   "url": "https://en.wikipedia.org/wiki/Muskingum_County,_Ohio"
+  },
+  {
+   "title": "Census QuickFacts: Muskingum and Morrow Counties, Ohio",
+   "url": "https://www.census.gov/quickfacts/fact/table/muskingumcountyohio,morrowcountyohio/PST045224"
+  }
+ ]
 }

@@ -19,7 +19,11 @@
   },
   {
    "h2": "How do you find or print a Montgomery County deed?",
-   "html": "<p>Search the Recorder's online records and print for free. If you cannot print, the Copy Center charges $2.00 per page, and certification adds $1.00. The office does not run title searches, but the 5th floor Public Research Area has public computers for doing your own.</p><ul><li>Deeds, releases and liens are searchable by name on the county's online system.</li><li>To trace an older house, build the chain of owners from the grantee-grantor or tract index, then check the Auditor's tax lists for a jump in value that suggests new construction.</li><li>Veterans who recorded a DD214 can request a copy at no charge, and the Recorder issues a free Veteran ID card to those who record one.</li></ul><p>Searching by street address happens on the Auditor's site instead of the Recorder's.</p>"
+   "html": "<p>Print any document you find on the Recorder's online search at no charge. If you cannot print, the Copy Center charges $2.00 per page, and certification adds $1.00. The office does not run title searches, but the 5th floor Public Research Area has public computers for doing your own.</p><ul><li>Deeds, releases and liens are searchable by name on the county's online system.</li><li>To trace an older house, build the chain of owners from the grantee-grantor or tract index, then check the Auditor's tax lists for a jump in value that suggests new construction.</li><li>Veterans who recorded a DD214 can request a copy at no charge, and the Recorder issues a free Veteran ID card to those who record one.</li></ul><p>Searching by street address happens on the Auditor's site instead of the Recorder's.</p>"
+  },
+  {
+   "h2": "How do Montgomery County records help trace an older house?",
+   "html": "<p>The county's FAQ lays out a research route for anyone curious when a house was built. Start with the chain of ownership in the Recorder's deed records, using either the alphabetical grantee-grantor index or the tract index, which is organized by legal description. Both index types run from 1805 to the present, with deed books and microfilm for 1935 on and microfilm for 1805 through 1934.</p><ul><li>At the Records Center and Archives, the alphabetical indexes cover 1805 to the present, and tract index microfilm covers 1805 to 1934.</li><li>The Auditor's tax lists run 1803 to 1954 as indexes and 1955 to 1985 as original books.</li><li>A jump of more than 50% in one year's taxable value usually points to construction or improvements.</li></ul><p>The FAQ adds that taxable values were recorded at 35% of market value since 1973, and at 40 to 45% before that. The county says the research is the individual's job, though the archives answer questions at 937-225-6366.</p>"
   },
   {
    "h2": "What is Montgomery County like for a house seller?",
@@ -49,13 +53,37 @@
   }
  ],
  "sources": [
-  {"title": "Montgomery County Recorder FAQ", "url": "https://www.mcohio.org/m/faq?cat=45#question-312"},
-  {"title": "Montgomery County eRecording", "url": "https://www.mcohio.org/686/eRecording"},
-  {"title": "Montgomery County Conveyance Standards", "url": "https://mcohio.org/651/Conveyance-Standards"},
-  {"title": "Ohio Revised Code 317.32", "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"},
-  {"title": "Ohio Revised Code 319.54", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"},
-  {"title": "Ohio Revised Code 319.202", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"},
-  {"title": "Census QuickFacts: Montgomery, Miami and Morgan Counties, Ohio", "url": "https://www.census.gov/quickfacts/fact/table/montgomerycountyohio,miamicountyohio,morgancountyohio/PST045224"},
-  {"title": "Montgomery County, Ohio (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Montgomery_County,_Ohio"}
+  {
+   "title": "Montgomery County Recorder FAQ",
+   "url": "https://www.mcohio.org/m/faq?cat=45#question-312"
+  },
+  {
+   "title": "Montgomery County eRecording",
+   "url": "https://www.mcohio.org/686/eRecording"
+  },
+  {
+   "title": "Montgomery County Conveyance Standards",
+   "url": "https://mcohio.org/651/Conveyance-Standards"
+  },
+  {
+   "title": "Ohio Revised Code 317.32",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"
+  },
+  {
+   "title": "Ohio Revised Code 319.54",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
+  },
+  {
+   "title": "Ohio Revised Code 319.202",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"
+  },
+  {
+   "title": "Census QuickFacts: Montgomery, Miami and Morgan Counties, Ohio",
+   "url": "https://www.census.gov/quickfacts/fact/table/montgomerycountyohio,miamicountyohio,morgancountyohio/PST045224"
+  },
+  {
+   "title": "Montgomery County, Ohio (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Montgomery_County,_Ohio"
+  }
  ]
 }
