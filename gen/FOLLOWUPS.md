@@ -66,3 +66,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * sell-my-house-fast-gainesville-fl: rental ordinance described as 'being repealed' per city page (verify).
 * sell-my-house-fast-hialeah-fl: Amendment 3 figures (150k 2027, 250k 2028) from Miami-Dade appraiser page; Hialeah city pages unreachable.
 * sell-my-house-fast-homestead-fl and hialeah-fl, jacksonville-fl: Amendment 3 outcome (150k/250k) from Miami-Dade appraiser page. miramar-fl 7.1172 labelled proposed. north-lauderdale-fl rental fees look old.
+* sell-my-house-fast-riviera-beach-fl cites a historical society page (non-government, history only). FL state notes still print older $50,000 exemption; Amendment 3 (approved Nov 3 2026 per Volusia appraiser, effective Jan 1 2027) appears on many FL pages; add to fl.md / verify. sell-my-house-fast-plantation-fl uses 2018 demographics.
