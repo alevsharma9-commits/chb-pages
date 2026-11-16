@@ -11,7 +11,7 @@
   },
   {
    "h2": "What stamp tax applies to an Orange County deed?",
-   "html": "<p>The FAQ on the county site says the stamp is $1 for each $500, or fractional part of $500, of value conveyed. The fee table prints the same idea as $2 per thousand for deeds from August 1, 1991 on.</p><p>Older rates appear only for reading history: $1 per thousand from January 1, 1968 through July 31, 1991, and $1.10 per thousand earlier. The seller owes the tax at the counter before filing. For the exact stamp amount on your price, ask your closing attorney rather than guessing.</p>"
+   "html": "<p>The FAQ on the county site says the stamp is $1 per $500 of the value conveyed, counting any leftover fraction as a full $500. The fee table prints the same idea as $2 per thousand for deeds from August 1, 1991 on.</p><p>Older rates appear only for reading history: $1 per thousand from January 1, 1968 through July 31, 1991, and $1.10 per thousand earlier. The seller owes the tax at the counter before filing. For the exact stamp amount on your price, ask your closing attorney rather than guessing.</p>"
   },
   {
    "h2": "What will Orange County staff do, and what will they send you elsewhere for?",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "Which county gets the deed when a house sits near a county line?",
-   "html": "<p>The county where the land lies. Registration there fixes the deed's rank against rival claims, whatever city the buyer or lender calls home.</p><p>Orange County's rate codes include city entries for Durham and Mebane, a reminder that those towns reach into the county. If part of a parcel is in another county, ask the closing attorney which office takes the deed and the excise tax. A deed is not safe against later claims until the register of deeds has stamped it.</p>"
+   "html": "<p>Whichever county holds the land. Registration there fixes the deed's rank against rival claims, whatever city the buyer or lender calls home.</p><p>Orange County's rate codes include city entries for Durham and Mebane, a reminder that those towns reach into the county. If part of a parcel is in another county, ask the closing attorney which office takes the deed and the excise tax. A deed is not safe against later claims until the register of deeds has stamped it.</p>"
   },
   {
    "h2": "What else does the Orange County office file?",
@@ -31,11 +31,11 @@
   },
   {
    "h2": "What other counter services share the Orange County office?",
-   "html": "<p>The same Gateway Center office issues marriage licenses, certified vital records and notary oaths, and it runs a passport service. Those lines can mean a wait on a busy day, so schedule a deed filing for a time when you can wait.</p><p>A marriage license costs $60 per license. Applications are taken daily from 8 a.m. to 4 p.m. except on holidays, and card payments carry a 2.5% convenience fee with a $2 minimum. A passport execution fee is $35 and a passport photo is $17. Certified copies of births, deaths and marriages are $10 each. Military discharge copies carry no charge. Some of these services take only certain forms of payment, so read the payment list on the fee page before you go.</p>"
+   "html": "<p>The same Gateway Center office issues marriage licenses, certified vital records and notary oaths, and it runs a passport service. Those lines can mean a wait on a busy day, so schedule a deed filing for a time when you can wait.</p><p>A marriage license costs $60 per license. Applications are taken daily between eight and four except on holidays, and card payments carry a 2.5% convenience fee with a $2 minimum. A passport execution fee is $35 and a passport photo is $17. Certified copies of births, deaths and marriages are $10 each. Military discharge copies carry no charge. Some of these services take only certain forms of payment, so read the payment list on the fee page before you go.</p>"
   },
   {
-   "h2": "What do the numbers say about housing in Orange County?",
-   "html": "<p>Survey data from 2020 to 2024 gives Orange County a middle owner-occupied home value of $459,500, and owners occupy 63.8% of homes.</p><p>Median gross rent is $1,496 and typical monthly owner costs with a mortgage are $2,221. There are 57,342 households and 64,913 housing units. Nearly 62% of adults over 25 hold a bachelor's degree or better, and 12.9% of residents were born abroad. Builders took out 666 permits in 2025. A seller pricing a house here should lean on recent nearby sales rather than a county-wide median.</p>"
+   "h2": "How do Orange County housing figures read for a seller?",
+   "html": "<p>Survey data from 2020 to 2024 gives Orange County a middle home value of $459,500 among owners, and owners occupy 63.8% of homes.</p><p>Rent at the median is $1,496 and owners with a mortgage report monthly costs near $2,221. There are 57,342 households and 64,913 housing units. Close to 62% of adults past 25 have finished a bachelor's degree or more, and 12.9% of residents were born abroad. Builders took out 666 permits in 2025. A seller pricing a house here should lean on recent nearby sales rather than a county-wide median.</p>"
   },
   {
    "h2": "What should you bring to the Orange County Register of Deeds?",
@@ -45,7 +45,7 @@
  "faqs": [
   {
    "q": "What is the address of the Orange County NC Register of Deeds?",
-   "a": "228 S Churton Street, Suite 300, in the Gateway Center, Hillsborough, NC 27278. The county lists weekday hours of 8 a.m. to 5 p.m."
+   "a": "228 S Churton Street, Suite 300, in the Gateway Center, Hillsborough, NC 27278. The office is open weekdays until 5 p.m."
   },
   {
    "q": "What does recording a deed cost in Orange County?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "How much is the deed stamp tax in Orange County?",
-   "a": "The county prints $1 for each $500 of value, or part of $500, and shows $2 per thousand in its table. The seller pays it at the counter before filing."
+   "a": "The county prints $1 per $500 conveyed, with leftover fractions rounded up, and shows $2 per thousand in its table. The seller pays it at the counter before filing."
   },
   {
    "q": "Does the Orange County office run title searches?",
