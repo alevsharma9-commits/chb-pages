@@ -2,62 +2,58 @@
  "slug": "escambia-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which two offices sit behind an Escambia bill?",
-   "html": "<p>The appraiser sets values and the collector sends the invoice. The Property Appraiser keeps the roll for Escambia County, the City of Pensacola and the Town of Century, and its site labels assessed values and exemptions as the 2026 certified tax roll.</p><p>The Tax Collector's office gathers money for the District School Board, the Board of County Commissioners, Pensacola, Century, the Sheriff, the Downtown Improvement Board and the Northwest Florida Water Management District, plus several state agencies. It calls itself a fee officer that lives on the fees it earns, with a cash flow of $600 million. A bill can be looked up by name, address or account number, and the site offers paperless e-billing and posted tax and real estate reports.</p>"
+   "h2": "Who values and who bills",
+   "html": "<p>In Escambia the appraiser sets the value and the collector sends the invoice. The Property Appraiser maintains the roll for Escambia County, the City of Pensacola and the Town of Century, and its site labels assessed values and exemptions as the 2026 certified tax roll.</p><p>The Tax Collector gathers money for the District School Board, the Board of County Commissioners, Pensacola, Century, the Sheriff, the Downtown Improvement Board and the Northwest Florida Water Management District, plus several state agencies. You can look up a bill by name, address or account number, and the site offers paperless e-billing and tax reports.</p>"
   },
   {
-   "h2": "Which millage lines apply to a house in Pensacola, Century or the unincorporated county?",
-   "html": "<p>The Tax Collector prints a separate stack of levies for each part of the county, so the street address decides the total. One mill is a tenth of a cent per dollar of taxable value. The 2026 millage page lists these figures.</p><table><caption>2026 millage by area, as shown on the Escambia Tax Collector millage page</caption><thead><tr><th>Area</th><th>Lines in the stack</th><th>Total mills</th></tr></thead><tbody><tr><td>City of Pensacola</td><td>County 6.5710, schools 5.3540, city 4.2895, water district 0.0201, library 0.3590, children's trust 0.3661</td><td>16.9597</td></tr><tr><td>Town of Century</td><td>County, schools, town 0.9204, water district, library, children's trust</td><td>13.5906</td></tr><tr><td>Downtown Improvement area</td><td>Pensacola lines plus a 2.0000 downtown line</td><td>18.9597</td></tr><tr><td>Unincorporated county</td><td>County, schools, water district, Sheriff 0.6850, library, children's trust</td><td>13.3552</td></tr><tr><td>Pensacola Beach</td><td>County, schools, water district, library, children's trust</td><td>12.6702</td></tr></tbody></table><p>The school line splits into 2.2480 set by the local board and 3.1060 set by state law. The Sheriff line sits only in the unincorporated column, so a house outside city limits pays for that service through its own levy, while the Pensacola stack leaves it out.</p>"
+   "h2": "Millage by area",
+   "html": "<p>The street address decides your total, because the Tax Collector prints a separate stack of levies for each part of the county. One mill is a tenth of a cent per dollar of taxable value.</p><table><caption>2026 millage by area</caption><thead><tr><th>Area</th><th>Lines in the stack</th><th>Total mills</th></tr></thead><tbody><tr><td>City of Pensacola</td><td>County 6.5710, schools 5.3540, city 4.2895, water district 0.0201, library 0.3590, children's trust 0.3661</td><td>16.9597</td></tr><tr><td>Town of Century</td><td>County, schools, town 0.9204, water district, library, children's trust</td><td>13.5906</td></tr><tr><td>Downtown Improvement area</td><td>Pensacola lines plus a 2.0000 downtown line</td><td>18.9597</td></tr><tr><td>Unincorporated county</td><td>County, schools, water district, Sheriff 0.6850, library, children's trust</td><td>13.3552</td></tr><tr><td>Pensacola Beach</td><td>County, schools, water district, library, children's trust</td><td>12.6702</td></tr></tbody></table><p>The school line has two parts: 2.2480 set by the local board and 3.1060 set by state law. Only the unincorporated column carries a Sheriff line, so a house outside city limits pays for that service through its own levy, and the Pensacola stack leaves it out.</p>"
   },
   {
-   "h2": "What does the Escambia billing calendar look like?",
-   "html": "<p>Notices are mailed November 1 to the owner of record as of January 1. The early-payment discount steps down by a point each month, from 4 percent in November to 1 percent in February, and March carries the full amount.</p><ul><li>April 1: delinquent. Real estate takes a 3 percent penalty, tangible property 1.5 percent.</li><li>May 1: advertising costs start accruing.</li><li>A bill that never arrived does not excuse the balance. The office puts the burden on the owner to find the amount, including when mail went to an old address.</li></ul><p>Send a new mailing address to the Property Appraiser, since the roll lives there.</p>"
+   "h2": "Billing calendar and penalties",
+   "html": "<p>Notices go out November 1 to whoever owned the property on January 1. Paying early earns a discount that shrinks by a point each month, from 4 percent in November to 1 percent in February. March is full price.</p><ul><li>April 1: delinquent. Real estate takes a 3 percent penalty, tangible property 1.5 percent.</li><li>May 1: advertising costs start to accrue.</li><li>A bill that never arrived is no excuse. The owner must find out the amount, even when mail went to an old address.</li></ul><p>If you move, send the new mailing address to the Property Appraiser, because the roll lives there.</p>"
   },
   {
-   "h2": "Can Escambia owners pay in installments?",
-   "html": "<p>Yes, for owners with more than $100 of tax the prior year and no mortgage escrow. Applications open online January 1 and close April 30 for that cycle.</p><ul><li>First payment by June 30, with a 6 percent discount.</li><li>Second by September 30, with 4.5 percent off.</li><li>Third by December 31, with 3 percent off.</li><li>Fourth by March 31, with no discount.</li></ul><p>The first two payments each equal a quarter of the previous year's tax, and the last two split the actual remaining liability. Skip the June payment and the plan ends, so a regular November bill follows. Partial payments toward a current bill are also possible at the collector's discretion, but they need an application, earn no discount and cannot be made after March 31.</p><p>A separate Duplicate Tax Notice Request Program lets an owner name a relative or friend to get a courtesy copy of every bill. Mail the signed application to the Collections Department, P.O. Box 1312, Pensacola, FL 32591-1312.</p>"
+   "h2": "Installment plan",
+   "html": "<p>Owners who paid more than $100 of tax the prior year and have no mortgage escrow can split the bill. Applications open online January 1 and close April 30 for that cycle.</p><ul><li>First payment by June 30, with a 6 percent discount.</li><li>Second by September 30, with 4.5 percent off.</li><li>Third by December 31, with 3 percent off.</li><li>Fourth by March 31, with no discount.</li></ul><p>The first two payments each equal a quarter of last year's tax. The last two divide the actual balance. Miss the June payment and the plan ends, and a regular November bill follows. Partial payments toward a current bill can be accepted at the collector's discretion, but they need an application, earn no discount and cannot be made after March 31.</p><p>The Duplicate Tax Notice Request Program lets you name a relative or friend to get a courtesy copy of every bill. Mail the signed application to the Collections Department, P.O. Box 1312, Pensacola, FL 32591-1312.</p>"
   },
   {
-   "h2": "What do the Escambia tax roll numbers show?",
-   "html": "<p>The collector's statistics page carries one year only, tax year 2018, so treat these as a snapshot of the county's mix and not a current count.</p><ul><li>162,519 real estate accounts on the roll, 17,642 of them at $10 or less.</li><li>69,928 accounts with a homestead exemption, 7,557 with a veterans exemption and 4,469 with a senior homestead.</li><li>4,034 accounts on the installment plan, 2.7 percent of the roll.</li><li>68 percent of accounts paid in November.</li><li>8,563 tax certificates issued, with a combined value of $8,803,580.31.</li><li>Total billed $266,646,767.87, of which $22,850,535.06 was non-ad valorem.</li></ul><p>The page lists the largest single real estate bill that year as $685,479.01, a reminder that the roll includes large commercial parcels alongside ordinary homes.</p>"
+   "h2": "Flat charges on the bill",
+   "html": "<p>Some lines ignore your home's value, yet unpaid amounts can still lead to a certificate. Where the parcel sits decides which ones appear.</p><ul><li>Unincorporated Escambia: fire protection, rescue and advanced life support, street lighting, road paving, retention ponds and solid waste, all assessed by the county commissioners.</li><li>Inside Pensacola: stormwater, based on the impervious surface on the lot, assessed by the City Council.</li></ul><p>Title agents ask about these at closing, so read the bottom of the bill as well as the millage section.</p>"
   },
   {
-   "h2": "Which flat charges can appear on an Escambia bill?",
-   "html": "<p>These lines ignore your home's value, yet unpaid amounts can still bring a certificate. The parcel's location decides which ones show up.</p><ul><li>Unincorporated Escambia: fire protection, rescue and advanced life support, street lighting, road paving, retention ponds and solid waste, all assessed by the county commissioners.</li><li>Inside Pensacola: stormwater, based on the impervious surface on the lot, assessed by the City Council.</li></ul><p>Title agents ask about these lines at closing, so read the bottom of the bill as well as the millage section.</p>"
+   "h2": "Homestead exemption",
+   "html": "<p>A permanent residence can have up to $50,000 taken off its taxable value. File Form DR-501 with the Property Appraiser by March 1. After the first year, assessed value rises under a cap, shown at 2.7 percent on the state's 2026 chart.</p><p>A sale restarts the clock. The buyer is assessed at market value from the following January, while portability may move part of your cap to a replacement Florida home.</p>"
   },
   {
-   "h2": "What does homestead do for an Escambia owner?",
-   "html": "<p>Homestead takes up to $50,000 off taxable value of a permanent residence. File Form DR-501 with the Property Appraiser by March 1. After the first year the assessed value climbs under a cap, listed at 2.7 percent on the state's chart for 2026.</p><p>A sale restarts the clock: the buyer is assessed at market value from the following January, while portability may move part of the seller's cap to a replacement Florida home.</p>"
+   "h2": "Disputing a value",
+   "html": "<p>The process begins with the proposed-tax notice that arrives in August. A petition on Form DR-486 must reach the clerk within 25 days of the mailing. The same notice lists budget hearing dates for the school board, the county and Pensacola.</p><p>A denied exemption goes the other way, through the Value Adjustment Board, and you have 30 days from the mailing of the denial letter. Keep every notice.</p><p>Before you call or file, collect your August notice, a copy of your deed and anything that supports your number, such as a recent appraisal or photos of damage. Write down who you spoke with and when. A short, specific request tends to get a faster answer than a general complaint.</p>"
   },
   {
-   "h2": "Where does an Escambia value dispute start?",
-   "html": "<p>It starts with the August proposed-tax notice. Petitions on a DR-486 form reach the clerk within 25 days of that mailing, and the notice also lists the budget hearing dates for the school board, the county and Pensacola.</p><p>An exemption denial runs separately, through the Value Adjustment Board, with a 30 day window after the letter was mailed. Save each notice for your records.</p>"
+   "h2": "When a bill goes unpaid",
+   "html": "<p>After April 1 a certificate can be sold on the parcel, and a deed application may follow later. The Tax Collector warns that nonpayment can cost you the property.</p><ul><li>Investors bid the interest rate down in quarter-point steps.</li><li>A deed application must wait two years and carries a $75 fee.</li><li>For a homestead, the opening deed bid adds half the latest assessed figure.</li></ul><p>Closing with a certificate attached is routine. The title agent pays the redemption out of the seller's side of the statement.</p>"
   },
   {
-   "h2": "What follows an unpaid Escambia bill?",
-   "html": "<p>A certificate can be sold after April 1, and a deed application may come later. The Tax Collector's own warning is that nonpayment can cost the property.</p><ul><li>Investors bid down the interest rate in quarter-point steps.</li><li>Deed applications wait two years and carry a $75 fee.</li><li>For a homestead the opening deed bid adds half the latest assessed figure.</li></ul><p>Closing with a certificate attached is routine; the title agent pays the redemption from the seller's side.</p>"
+   "h2": "Other reductions",
+   "html": "<p>Seniors, disabled owners and military families each have their own forms. A service-connected disabled veteran aged 65 or more may receive a homestead discount matching the VA rating. A disabled former servicemember gets $5,000 off assessed value. Deferral requests go to the Tax Collector by March 31. Ask the appraiser which local senior options the county offers.</p>"
   },
   {
-   "h2": "Which other Escambia reductions need a separate filing?",
-   "html": "<p>Veterans, seniors and the disabled each have their own forms. A service-connected disabled veteran aged 65 or more may receive a homestead discount matching the VA rating, a disabled former servicemember gets $5,000 off assessed value, and deferral requests go to the Tax Collector by March 31. Ask the appraiser which local senior options the county offers.</p>"
-  },
-  {
-   "h2": "What should an Escambia seller confirm before closing?",
-   "html": "<p>Ask the Tax Collector's office for every account under your name, including a Business Tax Receipt if you rented the property or ran a business there. Deed stamps cost 70 cents for every hundred dollars of price at the clerk. If the lender escrows, find out what it paid and how fast the refund arrives. An inherited house may need clerk estate records before a title agent will insure.</p>"
+   "h2": "Selling with taxes owed",
+   "html": "<p>Ask the Tax Collector's office for every account under your name, including a Business Tax Receipt if you rented the property or ran a business there. Deed stamps are 70 cents for every hundred dollars of price, paid at the clerk. If your lender escrows, find out what it paid and how quickly any refund arrives. An inherited house may need clerk estate records before a title agent will insure it.</p><p>A plain order of events helps. Request the payoff first, then give it to the closing agent along with your ID and loan information. The agent pays the tax and any other liens from your proceeds and sends you a final statement. Compare that statement with the collector's figure before you sign, and keep a copy for your own records.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What do the 2026 millage lines add up to inside Pensacola?",
-   "a": "The Tax Collector's page lists 16.9597 mills for the City of Pensacola area, built from county, school, city, water district, library and children's trust lines. Unincorporated parcels show 13.3552."
+   "a": "The City of Pensacola area totals 16.9597 mills, built from county, school, city, water district, library and children's trust lines. Unincorporated parcels total 13.3552."
   },
   {
    "q": "Who qualifies for the Escambia installment plan?",
-   "a": "Owners with more than $100 in tax the year before and no escrow. The application closes April 30, and a missed June 30 first payment ends the plan."
+   "a": "Owners who paid more than $100 in tax the year before and have no escrow. The application closes April 30, and a missed June 30 first payment ends the plan."
   },
   {
    "q": "Does the Escambia homestead cap pass to a buyer?",
-   "a": "No. The buyer starts at market value the next January. Portability can carry some of the seller's cap to another Florida home."
+   "a": "No. The buyer starts at market value the next January. Portability can carry some of your cap to another Florida home."
   },
   {
    "q": "Can a relative get copies of my Escambia bill?",

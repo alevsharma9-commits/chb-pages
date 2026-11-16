@@ -2,66 +2,66 @@
  "slug": "flagler-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which offices run property tax in Flagler?",
-   "html": "<p>In Flagler the Property Appraiser sets value. The Tax Collector sends notices and takes payment. Millage is set by the levying bodies: county commissioners, the school board, city commissions and others.</p><p>The Tax Collector's website, flaglertax.gov, has pages for property taxes, tangible personal property tax, tourist development tax, business tax receipts and veteran benefits. For questions about a value, an exemption or a classification, contact the Flagler County Property Appraiser directly and ask for the current forms and filing dates. Deeds are recorded, and foreclosure and tax deed auctions are run, by the circuit court clerk.</p>"
+   "h2": "Who does what in Flagler County",
+   "html": "<p>Value is the Property Appraiser's job. Notices and payments belong to the Tax Collector. The rates come from whichever bodies levy on your parcel, among them the county commission, the school board and each city commission. If a deed needs recording or a parcel is headed to auction, that is the circuit court clerk.</p><p>At flaglertax.gov you will find pages for property taxes, tangible personal property, tourist development tax, business tax receipts and veteran benefits. Anything about a value, exemption or classification goes to the Flagler County Property Appraiser, who can give you current forms and filing dates.</p>"
   },
   {
-   "h2": "How are Flagler County property taxes billed?",
-   "html": "<p>Flagler bills after the year ends, and notices land around the start of November. The Tax Collector explains that the tax year runs January 1 to December 31 and payment begins November 1 of that year, and its homepage notes that real estate and tangible personal property bills are mailed October 31.</p><p>The process runs in a set order:</p><ul><li>The Property Appraiser establishes values and applies exemptions to complete the tax roll.</li><li>The certified roll goes to the Tax Collector.</li><li>The Tax Collector merges in non-ad valorem assessments, which are set amounts that do not depend on value and appear on the same notice.</li><li>The notice is mailed to the owner's last address on the roll.</li></ul><p>If a mortgage servicer pays from escrow, the servicer can request the bill under criteria set by the Tax Collector, and the owner gets a copy for information.</p>"
+   "h2": "How the bill is built and mailed",
+   "html": "<p>Taxes here are billed in arrears. The tax year is the calendar year, and the bills for real estate and for tangible personal property are mailed October 31, with payment opening November 1.</p><p>Behind that mailing is a fixed sequence:</p><ul><li>The appraiser finishes the roll by assigning values and applying exemptions.</li><li>That certified roll is handed to the Tax Collector.</li><li>Flat non-ad valorem assessments, which have nothing to do with value, are merged in and print on the same notice.</li><li>The finished notice is mailed to the last address the roll holds for you.</li></ul><p>If a servicer pays from escrow, it requests the bill under the Tax Collector's criteria, and your copy is only for your information.</p>"
   },
   {
-   "h2": "What else does the Flagler Tax Collector handle for property owners?",
-   "html": "<p>Beyond the real estate bill, the office runs several accounts that matter to landlords and sellers who own rental or business property. Its website lists these as separate service pages.</p><ul><li>Tangible personal property tax, which applies to furnishings and equipment used in a rental or business.</li><li>Tourist development tax, owed on short stays in a rental.</li><li>Business tax receipts for operating a business in the county.</li><li>Veteran benefits information.</li><li>Online payments for tax bills.</li></ul><p>An owner closing out a rental should ask the office to confirm that each of these accounts is current and closed, because a balance on one can surface long after the deed records. The same counter also handles driver license and vehicle registration work. Plates on passenger cars and similar vehicles expire at midnight on the owner's birthday, which is a useful reminder when you update your address after a move.</p><p>If you cannot visit in person, use the online payment page rather than a link from a text or email. The office has warned that fraudulent texts are circulating in the state agency's name.</p>"
+   "h2": "Rentals and other accounts",
+   "html": "<p>The real estate bill is not the only account the Tax Collector keeps. Landlords and anyone selling business property should know about these.</p><ul><li>Tangible personal property tax, charged on furnishings and equipment that a rental or business uses.</li><li>Tourist development tax, owed on short stays in a rental.</li><li>Business tax receipts for operating a business in the county.</li><li>Online payment of tax bills.</li></ul><p>Winding down a rental? Have the office confirm each account is paid and closed. A leftover balance can surface well after the deed is recorded.</p><p>Pay through the official online payment page, not a link that arrives by text or email, since fraudulent texts have circulated.</p>"
   },
   {
-   "h2": "What if a Flagler tax bill never arrives?",
-   "html": "<p>Nonreceipt is no defense. The Tax Collector cites section 197.122, which tells owners to learn the amount due and pay before delinquency, mailed bill or not.</p><p>This catches sellers who moved out, landlords whose tenants get the mail and heirs at a house with an outdated address. The Tax Collector's lobbies may close at 4 p.m. when crowded, and the office warns about text messages that falsely claim to come from the state motor vehicle agency, so check the account yourself on the official site.</p>"
+   "h2": "If a bill never arrives",
+   "html": "<p>A missing bill does not excuse the tax. Under section 197.122, which the Tax Collector cites, the owner is expected to learn what is due and pay before delinquency.</p><p>People who have moved out, landlords whose tenants pick up the mail and heirs at a house with an old address are the ones caught most often. Lobbies may close at 4 p.m. when crowded. If November ends with nothing in your mailbox, look up the account online and give the Property Appraiser a current mailing address.</p>"
   },
   {
-   "h2": "What dates drive the Flagler tax year?",
-   "html": "<p>Florida's statewide calendar runs here, and Flagler's offices carry out each step.</p><table><caption>Calendar steps from the Florida Department of Revenue taxpayer page</caption><thead><tr><th>Date</th><th>Step</th></tr></thead><tbody><tr><td>January 1</td><td>Assessment date</td></tr><tr><td>March 1</td><td>Exemption filings due</td></tr><tr><td>April 1</td><td>Tangible personal property returns</td></tr><tr><td>August</td><td>Proposed-tax notice mailed</td></tr><tr><td>25 days after the notice</td><td>Value petition window</td></tr><tr><td>September and October</td><td>Millage hearings</td></tr><tr><td>November</td><td>Bills and early-payment discount</td></tr><tr><td>April 1 following</td><td>Delinquent</td></tr></tbody></table><p>The early-payment discount falls month by month, from 4 percent for a November payment down to 1 percent in February.</p>"
+   "h2": "The Flagler tax year at a glance",
+   "html": "<p>Florida's statewide calendar governs here, and Flagler's offices carry out each step.</p><table><caption>Annual property tax dates</caption><thead><tr><th>Date</th><th>Step</th></tr></thead><tbody><tr><td>January 1</td><td>Property is assessed as of this day</td></tr><tr><td>March 1</td><td>Exemption filings due</td></tr><tr><td>April 1</td><td>Business and rental equipment returns</td></tr><tr><td>August</td><td>Proposed-tax notice mailed</td></tr><tr><td>25 days after the notice</td><td>Value petition window</td></tr><tr><td>September and October</td><td>Millage hearings</td></tr><tr><td>November</td><td>Bills and early-payment discount</td></tr><tr><td>April 1 following</td><td>Delinquent</td></tr></tbody></table><p>Pay in November and the discount is 4 percent; it drops a point each month until it reaches 1 percent in February.</p>"
   },
   {
-   "h2": "Can Flagler owners pay in installments or defer?",
-   "html": "<p>Both options exist, and the Tax Collector takes the requests. Installment requests are due on May 1 during the assessment year, and a deferral request on Form DR-570 is due March 31 after it.</p><p>Deferral lets a homestead owner postpone the part of the bill that exceeds a share of household income. The share is 5 percent for most owners and 3 percent for a permanent resident 65 or older. Partial payments before delinquency are accepted only if the Tax Collector chooses to take them. Ask how Flagler handles an installment plan before you plan around it, since the May deadline falls well before bills are mailed.</p>"
+   "h2": "Installments and deferral",
+   "html": "<p>You can ask for either one, and both requests go to the Tax Collector. For installments the date is May 1 of the assessment year. For deferral you file Form DR-570 by March 31 of the following year.</p><p>A homestead owner who defers puts off whatever part of the tax exceeds a slice of household income, 5 percent for most people and 3 percent for a permanent resident 65 or older. The Tax Collector may or may not take partial payments ahead of delinquency; that is its call. The May installment date falls long before any bill is mailed, so phone the office and learn how Flagler handles its plan before you build around it.</p>"
   },
   {
-   "h2": "Does my Flagler assessment cap follow the house to a buyer?",
-   "html": "<p>The new owner starts at full just value. The seller's capped assessment does not transfer, because a change of title resets the parcel the next January, with exceptions such as spousal transfers.</p><p>While a homestead is held, the yearly assessed increase stops at the lower of 3 percent or inflation. DOR's chart prints 2.7 percent for 2026. Sellers moving inside Florida can port part of that benefit to a new home if they claim it within three years. Both forms reach the Property Appraiser by that same March 1 deadline.</p>"
+   "h2": "Does the assessment cap follow the house?",
+   "html": "<p>No. Your buyer is assessed at full just value. Title changes reset a parcel the following January, spousal transfers being among the exceptions, so the capped figure you enjoyed does not pass on.</p><p>As long as you keep the homestead, assessed value can climb each year only by 3 percent or the rate of inflation, whichever is smaller; the 2026 figure on the state chart is 2.7 percent. Should you buy another Florida home, part of that savings can be ported if you claim it within three years. The homestead and portability forms both go to the Property Appraiser by March 1.</p>"
   },
   {
-   "h2": "Which veteran breaks can Flagler County owners ask about?",
-   "html": "<p>The Tax Collector's site has a veteran benefits page, and the Property Appraiser handles the exemptions themselves. Florida's list is short.</p><ul><li>A $5,000 cut in assessed value for a disabled ex-servicemember rated 10 percent or more.</li><li>A homestead discount tied to the VA rating for a veteran 65 or older with a permanent service-connected disability.</li><li>A deployment-based exemption on Form DR-501M.</li></ul><p>Ask the Property Appraiser what proof each one needs, and bring discharge or VA rating papers to that conversation.</p>"
+   "h2": "Veteran exemptions",
+   "html": "<p>The Tax Collector's site has a veteran benefits page, but the Property Appraiser handles the exemptions themselves. Florida's list is short.</p><ul><li>$5,000 off assessed value for a disabled former servicemember whose rating is 10 percent or more.</li><li>A homestead discount that follows the VA rating, for an owner 65 or older with a permanent service-connected disability.</li><li>An exemption based on deployment, claimed on Form DR-501M.</li></ul><p>Find out from the Property Appraiser what proof each one needs, and carry your discharge or VA rating papers when you go.</p>"
   },
   {
-   "h2": "What if a Flagler County parcel reaches a tax deed auction?",
-   "html": "<p>After a certificate has aged two years, its holder may ask for a deed, and the clerk then auctions the parcel publicly. The tax collector assembles the notice list: titleholder, mortgagees, lienholders, the assessed party and any recorded contract buyer.</p><ul><li>The top bidder leaves a nonrefundable deposit, set at the larger of 5 percent of the bid or $200.</li><li>The balance, stamps and recording costs are due inside 24 hours, excluding weekends and holidays.</li><li>An unsold parcel joins the county's lands-available list.</li></ul><p>An owner who sells ahead of the auction can redeem from proceeds. Ask the Flagler Tax Collector for a redemption figure, since interest makes it move.</p>"
+   "h2": "When a parcel reaches a tax deed auction",
+   "html": "<p>Two years after a certificate is issued, the holder can apply for a deed and the clerk puts the parcel up at public auction. The Tax Collector compiles whom to notify: the titleholder, mortgagees, lienholders, the party assessed and any recorded contract buyer.</p><ul><li>Whoever bids highest puts down a deposit that cannot be refunded, the greater of 5 percent of the bid or $200.</li><li>Everything else, including stamps and recording costs, is owed inside 24 hours, weekends and holidays excluded.</li><li>If nobody buys the parcel, it lands on the county's lands-available list.</li></ul><p>Selling ahead of the auction lets you redeem out of the proceeds. The redemption figure keeps growing with interest, so ask the Flagler Tax Collector for a current one.</p>"
   },
   {
-   "h2": "What happens to a Flagler tax bill at closing?",
-   "html": "<p>Closing agents confirm the account and pay what is owed from the seller's proceeds. Get the parcel balance from the Tax Collector's office. The clerk collects deed stamps at recording, at a statewide rate of 70 cents on each $100 of price.</p><p>A parcel with a certificate attached can still be sold. Settle the certificate at the table so the buyer gets a clean title.</p>"
+   "h2": "Taxes at closing",
+   "html": "<p>Whatever is owed on the parcel comes out of your sale proceeds, handled by the closing agent. Request the balance from the Tax Collector's office. Deed stamps are collected by the clerk when the deed is recorded, at 70 cents per $100 of price statewide.</p><p>A certificate on the parcel does not block a sale. It simply gets paid off at the table so the buyer ends up with clean title.</p><p>A few days before closing, give the title agent your ID, deed and latest tax bill. Then ask to see a draft settlement statement and make sure its tax line matches the figure the collector quoted for the payment date. When April 1 is close, a cash buyer who skips lender delays can be a real help.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When does Flagler County mail property tax bills?",
-   "a": "Around the start of November. The Tax Collector's site says real estate and tangible personal property bills are mailed October 31, and payment begins November 1."
+   "a": "Right around the start of November. The mailing date for real estate and tangible personal property bills is October 31, and you can start paying November 1."
   },
   {
    "q": "What if I never receive my Flagler County tax bill?",
-   "a": "You still owe the tax. Section 197.122 puts the duty on the owner to find out the amount and pay before the delinquency date, so contact the Tax Collector and the Property Appraiser."
+   "a": "Yes, the tax is still owed. Section 197.122 leaves it to the owner to find the amount and pay before delinquency, so call the Tax Collector and the Property Appraiser."
   },
   {
    "q": "Can I defer Flagler County property tax?",
-   "a": "A homestead owner can apply on Form DR-570 by March 31 after the assessment year. Deferral covers tax above 5 percent of household income, or 3 percent for a permanent resident 65 or older."
+   "a": "If you have a homestead, apply on Form DR-570 by March 31 after the assessment year. What can be deferred is the tax over 5 percent of household income, or over 3 percent if you are a permanent resident 65 or older."
   },
   {
    "q": "Does my homestead cap transfer to the buyer of my Flagler County house?",
-   "a": "No. A sale resets the property to just value the next January 1. You may be able to port part of your cap to a new Florida homestead."
+   "a": "No, a sale puts the property back at just value on the next January 1. Part of your cap may be portable to a new Florida homestead."
   },
   {
    "q": "Who sets Flagler County millage rates?",
-   "a": "The levying bodies do: county commissioners, the school board, city commissions and other authorities. The Property Appraiser sets value, not the rate."
+   "a": "Each levying body sets its own: the county, the school board, the cities and other authorities. The Property Appraiser deals only with value."
   }
  ],
  "sources": [

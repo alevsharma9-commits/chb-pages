@@ -2,36 +2,44 @@
  "slug": "stamford-ct-property-tax-guide",
  "sections": [
   {
-   "h2": "How large is Stamford, and why does that matter for property tax?",
-   "html": "<p>Stamford is Connecticut's largest city by area and, with 135,470 residents in the 2020 census, its second most populous after Bridgeport. It sits in Fairfield County on Long Island Sound, about 34 miles from New York City and 79 miles from Hartford.</p><p>The city covers 52.03 square miles, but only 37.62 of those are land. The other 14.41 square miles are water, which includes harbor, shoreline and several islands such as Cove Island and Grass Island. A city this big, with this much waterfront, bills a wide range of properties, from downtown to the shoreline to North Stamford above the Merritt Parkway.</p><p>That variety is why two Stamford houses of the same size can carry very different tax bills. Always look up the bill for your own parcel instead of using a citywide average.</p>"
+   "h2": "Stamford at a glance",
+   "html": "<p>Stamford is the largest city in Connecticut by area and the second most populous after Bridgeport, with 135,470 residents in 2020. It lies in Fairfield County on Long Island Sound, about 34 miles from New York City and 79 miles from Hartford. Of its 52.03 square miles, 37.62 are land and 14.41 are water, including harbor, shoreline and islands such as Cove Island and Grass Island.</p>\n<p>Interstate 95 and the Merritt Parkway cross the city. Stamford's Metro-North station on the New Haven Line is the second busiest on the system after Grand Central Terminal, and Amtrak's Acela and Northeast Regional trains stop there too. Glenbrook and Springdale have their own commuter stops on the New Canaan branch.</p>"
   },
   {
-   "h2": "Which neighborhoods make up Stamford?",
-   "html": "<p>Stamford has about 45 distinct neighborhoods and villages and two historic districts. The ones named most often include these.</p><ul><li>Downtown, the South End and Harbor Point, the waterfront redevelopment</li><li>Shippan, Cove and Waterside along the Sound</li><li>Glenbrook and Springdale, which also have their own commuter rail stops</li><li>Turn of River, Newfield, Belltown, Ridgeway and Westover</li><li>North Stamford, the largest and least dense section, above the Merritt Parkway</li></ul><p>Stamford borders Greenwich to the west, Darien to the east, New Canaan to the northeast and Pound Ridge, New York to the north. Because Greenwich and Darien are neighbors, sellers sometimes compare Stamford tax bills with theirs. The comparison is only useful if you check each town's current mill rate and assessment, which the city assessor and the neighboring towns publish.</p>"
+   "h2": "Neighborhoods and why bills differ",
+   "html": "<p>Roughly 45 neighborhoods and villages make up the city, along with two historic districts. These names are used most often.</p>\n<ul>\n<li>Downtown, the South End and Harbor Point, the waterfront redevelopment.</li>\n<li>Shippan, Cove and Waterside along the Sound.</li>\n<li>Glenbrook and Springdale.</li>\n<li>Turn of River, Newfield, Belltown, Ridgeway and Westover.</li>\n<li>North Stamford, the largest and least dense section, above the Merritt Parkway.</li>\n</ul>\n<p>With so much variety, two houses of the same size can carry quite different tax bills. Look up the bill for your own parcel rather than leaning on a citywide average. Greenwich and Darien are neighbors, so owners sometimes compare bills across the line, but a comparison only means something if you check each town's current mill rate and assessment.</p>"
   },
   {
-   "h2": "What drives Stamford's economy and its tax base?",
-   "html": "<p>Corporate headquarters and financial services anchor the Stamford economy. As of 2023 the city was home to eight Fortune 500 companies, and it holds what Wikipedia calls the largest financial district in the New York region outside New York City.</p><p>Companies with headquarters or major operations in the city include Charter Communications, Philip Morris International, Synchrony Financial, Indeed, United Rentals, Gartner, Pitney Bowes and Crane Co. NBC Sports Group has its world headquarters here, and the Harbor Point project in the South End is described as one of the largest private-sector development projects in the country.</p><p>A large commercial grand list helps spread the cost of city services, but it also means residential owners should not assume their bill follows a regional pattern. Real estate in Stamford is valued parcel by parcel by the Assessor's Office.</p>"
+   "h2": "Who values your house and who bills it?",
+   "html": "<p>Stamford's Assessor's Office values real estate parcel by parcel. The Office of the Tax Collector bills and collects the tax. Phone both offices for the current mill rate, the due dates for the installments and the deadline to appeal an assessment. A decision that depends on a date should rest on what those offices tell you, not on an old bill or a neighbor's memory.</p>\n<p>Assessment and appeals fall under Connecticut General Statutes chapter 203. Suppose the assessed value looks too high. Ask the Assessor's Office how a review works, and collect evidence: recent sales of comparable houses, photos of defects and any appraisal you already hold. An appeal that comes with documents is easier to evaluate.</p>"
   },
   {
-   "h2": "What does Stamford's climate mean for a house and its value?",
-   "html": "<p>Stamford has a temperate coastal climate with hot summers and cold, variable winters. It averages about 30 inches of snow a year, compared with 45 to 60 inches in inland areas such as Hartford.</p><p>Hurricanes and tropical storms have made landfall on the Connecticut coast in 1903, 1938, 1944, 1954, 1960, 1985 (Gloria) and 2012 (Sandy). For a waterfront or low-lying property, that history is the reason flood zone status, flood insurance and storm damage repair come up in nearly every sale conversation.</p><p>If storm or fire damage has changed your house, ask the Assessor's Office whether and how that can affect the assessment, and ask before the bill arrives.</p>"
+   "h2": "Storm damage and flood zones",
+   "html": "<p>Stamford's coastal setting brings hot summers, cold and variable winters and a history of hurricanes and tropical storms on the Connecticut shore, with landfalls in 1903, 1938, 1944, 1954, 1960, 1985 (Gloria) and 2012 (Sandy). For waterfront and low-lying houses, flood zone status, flood insurance and storm repair come up in almost every sale conversation.</p>\n<p>If a storm or fire has changed your house, ask the Assessor's Office whether and how that could affect the assessment, and ask before the bill arrives.</p>"
   },
   {
-   "h2": "What are the key facts about Stamford property taxes?",
-   "html": "<p>Stamford's tax offices and due dates are listed at the top of this page. The table below adds the state rules that apply to every Connecticut sale and tells you where to confirm the local numbers.</p><table><thead><tr><th>Topic</th><th>What to know</th></tr></thead><tbody><tr><td>State law on collection</td><td>Connecticut General Statutes chapter 204 covers local levy and collection, including installments, delinquent interest and tax sales</td></tr><tr><td>State law on assessment</td><td>Chapter 203 covers assessment and appeals</td></tr><tr><td>Stamford code on the conveyance form</td><td>135</td></tr><tr><td>Conveyance return</td><td>Form OP-236, filed when the deed is recorded, for prices of $2,000 or more</td></tr><tr><td>Current mill rate and appeal dates</td><td>Not confirmed from an opened Stamford page; ask the Assessor and Tax Collector</td></tr></tbody></table><p> Call the city offices before you make a decision that depends on them.</p>"
+   "h2": "State rules that apply to every Connecticut sale",
+   "html": "<table>\n<thead><tr><th>State rule</th><th>How it applies in Stamford</th></tr></thead>\n<tbody>\n<tr><td>Collection law</td><td>Connecticut General Statutes chapter 204 covers local levy and collection, including installments, delinquent interest and tax sales</td></tr>\n<tr><td>Assessment law</td><td>Chapter 203 covers assessment and appeals</td></tr>\n<tr><td>Conveyance form code</td><td>135 for Stamford</td></tr>\n<tr><td>Conveyance return</td><td>Form OP-236, filed when the deed is recorded, for prices of $2,000 or more</td></tr>\n</tbody>\n</table>\n<p>For the current mill rate and appeal dates, call the Assessor and the Tax Collector before you make a decision that depends on them.</p>"
   },
   {
-   "h2": "How does the state's conveyance tax work on a Stamford sale?",
-   "html": "<p>When a deed is recorded in Stamford, the seller must file a Connecticut Real Estate Conveyance Tax Return. The Department of Revenue Services says the grantor, the grantor's attorney or an authorized agent files Form OP-236, and the filing is due when the deed is recorded.</p><p>The tax applies when the consideration is $2,000 or more, and a sale using more than one deed is taxed on the total price. Participating town clerks accept electronic filing through myCTREC.</p><p>Two exemptions are worth knowing. A principal residence conveyed in lieu of foreclosure is exempt, and so is a principal residence sold for less than the mortgages plus the real estate taxes and municipal liens that rank ahead of them. A third exemption applies to certain sellers who were approved for state or local tax relief for the elderly or disabled, though the municipal portion still applies. Your closing attorney should confirm which code to enter.</p>"
+   "h2": "How does the conveyance tax work on a Stamford sale?",
+   "html": "<p>Recording a deed in Stamford obliges the seller to submit the Connecticut Real Estate Conveyance Tax Return. Form OP-236 comes from the grantor, the grantor's attorney or an authorized agent, and it is due at the moment of recording.</p>\n<p>Tax starts at a price of $2,000. If a sale needs several deeds, the combined price is what gets taxed. Town clerks in participating towns take the return online through myCTREC.</p>\n<p>Three exemptions deserve a look. Handing a principal residence to the lender in lieu of foreclosure is exempt. So is selling a principal residence for less than the mortgages plus the real estate taxes and municipal liens ahead of them. The third reaches certain sellers who were approved for state or local tax relief for the elderly or disabled, although the municipal portion still has to be paid. Which code goes on the return is a decision for your closing attorney.</p>"
   },
   {
-   "h2": "What happens to Stamford property tax when you sell?",
-   "html": "<p>Taxes owed on the property are paid from the sale proceeds at closing, and the title or closing attorney arranges the payoff. If the current installment is not yet due or has not been billed, the attorney normally prorates it between you and the buyer.</p><p>The state's collection chapter spells out what happens if taxes are left unpaid. It includes sections on interest on delinquent installments, demand and levy, and the method of selling real estate for taxes. It also says a tax becomes uncollectible after fifteen years. Another section allows a town to add municipal expenses to a tax bill when a property violates health, safety or housing codes, so ask whether any code enforcement charge is attached to your address.</p><p>Sellers who are behind on tax often also have a mortgage in arrears, a lien from a contractor or an estate that has not been settled. Putting all payoff figures on one sheet, with the Tax Collector's written payoff and the lender's, shows you what the sale can realistically net.</p>"
+   "h2": "Property tax when you sell",
+   "html": "<p>Whatever the property owes comes out of your proceeds at the closing table, and the title or closing attorney sets up the payoff. An installment that has not come due or been billed is usually split between you and the buyer for the days each of you owns the house.</p>\n<p>Behind on tax? Then a mortgage in arrears, a contractor's lien or an unsettled estate may be in the picture too. Write each payoff on a single sheet, the Tax Collector's written figure beside the lender's, and the realistic net from the sale becomes visible. A shortfall is far easier to handle before a contract is signed than after.</p>"
   },
   {
-   "h2": "How do Stamford's schools, transit and location affect value?",
-   "html": "<p>Stamford is on Metro-North's New Haven Line, and its station is the second busiest on the system after Grand Central Terminal. Amtrak's Acela and Northeast Regional trains also stop there. Interstate 95 and the Merritt Parkway run through the city.</p><p>Stamford Public Schools had 16,212 students in the 2022 to 2023 school year, across 13 elementary schools, five middle schools and three high schools: Westhill, Stamford High and the Academy of Information Technology and Engineering. UConn Stamford operates a campus downtown.</p><p>Glenbrook and Springdale have their own commuter rail stops on the New Canaan branch, which gives sellers there a transit point to mention.</p>"
+   "h2": "When taxes go unpaid",
+   "html": "<p>The state's collection chapter spells out what follows an unpaid bill, with sections on interest on delinquent installments, demand and levy, and the method of selling real estate for taxes. A tax becomes uncollectible after fifteen years. Another section lets a town add municipal expenses to a tax bill when a property violates health, safety or housing codes, so ask whether a code enforcement charge is attached to your address.</p>\n<p>Even a balance swollen by interest can be cleared at closing. Ask the Tax Collector for a written payoff dated near the closing day so the figure is current, and keep that letter with your records.</p>"
+  },
+  {
+   "h2": "Taxes and a cash sale",
+   "html": "<p>A buyer who pays cash does not change what the city is owed. The same payoff, proration and conveyance return apply, and the attorney handles them the same way. The difference is timing: with no lender review in the middle, the closing can land soon after title work is finished, so get your written payoff figures early.</p>\n<p>It also means a balance you were hoping to sort out later has to be dealt with by closing day. If you are unsure what you owe, start with a call to the Tax Collector, and bring any notices you have received to your attorney.</p>"
+  },
+  {
+   "h2": "A step-by-step plan for a sale",
+   "html": "<ol>\n<li>Phone both city offices and get your assessment, any open balance and the date of the next installment.</li>\n<li>If a mortgage exists, request a payoff statement from the lender.</li>\n<li>Give your attorney the deed, the tax bills and any lien notices.</li>\n<li>Let the attorney choose any exemption code for the conveyance return.</li>\n<li>At closing, check that each payoff on the settlement statement matches the written figures.</li>\n</ol>\n<p>File the tax receipts and the final settlement statement together, because you may need them at tax time.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +53,7 @@
   },
   {
    "q": "What is the Stamford town code on the conveyance tax form?",
-   "a": "The Department of Revenue Services lists 135 as the Stamford code on Form OP-236."
+   "a": "The state lists 135 as the Stamford code on Form OP-236."
   },
   {
    "q": "Does Connecticut tax the transfer of a house?",
@@ -54,10 +62,6 @@
   {
    "q": "Is a house sold for less than the debt exempt from the state conveyance tax?",
    "a": "A principal residence is exempt when the price is not enough to pay the mortgages plus the real estate taxes and municipal liens that have priority. The seller claims the exemption on the return."
-  },
-  {
-   "q": "How big is Stamford?",
-   "a": "The city covers 52.03 square miles, of which 37.62 are land, and had 135,470 residents in the 2020 census. It is Connecticut's largest city by area."
   }
  ],
  "sources": [
