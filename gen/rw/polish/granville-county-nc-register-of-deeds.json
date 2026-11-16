@@ -11,11 +11,11 @@
   },
   {
    "h2": "Fees when a deed is filed",
-   "html": "<p>Two charges show up on most sales. One is the recording fee, identical statewide under G.S. 161-10. The other is the seller's excise tax.</p><table><caption>Granville County recording charges</caption><thead><tr><th>Document</th><th>Recording fee</th></tr></thead><tbody><tr><td>General instrument</td><td>$26.00 for pages 1 to 15, plus $4.00 per page after</td></tr><tr><td>Mortgage or deed of trust</td><td>$64.00 for pages 1 to 35, plus $4.00 per page after</td></tr><tr><td>Cancellation of a deed of trust</td><td>No charge</td></tr><tr><td>Excise tax, paid by seller</td><td>$1.00 per $500 of value, remainder rounded up</td></tr></tbody></table><p>The transferor owes the tax under G.S. 105-228.30, and it must be paid before the deed is recorded. Half goes to the county. A tract lying in several counties pays in whichever holds the most value. Since the amount comes from the price stated in the deed, check that the deed matches your actual contract before signing.</p>"
+   "html": "<p>Most sales involve two charges. The recording fee is set by G.S. 161-10 and does not vary by county. The excise tax is the seller's.</p><table><caption>Granville County recording charges</caption><thead><tr><th>Document</th><th>Recording fee</th></tr></thead><tbody><tr><td>General instrument</td><td>$26.00 for pages 1 to 15, plus $4.00 per page after</td></tr><tr><td>Mortgage or deed of trust</td><td>$64.00 for pages 1 to 35, plus $4.00 per page after</td></tr><tr><td>Cancellation of a deed of trust</td><td>No charge</td></tr><tr><td>Excise tax, paid by seller</td><td>$1.00 per $500 of value, remainder rounded up</td></tr></tbody></table><p>Under G.S. 105-228.30 the transferor owes the tax, payable ahead of recording, and half goes to the county. For a tract that crosses county lines, the county with the largest share of value collects. The amount is computed from the price written in the deed, so compare the deed to your real contract before you sign.</p>"
   },
   {
    "h2": "Why record a deed promptly",
-   "html": "<p>A deed that never gets recorded cannot be enforced against later buyers or lien creditors. G.S. 47-18 hands priority to whichever instrument is registered first, measured by time, where the land is located.</p><p>Leases longer than three years, options and rights of first refusal follow the same rule. If you are carrying the financing yourself, Chapter 47H applies: the contract or a Memorandum of a Contract for Deed should be recorded inside five business days, and the buyer may cancel until midnight of the third business day.</p>"
+   "html": "<p>Leave a deed unrecorded and it loses to later buyers and lien creditors. Priority goes to the first instrument registered, by clock time, in the land's county (G.S. 47-18).</p><p>Leases longer than three years, options and rights of first refusal follow the same rule. If you are carrying the financing yourself, Chapter 47H applies: the contract or a Memorandum of a Contract for Deed should be recorded inside five business days, and the buyer may cancel until midnight of the third business day.</p>"
   },
   {
    "h2": "Property fraud alerts",
@@ -39,13 +39,13 @@
   },
   {
    "h2": "Steps for a typical seller",
-   "html": "<p>Here is a workable order for a seller. First, look up your parcel online and ask the tax office for a written balance. Second, gather payoff letters and confirm that old loans were cancelled of record. Third, have your attorney prepare the deed, because the register's staff cannot. Fourth, on closing day, the seller's excise tax is paid before filing, and the deed is recorded in Oxford. Last, keep copies of the recorded deed and the tax receipt.</p><p>A cash sale skips the lender's paperwork and appraisal. It does not skip the recording or the tax, and the buyer's attorney will still search the same records you searched. If something surfaces, such as an old uncancelled deed of trust, fixing it early keeps the closing date from slipping.</p>"
+   "html": "<p>A sensible order of work for a seller: look up your parcel online and request a written tax balance; collect payoff letters and confirm old loans were cancelled of record; have your attorney draft the deed, since register staff cannot; pay the excise tax at closing so the deed can be filed in Oxford; and keep copies of the recorded deed and your tax receipt.</p><p>A cash sale skips the lender's paperwork and appraisal. It does not skip the recording or the tax, and the buyer's attorney will still search the same records you searched. If something surfaces, such as an old uncancelled deed of trust, fixing it early keeps the closing date from slipping.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What will a standard deed cost to file?",
-   "a": "Filing runs $26.00 for the first 15 pages and $4.00 per page beyond that under G.S. 161-10. On top of that, the seller pays excise tax of $1.00 per $500 of value."
+   "a": "Under G.S. 161-10, recording is $26.00 for up to 15 pages, then $4.00 per additional page. The seller also pays excise tax at $1.00 per $500 of value."
   },
   {
    "q": "When can I come in?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Is a loan payoff cancellation free to record?",
-   "a": "Yes. The state fee schedule has no charge for a satisfaction or cancellation of a deed of trust or mortgage."
+   "a": "Yes. Under the state fee schedule, recording a satisfaction or cancellation of a deed of trust or mortgage costs nothing."
   },
   {
    "q": "How far back do Granville deeds go?",
