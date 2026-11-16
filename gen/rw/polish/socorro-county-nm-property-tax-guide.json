@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Socorro County at a glance",
-   "html": "<p>Socorro County sprawls across central New Mexico, and the city of Socorro is the seat. Roughly 6,649 square miles hold 16,595 people (2020 count), 8,707 of them in the city. Magdalena, San Antonio, Lemitar, Polvadera and Veguita are the other named communities.</p>\n<p>Property type varies more here than in a compact suburb. You might own a town lot, a small river-valley place or a big tract far from pavement, and the assessor prices each by what it is and how it is used. Remote land usually sits on the market longer than a house in town, so a seller with a firm deadline should think about that early.</p>"
+   "html": "<p>Socorro County sprawls across central New Mexico, and the city of Socorro is the seat. Roughly 6,649 square miles hold 16,595 people (2020 count), 8,707 of them in the city. Magdalena, San Antonio, Lemitar, Polvadera and Veguita are the other named communities.</p>\n<p>Property type varies a great deal. You might own a town lot, a small river-valley place or a big tract far from pavement, and the assessor prices each by what it is and how it is used. Distant land tends to linger on the market, which is worth weighing if your deadline is firm.</p>"
   },
   {
    "h2": "Offices to know",
@@ -26,18 +26,22 @@
    "html": "<p>Listing, selling on your own and taking a cash offer share the same backbone. Start by collecting recent tax bills, payment receipts and any delinquency letters. Next, ask the Treasurer or the title company for today's balance. Then settle on a closing date, and have the title company recheck the balance right before you sign. At the table, taxes, a mortgage and other liens come out of the sale money and you keep what is left.</p>\n<p>Inherited property needs one extra step. The Assessor's records track recorded paperwork, so a deed and a death certificate must be recorded with the county clerk before the heir appears on the tax roll. Get that done early, because title has to be clean before any sale can close.</p>"
   },
   {
+   "h2": "A year of Socorro County tax dates",
+   "html": "<p>The calendar is short, which makes it easy to track. Notices of Valuation arrive by April 1. The second-half payment falls due April 10. In June, delinquency notices go to accounts that are 30 or more days late. Bills are mailed November 1, and the first half is due November 10. Sellers should note them, because a closing in spring or late fall sits near a payment date and the title company has to divide that bill between you and the buyer.</p>\n<p>If a closing straddles a payment date, find out in advance who pays that half.</p>"
+  },
+  {
    "h2": "Choosing how to sell",
-   "html": "<p>An owner stuck with a tax problem or a property they no longer want can pick from three paths.</p>\n<ul><li><strong>Agent listing:</strong> suits a house in solid shape when you can wait through showings.</li><li><strong>Direct sale:</strong> saves the commission, though you handle the paperwork yourself.</li><li><strong>Cash buyer:</strong> buys as-is, which helps with back taxes or a remote location. Insist on seeing the offer in writing.</li></ul>\n<p>Cash removes the lender appraisal, so you and the buyer pick the closing date together. Cash Home Buyers names no price before looking at the property, and saying no costs you nothing. Whatever route you take, check each date and amount with the Assessor and Treasurer first.</p>"
+   "html": "<p>Three routes are open to someone holding a parcel with tax trouble or a property they would rather not keep.</p>\n<ul><li><strong>Agent listing:</strong> fits a sound house and a seller who can sit through showings.</li><li><strong>Selling it yourself:</strong> no commission, but every form is yours to fill out.</li><li><strong>Cash buyer:</strong> takes the place in present condition, a plus for owners behind on tax or holding land far from town. Get the figure in writing.</li></ul>\n<p>With no lender involved there is no appraisal hurdle, so the closing date is negotiated between the two of you. Cash Home Buyers quotes nothing until it has seen the property, and you can walk away at no cost. Before relying on any date or amount here, confirm it with the Assessor or Treasurer.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the county seat of Socorro County?",
-   "a": "The city of Socorro. It counted 8,707 people in 2020, against 16,595 for the whole county."
+   "a": "Socorro, the city. Its 2020 population was 8,707, while the full county reached 16,595."
   },
   {
    "q": "When are Socorro County property taxes due?",
-   "a": "Half is due November 10 (pay by December 10 to avoid charges) and half April 10 (pay by May 10). Bills are mailed on November 1."
+   "a": "One half falls due November 10 with charges starting after December 10. The other half falls due April 10 with charges after May 10. Mailing day is November 1."
   },
   {
    "q": "How do I protest my Socorro County property value?",
@@ -45,11 +49,11 @@
   },
   {
    "q": "What happens if I do not pay Socorro County property tax?",
-   "a": "A June delinquency notice goes out. Two years of unpaid real property tax, penalty and interest opens the door to a state public auction."
+   "a": "A delinquency notice arrives in June. After two unpaid years of tax, penalty and interest on real property, a state auction becomes possible."
   },
   {
    "q": "Can I sell a house in Socorro County that has back taxes?",
-   "a": "Yes. The title company finds the balance and pays it from your proceeds at closing, and a cash buyer can take care of the same step."
+   "a": "Yes. Closing pays off the open balance out of what you receive, and your title company or a cash buyer will handle the lookup."
   }
  ],
  "sources": [
