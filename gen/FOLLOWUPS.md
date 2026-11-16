@@ -19,3 +19,4 @@
 - michigan-estate-tax: official page unopened; verify. michigan-tax-deed-and-tax-lien-sales covers forfeiture/foreclosure only.
 - MI pages with self-computed transfer tax examples (b0581 houghton/huron/ingham register pages, b0602 hamtramck/holland/jackson/kalamazoo): verify against MCL 207.504/207.525 or strip dollar examples.
 - Danville IL (sell-my-house-fast-danville-il) vacant-building rules from 2011 ordinance; Normal IL rental code 2016 PDF; recheck.
+- Shared /tmp scratch collisions: agents overwrote each other's gen scripts; holmes/huron/crawford/columbiana OH recorder pages may have been regenerated from another agent's script. Final QA: rerun overlap.py + _count.py on every merged slug and diff vs sources.

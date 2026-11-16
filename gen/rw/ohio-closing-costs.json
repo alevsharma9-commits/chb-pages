@@ -1,0 +1,72 @@
+{
+"slug": "ohio-closing-costs",
+"sections": [
+{
+"h2": "What closing costs does an Ohio seller pay?",
+"html": "<p>An Ohio seller's costs are driven by a few statutory charges plus whatever the purchase contract assigns. The statutory ones are the county auditor's conveyance fee, a possible county transfer tax, a small per-parcel transfer fee and, on paper filings, any recording charge the contract puts on the seller. The rest comes from the contract: payoff of your mortgage and prorations for taxes and similar items.</p>\n<p>Ohio law is specific about only some of these. Everything in the table below comes from the Revised Code, so use it as a checklist of the charges the legislature wrote down, and then ask the title agent for the line items on your own closing statement.</p>\n<table>\n<caption>Ohio charges set by statute that touch a home sale</caption>\n<thead><tr><th>Charge</th><th>Rate as printed</th><th>Section</th></tr></thead>\n<tbody>\n<tr><td>Conveyance fee, paid to the county auditor</td><td>$1 or ten cents per $100 or fraction, whichever is greater</td><td>319.54(G)(3)</td></tr>\n<tr><td>Optional county real property transfer tax</td><td>Up to thirty cents per $100</td><td>322.02(A)</td></tr>\n<tr><td>Auditor's entry of a land transfer</td><td>Fifty cents per transfer</td><td>319.54(G)(2)</td></tr>\n<tr><td>Recording the first two pages of an instrument</td><td>$17 base plus $17 housing trust fund</td><td>317.32(A)</td></tr>\n<tr><td>Each added page</td><td>$4 base plus $4 housing trust fund</td><td>317.32(A)</td></tr>\n<tr><td>Optional document preservation surcharge</td><td>Up to $5 per instrument</td><td>317.32(A)</td></tr>\n</tbody>\n</table>"
+},
+{
+"h2": "Who pays the Ohio conveyance fee?",
+"html": "<p>The grantor, which means the seller. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">Section 319.202</a> says the grantor pays the fee under 319.54(G)(3) and any transfer tax levied under Chapter 322 at the time the deed is delivered. The deed goes to the county auditor before it goes to the recorder.</p>\n<p>The fee is measured against the \"value\" of the property, defined in that section as the full consideration paid or to be paid, including the amount of any mortgage or vendor's lien. For a gift, value means the open-market price between a willing buyer and a willing seller. The law also bars anyone from willfully falsifying the stated value.</p>"
+},
+{
+"h2": "Do Ohio counties charge different conveyance rates?",
+"html": "<p>Yes. State law fixes the floor, and commissioners may add a tax of up to thirty cents per hundred dollars under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-322.02\">section 322.02</a>. To adopt it, the board must hold two public hearings and publish notice, and the resolution is generally open to a referendum.</p>\n<p>Two counties show how the printed figure is expressed. The Morrow County Auditor's page lists $4.00 per thousand for both real estate and manufactured homes. The Muskingum County Auditor's page prints $4.00 per thousand too, calculated by multiplying the sale price by 0.004 and rounding to the nearest ten cents, along with a $0.50 per parcel transfer fee. Other counties publish different numbers, so open your own county auditor's real estate transfer page, or phone the office, before you estimate proceeds.</p>"
+},
+{
+"h2": "Which Ohio transfers are exempt from the conveyance fee?",
+"html": "<p>The exemptions in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">section 319.54(G)(3)</a> matter most to families and estates. Among them:</p>\n<ul>\n<li>A deed whose sole purpose is to confirm or correct one already recorded.</li>\n<li>A gift in trust or otherwise between spouses, or from a parent to a child or the child's spouse.</li>\n<li>A transfer among heirs at law or devisees of a common decedent when no money is paid.</li>\n<li>A deed to the trustee of a trust whose maker reserved an unlimited power to revoke.</li>\n<li>A transfer to or from a person where no money or other valuable consideration is paid and the deal is not a gift.</li>\n<li>A transfer by court order, as long as it is not the result of a sale made under that order.</li>\n<li>An interest worth $100 or less.</li>\n</ul>\n<p>When a transfer is exempt, the statement of value need only give the reason for the exemption.</p>"
+},
+{
+"h2": "How much does recording cost in Ohio?",
+"html": "<p>The recorder's charges come from <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">section 317.32</a> and are the same set of base and housing trust fund amounts in every county. The statute counts the caption page and any partial page, measured at eight and one-half by fourteen inches, so a deed with exhibits costs more than a short one.</p>\n<p>The statute also says fees are due when the instrument is presented, apart from electronic filings, which may be settled afterward by electronic funds transfer or a similar method. It does not say which party to a sale bears the deed's recording cost. Look at your purchase contract, or ask the title agent, to see who is assigned that line.</p>"
+},
+{
+"h2": "How are property taxes handled at an Ohio closing?",
+"html": "<p>Ohio real estate taxes are billed in two installments, and the Revised Code's default due dates in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.12\">section 323.12</a> are December 31 and June 20. Counties set their own closing dates, which can differ.</p>\n<p>On a sale, the local treasurer's guidance applies. The Muskingum County Treasurer states that the owner of record receives the bill and that taxes \"should be prorated at closing,\" with the seller crediting the buyer for the prorated share on the closing statement. Other treasurers handle the same process similarly, but a title agent computes the figure.</p>\n<p>The deed's statement of value also surfaces two items. If the home received a tax reduction under section 323.152, the statement must address it. If the land was in the Current Agricultural Use Valuation program, a recoupment charge under section 5713.34 may apply when it stops qualifying.</p>"
+},
+{
+"h2": "What happens to the seller's mortgage payoff at closing?",
+"html": "<p>The payoff is taken from your proceeds and paid to the lender. The lender then owes a duty under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5301.36\">section 5301.36</a>: record a release of the mortgage within ninety days of satisfaction. The statute lets the lender recover the recording fee from the borrower by contract.</p>\n<p>If a release is not recorded, the owner can send a written notice, and the lender then has fifteen days before damages of $100 per day begin, capped at $5,000. A mortgagor may also recover $250 in damages for a late release. Check the county recorder's index after closing to confirm it posted.</p>"
+},
+{
+"h2": "What disclosures does an Ohio seller owe the buyer?",
+"html": "<p>The seller of a one-to-four unit residential property must complete the state's property disclosure form and deliver a signed copy to the buyer, under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5302.30\">section 5302.30</a>. The form covers water supply, sewer, structure, hazardous materials and known defects.</p>\n<p>A buyer who receives the form after signing the contract can rescind within three business days, and no later than the earlier of thirty days after acceptance or closing. Exceptions include court-ordered transfers, estate fiduciary transfers, and a seller who inherited the home and has not lived there in the past year. If a buyer is borrowing, the Consumer Financial Protection Bureau explains that the lender must provide a Closing Disclosure three business days before closing, and its seller-side lines cover credits and prorations.</p>"
+}
+],
+"faqs": [
+{
+"q": "What is the Ohio conveyance fee?",
+"a": "It is $1 or ten cents per hundred dollars of value, whichever is greater, under Revised Code 319.54(G)(3). A county may add up to thirty cents per hundred more, and the seller pays both."
+},
+{
+"q": "Does Ohio have a state transfer tax?",
+"a": "Ohio's charge is collected by the county auditor, not as a single flat state rate. The statutory fee has a floor, and counties may levy an optional tax with a ceiling of thirty cents per hundred dollars."
+},
+{
+"q": "Who pays recording fees on an Ohio sale?",
+"a": "The statute sets the amount but does not assign it. The purchase contract decides, so check the settlement statement or ask the title agent which side carries the deed's recording fee."
+},
+{
+"q": "How soon must a lender record a mortgage release in Ohio?",
+"a": "Within ninety days after the mortgage is satisfied. If it is late, the owner can give written notice, and the lender then has fifteen days to record before daily damages start."
+},
+{
+"q": "Are inherited-house sales exempt from the Ohio disclosure form?",
+"a": "Sometimes. The property disclosure statute exempts a seller who got the property by inheritance and has not lived in it within the past year, as well as transfers by estate fiduciaries."
+}
+],
+"sources": [
+{"title": "Ohio Revised Code 319.54", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"},
+{"title": "Ohio Revised Code 319.202", "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"},
+{"title": "Ohio Revised Code 322.02", "url": "https://codes.ohio.gov/ohio-revised-code/section-322.02"},
+{"title": "Ohio Revised Code 317.32", "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"},
+{"title": "Ohio Revised Code 323.12", "url": "https://codes.ohio.gov/ohio-revised-code/section-323.12"},
+{"title": "Ohio Revised Code 5301.36", "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.36"},
+{"title": "Ohio Revised Code 5302.30", "url": "https://codes.ohio.gov/ohio-revised-code/section-5302.30"},
+{"title": "Morrow County Auditor: Conveyance Fee", "url": "https://auditor.co.morrow.oh.us/Posts?category=Conveyance%20Fee"},
+{"title": "Muskingum County Auditor: Real Estate Transfers", "url": "https://www.muskingumcountyauditor.org/real-estate-transfers"},
+{"title": "Muskingum County Treasurer: FAQ", "url": "https://muskingumcountytreasurer.org/faq"},
+{"title": "CFPB: Closing Disclosure Explainer", "url": "https://www.consumerfinance.gov/owning-a-home/closing-disclosure/"}
+]
+}
