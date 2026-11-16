@@ -18,3 +18,4 @@
 - PRIORITY: NJ pages with self-computed realty transfer fee examples may be wrong (agents assumed marginal brackets; one example $3,695 on $450k does not match my own marginal check). Before final reset, verify against the Division of Taxation RTF table or strip the dollar examples: new-jersey-transfer-tax, new-jersey-closing-costs, sell-my-house-fast-*-nj pages from b0539 on (grep 'transfer fee').
 - michigan-estate-tax: official page unopened; verify. michigan-tax-deed-and-tax-lien-sales covers forfeiture/foreclosure only.
 - MI pages with self-computed transfer tax examples (b0581 houghton/huron/ingham register pages, b0602 hamtramck/holland/jackson/kalamazoo): verify against MCL 207.504/207.525 or strip dollar examples.
+- Danville IL (sell-my-house-fast-danville-il) vacant-building rules from 2011 ordinance; Normal IL rental code 2016 PDF; recheck.
