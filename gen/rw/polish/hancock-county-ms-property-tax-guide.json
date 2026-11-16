@@ -3,27 +3,27 @@
  "sections": [
   {
    "h2": "Tax office, Supervisors and Chancery Clerk",
-   "html": "<p>One office does both tax jobs in Hancock County, and the County Administrator holds the Tax Assessor and Collector role too. It operates from 854 Highway 90, Bay St. Louis, phone (228) 466-5791. A Tax Assessor page on the county site links to tax and fee details and a homestead exemption page.</p><ul><li>Board of Supervisors: 854 Highway 90, Suite A, Bay St. Louis, phone (228) 467-0172.</li><li>Chancery Clerk and land records: 854 Highway 90, Suite B, phone (228) 467-5404.</li><li>Appeals of an assessment go to the Board of Supervisors, with the Chancery Clerk as the contact.</li></ul><p>Call the office before you pay or mail a check, and confirm hours and payment methods.</p>"
+   "html": "<p>One office does both tax jobs in Hancock County, and the County Administrator holds the Tax Assessor and Collector role too. It operates from 854 Highway 90, Bay St. Louis, phone (228) 466-5791. A Tax Assessor page on the county site links to tax and fee details and a homestead exemption page.</p><ul><li>Board of Supervisors: 854 Highway 90, Suite A, Bay St. Louis, phone (228) 467-0172.</li><li>Chancery Clerk and land records: 854 Highway 90, Suite B, phone (228) 467-5404.</li><li>Assessment appeals are heard by the Board of Supervisors, and the Chancery Clerk is who you call.</li></ul><p>Phone ahead before paying or mailing a check, and ask about hours and accepted payment types.</p>"
   },
   {
    "h2": "Tax rates and property classes",
-   "html": "<p>Five constitutional classes sort Mississippi property, and each county follows them. The tax is true value, times the class ratio, times millage. Levies come separately from the county, each city and the school district, so a Diamondhead house and a house in unincorporated Kiln can carry different totals.</p><table><caption>Mississippi property classes and ratios</caption><thead><tr><th>Class</th><th>Property</th><th>Ratio</th></tr></thead><tbody><tr><td>I</td><td>Owner-occupied single-family home</td><td>10%</td></tr><tr><td>II</td><td>Other real property</td><td>15%</td></tr><tr><td>III</td><td>Personal property</td><td>15%</td></tr><tr><td>IV</td><td>Public utilities</td><td>30%</td></tr><tr><td>V</td><td>Motor vehicles</td><td>30%</td></tr></tbody></table><p>For an official millage number, the Department of Revenue property tax data page lists combined county and city rates for 2012 through 2025. By law the assessor must revalue real property every four years at minimum, and there is no requirement to go inside your house.</p>"
+   "html": "<p>Five constitutional classes sort Mississippi property, and each county follows them. The tax is true value, times the class ratio, times millage. Levies come separately from the county, each city and the school district, so a Diamondhead house and a house in unincorporated Kiln can carry different totals.</p><table><caption>Mississippi property classes and ratios</caption><thead><tr><th>Class</th><th>Property</th><th>Ratio</th></tr></thead><tbody><tr><td>I</td><td>Single-family home lived in by its owner</td><td>10%</td></tr><tr><td>II</td><td>Rentals, land and other real estate</td><td>15%</td></tr><tr><td>III</td><td>Business personal property</td><td>15%</td></tr><tr><td>IV</td><td>Utility company property</td><td>30%</td></tr><tr><td>V</td><td>Cars and trucks</td><td>30%</td></tr></tbody></table><p>For an official millage number, the Department of Revenue property tax data page lists combined county and city rates for 2012 through 2025. The assessor revalues real property at least once in four years and need not step inside your house.</p>"
   },
   {
    "h2": "Due dates and unpaid tax",
-   "html": "<p>Your tax belongs to the person who holds the parcel on January 1, and the payment date is February 1. Statements arrive in November and December. When that date lands on a Saturday, Sunday or holiday, the following Monday is still penalty-free.</p><p>Unpaid real property can be sold at the county tax sale, after which the former owner keeps two years to redeem under Miss. Code Ann. 27-45-3. A parcel that draws no buyer passes to the State, and the Secretary of State deals with it at 1-866-835-2637.</p><p>Sellers should get a current payoff, plus any balance from earlier years, before agreeing to a contract. Title companies refuse to close over unpaid delinquent tax, so the order of operations matters: find out first, then price the house.</p>"
+   "html": "<p>The person holding the parcel on January 1 owes that year's tax, with payment due February 1. Statements arrive in November and December. A weekend or holiday on the due date gives you until the next Monday with no penalty.</p><p>Real property that stays delinquent may be sold at the county tax sale, and the former owner can buy it back within two years (Miss. Code Ann. 27-45-3). If nobody bids, the State takes the parcel, and the Secretary of State handles it at 1-866-835-2637.</p><p>Get a current payoff, and any earlier-year balance, before you agree to a contract. A title company will not close over delinquent tax, so find out first and price the house afterward.</p>"
   },
   {
    "h2": "Contesting an assessment",
-   "html": "<p>Disagree with a value? Request a hearing in front of the Board of Supervisors through the Chancery Clerk. File by the first Monday in August, which is before the bill is due, so waiting for the December statement is too late.</p><p>Document what you can. A storm-damaged roof or a wrong square footage on the record is worth photographing. When an appraisal used inaccurate information about the size of a home, a refund of earlier years may be possible, and the Chancery Clerk can walk you through it.</p>"
+   "html": "<p>Disagree with a value? Hearing requests go to the Board of Supervisors by way of the Chancery Clerk. The filing deadline is the first Monday in August, well before the bill, so waiting for the December statement is too late.</p><p>Gather proof. Photograph a storm-damaged roof, and note any wrong square footage on the record. When an appraisal used inaccurate information about the size of a home, a refund of earlier years may be possible, and the Chancery Clerk can walk you through it.</p>"
   },
   {
    "h2": "Homestead exemption and age rules",
-   "html": "<p>Anyone moving in must apply for homestead under their own name, so the seller should not assume the exemption carries over. The Tax Assessor takes applications January 1 through April 1, and the filing normally stands until something about your status changes.</p><p>Owners 65 or older, and totally disabled owners who otherwise qualify, owe nothing on the first $75,000 of true value. The exemption is lost when the owner or spouse is behind on state income tax, or when a vehicle is tagged in a county other than the home's. If you have moved out, stop claiming homestead on the old house.</p>"
+   "html": "<p>A new occupant has to apply for homestead in their own name, so a seller should not expect the exemption to carry over. Applications go to the Tax Assessor from January 1 to April 1, and one filing normally stands until your status changes.</p><p>Owners 65 or older, and totally disabled owners who otherwise qualify, owe nothing on the first $75,000 of true value. Two things end eligibility: an owner or spouse out of compliance on state income tax, and a vehicle tagged in another county. Once you have moved out, stop claiming homestead on the old house.</p>"
   },
   {
    "h2": "Storm history and flood questions",
-   "html": "<p>Hurricane Katrina made its final landfall here on August 29, 2005, and local buyers still ask how a house fared. The storm destroyed nearly the entire first block off the beach, and homes as far as 10 miles inland flooded. Highway 603 south of Interstate 10 was submerged and the Highway 90 bridge at Bay St. Louis was wrecked. Bay St. Louis, Waveland, Pearlington, Diamondhead and Kiln all took heavy damage.</p><ul><li>A buyer's insurer and lender will ask about flood zone and elevation, and a house with past water damage can be hard to finance.</li><li>Water covers 14% of the county's area, so many parcels sit near the shore. Check the county or FEMA flood maps to see where yours falls.</li><li>A cash buyer who purchases as-is can skip repair and insurance hurdles that sink conventional contracts, but should still be told about any known damage.</li></ul>"
+   "html": "<p>Hurricane Katrina came ashore here for its final landfall on August 29, 2005, and buyers still ask how a house fared. The storm destroyed nearly the entire first block off the beach, and homes as far as 10 miles inland flooded. Highway 603 south of Interstate 10 was submerged and the Highway 90 bridge at Bay St. Louis was wrecked. Bay St. Louis, Waveland, Pearlington, Diamondhead and Kiln all took heavy damage.</p><ul><li>A buyer's insurer and lender will ask about flood zone and elevation, and a house with past water damage can be hard to finance.</li><li>Water makes up 14% of the county, so many parcels sit near the shore. The county or FEMA flood maps show where yours falls.</li><li>A cash buyer who purchases as-is can skip repair and insurance hurdles that sink conventional contracts, but should still be told about any known damage.</li></ul><p>If your house was rebuilt after the storm, keep the permits, contractor invoices and any elevation paperwork together. Handing a buyer's agent a tidy folder answers the first round of questions and tells the buyer you have nothing to hide about the property's past.</p>"
   },
   {
    "h2": "Selling a Hancock County house",
@@ -31,33 +31,33 @@
   },
   {
    "h2": "Steps to take before you list",
-   "html": "<p>Start at the combined tax office on Highway 90 and ask for the parcel's current balance and any earlier year still open. If you inherited the house, make sure the roll shows the right owner, because a bill that goes to a deceased relative is still due. Then stop at the Chancery Clerk's suite in the same building to confirm that no tax sale is recorded against the parcel and that your deed is on file.</p><p>With those answers in hand, think about condition. Buyers and their insurers will want to know the flood zone and any history of water damage, so pull repair receipts and insurance papers early. A cash buyer can overlook cosmetic problems, but the title still has to be clear and the tax record settled. Finally, ask the title company to add the payoff to the closing statement so the county is paid out of your proceeds and nothing follows you after the sale.</p>"
+   "html": "<p>Your first stop is the combined tax office on Highway 90, where you can ask for the parcel's balance and whether any earlier year is open. Inherited the house? Check that the roll carries the right owner, since a bill addressed to a deceased relative is still owed. Next, the Chancery Clerk's suite in that same building can confirm that no tax sale is recorded and that your deed is on file.</p><p>With those answers in hand, think about condition. Buyers and their insurers ask about flood zone and any water damage, so dig out repair receipts and insurance papers early. A cash buyer can overlook cosmetic problems, but the title still has to be clear and the tax record settled. Finally, ask the title company to add the payoff to the closing statement so the county is paid out of your proceeds and nothing follows you after the sale.</p>"
   },
   {
    "h2": "Where Hancock County is",
-   "html": "<p>Hancock County sits on the Gulf of Mexico at the Louisiana line, and its county seat is Bay St. Louis. It covers 553 square miles, and 79 of them (14%) are water, so much of the county is bayou, bay and marsh. The 2020 census counted 46,053 people.</p><p>The three cities are Bay St. Louis, Diamondhead and Waveland. Kiln and Pearlington are census-designated places, and smaller communities include Lakeshore, Clermont Harbor, Necaise and Napoleon. The John C. Stennis Space Center is in the county, which is part of the Gulfport-Biloxi metropolitan area. I-10, U.S. 90 and MS 43, 53, 603 and 607 are the major routes. School districts are Bay St. Louis, Hancock County and Picayune.</p>"
+   "html": "<p>Hancock County sits on the Gulf of Mexico at the Louisiana line, and its county seat is Bay St. Louis. It covers 553 square miles, and 79 of them (14%) are water, so much of the county is bayou, bay and marsh. The 2020 census counted 46,053 people.</p><p>The three cities are Bay St. Louis, Diamondhead and Waveland. Kiln and Pearlington are census-designated places, and smaller communities include Lakeshore, Clermont Harbor, Necaise and Napoleon. The John C. Stennis Space Center is in the county, which is part of the Gulfport-Biloxi metropolitan area. I-10, U.S. 90 and MS 43, 53, 603 and 607 are the major routes. Three school districts operate here, Bay St. Louis, Hancock County and Picayune, so check which one your address falls in. Houses within a short drive of the water can look alike on a listing but differ sharply in flood exposure and insurance cost.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Hancock County property taxes due?",
-   "a": "February 1. When it falls on a weekend or holiday, the next Monday is penalty-free."
+   "a": "February 1 each year. If it lands on a weekend or holiday, you have until the next Monday."
   },
   {
    "q": "Who collects property tax in Hancock County?",
-   "a": "A single combined Tax Assessor and Collector office, run by the County Administrator. Visit 854 Highway 90, Bay St. Louis, or call (228) 466-5791 to confirm hours and payment types."
+   "a": "One combined office handles both jobs, led by the County Administrator. Go to 854 Highway 90 in Bay St. Louis, or call (228) 466-5791 first."
   },
   {
    "q": "How do I appeal a Hancock County assessment?",
-   "a": "Request a hearing before the Board of Supervisors through the Chancery Clerk, filing by the first Monday in August, ahead of the due date."
+   "a": "Contact the Chancery Clerk to get on the Board of Supervisors' hearing list, and do it by the first Monday in August."
   },
   {
    "q": "Can I sell a Hancock County house damaged by a storm?",
-   "a": "Yes, a cash buyer can take a damaged house as-is. You still need clear title, taxes paid or settled at closing, and honest disclosure of damage you know about."
+   "a": "Yes. Some buyers purchase damaged houses as-is for cash. Title must still be clear, tax settled at closing, and known damage disclosed."
   },
   {
    "q": "How long can I redeem a Hancock County parcel after a tax sale?",
-   "a": "Two years from the sale date, under Miss. Code Ann. 27-45-3. Redemption notices and payments go through the Chancery Clerk."
+   "a": "You get two years. The Chancery Clerk takes redemption payments and sends the notices."
   }
  ],
  "sources": [
