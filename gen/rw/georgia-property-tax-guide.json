@@ -11,7 +11,7 @@
     },
     {
       "h2": "When is Georgia property tax due?",
-      "html": "<p>December 20 in most counties. The department says taxes are due by that date unless the law says otherwise, that some counties set an earlier deadline or split payment into two installments, and that taxpayers have 60 days from the date of billing.</p><p>If a parcel sits in more than one county, the tax is paid to the county holding the majority of the property, and that office passes along the other counties' share. Many counties accept online payment, but the department says to confirm with your tax commissioner's office.</p>"
+      "html": "<p>December 20 in most counties. The department says taxes are due by that date unless the law says otherwise, that some counties set an earlier deadline or split payment into two installments, and that taxpayers have 60 days from the date of billing.</p><p>If a parcel sits in more than one county, the tax is paid to the county holding the majority of the property, and that office passes along the other counties' share. Some counties offer online payment, so confirm with your tax commissioner's office.</p>"
     },
     {
       "h2": "Do Georgia owners have to file a property tax return each year?",
@@ -19,7 +19,7 @@
     },
     {
       "h2": "How does the 45-day Georgia appeal work?",
-      "html": "<p>The owner files a written appeal with the county board of tax assessors within 45 days of the date the assessment notice was mailed. Grounds are taxability, value, uniformity or denial of an exemption. The uniform form is PT-311A, and the department warns against sending it to the state.</p><table><caption>The three appeal routes on the Department of Revenue appeal page</caption><thead><tr><th>Route</th><th>Who can use it</th><th>What follows</th></tr></thead><tbody><tr><td>Board of Equalization</td><td>Any owner</td><td>Board of assessors may amend; a new notice can be appealed within 30 days; otherwise a hearing is held</td></tr><tr><td>Hearing officer</td><td>Non-homestead real property valued above $500,000, value or uniformity issues</td><td>Decision may go to superior court</td></tr><tr><td>Arbitrator</td><td>Value appeals, with a certified appraisal due within 45 days of the board's acknowledgment</td><td>Hearing within 30 days; loser of the value contest pays arbitrator costs</td></tr></tbody></table><p>A superior court appeal needs written notice to the board of assessors within 30 days of the decision. Before the court hears it, taxes must be paid in an amount equal to the last year taxes were determined due (O.C.G.A. 48-5-29), and the board and owner must hold a settlement conference. If the final value is 85 percent or less of the value set below, the owner recovers litigation costs and reasonable attorney fees.</p>"
+      "html": "<p>The owner files a written appeal with the county board of tax assessors within 45 days of the date the assessment notice was mailed. Grounds are taxability, value, uniformity or denial of an exemption. The uniform form is PT-311A, and the department warns against sending it to the state.</p><table><caption>The three appeal routes on the Department of Revenue appeal page</caption><thead><tr><th>Route</th><th>Who can use it</th><th>What follows</th></tr></thead><tbody><tr><td>Board of Equalization</td><td>Any owner</td><td>Board of assessors may amend; a new notice can be appealed within 30 days; otherwise a hearing is held</td></tr><tr><td>Hearing officer</td><td>Non-homestead real property valued above $500,000, value or uniformity issues</td><td>Decision may go to superior court</td></tr><tr><td>Arbitrator</td><td>Value appeals, with a certified appraisal due within 45 days of the board's acknowledgment</td><td>Hearing within 30 days; the party farther from the arbitrator's value pays costs</td></tr></tbody></table><p>A superior court appeal needs written notice to the board of assessors within 30 days of the decision. Before the court hears it, taxes must be paid in an amount equal to the last year taxes were determined due (O.C.G.A. 48-5-29), and the board and owner must hold a settlement conference. If the final value is 85 percent or less of the value set below, the owner recovers litigation costs and reasonable attorney fees.</p>"
     },
     {
       "h2": "What has changed with HB 581 and the 2026 legislation?",
@@ -27,7 +27,7 @@
     },
     {
       "h2": "What happens to unpaid or current-year tax when you sell?",
-      "html": "<p>Whoever owned the property on January 1 is responsible for that year's tax, and the Department of Revenue says Georgia does not refund tax for a partial year when an owner sells and moves. In practice the closing is where the tax commissioner's payoff figure gets settled.</p><p>Liens are filed with the county clerk on the general execution docket. For a county tax lien, the department says to contact your county tax commissioner, and for a state tax lien, the Compliance Division or a regional Revenue office.</p><p>A separate real estate transfer tax is collected by the superior court clerk before a deed is recorded. The statute makes the seller liable, though contracts commonly assign it to the buyer, and the department's rate is $1 for the first $1,000 and 10 cents per additional $100.</p>"
+      "html": "<p>Whoever owned the property on January 1 is responsible for that year's tax, and the Department of Revenue says Georgia does not refund tax for a partial year when an owner sells and moves. Ask the county tax commissioner for the payoff figure before closing.</p><p>Liens are filed with the county clerk on the general execution docket. For a county tax lien, the department says to contact your county tax commissioner, and for a state tax lien, the Compliance Division or a regional Revenue office.</p><p>A separate real estate transfer tax is collected by the superior court clerk before a deed is recorded. The statute makes the seller liable, though contracts commonly assign it to the buyer, and the department's rate is $1 for the first $1,000 and 10 cents per additional $100.</p>"
     }
   ],
   "faqs": [
@@ -37,7 +37,7 @@
     },
     {
       "q": "Can I appeal after the 45 days have passed?",
-      "a": "The county appeal window is 45 days from the date the notice was mailed, so a late appeal is not available for that notice. Ask the county board of tax assessors about the next notice cycle."
+      "a": "The county window runs 45 days from the date the notice was mailed. Ask the county board of tax assessors whether anything remains open for that notice."
     },
     {
       "q": "Where do I send a Georgia property tax appeal?",

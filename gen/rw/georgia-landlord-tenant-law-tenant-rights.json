@@ -1,0 +1,64 @@
+{
+  "slug": "georgia-landlord-tenant-law-tenant-rights",
+  "sections": [
+    {
+      "h2": "Which Georgia agency settles landlord and tenant disputes?",
+      "html": "<p>None. The Georgia Department of Community Affairs states in its Landlord-Tenant Handbook that no government agency in Georgia has the power to step into a dispute or make one side act a certain way. Landlords and tenants who cannot work it out use the courts, directly or through a lawyer.</p><p>Since 2021 the handbook has been maintained in partnership with Georgia State University and the University of Georgia, and the department hosts it. Anyone selling a rental house in Georgia, or renting one out, should read the English or Spanish PDF version alongside the points below.</p>"
+    },
+    {
+      "h2": "How much security deposit can a Georgia landlord hold?",
+      "html": "<p>No more than two months of rent. The handbook adds that landlords who own more than ten rental units, counting units owned by a spouse or children, or who use a management agent, must keep deposits in a separate bank escrow account or post a bond with the superior court clerk, and must tell tenants in writing where the money is held.</p><ul><li>A landlord with that profile must give a written list of existing damage before taking the deposit, and the tenant may inspect to check it. Both sign the list.</li><li>After the lease ends, the landlord inspects within three business days, or a reasonable time after learning the tenant left, and lists damage with estimated dollar values.</li><li>The tenant may inspect within five business days after termination and should sign or write down disagreements.</li><li>If the tenant gives proper notice and leaves owing nothing, the deposit comes back within 30 days. Normal wear and tear cannot be charged.</li></ul>"
+    },
+    {
+      "h2": "What happens to a tenant's deposit and lease when the owner sells?",
+      "html": "<p>The deposit must follow the sale. The handbook says the former owner either transfers it to the new owner, who becomes responsible for it, or refunds it to the tenant. If neither happens, the tenant can sue, and should first write to both the old and new owners asking about the deposit.</p><p>On leases, the handbook says that when an apartment complex changes owners, the new owners are generally subject to existing leases and cannot raise rents or change rules. A seller who plans to hand over the property with tenants in place should have the signed lease, the deposit amount and any move-in damage list ready for the buyer.</p>"
+    },
+    {
+      "h2": "How much notice ends a Georgia month-to-month tenancy?",
+      "html": "<p>A landlord must give 60 days, and a tenant must give 30. The handbook uses the term tenancy-at-will and also requires 60 days' notice before a rent increase takes effect.</p><table><caption>Notice and response periods printed in the Georgia Landlord-Tenant Handbook</caption><thead><tr><th>Situation</th><th>Period</th><th>Who acts</th></tr></thead><tbody><tr><td>End a tenancy-at-will</td><td>60 days</td><td>Landlord</td></tr><tr><td>End a tenancy-at-will</td><td>30 days</td><td>Tenant</td></tr><tr><td>Rent increase for a tenant-at-will</td><td>60 days</td><td>Landlord</td></tr><tr><td>Leave early under a protective order for family violence or stalking</td><td>30 days</td><td>Tenant</td></tr><tr><td>Answer to an eviction summons</td><td>7 days from service</td><td>Tenant</td></tr><tr><td>Pay rent owed plus court costs to stop an eviction (tender)</td><td>7 days after service, once in 12 months</td><td>Tenant</td></tr></tbody></table><p>A lease with a fixed term follows its own terms. The handbook says the landlord must follow lease terms about notice and termination in any eviction.</p>"
+    },
+    {
+      "h2": "What if a landlord's property is foreclosed?",
+      "html": "<p>The original landlord and tenant relationship ends, and the new owner may begin an eviction. The handbook says a tenant is not evicted automatically, and the new owner may instead set up a new landlord and tenant relationship. If the new owner still wants the tenant out, notice must be given.</p><p>The handbook also warns that if a new owner starts eviction proceedings and then accepts or demands rent, a valid tenancy-at-will can result. Tenants and owners dealing with a pending sale from a lender should keep every written notice.</p>"
+    },
+    {
+      "h2": "What repairs does a Georgia landlord owe?",
+      "html": "<p>Georgia landlords must keep a unit in good repair and in a safe, habitable condition. The handbook lists three core duties: maintain the building structure, keep electric, heating, cooling and plumbing in working order, and use ordinary care to keep the unit safe.</p><p>A lease cannot waive these duties or tell the tenant that the landlord need not follow local laws or Georgia's deposit rules. Tenants should report repair needs promptly, preferably in writing and following the lease's notice terms. Landlords are not responsible for problems obvious at move-in unless the problem makes the unit unsafe or uninhabitable.</p><p>Retaliation for asking for repairs or calling code enforcement is illegal. Filing an eviction, cutting services or raising rent soon afterward can be presumed retaliatory unless the landlord shows a lawful reason, such as unpaid rent or serious lease violations.</p>"
+    },
+    {
+      "h2": "How does a Georgia eviction case run?",
+      "html": "<p>It starts with a demand that the tenant give up possession. The handbook says the demand need not be in writing unless the reason is unpaid rent, and there is no magic wording. A dispossessory affidavit follows, typically filed in magistrate court, though state, superior and some municipal courts can also hear one.</p><p>A tenant served with the summons has seven days to answer, and the answer should raise every defense and counterclaim. If the answer is not filed, the court can order the tenant out and send the sheriff. If the tenant tenders the full amount alleged plus court costs within seven days and the landlord refuses, the tenant files an answer saying so, and the court can order the landlord to accept payment made within three days of its decision. That defense is available once in a 12-month period.</p><p>Legal help is available through the Georgia Legal Services Program, Atlanta Legal Aid Society for Fulton, DeKalb, Cobb, Gwinnett and Clayton counties, and georgialegalaid.org.</p>"
+    },
+    {
+      "h2": "Do lead paint and squatter rules affect a Georgia rental sale?",
+      "html": "<p>Yes, in two ways. Landlords renting units built before 1978 must disclose known lead-based paint and hazards in the unit and common areas, unless a state-certified inspector finds the property free of them.</p><p>On unwanted occupants, the handbook defines a squatter as a person who never had the owner's permission to enter. The owner can swear an affidavit to have the person removed without an eviction process, and the squatter may face criminal penalties.  The dispossessory steps above cover tenants who stay past a lease.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a Georgia landlord charge a deposit of three months' rent?",
+      "a": "No. The state handbook says a landlord cannot require a security deposit larger than two months' rent."
+    },
+    {
+      "q": "Does a tenant have to leave when the landlord sells the house?",
+      "a": "Not automatically. The handbook says new owners are generally bound by existing leases, and a tenant-at-will is entitled to 60 days' notice from the landlord before being asked to leave."
+    },
+    {
+      "q": "How long does a landlord have to return a deposit in Georgia?",
+      "a": "Thirty days when the tenant gave proper notice and left without owing rent or causing damage. Normal wear and tear cannot be deducted."
+    },
+    {
+      "q": "Can a tenant stop an eviction by paying the rent owed?",
+      "a": "Yes, in nonpayment cases, if the tenant pays the rent, fees and court costs the landlord alleges within seven days of service. The tender defense can be used with the same landlord once in 12 months."
+    },
+    {
+      "q": "Who can I call for free help with a Georgia rental dispute?",
+      "a": "The Georgia Legal Services Program covers most of the state and Atlanta Legal Aid Society covers Fulton, DeKalb, Cobb, Gwinnett and Clayton counties. The handbook also points to georgialegalaid.org for self-help guides."
+    }
+  ],
+  "sources": [
+    {"title": "Georgia Landlord-Tenant Handbook, Georgia Department of Community Affairs", "url": "https://dca.georgia.gov/housing-choice-voucher/landlords/georgia-landlord-tenant-handbook"},
+    {"title": "Georgia Landlord Tenant Handbook (English PDF)", "url": "https://dca.georgia.gov/document/manuals/georgia-landlord-tenant-handbook-english/download"},
+    {"title": "Navigating Our Courts, Georgia Courts", "url": "https://georgiacourts.gov/a2j/self-help-resources/navigating-the-courts"}
+  ]
+}

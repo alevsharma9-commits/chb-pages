@@ -1,63 +1,85 @@
 {
-  "slug": "georgia-homestead-exemption",
-  "sections": [
-    {
-      "h2": "Who qualifies for a Georgia homestead exemption?",
-      "html": "<p>A homeowner who owned the home and made it their legal residence on January 1 of the tax year. The Department of Revenue cites O.C.G.A. 48-5-40 for that rule and adds that the owner must actually live in the house.</p><p>A slide deck from the department's digest compliance staff fills in the details. The deed must be recorded in the county deed records before the application is filed. Only one homestead is allowed per immediate family group, even if a person owns two dwellings. Joint owners who all live in the home may claim in their own names.</p><ul><li>Time away for health reasons does not by itself cost the exemption, and a family member or friend can notify the tax office.</li><li>A home damaged by fire, flood or storm keeps its homestead status for one year while the owner lives elsewhere.</li><li>Military members stationed elsewhere can keep the exemption on a home they rent out, according to an Attorney General opinion cited in the deck.</li></ul>"
-    },
-    {
-      "h2": "Where and when do you apply for it in Georgia?",
-      "html": "<p>Apply with the county tax commissioner, or with the tax assessor's office in counties that have been delegated to take applications. The state form is called LGS-Homestead, and the department says it can be filed any time of the year.</p><p>The long-standing cutoff is April 1, the same date property tax returns are due. The department now says homeowners may apply past April 1, up to the end of their 45-day window to appeal the notice of assessment. Failing to file counts as a waiver of the exemption for that year.</p><p>Once a standard exemption is granted, a new application is not required each year. The 2026 DOR update adds that the notice of assessment must now tell owners they can apply during the appeal window, and that owners must tell local officials if they stop being eligible.</p>"
-    },
-    {
-      "h2": "How much does the standard Georgia homestead exemption take off?",
-      "html": "<p>The standard state exemption is $2,000, taken off the 40 percent assessed value of the home (O.C.G.A. 48-5-44). It applies to county and school taxes, except school taxes levied by municipalities and taxes that pay off bonded debt.</p><p>Because the state figure is small, many owners benefit more from a local exemption. The Constitution lets counties enact their own, and the department's page notes that the county versions are generally more beneficial than the state's. Ask the county tax commissioner for the amounts that apply to your parcel.</p>"
-    },
-    {
-      "h2": "What state exemptions exist for seniors and veterans?",
-      "html": "<p>Georgia offers several age and service exemptions, each with its own statute and income test. The Department of Revenue lists them as follows.</p><table><caption>State homestead exemptions listed on the Georgia Department of Revenue homestead page</caption><thead><tr><th>Exemption</th><th>Key terms as printed</th><th>Code section</th></tr></thead><tbody><tr><td>Age 65 and over</td><td>$4,000 from county taxes if income of the owner and spouse does not exceed $10,000</td><td>48-5-47</td></tr><tr><td>Age 62 and over, school</td><td>Additional exemption up to $10,000 of assessed value, same $10,000 income limit</td><td>48-5-52</td></tr><tr><td>Age 62 and over, floating</td><td>Inflation-proof county exemption, household income not above $30,000</td><td>48-5-47.1</td></tr><tr><td>Disabled veteran</td><td>Greater of $32,500 or the federal maximum, listed as $121,812 for 2025</td><td>48-5-48</td></tr><tr><td>Surviving spouse of service member</td><td>$60,000 plus an indexed sum, listed as $121,812 for 2025</td><td>48-5-52.1</td></tr><tr><td>Surviving spouse of peace officer or firefighter killed on duty</td><td>Full value of the homestead</td><td>48-5-48.4</td></tr></tbody></table><p>For the income tests, retirement, pension and disability income is excluded up to the Social Security maximum, which the department lists as $96,432 for 2025.</p>"
-    },
-    {
-      "h2": "What is the floating base-year homestead exemption?",
-      "html": "<p>It is a statewide exemption created by HB 581 (O.C.G.A. 48-5-44.2) that shelters the amount by which a home's assessed value rises above a base year value, within an inflation limit. The department's deck says the base year for homes first receiving it in 2025 is the 2024 assessed value.</p><p>Each year the base can grow by up to the inflation rate set by the Revenue Commissioner. The exemption covers the primary residence and no more than five contiguous acres, renews automatically while the owner lives in the home, and does not transfer to a later owner. A surviving spouse who keeps living there may continue to receive it.</p><p>The same deck says anyone with a homestead exemption in 2024 who stayed eligible was granted this one automatically for 2025, while other owners apply with the tax commissioner once. The May 2026 DOR update then describes SB 33, the Homeownership Opportunity and Market Equalization (HOME) Act of 2026, as removing the HB 581 opt-out and making a statewide floating exemption apply from January 1, 2027, on a baseline of 2026 values.</p>"
-    },
-    {
-      "h2": "Which Georgia counties freeze home values for homeowners?",
-      "html": "<p>The department's list of counties with a local valuation freeze includes Baldwin, Barrow, Camden, Carroll, Chatham, Cherokee, Clarke, Cobb, Dade, DeKalb, Douglas, Effingham, Fannin, Floyd, Forsyth, Fulton, Gilmer, Glynn, Greene, Gwinnett, Habersham, Henry, Liberty, McIntosh, Meriwether, Murray, Muscogee, Oconee, Pierce, Putnam, Toombs, Towns, Walton, Ware and White, plus the City of Atlanta.</p><p>A freeze fixes taxes at a base year value for as long as the owner lives in the home, and some counties let the base rise by a set percentage. Details differ by county, so contact the local tax commissioner or assessor.</p>"
-    },
-    {
-      "h2": "What happens to the exemption when you sell the house?",
-      "html": "<p>It stays with the seller for the year if the seller owned and lived in the home on January 1. An Attorney General opinion quoted by the department says an owner who lived there on January 1 and met the other requirements may claim the exemption even if the owner moved out later that year.</p><p>The exemption does not follow the property to the buyer. A buyer who intends to live in the house should apply with the county once the deed is recorded and the next January 1 arrives. The 2026 DOR update says owners who become ineligible should report it by the final day of the appeal period, and that the tax obligation and a 50 percent penalty attach to the property rather than the taxpayer. Sellers who rented out the home should check this with the tax commissioner before closing.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Is April 1 still the Georgia homestead deadline?",
-      "a": "April 1 remains the traditional date, but the Department of Revenue says owners can now apply up to the end of the 45-day window for appealing the assessment notice. Ask your county tax office which date it uses."
-    },
-    {
-      "q": "Do I have to reapply for the Georgia homestead exemption every year?",
-      "a": "No for the standard exemption once it is granted. Failure to file at first counts as a waiver, and you must tell the tax commissioner if you stop qualifying."
-    },
-    {
-      "q": "Can a rental house get a homestead exemption in Georgia?",
-      "a": "No. The home must be your actual residence and legal domicile. The department's deck cites an Attorney General opinion denying the exemption to an owner who rented out a house and used part of it only for storage."
-    },
-    {
-      "q": "Does a buyer inherit my homestead exemption?",
-      "a": "No. The floating exemption by its terms does not pass to a later owner, and the department says each homeowner files for their own exemption."
-    },
-    {
-      "q": "Which office takes the homestead application in my county?",
-      "a": "The county tax commissioner in most counties, or the board of tax assessors in some. The state's County Property Tax Facts page lists which official to contact."
-    }
-  ],
-  "sources": [
-    {"title": "Property Tax Homestead Exemptions, Georgia Department of Revenue", "url": "https://dor.georgia.gov/property-tax-homestead-exemptions"},
-    {"title": "Exemption Expedition: Homestead Tax Law, Georgia Department of Revenue", "url": "https://dor.georgia.gov/document/document/homestead-exemptions/download"},
-    {"title": "Property Tax Real and Personal Property forms, Georgia Department of Revenue", "url": "https://dor.georgia.gov/local-government-services/filing-property-tax-georgia/property-tax-real-and-personal-property"},
-    {"title": "Homestead Exemptions overview, Georgia Department of Revenue", "url": "https://dor.georgia.gov/tflhomstead"},
-    {"title": "2026 DOR Legislative Update", "url": "https://dor.georgia.gov/document/document-document/caveat-2026-opening-session/download"},
-    {"title": "Property Tax Real and Personal Property FAQ", "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"}
-  ]
+ "slug": "georgia-homestead-exemption",
+ "sections": [
+  {
+   "h2": "Who qualifies for a Georgia homestead exemption?",
+   "html": "<p>A homeowner who owned the home and made it their legal residence on January 1 of the tax year. The Department of Revenue cites O.C.G.A. 48-5-40 for that rule and adds that the owner must actually live in the house.</p><p>A slide deck from the department's digest compliance staff fills in the details. The deed must be recorded in the county deed records before the application is filed. Only one homestead is allowed per immediate family group, even if a person owns two dwellings. Joint owners who all live in the home may claim in their own names.</p><ul><li>Time away for health reasons does not by itself cost the exemption, and a family member or friend can notify the tax office.</li><li>A home damaged by fire, flood or storm keeps its homestead status for one year while the owner lives elsewhere.</li><li>Military members stationed elsewhere can keep the exemption on a home they rent out, according to an Attorney General opinion cited in the deck.</li></ul>"
+  },
+  {
+   "h2": "Where and when do you apply for it in Georgia?",
+   "html": "<p>Apply with the county tax commissioner, or with the tax assessor's office in counties that have been delegated to take applications. The state form is called LGS-Homestead, and the department says it can be filed any time of the year.</p><p>The long-standing cutoff is April 1, the same date property tax returns are due. The department now says homeowners may apply past April 1, up to the end of their 45-day window to appeal the notice of assessment. Failing to file counts as a waiver of the exemption for that year.</p><p>The department's returns page says an owner who filed or paid the year before is treated as claiming the same exemptions again, so a yearly reapplication is not needed. The 2026 DOR update adds that the notice of assessment must now tell owners they can apply during the appeal window, and that owners must tell local officials if they stop being eligible.</p>"
+  },
+  {
+   "h2": "How much does the standard Georgia homestead exemption take off?",
+   "html": "<p>The standard state exemption is $2,000, taken off the 40 percent assessed value of the home (O.C.G.A. 48-5-44). It applies to county and school taxes, except school taxes levied by municipalities and taxes that pay off bonded debt.</p><p>Because the state figure is small, many owners benefit more from a local exemption. The Constitution lets counties enact their own, and the department's page notes that the county versions are generally more beneficial than the state's. Ask the county tax commissioner for the amounts that apply to your parcel.</p>"
+  },
+  {
+   "h2": "What state exemptions exist for seniors and veterans?",
+   "html": "<p>Georgia offers several age and service exemptions, each with its own statute and income test. The Department of Revenue lists them as follows.</p><table><caption>State homestead exemptions listed on the Georgia Department of Revenue homestead page</caption><thead><tr><th>Exemption</th><th>Key terms as printed</th><th>Code section</th></tr></thead><tbody><tr><td>Age 65 and over</td><td>$4,000 from county taxes if income of the owner and spouse does not exceed $10,000</td><td>48-5-47</td></tr><tr><td>Age 62 and over, school</td><td>Additional exemption up to $10,000 of assessed value, same $10,000 income limit</td><td>48-5-52</td></tr><tr><td>Age 62 and over, floating</td><td>Inflation-proof county exemption, household income not above $30,000</td><td>48-5-47.1</td></tr><tr><td>Disabled veteran</td><td>Greater of $32,500 or the federal maximum, listed as $121,812 for 2025</td><td>48-5-48</td></tr><tr><td>Surviving spouse of service member</td><td>$60,000 plus an indexed sum, listed as $121,812 for 2025</td><td>48-5-52.1</td></tr><tr><td>Surviving spouse of peace officer or firefighter killed on duty</td><td>Full value of the homestead</td><td>48-5-48.4</td></tr></tbody></table><p>For the income tests, retirement, pension and disability income is excluded up to the Social Security maximum, which the department lists as $96,432 for 2025.</p>"
+  },
+  {
+   "h2": "What is the floating base-year homestead exemption?",
+   "html": "<p>It is a statewide exemption created by HB 581 (O.C.G.A. 48-5-44.2) that shelters the amount by which a home's assessed value rises above a base year value, within an inflation limit. The department's deck says the base year for homes first receiving it in 2025 is the 2024 assessed value.</p><p>Each year the base can grow by up to the inflation rate set by the Revenue Commissioner. The exemption covers the primary residence and no more than five contiguous acres, renews automatically while the owner lives in the home, and does not transfer to a later owner. A surviving spouse who keeps living there may continue to receive it.</p><p>The same deck says anyone with a homestead exemption in 2024 who stayed eligible was granted this one automatically for 2025, while other owners apply with the tax commissioner once. The May 2026 DOR update then describes SB 33, the Homeownership Opportunity and Market Equalization (HOME) Act of 2026, as removing the HB 581 opt-out and making a statewide floating exemption apply from January 1, 2027, on a baseline of 2026 values.</p>"
+  },
+  {
+   "h2": "Which Georgia counties freeze home values for homeowners?",
+   "html": "<p>The department's list of counties with a local valuation freeze includes Baldwin, Barrow, Camden, Carroll, Chatham, Cherokee, Clarke, Cobb, Dade, DeKalb, Douglas, Effingham, Fannin, Floyd, Forsyth, Fulton, Gilmer, Glynn, Greene, Gwinnett, Habersham, Henry, Liberty, McIntosh, Meriwether, Murray, Muscogee, Oconee, Pierce, Putnam, Toombs, Towns, Walton, Ware and White, plus the City of Atlanta.</p><p>A freeze fixes taxes at a base year value for as long as the owner lives in the home, and some counties let the base rise by a set percentage. Details differ by county, so contact the local tax commissioner or assessor.</p>"
+  },
+  {
+   "h2": "What happens to the exemption when you sell the house?",
+   "html": "<p>It stays with the seller for the year if the seller owned and lived in the home on January 1. An Attorney General opinion quoted by the department says an owner who lived there on January 1 and met the other requirements may claim the exemption even if the owner moved out later that year.</p><p>The exemption does not follow the property to the buyer. A buyer who intends to live in the house must own and live there on a January 1 and file by the return deadline. The 2026 DOR update says owners who become ineligible should report it by the final day of the appeal period, and that the tax obligation and a 50 percent penalty attach to the property rather than the taxpayer. Sellers who rented out the home should check this with the tax commissioner before closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is April 1 still the Georgia homestead deadline?",
+   "a": "April 1 remains the traditional date, but the Department of Revenue says owners can now apply up to the end of the 45-day window for appealing the assessment notice. Ask your county tax office which date it uses."
+  },
+  {
+   "q": "Do I have to reapply for the Georgia homestead exemption every year?",
+   "a": "No. Once you have claimed it, the department treats a prior-year filer as claiming again. Failure to file at first counts as a waiver, and you must tell the tax commissioner if you stop qualifying."
+  },
+  {
+   "q": "Can a rental house get a homestead exemption in Georgia?",
+   "a": "No. The home must be your actual residence and legal domicile. The department's deck cites an Attorney General opinion denying the exemption to an owner who rented out a house and used part of it only for storage."
+  },
+  {
+   "q": "Does a buyer inherit my homestead exemption?",
+   "a": "No. The floating exemption by its terms does not pass to a later owner, and a buyer must own and occupy the home on January 1 to qualify for the year."
+  },
+  {
+   "q": "Which office takes the homestead application in my county?",
+   "a": "The county tax commissioner in most counties, or the board of tax assessors in some. The state's County Property Tax Facts page lists which official to contact."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Property Tax Homestead Exemptions, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-homestead-exemptions"
+  },
+  {
+   "title": "Exemption Expedition: Homestead Tax Law, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/document/document/homestead-exemptions/download"
+  },
+  {
+   "title": "Property Tax Real and Personal Property forms, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/local-government-services/filing-property-tax-georgia/property-tax-real-and-personal-property"
+  },
+  {
+   "title": "Homestead Exemptions overview, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/tflhomstead"
+  },
+  {
+   "title": "2026 DOR Legislative Update",
+   "url": "https://dor.georgia.gov/document/document-document/caveat-2026-opening-session/download"
+  },
+  {
+   "title": "Property Tax Real and Personal Property FAQ",
+   "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
+  },
+  {
+   "title": "Property Tax Returns and Payment, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-returns-and-payment"
+  }
+ ]
 }
