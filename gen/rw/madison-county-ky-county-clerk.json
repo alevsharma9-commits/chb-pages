@@ -2,32 +2,32 @@
  "slug": "madison-county-ky-county-clerk",
  "sections": [
   {
-   "h2": "What happens in the Madison County Clerk's recordings office?",
-   "html": "<p>The Recordings Department files the paper trail of land ownership in Madison County: deeds, mortgages, wills, plats and related documents. It operates from the Richmond Branch at 321 N. Madison Ave., Richmond, KY 40475, which opens its counter at 8 AM and closes at 4:30 PM. The recordings line is (859) 624-4703, extension 3.</p><p>The Berea Branch on Chestnut Street does motor vehicle work, dealer work, marriage licenses, voter registration and delinquent tax payments, and its listing leaves out recordings. The clerk's home page carries a notice that the Richmond branch has relocated, so confirm the street address by phone before you carry an original deed across town.</p><p>Electronic submissions are worked each morning until roughly 9:30 to 10:00, and no wait-ons are offered then. Records reach back to 1786. Everything from 1986 onward is scanned for viewing at the counter or online through ECCLIX, a subscription service run by a third party. Searches work on a person's name only, so a street address will not find a deed.</p>"
+   "h2": "Recordings office",
+   "html": "<p>The Recordings Department files the paper trail of land ownership in Madison County: deeds, mortgages, wills, plats and related documents. It operates from the Richmond Branch at 321 N. Madison Ave., Richmond, KY 40475, which opens its counter at 8 AM and closes at 4:30 PM. The recordings line is (859) 624-4703, extension 3.</p>\n<p>The Berea Branch on Chestnut Street does motor vehicle work, dealer work, marriage licenses, voter registration and delinquent tax payments. Take recordings to Richmond. The clerk's home page carries a notice that the Richmond branch has relocated, so confirm the street address by phone before you carry an original deed across town.</p>\n<p>Electronic submissions are worked each morning until roughly 9:30 to 10:00, and no wait-ons are offered then. Records reach back to 1786. Everything from 1986 onward is scanned for viewing at the counter or online through ECCLIX, a subscription service run by a third party. Searches work on a person's name only, so a street address will not find a deed.</p>"
   },
   {
-   "h2": "What does a Kentucky deed need before the clerk can take it?",
-   "html": "<p>KRS 382.135 spells out the contents and forbids a clerk from lodging a deed that fails them. The closing agent usually drafts the deed, but you can save a rejected filing by confirming spellings and mailing addresses.</p><ul><li>The legal names of both parties, with a mailing address for each.</li><li>A statement of the price paid.</li><li>An address where the tax bill for the transfer year may be sent in care of someone.</li><li>A sworn, notarized certificate from both sides that the price shown is the whole price. On a gift or nominal sale, the certificate says so and puts an estimated fair cash value on the property.</li></ul><p>A few deeds skip the price items: utility easements, transfers ordered in a divorce case, corrective deeds between the same parties, rights-of-way for government agencies, and cemetery lots. A swap of properties must state each property's fair cash value in the deed itself.</p>"
+   "h2": "What a Kentucky deed needs",
+   "html": "<p>KRS 382.135 spells out the contents and forbids a clerk from lodging a deed that fails them. The closing agent usually drafts the deed, but you can save a rejected filing by confirming spellings and mailing addresses.</p>\n<ul><li>The legal names of both parties, with a mailing address for each.</li><li>A statement of the price paid.</li><li>An address where the tax bill for the transfer year may be sent in care of someone.</li><li>A sworn, notarized certificate from both sides that the price shown is the whole price. On a gift or nominal sale, the certificate says so and puts an estimated fair cash value on the property.</li></ul>\n<p>A few deeds skip the price items: utility easements, transfers ordered in a divorce case, corrective deeds between the same parties, rights-of-way for government agencies, and cemetery lots. A swap of properties must state each property's fair cash value in the deed itself.</p>"
   },
   {
-   "h2": "What will recording cost in Madison County?",
-   "html": "<p>The posted schedule bundles a recording fee, an affordable housing trust fund charge and a state clerk fee into one total per document type. The version the clerk publishes carries a 2020 date, so call the recordings line to confirm the amount before mailing a check.</p><table><caption>Madison County Clerk totals from the posted 2020 fee schedule</caption><thead><tr><th>Document</th><th>Total</th><th>Extra pages</th></tr></thead><tbody><tr><td>Deed</td><td>$50.00</td><td>$3.00 each past page 5</td></tr><tr><td>Mortgage</td><td>$80.00</td><td>$3.00 each past page 30</td></tr><tr><td>Mortgage release, full or partial</td><td>$46.00</td><td>$3.00 each past page 5</td></tr><tr><td>Affidavit of descent</td><td>$50.00</td><td>$3.00 each past page 5</td></tr><tr><td>Power of attorney</td><td>$50.00</td><td>$3.00 each past page 5</td></tr><tr><td>Will</td><td>$47.00</td><td>$3.00 each past page 5</td></tr><tr><td>Certified copy</td><td>$5.00</td><td>50 cents a page after the third</td></tr></tbody></table><p>The same schedule adds $4.00 for each extra reference on a document and $7.00 per notarization. A package that covers several parcels therefore costs more than a single-parcel deed. Notary service at the clerk's counter is offered only for papers being recorded there.</p>"
+   "h2": "Recording fees",
+   "html": "<p>The clerk's schedule bundles a recording fee, an affordable housing trust fund charge and a state clerk fee into one total per document type. Call the recordings line to confirm the amount before mailing a check.</p>\n<table><caption>Madison County Clerk recording totals</caption><thead><tr><th>Document</th><th>Total</th><th>Extra pages</th></tr></thead><tbody><tr><td>Deed</td><td>$50.00</td><td>$3.00 each past page 5</td></tr><tr><td>Mortgage</td><td>$80.00</td><td>$3.00 each past page 30</td></tr><tr><td>Mortgage release, full or partial</td><td>$46.00</td><td>$3.00 each past page 5</td></tr><tr><td>Affidavit of descent</td><td>$50.00</td><td>$3.00 each past page 5</td></tr><tr><td>Power of attorney</td><td>$50.00</td><td>$3.00 each past page 5</td></tr><tr><td>Will</td><td>$47.00</td><td>$3.00 each past page 5</td></tr><tr><td>Certified copy</td><td>$5.00</td><td>50 cents a page after the third</td></tr></tbody></table>\n<p>The schedule adds $4.00 for each extra reference on a document and $7.00 per notarization. A package that covers several parcels therefore costs more than a single-parcel deed. Notary service at the clerk's counter is offered only for papers being recorded there.</p>"
   },
   {
-   "h2": "How does the real estate transfer tax work on a Madison County sale?",
-   "html": "<p>Sellers pay $0.50 per $500 slice of declared value, and a partial slice rounds up. KRS 142.050 makes the clerk do the arithmetic from the deed's stated value; no deed is accepted until the tax is paid, and the clerk stamps the payment date and amount on it.</p><p>On a sale, value means the price plus any liens. On a gift or a token-price deed, value means what the property would fetch on the open market. Take the Census Bureau's $232,000 median home value for Madison County: 464 blocks of $500 times $0.50 gives $232.00. A price of $232,100 tips into a 465th block and the tax becomes $232.50. Five percent of collections stays with the clerk as a handling fee, and the balance goes to the county treasurer each quarter.</p><ul><li>Foreclosure transfers and deeds given in place of foreclosure owe nothing.</li><li>Neither do transfers between spouses or ex-spouses in a divorce, partitions, or sales for delinquent taxes.</li><li>Parent to child and grandparent to grandchild deeds with only nominal payment are exempt too.</li></ul>"
+   "h2": "Real estate transfer tax",
+   "html": "<p>Sellers pay $0.50 per $500 slice of declared value, and a partial slice rounds up. KRS 142.050 makes the clerk do the arithmetic from the deed's stated value. No deed is accepted until the tax is paid, and the clerk stamps the payment date and amount on it. On a sale, value means the price plus any liens. On a gift or a token-price deed, value means what the property would fetch on the open market. Five percent of collections stays with the clerk as a handling fee, and the balance goes to the county treasurer each quarter.</p>\n<ul><li>Foreclosure transfers and deeds given in place of foreclosure owe nothing.</li><li>Neither do transfers between spouses or ex-spouses in a divorce, partitions, or sales for delinquent taxes.</li><li>Parent to child and grandparent to grandchild deeds with only nominal payment are exempt too.</li></ul>"
   },
   {
-   "h2": "How do heirs record an inherited house in Madison County?",
-   "html": "<p>For a will, bring the original with the court order attached. The clerk records it, keeps the original, and charges the Will total on the fee schedule. When no will exists, an affidavit of descent under KRS 382.120 goes on record.</p><p>A separate duty falls on the personal representative. Before closing the estate, that person files an affidavit with the clerk in each county where the decedent held land, naming the people who receive each parcel and the full or estimated value of each. Heirs planning to sell should ask the probate lawyer whether that affidavit is on file, because a buyer's title examiner will look for it.</p><p>The clerk also runs DocAlert, a free email alert that tells you when a new deed or mortgage appears in your name. It matches only exact names, so a trust or a business should sign up under every spelling that might be recorded.</p>"
+   "h2": "Recording an inherited house",
+   "html": "<p>For a will, bring the original with the court order attached. The clerk records it, keeps the original, and charges the Will total on the fee schedule. When no will exists, an affidavit of descent under KRS 382.120 goes on record.</p>\n<p>A separate duty falls on the personal representative. Before closing the estate, that person files an affidavit with the clerk in each county where the decedent held land, naming the people who receive each parcel and the full or estimated value of each. Heirs planning to sell should ask the probate lawyer whether that affidavit is on file, because a buyer's title examiner will look for it.</p>\n<p>The clerk also runs DocAlert, a free email alert that tells you when a new deed or mortgage appears in your name. It matches only exact names, so a trust or a business should sign up under every spelling that might be recorded.</p>"
   },
   {
-   "h2": "Where do unpaid Madison County property taxes end up?",
-   "html": "<p>Payment starts with the Sheriff, and the clerk takes whatever stays open. The Sheriff's Office is at 135 W Irvine, Suite B01, Richmond, with a phone number of 859-623-1511 and weekday counter hours that end at 4:30. Do not mail cash.</p><p>Once the bill reaches the clerk, extension 2 on the Richmond line handles questions. The clerk set the sale of the 2025 bills for Thursday, August 27, 2026, at 9 AM in the Fiscal Courtroom of the Courthouse Annex, 135 W. Irvine St. Newspaper advertising must run 30 to 45 days ahead. Bidders register for $250 and put down a quarter of their intended purchases in certified funds, both due ten days ahead. Recording charges on a purchased lien are $30 for the assignment and $46 for a release.</p><p>The county bill funds the library, fiscal court, EMS, health department, school board and extension office. Some parcels also pay the Red Lick watershed district, the City of Richmond, the City of Berea or Berea Independent Schools.</p>"
+   "h2": "Unpaid property taxes",
+   "html": "<p>Payment starts with the Sheriff, and the clerk takes whatever stays open. The Sheriff's Office is at 135 W Irvine, Suite B01, Richmond, at 859-623-1511, with weekday counter hours that end at 4:30. Do not mail cash.</p>\n<p>Once the bill reaches the clerk, extension 2 on the Richmond line handles questions. The clerk holds a yearly sale in the Fiscal Courtroom of the Courthouse Annex, 135 W. Irvine St., at 9 AM. For the 2025 bills it was set for late August. Newspaper advertising must run 30 to 45 days ahead. Bidders register for $250 and put down a quarter of their intended purchases in certified funds, both due ten days ahead. Recording charges on a purchased lien are $30 for the assignment and $46 for a release.</p>\n<p>The county bill funds the library, fiscal court, EMS, health department, school board and extension office. Some parcels also pay the Red Lick watershed district, the City of Richmond, the City of Berea or Berea Independent Schools.</p>"
   },
   {
-   "h2": "What is the Madison County market like for a seller?",
-   "html": "<p>Madison County is growing quickly. Census estimates give the county 101,696 residents for 2025, a gain of 9.7 percent over April 2020, with owners living in 62 percent of homes. The median home value is $232,000, median rent is $889.</p><p>Richmond, founded in 1798, is the county's seat and the site of Eastern Kentucky University. Berea is home to Berea College. The county sits along I-75, with U.S. 25 and U.S. 421 as local routes, and Lexington is about 25 miles northwest of Richmond. Fort Boonesborough, now a state historic site, anchors the county's story, and Madison County was formed in 1785.</p><p>Because most recordings happen at closing, request the clerk's current charges and a transfer tax figure for your price before you sign.</p>"
+   "h2": "The Madison County market for sellers",
+   "html": "<p>Madison County is growing quickly. The 2025 estimate is 101,696 residents, a gain of 9.7 percent over April 2020, with owners living in 62 percent of homes. The median home value is $232,000 and median rent is $889.</p>\n<p>Richmond is the county seat and the site of Eastern Kentucky University. Berea is home to Berea College. The county sits along I-75, with U.S. 25 and U.S. 421 as local routes, and Lexington is about 25 miles northwest of Richmond.</p>\n<p>Because most recordings happen at closing, request the clerk's current charges and a transfer tax figure for your price before you sign. Bring a government photo ID, the signed deed, and the notarized price certificate to the counter, and ask the closing agent to say in advance who delivers the documents and who pays the clerk. A cash sale usually closes quickly, so the recording step should not hold you up if the paperwork is complete.</p>"
   }
  ],
  "faqs": [
@@ -37,7 +37,7 @@
   },
   {
    "q": "What transfer tax does a Madison County seller pay?",
-   "a": "A half dollar per $500 of value, rounded up by block. On a $232,000 sale the bill is $232.00, and the clerk collects it before taking the deed."
+   "a": "A half dollar per $500 of value, rounded up by block. The clerk collects it before taking the deed."
   },
   {
    "q": "Is a notarized price statement required on a Kentucky deed?",
@@ -45,7 +45,7 @@
   },
   {
    "q": "Are Madison County land records searchable online?",
-   "a": "They are, through ECCLIX, a subscription service run by a third party, and every search uses a person's name. Documents from 1986 onward are scanned. Earlier ones are viewed at the Richmond office."
+   "a": "Yes, through ECCLIX, a subscription service run by a third party, and every search uses a person's name. Documents from 1986 onward are scanned. Earlier ones are viewed at the Richmond office."
   },
   {
    "q": "What if property tax goes unpaid in Madison County?",
@@ -53,19 +53,61 @@
   }
  ],
  "sources": [
-  {"title": "Madison County Clerk recordings", "url": "https://madisoncountyclerk.us/recordings"},
-  {"title": "Madison County Clerk home", "url": "https://madisoncountyclerk.us"},
-  {"title": "Madison County Clerk 2020 fee schedule", "url": "https://madisoncountyclerk.us/_files/ugd/c3fcc0_a411a0692bed4b6bbf6bc5f98f87afb4.pdf"},
-  {"title": "Madison County Clerk glossary of terms", "url": "https://madisoncountyclerk.us/glossary-of-terms"},
-  {"title": "Madison County Clerk delinquent taxes", "url": "https://www.madisoncountyclerk.us/delinquent-taxes"},
-  {"title": "Madison County Clerk third party purchaser information", "url": "https://madisoncountyclerk.us/third-party-tax-bill-purchaser-info"},
-  {"title": "Madison County Clerk Doc Alert", "url": "https://madisoncountyclerk.us/doc-alert"},
-  {"title": "Madison County Clerk FAQ", "url": "https://www.madisoncountyclerk.us/delinquent-tax-faq-s"},
-  {"title": "KRS 142.050 real estate transfer tax", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"},
-  {"title": "KRS 382.135 deed requirements", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47942"},
-  {"title": "Madison County Sheriff property taxes", "url": "https://sheriff.madisoncountyky.gov/property-taxes"},
-  {"title": "Census QuickFacts comparison", "url": "https://www.census.gov/quickfacts/fact/table/logancountykentucky,lyoncountykentucky,madisoncountykentucky,louisvillejeffersoncountymetrogovernmentbalancekentucky/PST045224"},
-  {"title": "Madison County, Kentucky (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Madison_County,_Kentucky"},
-  {"title": "Richmond, Kentucky (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Richmond,_Kentucky"}
+  {
+   "title": "Madison County Clerk recordings",
+   "url": "https://madisoncountyclerk.us/recordings"
+  },
+  {
+   "title": "Madison County Clerk home",
+   "url": "https://madisoncountyclerk.us"
+  },
+  {
+   "title": "Madison County Clerk 2020 fee schedule",
+   "url": "https://madisoncountyclerk.us/_files/ugd/c3fcc0_a411a0692bed4b6bbf6bc5f98f87afb4.pdf"
+  },
+  {
+   "title": "Madison County Clerk glossary of terms",
+   "url": "https://madisoncountyclerk.us/glossary-of-terms"
+  },
+  {
+   "title": "Madison County Clerk delinquent taxes",
+   "url": "https://www.madisoncountyclerk.us/delinquent-taxes"
+  },
+  {
+   "title": "Madison County Clerk third party purchaser information",
+   "url": "https://madisoncountyclerk.us/third-party-tax-bill-purchaser-info"
+  },
+  {
+   "title": "Madison County Clerk Doc Alert",
+   "url": "https://madisoncountyclerk.us/doc-alert"
+  },
+  {
+   "title": "Madison County Clerk FAQ",
+   "url": "https://www.madisoncountyclerk.us/delinquent-tax-faq-s"
+  },
+  {
+   "title": "KRS 142.050 real estate transfer tax",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"
+  },
+  {
+   "title": "KRS 382.135 deed requirements",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47942"
+  },
+  {
+   "title": "Madison County Sheriff property taxes",
+   "url": "https://sheriff.madisoncountyky.gov/property-taxes"
+  },
+  {
+   "title": "Census QuickFacts comparison",
+   "url": "https://www.census.gov/quickfacts/fact/table/logancountykentucky,lyoncountykentucky,madisoncountykentucky,louisvillejeffersoncountymetrogovernmentbalancekentucky/PST045224"
+  },
+  {
+   "title": "Madison County, Kentucky (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Madison_County,_Kentucky"
+  },
+  {
+   "title": "Richmond, Kentucky (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Richmond,_Kentucky"
+  }
  ]
 }
