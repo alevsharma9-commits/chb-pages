@@ -19,15 +19,15 @@
   },
   {
    "h2": "What does the Warren County auditor require before a deed reaches the recorder?",
-   "html": "<p>Ohio makes the auditor transfer the deed first, and the Warren County auditor's transfer page lists what must be in order. Missing any item sends the deed back.</p>\n<ul>\n<li>A properly completed Statement of Value and Receipt (DTE Form 100), or a Statement of Reason for Exemption (DTE Form 100 EX), plus the fees payable to the Warren County Auditor.</li>\n<li>A grantor name that matches the way the grantor took title in the prior deed.</li>\n<li>A reference to the previous deed of record, written on the new deed.</li>\n<li>Approval and initials from the map department before the deed is presented to the auditor.</li>\n<li>Form DTE 102 when the parcel is, or last year was, in the CAUV farm program.</li>\n<li>The grantor's signature, notarized.</li>\n</ul>\n<p>The page prints the fees as follows: a mandatory conveyance fee of $1.00 per thousand dollars of the purchase price under 319.54, a county transfer tax of $2.00 per thousand under 322.02, for a combined $3.00 per thousand, with leftover pennies bumped up to the next dime, and a $0.50 transfer fee per parcel. The $2.00 figure is the permissive levy the county commissioners adopted.</p>"
+   "html": "<p>Ohio makes the auditor transfer the deed first, and the Warren County auditor's transfer page lists what must be in order. Missing any item sends the deed back.</p>\n<ul>\n<li>A properly completed Statement of Value and Receipt (DTE Form 100), or a Statement of Reason for Exemption (DTE Form 100 EX), plus the fees payable to the Warren County Auditor.</li>\n<li>A grantor name that matches the way the grantor took title in the prior deed.</li>\n<li>A reference to the previous deed of record, written on the new deed.</li>\n<li>Approval and initials from the map department before the deed is presented to the auditor.</li>\n<li>Form DTE 102 when the parcel is, or last year was, in the CAUV farm program.</li>\n<li>The grantor's signature, notarized.</li>\n</ul>\n<p>Fees listed on that page: $1.00 per thousand dollars of price as the mandatory state conveyance fee, $2.00 per thousand as the county's transfer tax, for a combined $3.00 per thousand, with leftover pennies bumped up to the next dime, plus $0.50 per parcel for the transfer itself. The county commissioners adopted the $2.00 levy, which the page labels permissive.</p>"
   },
   {
    "h2": "Which Warren County transfers are exempt from the conveyance fee?",
    "html": "<p>An exempt transfer uses form 100 EX, where the grantee checks one reason from a lettered list on the back. Reasons (b), (g) and (m) need a notarized affidavit explaining the facts, since the auditor wants to know why no money changed hands.</p>\n<p>Under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">section 319.54</a> the exempt categories include:</p>\n<ul>\n<li>Transfers to or from governments and their agencies.</li>\n<li>Deeds that exist only to secure or release a debt.</li>\n<li>Confirmation and correction deeds.</li>\n<li>Gifts between spouses and between parents and children.</li>\n<li>Sales for delinquent taxes or assessments.</li>\n<li>Deeds that put property into, or take it out of, a trust the maker can revoke.</li>\n<li>Transfers among heirs when no consideration is paid.</li>\n</ul>"
   },
   {
-   "h2": "How must a deed be signed to be accepted in Warren County?",
-   "html": "<p>The auditor's page requires the grantor to sign any deed executed in Ohio and have it notarized. That tracks <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5301.01\">section 5301.01</a>, which lets a judge, a court clerk, a county auditor, a county engineer, a notary or a mayor take the acknowledgment.</p>\n<p>The recorder is the final stop. Under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5301.25\">section 5301.25</a> an unrecorded deed is treated as fraudulent against a later good-faith buyer who had no knowledge of it. Getting the deed on the Warren County record promptly after closing closes that gap.</p>"
+   "h2": "What does the Warren County recorder do after closing?",
+   "html": "<p>The recorder's job is to index each document so a title examiner can trace the chain of ownership and see any debt against the parcel. Recording right after closing puts the new deed in that chain, and the recorder's own description of its work says the permanent record is what makes it possible to buy land with a clear title.</p>\n<p>The auditor's list above also requires the grantor's signature on every Ohio deed, with a notary's certificate. Warren County treats the signature and acknowledgment as a precondition and will not take the deed without them.</p>"
   },
   {
    "h2": "What does the Warren County recorder keep, and what is handled elsewhere?",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "Who collects Warren County property tax on a home being sold?",
-   "html": "<p>The county treasurer, whose office hours run Monday through Friday from 7:30 am to 4:30 pm. Online payment goes through the county's myWarrenCountyOhio portal, and the pay-by-phone number is 513-496-2931. For tax year 2025 the first half came due February 25, 2026, and the second half August 12, 2026, a date the Tax Commissioner extended because the new inflation cap credit under House Bill 186 delayed the bills.</p>\n<p>A seller who has not paid, or whose mortgage servicer pays from escrow, should confirm the balance before closing day so the payoff and the deed fees can be settled together.</p>"
+   "html": "<p>The county treasurer, whose office hours run Monday through Friday from 7:30 am to 4:30 pm. Online payment goes through the county's myWarrenCountyOhio portal, and the pay-by-phone number is 513-496-2931. The treasurer's page showed February 25, 2026 and August 12, 2026 as the 2025 tax year deadlines, the later one extended after the inflation cap credit in House Bill 186 held up the second-half bills.</p>\n<p>A seller who has not paid, or whose mortgage servicer pays from escrow, should confirm the balance before closing day so the payoff and the deed fees can be settled together.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +45,7 @@
   },
   {
    "q": "What is the Warren County fee to record a deed?",
-   "a": "The posted schedule shows $34.00 for the first two pages and $8.00 for each additional page. The schedule is dated October 17, 2019, and the recorder does not charge the optional $5 preservation fee."
+   "a": "Its schedule lists $34.00 for the opening two pages and $8.00 per page beyond that. The schedule carries an October 17, 2019 date, and the office says it does not collect the optional $5 preservation fee."
   },
   {
    "q": "Does Warren County accept e-recording?",
@@ -112,14 +112,6 @@
   {
    "title": "Ohio Revised Code 319.54",
    "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
-  },
-  {
-   "title": "Ohio Revised Code 5301.01",
-   "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.01"
-  },
-  {
-   "title": "Ohio Revised Code 5301.25",
-   "url": "https://codes.ohio.gov/ohio-revised-code/section-5301.25"
   }
  ]
 }
