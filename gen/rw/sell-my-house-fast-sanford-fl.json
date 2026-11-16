@@ -24,6 +24,10 @@
   {
    "h2": "What if the Sanford house is inherited, rented or behind on payments?",
    "html": "<ul><li>Inherited: summary administration is available when the non-exempt estate is $150,000 or less or the owner died over two years ago (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.201.html\">section 735.201</a>). Creditor claims are cut off at the later of three months after the first notice publication or 30 days after service on a known creditor (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0733/Sections/0733.702.html\">section 733.702</a>).</li><li>Rented: week-to-week tenancies end on 7 days' notice and month-to-month on 30 days (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html\">section 83.57</a>).</li><li>Behind on payments: after a foreclosure judgment, the clerk sells the property at least 20 and no more than 35 days later unless the plaintiff agrees to a longer period (<a href=\"https://flsenate.gov/Laws/Statutes/2026/45.031\">section 45.031</a>).</li></ul>\n<p>The Seminole County Clerk's office also offers free property fraud alerts, which the appraiser's page recommends for any owner, and especially for owners of an empty inherited house.</p>"
+  },
+  {
+   "h2": "How does a Sanford house sale close, step by step?",
+   "html": "<p>A typical closing runs from signed contract to recorded deed in a few steps, and a cash sale simply removes the lender and appraisal steps. Your title agent or closing attorney coordinates most of it.</p>\n<ol><li>Contract: price, closing date, who pays the deed tax and recording costs.</li><li>Title search: finds mortgages, judgments and unpaid liens, which are paid from your proceeds.</li><li>Deed signing: Florida requires a conveyance of land to be signed in front of two subscribing witnesses (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html\">section 689.01</a>), and witnessing may be done by audio-video technology.</li><li>Payment and recording: the closing agent delivers funds and sends the deed to the Seminole County clerk for recording.</li><li>Ownership update: the property appraiser updates the parcel owner once the recorded deed is processed.</li></ol>\n<p>The appraiser's site warns that deed linking can lag when the clerk's records system is down, so do not worry if the online owner name takes a while to change after recording.</p>"
   }
  ],
  "faqs": [
@@ -88,6 +92,10 @@
   {
    "title": "Fla. Stat. 83.57",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
+  },
+  {
+   "title": "Fla. Stat. 689.01",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html"
   },
   {
    "title": "Fla. Stat. 45.031",
