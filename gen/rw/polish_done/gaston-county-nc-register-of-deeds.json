@@ -11,15 +11,15 @@
   },
   {
    "h2": "Other services at the office",
-   "html": "<p>The office records and indexes deeds, plats, maps, deeds of trust, mortgages and other personal property documents. It also issues marriage licenses and keeps birth and death certificates, and it runs a passport service.</p>\n<p>Paper records are kept in vaults, and digital copies sit on secure servers in the courthouse.</p>"
+   "html": "<p>Beyond deeds, staff index plats, maps, mortgages and other personal property papers. The same counter issues marriage licenses, holds birth and death certificates and handles passport applications.</p>\n<p>Paper records are kept in vaults, and digital copies sit on secure servers in the courthouse.</p>"
   },
   {
    "h2": "Copies and counter payments",
-   "html": "<p>Plain copies run $0.25 a page. Certified copies start at $5 for page one, and each added page is $2.</p>\n<p>Ways to pay Register of Deeds fees:</p>\n<ul>\n<li>Cash.</li>\n<li>Business check or money order, made out to Gaston County Register of Deeds.</li>\n<li>Debit or credit card.</li>\n</ul>\n<p>Employees can show you the books and help with the computers. State law keeps them from title research, and they will not run a lien check. If you lose a deed, buy a copy in person or write to the P.O. Box for one. A name change on a deed requires a brand new deed, so see an attorney, because the office stocks no legal forms for deeds or powers of attorney.</p>"
+   "html": "<p>Plain copies run $0.25 a page. Certified copies start at $5 for page one, and each added page is $2.</p>\n<p>Ways to pay Register of Deeds fees:</p>\n<ul>\n<li>Cash.</li>\n<li>Business check or money order payable to the Gaston County Register of Deeds.</li>\n<li>Debit or credit card.</li>\n</ul>\n<p>Employees can show you the books and help with the computers. State law keeps them from title research, and they will not run a lien check. If you lose a deed, buy a copy in person or write to the P.O. Box for one. A name change on a deed requires a brand new deed, so see an attorney, because the office stocks no legal forms for deeds or powers of attorney.</p>"
   },
   {
    "h2": "Recording fees for a closing package",
-   "html": "<p>The uniform fee schedule follows G.S. 161-10.</p>\n<ul>\n<li>A general instrument is $26 through page 15, and each page past 15 adds $4.</li>\n<li>A mortgage or deed of trust is $64 through page 35, with the same $4 for each extra page.</li>\n<li>Recording a satisfaction of a paid-off loan costs nothing.</li>\n<li>A plat is $21 a sheet.</li>\n<li>Each extra instrument inside one document adds $10.</li>\n</ul>\n<p>Transfer tax is a separate line, set by G.S. 105-228.30 at a dollar per $500 of price (any remainder counts as another $500). The seller pays it when the deed is presented.</p>"
+   "html": "<p>The uniform fee schedule follows G.S. 161-10.</p>\n<ul>\n<li>General instruments: $26 covers pages one to 15, then $4 per page.</li>\n<li>Mortgages and deeds of trust: $64 covers pages one to 35, then the same $4 per page.</li>\n<li>Satisfactions of a paid-off loan: free.</li>\n<li>Plats: $21 for each sheet.</li>\n<li>Additional instruments bundled in one document: $10 apiece.</li>\n</ul>\n<p>The transfer tax comes on top. G.S. 105-228.30 sets it at one dollar for every $500 of price, rounding a remainder up to the next $500, and the seller pays when the deed is presented.</p>"
   },
   {
    "h2": "Hours, cutoffs and addresses",
@@ -31,11 +31,11 @@
   },
   {
    "h2": "Protection from deed and lien fraud",
-   "html": "<p>A free alert service runs through the county's land records software provider. Enter a name and an email address, and a message arrives whenever a recording is filed under that name.</p>\n<p>No system can prevent fraud. The alerts help you spot a bad filing quickly, which matters if you own a vacant, inherited or rental house in Gaston County and might not see the mail. Anyone who prepares a document for recording is also barred from including Social Security, bank account, card or similar numbers unless the law requires it. If one does appear, you can ask in writing for it to be removed from the online image under G.S. 132-1.10(g). There is no fee for that request, though the underlying filing stays in the public record.</p>"
+   "html": "<p>A free alert service runs through the county's land records software provider. Enter a name and an email address, and a message arrives whenever a recording is filed under that name.</p>\n<p>Alerts cannot stop fraud. They only let you notice a suspicious filing fast, which is valuable when the house is empty, rented or inherited and the mail piles up. People preparing documents for recording may not include Social Security, bank account or card numbers unless the law requires one. A number that slips through can be taken off the online image if you ask in writing under G.S. 132-1.10(g). That request is free, but the filing itself stays public.</p>"
   },
   {
    "h2": "How values and appeals tie to a sale",
-   "html": "<p>A four-year reappraisal cycle applies here. January 1, 2023 is the latest value date, and 2027 is next, with an informal review ahead of any Board of Equalization and Review hearing.</p>\n<p>Owners may file from January 1 until that board adjourns, typically the last week of April, or until 30 days after a Notice of Value Change if that is later. The Tax Office is at 128 West Main Avenue in Gastonia, phone 704-866-3158. Property tax is billed separately from anything the Register of Deeds collects and stays with the property until paid, so buyers expect it settled at closing. Our <a href=\"/gaston-county-nc-property-tax-guide/\">Gaston County property tax guide</a> covers rates, relief programs and payment options in detail.</p>"
+   "html": "<p>A four-year reappraisal cycle applies here. January 1, 2023 is the latest value date, and 2027 is next, with an informal review ahead of any Board of Equalization and Review hearing.</p>\n<p>Appeals can be filed beginning January 1 and ending when the board adjourns, usually the last week of April, or 30 days after a Notice of Value Change when that comes later. Reach the Tax Office at 128 West Main Avenue in Gastonia or 704-866-3158. The Register of Deeds does not collect property tax. That bill stays with the parcel until paid, and buyers expect it cleared at closing. Our <a href=\"/gaston-county-nc-property-tax-guide/\">Gaston County property tax guide</a> covers rates, relief programs and payment options in detail.</p>"
   },
   {
    "h2": "Why recording order matters",
@@ -48,15 +48,15 @@
  ],
  "faqs": [
   {
-   "q": "Where do I mail documents to the Gaston County Register of Deeds?",
+   "q": "What is the mailing address for Gaston County recordings?",
    "a": "Address the envelope to Gaston County Register of Deeds, P.O. Box 1578, Gastonia, NC 28053. If you ship overnight, use an express envelope and enclose a prepaid return envelope."
   },
   {
-   "q": "What is the cutoff for recording a deed in Gaston County?",
+   "q": "How late in the day can a Gaston County deed be filed?",
    "a": "4:45 pm for real estate recordings. The office stays open until 5 pm, but marriage applications stop at 4:30 pm."
   },
   {
-   "q": "What do Gaston County copies cost?",
+   "q": "How much are copies at the Gaston County office?",
    "a": "A black and white copy is $0.25 a page. A certified copy is $5 for the first page and $2 for every page after it."
   },
   {
@@ -64,7 +64,7 @@
    "a": "Yes, through a public search, and nothing was lost in the switch to the new vendor. A few older records are not digitized, so phone 704-862-7681 if you cannot find one."
   },
   {
-   "q": "Who owes the deed tax on a Gaston County closing?",
+   "q": "Is the Gaston County deed tax the buyer's or the seller's?",
    "a": "You do, as the seller, at one dollar for each $500 of price when the deed is handed in. Your settlement statement shows the exact figure."
   }
  ],
