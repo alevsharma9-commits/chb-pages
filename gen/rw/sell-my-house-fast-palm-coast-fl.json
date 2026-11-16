@@ -7,11 +7,11 @@
   },
   {
    "h2": "What kind of city is Palm Coast?",
-   "html": "<p>Palm Coast is a young city on Florida's northeast coast, incorporated in 1999. The city's About page describes 70 miles of saltwater and freshwater canals, the Intracoastal Waterway, a dozen parks and more than 130 miles of connecting trails.</p><p>The city lists the St. Joe Walkway and Linear Park as Great Florida Birding and Wildlife Trails, and says visitors can spot dolphins and seabirds from Waterfront Park along the Intracoastal. Water access is what many buyers look for first, so describe it clearly. City Council meets on the first Tuesday of each month at 6:00 p.m. and the third Tuesday at 9 a.m., at City Hall, 160 Lake Avenue.</p>"
+   "html": "<p>Palm Coast is a young city on Florida's northeast coast, incorporated in 1999. The city's About page describes 70 miles of saltwater and freshwater canals, the Intracoastal Waterway, a dozen parks and more than 130 miles of connecting trails.</p><p>The city lists the St. Joe Walkway and Linear Park as Great Florida Birding and Wildlife Trails, and says visitors can spot dolphins and seabirds from Waterfront Park along the Intracoastal. Water access is what many buyers look for first, so describe it clearly. City Council meets on the first Tuesday of each month at 6:00 p.m. and the third Tuesday at 9 a.m., at City Hall, 160 Lake Avenue.</p><p>Waterfront Park covers 20 acres along the Intracoastal Waterway and is open from 7 a.m. to 7 p.m. daily, according to the city. It has a fishing pier, a floating dock, kayak and paddleboard rentals, three picnic pavilions and trail links to the wider city system, and visitors often see manatees and dolphins. The city's contact page lists Building Services at 386-986-3780 and Code Compliance at 386-986-3764, and its Departments menu includes a lien request form and a garage sale permit page, both useful to a seller clearing out a house.</p>"
   },
   {
    "h2": "Who lives in Palm Coast and what do homes cost?",
-   "html": "<p>Growth here has been fast and retirees make up a large share of residents. The Census Bureau reports the following for the city.</p><table><thead><tr><th>Palm Coast in numbers</th><th>Reported value</th></tr></thead><tbody><tr><td>Residents (2025 estimate)</td><td>109,886</td></tr><tr><td>Growth since the 2020 base</td><td>23.2%</td></tr><tr><td>Residents aged 65 or older</td><td>29.5%</td></tr><tr><td>Households that own their home</td><td>81.9%</td></tr><tr><td>Typical owner-occupied home value</td><td>$350,800</td></tr><tr><td>Typical monthly rent</td><td>$1,782</td></tr><tr><td>Area on land</td><td>95.36 square miles</td></tr></tbody></table><p>Source: <a href=\"https://www.census.gov/quickfacts/palmcoastcityflorida\">Census QuickFacts, Palm Coast city</a>. The count was 89,258 in the 2020 census and 75,180 in 2010. With 8,465 veterans and household income near $77,350, many sellers here have a service background or retirement income.</p>"
+   "html": "<p>Growth here has been fast and retirees make up a large share of residents. The Census Bureau reports the following for the city.</p><table><thead><tr><th>Palm Coast in numbers</th><th>Reported value</th></tr></thead><tbody><tr><td>Residents (2025 estimate)</td><td>109,886</td></tr><tr><td>Growth since the 2020 base</td><td>23.2%</td></tr><tr><td>Residents aged 65 or older</td><td>29.5%</td></tr><tr><td>Owner share of households</td><td>81.9%</td></tr><tr><td>Owner-occupied home value, midpoint</td><td>$350,800</td></tr><tr><td>Gross rent, midpoint</td><td>$1,782</td></tr><tr><td>Area on land</td><td>95.36 square miles</td></tr></tbody></table><p>Source: <a href=\"https://www.census.gov/quickfacts/palmcoastcityflorida\">Census QuickFacts, Palm Coast city</a>. The count was 89,258 in the 2020 census and 75,180 in 2010. With 8,465 veterans and household income near $77,350, many sellers here have a service background or retirement income.</p>"
   },
   {
    "h2": "What permits do Palm Coast homeowners need?",
@@ -108,6 +108,10 @@
   {
    "title": "Florida Statutes s. 83.57, termination of tenancy",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
+  },
+  {
+   "title": "City of Palm Coast, Waterfront Park",
+   "url": "https://www.palmcoast.gov/waterfront-park"
   }
  ]
 }

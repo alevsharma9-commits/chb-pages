@@ -11,11 +11,15 @@
   },
   {
    "h2": "What do the Census figures show for Palm Bay?",
-   "html": "<p>Palm Bay is a large, moderately priced city by Florida coastal standards. These figures describe the city overall, so use them as background and ask an agent or buyer for a number on your own address.</p><table><thead><tr><th>Palm Bay in numbers</th><th>Reported value</th></tr></thead><tbody><tr><td>Residents (2025 estimate)</td><td>148,092</td></tr><tr><td>Growth since the 2020 base</td><td>23.7%</td></tr><tr><td>Households that own their home</td><td>79.7%</td></tr><tr><td>Typical owner-occupied home value</td><td>$283,200</td></tr><tr><td>Typical monthly rent</td><td>$1,601</td></tr><tr><td>Typical household income</td><td>$72,614</td></tr><tr><td>Area on land</td><td>86.42 square miles</td></tr></tbody></table><p>Source: <a href=\"https://www.census.gov/quickfacts/palmbaycityflorida\">Census QuickFacts, Palm Bay city</a>. The 2020 density works out to roughly 1,386 people for each square mile, spread thinner than in many neighbors. Veterans number 9,975, and 19.0% of residents are 65 or older.</p>"
+   "html": "<p>Palm Bay is a large, moderately priced city by Florida coastal standards. These figures describe the city overall, so use them as background and ask an agent or buyer for a number on your own address.</p><table><thead><tr><th>Palm Bay in numbers</th><th>Reported value</th></tr></thead><tbody><tr><td>Residents (2025 estimate)</td><td>148,092</td></tr><tr><td>Growth since the 2020 base</td><td>23.7%</td></tr><tr><td>Owner share of households</td><td>79.7%</td></tr><tr><td>Owner-occupied home value, midpoint</td><td>$283,200</td></tr><tr><td>Gross rent, midpoint</td><td>$1,601</td></tr><tr><td>Household income, midpoint</td><td>$72,614</td></tr><tr><td>Area on land</td><td>86.42 square miles</td></tr></tbody></table><p>Source: <a href=\"https://www.census.gov/quickfacts/palmbaycityflorida\">Census QuickFacts, Palm Bay city</a>. The 2020 density works out to roughly 1,386 people for each square mile, spread thinner than in many neighbors. Veterans number 9,975, and 19.0% of residents are 65 or older.</p>"
   },
   {
    "h2": "How did the 2026 flood change selling in Palm Bay?",
    "html": "<p>It added paperwork and, for some owners, financial help. The city's flood page, last updated November 12, 2026, describes road closures, a damage reporting form run by Brevard County Emergency Management, and waived permit fees for residential flood repairs.</p><ul><li><strong>Fee waiver:</strong> the Building Department said it would waive permit fees for flood-related home repairs. Call 321-953-8924 before starting work.</li><li><strong>Insurance claims:</strong> an owner with a National Flood Insurance Program policy needs a substantial damage inspection as part of the claim and before permitting.</li><li><strong>Disaster Relief Program:</strong> the city describes repair help for owners who have lived with a homestead exemption for a year or more, are current on mortgage, taxes and utilities, and have very low or low income. Aid above $20,000 comes as a forgivable 0 percent mortgage over five years.</li><li><strong>Contractors:</strong> the city warns against paying everything upfront and points owners to the state's license lookup.</li></ul><p>If your house took on water, an as-is cash sale can spare you a repair project and a permit file. If you repair first, keep photos, estimates and permits together, since a buyer's lender and insurer will ask for them.</p>"
+  },
+  {
+   "h2": "What should a Palm Bay seller know about flood zones?",
+   "html": "<p>Palm Bay sits between the Indian River Lagoon on its east edge and the St. Johns River and marsh to the west, and the city's flood page says both can pose hazards in severe rain. The same page says that historically even major storms caused little structural flood damage, which makes the 2026 event stand out.</p><ul><li><strong>Flood map change:</strong> a new FEMA map took effect March 17, 2014, and the city says about 2,000 structures and over 5,000 residential lots left the Special Flood Hazard Area. Owners of those homes qualify for a Preferred Risk policy if they choose.</li><li><strong>Insurance discount:</strong> the city holds a Community Rating System rating of 7, which it describes as a 15 percent reduction in federal flood insurance for residents.</li><li><strong>Elevation certificates:</strong> the Building Department keeps copies of floodplain reviews with FEMA Elevation Certificates for homes built since 1993.</li><li><strong>Map amendments:</strong> a raised structure can seek a Letter of Map Amendment or a Letter of Map Revision based on Fill. FEMA's fee for the second was $425 on the city's page.</li><li><strong>Mandatory coverage:</strong> a federally backed mortgage on a building in the Special Flood Hazard Area requires a flood policy.</li></ul><p>A buyer's lender will check the flood zone, so gather any elevation certificate and map amendment before you list. For zone questions, the Growth Management Department takes calls at 321-952-3400, extension 5246.</p>"
   },
   {
    "h2": "What does Palm Bay require for permits?",
@@ -116,6 +120,10 @@
   {
    "title": "Florida Statutes s. 45.031, judicial sales",
    "url": "https://flsenate.gov/Laws/Statutes/2026/45.031"
+  },
+  {
+   "title": "City of Palm Bay, flood information",
+   "url": "https://www.palmbayfl.gov/government/city-departments-a-to-e/building-permits-inspections/flood-information"
   }
  ]
 }
