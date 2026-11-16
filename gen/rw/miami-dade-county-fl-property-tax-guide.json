@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "How big is Miami-Dade County, and who pays the tax?",
-   "html": "<p>The county spans 1,899.90 square miles of land and held an estimated 2,802,029 people in mid-2025, per the Census Bureau. Housing units total 1,125,274, and owners live in 52.2 percent of them.</p><p>A typical owned home was valued at $463,000 in the 2020 to 2024 survey. Median household income is $71,753 in 2024 dollars. Tax follows value, and values here sit above many Florida counties.</p>"
+   "html": "<p>The county covers 1,899.90 land square miles and held an estimated 2,802,029 people in mid-2025, per the Census Bureau. Housing units total 1,125,274, and owners live in 52.2 percent of them.</p><p>Owner-occupied homes carried a median value of $463,000 across 2020 to 2024. Median household income is $71,753 in 2024 dollars. Tax follows value, and values here sit above many Florida counties.</p>"
   },
   {
    "h2": "Which Miami-Dade offices handle property tax?",
-   "html": "<p>Three county offices share the work, and each answers a different question.</p><ul><li>The Property Appraiser sets values and rules on exemptions. Its main office is 111 NW 1st Street, Suite 710, with a south branch at 10710 SW 211 Street in Cutler Bay. Phone 305-375-4712.</li><li>The Tax Collector mails bills and takes payment at 13 locations, online and through mobile offices.</li><li>The Clerk of the Circuit Court records deeds, and state law gives it the filing desk for value petitions and the tax deed auctions.</li></ul><p>The appraiser states plainly that it mails no tax bills.</p>"
+   "html": "<p>Three county offices share the work, and each answers a different question.</p><ul><li>The Property Appraiser sets values and rules on exemptions. Its main office is 111 NW 1st Street, Suite 710, with a south branch at 10710 SW 211 Street in Cutler Bay. Phone 305-375-4712.</li><li>The Tax Collector mails bills and takes payment at 13 locations, online and through mobile offices.</li><li>The clerk's office records deeds, and state law gives it the filing desk for value petitions and the tax deed auctions.</li></ul><p>The appraiser states plainly that it mails no tax bills.</p>"
   },
   {
    "h2": "What did the 2026 Miami-Dade tax roll look like?",
@@ -18,8 +18,12 @@
    "html": "<p>Rates differ a lot by city. The 2026 adopted chart lists totals from 14.9007 on one North Miami Beach line up to 24.1893 for Biscayne Park, while unincorporated areas total 16.8983.</p><p>Examples from the chart: Miami totals 19.9544, Miami Beach 18.6681, Coral Gables 18.1518, Hialeah 18.6134 and Doral 16.9487. Some rows carry extra debt or district lines, so read each row on its own.</p><p>Always use the chart row for your actual taxing area. Our city pages cover <a href=\"https://cashhomebuyersca.com/miami-fl-property-tax-guide/\">Miami</a> and <a href=\"https://cashhomebuyersca.com/miami-beach-fl-property-tax-guide/\">Miami Beach</a> in more detail.</p>"
   },
   {
+   "h2": "Which municipalities appear on the Miami-Dade millage chart?",
+   "html": "<p>The 2026 chart covers more than three dozen taxing areas. The list runs from Aventura, Bal Harbour and Bay Harbor Islands through Coral Gables, Doral, Hialeah and Homestead to Key Biscayne, Pinecrest, Sunny Isles, Surfside and West Miami, plus unincorporated areas.</p><ul><li>Lowest city lines: Doral at 1.5994 mills, Sunny Isles at 1.6514, Aventura at 1.7261.</li><li>Highest city lines: Biscayne Park at 9.2000, Opa-Locka at 8.9797, El Portal at 8.0500.</li><li>Mid-range: Hialeah at 6.3018, Homestead at 5.9604, Miami Gardens at 6.9363.</li></ul><p>Cities with a low rate may still show other lines such as fire and rescue or library. Always read your total, not the city figure alone.</p>"
+  },
+  {
    "h2": "What does the Miami-Dade economy add to the tax base?",
-   "html": "<p>Census figures for 2023 count 98,394 employer establishments employing 1,055,440 people, with total annual payroll of about $71.6 billion. Employment grew 4.6 percent from 2022 to 2023.</p><p>Retail sales reached about $67.1 billion in 2022, accommodation and food services about $15.4 billion, health care and social assistance about $30.3 billion and transportation and warehousing about $38.5 billion. Building permits for 2025 numbered 16,535.</p><p>Business property is taxed too. Tangible personal property owners file Form DR-405 by April 1, and the appraiser runs a searchable tangible personal property tool by business name, address or folio.</p>"
+   "html": "<p>Census figures for 2023 count 98,394 employer establishments employing 1,055,440 people, with total annual payroll of about $71.6 billion. Employment grew 4.6 percent from 2022 to 2023.</p><p>For 2022, the Census shows $67.1 billion in retail sales, $15.4 billion in lodging and restaurant sales, $30.3 billion in health care revenue and $38.5 billion in freight and storage receipts. Building permits for 2025 numbered 16,535.</p><p>Business property is taxed too. Tangible personal property owners file Form DR-405 by April 1, and the appraiser runs a searchable tangible personal property tool by business name, address or folio.</p>"
   },
   {
    "h2": "When are Miami-Dade property taxes due?",
@@ -43,7 +47,7 @@
   },
   {
    "h2": "How are taxes handled when a Miami-Dade house sells?",
-   "html": "<p>The title agent asks the tax collector for a payoff and settles the year's tax from the seller's proceeds. Your contract decides how that year's tax is divided between buyer and seller.</p><p>Deed stamps here run 60 cents per $100, plus a 45 cents per $100 surtax that the revenue department says is not due on a document moving only a single-family dwelling. The clerk collects them at the counter or by e-filing.</p>"
+   "html": "<p>The title agent obtains a payoff figure from the tax collector and settles the year's tax from the seller's proceeds. Your contract decides how that year's tax is divided between buyer and seller.</p><p>Deed stamps here run 60 cents per $100, plus a 45 cents per $100 surtax that the revenue department says is not due on a document moving only a single-family dwelling. The clerk collects them at the counter or by e-filing.</p>"
   }
  ],
  "faqs": [
