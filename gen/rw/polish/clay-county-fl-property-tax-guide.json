@@ -7,7 +7,7 @@
   },
   {
    "h2": "Who bills and who values",
-   "html": "<p>Two offices split the work. One mails and collects the tax. The other decides what each parcel is worth and who qualifies for exemptions.</p><p>Bills go out by November 1. If a lender pays your tax, you receive an information-only copy. Value is set as of January 1, though payment is normally due starting November 1. Florida Statute 197.122 puts the burden on owners to find out what they owe and pay before delinquency, even when no bill arrives in the mail.</p><ul><li>Property appraiser: value, homestead, portability and other exemptions, filed by March 1.</li><li>Tax collector: payment, installment and partial payment plans, certificate sales.</li><li>Clerk: records the deed and collects stamp tax.</li></ul>"
+   "html": "<p>Two offices split the work. One office mails the bills and collects payment. The other sets each parcel's value and decides who qualifies for an exemption.</p><p>Mailing is done by November 1. If a lender pays your tax, you receive an information-only copy. Value is set as of January 1, though payment is normally due starting November 1. Florida Statute 197.122 puts the burden on owners to find out what they owe and pay before delinquency, even when no bill arrives in the mail.</p><ul><li>Property appraiser: value, homestead, portability and other exemptions, filed by March 1.</li><li>Tax collector: payment, installment and partial payment plans, certificate sales.</li><li>Clerk: records the deed and collects stamp tax.</li></ul>"
   },
   {
    "h2": "Discounts and due dates",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "When taxes go unpaid",
-   "html": "<p>Expect a 3% penalty on April 1, more fees from May 1, and a certificate sale by June 1.</p><p>If a certificate sits unredeemed, a tax deed application can follow two years on, with a $75 application fee. The clerk runs the auction. The owner can pay the taxes before the deed issues and stop the sale.</p><p>Costs climb at each stage, so request a payoff before you put a house with unpaid tax on the market.</p>"
+   "html": "<p>Expect a 3% penalty on April 1, more fees from May 1, and a certificate sale by June 1.</p><p>If a certificate sits unredeemed, a tax deed application can follow two years on, with a $75 application fee. The clerk conducts the auction. The owner can pay the taxes before the deed issues and stop the sale.</p><p>Costs climb at each stage, so request a payoff before you put a house with unpaid tax on the market.</p>"
   },
   {
    "h2": "Deadlines that catch sellers",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "Homestead and the Save Our Homes cap",
-   "html": "<p>Send Form DR-501 to the appraiser by March 1. The home has to be your permanent residence on January 1.</p><p>The exemption is worth up to $50,000. The first $25,000 reduces all taxes, and the added $25,000 reduces only non-school taxes on value over $50,000. From the second year, assessed value can rise by only the smaller of 3 percent or inflation, and the published chart shows caps of 2.9 percent for 2025 and 2.7 percent for 2026. Portability allows a move to a new Florida homestead within three years, with Form DR-501T filed alongside.</p><p>Non-homestead property has a separate 10 percent annual limit on assessed value growth. A rental or second home can still see its taxable value climb every year.</p>"
+   "html": "<p>Send Form DR-501 to the appraiser by March 1. The home has to be your permanent residence on January 1.</p><p>The exemption can be worth as much as $50,000. The first $25,000 reduces all taxes, and the added $25,000 reduces only non-school taxes on value over $50,000. After the first year, assessed value rises by no more than 3 percent or inflation, whichever is lower. The published chart lists caps of 2.9 percent for 2025 and 2.7 percent for 2026. Portability allows a move to a new Florida homestead within three years, with Form DR-501T filed alongside.</p><p>Non-homestead property has a separate 10 percent annual limit on assessed value growth. A rental or second home can still see its taxable value climb every year.</p>"
   },
   {
    "h2": "Settling the tax when you sell",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "A practical order of steps",
-   "html": "<p>Start with a written payoff from the collector, and ask whether any plan is open on the parcel. Next, tell the title agent which installments are paid so the contract can split the rest. Then check that your exemption paperwork is in order so you can explain it to the buyer. On closing day, read the settlement statement's tax lines against the collector's figure, and afterward file the paid receipt with your closing documents.</p><p>A cash buyer doesn't need a lender's approval, so closings can move fast. That makes it more useful to settle the payoff early, since there is less time to fix a surprise.</p>"
+   "html": "<p>Start with a written payoff from the collector, and ask whether any plan is open on the parcel. Next, tell the title agent which installments are paid so the contract can split the rest. Then check that your exemption paperwork is in order so you can explain it to the buyer. On closing day, read the settlement statement's tax lines against the collector's figure, and afterward file the paid receipt with your closing documents.</p><p>A cash buyer doesn't need a lender's approval, so closings can move fast. That makes it more useful to settle the payoff early, since there is less time to fix a surprise.</p><p>If you inherited the house, bring the paperwork that shows you may sell it, and tell the collector where to send future notices. If the property is a rental, collect your tenant's contact details so the buyer can reach them. Ask your title agent for a list of documents it needs from you well before the closing date, and gather them in one folder. Having each item in hand keeps a sale on schedule even if a tax question comes up late. Finally, save an email or letter from the collector confirming your balance, so any later question about the same year can be answered with a document and not a memory. Store it with your deed copy and closing statement.</p>"
   }
  ],
  "faqs": [
@@ -48,16 +48,16 @@
    "a": "Apply by the end of April, with an estimate above $100. The June 30 first payment gets the biggest discount."
   },
   {
-   "q": "Does Clay County charge a fee to pay by credit card?",
-   "a": "Cards carry a 2.50% fee. Online e-check payments carry none."
+   "q": "Is there a card fee on Clay County tax payments?",
+   "a": "A card adds 2.50%. Online e-check payments carry none."
   },
   {
    "q": "When is the Clay County tax certificate sale?",
    "a": "By June 1, covering the prior year's delinquent real estate taxes, with extra fees from May 1."
   },
   {
-   "q": "Where do I apply for homestead in Clay County?",
-   "a": "Use Form DR-501 and send it to the appraiser by the first of March. The tax collector only bills."
+   "q": "Who takes the Clay County homestead application?",
+   "a": "Use Form DR-501 and send it to the appraiser by the first of March. The collector only bills."
   }
  ],
  "sources": [
