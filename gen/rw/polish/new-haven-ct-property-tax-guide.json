@@ -1,0 +1,61 @@
+{
+ "slug": "new-haven-ct-property-tax-guide",
+ "sections": [
+  {
+   "h2": "New Haven housing in brief",
+   "html": "<p>New Haven sits on its harbor on the north shore of Long Island Sound. The city covers about 20.1 square miles, around 1.4 of them water, and the 2020 census counted 134,023 residents. Rivers and a coastline run through low areas of town, East Rock and West Rock rise on the north side, and neighborhoods such as Westville, East Rock, Fair Haven, the Hill, Wooster Square and the East Shore each work as their own market.</p><p>Roughly 72 percent of occupied homes are rented, so a large share of sellers own rental property. Yale is the largest employer and also the biggest taxpayer. Connecticut abolished county government in 1960, so there is no county tax bill. The city bills for municipal services, schools and everything else in one place.</p>"
+  },
+  {
+   "h2": "Due dates and how to pay",
+   "html": "<p>The fiscal year runs July 1 to June 30. The first payment is due July 1 and the second January 1, and the city mails a single bill, usually in June, with taxes payable in advance. Details from the <a href=\"https://www.newhavenct.gov/government/departments-divisions/tax-collector-division/pay-taxes\">city's pay taxes page</a> are below.</p><table><thead><tr><th>Payment detail</th><th>How New Haven handles it</th></tr></thead><tbody><tr><td>First installment</td><td>Due July 1, covers July 1 to December 31</td></tr><tr><td>Second installment</td><td>Due January 1, covers January 1 to June 30</td></tr><tr><td>In person</td><td>Office of the Tax Collector, 165 Church St, 1st floor, Monday to Friday 9 AM to 5 PM</td></tr><tr><td>By mail</td><td>Collector of Taxes, City of New Haven, PO Box 1927, New Haven, CT 06509-1927</td></tr><tr><td>Cards</td><td>Not accepted in the office; online debit carries a $3.25 fee and credit card 2.5 percent</td></tr><tr><td>Personal checks</td><td>Automatic five business day hold</td></tr></tbody></table><p>Write the tax account number on any check you mail. Online payments made before 8 PM Monday to Thursday post the next business day, and later ones can take 48 hours or more. If a deadline is close, pay by cash, money order or bank check so no hold applies. Call the Tax Collector for the current interest charge on late payments.</p>"
+  },
+  {
+   "h2": "Who pays the bill after a sale?",
+   "html": "<p>The city tells new buyers that after closing they are responsible for the next bill that comes due, whether that is the July 1 or the January 1 installment. Questions about how the current period is divided go to the closing attorney.</p><p>State law adds a few rules that can touch a sale. Chapter 204 of the General Statutes includes a section on receipts for partial payments when property is transferred, and another on municipal expenses added to the tax bill for real estate that violates health, safety or housing codes. A separate section lets a municipality abate tax that exceeds 8 percent of an owner's income. In that case the owner signs a reimbursement agreement that is recorded as a lien and comes due in full when the property is sold or the last owner dies.</p>"
+  },
+  {
+   "h2": "Before you list or take a cash offer",
+   "html": "<p>Ask your attorney or title company to pull a current status for each installment, any code-enforcement charges and any recorded abatement lien. Low areas near the West, Mill and Quinnipiac rivers and the shoreline can mean damp basements, so check the roof, the gutters and the heating system as well, and ask your lender or title company whether a flood zone map applies to the lot. Buyers near the universities and the hospital look closely at condition, and pockets such as East Rock and Westville draw different offers than neighborhoods farther from the center.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>You can sell a New Haven house even if taxes are unpaid, because the unpaid amount is taken from the proceeds at closing. The practical steps are short:</p><ul><li>Ask the Tax Collector for the exact balance by installment and tax account number.</li><li>Ask the Assessor's Office whether any appeal or correction is pending.</li><li>Have your closing attorney confirm any liens or code charges.</li><li>Compare a cash offer with the cost of fixing the house and carrying it through another installment.</li></ul><p>A cash buyer that purchases as-is saves you repairs and showings, though it is smart to read any offer closely and ask a lawyer about it.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is New Haven property tax due?",
+   "a": "The first installment is due July 1 and the second is due January 1. New Haven mails a single bill, usually in June, and the fiscal year runs July 1 to June 30."
+  },
+  {
+   "q": "Where do I pay New Haven property tax in person?",
+   "a": "At the Office of the Tax Collector, 165 Church St, 1st floor, Monday to Friday 9 AM to 5 PM. The office takes cash, check, money order or bank check but not debit or credit cards."
+  },
+  {
+   "q": "Who pays the tax at a New Haven closing?",
+   "a": "The buyer is responsible for the next bill that comes due after closing. Your closing attorney sets how the current period is divided."
+  },
+  {
+   "q": "Is there a county property tax in New Haven?",
+   "a": "No. Connecticut abolished county government in 1960, so the city handles the bill for local services and schools."
+  },
+  {
+   "q": "Can I sell my New Haven house if I owe taxes?",
+   "a": "Yes. The title company pays unpaid tax from the sale proceeds, so ask for a payoff figure before closing."
+  }
+ ],
+ "sources": [
+  {
+   "title": "City of New Haven, Tax Collector Division, Pay Taxes",
+   "url": "https://www.newhavenct.gov/government/departments-divisions/tax-collector-division/pay-taxes"
+  },
+  {
+   "title": "New Haven, Connecticut, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/New_Haven,_Connecticut"
+  },
+  {
+   "title": "Connecticut General Statutes Chapter 204, Local Levy and Collection of Taxes",
+   "url": "https://www.cga.ct.gov/current/pub/chap_204.htm"
+  }
+ ]
+}

@@ -2,48 +2,48 @@
  "slug": "miami-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which Miami office sends the tax bill, and which one sets the value?",
-   "html": "<p>The Miami-Dade Tax Collector produces and collects the bill. The Property Appraiser of Miami-Dade County produces the values behind it, and says on its home page that it never mails bills or sets and collects taxes. Miami levies its own mills, which appear on the same statement as county, school and special district lines.</p>\n<p>A city spread across 36.00 square miles has parcels in different neighborhoods that can sit on different taxing lines, so always work from the folio and not the street address.</p>\n<ul><li>Appraiser, downtown: Stephen P. Clark Center, 111 NW 1st Street, Suite 710, 305-375-4712, weekdays 8 to 5.</li><li>Appraiser, south: South Dade Government Center, 10710 SW 211 Street, Cutler Bay, 305-232-3810.</li><li>Tax Collector: payments online at any hour, at 13 locations, or through its T-Connect mobile offices.</li></ul>"
+   "h2": "Which office sends the bill and which sets the value",
+   "html": "<p>The Miami-Dade Tax Collector prints and collects the bill. The Property Appraiser of Miami-Dade County produces the values behind it and never mails bills or sets and collects taxes. Miami levies its own mills, and they appear on the same statement as county, school and special district lines.</p><p>The city spreads across 36.00 square miles, and parcels in different neighborhoods can sit on different taxing lines. Work from the folio number, not the street address.</p><ul><li>Appraiser, downtown: Stephen P. Clark Center, 111 NW 1st Street, Suite 710, 305-375-4712, weekdays 8 to 5.</li><li>Appraiser, south: South Dade Government Center, 10710 SW 211 Street, Cutler Bay, 305-232-3810.</li><li>Tax Collector: payments online at any hour, at 13 locations, or through its T-Connect mobile offices.</li></ul>"
   },
   {
-   "h2": "Which Miami services can be handled without a trip downtown?",
-   "html": "<p>More than the old paper routine suggests. The appraiser now takes widow(er) exemptions and disability exemptions for veterans or surviving spouses online, with document upload, and agricultural classification applications on Form MD-482 can be filed the same way. A tangible personal property search covers business accounts by name, address or folio, and appointments for the downtown and Cutler Bay offices can be booked online.</p>\n<p>On the clerk side, a free alert system emails an owner within 24 hours when a deed or mortgage is recorded in their name. A Miami property left vacant after a move or a death is a common target for deed fraud, so owners of such houses should enroll before listing.</p>"
+   "h2": "Services you can finish without a trip downtown",
+   "html": "<p>More can be done remotely than the old paper routine suggests. The appraiser takes widow(er) exemptions and disability exemptions for a veteran or surviving spouse online, with document upload. Agricultural classification applications on Form MD-482 can be filed the same way. A tangible personal property search covers business accounts by name, address or folio, and appointments at the downtown and Cutler Bay offices can be booked online.</p><p>The clerk offers a free alert that emails an owner within 24 hours when a deed or mortgage is recorded in that owner's name. A house left vacant after a move or a death is a common target for deed fraud, so enroll before you list.</p>"
   },
   {
-   "h2": "What millage does the county's 2026 chart assign to Miami?",
-   "html": "<p>The chart lists Miami at 7.1080 mills for city operations plus 0.2536 for city debt, and the row total is 19.9544. The county prints the chart under the title 2026 adopted millage rates. The chart's 2025 column for the same row reads 19.9878, so the combined figure slipped by 0.0334.</p>\n<p>A second row covers the downtown development area, where an added 0.3800 brings the total to 20.3344 (20.3778 in 2025). Houses inside that boundary use the second row, so confirm the parcel on the appraiser's site first. Miami Beach also has a second row, at 19.4045 against its main 18.6681.</p>"
+   "h2": "Miami's 2026 millage",
+   "html": "<p>The county's 2026 adopted millage chart shows Miami at 7.1080 mills for city operations plus 0.2536 for city debt, for a row total of 19.9544. The 2025 column for the same row reads 19.9878, so the combined figure slipped by 0.0334.</p><p>A second row covers the downtown development area. Houses inside that boundary pay an added 0.3800, bringing the total to 20.3344 (20.3778 in 2025). Confirm your parcel on the appraiser's site before you quote either row.</p><table><caption>Miami taxing lines on the 2026 county chart</caption><thead><tr><th>Taxing line</th><th>City operations</th><th>City debt</th><th>Downtown add-on</th><th>Total 2026</th><th>Total 2025</th></tr></thead><tbody><tr><td>Miami, standard</td><td>7.1080</td><td>0.2536</td><td>None</td><td>19.9544</td><td>19.9878</td></tr><tr><td>Miami, downtown development area</td><td>7.1080</td><td>0.2536</td><td>0.3800</td><td>20.3344</td><td>20.3778</td></tr></tbody></table>"
   },
   {
-   "h2": "How does Miami rank against other Miami-Dade cities and areas?",
-   "html": "<p>Miami lands mid-table on the 2026 chart, above its coastal and western neighbors and below several northern and southern cities.</p>\n<table><thead><tr><th>Area</th><th>Total mills, 2026 chart</th></tr></thead><tbody>\n<tr><td>Key Biscayne</td><td>15.4636</td></tr>\n<tr><td>Aventura</td><td>16.7154</td></tr>\n<tr><td>Unincorporated county</td><td>16.8983</td></tr>\n<tr><td>Doral</td><td>16.9487</td></tr>\n<tr><td>Coral Gables</td><td>18.1518</td></tr>\n<tr><td>Hialeah</td><td>18.6134</td></tr>\n<tr><td>Miami Beach</td><td>18.6681</td></tr>\n<tr><td>Miami</td><td>19.9544</td></tr>\n<tr><td>Homestead</td><td>20.9001</td></tr>\n<tr><td>North Miami</td><td>22.1081</td></tr>\n<tr><td>Miami Gardens</td><td>22.3393</td></tr>\n<tr><td>Opa-Locka</td><td>23.9690</td></tr></tbody></table>\n<p>Source: Property Appraiser of Miami-Dade County, 2026 millage chart. The unincorporated county row is about three mills lighter than Miami, and the city's own levy is the main reason. Anyone weighing a Miami house against one a few miles away should expect that gap to appear on the bill.</p>"
+   "h2": "Miami's housing mix",
+   "html": "<p>Only 30.8 percent of Miami housing units are lived in by their owners, so investor-held houses are common. A landlord selling has no homestead relief to lose, and an owner-occupant buying from one can apply after closing. The typical owner-reported value is $518,100, and median gross rent is $1,758.</p>"
   },
   {
-   "h2": "What does Miami's housing mix mean for a seller?",
-   "html": "<p>Fewer than a third of Miami housing units (30.8 percent) are lived in by their owners, so investor-held houses are common. A landlord selling has no homestead relief to lose, and an owner-occupant buying from one can apply after closing. The Census lists a typical owner-reported value of $518,100 and median gross rent of $1,758 for the city.</p>"
+   "h2": "Amendment 3 and the estimator",
+   "html": "<p>The appraiser's home page offers a property tax estimator tied to the Amendment 3 changes, with separate results for 2027 and 2028. Those years match the statewide measure voters passed on November 3, 2026. The 2026 bill now in hand is unchanged, and the Tax Collector's pay-early campaign, built around the 4 percent November discount, applies to it.</p><p>Run the estimator for the year your closing or purchase falls in. A buyer who expects a larger exemption should still file for it, since benefits reach an owner only through an application. Dates to remember: April 1 is when unpaid bills turn delinquent, and the discount runs November through February.</p>"
   },
   {
-   "h2": "Which Miami-Dade tax milestones came in 2026?",
-   "html": "<p>The appraiser's home page gives the county's own sequence for the 2026 roll.</p>\n<ul><li>June 1 estimate: countywide taxable value of $540.7 billion, up 5.5 percent and 3.2 points slower than the year before.</li><li>September 1: county commissioners ordered the rolls extended.</li><li>October 16: the appraiser certified the roll, before any Value Adjustment Board changes.</li><li>November to February: the discount months, which the Tax Collector promotes as a chance to save 4 percent by paying in November.</li><li>April 1: unpaid bills are delinquent.</li></ul>\n<p>The appraiser's site also offers a property tax estimator tutorial showing how the Amendment 3 changes would work out for 2027 and 2028.</p>"
+   "h2": "What a Miami seller should collect before closing",
+   "html": "<p>Bring four things: the folio number, the August TRIM notice showing proposed taxes, proof of each exemption on file, and a Tax Collector payoff letter for any open year.</p><p>A house inside the downtown development area needs the title agent's attention because of the extra 0.3800 mills. Buyers should expect the first bill after purchase to start from just value, which can run well above the seller's bill.</p>"
   },
   {
-   "h2": "Where does Amendment 3 leave a Miami bill?",
-   "html": "<p>The appraiser's home page invites owners to use a property tax estimator tied to the Amendment 3 changes, with separate estimates for 2027 and 2028. Those two years match the amounts in the statewide measure voters passed on November 3, 2026, as the neighboring Seminole and Hillsborough appraisers describe it. The Tax Collector's pay-early campaign, which promotes the 4 percent November discount, applies to the 2026 bill now in hand.</p>\n<p>In practice, treat the 2026 bill as unchanged and run the estimator for the year your closing or purchase falls in. A buyer who expects a larger exemption should still file for it, since benefits reach an owner only through an application.</p>"
+   "h2": "Homestead and portability",
+   "html": "<p>Apply on Form DR-501 by March 1 for a house that was your permanent home on January 1. Renting it ends the benefit. A sale restarts the buyer at just value, and the seller can port savings to a new Florida homestead with Form DR-501T inside three years.</p><p>Suspected homestead abuse can be reported to the appraiser's compliance unit at 305-375-3402. An owner who cannot pay at once can ask the Tax Collector about deferral on Form DR-570 (March 31) or installments (May 1).</p>"
   },
   {
-   "h2": "What should a Miami seller collect before the closing table?",
-   "html": "<p>Bring four things: the folio number, the August TRIM notice showing proposed taxes, proof of each exemption on file, and a Tax Collector payoff letter for any open year.</p>\n<p>A house inside the downtown development area needs the title agent's attention, because it carries the extra 0.3800 mills. Buyers should expect the first bill after purchase to start from just value, which can run well above the seller's bill.</p>"
+   "h2": "Selling with back taxes",
+   "html": "<p>After April 1 the account is delinquent, and a certificate is sold by June 1. The certificate buyer must wait two years before pressing the owner. A tax deed application costs $75, and a homestead parcel's opening bid includes half of the latest assessed value. If no one bids, the county has 90 days to take the land at the opening bid.</p><p>A seller with arrears can still close, because the title company pays the lien from proceeds. Request the payoff early, and call the Tax Collector long before any auction date.</p>"
   },
   {
-   "h2": "How does a Miami owner claim homestead or port a capped value?",
-   "html": "<p>Apply on Form DR-501 by March 1 for a house that was your permanent home on January 1. Renting it ends the benefit. A sale restarts the buyer at just value, and the seller can port savings to a new Florida homestead with Form DR-501T inside three years.</p>\n<p>Homestead abuse can be reported to the appraiser's compliance unit at 305-375-3402. An owner who cannot pay can ask the Tax Collector about deferral on Form DR-570 (March 31) or installments (May 1).</p>"
+   "h2": "A sensible order of steps",
+   "html": "<p>Selling a house goes more smoothly when the tax and title chores are done in a set order. These are general steps, not rules specific to one office.</p><ol><li>Pull your parcel record and confirm the owner name, mailing address and exemptions are right.</li><li>Find out whether any tax year is open and ask for a written payoff figure.</li><li>Search the recorded documents under every name on the deed for unreleased mortgages or liens.</li><li>Gather your latest statement and the proposed-tax notice for the buyer and the title agent.</li><li>Agree in the contract on how the current year's tax will be split.</li><li>At closing, review the settlement statement line by line before you sign.</li></ol><p>If a step turns up a problem, raise it with the title agent early. Most issues are routine to clear when found before a buyer is waiting.</p>"
   },
   {
-   "h2": "What if back taxes are owed on a Miami house?",
-   "html": "<p>After April 1 the account is delinquent and a certificate is sold by June 1. The buyer of the certificate has to wait two years before pressing the owner. A tax deed application costs $75, and a homestead parcel's opening bid includes half of the latest assessed value. If no one bids, the county has 90 days to take the land at the opening bid.</p>\n<p>A seller with arrears can still close, because the title company pays off the lien from proceeds. Request the payoff early, and call the Tax Collector long before any auction date.</p>"
+   "h2": "What a cash sale skips",
+   "html": "<p>A cash sale takes the lender out of the picture. There is no appraisal for a mortgage, no loan underwriting and no financing contingency that can fall through late. The seller still has the same tax and title duties: open taxes are paid from proceeds, recorded liens are released, and the deed is signed, witnessed, notarized and recorded.</p><p>Compare any offer with the payoff figures in your own records. The net to you is the price minus the payoffs, the tax proration and closing costs, so ask for a written estimate of those numbers before you agree to a date.</p>"
   },
   {
-   "h2": "Where are Miami deeds recorded?",
-   "html": "<p>At the Miami-Dade County Recorder's Office, 20 NW 1st Avenue, Suite 5.246, run by the county clerk. The clerk's checklist asks for the seller's original signature, two unrelated witnesses with printed names and addresses, a notary acknowledgement and a Prepared By line. Before the notary meeting, compare the folio and legal description with the prior deed, and have the two witnesses' printed names and addresses ready. Deed stamps run 60 cents per $100 here, and the clerk's fraud alert emails an owner within 24 hours of a new recording under their name.</p>"
+   "h2": "Where Miami deeds are recorded",
+   "html": "<p>Deeds go to the Miami-Dade County Recorder's Office, 20 NW 1st Avenue, Suite 5.246, run by the county clerk. The clerk's checklist asks for the seller's original signature, two unrelated witnesses with printed names and addresses, a notary acknowledgement and a Prepared By line. Before the notary meeting, compare the folio and legal description with the prior deed, and have the witnesses' printed names and addresses ready. Deed stamps run 60 cents per $100 here.</p>"
   }
  ],
  "faqs": [
@@ -61,7 +61,7 @@
   },
   {
    "q": "Does the Miami property appraiser collect tax?",
-   "a": "No. Its home page says it neither sends bills nor sets or collects taxes. Payments go to the Miami-Dade Tax Collector."
+   "a": "No. The appraiser neither sends bills nor sets or collects taxes. Payments go to the Miami-Dade Tax Collector."
   },
   {
    "q": "How do I check my Miami taxable value?",
