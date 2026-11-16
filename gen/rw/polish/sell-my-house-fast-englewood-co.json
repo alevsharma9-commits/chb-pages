@@ -3,69 +3,73 @@
  "sections": [
   {
    "h2": "Englewood housing at a glance",
-   "html": "<p>Englewood is a compact city in western Arapahoe County, directly south of Denver in the South Platte valley. It covers about 6.6 square miles at 5,348 feet. The 2020 census counted 33,659 residents, up from 30,255 in 2010, and the estimate for July 1, 2025 is 35,305. Density is high, at 5,127 people per square mile in 2020.</p><p>Homes here lean small. Households average 2.01 people, and 49.2% of homes are owner-occupied. The median owner-occupied value is $572,900 and median gross rent is $1,668 (2020 to 2024). Many Englewood sellers own a small house or condo, and many are landlords. Treat the median as a benchmark, not a price for your property.</p>"
+   "html": "<p>Englewood sits just south of Denver in the South Platte valley, in the western part of Arapahoe County. The city is small, about 6.6 square miles, and stands 5,348 feet above sea level. People per square mile numbered 5,127 in 2020. The census that year found 33,659 residents (30,255 in 2010), and the July 1, 2025 estimate is 35,305.</p><p>Households average 2.01 people, and 49.2% of homes are lived in by their owners. For 2020 to 2024 the median owner-occupied value was $572,900 and median gross rent was $1,668. So Englewood sellers include owners of small houses and condos along with landlords. Take the median as a loose reference. It says little about your particular property.</p>"
   },
   {
    "h2": "Four quadrants, different housing",
-   "html": "<p>Broadway and Hampden Avenue split the city into four quadrants, and each has its own housing mix.</p><ul><li>Northwest: the oldest section, with downtown, City Center and housing from the 1910s. A former General Iron site awaits redevelopment.</li><li>Southwest: newer housing alongside many industrial facilities, plus Belleview Park.</li><li>Southeast: almost entirely residential, newer than the north and southwest, reaching the Highline Canal.</li><li>Northeast: the hospital complex with Swedish Medical Center and Craig Hospital.</li></ul><p>Hampden Hills is the newest and wealthiest part of the city and has many apartment complexes. Because housing age varies so much from quadrant to quadrant, buyers and inspectors will ask how old the systems in your house are. Know the answer before they do.</p>"
+   "html": "<p>Broadway and Hampden Avenue cut the city into four quadrants, each with its own character.</p><ul><li>Northwest: the oldest part, holding downtown, City Center and houses dating to the 1910s. A former General Iron site awaits redevelopment.</li><li>Southwest: newer housing next to many industrial facilities, plus Belleview Park.</li><li>Southeast: nearly all residential, newer than the north and southwest, running to the Highline Canal.</li><li>Northeast: the hospital campus with Swedish Medical Center and Craig Hospital.</li></ul><p>Hampden Hills is the city's newest and wealthiest area and includes many apartment complexes. Since house age differs so much between quadrants, buyers and their inspectors will ask about the age of the furnace, roof and plumbing. Have the answers ready.</p>"
   },
   {
-   "h2": "Who buys and sells here",
-   "html": "<p>An older population with small households means estates and downsizing are common. People aged 65 and over are 15.0% of residents, and 80.7% of people lived in the same house a year earlier. Heirs who live out of state and inherit an Englewood house often want a clean sale without managing repairs from a distance.</p>"
+   "h2": "Estates and downsizing",
+   "html": "<p>Englewood skews older, with 15.0% of residents 65 or over, and 80.7% of people were in the same house a year earlier. That pattern means a steady flow of estates and downsizing sales. Out-of-state heirs who inherit a house often prefer a clean sale to managing repairs from afar.</p>"
   },
   {
    "h2": "Arapahoe County property tax dates",
-   "html": "<p>Arapahoe County bills Englewood property tax under the state calendar. Colorado statute 39-10-104.5 sets the dates.</p><table><thead><tr><th>Payment option</th><th>Due date</th><th>Rule</th></tr></thead><tbody><tr><td>First half</td><td>On or before the last day of February</td><td>Installments under $25 cannot be split</td></tr><tr><td>Second half</td><td>June 15</td><td>Late amounts accrue 1% interest per month</td></tr><tr><td>Single payment</td><td>On or before the last day of April</td><td>Small bills must be paid in full by April 30</td></tr></tbody></table><p>Interest on late amounts runs at 1% per month, and any part of a month counts as a whole month. Call the Arapahoe County Treasurer to confirm the current rule and your balance.</p>"
+   "html": "<p>Englewood property is taxed by Arapahoe County on the state calendar, which Colorado statute 39-10-104.5 sets.</p><table><thead><tr><th>Payment option</th><th>Due date</th><th>Rule</th></tr></thead><tbody><tr><td>First half</td><td>On or before the last day of February</td><td>Installments under $25 cannot be split</td></tr><tr><td>Second half</td><td>June 15</td><td>Late amounts accrue 1% interest per month</td></tr><tr><td>Single payment</td><td>On or before the last day of April</td><td>Small bills must be paid in full by April 30</td></tr></tbody></table><p>Late amounts collect 1% a month, and even a few days into a month are charged as the whole month. To confirm the current rule and your own balance, call the Arapahoe County Treasurer.</p>"
   },
   {
-   "h2": "Taxes when the house sells",
-   "html": "<p>The title company prorates the current year's tax through the closing date. Unpaid taxes from earlier years must be cleared before the deed can transfer cleanly. Ask the Treasurer or the title company for a payoff figure early, so a balance does not surprise you on closing day.</p>"
+   "h2": "Taxes on closing day",
+   "html": "<p>Your share of the current year's tax, through the closing date, is calculated by the title company. Older unpaid taxes have to be cleared before the deed transfers cleanly. Request a payoff number early from the Treasurer or the title company, and a balance will not catch you off guard at the table.</p>"
   },
   {
    "h2": "Short-term rental rules",
-   "html": "<p>Englewood requires every short-term rental operator to hold both a city sales and use tax license and a short-term rental license. In residential zones the operator must be the primary resident and live at the property at least 185 days a year.</p><ul><li>An application needs a current deed on file with Arapahoe County, a notarized residency affidavit and two proofs of primary residence in residential zones.</li><li>Insurance must include at least $1 million in personal liability coverage.</li><li>Parking must include one permanent space per rented bedroom, with no more than two on the street.</li><li>Fees rose January 1, 2026: $600 for a new application and $400 for a renewal, plus $75 for inspection and $200 at issuance.</li></ul><p>A house that cannot meet these conditions may be worth less to a buyer who planned to rent it nightly, so check the license status before pricing.</p>"
+   "html": "<p>Operators in Englewood need two licenses: a city sales and use tax license and a short-term rental license. In residential zones the operator must be the primary resident, living on the property at least 185 days a year.</p><ul><li>Applications require a current deed on file with Arapahoe County, a notarized residency affidavit and two proofs of primary residence in residential zones.</li><li>Insurance must include at least $1 million in personal liability coverage.</li><li>Parking means one permanent space for each rented bedroom, and no more than two on the street.</li><li>Fees went up January 1, 2026: $600 for a new application, $400 for a renewal, plus $75 for inspection and $200 at issuance.</li></ul><p>If a house cannot meet these conditions, a buyer who intended to rent it nightly may pay less, so check the license status before pricing.</p>"
   },
   {
    "h2": "Schools, transit and weather",
-   "html": "<p>Englewood Public Schools serves most of the city, with small portions in Littleton Public Schools and Sheridan Public Schools. The Englewood station on RTD's D Line sits in the Civic Center, and mean travel time to work was 22.6 minutes for 2020 to 2024. Annual precipitation is only 10.42 inches, but wide temperature swings are hard on roofs and exterior finishes.</p>"
+   "html": "<p>Most of the city belongs to Englewood Public Schools, and small portions fall in Littleton Public Schools and Sheridan Public Schools. RTD's D Line stops at Englewood Station in the Civic Center, and commuters averaged 22.6 minutes to work for 2020 to 2024. The climate is drier than much of the Front Range at 10.42 inches a year, though the temperature swings are still hard on roofs and exterior finishes.</p>"
   },
   {
-   "h2": "Selling a house that was a nightly rental",
-   "html": "<p>If you ran the house as a short-term rental, a buyer will ask whether the licenses were in place and whether you met the residency rule. Keep both licenses, the residency affidavit and proof of the insurance coverage in one folder. A house that cannot meet the conditions today is worth less to a buyer who planned to rent it nightly, and that difference should show up in the price. A buyer who just wants to live in it, or rent it long term, cares much less.</p>"
+   "h2": "Selling a former nightly rental",
+   "html": "<p>Did you run the house as a short-term rental? A buyer will want proof that both licenses were in place and that you met the residency rule. Keep both licenses, the residency affidavit and the insurance papers together in one folder. A house that cannot meet today's conditions is worth less to someone who wanted nightly income, and the price should reflect that. A buyer who wants to live in it or rent it long term cares much less.</p>"
   },
   {
-   "h2": "Inherited houses and long-distance heirs",
-   "html": "<p>An estate sale is one of the most common reasons for a quick sale in Englewood. Heirs often live elsewhere, and a house with an unfinished repair or old systems becomes a monthly worry. Gather the documents that show who can sign, then give the title company the list of names early. It will tell you what else it needs and how signing works for someone who is out of state.</p><p>A cash purchase spares the heirs repairs, showings and the cost of keeping the house up while the paperwork moves.</p>"
+   "h2": "Inherited houses and heirs who live far away",
+   "html": "<p>An estate is one of the commonest reasons for a fast sale in this city. Heirs live elsewhere, and an unfinished repair or aging furnace turns into a monthly worry. Collect the papers showing who can sign, then give the title company every name on the list. It can explain what else it needs and how a signing works for someone out of state.</p><p>Choosing a cash buyer spares the family repairs, showings and the expense of maintaining the property while paperwork moves along.</p>"
   },
   {
-   "h2": "Steps in an Englewood cash sale",
-   "html": "<ol><li>You tell us about the property and its condition.</li><li>We review it and make a written offer.</li><li>If you agree, the title company runs a search, asks the Arapahoe County Treasurer about taxes and prepares the deed.</li><li>You choose a closing date and sign.</li><li>The deed is recorded with the county and you are paid.</li></ol><p>An offer is not a commitment. You can compare it with a listing and decline with no cost.</p>"
+   "h2": "What to bring to the title company",
+   "html": "<p>Pull together your latest Arapahoe County tax statement, loan payoff details if the house is mortgaged, and the deed or a list of every owner on it. For a former rental, add the licenses and the insurance papers. For an estate, add whatever shows who has authority to sign. A short folder like this lets the title company begin its search the day you accept an offer, and it cuts the number of back-and-forth calls.</p><p>If something is missing, say so on the first call. Most items can be tracked down while the rest of the sale moves ahead.</p>"
   },
   {
    "h2": "How do you sell an Englewood house fast?",
-   "html": "<p>You can list with an agent, sell on your own or take a cash purchase. A listing may bring the highest price on a house in good shape. A cash sale is faster for a house that needs work, has tenants or sits in an estate.</p><p>Colorado's documentary fee on a deed is $0.01 per $100 of consideration over $500. We buy houses in Englewood and nearby Arapahoe County in any condition. Tell us about the property and you will get an answer. If you say no, you owe nothing.</p>"
+   "html": "<p>Options are an agent listing, a sale on your own, or a cash purchase. A listing may fetch the top price for a house in good shape. Cash moves faster when a house needs work, has tenants or belongs to an estate.</p><p>The state documentary fee on a deed is $0.01 per $100 of consideration over $500. We buy houses in Englewood and nearby Arapahoe County in any condition. Describe the property and we will respond. A no from you costs nothing.</p>"
+  },
+  {
+   "h2": "Steps in an Englewood cash sale",
+   "html": "<ol><li>Tell us about the property and its condition.</li><li>We review the details and write an offer.</li><li>On acceptance, the title company runs a search, asks the Arapahoe County Treasurer about taxes and prepares the deed.</li><li>You pick a closing date and sign.</li><li>The county records the deed and the money goes to you.</li></ol><p>An offer commits you to nothing. Set it beside a listing and walk away if it does not fit.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the median home value in Englewood?",
-   "a": "The 2020 to 2024 median value of owner-occupied homes in Englewood is $572,900. Treat it as a benchmark, since each house differs."
+   "a": "Census data for 2020 to 2024 gives $572,900 as the median value of owner-occupied homes. Treat it as a benchmark, because each house differs."
   },
   {
    "q": "Which county is Englewood in?",
-   "a": "Englewood is in Arapahoe County, where its deeds are recorded and its property taxes are billed."
+   "a": "Arapahoe County. That is where Englewood deeds are recorded and property taxes are billed."
   },
   {
    "q": "Do I need a license for an Airbnb in Englewood?",
-   "a": "Yes. You need a city sales and use tax license and a short-term rental license, and in residential zones you must live at the property at least 185 days a year."
+   "a": "Yes, two: a city sales and use tax license and a short-term rental license. In residential zones you must also live at the property at least 185 days a year."
   },
   {
    "q": "When are Colorado property taxes due for an Englewood house?",
-   "a": "State law allows two halves, due by the last day of February and by June 15, or a single payment by the last day of April."
+   "a": "State law allows two halves, due by the last day of February and by June 15, or one payment by the last day of April."
   },
   {
    "q": "Can I sell an Englewood house with an unfinished repair?",
-   "a": "Yes. A cash buyer purchases the house as it stands, so unfinished work does not have to be completed before closing."
+   "a": "Yes. A cash buyer takes the house as it stands, so unfinished work does not have to be completed before closing."
   }
  ],
  "sources": [
