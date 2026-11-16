@@ -45,3 +45,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * Merged below 85%: sell-my-house-fast-mission-tx 84. Rate stated adopted: sell-my-house-fast-missouri-city-tx (0.578363, city page). Unsourced edge sentences possible: new-braunfels-tx, nacogdoches-tx (flood, tree-storm remarks).
 * texas-eviction-notice and texas-eviction-process rest on 2 sources (Dec 2025 Rule 510 order, SLL). texas-deed-of-trust 6 sources from tx.md only. Verify.
 * Merged below 85%: texas-eviction-notice 84.
+* sell-my-house-fast-paris-tx: protest deadline conflict (Lamar CAD May 31/30 days vs state May 15); page defers to reader's notice.

@@ -1,22 +1,77 @@
-{"slug":"texas-community-property-home-sale","sections":[
-{"h2":"Can one spouse sell the family home in Texas?","html":"<p>Not alone, if the house is the homestead. Family Code Sec. 5.001 says that whether the homestead is one spouse's separate property or community property, neither spouse may sell, convey or encumber it without the other spouse joining, unless the chapter or other law provides an exception.</p><p>That rule trips up sellers who hold title in one name. A deed signed by the titled spouse alone may leave the buyer without clear title, and a title company will ask about marital status before it commits to insure. A house that is not the homestead, such as a rental the couple owns, follows the management rules in Chapter 3 instead.</p>"},
-{"h2":"What counts as community property versus separate property?","html":"<p>Chapter 3 of the Family Code sorts property by when and how it was acquired. The sorting matters because it controls who may sign and who shares in the proceeds.</p><ul><li>Separate property: what a spouse owned or claimed before marriage, what a spouse received during marriage by gift, devise or descent, and personal injury recoveries other than lost earning capacity (Sec. 3.001).</li><li>Community property: everything else either spouse acquired during marriage (Sec. 3.002).</li><li>Presumption: property possessed by either spouse during or at the end of the marriage is presumed community, and proving it separate takes clear and convincing evidence (Sec. 3.003).</li></ul><p>A house bought during the marriage with wages is community even when only one name is on the deed. A house one spouse inherited is separate, though the other spouse may still have homestead rights in it if the couple lives there.</p>"},
-{"h2":"Who manages the property when a house is not the homestead?","html":"<p>Each spouse has sole management of their own separate property, per Sec. 3.101. For community property, Sec. 3.102 gives each spouse sole control of the community property that spouse would have owned if single, such as personal earnings and revenue from separate property. Anything else is under joint management unless the spouses agree otherwise by written power of attorney or another agreement.</p><p>Section 3.104 protects outsiders. During marriage, property held in one spouse's name is presumed to be under that spouse's sole control, and a third person who deals with that spouse can rely on it if they are not part of a fraud and have no notice of a lack of authority. That presumption does not override the homestead rule, which is why an investor buying a homestead still needs both signatures.</p>"},
-{"h2":"What if the other spouse is missing, has left, or cannot sign?","html":"<p>The Family Code has two court tracks, and both start with a sworn petition. Subchapter B of Chapter 5 covers the homestead itself, and Subchapter D of Chapter 3 covers other community property.</p><table><caption>Court options when a spouse cannot join the sale</caption><thead><tr><th>Situation</th><th>Statute</th><th>What the law provides</th></tr></thead><tbody><tr><td>Spouse declared incapacitated by a guardianship court</td><td>Sec. 5.002 and 5.003</td><td>Competent spouse may sell without the other's joinder</td></tr><tr><td>Spouse disappeared, abandoned the home, or permanently separated</td><td>Sec. 5.101 and 5.102</td><td>Sworn petition to sell without joinder</td></tr><tr><td>Spouse reported prisoner of war or missing on public service</td><td>Sec. 5.101(4) and 5.102(4)</td><td>Petition allowed, with a court-appointed attorney for the respondent</td></tr><tr><td>Community property other than the homestead</td><td>Sec. 3.301</td><td>Petition to manage and dispose of described community property</td></tr></tbody></table><p>Source: <a href=\"https://tcss.legis.texas.gov/Resources/FA/htm/FA.5.htm\">Family Code ch. 5</a> and <a href=\"https://tcss.legis.texas.gov/Resources/FA/htm/FA.3.htm\">ch. 3</a>.</p>"},
-{"h2":"How long does the court process take to start, and what can the judge order?","html":"<p>A petitioning spouse cannot file at once. Section 5.103 sets the earliest filing at the 60th day after the disappearance, abandonment or permanent separation, and at six months after a spouse is reported as a prisoner of war or missing on public service. The petition goes to a court in a county where any part of the property is located.</p><p>The judge may appoint an attorney for the respondent, and must do so when the respondent is reported as a prisoner of war or missing. If the spouse's residence is unknown, citation by publication runs for two consecutive weeks before the hearing under Sec. 3.305.</p><p>Under Sec. 5.106 and 3.306, the court may attach conditions to protect the other spouse, require a bond, and order some or all sale proceeds paid into the court registry. An order that affects real property is not constructive notice to a good faith purchaser unless it is recorded in the deed records of the county where the land sits (Sec. 3.308).</p>"},
-{"h2":"What happens to the house when a spouse dies?","html":"<p>Estates Code ch. 201 governs a death without a will. The community estate passes to the surviving spouse when the decedent left no descendants, or when all surviving children are also the spouse's children. If a child from another relationship survives, the decedent's undivided one-half interest in the community passes to that child line, charged with community debts.</p><p>Separate property follows other rules. With children, the surviving spouse takes a life estate in one-third of the land. With no children, the spouse takes half of the land. The Texas Department of Insurance also notes that a title policy generally does not cover homestead, community property or survivorship rights of a policyholder's spouse, so a clean spousal signature or court order matters to the buyer.</p>"},
-{"h2":"How do reimbursement claims affect a sale?","html":"<p>One marital estate can owe another when it paid for the other's debts or improvements. Under Sec. 3.404 a reimbursement claim does not create an ownership interest, but it is a claim against the benefited estate that matures on divorce or death. On divorce or death, a court may impose an equitable lien on the benefited property under Sec. 3.406.</p><p>This often arises when community wages paid down a mortgage on a house one spouse owned before marriage. Raise the point with your closing attorney before listing, since a lien claim can show up in a divorce decree and a recorded document.</p>"}
-],
-"faqs":[
-{"q":"Do both spouses have to sign a deed to sell a Texas homestead?","a":"Yes, in general. Family Code Sec. 5.001 says neither spouse may sell, convey or encumber the homestead without the other spouse joining, whether it is separate or community property, except where the code provides otherwise."},
-{"q":"What if my spouse left and I cannot find them?","a":"Sec. 5.102 lets you file a sworn petition to sell a community homestead without joinder when the spouse has disappeared, permanently abandoned the home, or the spouses are permanently separated. You cannot file until the 60th day after the event."},
-{"q":"Is a house I bought before marriage community property?","a":"No, it is separate property under Sec. 3.001. If the couple makes it their homestead, the spouse's signature is still required for a sale under Sec. 5.001 unless an exception applies."},
-{"q":"Can a spouse sell if the other has dementia?","a":"If a guardianship court has declared the other spouse incapacitated, Sec. 5.002 and 5.003 let the competent spouse sell without joinder. Without that judicial declaration, a power of attorney or court order is the usual route."},
-{"q":"Does a divorce decree change who can sell?","a":"It can. A decree usually awards the house to one spouse and may order a sale. Title companies ask for a recorded decree or deed so the buyer can see who holds title, and a Sec. 3.406 lien may also appear."}
-],
-"sources":[
-{"title":"Texas Family Code ch. 5, Homestead Rights","url":"https://tcss.legis.texas.gov/Resources/FA/htm/FA.5.htm"},
-{"title":"Texas Family Code ch. 3, Marital Property Rights and Liabilities","url":"https://tcss.legis.texas.gov/Resources/FA/htm/FA.3.htm"},
-{"title":"Texas Estates Code ch. 201, Descent and Distribution","url":"https://tcss.legis.texas.gov/Resources/ES/htm/ES.201.htm"},
-{"title":"Texas Department of Insurance, title insurance FAQ","url":"https://tdi.texas.gov/title/titlefaqs.html"}
-]}
+{
+ "slug": "texas-community-property-home-sale",
+ "sections": [
+  {
+   "h2": "Can one spouse sell the family home in Texas?",
+   "html": "<p>Not alone, if the house is the homestead. Family Code Sec. 5.001 says that whether the homestead is one spouse's separate property or community property, neither spouse may sell, convey or encumber it without the other spouse joining, unless the chapter or other law provides an exception.</p><p>That rule trips up sellers who hold title in one name. A deed signed by the titled spouse alone may leave the buyer without clear title, and a title company will ask about marital status before it commits to insure. A house that is not the homestead, such as a rental the couple owns, follows the management rules in Chapter 3 instead.</p>"
+  },
+  {
+   "h2": "What counts as community property versus separate property?",
+   "html": "<p>Chapter 3 of the Family Code sorts property by when and how it was acquired. The sorting matters because it controls who may sign and who shares in the proceeds.</p><ul><li>Separate property: what a spouse owned or claimed before marriage, what a spouse received during marriage by gift, devise or descent, and personal injury recoveries other than lost earning capacity (Sec. 3.001).</li><li>Community property: everything else either spouse acquired during marriage (Sec. 3.002).</li><li>Presumption: property possessed by either spouse during or at the end of the marriage is presumed community, and proving it separate takes clear and convincing evidence (Sec. 3.003).</li></ul><p>A house bought during the marriage with wages is community even when only one name is on the deed. A house one spouse inherited is separate, though the other spouse may still have homestead rights in it if the couple lives there.</p>"
+  },
+  {
+   "h2": "Who manages the property when a house is not the homestead?",
+   "html": "<p>Each spouse has sole management of their own separate property, per Sec. 3.101. For community property, Sec. 3.102 gives each spouse sole control of the community property that spouse would have owned if single, such as personal earnings and revenue from separate property. Anything else is under joint management unless the spouses agree otherwise by written power of attorney or another agreement.</p><p>Section 3.104 protects outsiders. During marriage, property held in one spouse's name is presumed to be under that spouse's sole control, and a third person who deals with that spouse can rely on it if they are not part of a fraud and have no notice of a lack of authority. That presumption does not override the homestead rule, which is why an investor buying a homestead still needs both signatures.</p>"
+  },
+  {
+   "h2": "What if the other spouse is missing, has left, or cannot sign?",
+   "html": "<p>The Family Code has two court tracks, and both start with a sworn petition. Subchapter B of Chapter 5 covers the homestead itself, and Subchapter D of Chapter 3 covers other community property.</p><table><caption>Court options when a spouse cannot join the sale</caption><thead><tr><th>Situation</th><th>Statute</th><th>What the law provides</th></tr></thead><tbody><tr><td>Spouse declared incapacitated by a guardianship court</td><td>Sec. 5.002 and 5.003</td><td>Competent spouse may sell without the other's joinder</td></tr><tr><td>Spouse disappeared, abandoned the home, or permanently separated</td><td>Sec. 5.101 and 5.102</td><td>Sworn petition to sell without joinder</td></tr><tr><td>Spouse reported prisoner of war or missing on public service</td><td>Sec. 5.101(4) and 5.102(4)</td><td>Petition allowed, with a court-appointed attorney for the respondent</td></tr><tr><td>Community property other than the homestead</td><td>Sec. 3.301</td><td>Petition to manage and dispose of described community property</td></tr></tbody></table><p>Source: <a href=\"https://tcss.legis.texas.gov/Resources/FA/htm/FA.5.htm\">Family Code ch. 5</a> and <a href=\"https://tcss.legis.texas.gov/Resources/FA/htm/FA.3.htm\">ch. 3</a>.</p>"
+  },
+  {
+   "h2": "How long does the court process take to start, and what can the judge order?",
+   "html": "<p>A petitioning spouse cannot file at once. Section 5.103 sets the earliest filing at the 60th day after the disappearance, abandonment or permanent separation, and at six months after a spouse is reported as a prisoner of war or missing on public service. The petition goes to a court in a county where any part of the property is located.</p><p>The judge may appoint an attorney for the respondent, and must do so when the respondent is reported as a prisoner of war or missing. If the spouse's residence is unknown, citation by publication runs for two consecutive weeks before the hearing under Sec. 3.305.</p><p>Under Sec. 5.106 and 3.306, the court may attach conditions to protect the other spouse, require a bond, and order some or all sale proceeds paid into the court registry. An order that affects real property is not constructive notice to a good faith purchaser unless it is recorded in the deed records of the county where the land sits (Sec. 3.308).</p>"
+  },
+  {
+   "h2": "What happens to the house when a spouse dies?",
+   "html": "<p>Estates Code ch. 201 governs a death without a will. The community estate passes to the surviving spouse when the decedent left no descendants, or when all surviving children are also the spouse's children. If a child from another relationship survives, the decedent's undivided one-half interest in the community passes to that child line, charged with community debts.</p><p>Separate property follows other rules. With children, the surviving spouse takes a life estate in one-third of the land. With no children, the spouse takes half of the land. The Texas Department of Insurance also notes that a title policy generally does not cover homestead, community property or survivorship rights of a policyholder's spouse, so a clean spousal signature or court order matters to the buyer.</p>"
+  },
+  {
+   "h2": "Can a written agreement change who owns what?",
+   "html": "<p>Yes. Sec. 3.410 recognizes premarital and marital property agreements that meet Chapter 4 requirements, and says such an agreement can waive, release, assign or partition reimbursement claims. Sec. 3.004 separately allows a signed and acknowledged schedule of a spouse's separate property to be recorded in the deed records.</p><p>The recording matters for real estate. A schedule of separate real property is not constructive notice to a good faith purchaser or an unaware creditor unless it is acknowledged and recorded in the deed records of the county where the land sits. Anyone relying on such an agreement to sell without a spouse should talk with a Texas family law attorney first, because the homestead rule in Sec. 5.001 still applies to the house the couple lives in.</p>"
+  },
+  {
+   "h2": "How do reimbursement claims affect a sale?",
+   "html": "<p>One marital estate can owe another when it paid for the other's debts or improvements. Under Sec. 3.404 a reimbursement claim does not create an ownership interest, but it is a claim against the benefited estate that matures on divorce or death. On divorce or death, a court may impose an equitable lien on the benefited property under Sec. 3.406.</p><p>This often arises when community wages paid down a mortgage on a house one spouse owned before marriage. Raise the point with your closing attorney before listing, since a lien claim can show up in a divorce decree and a recorded document.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do both spouses have to sign a deed to sell a Texas homestead?",
+   "a": "Yes, in general. Family Code Sec. 5.001 says neither spouse may sell, convey or encumber the homestead without the other spouse joining, whether it is separate or community property, except where the code provides otherwise."
+  },
+  {
+   "q": "What if my spouse left and I cannot find them?",
+   "a": "Sec. 5.102 lets you file a sworn petition to sell a community homestead without joinder when the spouse has disappeared, permanently abandoned the home, or the spouses are permanently separated. You cannot file until the 60th day after the event."
+  },
+  {
+   "q": "Is a house I bought before marriage community property?",
+   "a": "No, it is separate property under Sec. 3.001. If the couple makes it their homestead, the spouse's signature is still required for a sale under Sec. 5.001 unless an exception applies."
+  },
+  {
+   "q": "Can a spouse sell if the other has dementia?",
+   "a": "If a guardianship court has declared the other spouse incapacitated, Sec. 5.002 and 5.003 let the competent spouse sell without joinder. Without that judicial declaration, a power of attorney or court order is the usual route."
+  },
+  {
+   "q": "Does a divorce decree change who can sell?",
+   "a": "It can. A decree usually awards the house to one spouse and may order a sale. Title companies ask for a recorded decree or deed so the buyer can see who holds title, and a Sec. 3.406 lien may also appear."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas Family Code ch. 5, Homestead Rights",
+   "url": "https://tcss.legis.texas.gov/Resources/FA/htm/FA.5.htm"
+  },
+  {
+   "title": "Texas Family Code ch. 3, Marital Property Rights and Liabilities",
+   "url": "https://tcss.legis.texas.gov/Resources/FA/htm/FA.3.htm"
+  },
+  {
+   "title": "Texas Estates Code ch. 201, Descent and Distribution",
+   "url": "https://tcss.legis.texas.gov/Resources/ES/htm/ES.201.htm"
+  },
+  {
+   "title": "Texas Department of Insurance, title insurance FAQ",
+   "url": "https://tdi.texas.gov/title/titlefaqs.html"
+  }
+ ]
+}
