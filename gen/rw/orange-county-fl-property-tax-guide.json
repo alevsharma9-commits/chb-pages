@@ -2,62 +2,62 @@
  "slug": "orange-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which Orange County offices handle my property tax?",
-   "html": "<p>Three offices split the work in Orange County, and each answers a different question. The Property Appraiser sets the value and approves exemptions, local taxing bodies set the millage rate, and the Tax Collector mails the bill and takes payment.</p><ul><li>Property Appraiser: ownership record, mailing address, legal description, assessed value and exemptions such as homestead</li><li>Taxing authorities: the county commission, the school board, cities and other levying bodies set the rate per $1,000 of taxable value</li><li>Tax Collector: bills, payments, installment plans, delinquent taxes and tax certificates</li></ul><p>The Tax Collector's page says it distributes revenue to 63 taxing authorities in the county. Non-ad valorem items such as streetlights, sewage and road work appear on the same bill but are charged per unit, not by value.</p>"
+   "h2": "Which Orange County office do I call about my tax bill?",
+   "html": "<p>Orange County divides the job three ways, so the right call depends on the problem. A wrong value or missing exemption belongs to the Property Appraiser at 200 S Orange Ave, Suite 1700 in Orlando. A bill, a payment or a delinquency belongs to the Tax Collector. The rate itself is a product of local boards.</p><ul><li>Value, ownership, legal description and mailing address: Property Appraiser</li><li>Millage: the county commission, school board, cities and special districts</li><li>Statements, payment plans, certificates: Tax Collector</li></ul><p>The Tax Collector's own page says it passes the money on to 63 taxing authorities. Items such as streetlights, sewers and road work are non-ad valorem charges, priced per unit and printed on the same statement.</p>"
   },
   {
-   "h2": "When are Orange County property taxes due?",
-   "html": "<p>Bills go out by November 1, and the full amount is due by March 31. Anything unpaid on April 1 is delinquent.</p><table><caption>Orange County property tax calendar (Orange County Tax Collector and Florida Department of Revenue)</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Value is set as of this date</td></tr><tr><td>March 1</td><td>Deadline to file exemptions with the Property Appraiser</td></tr><tr><td>August</td><td>Notice of Proposed Property Taxes mailed</td></tr><tr><td>November 1</td><td>Tax bills mailed by this date</td></tr><tr><td>November to February</td><td>Discounts of 4, 3, 2 and 1 percent</td></tr><tr><td>March 31</td><td>Full amount due, and homestead deferral applications due</td></tr><tr><td>April 1</td><td>Unpaid taxes delinquent</td></tr><tr><td>On or before June 1</td><td>Tax certificate sale</td></tr></tbody></table><p>The Tax Collector states that a payment counts as late if it arrives after March 31, whatever the postmark says.</p>"
+   "h2": "What is the Orange County property tax calendar?",
+   "html": "<p>Value is fixed on January 1, bills reach owners by the first of November, and the whole balance has to be in the Tax Collector's hands before April begins.</p><table><caption>Orange County property tax calendar from the Tax Collector and the state revenue department</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Assessment date</td></tr><tr><td>March 1</td><td>Last day to file an exemption request</td></tr><tr><td>August</td><td>Proposed tax notice mailed</td></tr><tr><td>By November 1</td><td>Statements mailed</td></tr><tr><td>November to February</td><td>Four, three, two and one percent discounts</td></tr><tr><td>March 31</td><td>Gross amount and deferral applications due</td></tr><tr><td>April 1</td><td>Delinquency begins</td></tr><tr><td>By June 1</td><td>Online certificate sale</td></tr></tbody></table><p>A check postmarked March 30 but delivered in April is late, because the office goes by receipt.</p>"
   },
   {
-   "h2": "How do early payment discounts work in Orange County?",
-   "html": "<p>The discount falls by one point each month: 4 percent in November, 3 percent in December, 2 percent in January and 1 percent in February. March carries no discount.</p><p>A homeowner who sells in the winter often pays the whole bill at closing, so the month of closing changes what the bill costs. Ask your title agent or the Tax Collector which figure applies on your closing date. If a mortgage company pays your taxes from escrow, it may request the bill, and you then receive a copy marked as requested by the lender. That copy is not a second demand for payment.</p><p>Owners with a prior-year bill above $100 who are current on taxes may apply for the quarterly installment plan, filed online with the Tax Collector.</p>"
+   "h2": "How much can an early payment save in Orange County?",
+   "html": "<p>Pay in November and the bill drops four percent. Each month after that trims one point less, ending at one percent in February, and March pays the gross figure.</p><p>Sellers who close in winter can pay the whole year at the closing table, so the month on the contract changes the net. Ask your title agent for the figure that matches your closing date. If a lender pays from escrow, it can request the statement, and you get a copy labeled as requested by the lender; do not pay twice.</p><p>Owners who are current and whose prior bill topped $100 can ask for the quarterly installment plan, which is applied for online at the Tax Collector's site.</p>"
   },
   {
-   "h2": "What exemptions can reduce an Orange County tax bill?",
-   "html": "<p>Homestead is the main one. The Property Appraiser says it can cut the taxable value of a qualifying home by up to $50,000, and the Department of Revenue explains that the first $25,000 applies to all taxes while the second layer reaches only non-school taxes on value above $50,000.</p><p>You apply to the Property Appraiser by March 1, and the home must be your permanent residence on January 1. The state also describes widow, disability, senior and military exemptions, and it says the Save Our Homes cap limits annual assessment growth on a homestead to the lower of 3 percent or inflation. A sale resets the property to just value on the next January 1, so a buyer's bill can run higher than the seller's. The Property Appraiser offers a tax estimator meant for people planning to buy or sell.</p>"
+   "h2": "Which exemptions apply to a home in Orange County?",
+   "html": "<p>Homestead leads the list, and the Property Appraiser says it can lower taxable value by as much as $50,000. In the state's description, the opening $25,000 touches every levy, and a second slice reaches only non-school levies above $50,000 of assessed value.</p><p>File with the Property Appraiser before March 1, and live in the house as your permanent home on January 1. Widow, disability, senior and military exemptions also exist. Once homesteaded, the assessed figure may rise each year by no more than the smaller of 3 percent or the inflation change. A sale wipes out that gap on the following January 1, so a buyer's first bill can be well above yours. The Property Appraiser's tax estimator is aimed at people weighing a purchase or sale.</p>"
   },
   {
-   "h2": "What happens if taxes are unpaid when I sell in Orange County?",
-   "html": "<p>Open balances have to be cleared by the time the deed changes hands, and the title agent will request the exact figure from the Tax Collector. After April 1, the Tax Collector adds a 3 percent minimum charge and advertising cost to delinquent real estate taxes.</p><p>Parcels are advertised once a week for three weeks, and the certificate sale follows on or before June 1. Bids open at 18 percent and fall. To redeem, the owner pays the delinquent tax, interest and advertising cost. After the delinquency date the Tax Collector takes only certified or cashier's checks, money orders, certain attorney, title or escrow checks, or cash in person, and it does not take personal or business checks.</p><ul><li>Order a payoff from the Tax Collector before listing</li><li>Check escrow records if a lender pays the bill</li><li>Confirm that no certificate has been sold on the parcel</li></ul>"
+   "h2": "What if I owe back taxes on my Orange County house?",
+   "html": "<p>You can still sell. The title agent requests a payoff from the Tax Collector, and every open balance gets cleared as part of closing.</p><p>Once April arrives, the Tax Collector adds a 3 percent minimum charge and advertising cost. Parcels are listed in a local paper for three straight weeks, then certificates go up for competitive bids that start at 18 percent and drop. To clear a certificate, pay the tax, accrued interest and advertising cost. Late payers must use certified or cashier's funds, a money order, certain attorney, title or escrow checks, or cash at the counter; personal and business checks are refused.</p><ul><li>Ask for the payoff before you list</li><li>Confirm whether a certificate already exists</li><li>Compare escrow records with the county account</li></ul>"
   },
   {
-   "h2": "What if a certificate goes two years without payment?",
-   "html": "<p>A certificate holder may then file for a tax deed, and Orange County runs those sales through the Comptroller's Office. The holder cannot contact the owner to demand payment during the first two years, which state law sets.</p><p>Homestead property gets an extra layer of protection at the opening bid: state law adds one-half of the latest assessed value to the amounts due. A seller in this position should act early, since a tax deed sale ends with the owner losing the house and the closing window is short. Call the Tax Collector's property tax department for a redemption figure.</p>"
+   "h2": "How long before a certificate threatens the house?",
+   "html": "<p>Two years. Only then can the certificate holder apply for a tax deed, and the Tax Collector says Orange County routes those sales through the Comptroller's Office.</p><p>Before that, state law bars the holder from pressing the owner for payment. Homestead land gets one more cushion, because the opening bid must include half of its latest assessed value on top of the money due. Even so, an owner facing this stage should call the Tax Collector's property tax department early and ask for a redemption total.</p>"
   },
   {
-   "h2": "What about rental property and tangible personal property tax?",
-   "html": "<p>Landlords face a second tax. The Tax Collector explains that tangible personal property tax is an ad valorem tax on furniture, fixtures and equipment in businesses and rental property, and it also reaches structural additions to mobile homes.</p><p>Those bills arrive with the real estate bills and earn the same early-payment discounts, and they go delinquent on April 1 like the rest. Interest then runs at 1.5 percent per month, plus advertising and fees, and a collection agency under contract with the Tax Collector adds a 15 percent fee if the account is not paid in full. If you sell a rented home with furnishings, ask the Tax Collector how an open tangible account is handled before closing.</p>"
+   "h2": "Can I defer homestead tax in Orange County?",
+   "html": "<p>Qualifying homesteaders can postpone part of the bill by applying to the Tax Collector before April. This is a different program from the exemption.</p><p>Postponed tax stays attached to the home as a lien, so a seller should ask the Tax Collector how a postponed balance and its interest are settled at closing. The state ties the amount to household income and lets a permanent resident aged 65 or older defer the share above 3 percent of that income.</p>"
   },
   {
-   "h2": "How does the Homestead Tax Deferral work?",
-   "html": "<p>It lets a qualifying homesteader postpone part of the tax, and the application is due to the Tax Collector by March 31. The program is not the same as the exemption, which is filed with the Property Appraiser.</p><p>Deferred tax stays a lien on the home. That makes it relevant to anyone selling, so ask the Tax Collector how a deferred balance and its interest are paid off at closing. State rules cap the deferral by household income, and a permanent resident aged 65 or older may defer the part above 3 percent of household income.</p>"
+   "h2": "Do landlords owe a second tax in Orange County?",
+   "html": "<p>Yes, if the rental holds furniture, fixtures or equipment. The Tax Collector describes tangible personal property tax as a levy on those items in businesses and rental property, and on structural additions to mobile homes.</p><p>These statements arrive alongside the real estate statements and carry the same discounts. After March 31 interest of 1.5 percent a month runs, and a collection firm under contract adds 15 percent on accounts left unpaid. Selling a furnished rental means asking the Tax Collector how any open account is handled.</p>"
   },
   {
-   "h2": "What does the county look like for owners?",
-   "html": "<p>QuickFacts lists 1,528,002 people as of July 2025 living in 527,776 households. Over half of those homes are owner lived, valued at a middle figure of $390,100, while carrying owners pay a median $2,055 a month and renters a median $1,775.</p><p>A bill's mix of taxing districts depends on where the home sits, whether inside a city or in unincorporated Orange County, so read the district lines on your own bill.</p>"
+   "h2": "What do Orange County numbers say about owners?",
+   "html": "<p>QuickFacts lists 1,528,002 people in July 2025, spread over 527,776 households. Over half of the homes are owner lived, with a middle value of $390,100. Owners with a loan pay a median $2,055 a month, and renters pay a median $1,775.</p><p>A statement's lines shift with the home's location: inside a city, in unincorporated Orange County, or within a special district. Read those lines on your own account before quoting a tax figure to a buyer.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "When is the Orange County property tax deadline?",
-   "a": "March 31. Bills are mailed by November 1, and unpaid taxes become delinquent on April 1. The Tax Collector counts receipt, not postmark."
+   "q": "What is the last day to pay Orange County property tax without penalty?",
+   "a": "March 31, counted by the day the Tax Collector receives it. A check that lands in April is delinquent."
   },
   {
-   "q": "How much is the early payment discount in Orange County?",
-   "a": "It runs from 4 percent in November down to 1 percent in February. Nothing is taken off in March, when the gross amount is due."
+   "q": "What does a November payment save?",
+   "a": "Four percent. The discount shrinks by a point each month until February, and March has none."
   },
   {
    "q": "Which Orange County office fixes a wrong value or missing exemption?",
-   "a": "The Orange County Property Appraiser. The Tax Collector cannot change a value, an owner record or an exemption, and only collects what the certified roll says."
+   "a": "The Property Appraiser. The Tax Collector bills what the certified roll shows and cannot change value, ownership or exemptions."
   },
   {
-   "q": "Can I sell my Orange County house if I owe back taxes?",
-   "a": "Yes. The balance, interest and charges can be cleared at the closing table. Request the Tax Collector's payoff first, and plan on certified funds if the bill has already gone delinquent."
+   "q": "Can a homeowner with unpaid taxes still sell in Orange County?",
+   "a": "Yes. Request the Tax Collector's payoff, then let the title agent settle it at closing, with certified funds if the bill is already delinquent."
   },
   {
-   "q": "Does a tax certificate mean I lost my house in Orange County?",
-   "a": "No. A certificate is a lien, not a deed. The owner can redeem by paying the taxes, interest and advertising cost, and only after two years can the holder apply for a tax deed."
+   "q": "Does a tax certificate transfer my house to an investor?",
+   "a": "No. It is a lien, and you can redeem it by paying the tax, interest and advertising cost. A tax deed application cannot come until two years have passed."
   }
  ],
  "sources": [

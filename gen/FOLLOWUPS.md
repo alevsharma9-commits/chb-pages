@@ -57,3 +57,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * florida-reverse-mortgage-selling-inheriting cites HUD 2019 PDF (dated). florida-real-estate-contract-inspection-period covers disclosures only. fort-myers-fl-property-tax-guide: Amendment 3 stated as passed per Lee tax collector (verify).
 * florida-property-tax-appeal 5 sources; florida-property-tax-guide lacks certificate redemption/max interest; florida-housing-market has no sale price data.
 * Merged below 85%: jefferson-county-fl-property-tax-guide 84.
+* FL conflicts: highlands-county-fl-property-tax-guide homestead deferral Jan 31 (collector) vs Mar 31 (DOR). hillsborough pages: 2026 homestead amendment status unclear (appraiser says proposed); 3% interest and 18% certificate bid from collector FAQ.
