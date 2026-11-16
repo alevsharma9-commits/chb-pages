@@ -23,41 +23,45 @@
   },
   {
    "h2": "The conveyance tax return",
-   "html": "<p>When the deed is recorded in Trumbull, the seller's side files Connecticut Form OP-236 with the town clerk. The grantor, the grantor's attorney or an agent can file it, and the return and any tax are due at recording. Trumbull's code on the form is 144.</p><p>Tax applies when the consideration reaches $2,000, unless an exemption applies. Towns on myCTREC take the return electronically, and others take paper copies with a check payable to the Commissioner of Revenue Services.</p><ul><li>A principal residence deeded in lieu of foreclosure is exempt.</li><li>A principal residence sold for too little to pay the mortgages and priority liens is exempt.</li><li>A principal residence with a deteriorated concrete foundation caused by pyrrhotite, as determined by a professional engineer, is exempt, and a copy of the engineer's evaluation goes with the return.</li><li>Schedule A is added if there are more than two grantors or an estate or trust is selling.</li></ul>"
+   "html": "<p>Trumbull's deed gets recorded with the town clerk, and Connecticut Form OP-236 travels with it. The grantor, the grantor's lawyer or an agent signs it, and both the return and any tax fall due on the recording date. Trumbull's town code is 144.</p><p>The tax reaches any deed with consideration of $2,000 or more. Where the town participates in myCTREC the return goes in online. Elsewhere it is paper, plus a check made out to the Commissioner of Revenue Services.</p><ul><li>No tax on a principal residence deeded over in lieu of foreclosure.</li><li>No tax where a principal residence sells for too little to pay the mortgages and the priority liens.</li><li>No tax on a principal residence with a deteriorated concrete foundation caused by pyrrhotite, if a professional engineer says so and a copy of the evaluation is attached.</li><li>Estates, trusts and sales with more than two grantors add Schedule A.</li></ul>"
   },
   {
-   "h2": "How a cash sale works here",
-   "html": "<p>A cash sale skips the lender, so the offer is based on the house as it is and closing depends on title work and the date you choose. You send us the address and the condition, and we respond with an offer you can accept or turn down.</p><p>It suits a house with deferred work, an estate property or a tenant situation. For a buyer who needs financing, the same flaws can slow things at inspection or appraisal. If the house is in good shape and you have time, a listing with an agent may bring a different result, and we say so plainly.</p>"
+   "h2": "Cash buyers and financed buyers",
+   "html": "<p>Cash cuts out the lender. The price is set from the house in its present state, and the closing date turns on title work and your own schedule. Send us the address and tell us about the condition, and you will get an offer that you are free to refuse.</p><p>Houses with postponed work, estate houses and houses with tenants are the usual fits. A buyer who needs a mortgage can stumble over the same problems at inspection or appraisal. When the house is in good order and time is on your side, an agent's listing may do better, and we will tell you so.</p>"
   },
   {
-   "h2": "Steps to take before you sell",
-   "html": "<ol><li>Find the deed and the build year, and pull the mortgage statement and latest tax bill.</li><li>Ask the tax collector whether any fire district charge or other balance is due.</li><li>If the seller is an estate or trust, confirm who can sign.</li><li>Walk the house and list its known problems honestly, from the roof to the basement.</li><li>Hire a closing attorney to run the title search and prepare the OP-236.</li><li>Choose a closing date you can meet, and keep the utilities on until then.</li></ol><p>On the day of closing, bring photo ID and all keys. Payoffs come out of your proceeds before you receive the remainder. When it is over, keep a copy of the recorded deed and the return.</p>"
+   "h2": "Before you sell: a checklist",
+   "html": "<ol><li>Locate the deed, and pull your latest mortgage statement and tax bill. The assessor's record shows the build year.</li><li>Ask the tax collector whether a fire district charge or any other balance is open.</li><li>For an estate or trust sale, confirm who has authority to sign.</li><li>Walk the house and write down its known problems, from roof to basement, as plainly as you can.</li><li>Engage a closing attorney to run the title search and prepare the OP-236.</li><li>Pick a closing date you can actually meet and keep the utilities connected until then.</li></ol><p>Bring photo ID and every key on closing day. Payoffs are deducted from your proceeds and you receive the rest. Afterward, save a copy of the recorded deed and the filed return.</p>"
   },
   {
-   "h2": "Selling when the house needs work",
-   "html": "<p>A worn kitchen, an old roof or a damp basement does not stop a sale, but it changes who buys and how. A buyer with a mortgage faces an appraisal and an inspection, and either can lead to a request for repairs or a lower price. A cash buyer looks at the same house and prices the work in. Neither is wrong. The right choice depends on how much money, time and patience you have.</p>"
+   "h2": "From acceptance to the closing table",
+   "html": "<p>Once an offer is accepted, a title search checks the record for liens, unpaid taxes and old mortgages that were never discharged. Anything found has to be cleared before the deed passes. The attorney then drafts a closing statement that lists every payoff and charge, so you can see your net before you sign.</p><p>With cash, this stretch is mostly the title search and signatures. It runs shorter when the paperwork is clean and longer when an estate or an old lien has to be resolved. If you will be away, ask whether you can sign ahead of time. Tell the buyer about anything unusual in the house, including past water in the basement, and make sure the agreed terms are in writing.</p>"
+  },
+  {
+   "h2": "When the house needs work",
+   "html": "<p>Old kitchens, aging roofs and damp basements do not end a sale, but they decide who buys and on what terms. A buyer with a mortgage faces an appraisal and an inspection, and either one can bring a demand for repairs or a lower price. A cash buyer sees the same flaws and prices them in directly. Which route suits you comes down to how much money, time and patience you can spare.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which county is Trumbull in?",
-   "a": "Fairfield County, in the Greater Bridgeport Planning Region."
+   "q": "What county is Trumbull in?",
+   "a": "Fairfield County, as part of the Greater Bridgeport Planning Region."
   },
   {
-   "q": "How big is Trumbull?",
-   "a": "About 23.5 square miles, with 36,827 residents at the 2020 census."
+   "q": "How large is Trumbull?",
+   "a": "It covers about 23.5 square miles, and 36,827 people lived there at the 2020 census."
   },
   {
-   "q": "Is there a train station in Trumbull?",
-   "a": "Not in town. The nearest Metro-North stations are Bridgeport (4.6 miles), Stratford (4.9) and Fairfield-Black Rock (5.7)."
+   "q": "Does Trumbull have a train station?",
+   "a": "No, but three Metro-North stations are close: Bridgeport (4.6 miles), Stratford (4.9) and Fairfield-Black Rock (5.7)."
   },
   {
-   "q": "What do I file with the town clerk when I sell?",
-   "a": "Connecticut Form OP-236, the conveyance tax return, when the deed is recorded. Trumbull's town code is 144, and your closing attorney can work out the amount."
+   "q": "Which form goes to the town clerk at a sale?",
+   "a": "Form OP-236, the conveyance tax return, filed at recording under Trumbull's town code 144. Your closing attorney can work out the amount."
   },
   {
-   "q": "Will I need to repair my Trumbull house before a cash sale?",
-   "a": "No. A cash offer is based on the property in its current condition."
+   "q": "Must I fix the house before a cash sale?",
+   "a": "No. A cash offer takes the property in its current condition."
   }
  ],
  "sources": [
