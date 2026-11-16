@@ -80,3 +80,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 - Spot-check Mississippi pages (batch 154: biloxi, brandon, clinton, greenville, gulfport, hattiesburg and county guides): disclosure statute, Class I/II assessment ratios, homestead exemptions, deed fees were heavily reworded to pass the overlap limit.
 - NJ resale smoke/CO/fire-extinguisher certificate: NJ pages disagree (Bergenfield, Brick, Teaneck still list a portable extinguisher; one agent says another page says the state dropped it Feb 3, 2025). Verify on the NJ DCA page and make all NJ pages agree.
 - san-miguel-county-nm-property-tax-guide: keeps Nov 19, 2026 state auction (upcoming). Reword as a recurring rule after Nov 19.
+- medina-county-oh-property-tax-guide and montgomery-county-oh-property-tax-guide still cite past 2026 due dates ('in 2026 the dates were Feb 13 and July 24'). Reword as recurring rules in the stale-date sweep.
