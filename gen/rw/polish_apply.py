@@ -2,7 +2,11 @@
 import subprocess,glob,os,shutil,sys
 os.chdir(os.path.dirname(os.path.abspath(__file__))+'/../..')
 os.environ['CHB_ROOT']=os.getcwd()+'/'
-slugs=sorted(os.path.basename(f)[:-5] for f in glob.glob('gen/rw/polish/*.json'))
+import json
+slugs=sorted(os.path.basename(f)[:-5] for f in glob.glob('gen/rw/polish/*.json') if not os.path.basename(f).startswith('_'))
+if len(sys.argv)>1:  # batch numbers: only apply drafts of agents that have finished (an agent may still be editing others)
+    B=json.load(open('gen/rw/polish_batches.json')); want={x for i in sys.argv[1:] for x in B[int(i)]}
+    slugs=[x for x in slugs if x in want]
 ok=[];bad=[]
 for i in range(0,len(slugs),40):
     chunk=slugs[i:i+40]
