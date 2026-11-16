@@ -2,54 +2,62 @@
  "slug": "mccreary-county-ky-property-tax-guide",
  "sections": [
   {
-   "h2": "Who handles property tax for a McCreary County parcel?",
-   "html": "<p>Two offices share the work. One, the Property Valuation Administrator (PVA), sets values; the other, the Sheriff, receives payment. McCreary County adds a twist: with no incorporated city anywhere inside its lines, there is no city hall tax office and no city levy. County government is the one local government covering every resident.</p><p>Mail for the PVA goes to PO Box 609, Whitley City, KY 42653, by phone at (606) 376-2514, and faxes go to (606) 376-4152. Dial (606) 376-2322 for the Sheriff and (606) 376-2411 for the County Clerk, who files deeds and later inherits any unpaid bill. The fiscal court works from 1 North Main Street in Whitley City and hears public business each second Thursday evening, starting at six.</p>"
+   "h2": "Who collects and who values",
+   "html": "<p>The bill passes through two desks. The Property Valuation Administrator (PVA) puts a value on the parcel. The Sheriff is where the check goes. McCreary County has no incorporated city, so nobody in the county pays a city levy or visits a city tax window. County government is the only local government covering every resident, and school and district levies fill out the rest of the bill.</p><p>Write to the PVA at PO Box 609, Whitley City, KY 42653, phone (606) 376-2514, fax (606) 376-4152. The Sheriff is at (606) 376-2322. The County Clerk, who files deeds and takes over any unpaid bill, is at (606) 376-2411. The fiscal court meets at 1 North Main Street in Whitley City on the second Thursday evening of the month, starting at six.</p>"
   },
   {
-   "h2": "When do penalties begin on a McCreary County bill?",
-   "html": "<p>The state schedule, KRS 134.015, measures value on January 1 and wants the bill settled before the year ends. The Sheriff keeps the window open through April 15, with higher costs at each step:</p><ul><li>Pay it all by November 1 and 2 percent disappears.</li><li>November 2 to New Year's Eve: the printed total.</li><li>January: 5 percent more.</li><li>After that: 10 percent more.</li></ul><p>The 2026 discount cutoff is history, which leaves the printed figure until December 31 and a penalty after it. The County Clerk inherits anything unpaid when April 15 ends. Two mailed warnings from the county attorney follow, then a sale scheduled three to four and a half months after the transfer. Whoever buys the certificate may add charges, so settle with the Sheriff first.</p>"
+   "h2": "Due dates and penalties",
+   "html": "<p>Under KRS 134.015, value is fixed on January 1 and the bill is meant to be settled before the calendar year closes. The Sheriff will still accept money until April 15, but each step later costs more.</p><table><caption>What a McCreary County bill costs by payment date</caption><thead><tr><th>When you pay</th><th>What changes</th></tr></thead><tbody><tr><td>By November 1</td><td>2 percent discount</td></tr><tr><td>November 2 to December 31</td><td>Face amount on the bill</td></tr><tr><td>January</td><td>5 percent added</td></tr><tr><td>After January</td><td>10 percent added</td></tr></tbody></table><p>Miss April 15 and the account goes to the County Clerk. The county attorney mails two warnings, and the tax certificate can be put up for sale three to four and a half months after that handoff. A buyer of the certificate can tack on fees, so square things with the Sheriff first.</p>"
   },
   {
-   "h2": "What does a McCreary County house cost in tax?",
-   "html": "<p>Very little, by Kentucky standards, because values here are low. A typical owned home here is worth $85,300 according to Census, compared with $188,100 in McCracken County. At the state's 2025 rate of 10.6 cents on every $100, Frankfort's share is about $90.42. The county, school board and special districts levy more, and the PVA can total them for one address.</p><table><caption>McCreary County homes, rents and incomes in Census QuickFacts</caption><thead><tr><th>Item</th><th>Figure</th></tr></thead><tbody><tr><td>Typical owned-home value</td><td>$85,300</td></tr><tr><td>Owner-lived-in homes</td><td>74.2%</td></tr><tr><td>Typical monthly rent</td><td>$577</td></tr><tr><td>Typical household income</td><td>$33,750</td></tr><tr><td>People living in poverty</td><td>36.4%</td></tr><tr><td>New-construction permits, 2025</td><td>0</td></tr></tbody></table><p>With zero permits in 2025, the roll gains little from new building, and the market is existing houses. The Census Bureau's 2020 count, which Wikipedia reports, listed 6,892 housing units with one in eight empty, and 17.9 percent of residents now are 65 or older.</p>"
+   "h2": "What a McCreary County house costs in tax",
+   "html": "<p>Bills here are low by Kentucky standards because home values are low. The typical owner-occupied home is valued at $85,300. Frankfort's 2025 rate is 10.6 cents per $100 of assessed value, and the fiscal court, school board and special districts each layer on a levy of their own. Ask the PVA to total them for a specific address.</p><p>Owners live in about 74.2 percent of homes. A typical rent runs $577 a month. New construction was nil in 2025, with 0 permits, so the market is almost entirely existing houses. The population was 17,124 in 2025, and the 2020 count showed 6,892 housing units, with about one in eight vacant.</p>"
   },
   {
-   "h2": "Does McCreary County offer a homestead deduction?",
-   "html": "<p>Yes, because the program is statewide. A homeowner who is 65 or older, or classed as totally disabled, has $49,100 removed from assessed value for the 2025 and 2026 years, ahead of the rates.</p><p>The subtraction bites hard in this county. At the $85,300 median, only $36,200 stays taxable, and the state's piece drops from about $90.42 to about $38.37. The application is made in person at the Whitley City PVA office, with a birth certificate, driver's license or passport as proof of age. Claims based on disability rest on a government or retirement-plan finding of total disability and are renewed every year. Service-connected veterans, and anyone already judged totally and permanently disabled by Social Security or the Kentucky Retirement Systems, are spared the renewal.</p>"
+   "h2": "Homestead exemption",
+   "html": "<p>The statewide homestead deduction reaches McCreary County owners too. Turn 65, or be classed as totally disabled, and $49,100 comes off the assessed value for tax years 2025 and 2026 before any rate touches it. On a house near the $85,300 median, that removes a large share of the taxable value.</p><p>File in person at the Whitley City PVA office with a birth certificate, driver's license or passport showing your age. A disability claim rests on a government or retirement-plan finding and must be filed again each year. The yearly renewal is waived for owners with a service-connected disability rating and for anyone Social Security or the Kentucky Retirement Systems has found permanently and totally disabled.</p>"
   },
   {
-   "h2": "What can a McCreary County owner do about an assessment?",
-   "html": "<p>Ask for a meeting with the PVA or a deputy before anything else, because Kentucky refuses appeals from owners who skipped it. Staff must explain how the number was produced. After that:</p><ul><li>Review the roll during the 13 days after the first Monday in May.</li><li>Hand the appeal to the County Clerk no later than the first working day after the roll closes.</li><li>Attach evidence on land and structures: insurance records, build costs, comparable sales and photographs. A survey helps with rural tracts. Unsupported appeals fail.</li><li>Show up when the board of local property owners meets, about a month after the roll closes. It hears evidence only with both sides present.</li></ul><p>Missing the hearing forfeits the next stage, the Kentucky Claims Commission. If bills have already printed and the board's value exceeds your claim, a supplemental bill makes up the difference.</p>"
+   "h2": "How to appeal your assessment",
+   "html": "<p>Sit down with the PVA or a deputy first. Appeals from owners who skipped that meeting get turned away, and the staff are required to show how your figure was reached. Then:</p><ul><li>Inspect the roll during the 13 days that follow the first Monday in May.</li><li>Deliver the written appeal to the County Clerk on or before the first business day after the roll closes.</li><li>Attach evidence about land and buildings: insurance records, construction costs, comparable sales and photographs. A survey helps with rural tracts. Appeals with no support tend to fail.</li><li>Go to the hearing of the local board of property owners, held about a month after the roll closes. Evidence is taken only with both sides in the room.</li></ul><p>No-shows give up the next stage, the Kentucky Claims Commission. When bills are already printed and the board lands above your claimed value, a supplemental bill collects the gap.</p>"
   },
   {
-   "h2": "What if McCreary County taxes are still owed when the house sells?",
-   "html": "<p>Unpaid tax stays attached to the house. The statute treats it as the owner's personal debt from January 1, and a KRS 134.420 lien can last 11 years whichever name is on the deed. Once the bill reaches the Clerk, monthly interest of 1 percent begins, with commissions for the Clerk and county attorney and a recording fee on top.</p><p>A title company will want a payoff figure before it releases funds. The Sheriff supplies it up to April 15, and the Clerk after that.</p>"
+   "h2": "Selling with taxes owed",
+   "html": "<p>A tax debt follows the house to closing. From January 1 the law treats it as the owner's personal obligation, and a KRS 134.420 lien can hang on for 11 years under any owner. When the account reaches the Clerk, 1 percent interest accrues monthly, and the Clerk and county attorney add commissions along with a recording fee.</p><p>Closing agents want a payoff number before funds move. The Sheriff quotes it up to April 15, then the Clerk. Order it early, since the sale price must cover it before the seller nets anything.</p><p>For an heir or an owner who has fallen behind, a cash sale as-is skips repair bills and showings and lets you pick a closing date around the payoff. The tax comes out of the proceeds in every case.</p>"
   },
   {
-   "h2": "What is it like to sell a house in McCreary County?",
-   "html": "<p>The newest of Kentucky's 120 counties, McCreary was cut from Pulaski, Wayne and Whitley in 1912. Its 431 square miles lie along the western rim of the Cumberland Plateau, and no part of it lies inside an incorporated city, which no other Kentucky county can say. Whitley City is the seat, with Pine Knot and Stearns as the other census-designated places. Federal land dominates the map: the Daniel Boone National Forest holds roughly 43 percent and the Big South Fork National River and Recreation Area roughly 18 percent, so private acreage is a limited share.</p><p>Early livelihoods came from timber, coal and the Cincinnati Southern Railway, which arrived in 1880 and fed the Stearns company town. Cumberland Falls, a state park since 1930, and the Big South Fork Scenic Railway draw visitors now. Students all attend the McCreary County School District, and McCreary Central High School is its main campus. Clocks follow Eastern time, and the 2025 population of 17,124 is 1.4 percent above 2020.</p><p>The average worker needs 32.3 minutes to reach a job, and 80.1 percent of households subscribe to broadband. Pulaski, Laurel, Whitley and Wayne counties border it, along with two Tennessee counties. For an heir to a house here, or an owner behind on tax, a cash sale as-is skips repair bills. The sale price still has to clear the tax payoff, so get that number early.</p><p>Population peaked at 18,306 in 2010, and the 2020 count of 16,888 was a 7.7 percent drop. Census business data list 157 employer establishments with 1,522 jobs in 2023, a 4.3 percent decline from the year before, and retail sales near $110 million in 2022. Census lists 8.5 percent of adults with a four-year degree and 18.8 percent of residents under 65 with a disability. Pricing near the county's low median value matters in a market like that, and the Census median gross rent of $577 shows what nearby rental demand will support.</p>"
+   "h2": "Selling a house in McCreary County",
+   "html": "<p>McCreary is Kentucky's newest county, carved in 1912 out of Pulaski, Wayne and Whitley, and no incorporated city sits within it. Whitley City is the seat, with Pine Knot and Stearns as the other named communities. Federal land takes up much of the map. The Daniel Boone National Forest covers roughly 43 percent and the Big South Fork National River and Recreation Area roughly 18 percent, so private land is limited.</p><p>Population peaked at 18,306 in 2010 and fell 7.7 percent to 16,888 by 2020, then rose 1.4 percent to the 2025 figure. Residents 65 and older make up 17.9 percent of the population, which matters for homestead claims. Prices sit near the county's low median home value, so price carefully and expect buyers to compare against nearby rentals.</p>"
+  },
+  {
+   "h2": "What to bring to the office",
+   "html": "<p>Keep a small folder ready before you call or drive to Whitley City. For the PVA, that means a photo ID, proof of age for a homestead claim, and a copy of your deed. For the Sheriff, bring the parcel number or your last bill so staff can find the account quickly. For the County Clerk, bring any lien notice you have received. Phone ahead, since each office keeps its own hours, and ask what forms of payment the Sheriff takes before you go.</p>"
+  },
+  {
+   "h2": "Steps to close a sale",
+   "html": "<p>Sales here follow a set order. Get the payoff from the Sheriff or Clerk. Ask the PVA whether a homestead claim sits on the parcel, because dropping it changes the next bill. Collect the deed and any lien papers, and give the payoff to the closing agent so tax is cleared from proceeds. The County Clerk files the new deed after closing.</p><p>A house that came through an estate usually needs extra deed work, so bring papers proving who may sell.</p><p>Before listing, compare the PVA's record with what you intend to sell: acreage, building description and owner name. A wrong acreage figure is easy to correct with PVA staff, and much harder once a buyer's lender notices it. Rural tracts are where mismatches turn up most, and a recent survey usually settles the question.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Is there a city property tax in McCreary County?",
-   "a": "No. McCreary is the only Kentucky county without an incorporated city, so no city levy exists. School and district levies still appear on the bill."
+   "a": "No, since no incorporated city exists here. The bill still carries school and district levies."
   },
   {
-   "q": "Whom do I pay for McCreary County property tax?",
-   "a": "Hand it to the Sheriff, at (606) 376-2322, any time through April 15. The PVA at (606) 376-2514 sets values and receives exemption papers, never money."
+   "q": "Who do I pay for McCreary County property tax?",
+   "a": "Send it to the Sheriff, (606) 376-2322, up to April 15. The PVA, (606) 376-2514, handles values and exemption forms, never payments."
   },
   {
-   "q": "What does the state collect on an $85,300 McCreary County house?",
-   "a": "Roughly $90.42, at the state's 2025 rate of 10.6 cents per $100. Local rates add to that."
+   "q": "What is the state rate for 2025?",
+   "a": "It is 10.6 cents per $100 of assessed value. Local levies are added by the county, school board and districts."
   },
   {
-   "q": "Can a 65-year-old in McCreary County shrink the taxable value?",
-   "a": "Yes. Bring proof of age to the PVA office and $49,100 comes off assessed value for 2025 and 2026 under the homestead deduction."
+   "q": "Can a 65-year-old lower the taxable value?",
+   "a": "Yes. Show proof of age at the Whitley City PVA office and the homestead deduction removes $49,100 for 2025 and 2026."
   },
   {
-   "q": "What if my McCreary County bill moves to the County Clerk?",
-   "a": "A lien is recorded and interest runs at 1 percent monthly. The certificate may be sold to an investor three to four and a half months after the move."
+   "q": "What happens if my bill moves to the County Clerk?",
+   "a": "The Clerk records a lien and 1 percent monthly interest starts. An investor may buy the certificate three to four and a half months later."
   }
  ],
  "sources": [
