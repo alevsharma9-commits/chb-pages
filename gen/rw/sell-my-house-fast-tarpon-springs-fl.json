@@ -21,6 +21,10 @@
    "html": "<p>City hall is at 324 East Pine Street, and the city's home page lists Permits &amp; Inspections among its online services.</p><p>Before listing, ask the permits office whether any open permit remains on the property and whether any work was done without one. Open permits can delay a title company.</p>"
   },
   {
+   "h2": "What does closing look like in Tarpon Springs?",
+   "html": "<p>Most closings happen at a title office in a single sitting. The deed must be signed before two witnesses (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html\">s. 689.01</a>), so bring photo identification and confirm the names match the recorded deed exactly.</p><ul><li>Confirm the payoff amount for the day of closing.</li><li>Review the settlement statement line by line.</li><li>Hand over keys, garage openers and any gate codes.</li></ul><p>The city has 11,960 households averaging 2.12 people, and 85.7 percent of residents lived in the same house a year earlier, so many sellers have decades of belongings to move. Plan the move-out date before you sign.</p>"
+  },
+  {
    "h2": "How big is Tarpon Springs, and how is it laid out?",
    "html": "<p>At 9.13 square miles of land, the city is compact: 2,752.2 residents per square mile in 2020 against 2,576.9 in 2010. Travel to work averages 28.5 minutes, which suggests many residents commute outside the city, and 53.7% of people 16 and older are in the labor force.</p><p>Health care and social assistance receipts were about $329.7 million in 2022 and retail sales about $579 million.</p>"
   },
@@ -60,15 +64,15 @@
  "faqs": [
   {
    "q": "How long does a Tarpon Springs sale take?",
-   "a": "Often one to two weeks for a cash sale with clear title."
+   "a": "Often one to two weeks for a cash sale with clear title. Estates, liens or an unrecorded deed add time, so ask the closing agent for a title check early."
   },
   {
    "q": "Do I need a probate case to sell an inherited house?",
-   "a": "Usually, unless the owner used a trust or lady bird deed."
+   "a": "Usually, unless the owner used a trust or lady bird deed. The Pinellas court names the personal representative who signs, and a small estate may qualify for a shorter process."
   },
   {
    "q": "Does my senior exemption pass to the buyer?",
-   "a": "No. Exemptions belong to the owner, and the buyer applies on their own."
+   "a": "No. Exemptions belong to the owner, and the buyer applies on their own after taking title. Ask the Pinellas appraiser what you hold and when it ends."
   },
   {
    "q": "What deed tax applies in Tarpon Springs?",
@@ -76,7 +80,7 @@
   },
   {
    "q": "What about open permits or code issues?",
-   "a": "Ask city hall about open permits before listing."
+   "a": "Ask city hall about open permits before listing, since a title company may flag them. Closing out old permits first usually gives buyers less to question."
   }
  ],
  "sources": [
@@ -159,6 +163,10 @@
   {
    "title": "Explore Tarpon Springs",
    "url": "https://www.ctsfl.us/511/Explore-Tarpon-Springs"
+  },
+  {
+   "title": "Fla. Stat. 689.01",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html"
   }
  ],
  "slug": "sell-my-house-fast-tarpon-springs-fl"

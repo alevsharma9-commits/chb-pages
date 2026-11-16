@@ -2,8 +2,8 @@
  "slug": "volusia-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who sends the property tax bill in Volusia County?",
-   "html": "<p>The Volusia County Tax Collector mails and collects the bill, while the Volusia County Property Appraiser sets the value and decides exemptions. The tax collector's office states that the Property Appraiser also mails the Notice of Proposed Taxes in August, which carries your values and the public hearing dates.</p><p>Millage rates come from a third group: the county council, the school board, city commissioners and other taxing bodies each set their own. One mill equals $1 per $1,000 of value. The bill you receive is the sum of every body that levies on your parcel, so two houses in the same county can owe very different amounts.</p><p>If you pay through a mortgage escrow account, the lender normally requests the bill. The tax collector says escrow owners get an informational notice that the original went to the escrow trustee. A seller with escrow should still confirm the payoff figure before closing.</p>"
+   "h2": "Who mails the bill in Volusia County?",
+   "html": "<p>The Volusia County Tax Collector mails and collects the bill, while the Volusia County Property Appraiser sets the value and decides exemptions. The collector's site adds that the appraiser sends the Notice of Proposed Taxes in August, which carries your values and the public hearing dates.</p><p>Millage rates come from a third group: the county council, the school board, city commissioners and other taxing bodies each set their own. One mill equals $1 per $1,000 of value. The bill you receive is the sum of every body that levies on your parcel, so two houses in the same county can owe very different amounts.</p><p>If you pay through a mortgage escrow account, the lender normally requests the bill. The tax collector says escrow owners get an informational notice that the original went to the escrow trustee. A seller with escrow should still confirm the payoff figure before closing.</p>"
   },
   {
    "h2": "What discounts and due dates does Volusia County use?",
@@ -15,7 +15,7 @@
   },
   {
    "h2": "Can a Volusia County tax certificate lead to a tax deed sale?",
-   "html": "<p>Yes. If the certificate is not redeemed within two years of the delinquency date, the holder may apply for a tax deed. The tax collector's own example: 2020 taxes became delinquent April 1, 2021, so an application can be made after April 1, 2023.</p><p>Applications go through LienHub, and the holder must also pay off other outstanding certificates and taxes on the parcel. The Clerk of the Circuit Court administers the tax deed sale itself, and the tax collector refers questions to the clerk at clerk.org. Statewide, the clerk holds a public auction where the successful bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater, per <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html\">s. 197.542</a>.</p><p>A homeowner who sees a certificate on the parcel has two clean choices: redeem it before an application is filed, or have the closing agent pay the redemption figure from sale proceeds. Ask the tax collector for the exact payoff in writing.</p>"
+   "html": "<p>Yes. If the certificate is not redeemed within two years of the delinquency date, the holder may apply for a tax deed. The tax collector's own example: 2020 taxes became delinquent April 1, 2021, so an application can be made after April 1, 2023.</p><p>The holder files through LienHub and must also clear other open certificates and taxes on the parcel. Running the tax deed sale falls to the circuit clerk, and the collector sends questions there (clerk.org). Statewide, the clerk holds a public auction where the successful bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater, per <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html\">s. 197.542</a>.</p><p>A homeowner who sees a certificate on the parcel has two clean choices: redeem it before an application is filed, or have the closing agent pay the redemption figure from sale proceeds. Ask the tax collector for the exact payoff in writing.</p>"
   },
   {
    "h2": "What payment options help Volusia County owners who cannot pay in full?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "Who pays the tax when a Volusia County house is sold?",
-   "html": "<p>The seller owes taxes through the day of closing in the usual contract, and the title company settles them from the proceeds. Taxes are paid in arrears, since the tax year runs January 1 to December 31 and the bill arrives at its end, so a mid-year closing splits the year between the parties.</p><p>The county tax collector's page warns that the owner is responsible for knowing taxes are due even when a bill goes missing. That duty comes from s. 197.122, which charges owners with knowing taxes are due, finding the amount, and paying before delinquency. If you changed your mailing address, update it with the property appraiser so bills do not go to an old location.</p><p>Recording happens at the clerk's office. Deed stamps in Florida run 70 cents per $100 of consideration per the <a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">Department of Revenue</a>, so Volusia County follows the standard rate. Ask your title agent who pays it under your contract.</p>"
+   "html": "<p>The seller owes taxes through the day of closing in the usual contract, and the title company settles them from the proceeds. The tax year runs January to December and is paid after it ends, so a mid-year closing splits the year between the parties.</p><p>The county tax collector's page warns that the owner is responsible for knowing taxes are due even when a bill goes missing. That duty comes from s. 197.122, which charges owners with knowing taxes are due, finding the amount, and paying before delinquency. If you changed your mailing address, update it with the property appraiser so bills do not go to an old location.</p><p>Recording happens at the clerk's office. Deed stamps in Florida run 70 cents per $100 of consideration per the <a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">Department of Revenue</a>, so Volusia County follows the standard rate. Ask your title agent who pays it under your contract.</p>"
   },
   {
    "h2": "What should a Volusia County seller with back taxes do first?",
@@ -36,8 +36,8 @@
  ],
  "faqs": [
   {
-   "q": "Which day ends penalty-free payment in Volusia County?",
-   "a": "March 31. The tax collector says that is the last day for payment to be postmarked or made in person or online without penalty, and taxes turn delinquent April 1 with a 3% minimum charge."
+   "q": "Until what day can Volusia owners pay with no penalty?",
+   "a": "March 31 ends the penalty-free period, per the county collector, and April 1 brings a 3% minimum charge."
   },
   {
    "q": "What discount does Volusia County give for early payment?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "How long before a Volusia County certificate can become a tax deed?",
-   "a": "Two years. The holder may apply after two years from the April 1 delinquency date, through LienHub, and the Clerk of the Circuit Court runs the public sale."
+   "a": "Two years after delinquency. The holder applies through LienHub, and the circuit clerk then runs the public sale."
   },
   {
    "q": "Does the Volusia County installment plan have an application deadline?",
