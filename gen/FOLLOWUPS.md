@@ -73,3 +73,6 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 - Rework group 6: sell-my-house-fast-panama-city-fl says Amendment 3 was on the Nov 3, 2026 ballot with no result; update once the result is confirmed (same as other FL Amendment 3 pages). Ellis TX and Suwannee tax-deed sentences rest on state notes, not fresh fetches.
 - Amendment 3: the Pinellas property appraiser site refers to its "recent passage" (rework group 1). Confirm the result on an official page, then update fl.md and every FL page that still says "on the Nov 3, 2026 ballot" without a result.
 - Rework group 1: Brevard appraiser and Broward tax collector sites were blocked; those facts rest on collector/appraiser home pages and state sources. West Palm Beach 2026 millage is labelled proposed.
+
+## Stale-date sweep (before final publish)
+- cambridge-ma-property-tax-guide keeps FY2027 first-half bill due Nov 18, 2026 and abatement window closing Nov 18, 2026. Rewrite as recurring rule once those dates pass. Re-grep all polished pages for "2026" dates that have passed before the final push.
