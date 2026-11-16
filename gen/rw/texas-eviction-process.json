@@ -7,15 +7,15 @@
   },
   {
    "h2": "What is the first step before a landlord can sue?",
-   "html": "<p>The landlord must give a written notice to vacate, normally at least three days unless the lease says otherwise, under Property Code section 24.005. Delivery can be in person to the tenant or a household member aged 16 or older, inside the premises in an obvious place, by mail, or by e-mail if the written lease permits.</p><p>Where a tenant paid on time the prior month, the notice is framed as pay the rent or vacate. Federal CARES Act properties may need a 30-day notice. Rule 510 does not control these pre-suit notices, so landlords look to chapter 24 of the Property Code for them.</p>"
+   "html": "<p>The landlord must give a written notice to vacate, normally three days or whatever the lease sets, under Property Code section 24.005. Delivery can be in person to the tenant or a household member aged 16 or older, inside the premises in an obvious place, by mail, or by e-mail if the written lease permits.</p><p>Where a tenant paid on time the prior month, the notice is framed as pay the rent or vacate. Federal CARES Act properties may need a 30-day notice. Rule 510 does not control these pre-suit notices, so landlords look to chapter 24 of the Property Code for them.</p>"
   },
   {
    "h2": "How does the justice court case run?",
-   "html": "<p>The landlord files in justice court, and the tenant must be served at least four days before trial. The hearing is set no sooner than 10 days and no later than 21 days after the case is filed.</p><p>The tenant does not have to file a written answer, except when summary disposition is in play. A jury can be requested at least three days before trial. Rule 510 also allows a rent claim to be joined with the eviction when it does not exceed $20,000, and the amount has been the subject of proposed amendments, so ask the court clerk for the current limit.</p><table><caption>Texas justice court eviction milestones from the State Law Library guide</caption><thead><tr><th>Stage</th><th>Timing printed</th></tr></thead><tbody><tr><td>Service on tenant</td><td>At least 4 days before trial</td></tr><tr><td>Hearing date</td><td>10 to 21 days after filing</td></tr><tr><td>Jury demand</td><td>At least 3 days before trial</td></tr><tr><td>Appeal to county court</td><td>Within 5 days of judgment</td></tr><tr><td>Writ of possession available</td><td>6 days after final judgment</td></tr><tr><td>Writ served by officer</td><td>Within 5 days</td></tr></tbody></table>"
+   "html": "<p>The landlord files in justice court, and service on the tenant must precede trial by four days or more. The hearing is set no sooner than 10 days and no later than 21 days after the case is filed.</p><p>The tenant does not have to file a written answer, except when summary disposition is in play. A jury can be requested three days or more before trial. Rule 510 also allows a rent claim to be joined with the eviction when it does not exceed $20,000, and the amount has been the subject of proposed amendments, so ask the court clerk for the current limit.</p><table><caption>Texas justice court eviction milestones from the State Law Library guide</caption><thead><tr><th>Stage</th><th>Timing printed</th></tr></thead><tbody><tr><td>Service on tenant</td><td>At least 4 days before trial</td></tr><tr><td>Hearing date</td><td>10 to 21 days after filing</td></tr><tr><td>Jury demand</td><td>At least 3 days before trial</td></tr><tr><td>Appeal to county court</td><td>Within 5 days of judgment</td></tr><tr><td>Writ of possession available</td><td>6 days after final judgment</td></tr><tr><td>Writ served by officer</td><td>Within 5 days</td></tr></tbody></table>"
   },
   {
    "h2": "Can a tenant appeal an eviction judgment in Texas?",
-   "html": "<p>Yes, but the window is short: an appeal to county court must be filed within five days of the judgment. The tenant must post a bond or cash deposit, or file a statement that they cannot afford the costs.</p><p>For a landlord who has won, the appeal period matters because it delays the writ if the tenant acts in time. For a tenant, missing the five-day window is the most common way to lose appeal rights, so the clerk's office should be contacted right after judgment.</p>"
+   "html": "<p>Yes, but the window is short: an appeal to county court must be filed inside five days of judgment. The tenant must post a bond or cash deposit, or file a statement that they cannot afford the costs.</p><p>For a landlord who has won, the appeal period matters because it delays the writ if the tenant acts in time. For a tenant, missing the five-day window is the most common way to lose appeal rights, so the clerk's office should be contacted right after judgment.</p>"
   },
   {
    "h2": "How does a writ of possession work?",
@@ -34,8 +34,12 @@
    "html": "<p>Add the stages together and a straightforward case needs roughly the notice period, up to three weeks to reach a hearing, and about a week after judgment before a writ can be served. An appeal or a reset hearing pushes that out.</p><p>The pieces are the 3-day default notice, the 10 to 21 day hearing window, the 5-day appeal period, the 6-day wait for the writ, the 5-day service period and the 24-hour removal warning. They are separate deadlines rather than one clock, so confirm each date with the court file.</p><p>Owners planning a sale should treat any single estimate as a guide only. A buyer who will take the home occupied removes this uncertainty from the closing schedule.</p>"
   },
   {
+   "h2": "What happens at the hearing itself?",
+   "html": "<p>The judge hears both sides in a short proceeding and decides whether the landlord has the right to possession. Because the case is limited to possession and, where joined, a rent claim, the judge is not deciding every dispute between the parties.</p><p>If the landlord wins, a judgment for possession is entered, and the five-day appeal period starts. If the tenant wins, the case ends and the lease continues unless the landlord starts again with a new notice.</p>"
+  },
+  {
    "h2": "How does an eviction affect selling a Texas rental?",
-   "html": "<p>A pending eviction does not stop a sale, but it makes the closing date uncertain. A buyer purchasing with the tenant in place avoids the court calendar entirely, while a buyer who needs a vacant house depends on the writ steps above.</p><p>Owners weighing a sale often ask three questions: whether the lease transfers to the buyer, whether back rent is still owed to the seller, and whether the judgment must be final before closing. Put the answers in the purchase contract and keep the court file handy for the title company.</p>"
+   "html": "<p>A sale can go forward during an eviction, though the closing date is harder to fix. A buyer who accepts the occupied house skips the court calendar entirely, while a buyer wanting a vacant house relies on the writ steps above.</p><p>Owners weighing a sale often ask three questions: whether the lease transfers to the buyer, whether back rent is still owed to the seller, and whether the judgment must be final before closing. Put the answers in the purchase contract and keep the court file handy for the title company.</p>"
   }
  ],
  "faqs": [
@@ -49,10 +53,10 @@
   },
   {
    "q": "How fast must a tenant appeal an eviction?",
-   "a": "Within five days of the judgment, by filing with the county court a bond, a cash deposit, or a statement of inability to afford costs."
+   "a": "Inside five days of judgment, by filing with the county court a bond, a cash deposit, or a statement of inability to afford costs."
   },
   {
-   "q": "What is the last day a writ of possession can be carried out?",
+   "q": "How late can a writ be carried out?",
    "a": "The 90th day after judgment. A writ normally cannot issue more than 60 days after judgment, and the court may allow 90 days for good cause."
   },
   {

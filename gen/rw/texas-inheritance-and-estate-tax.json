@@ -26,6 +26,14 @@
    "html": "<p>Property tax keeps running through probate. Appraisal districts value property as of January 1, and a tax lien attaches on that date to secure the year's taxes, penalties and interest, regardless of who inherits.</p><ul><li>Bills go out around October 1, and taxes unpaid on February 1 are delinquent.</li><li>On February 1 a six percent penalty and one percent interest are added; the penalty rises to 12 percent on July 1.</li><li>Heirs who are not on a recorded deed need an affidavit of ownership interest, the death certificate, a recent utility bill and any court record citation to claim the homestead exemption.</li><li>A surviving spouse aged 55 or older may keep the deceased spouse's over-65 exemption in certain cases.</li></ul><p>A homestead's appraised value is capped at a 10 percent yearly rise once the exemption has been in place, which can help heirs who keep the house for a while.</p>"
   },
   {
+   "h2": "What payment relief exists if taxes fall behind during probate?",
+   "html": "<p>Several options exist if the estate cannot pay the bill on time. Heirs who live in the home as a residence homestead can ask the collector for an installment plan on delinquent taxes, which some collectors allow for up to 36 months and which is required only for a residence homestead.</p><ul><li>Owners aged 65 or older, or disabled, may pay a current bill in four installments, with a six percent penalty on a late installment and one percent monthly interest.</li><li>A waiver of penalty and interest under Sec. 33.011 generally requires payment by the 21st day after the owner learns of the delinquency and a written request before the 181st day after the delinquency date.</li><li>Delinquent accounts can be sent to a private attorney, who may add a penalty of up to 20 percent.</li></ul><p>Ask the county tax office which of these your taxing units offer before the first delinquency date passes.</p>"
+  },
+  {
+   "h2": "What makes a Texas will valid for probate purposes?",
+   "html": "<p>A typical will is written, signed by the person making it, and witnessed by two people. A holographic will, written in the maker's own hand, needs no witnesses.</p><p>The application is usually filed in the probate court of the county where the deceased lived. If the estate holds real property in another county, the court order and will are filed with the clerk of the county where that property sits. A Lady Bird deed, also called an enhanced life estate deed, lets an owner sell or mortgage without the beneficiary's consent, though the State Law Library notes there is no official form.</p>"
+  },
+  {
    "h2": "How does selling an inherited house change the picture?",
    "html": "<p>A sale settles the property tax, mortgage and any recorded liens from the proceeds at closing, and the heirs split what is left according to the estate route. Sellers should line up the recorded deed, the payoff figures and the tax statement before accepting an offer.</p><p>Federal rules on income tax for gains and on gifts are separate from the estate tax filing thresholds above, so ask a tax professional about them. For the Texas side, ask the county tax office for a payoff and the county clerk for copies of what is recorded against the title.</p>"
   }
@@ -84,6 +92,10 @@
   {
    "title": "Texas Comptroller: Paying property taxes",
    "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  },
+  {
+   "title": "Texas Comptroller: Property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
   },
   {
    "title": "Texas Comptroller: Property tax exemptions",

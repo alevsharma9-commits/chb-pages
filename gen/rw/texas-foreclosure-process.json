@@ -11,23 +11,35 @@
   },
   {
    "h2": "What notices does a Texas borrower receive?",
-   "html": "<p>Two notices matter most: the notice of default and the notice of sale. Each starts a deadline.</p><ul><li>Notice of default: the borrower can reinstate by paying the past-due amount within 20 days of receiving it, under Property Code section 51.002(d).</li><li>Notice of sale: sent after the 20 days and at least 21 days before the auction.</li><li>Posting and filing: the notice of sale goes on the courthouse door and with the county clerk, which charges $2.00 per notice according to the 2023 clerk manual.</li><li>Military statement: the notice must carry the active-duty military statement.</li></ul><p>Keep every letter, and note the postmark on each.</p>"
+   "html": "<p>Two notices matter most: the notice of default and the notice of sale. Each starts a deadline.</p><ul><li>Notice of default: the borrower can reinstate by paying the past-due amount within 20 days of receiving it, under Property Code section 51.002(d).</li><li>Notice of sale: sent once the 20 days run out, with 21 days or more left before the auction.</li><li>Posting and filing: the notice of sale goes on the courthouse door and with the county clerk, which charges $2.00 per notice according to the 2023 clerk manual.</li><li>Military statement: the notice must carry the active-duty military statement.</li></ul><p>Keep every letter, and note the postmark on each.</p>"
   },
   {
    "h2": "What is the Texas foreclosure sale date and where is it held?",
-   "html": "<p>The auction takes place on the first Tuesday of the month, or the first Wednesday if that Tuesday is January 1 or July 4. It runs between 10 a.m. and 4 p.m. and begins at the notice time, no later than three hours after.</p><p>The sale is held in the county where the real estate is located, in the area the commissioners court has designated and recorded in the real property records.</p><table><caption>Texas foreclosure timeline as printed by the State Law Library and Attorney General</caption><thead><tr><th>Event</th><th>Timing</th></tr></thead><tbody><tr><td>Federal start limit</td><td>Over 120 days delinquent</td></tr><tr><td>Reinstatement</td><td>Within 20 days of default notice</td></tr><tr><td>Notice of sale</td><td>At least 21 days before the sale</td></tr><tr><td>Auction</td><td>First Tuesday, 10 a.m. to 4 p.m.</td></tr><tr><td>Deficiency suit</td><td>Within 2 years of the sale</td></tr><tr><td>Excess tax-sale proceeds claim</td><td>2 years from the sale</td></tr></tbody></table>"
+   "html": "<p>Auctions fall on a month's opening Tuesday, shifting to the Wednesday when that Tuesday is a New Year's Day or an Independence Day. Hours are 10 a.m. through 4 p.m., and bidding opens at the time printed in the notice or within three hours after it.</p><p>Bidding happens at a spot inside the property's own county. Each commissioners court picks that spot and records it in the real property records.</p><table><caption>Texas foreclosure timeline as printed by the State Law Library and Attorney General</caption><thead><tr><th>Event</th><th>Timing</th></tr></thead><tbody><tr><td>Federal start limit</td><td>Over 120 days delinquent</td></tr><tr><td>Reinstatement</td><td>Within 20 days of default notice</td></tr><tr><td>Notice of sale</td><td>At least 21 days before the sale</td></tr><tr><td>Auction</td><td>First Tuesday of the month</td></tr><tr><td>Deficiency suit</td><td>Two years after the sale</td></tr><tr><td>Excess tax-sale proceeds claim</td><td>2 years from the sale</td></tr></tbody></table>"
   },
   {
    "h2": "What happens to the money and the debt after the sale?",
-   "html": "<p>Sale proceeds pay the foreclosing lender first. Excess funds go to junior liens and then to the former owner.</p><p>If proceeds fall short, the lender can sue for the shortfall, but a deficiency suit must be filed within two years of the sale. The borrower may ask for a fair market value offset. For property tax foreclosure sales, the former owner has two years from the sale to claim excess proceeds.</p>"
+   "html": "<p>The foreclosing lender is paid first from the bid. Excess funds go to junior liens and then to the former owner.</p><p>If proceeds fall short, the lender can sue for the shortfall, but a deficiency suit has a two-year deadline running from the sale. The borrower may ask for a fair market value offset. For property tax foreclosure sales, the former owner has two years from the sale to claim excess proceeds.</p>"
   },
   {
    "h2": "Does a Texas homeowner have a right to redeem after foreclosure?",
-   "html": "<p>Usually not after a deed of trust sale. Redemption rights exist for particular situations, such as certain tax liens and owners' association assessment liens.</p><p>For a tax sale, the Texas Supreme Court has described Tax Code section 34.21 this way: homestead, agricultural and mineral interest property can be redeemed within two years of the purchaser's deed being filed, with a premium of 25 percent in the first year or 50 percent in the second. Other property can be redeemed by the 180th day after filing, with a premium of no more than 25 percent. The owner also pays the bid, recording fee, taxes, penalties, interest and costs.</p>"
+   "html": "<p>Usually not after a deed of trust sale. Redemption rights exist for particular situations, such as certain tax liens and owners' association assessment liens.</p><p>For a tax sale, the Texas Supreme Court has described Tax Code section 34.21 this way: homestead, agricultural and mineral interest property can be redeemed for two years after the purchaser's deed is filed, with a premium of 25 percent in the first year or 50 percent in the second. Other property can be redeemed by the 180th day after filing, with a premium of no more than 25 percent. The owner also repays the purchaser's bid and the added charges the opinion lists.</p>"
   },
   {
    "h2": "What can a Texas homeowner do to avoid foreclosure?",
-   "html": "<p>Act early and act in writing. The options below are the usual ones, and each has its own timing against the auction date.</p><ul><li>Reinstate within the 20-day window.</li><li>Request a repayment plan or modification from the servicer.</li><li>Sell the home before the first Tuesday sale.</li><li>Contact legal aid or a Texas attorney about your notices.</li></ul><p>A sale before the auction pays off the lien and avoids a trustee's deed in the county records. Collect your default notice, sale notice and loan statements before talking to a buyer.</p>"
+   "html": "<p>Writing to the servicer early gives you a paper trail. Each option below runs against the auction date.</p><ul><li>Reinstate inside the 20-day cure period.</li><li>Request a repayment plan or modification from the servicer.</li><li>Sell the home before the first Tuesday sale.</li><li>Contact legal aid or a Texas attorney about your notices.</li></ul><p>A sale before the auction pays off the lien and avoids a trustee's deed in the county records. Collect your default notice, sale notice and loan statements before talking to a buyer.</p>"
+  },
+  {
+   "h2": "How do counties handle Texas foreclosure paperwork?",
+   "html": "<p>Texas has 254 counties, and the foreclosure record in each is kept by the county clerk. The clerk records deeds of trust, liens and notices of foreclosure sale, and also serves as clerk of the commissioners court.</p><p>That second role matters for foreclosures. The commissioners court is the body that designates where in the county sales are held, so the clerk is the person to ask when you cannot tell where an auction will take place. Rural and urban counties run the same legal steps, but their offices differ in hours and in how notices can be searched.</p><ul><li>Call or visit the clerk where the house is located, not where you live.</li><li>Ask for the current list of posted notices of sale.</li><li>Ask where the commissioners court designated the sale area.</li><li>Ask how the clerk accepts filings and what the fee will be.</li></ul>"
+  },
+  {
+   "h2": "What documents should a borrower collect?",
+   "html": "<p>Gather everything tied to the loan in one folder before speaking with a servicer, an attorney or a buyer. Having the dates in front of you makes it easier to see which deadline is closest.</p><ul><li>The note and deed of trust from closing.</li><li>The notice of default and its envelope or delivery record.</li><li>The notice of sale and the date printed on it.</li><li>Recent loan statements and any letters from the servicer.</li><li>Proof of homestead use if you live in the house.</li></ul><p>If property taxes are behind, note that each year's tax lien arises on the first of January, and a lender may pay the taxes and add them to your balance. Ask your servicer to confirm how taxes are being handled.</p>"
+  },
+  {
+   "h2": "Why do the dates on the notices matter so much?",
+   "html": "<p>Every protection a borrower has in Texas is attached to a date printed on a paper. The cure period begins on receipt of the default letter, and the auction cannot be held until the sale letter has aged long enough. Write each date on a calendar the day the mail arrives.</p><p>If a letter looks wrong, for example a sale date that is not a Tuesday, or a county that does not match the property, raise it with the servicer in writing and consult an attorney quickly. Small defects in timing or place can matter, and the window to act closes at the auction.</p>"
   },
   {
    "h2": "What if someone is still in the house after the sale?",
@@ -40,12 +52,12 @@
    "a": "Most are nonjudicial, using the power of sale in the deed of trust. Home equity loans, reverse mortgages and some association liens need an expedited court order."
   },
   {
-   "q": "How long do I have to reinstate my Texas loan?",
-   "a": "Within 20 days of receiving the notice of default, by paying the past-due amount under Property Code section 51.002(d)."
+   "q": "What is the reinstatement deadline on a Texas loan?",
+   "a": "Twenty days from receipt of the default notice. Pay the past-due balance in that period, as section 51.002(d) of the Property Code provides."
   },
   {
    "q": "How much notice before a Texas foreclosure sale?",
-   "a": "At least 21 days. The notice of sale is posted at the courthouse door and filed with the county clerk."
+   "a": "At least 21 days. Posting on the courthouse door and a filing with the clerk are both required."
   },
   {
    "q": "Can the lender still sue me after the auction?",
@@ -53,7 +65,7 @@
   },
   {
    "q": "What day are Texas foreclosure auctions held?",
-   "a": "The first Tuesday of the month, between 10 a.m. and 4 p.m., or the first Wednesday when the first Tuesday is January 1 or July 4."
+   "a": "The first Tuesday of each month. When that Tuesday falls on January 1 or July 4, the first Wednesday is used instead."
   }
  ],
  "sources": [

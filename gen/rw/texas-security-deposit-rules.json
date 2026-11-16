@@ -1,0 +1,69 @@
+{
+ "slug": "texas-security-deposit-rules",
+ "sections": [
+  {
+   "h2": "What counts as a security deposit in Texas?",
+   "html": "<p>A security deposit is money advanced to secure the tenant's performance under a residential lease, and it is not the same thing as prepaid rent or an application payment. The Texas Property Code draws the lines in Sections 92.102 and 92.351, and the Texas State Law Library repeats them in its landlord and tenant guide.</p><p>Getting the label right matters because each kind of payment carries different refund rights. A landlord who calls everything a \"deposit\" does not change what the statute says about each one. Owners who plan to sell a rental should sort their tenant's payments into the right bucket before anyone asks about a refund.</p><ul><li><strong>Security deposit:</strong> any advance meant mainly to secure performance under a dwelling lease, other than a rental application deposit or advance rent.</li><li><strong>Application deposit:</strong> money given with a rental application that comes back to the applicant if the landlord rejects them.</li><li><strong>Application fee:</strong> a nonrefundable payment that offsets the cost of screening an applicant.</li></ul>"
+  },
+  {
+   "h2": "How quickly must a Texas landlord return the deposit?",
+   "html": "<p>A landlord must refund the deposit on or before the 30th day after the tenant surrenders the premises. That clock is in Section 92.103 of the Property Code.</p><p>There is a condition tied to the forwarding address. Under Section 92.107, the landlord has no duty to return the deposit or send a written description of damages and charges until the tenant gives a written statement of the address to use for the refund. A tenant who forgets to send it does not lose the claim, and may still go to court. The practical step for any tenant is a short dated letter with the new mailing address, kept with a copy.</p><p>For a landlord who is mid-sale, this means the 30 days can fall right around a closing date. Calendar the move-out date and the day the written statement arrived, because those two dates drive everything that follows.</p>"
+  },
+  {
+   "h2": "What can a landlord deduct from the deposit?",
+   "html": "<p>A landlord may deduct damages and charges the tenant is legally liable for under the lease or because the tenant breached it. Section 92.104 also bars keeping any part of the deposit to cover normal wear and tear.</p><p>Section 92.001(4) defines normal wear and tear as deterioration from the intended use of the dwelling. It includes breakage or malfunction due to age or a deteriorated condition. It leaves out deterioration caused by negligence, carelessness, accident or abuse by the tenant, a household member, or a guest or invitee.</p><p>When a landlord keeps any portion for repairs, an itemized list of every deduction is required if the tenant has paid all rent and no rent dispute exists. Sellers who rent their houses should photograph the unit at move-out and keep the repair invoices, since an itemized list is only as good as the paper behind it.</p>"
+  },
+  {
+   "h2": "Which Texas payments are refundable and which are not?",
+   "html": "<p>Refund rights depend on the kind of payment, so the quickest way to check is a side by side look at the four payment types the State Law Library describes.</p><table><caption>Texas rental payments and how the State Law Library describes them</caption><thead><tr><th>Payment</th><th>What it is</th><th>Refund treatment</th></tr></thead><tbody><tr><td>Security deposit</td><td>Advance to secure performance under the lease</td><td>Refund due by the 30th day after surrender, less lawful deductions</td></tr><tr><td>Application deposit</td><td>Money given with an application</td><td>Refundable if the applicant is rejected</td></tr><tr><td>Application fee</td><td>Screening cost payment</td><td>Nonrefundable</td></tr><tr><td>Monthly fee in lieu of deposit</td><td>Optional fee paid with rent</td><td>Written notice and written record required</td></tr></tbody></table><p>Source: <a href=\"https://guides.sll.texas.gov/landlord-tenant-law/security-deposits\">Texas State Law Library, Security Deposits</a>.</p>"
+  },
+  {
+   "h2": "What can a tenant do about a deposit withheld in bad faith?",
+   "html": "<p>A tenant can sue if the deposit or the itemized list has not been mailed within 30 days of moving out. Section 92.109 lets the tenant recover three times the portion of the deposit that was wrongfully withheld, plus other fees.</p><p>Where less than $20,000 is at stake, the tenant can file in justice court, and these cases often proceed without lawyers. The State Law Library also lists forms for a refund demand letter and for a lawsuit seeking the deposit. A landlord who is about to sell should treat a pending deposit dispute as a loose end to settle early,.</p><ul><li>Send the demand letter first and keep proof of delivery.</li><li>Include the forwarding address in writing.</li><li>File in justice court if the 30 days pass with no refund or itemized list.</li></ul>"
+  },
+  {
+   "h2": "Can a Texas landlord charge a monthly fee instead of a deposit?",
+   "html": "<p>Yes. State law lets a landlord offer tenants the choice of paying a monthly fee with the rent instead of putting down a deposit.</p><p>The landlord must give written notice of three things: the tenant's right to pay a security deposit instead, the right to stop paying the monthly fee at any point and provide a deposit, and the dollar amount of each option. The choice has to be recorded in writing. If the landlord buys insurance with the fee, the fee cannot exceed the reasonable cost of obtaining and administering that insurance, and a landlord who files an insurance claim cannot also bill the tenant for the same damage.</p><p>A buyer reviewing a rental should ask which arrangement each tenant has, since a fee-based lease has no deposit to hand over at closing.</p>"
+  },
+  {
+   "h2": "What happens to tenants and deposits when you sell a Texas rental?",
+   "html": "<p>Selling a tenant-occupied house does not erase the tenant's deposit claim, so gather the paperwork before you list. Ask your closing attorney or title company how the deposit will be handled in the contract, and put that answer in writing.</p><p>A useful file contains the signed lease, the amount and date of each payment, any written notice about a monthly fee, and the move-out photos. If you need the property empty, the process is separate from the deposit. Property Code Section 24.005 generally calls for at least three days' written notice to vacate unless the lease says otherwise, and eviction suits go to justice court. The State Law Library's eviction page lays out the steps, including the five-day window to appeal to county court.</p><ul><li>Hand the buyer copies of every lease and deposit record.</li><li>Do not deduct for ordinary wear and tear from the tenant's deposit.</li><li>Ask the county clerk or your attorney about anything you are unsure of.</li></ul>"
+  },
+  {
+   "h2": "What records should a Texas landlord keep about each deposit?",
+   "html": "<p>Keep the signed lease, proof of the amount and date received, the move-in condition photos, and every written notice the tenant sends, including the forwarding address. These records are what you will rely on if the tenant files in justice court.</p><p>Because the refund clock runs 30 days from the day the tenant surrenders the premises, note that date in writing as well. A short log with the surrender date, the date the forwarding address arrived, the date the refund or itemized list went out, and the method of delivery gives you a clear timeline. Landlords with several rentals tend to lose track of these dates, and a buyer's lawyer reviewing the rental file will ask for the same documents.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a statewide cap on a Texas security deposit?",
+   "a": "The State Law Library pages for this topic do not state a cap, so check the lease and ask a Texas attorney or your local justice court clerk. What the pages do cover is the refund deadline, the deductions and the penalty for bad faith."
+  },
+  {
+   "q": "Does the tenant have to give notice of a forwarding address?",
+   "a": "Yes, in writing, if they want the landlord's refund duty to start. Section 92.107 says the landlord need not return the deposit or describe damages until the tenant provides a written forwarding address, though a tenant who skips it keeps the right to sue."
+  },
+  {
+   "q": "Can a landlord keep the deposit for ordinary carpet wear?",
+   "a": "No. Section 92.104 bars keeping deposit money for normal wear and tear, which covers deterioration from intended use. Damage from negligence, accident or abuse is treated differently."
+  },
+  {
+   "q": "How much can a tenant recover for a bad faith withholding?",
+   "a": "Three times the wrongfully withheld portion of the deposit, plus other fees, under Section 92.109. Suits under $20,000 can be filed in justice court."
+  },
+  {
+   "q": "Do I need to settle deposits before I sell a rental house?",
+   "a": "Yes, plan for it. Collect the lease and payment records, decide with your closing attorney how the deposit is handled, and keep a written record, because the tenant's refund rights do not disappear when a sale is signed."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas State Law Library: Landlord/Tenant Law, Security Deposits",
+   "url": "https://guides.sll.texas.gov/landlord-tenant-law/security-deposits"
+  },
+  {
+   "title": "Texas State Law Library: Landlord/Tenant Law, Eviction Process",
+   "url": "https://guides.sll.texas.gov/landlord-tenant-law/eviction-process"
+  }
+ ]
+}

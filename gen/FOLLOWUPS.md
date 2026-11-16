@@ -43,3 +43,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * Dated figures on pages: sell-my-house-fast-frisco-tx (fiscal 2021 report), sell-my-house-fast-grand-prairie-tx (FY2024-25 rates), sell-my-house-fast-high-point-nc (older city report), sell-my-house-fast-garland-tx (STR ordinance hearing Oct 20 2026 outcome unknown).
 * Census QuickFacts was bot_blocked for most agents; many new city pages carry no Census figures.
 * Merged below 85%: sell-my-house-fast-mission-tx 84. Rate stated adopted: sell-my-house-fast-missouri-city-tx (0.578363, city page). Unsourced edge sentences possible: new-braunfels-tx, nacogdoches-tx (flood, tree-storm remarks).
+* texas-eviction-notice and texas-eviction-process rest on 2 sources (Dec 2025 Rule 510 order, SLL). texas-deed-of-trust 6 sources from tx.md only. Verify.

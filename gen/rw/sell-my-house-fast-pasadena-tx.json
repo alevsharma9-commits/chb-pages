@@ -11,45 +11,53 @@
   },
   {
    "h2": "Who bills property tax on a Pasadena house?",
-   "html": "<p>Harris County's tax office bills and collects property tax on Pasadena homes, along with the other taxing units that appear on the bill. Values come from the Harris Central Appraisal District, which the Comptroller's <a href=\"https://comptroller.texas.gov/taxes/property-tax/basics.php\">basics page</a> describes as an appraiser of record each January 1 that leaves rate setting to the taxing units.</p><p>Harris County's FAQ states that taxes are due upon receipt of the statement and should be paid by January 31 of the following year. If you pay before then, no penalty or interest is added. Ask the tax office for a statement of what is owed on your account from the county before you take an offer.</p>"
+   "html": "<p>The Harris County Tax Office collects on Pasadena homes alongside the other units on the bill, and the Harris Central Appraisal District sets the values. The Comptroller's <a href=\"https://comptroller.texas.gov/taxes/property-tax/basics.php\">basics page</a> describes an appraiser of record each January 1 that leaves rate setting to the taxing units.</p><p>The county's FAQ says statements are due on receipt and should be paid by January 31 of the next year. Pay by then and no penalty or interest is added. Request a statement from the tax office before you take an offer, so the figure in your contract matches the county's record.</p>"
   },
   {
    "h2": "What do Harris County's penalty and payment rules look like?",
    "html": "<p>The table summarizes what the Harris County Tax Office prints on its FAQ page. Check the live page for the current year before relying on a date.</p><table><caption>Harris County Tax Office property tax rules from its FAQ</caption><thead><tr><th>Topic</th><th>What the office prints</th></tr></thead><tbody><tr><td>Timely payment</td><td>Due by January 31 of the following year</td></tr><tr><td>Late month-one charge</td><td>6% penalty and 1% interest for February</td></tr><tr><td>Homestead installment plans</td><td>12 to 36 months available</td></tr><tr><td>Plan start for current-year delinquency</td><td>First business day in February</td></tr><tr><td>Referral to a collection law firm</td><td>Additional 15% to 20% penalty on the balance</td></tr><tr><td>Tax sales</td><td>Held by the eight county constables</td></tr></tbody></table><p>A seller whose taxes are behind can pay them from closing proceeds, so a delinquency does not by itself block a sale. It does raise the payoff, so ask for a figure dated for your closing day.</p>"
   },
   {
+   "h2": "What payment plans does Harris County describe for late taxes?",
+   "html": "<p>Harris County's FAQ lays out several ways to catch up. A homestead owner can enter an installment agreement at any time once taxes are delinquent, and current-year agreements open on the first business day of February. The county says requests are accepted after January 31 and before March 1, with the 6 percent penalty and 1 percent interest assessed for February.</p><ul><li>Payment plans run from 12 months up to 36 months for homestead property.</li><li>A deferral can protect the amount owed, but interest of 5 percent per year is added for each year taxes stay delinquent.</li><li>Online and phone payments count if completed by 11:59 p.m. on or before the due date.</li><li>Mail must be postmarked on or before the due date.</li></ul><p>A seller planning to move can use a plan to buy time, then pay the balance from closing proceeds.</p>"
+  },
+  {
    "h2": "How do taxes get handled at a Pasadena closing?",
-   "html": "<p>The title company asks for a tax certificate showing what is paid, and any unpaid amount is collected at closing. The Harris County FAQ flags one trap: a closing scheduled between November 15 and January 31 with a mortgage that escrows taxes. In that case you should call your mortgage company as soon as the date is set, so the bill is paid and the certificate is clean.</p><ul><li>Tell the title company if your lender paid the current-year bill from escrow.</li><li>Ask for a refund of any escrow balance after the payoff.</li><li>If you claimed a homestead exemption and then sold, the county asks you to correct the account so the new owner is not stuck with it.</li></ul><p>The state calendar adds that a tax lien attaches on January 1, so a buyer cannot get clear title until the year's taxes are paid.</p>"
+   "html": "<p>The title company asks for a tax certificate showing what is paid, and any unpaid amount comes out of your proceeds. The county FAQ warns about one timing trap: a closing between November 15 and January 31 on a mortgage that escrows taxes. If that is you, call the lender once the date is set so the bill is paid and the certificate is clean.</p><ul><li>Tell the title company if the lender paid this year's bill from escrow.</li><li>Ask for any escrow balance back after the payoff.</li><li>If you claimed a homestead exemption and then sold, the county asks you to correct the account.</li></ul><p>Taxes that stay unpaid keep a lien on the property, so the buyer's title will not be clear until they are paid.</p>"
   },
   {
    "h2": "What exemptions and caps should a Pasadena owner check before selling?",
-   "html": "<p>Exemptions shape the bill that the next owner will see. The Comptroller says school districts must grant a $140,000 homestead exemption and a further $60,000 for seniors and disabled owners, listed on its <a href=\"https://comptroller.texas.gov/taxes/property-tax/exemptions/\">Comptroller exemptions page</a>.</p><ul><li>The appraised value of a homestead cannot rise more than 10 percent a year.</li><li>Disabled veterans may have exemptions from $5,000 to $12,000 by rating, and a 100 percent rating can mean a full exemption on the homestead.</li><li>A late-year buyer may be able to claim the exemption for the rest of that year if you had not.</li></ul><p>Pasadena homes inside the city and in the surrounding district can sit in several taxing units, so look at every line on the bill.</p>"
+   "html": "<p>Exemptions shape the bill the next owner will see. The Comptroller says school districts must grant a $140,000 homestead exemption, with a further $60,000 for seniors and disabled owners.</p><ul><li>Homestead value growth is capped at 10 percent a year.</li><li>Disabled veterans may get $5,000 to $12,000 by rating, and a 100 percent rating can mean a full exemption.</li><li>A late-year buyer may claim the exemption for the rest of that year if you never did.</li></ul><p>Several taxing units can sit on one Pasadena bill, so look at every line.</p>"
   },
   {
-   "h2": "What if the Pasadena house is inherited, in foreclosure or rented?",
-   "html": "<p>Each situation has a Texas procedure that a buyer or title company will ask about.</p><ul><li><strong>Inherited.</strong> The State Law Library lists probate of a will, muniment of title, a small estate affidavit and an affidavit of heirship. A will generally has to be probated within four years of death.</li><li><strong>Foreclosure.</strong> Sales take place on the first Tuesday of a month, with a notice of sale posted at least 21 days earlier. A sale before that date pays the loan off.</li><li><strong>Rented.</strong> A tenant must receive a written notice to vacate before an eviction case is filed in justice court. A buyer will want the lease and deposit details.</li></ul><p>The deed goes to the county clerk for recording, and the clerk manual lists the per-page charges.</p>"
+   "h2": "What if the Pasadena house has a tenant or a tax judgment?",
+   "html": "<p>A sale is still possible, and each case has its own Texas procedure.</p><ul><li><strong>Tenant.</strong> An eviction begins with written notice to vacate and a justice court case, and a writ of possession is available six days after a final judgment. A buyer will ask for the lease and deposit details.</li><li><strong>Tax judgment.</strong> Harris County says the eight constables hold the tax sales for property taken to judgment, buyers take the property as is, and sales are final.</li><li><strong>Collection firm.</strong> Accounts sent to a law firm face a further 15 to 20 percent penalty.</li></ul><p>Clearing the tax before it reaches judgment keeps more of your proceeds. Call the county at the number on its site for a payoff.</p>"
+  },
+  {
+   "h2": "Which Pasadena facts help describe the house to buyers?",
+   "html": "<p>Buyers care about commute, schools and employers. The state history handbook says employment is tied to ship channel industries, the Bayport Industrial District and the Johnson Space Center in nearby Clear Lake. San Jacinto College and Texas Chiropractic College are in Pasadena.</p><ul><li>Pasadena runs its own school district, begun in 1899.</li><li>The city grew from 1.7 square miles in 1893 to 58.6 square miles in 1980.</li><li>The Pasadena Rodeo and San Jacinto Strawberry Festival are listed as major draws.</li></ul><p>Mention which of these a house is close to when you talk with a buyer.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which county handles taxes for Pasadena, TX?",
-   "a": "Harris County. Its tax office bills and collects, and the Harris Central Appraisal District sets the values. Ask the tax office for a payoff and a tax certificate before closing."
+   "q": "Which county bills Pasadena property tax?",
+   "a": "Harris County. Its tax office collects, and the Harris Central Appraisal District sets values. Ask for a payoff and a certificate before closing."
   },
   {
-   "q": "Do I need to pay delinquent taxes before I can sell in Pasadena?",
-   "a": "No, you can pay them at closing out of your proceeds. The amount grows with penalty and interest, so ask for a figure dated for the closing day."
+   "q": "Must I clear delinquent taxes before selling?",
+   "a": "No. They can be paid from proceeds at closing, though penalty and interest grow, so request a figure dated for the closing day."
   },
   {
-   "q": "When is the Harris County property tax deadline?",
-   "a": "January 31 of the year after the tax year, according to the county's FAQ. Taxes paid by then carry no penalty or interest."
+   "q": "When is the county's tax deadline?",
+   "a": "January 31 of the year after the tax year, per the Harris County FAQ. Payment by then carries no penalty or interest."
   },
   {
    "q": "What happens to my escrow if I sell in winter?",
-   "a": "Your mortgage company may have paid the tax bill from escrow. Tell them the closing date as soon as it is set, and ask for any leftover balance after the payoff."
+   "a": "Your lender may have paid the bill already. Give it the closing date promptly and ask for any balance after payoff."
   },
   {
-   "q": "Can I sell a Pasadena house with a tenant?",
-   "a": "Yes. The buyer takes it subject to the lease unless it ends, and an owner who wants the house empty must follow the Texas notice and justice court steps."
+   "q": "Can I sell with a tenant in place?",
+   "a": "Yes. The buyer takes it subject to the lease, unless you follow the Texas notice and court steps to clear the house first."
   }
  ],
  "sources": [

@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "How quickly can a Pearland house close?",
-   "html": "<p>A cash sale in Pearland can close in a couple of weeks when the title is clean and the seller has the paperwork ready. A standard listing takes longer, because it adds showings, inspections and a buyer's loan approval.</p><p>Pearland has one feature that affects the paperwork: the city lies in three counties. The county your lot falls in decides the recording office and the tax bill, so confirm it first.</p>"
+   "html": "<p>A cash sale in Pearland can close within a couple of weeks if the title is clean and your papers are ready. A listing takes longer, with showings, inspections and a buyer's loan approval.</p><p>Pearland spans three counties, which changes the paperwork. The county your lot falls in decides the recording office and the tax bill, so confirm it first.</p>"
   },
   {
    "h2": "Which county records my Pearland deed?",
@@ -14,20 +14,24 @@
    "html": "<p>Pearland is a planned community that grew into a Houston suburb. The city's own history page says William Zychlinski bought 2,560 acres in 1892 around the Gulf, Colorado and Santa Fe rail line and platted the town in 1894, naming east-west streets Walnut, Pear, Broadway, Jasmine, Plum and Orange.</p><p>Hurricanes shaped it. The 1900 storm destroyed nearly all of the early town and cut the population by almost three-quarters. A second hurricane in 1915 did similar damage, and the fig industry was the only one to grow afterward. The city incorporated in 1959, adopted a Home Rule Charter in February 1971, and uses a council-manager form of government.</p><p>For a seller the lesson is practical. Storm damage, drainage and flood insurance history are the questions buyers raise in a coastal area, so keep claims records and repair receipts together.</p>"
   },
   {
+   "h2": "What does the Pearland city site say about its size and services?",
+   "html": "<p>The city's finance page puts Pearland at 47.5 square miles and about 132,900 residents as of January 1, 2024, and says it can levy property tax on real and personal property inside its boundaries. It lists police, fire, ambulance, parks, water, sewer, streets, planning and zoning among its services.</p><ul><li>Incorporated in 1959, after the 1949 water control district that funded the first water and sewer system.</li><li>Elections are held annually on the second Saturday in May.</li><li>The council uses 3-year staggered terms, elected at large.</li><li>The City Secretary handles public document requests.</li></ul><p>Pearland's city hall moved from the Old Townsite to Liberty Drive in 1987. Buyers who like an older neighborhood may ask about the Old Townsite, the original plat.</p>"
+  },
+  {
    "h2": "What tax payment options does Brazoria County offer?",
    "html": "<p>For parcels in Brazoria County, the county tax office publishes several ways to pay over time. The table lists what its payment options page prints.</p><table><caption>Brazoria County Tax Office payment options as printed on its site</caption><thead><tr><th>Option</th><th>Who qualifies</th><th>Dates printed</th></tr></thead><tbody><tr><td>Split payment</td><td>Any property</td><td>Half by November 30, half by June 30</td></tr><tr><td>Four installments</td><td>Over 65, disabled or disabled veteran homesteads</td><td>January 31, March 31, May 31, July 31</td></tr><tr><td>Disaster installments</td><td>Damaged property in a declared disaster area</td><td>January 31, March 31, May 31, July 31</td></tr><tr><td>Deferral</td><td>Homeowners 65 or older or disabled</td><td>Affidavit filed; 5 percent interest per year</td></tr><tr><td>Partial payments</td><td>Anyone unable to pay in full</td><td>Accepted in any amount</td></tr></tbody></table><p>A deferral does not cancel the tax. It stays due, with interest, until the owner no longer owns and lives in the home, so a sale ends the deferral and the balance comes out of proceeds.</p>"
   },
   {
    "h2": "How are taxes settled when a Pearland house sells?",
-   "html": "<p>The title company prorates the current year and pays off anything delinquent. The Comptroller's state calendar sets the underlying rules: the lien attaches January 1, bills go out around October 1, and the penalty starts February 1 at 6 percent with 1 percent interest.</p><ul><li>Ask the title company for a tax certificate for each county involved.</li><li>If your lender escrows taxes, tell the servicer your closing date so it can pay a bill that comes due around then.</li><li>Check homestead status, since the state school exemption is $140,000 and a late-year buyer may claim it if you never did.</li></ul><p>These dates come from the <a href=\"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php\">Comptroller deadlines page</a>. Ask the county tax office for any local rate or date.</p>"
+   "html": "<p>The title company prorates the current year and pays off anything delinquent. The Comptroller's state calendar puts the penalty start at February 1, at 6 percent with 1 percent interest.</p><ul><li>Request a tax certificate for each county involved.</li><li>If your lender escrows taxes, give the servicer your closing date.</li><li>Check homestead status, since the state school exemption is $140,000 and a late-year buyer may claim it if you never did.</li></ul><p>These dates come from the <a href=\"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php\">Comptroller deadlines page</a>.</p>"
   },
   {
-   "h2": "Does a Pearland sale need extra steps for inherited or foreclosed property?",
-   "html": "<p>It can. An inherited house needs proof of who owns it before a buyer will close, and a house in foreclosure runs on a fixed auction schedule.</p><ul><li><strong>Inherited.</strong> Options on the State Law Library site include probate of a will, muniment of title, a small estate affidavit for estates of $75,000 or less excluding the homestead, and an affidavit of heirship.</li><li><strong>Foreclosure.</strong> Auctions are on the first Tuesday of a month, and a notice of sale must be posted and filed at least 21 days before.</li><li><strong>Deed recording.</strong> The clerk in the lot's county files it, and the state clerk manual sets the per-page rates.</li></ul><p>See the <a href=\"https://guides.sll.texas.gov/foreclosure\">State Law Library foreclosure guide</a> for the stages.</p>"
+   "h2": "What if the Pearland house is facing foreclosure?",
+   "html": "<p>You can sell right up to the sale date, and the loan is paid from the proceeds. The State Law Library says most home loans cannot start foreclosure until the loan is over 120 days delinquent.</p><ul><li>A notice of default gives the borrower 20 days to bring the loan current.</li><li>The notice of sale goes out at least 21 days before the auction and is posted at the courthouse and filed with the county clerk.</li><li>Auctions run on the first Tuesday of a month, in the window the attorney general's guidance describes.</li><li>After a sale, a deficiency suit must be filed within two years.</li></ul><p>Get a payoff figure and sale date from the servicer and pass both to the title company. The <a href=\"https://guides.sll.texas.gov/foreclosure/before-the-sale\">State Law Library page</a> gives the steps.</p>"
   },
   {
    "h2": "What does Pearland's flood and drainage setting mean for sellers?",
-   "html": "<p>Clear Creek runs through the Pearland area and drains parts of Brazoria, Fort Bend, Galveston and Harris counties, according to a city news release on federal funding for flood control. Buyers in the Houston region ask where a house sits relative to the creek and whether it has flooded.</p><p>A seller should have the facts straight before listing or taking a cash offer. Gather insurance claims, repair invoices and any elevation certificate you have, and note which FEMA flood map covers the lot. The city's floodplain document says the current FEMA map for Brazoria County was issued December 30, 2020, for Fort Bend County January 6, 2017, and for Harris County January 29, 2021, so the map date depends on which county the parcel is in.</p><ul><li>Disclose past water entry plainly in the contract.</li><li>Ask your title company whether any drainage easements cross the lot.</li><li>Keep records of repairs after any storm.</li></ul>"
+   "html": "<p>Clear Creek runs through the Pearland area and drains parts of Brazoria, Fort Bend, Galveston and Harris counties, according to a city news release on federal funding for flood control. Buyers in the Houston region ask where a house sits relative to the creek and whether it has flooded.</p><p>A seller should have the facts straight before listing or taking an investor's offer. Gather insurance claims, repair invoices and any elevation certificate you have, and note which FEMA flood map covers the lot. The city's floodplain document says the current FEMA map for Brazoria County was issued December 30, 2020, for Fort Bend County January 6, 2017, and for Harris County January 29, 2021, so the map date depends on which county the parcel is in.</p><ul><li>Disclose past water entry plainly in the contract.</li><li>Ask your title company whether any drainage easements cross the lot.</li><li>Keep records of repairs after any storm.</li></ul>"
   },
   {
    "h2": "How does Pearland governance affect permits and annexation?",
@@ -40,8 +44,8 @@
    "a": "Partly. The city is mainly in Brazoria County, with parts in Fort Bend and Harris counties. Your tax bill shows which county covers your lot."
   },
   {
-   "q": "Do I need to repair storm damage before I sell?",
-   "a": "No. A cash buyer will take the house as it is and price the work. Keep repair receipts and insurance claim records so you can describe the damage and fixes accurately."
+   "q": "Do I need to repair storm damage first?",
+   "a": "No. A cash buyer accepts the property in present condition and prices the work. Keep repair receipts and insurance claim records so you can describe the history accurately."
   },
   {
    "q": "Can I pay Pearland-area taxes in installments before selling?",
@@ -49,7 +53,7 @@
   },
   {
    "q": "Who records the deed for a Pearland sale?",
-   "a": "The county clerk where the house sits records it. The title company normally files it after closing and lists the fee on the settlement statement."
+   "a": "The clerk of the lot's county. A title company normally files it and shows the fee on the settlement statement."
   },
   {
    "q": "When does the tax penalty begin?",
