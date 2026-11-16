@@ -1,0 +1,85 @@
+{
+ "slug": "georgia-guides-by-city-and-county",
+ "sections": [
+  {
+   "h2": "What should a Georgia home seller know before listing?",
+   "html": "<p>Georgia sellers deal with county offices for tax and records, a state excise tax at the deed, and court-based procedures for foreclosure and eviction, so the right office depends on the question. This overview maps those pieces for the state and points to the topics covered across our Georgia property tax, probate, foreclosure and selling guides.</p>\n<p>The Census Bureau estimates Georgia at 11,302,748 people on July 1, 2025, up 5.5 percent from the April 2020 base, spread over 57,716.96 square miles of land. It counts 4,734,436 housing units, 4,074,366 households for 2020 to 2024, and a median value of $303,300 for owner-occupied homes in those years.</p>"
+  },
+  {
+   "h2": "Which office handles which Georgia property question?",
+   "html": "<table>\n<caption>Georgia county offices and the topics they handle, per the Georgia Department of Revenue property tax FAQ and the Clerks' Cooperative Authority</caption>\n<thead><tr><th>Question</th><th>Where to ask</th><th>Rule stated by the source</th></tr></thead>\n<tbody>\n<tr><td>Paying a tax bill, tax liens, intangible recording tax</td><td>County tax commissioner</td><td>Collects county, school and state property tax</td></tr>\n<tr><td>Appeal of a value</td><td>County board of tax assessors</td><td>Written appeal within 45 days of the notice mailing date</td></tr>\n<tr><td>Homestead exemption</td><td>Tax commissioner or tax assessor, depending on the county</td><td>State exemption for owner-occupied primary residences</td></tr>\n<tr><td>Real estate transfer tax</td><td>Clerk of superior court</td><td>Paid before the deed is recorded, by the seller unless the contract differs</td></tr>\n<tr><td>Foreclosure sale</td><td>County courthouse steps</td><td>First Tuesday, 10:00 a.m. to 4:00 p.m.</td></tr>\n<tr><td>Eviction case</td><td>Magistrate court, usually</td><td>Tenant answers within seven days of service</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "How is Georgia property tax set, and who gets the bill?",
+   "html": "<p>Georgia assesses property at 40 percent of fair market value, and the Department of Revenue's formula subtracts the standard $2,000 state homestead exemption from the assessed value before applying the millage rate. Georgia has 159 counties, and each county's board of tax assessors values property as of January 1 every year. The state sets no revaluation schedule, so how often values change differs from county to county.</p>\n<p>Bills usually come due December 20, though some counties choose another date, and owners have 60 days from billing to pay. The county tax commissioner collects for the county, the schools and the state. Many counties offer homestead exemptions larger than the state's, so ask the local office what applies to your house.</p>"
+  },
+  {
+   "h2": "How do I appeal a Georgia assessment?",
+   "html": "<p>File a written appeal with the county board of tax assessors within 45 days of the date the assessment notice was mailed, and do not send it to the Department of Revenue, which has no power to override a local value. The state publishes a uniform appeal form, the PT-311A, and the appeal can rest on taxability, value, uniformity or a denied exemption.</p>\n<ul>\n<li>County Board of Equalization, which holds a hearing and can be followed by a superior court appeal</li>\n<li>Hearing officer, available for non-homestead real property valued above $500,000</li>\n<li>Arbitrator, which requires a certified appraisal and has cost rules that depend on whose value is closer</li>\n</ul>\n<p>An appeal to superior court needs a written notice filed within 30 days of the decision, and taxes must be paid in an amount equal to the last year taxes were determined due before the court can hear it.</p>"
+  },
+  {
+   "h2": "What happens to property tax when the house sells?",
+   "html": "<p>The person who owned the property on January 1 is responsible for the whole year's ad valorem tax, even when the sale closes on January 2, and Georgia does not refund the tax for part of a year. Settle the split of the bill in the sales contract, and ask the county tax commissioner for the current bill and any past due balance before closing.</p>\n<p>The seller generally owes the real estate transfer tax, which the Superior Court Clerks' Cooperative Authority says is $1 for the first $1,000 and 10 cents for each additional $100 or fractional part of $100. The deed cannot be recorded until that tax is paid. Georgia does not tax capital gains separately from other income, according to the Department of Revenue, so gains from a sale go on the income tax return as ordinary income.</p>"
+  },
+  {
+   "h2": "What do Georgia foreclosure and eviction rules mean for sellers?",
+   "html": "<p>Georgia foreclosures need no court case, require written notice at least 30 days before the sale, and take place on the first Tuesday of the month on the courthouse steps. A homeowner behind on payments can still sell before the date and pay the loan off, as the Atlanta Legal Aid flyer notes. Our foreclosure guide explains the notice and advertisement steps in detail.</p>\n<p>Rentals are governed by the dispossessory process. A landlord needs a court order, and a tenant has seven days after service to answer. Selling a house with a tenant in it means dealing with the security deposit, which the former owner must transfer to the buyer or return to the tenant. Our eviction notice and eviction process guides walk through those steps.</p>"
+  },
+  {
+   "h2": "Where do the city and county guides fit in?",
+   "html": "<p>Georgia sellers usually need three layers of information: the state rule, the county office that applies it, and the city where the house sits. Our county property tax guides cover assessment, due dates and appeals office by office, the city guides describe local conditions for a sale, and the state topic pages cover probate, foreclosure, tax sales, landlord and tenant law and estate matters.</p>\n<p>Use the state pages for rules that apply everywhere, such as the 45 day appeal window and the 40 percent assessment ratio. Use the county and city pages for the local office, the local millage and the practical steps at recording. For anything not covered, the county tax commissioner, tax assessor and clerk of superior court are the offices to call.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the assessment ratio for Georgia homes?",
+   "a": "40 percent of fair market value. The Department of Revenue says assessed value is 40 percent of the fair market value, and tax is figured on that assessed value after the homestead exemption, multiplied by the millage rate."
+  },
+  {
+   "q": "When are Georgia property taxes due?",
+   "a": "Normally December 20 in most counties, though some counties set a different date. Owners have 60 days from the date of billing to pay, so check the bill from your county tax commissioner for the exact deadline."
+  },
+  {
+   "q": "Who pays the Georgia real estate transfer tax?",
+   "a": "The seller, unless the sales contract says otherwise. The tax is paid to the clerk of superior court before the deed is recorded, at $1 for the first $1,000 and 10 cents for each additional $100 or fractional part."
+  },
+  {
+   "q": "How long do I have to appeal my Georgia property assessment?",
+   "a": "45 days from the date the assessment notice was mailed. File the written appeal with the county board of tax assessors, not with the Department of Revenue, and choose a Board of Equalization, hearing officer or arbitrator on the form."
+  },
+  {
+   "q": "Does Georgia require a court case for foreclosure?",
+   "a": "No. Georgia is a non-judicial foreclosure state, so the lender can sell at the courthouse steps on the first Tuesday of a month after giving the borrower at least 30 days of written notice. Borrowers can still go to court to challenge a defective sale."
+  }
+ ],
+ "sources": [
+  {
+   "title": "U.S. Census Bureau QuickFacts: Georgia",
+   "url": "https://www.census.gov/quickfacts/fact/table/GA/PST045224"
+  },
+  {
+   "title": "Property Tax, Real and Personal Property FAQ, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
+  },
+  {
+   "title": "Filing a Property Tax Appeal, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/filing-property-tax-appeal"
+  },
+  {
+   "title": "PT-61 eFiling Help, Georgia Superior Court Clerks' Cooperative Authority",
+   "url": "https://apps.gsccca.org/help/pt61_importantinformation.asp"
+  },
+  {
+   "title": "Mortgage and Foreclosure Information FAQ, Georgia Attorney General",
+   "url": "https://law.georgia.gov/resources/mortgage-and-foreclosure-information"
+  },
+  {
+   "title": "Facing Foreclosure? Atlanta Legal Aid Society flyer on GeorgiaLegalAid.org",
+   "url": "https://www.georgialegalaid.org/resource/facing-foreclosure"
+  },
+  {
+   "title": "Georgia Landlord-Tenant Handbook, Georgia Department of Community Affairs (revised 8-29-24)",
+   "url": "https://dca.georgia.gov/document/manuals/georgia-landlord-tenant-handbook-english/download"
+  }
+ ]
+}
