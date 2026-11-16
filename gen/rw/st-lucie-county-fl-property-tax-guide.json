@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What kind of county is St. Lucie County for a seller?",
-   "html": "<p>St. Lucie County grew from 329,226 people in April 2020 to an estimated 402,449 in July 2025, a 22.2 percent gain. The Census Bureau lists 571.66 square miles of land and 575.9 residents per square mile in 2020.</p><p>The 2020 to 2024 median value of owner-occupied homes was $347,300 and median gross rent was $1,585. About 78.6 percent of homes are owner-occupied and 24.9 percent of residents are 65 or older, which makes the senior and deferral options below worth a close read.</p><table><caption>St. Lucie County figures from Census QuickFacts</caption><thead><tr><th>Measure</th><th>Figure</th></tr></thead><tbody><tr><td>Population estimate, July 1, 2025</td><td>402,449</td></tr><tr><td>Housing units, July 1, 2025</td><td>176,160</td></tr><tr><td>Median owner-occupied value, 2020-2024</td><td>$347,300</td></tr><tr><td>Median monthly owner cost without a mortgage</td><td>$690</td></tr><tr><td>Median household income, 2020-2024</td><td>$71,457</td></tr><tr><td>Building permits, 2025</td><td>4,008</td></tr></tbody></table>"
+   "html": "<p>St. Lucie County grew from 329,226 people in April 2020 to an estimated 402,449 in July 2025, a 22.2 percent gain. Its land area is 571.66 square miles, with 575.9 residents per square mile counted in 2020.</p><p>Owners' homes were typically worth $347,300 in the 2020 to 2024 data and rent ran $1,585. Owners occupy 78.6 percent of homes, and one resident in four, 24.9 percent, is 65 or over, which makes the senior and deferral options below worth a close read.</p><table><caption>St. Lucie County figures from Census QuickFacts</caption><thead><tr><th>Measure</th><th>Figure</th></tr></thead><tbody><tr><td>Residents, mid-2025 estimate</td><td>402,449</td></tr><tr><td>Homes counted, mid-2025</td><td>176,160</td></tr><tr><td>Typical owner home value</td><td>$347,300</td></tr><tr><td>Monthly cost for owners with no mortgage</td><td>$690</td></tr><tr><td>Household income, midpoint</td><td>$71,457</td></tr><tr><td>Permits issued in 2025</td><td>4,008</td></tr></tbody></table>"
   },
   {
    "h2": "Who handles property tax in St. Lucie County?",
@@ -22,8 +22,8 @@
    "html": "<p>The appraiser's TRIM guide explains it plainly: a property bought in a given year is reassessed and the prior owner's exemptions and caps are removed, which can lift the tax bill. For sellers, that is the reason a listing's current tax figure understates what a buyer will pay.</p><p>The Save Our Homes cap limits assessment growth on a homestead to 3 percent or the CPI change, whichever is lower, and starts accruing after the first year of homestead. The 2026 cap on the state's chart was 2.7 percent. Sellers who buy another Florida home can transfer up to $500,000 of the accumulated difference through portability, using Form DR-501T by March 1, provided the new homestead is set up within three years.</p>"
   },
   {
-   "h2": "What closing charges come with a St. Lucie County deed?",
-   "html": "<p>Documentary stamp tax is 70 cents per $100 of consideration, according to Florida Statutes 201.02 and the revenue department. The clerk collects it when the deed is recorded.</p><p>Every party to the deed is liable, so the purchase contract should assign it. Recording fees are $5.00 for the first page and $4.00 for each additional page, plus other per-page charges listed in the fee statute. A deed in lieu of foreclosure or a trustee's deed is taxable too, while a personal representative's deed under a probated will is not.</p>"
+   "h2": "What does a St. Lucie County deed cost at closing?",
+   "html": "<p>Stamp tax runs seventy cents per $100 of price under the statute and the revenue department's page. The Miami-Dade surtax does not reach St. Lucie.</p><p>Each signer is liable, so the sale contract should pick who funds it. The fee statute sets clerk charges at $5.00 for page one and $4.00 per added page plus add-ons. Deeds in lieu of foreclosure and trustee's deeds are taxable. A personal representative's deed under a probated will is not.</p>"
   },
   {
    "h2": "Which tax breaks can a St. Lucie County homeowner claim?",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "What if a St. Lucie County owner is behind on taxes?",
-   "html": "<p>Taxes become delinquent April 1, and certificates are sold by June 1. The lowest interest bid wins the certificate, and unsold ones go to the county at the maximum rate.</p><p>Certificate holders can request a tax deed two years after April 1 of the year of issue. A homestead's opening bid includes half the latest assessed value. Contact the tax collector for a current payoff, because a sale cannot close cleanly while a certificate is outstanding.</p><ul><li>Request a tax certificate search from the title company.</li><li>Ask whether a homestead deferral lien exists.</li><li>Pay delinquent amounts from the sale proceeds at closing.</li></ul>"
+   "html": "<p>Delinquency starts April 1. By June 1 the collector sells certificates, and the lowest interest bid wins; unsold ones go to the county at the top rate.</p><p>Two years after April 1 of the issue year, a holder may ask for a tax deed. On a homestead the opening bid includes half the latest assessed value. A sale cannot close cleanly with a certificate outstanding, so ask the collector for a payoff.</p><ul><li>Order a certificate search through the title company.</li><li>Ask whether a homestead deferral lien exists.</li><li>Settle any delinquent balance out of the seller's payout.</li></ul>"
   }
  ],
  "faqs": [
@@ -57,7 +57,7 @@
   },
   {
    "q": "Does St. Lucie County have a deed transfer tax?",
-   "a": "Yes, Florida's documentary stamp tax at 70 cents per $100 of consideration, paid to the clerk at recording."
+   "a": "Yes, Florida's documentary stamp tax at 70 cents per $100 of consideration, owed through the clerk at recording."
   }
  ],
  "sources": [

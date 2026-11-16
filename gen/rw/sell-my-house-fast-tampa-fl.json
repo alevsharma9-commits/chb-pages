@@ -5,6 +5,14 @@
    "html": "<p>A cash sale to a direct buyer is usually the fastest, because there is no lender appraisal and no buyer financing to fall through. A traditional listing reaches more buyers but takes longer. Tampa moves in both directions, so the best choice depends on how much time you have and what shape the house is in.</p><p>Tampa's population estimate stands at 413,554, a 7.3% climb from the April 2020 base. The city covers 114.02 square miles of land in Hillsborough County, and owned homes carry a 2020 to 2024 median value of $420,400.</p>"
   },
   {
+   "h2": "What is Tampa's history, and how does it show up in houses?",
+   "html": "<p>Fort Brooke was established in 1824 to guard the harbor, and the city grew after Henry B. Plant's 1884 railroad extension and the phosphate boom of the late 1880s. The city's history page says the port is now the seventh largest in the nation. Vicente Martinez Ybor opened a cigar factory in 1886, and Ybor City covers about 2 square miles today.</p><p>A building boom from 1923 to 1926 produced many subdivisions, including Davis Island, a man-made island. Houses from that era carry old wiring, plumbing and roofs, which is why cash buyers who accept work are common on Tampa listings.</p>"
+  },
+  {
+   "h2": "Does MacDill Air Force Base affect Tampa home sales?",
+   "html": "<p>It can. The city's history page notes that U.S. Central Command and U.S. Special Operations Command are headquartered at MacDill Air Force Base, so military moves and orders create steady turnover. Service members who must relocate on short notice often need a quick sale and a clean closing date.</p><p>If you are on orders, tell the buyer your latest move date at the start, and ask the title company how soon a signed deed can be recorded.</p>"
+  },
+  {
    "h2": "How is Tampa's housing stock split between owners and renters?",
    "html": "<p>About half of Tampa households rent. The owner-occupied rate for 2020 to 2024 is 50.3%, across 166,278 households with 2.31 people each. Median gross rent is $1,701, and median monthly owner costs are $2,179 with a mortgage and $640 without.</p><p>For sellers, that means investor demand is steady. Landlords with tenants in place and owners of tired houses can find buyers who plan to renovate or rent. The table below gathers the figures most useful for pricing conversations.</p><table><caption>Tampa housing and income, Census QuickFacts</caption><thead><tr><th>Measure</th><th>Figure</th></tr></thead><tbody><tr><td>Population change, April 2020 to July 2025</td><td>7.3%</td></tr><tr><td>Typical owned-home value</td><td>$420,400</td></tr><tr><td>Median owner costs with a mortgage</td><td>$2,179</td></tr><tr><td>Median household income, 2020-2024</td><td>$75,475</td></tr><tr><td>Average trip to work</td><td>24.8 minutes</td></tr></tbody></table>"
   },
@@ -35,14 +43,6 @@
   {
    "h2": "What if someone is living in my Tampa house without permission?",
    "html": "<p>Florida gives owners a sheriff-assisted route. The owner or an agent files a verified Complaint to Remove Persons Unlawfully Occupying Residential Real Property, and the sheriff can serve a notice to vacate and restore possession when the statute's conditions are met, which include that the occupant was never a tenant and is not family (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0082/Sections/0082.036.html\">s. 82.036</a>).</p><p>A false statement carries real risk: the owner can face damages including triple the fair market rent plus costs and attorney fees. If the occupant is a tenant, use the eviction process instead.</p><p>Adverse possession is a separate claim. It takes seven years of continuous possession, payment of all outstanding taxes, and a return filed with the property appraiser (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.18.html\">s. 95.18</a>). Occupying a home on that basis before filing the return is trespass.</p>"
-  },
-  {
-   "h2": "Do Tampa veterans and service members get property tax breaks?",
-   "html": "<p>Tampa counts 19,465 veterans for 2020 to 2024, the largest figure among these four cities. Florida offers a $5,000 assessment reduction for disabled ex-servicemembers and a total exemption on homestead for those with a total, permanent service-connected disability (<a href=\"https://floridarevenue.com/property/Documents/pt109.pdf\">DOR guide</a>).</p><ul><li>Deployed members may claim an exemption equal to the share of the prior year spent deployed.</li><li>Servicemembers may rent out a homestead without abandoning it.</li><li>An unremarried surviving spouse may keep a veteran's age-based discount.</li></ul><p>Confirm with the Hillsborough County Property Appraiser what you hold, since the benefit does not pass to the buyer.</p>"
-  },
-  {
-   "h2": "Can I get help with the tax bill on a Tampa home?",
-   "html": "<p>Homestead owners can defer part of the bill by filing Form DR-570 with the tax collector by March 31 following the assessment year (<a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">DOR calendar</a>). Partial payments before the delinquency date are at the collector's discretion, and an installment plan needs an application by May 1.</p><p>If you disagree with a value, the petition goes to the clerk within 25 days of the Notice of Proposed Property Taxes, which arrives in August. A denial of an exemption can be taken to the value adjustment board within 30 days of the denial letter.</p>"
   }
  ],
  "faqs": [
@@ -119,6 +119,10 @@
   {
    "title": "Florida DOR veterans exemptions",
    "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
+  },
+  {
+   "title": "City of Tampa, Tampa history",
+   "url": "https://tampa.gov/info/tampa-history"
   }
  ],
  "slug": "sell-my-house-fast-tampa-fl"

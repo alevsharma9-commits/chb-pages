@@ -5,6 +5,10 @@
    "html": "<p>Pick the route that matches your deadline: a listing for the widest market, an as-is investor sale for speed, or a cash offer when you want the fewest steps. Tamarac is a compact Broward County city, and a tidy plan for paperwork matters as much as the buyer you choose.</p><p>Tamarac holds an estimated 74,134 people on 11.59 square miles of land, and the 2020 count came to 6,205.5 residents per square mile. With that density, most sales here are condos, villas and single-family houses on small lots, and buyers compare them closely.</p>"
   },
   {
+   "h2": "Where did Tamarac's neighborhoods come from?",
+   "html": "<p>Tamarac was incorporated on July 19, 1963 by developer Kenneth E. Behring, who set out to give active retirees something between a condominium and a single-family home. The first neighborhood, Tamarac Lakes on the east side, had one-story homes with one or two bedrooms around a shared clubhouse, and residents paid a small monthly fee covering lawn care, periodic painting and roof cleaning.</p><p>Mainlands and Woodlands came next as the company bought more land, and that piecemeal buying is why the city has an odd outline. The city's history page notes the population has grown younger and more diverse, and the Census figures agree: 17.7% of residents are under 18 while 25.9% are 65 or older.</p>"
+  },
+  {
    "h2": "Who lives in Tamarac's homes?",
    "html": "<p>Most Tamarac households own. The 2020 to 2024 survey finds 76.2% of homes lived in by owners, 31,422 households, and 89.0% of residents in the same house as a year before. Persons 65 and older make up 25.9% of the population, and 39.9% of residents were born outside the United States.</p><p>Those numbers shape selling here. Long-time owners often sell after a move to be near family, a health change or the death of a spouse, and many have a homestead exemption that has held their taxable value down for years. A sale ends that benefit for the property.</p><table><caption>Tamarac facts to weigh before pricing</caption><thead><tr><th>Measure</th><th>Census figure</th></tr></thead><tbody><tr><td>Share of homes owner-lived</td><td>76.2%</td></tr><tr><td>Typical owned-home value</td><td>$288,600</td></tr><tr><td>Median gross rent</td><td>$1,895</td></tr><tr><td>Residents 65 and over</td><td>25.9%</td></tr><tr><td>Average trip to work</td><td>31.4 minutes</td></tr></tbody></table>"
   },
@@ -13,8 +17,8 @@
    "html": "<p>Tamarac is in Broward, so the deed tax is the standard Florida rate of 70 cents per $100 of consideration. Only Miami-Dade runs a different schedule. The state holds every party on the deed liable no matter how the contract assigns the cost (<a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">Florida Department of Revenue</a>).</p><ul><li>Documentary stamp tax on the deed, collected by the clerk at recording.</li><li>Clerk recording charges of $5.00 on page one and $4.00 per later page, with extra per-page fees (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html\">s. 28.24</a>).</li><li>Prorated property tax for the part of the year you owned.</li><li>Payoff of any mortgage, home equity line or lien.</li></ul><p>Association fees and condo estoppel certificates can also come into play in Tamarac, so ask your community office what it charges and how long it takes to issue one.</p>"
   },
   {
-   "h2": "How fast can the Save Our Homes cap grow on a Tamarac home?",
-   "html": "<p>The annual increase on a homestead's assessed value cannot exceed the lower of 3 percent or the CPI change. The Department of Revenue's chart, revised January 2026, lists a 2.7 percent cap for 2026, 2.9 percent for 2025 and 3.0 percent for 2024 (<a href=\"https://floridarevenue.com/property/Documents/SaveOurHomes.pdf\">DOR chart</a>).</p><p>Tamarac owners who have held a homestead for many years often carry a gap between market value and assessed value. That gap is what portability can move to a new home, and what a buyer loses access to, since a sale resets the property to just value.</p>"
+   "h2": "What should a seller know about a Tamarac home from the original era?",
+   "html": "<p>Houses and villas from the early decades often have small floor plans, shared walls or community amenities, and sometimes an association that still handles exterior work. Buyers will ask what the association covers and what it charges.</p><ul><li>Collect the association's rules, budget and any pending special assessment.</li><li>Ask the association how long its approval or estoppel letter takes.</li><li>Gather records for the roof, windows and air conditioning, since buyers price those first.</li></ul><p>A seller who has these ready can answer a cash buyer within a day instead of a week.</p>"
   },
   {
    "h2": "How does Broward County property tax work for a Tamarac seller?",
@@ -39,10 +43,6 @@
   {
    "h2": "Can I pay Tamarac property tax in installments or defer it?",
    "html": "<p>Florida offers two relief paths that matter to older Broward owners. A homestead owner can defer the part of the tax above 5 percent of household income by filing Form DR-570 with the tax collector by March 31 after the assessment year, and a permanent resident aged 65 or older can defer the part above 3 percent (<a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">DOR calendar</a>).</p><p>An installment plan requires an application to the tax collector by May 1 of the assessment year. Deferred tax comes due when you sell, so ask the title agent for a payoff figure early.</p>"
-  },
-  {
-   "h2": "Are there veteran benefits for Tamarac homeowners?",
-   "html": "<p>Tamarac has 3,366 veterans for 2020 to 2024 by Census count. Florida's disabled ex-servicemember reduction is $5,000 of assessed value, and a service member who rents out a homestead during deployment does not abandon the exemption (<a href=\"https://floridarevenue.com/property/Documents/pt109.pdf\">DOR guide</a>). A deployed member can also claim an exemption equal to the share of the prior year spent deployed, on Form DR-501M.</p>"
   },
   {
    "h2": "Can I sell a Tamarac house with a quitclaim deed or two owners?",
@@ -123,6 +123,10 @@
   {
    "title": "Florida DOR veterans exemptions",
    "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
+  },
+  {
+   "title": "History of Tamarac",
+   "url": "https://tamarac.gov/118/History-of-Tamarac"
   }
  ],
  "slug": "sell-my-house-fast-tamarac-fl"

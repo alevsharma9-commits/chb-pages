@@ -65,3 +65,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * sell-my-house-fast-apopka-fl uses FY2022-23 city profile (dated); boca-raton-fl uses 2020 comp plan.
 * sell-my-house-fast-gainesville-fl: rental ordinance described as 'being repealed' per city page (verify).
 * sell-my-house-fast-hialeah-fl: Amendment 3 figures (150k 2027, 250k 2028) from Miami-Dade appraiser page; Hialeah city pages unreachable.
+* sell-my-house-fast-homestead-fl and hialeah-fl, jacksonville-fl: Amendment 3 outcome (150k/250k) from Miami-Dade appraiser page. miramar-fl 7.1172 labelled proposed. north-lauderdale-fl rental fees look old.
