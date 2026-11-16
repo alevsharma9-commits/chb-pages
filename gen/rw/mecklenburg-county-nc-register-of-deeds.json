@@ -2,58 +2,66 @@
  "slug": "mecklenburg-county-nc-register-of-deeds",
  "sections": [
   {
-   "h2": "What does the Mecklenburg County Register of Deeds do?",
-   "html": "<p>The office records, indexes and stores the real estate and business documents presented for registration in Mecklenburg County. A sale in Charlotte or any of the county's towns is not complete against outsiders until the deed is recorded there.</p><p>The county describes the real estate side of the office as the official repository for public records on property in Mecklenburg County. Documents include conveyances, deeds of trust and mortgages, powers of attorney, assumed names, separation agreements and maps or plats. The same office issues marriage licenses, administers notary oaths, records DD-214 military discharges and keeps birth, death and marriage records.</p><p>Visitors can search the public records in the vault area from 8:30 a.m. to 4:30 p.m. during office hours. For the street address of the recording counter and holiday closings, check the office website before you travel.</p>"
+   "h2": "What is the Mecklenburg County Register of Deeds office for?",
+   "html": "<p>It is the county's public archive for land and business filings. Staff take in documents for registration, index them, and store them so anyone can trace ownership of a Charlotte lot or a Davidson farmhouse.</p><p>On the real estate side the county names conveyances, deeds of trust, mortgages, powers of attorney, assumed business names, separation agreements and plats. The counter also issues marriage licenses, swears in notaries, records military discharge papers, and holds vital records.</p><p>Holiday closings are posted on the office website, so check it before you plan a trip downtown.</p>"
   },
   {
-   "h2": "Why does recording a deed matter in North Carolina?",
-   "html": "<p>Because the date and time of registration decide priority. Under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html\">G.S. 47-18</a>, a conveyance, option, lease of more than three years or right of first refusal does not bind lien creditors or purchasers for value until it is registered in the county where the land lies. Priority follows the order of registration.</p><p>For a Mecklenburg seller the practical result is simple. Until the buyer's deed is on record, a creditor of the seller or a second buyer could still claim a better position. Ask your closing attorney when the deed will be sent for recording.</p>"
+   "h2": "How far back do Mecklenburg County land records go?",
+   "html": "<p>The county runs two databases. The modern one holds real estate documents added from March 1990 to the present, and the historic one holds land records and images from 1763 through February 1990. Staff also keep physical records available for inspection at the office from half past eight to half past four.</p><p>A title searcher working on an old Mecklenburg parcel often needs both sides of that 1990 line: a recent deed of trust in the modern index and an older chain of conveyances in the historic one. Before you list an inherited house, search your parcel under the family name and the previous owner's name to see what is still of record, such as an unreleased mortgage.</p>"
   },
   {
-   "h2": "What does it cost to record a deed in Mecklenburg County?",
-   "html": "<p>A general instrument such as a deed costs $26 for the first 15 pages, and a deed of trust or mortgage costs $64 for the first 35 pages. Each added page costs $4 in both cases. These are the county's posted Uniform Fee Schedule amounts, which follow <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html\">G.S. 161-10</a>.</p><table><caption>Mecklenburg County recording and copy fees, Uniform Fee Schedule</caption><thead><tr><th>Item</th><th>Fee as posted</th></tr></thead><tbody><tr><td>Deed or other instrument</td><td>$26 first 15 pages, $4 each page after</td></tr><tr><td>Deed of trust or mortgage</td><td>$64 first 35 pages, $4 each page after</td></tr><tr><td>Plat</td><td>$21 per sheet</td></tr><tr><td>Non-standard document</td><td>$25 added to other fees</td></tr><tr><td>Extra instrument in one filing</td><td>$10 each</td></tr><tr><td>Satisfaction of a deed of trust</td><td>No fee</td></tr><tr><td>Certified copy</td><td>$5 first page, $2 each page after</td></tr></tbody></table><p>Excessive index data adds $2 for each party name above 20. Plain copies are 25 cents a page in person and $1 a page by mail.</p>"
+   "h2": "Why does the recording time of a Mecklenburg deed matter?",
+   "html": "<p>Registration decides who stands first. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html\">G.S. 47-18</a> says a conveyance does not defeat lien creditors or paying purchasers until it is registered where the land lies, and rank follows the order of filing.</p><p>For a Mecklenburg seller that means a creditor's claim could still beat the buyer until the new deed is indexed. Ask your closing attorney when the package goes in.</p>"
   },
   {
-   "h2": "How must a document be formatted to be recorded?",
-   "html": "<p>It must meet the page standards in G.S. 161-14(b), or the office records it after charging the $25 non-standard fee. The county lists the rules in plain terms.</p><ul><li>Paper size of 8.5 by 11 or 8.5 by 14 inches.</li><li>A blank 3-inch margin at the top of the first page, and quarter-inch margins on the other sides of that page and on every side of later pages.</li><li>Black type or print on white paper, no smaller than 9 points. Blanks and corrections may be made in pen.</li><li>One-sided pages, with the type of instrument stated at the top of page one.</li></ul><p>If you prepare a document yourself, check it against this list before you submit it.</p>"
+   "h2": "What does the county charge to record documents?",
+   "html": "<p>Mecklenburg posts a Uniform Fee Schedule that tracks <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html\">G.S. 161-10</a>. The two amounts sellers meet most are below, and each added page past the allowance costs $4.</p><table><caption>Mecklenburg Register of Deeds, fees most often paid on a sale</caption><thead><tr><th>Service</th><th>Posted amount</th></tr></thead><tbody><tr><td>Deed and other general instruments</td><td>$26 for 15 pages</td></tr><tr><td>Loan security instrument</td><td>$64 for 35 pages</td></tr><tr><td>Document outside format rules</td><td>$25 extra</td></tr><tr><td>Mortgage satisfaction</td><td>Free</td></tr></tbody></table><p>A certified copy costs $5 for page one and $2 for the rest. Plain copies cost 25 cents a page at the counter or $1 by mail. A plat is $21 a sheet, and each extra instrument in one filing is $10. Party names past twenty cost $2 each in index fees.</p>"
   },
   {
-   "h2": "What are the steps from a signed deed to a recorded one in Mecklenburg County?",
-   "html": "<p>Four things have to line up before the clerk accepts a deed: the document meets the format rules, the excise tax is paid, the recording fee is paid, and the deed is presented to the county where the land lies. State law makes the fee schedule \"complete and exclusive\" and says fees are collected before filing, so there is no negotiating at the counter.</p><ul><li>Confirm the deed names the correct grantor, and match the legal description to the prior deed in the vault records.</li><li>Have the seller's side pay the excise tax at the rate in G.S. 105-228.30.</li><li>Add the recording fee for the page count, plus any non-standard or extra-instrument fee.</li><li>Present the original, and keep the recording stamp or confirmation for your file.</li></ul><p>When a payoff is involved, the lender's satisfaction is recorded at no fee, so a clean title picture shows up in the index after the closing.</p>"
+   "h2": "What format does a Mecklenburg County filing need?",
+   "html": "<p>G.S. 161-14(b) sets the layout, and a document that misses it is accepted for the $25 surcharge. The county's checklist covers five points.</p><ul><li>Paper size: 8.5 inches wide, 11 or 14 inches tall.</li><li>Margins: three open inches above the text on sheet one, a quarter inch elsewhere.</li><li>Type: black on white, nine points or larger, with pen allowed for blanks and corrections.</li><li>Sides: printed on one side only.</li><li>Heading: a label for the kind of instrument on the first sheet.</li></ul><p>Run a document you drafted yourself against this list before submitting it.</p>"
   },
   {
-   "h2": "What other records does the Mecklenburg County Register of Deeds handle for homeowners?",
-   "html": "<p>The office also records DD-214 military discharges, issues marriage licenses and keeps vital records. The Census Bureau counts 44,881 veterans in Mecklenburg County for 2020 to 2024, so the discharge recording service reaches many households.</p><p>The disabled veteran property tax exclusion is a separate filing. Applicants complete Form NCDVA-9 with a Veterans Service Officer and file with the county assessor, not with the Register of Deeds. State law removes the first $45,000 of appraised value for a qualifying veteran, and the program has no age or income limit. For deed questions, call the register's office. For value and exemption questions, contact the county Office of Tax Administration.</p><p>The register of deeds is an elected county office under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html\">G.S. 161-1</a>, chosen every two years by county voters. A title question about a specific house belongs with a closing attorney.</p>"
+   "h2": "What is the tax on a Mecklenburg County deed, and who covers it?",
+   "html": "<p>The seller carries this cost. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> sets one dollar for each $500 of price, with part of a $500 block rounded up, and the office collects it before it records the deed.</p><p>The county keeps one half and the state receives the other. Your settlement statement shows the dollar figure for your sale price.</p><p>Census figures show 1,233,383 residents in mid 2025, and 2020 to 2024 data show a middle owner value of $406,800. Owners live in 55.1 percent of homes, and median rent is $1,627, so a big share of housing is rented.</p>"
   },
   {
-   "h2": "How much is the transfer tax on a Mecklenburg County sale?",
-   "html": "<p>The state excise tax is $1.00 for each $500 of consideration or value, or fraction of $500, and the seller pays it. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> says the transferor pays the register of deeds in the county where the property sits before the instrument is recorded.</p><p>The register collects it at recording. One half goes to the county general fund, and the other half goes to the Department of Revenue after refunds and the county's allowance. Ask your closing attorney for the figure on your price, because the tax depends on the consideration stated for your deed.</p><p>Mecklenburg County has a population of 1,233,383 as of July 1, 2025, and the Census Bureau lists a 2020 to 2024 median owner-occupied home value of $406,800. The same table shows 55.1 percent of homes owner-occupied and a median gross rent of $1,627, so renters hold a large share of the county's housing.</p>"
+   "h2": "What should a seller check in the records before listing a Mecklenburg County house?",
+   "html": "<p>Look at three places, because each answers a different question. The Register of Deeds shows what is recorded against the parcel, the county's property record card shows how Tax Administration describes the house, and the Tax Collector shows what is owed.</p><ul><li>Recorded deeds of trust with no matching satisfaction. A paid-off loan can still look open if the lender never filed its release.</li><li>The name on the latest deed. On an inherited property, the last recorded owner is often the person who died.</li><li>The property record card at Reval.MeckNC.gov, which lists bedrooms, bathrooms and other characteristics the county uses to value the house.</li><li>The county's no-cost alert service, so a later filing under your name reaches you.</li></ul><p>A closing attorney will run a full title search in any event. Doing a light version first tells you whether a sale will be quick or whether an old lien, a missing release or an unprobated estate has to be cleared up before closing.</p>"
   },
   {
-   "h2": "How do I pay and how can I protect my title records?",
-   "html": "<p>In person, the office accepts cash, Mastercard, Visa and Discover, checks and money orders, and escrow accounts for authorized users. Checks must carry the drawer's printed name and address and be payable to the Mecklenburg County Register of Deeds. Starter and counter checks are refused, and a returned check can bring a $35 processing fee.</p><p>The office also offers a free Property Fraud Alert that notifies you whenever a document bearing your name is recorded. That helps owners who hold a vacant or inherited house, where a forged deed would otherwise go unseen. A buyer under a contract for deed should note that <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html\">Chapter 47H</a> requires the seller to record the contract or a memorandum of it within five business days.</p><p>If you own a Mecklenburg house with unpaid taxes, a title problem or a difficult tenant, a cash buyer can close on the timeline that suits you and handle the recording through a closing attorney.</p>"
+   "h2": "What steps carry a signed deed to the public record?",
+   "html": "<p>Four steps get a deed from signature to the public index. The state treats its fee list as complete and exclusive, so payment is due when you file.</p><ul><li>Match the grantor's name and legal description to the prior deed.</li><li>Have the seller's side cover the excise tax.</li><li>Add the page-count fee and any surcharge.</li><li>Hand in the original and keep proof that it was recorded.</li></ul><p>A lender's satisfaction after payoff is recorded free and will show up in the index afterward.</p>"
+  },
+  {
+   "h2": "Where do veterans and homeowners go for other filings?",
+   "html": "<p>Discharge papers are recorded at this office, and the county has 44,881 veterans in Census survey data for 2020 through 2024. A property tax break for disabled veterans is another matter: applicants complete Form NCDVA-9 with a Veterans Service Officer and file with the county assessor. The exclusion covers $45,000 of value and has no age or income cutoff.</p><p>The register is an elected county officer, chosen every two years under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html\">G.S. 161-1</a>. Questions about deed contents or title for a specific house belong with a closing attorney. Value and exemption questions go to Tax Administration.</p>"
+  },
+  {
+   "h2": "How can I pay, and how do I guard my title?",
+   "html": "<p>At the counter the office takes cash, Mastercard, Visa and Discover, checks, money orders, and approved escrow accounts. Checks need a printed name and address and a phone number, and they go to the Mecklenburg County Register of Deeds. Starter and counter checks are turned away, and a bounced check may cost $35.</p><p>The office offers a no-cost Property Fraud Alert that notifies you when any document under your name reaches the records, which suits owners of vacant or inherited houses. Anyone buying on a contract for deed should know <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html\">Chapter 47H</a> obliges the seller to record the contract, or a memorandum of it, inside five business days.</p><p>If you own a Mecklenburg house burdened by back taxes, a title snag or a difficult tenant, a cash buyer can set a closing date that works and use a closing attorney for the recording.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "How much does a Mecklenburg County deed recording cost?",
-   "a": "A general deed costs $26 for the first 15 pages plus $4 for each added page. A deed of trust or mortgage costs $64 for the first 35 pages plus $4 per added page. A non-standard document adds $25."
+   "q": "What does Mecklenburg County bill for filing a deed?",
+   "a": "$26 covers the first fifteen pages, plus $4 for each page past that. A loan instrument costs $64 for thirty-five pages. Documents outside the format rules carry a $25 surcharge."
   },
   {
-   "q": "Who pays the North Carolina excise tax on a house sale?",
-   "a": "The seller pays it. State law puts the duty on the transferor, who pays the register of deeds in the county where the land lies before the deed is recorded. The rate is $1.00 per $500 of value or fraction of it."
+   "q": "Which party pays the deed stamp tax in a Mecklenburg sale?",
+   "a": "The seller owes it. The rate is one dollar per $500 of price, rounded up for a partial block, and it is due at the counter."
   },
   {
-   "q": "Is there a fee to record a satisfaction of my mortgage?",
-   "a": "No. The Uniform Fee Schedule lists satisfaction instruments at no fee. Ask your lender to file the satisfaction after payoff and check later that it was recorded."
+   "q": "Does recording a mortgage satisfaction cost anything?",
+   "a": "No charge applies. The fee schedule lists satisfaction instruments as free, so the burden is only to confirm your lender files one after payoff."
   },
   {
-   "q": "Can I search Mecklenburg County property records myself?",
-   "a": "Yes. The public may search the records in the vault area from 8:30 a.m. to 4:30 p.m. during office hours, and the county also posts a real estate records search on the Register of Deeds website."
+   "q": "Can I look up Mecklenburg land records on my own?",
+   "a": "Yes. A modern online database covers documents from March 1990 forward, a historic index covers 1763 through February 1990, and records can be inspected at the office from half past eight to half past four."
   },
   {
-   "q": "What happens if my deed is not typed to the county's standards?",
-   "a": "The office still records it, but it adds a $25 non-standard fee on top of the normal fees. Margins, 9-point minimum type and one-sided pages are the usual causes."
+   "q": "What happens to a deed that breaks the format rules?",
+   "a": "It is still recorded, but you pay $25 on top of the usual fees. Margins, tiny type and two-sided pages cause most of those cases."
   }
  ],
  "sources": [
@@ -90,12 +98,12 @@
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"
   },
   {
-   "title": "G.S. Chapter 47H",
-   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"
-  },
-  {
    "title": "G.S. 161-1",
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html"
+  },
+  {
+   "title": "G.S. Chapter 47H",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"
   },
   {
    "title": "G.S. 105-277.1C",
