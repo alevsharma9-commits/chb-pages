@@ -11,7 +11,7 @@
   },
   {
    "h2": "How does the IRS compute estate tax on a Texas estate?",
-   "html": "<p>The IRS builds the figure in stages, and a house is only one input. The same method applies to a Texas estate as to any other.</p><ul><li>Gross estate: everything owned or partly controlled at death, valued at fair market value. Cash, securities, real estate, insurance, trusts, annuities and business interests all count.</li><li>Taxable estate: the gross estate less allowed deductions, such as debts, administration costs and bequests to a surviving spouse or qualified charity. Some operating businesses and farms may be valued lower if they qualify.</li><li>Lifetime gifts: taxable gifts made since 1977 are added to the net amount before the tax is computed.</li><li>Credit: the tax is then reduced by the available unified credit.</li></ul><p>Because mortgages are deductible, a heavily financed house counts for less than its market price. Federal returns for 2026 deaths are due only where the amount tested against the threshold passes $15,000,000.</p>"
+   "html": "<p>The IRS builds the figure in stages, and a house is only one input. The same method applies to a Texas estate as to any other.</p><ul><li>Gross estate: everything owned or partly controlled at death, valued at fair market value. Cash, securities, real estate, insurance, trusts, annuities and business interests all count.</li><li>Taxable estate: the gross estate less allowed deductions, such as debts, administration costs and bequests to a surviving spouse or qualified charity. Some operating businesses and farms may be valued lower if they qualify.</li><li>Lifetime gifts: taxable gifts made since 1977 are added to the net amount before the tax is computed.</li><li>Credit: the tax is then reduced by the available unified credit.</li></ul><p>Because mortgages are deductible, a heavily financed house counts for less than its market price. Spouses sometimes file even when no tax is due, because the return is how a surviving spouse claims the unused exemption through portability. Anyone unsure whether a Form 706 applies should ask a tax professional, since the test depends on gifts as well as the estate itself.</p>"
   },
   {
    "h2": "How much did the federal threshold change over the years?",
@@ -19,11 +19,11 @@
   },
   {
    "h2": "How does a Texas house pass to heirs?",
-   "html": "<p>Which route fits depends on whether a will exists and whether the estate needs court supervision. Each leaves a different trail in the clerk's records.</p><ul><li>Probating a will: file within four years of death; a court can take a late filing for good cause.</li><li>Muniment of title: fits an estate with no debts beyond liens on the real estate; the order and will go to the clerk where the land is.</li><li>Small estate affidavit (Estates Code Chapter 205): a court-approved shortcut for estates at or under $75,000 before homestead and exempt property.</li><li>Affidavit of heirship: a sworn statement left with the clerk; no law makes a buyer or lender accept it.</li><li>Transfer on death deed: moves land outside probate when recorded while the owner is alive.</li></ul>"
+   "html": "<p>The right route turns on whether a will exists and whether a court must supervise. Each route leaves its own record at the county clerk.</p><ul><li>Probating a will: file within four years of death; a court can take a late filing for good cause.</li><li>Muniment of title: suits an estate whose only debts are liens on the land; the order and will are filed in the county of the land.</li><li>Small estate affidavit (Estates Code Chapter 205): a court-approved shortcut for estates at or under $75,000 before homestead and exempt property.</li><li>Affidavit of heirship: a sworn statement left with the clerk; no law makes a buyer or lender accept it.</li><li>Transfer on death deed: moves land outside probate when recorded while the owner is alive.</li></ul>"
   },
   {
    "h2": "What does a small estate affidavit require?",
-   "html": "<p>Conditions: no will, no administration underway, enough assets to cover debts, and every heir in agreement. A judge must sign off.</p><p>Real property is out of reach for this tool unless it is a homestead going to a spouse or minor children. Per the clerk manual, two disinterested witnesses sign, a month must pass after death, and nobody can have a petition for a personal representative pending or granted. The homestead copy is recorded with the clerk.</p>"
+   "html": "<p>Conditions: no will, no administration underway, enough assets to cover debts, and every heir in agreement. A judge must sign off.</p><p>Real property is out of reach for this tool unless it is a homestead going to a spouse or minor children. Per the clerk manual, two disinterested witnesses sign, a month must pass after death, and nobody can have a petition for a personal representative pending or granted. The homestead copy goes on record.</p>"
   },
   {
    "h2": "What deed does an heir need to sell inherited Texas property?",
@@ -31,11 +31,15 @@
   },
   {
    "h2": "What property tax does an inherited house carry?",
-   "html": "<p>Tax does not pause for probate. A lien attaches every January 1 for that year's taxes, penalties and interest, whoever ends up holding title.</p><ul><li>Billing starts around October 1 and delinquency begins February 1.</li><li>Penalty and interest start at six and one percent, and the penalty reaches 12 percent in July.</li><li>An heir missing from the recorded deed can claim the exemption with an ownership affidavit, the death certificate, a utility bill and any court record citation.</li><li>A spouse who is 55 or older at the death may inherit the over-65 exemption in some cases.</li></ul><p>Once a homestead exemption is in place, appraised value rises no more than 10 percent a year, which helps an heir who keeps the house.</p>"
+   "html": "<p>Tax does not pause for probate. A lien attaches every January 1 for that year's taxes, penalties and interest, whoever ends up holding title.</p><ul><li>Billing starts around October 1 and delinquency begins February 1.</li><li>Late charges begin the day after January 31 and the penalty climbs through the summer.</li><li>An heir missing from the recorded deed can claim the exemption with an ownership affidavit, the death certificate, a utility bill and any court record citation.</li><li>A spouse who is 55 or older at the death may inherit the over-65 exemption in some cases.</li></ul><p>An heir who keeps the house and qualifies benefits from the yearly appraisal cap on homesteads.</p>"
   },
   {
    "h2": "What makes a Texas will valid for probate purposes?",
-   "html": "<p>Expect a will to be written, signed and witnessed twice over. One in the maker's own handwriting, called holographic, needs no witnesses.</p><p>Applications generally go to the probate court serving the decedent's home county. An enhanced life estate or Lady Bird deed lets the owner sell or borrow without the beneficiary signing, although the State Law Library says no official form exists.</p>"
+   "html": "<p>Expect a will to be written, signed and witnessed twice over. One in the maker's own handwriting, called holographic, needs no witnesses.</p><p>Applications generally go to the probate court serving the decedent's home county. Under an enhanced life estate deed, nicknamed Lady Bird, the owner keeps full power to sell or borrow, though no official form is published.</p>"
+  },
+  {
+   "h2": "What should heirs of a Texas house do in the first weeks?",
+   "html": "<p>Start by finding out which route the estate will take, because that decides which document the title company needs. Locate any will, the death certificate and the latest deed.</p><ul><li>Call the appraisal district about the exemption already on the house, and whether a new application is needed.</li><li>Ask the county tax office whether the current year's bill is paid and what a payoff would be.</li><li>Ask the county clerk what is recorded against the property, including liens.</li><li>Keep the house insured and the utilities on while title is sorted out.</li></ul><p>If the estate is large enough that the federal threshold might matter, bring an accountant in early, because the tax test counts lifetime gifts along with the house.</p>"
   },
   {
    "h2": "How does selling an inherited house change the picture?",
@@ -61,7 +65,7 @@
   },
   {
    "q": "Can I sell inherited property without probate?",
-   "a": "Sometimes. A transfer on death deed recorded before the owner dies skips probate, and simpler estates may fit a muniment of title or the small estate route. Ask your title company what it will accept."
+   "a": "Sometimes. Recording a transfer on death deed during the owner's life avoids probate, and a muniment of title or small estate affidavit can serve simpler estates. Your title company decides what it will insure on."
   }
  ],
  "sources": [
