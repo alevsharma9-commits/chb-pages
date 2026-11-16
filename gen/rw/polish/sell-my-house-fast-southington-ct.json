@@ -23,15 +23,19 @@
   },
   {
    "h2": "Conveyance tax at closing",
-   "html": "<p>The transfer itself is taxed. For a deed of $2,000 or more, the state takes 0.75 percent and the town takes 0.25 percent, a combined one percent on most homes (Section 12-494, Chapter 223). The state share rises on the high end of a residential price:</p><ul><li>Up to $800,000: 0.75 percent state, 0.25 percent town.</li><li>From $800,000 to $2.5 million: 1.25 percent state on that slice.</li><li>Above $2.5 million: 2.25 percent state on that slice.</li><li>Exempt transfers include a principal residence given in lieu of foreclosure and a sale that does not cover the mortgages and priority tax liens.</li></ul><p>The grantor files Form OP-236 when the deed is recorded. Southington's town code on the form is 131, and the town clerk can tell you whether myCTREC electronic filing is accepted.</p>"
+   "html": "<p>Connecticut charges the seller a tax on the transfer itself once a deed reaches $2,000. Under Section 12-494 (Chapter 223) the state's share is 0.75 percent and the town's is 0.25 percent, so most homes land at one percent in total. Pricier houses pay more to the state:</p><ul><li>Residential price up to $800,000: 0.75 percent state, 0.25 percent town.</li><li>The slice from $800,000 to $2.5 million: 1.25 percent to the state.</li><li>The slice above $2.5 million: 2.25 percent to the state.</li><li>No tax is due on a principal residence given in lieu of foreclosure, or on a sale that cannot cover the mortgages and priority tax liens.</li></ul><p>Form OP-236 is filed by the grantor when the deed is recorded. Southington's code on that form is 131. Your closing attorney handles the form, and the town clerk can say whether electronic filing through myCTREC is taken.</p>"
   },
   {
-   "h2": "Property tax dates and late interest",
-   "html": "<p>Each Connecticut town picks one, two or four installments, and the last has to be due at least 45 days before the fiscal year ends (Chapter 204). An installment not paid by the first day of the following month is delinquent, and interest runs at 18 percent a year with a $2 minimum unless the town waived it.</p><p>The Southington Tax Collector has the installment dates, the mill rate and any sewer charges. Get those before you pick a closing date, because the proration between you and the buyer is worked out from them. The Assessor can answer questions about the assessment itself.</p>"
+   "h2": "When Southington taxes are due",
+   "html": "<p>Connecticut lets each town bill in one, two or four installments, as long as the final one is due at least 45 days before the fiscal year closes (Chapter 204). Miss the first of the following month and the installment is delinquent, which means 18 percent annual interest with a $2 minimum unless the town waived it.</p><p>Call the Southington Tax Collector for the installment dates, the mill rate and any sewer charges, and settle those before you fix a closing date, since the split of the bill between you and the buyer is figured from them. For a question about what the house is assessed at, call the Assessor.</p>"
   },
   {
    "h2": "Selling when taxes are owed",
    "html": "<p>An unpaid tax bill is common and rarely fatal to a sale. The balance and interest are normally paid from the proceeds at closing, so ask the tax collector for a written payoff figure and share it with your closing attorney early.</p><p>The attorney will search title for anything else attached to the house, such as a lien or an old mortgage not yet released, and will list every payoff on the closing statement. You will see your net before you sign.</p>"
+  },
+  {
+   "h2": "Steps from first call to closing",
+   "html": "<ol><li>Collect the deed, the latest mortgage statement and the most recent tax bill.</li><li>Decide who can sign. If the owner has died, or more than one person holds title, sort out the authority first.</li><li>Ask for a tax payoff figure and any other open municipal charge.</li><li>Compare a listing, after repairs and fees, with a straight cash number.</li><li>Choose a closing attorney, who orders the title search and prepares the OP-236.</li><li>Leave the utilities on until closing, and take final meter readings.</li></ol><p>A cash sale skips the buyer's lender, the appraisal and the back-and-forth over inspection repairs. What it cannot skip is the title work and the recording, so your date depends on those, not on a loan approval.</p>"
   },
   {
    "h2": "Doing a cash sale without repairs",
