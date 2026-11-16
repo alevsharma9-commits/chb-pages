@@ -7,7 +7,7 @@
   },
   {
    "h2": "How was Port St. Lucie laid out, and what does that mean for old lots and homes?",
-   "html": "<p>The city's Our Story page says Port St. Lucie was incorporated in 1961 by a development group whose goal was selling quarter-acre lots to retirees, without sidewalks, streetlights, water or sewer. Another city page says General Development Corporation turned 66 square miles into mostly single-family lots in the 1960s with little planning for commercial and employment centers.</p><p>Later growth reached St. Lucie West and land west of I-95, including Tradition, Southern Grove, Western Grove, Riverland and Wilson Groves. The city says the last Development of Regional Impact it approved came in 2007, and those owners hold entitlements to build.</p><p>That layout explains a lot about a typical sale. A 1970s or 1980s house may sit on a quarter-acre lot that was once septic. The city notes a large septic-to-sewer conversion program, so ask the city utility whether your street has been converted or still has an assessment or hookup step ahead of it.</p>"
+   "html": "<p>The city's Our Story page says Port St. Lucie was incorporated in 1961 by a development group whose goal was selling quarter-acre lots to retirees, without sidewalks, streetlights, water or sewer. Another city page says General Development Corporation turned 66 square miles into mostly single-family lots in the 1960s with little planning for commercial and employment centers.</p><p>Later growth reached St. Lucie West and land west of I-95, including Tradition, Southern Grove, Western Grove, Riverland and Wilson Groves. The city says the last Development of Regional Impact it approved came in 2007, and those owners hold entitlements to build.</p><p>That layout explains why many early lots were sold without sewer service. The city notes it runs one of the country's larger septic-to-sewer conversion projects, so ask the city utility about the sewer status of your street.</p>"
   },
   {
    "h2": "What do Census numbers show about homes in Port St. Lucie?",
@@ -18,12 +18,16 @@
    "html": "<p>The city says it accounts for only 22 percent of a typical bill, with the county, school district, fire district and others making up the rest. The St. Lucie County Property Appraiser's FAQ says properties are reassessed each January 1, and that a buyer's exemptions and caps from the prior owner are removed, which can raise the bill.</p><p>Its answer on Save Our Homes explains the cap: annual increases on a homestead are limited to 3 percent or CPI, whichever is less, and the benefit starts to build only after the first year of homestead. The office lists January 1 through March 1 as the filing window for initial applications and renewals, and says homestead is not transferable to a new residence.</p><p>Voters approved Amendment 3 on November 3, 2026, according to another Florida appraiser's explainer, with a larger non-school homestead exemption from 2027. Ask the St. Lucie office how it applies to your parcel.</p><ul><li>Bills go out in early November, with discounts of 4 percent in November, 3 in December, 2 in January and 1 in February.</li><li>Unpaid taxes become delinquent on April 1.</li><li>Ask the title agent to prorate the current-year bill at closing.</li></ul>"
   },
   {
+   "h2": "What is the Port District, and how does the riverfront affect nearby homes?",
+   "html": "<p>The Port District is a waterfront area along the North Fork of the St. Lucie River with parks, conservation areas, event space, trails, the Botanical Gardens, the History Museum and Pioneer Park. The city says the idea began over two decades ago, when about 2,000 feet of boardwalk was added north of Port St. Lucie Boulevard linking Veterans Park at Rivergate and Tom Hooper Park.</p><p>A public charrette at the Botanical Gardens in 2015 drew over 100 residents and led to a master plan that year, with a historic village, playground, event lawn, longer Riverwalk Boardwalk and riverfront dining. Funding came largely from the Parks Impact Fee, collected when new homes are built, plus state historic grants and Florida Inland Navigation District money.</p><p>If your house is a short drive from the river, mention the trail and park access in your description. Buyers compare these amenities with newer neighborhoods farther west.</p>"
+  },
+  {
    "h2": "What should a Port St. Lucie seller know about foreclosure timing?",
    "html": "<p>In a judicial foreclosure the clerk sells the property 20 to 35 days after final judgment, unless the plaintiff agrees to longer, under section 45.031. The high bidder posts a 5 percent deposit and, if nobody objects within 10 days of the certificate of sale, the clerk files the certificate of title.</p><p>Homestead owners are told to check with the clerk within 10 days after sale about surplus funds. A sale that closes ahead of the auction date may keep more equity in your hands, so contact a lender or attorney as soon as a judgment issues.</p><p>The Department of Revenue says a certificate of title after foreclosure carries documentary stamp tax figured on the highest bid.</p>"
   },
   {
    "h2": "What deed and closing details apply in Port St. Lucie?",
-   "html": "<p>A deed in any Florida county but Miami-Dade carries documentary stamp tax of 70 cents per $100 of consideration, which includes any mortgage the buyer takes on. Every party to the document is liable, so the contract settles who pays, and the clerk collects it at recording.</p><p>Conveyances of land need two subscribing witnesses under section 689.01, and signing may be witnessed by audio-video technology.</p><ul><li>Obtain payoff letters from each lender.</li><li>Check the lot for open permits, since PSL's older lots often have sheds, pools or screen enclosures.</li><li>Gather HOA or special-district statements if the neighborhood has them.</li></ul>"
+   "html": "<p>A deed in any Florida county but Miami-Dade carries documentary stamp tax of 70 cents per $100 of consideration, which includes any mortgage the buyer takes on. Every party to the document is liable, so the contract settles who pays, and the clerk collects it at recording.</p><p>Conveyances of land need two subscribing witnesses under section 689.01, and signing may be witnessed by audio-video technology.</p><ul><li>Obtain payoff letters from each lender.</li><li>Check city records for open permits on sheds, pools, enclosures or additions.</li><li>Gather HOA or special-district statements if the neighborhood has them.</li></ul>"
   },
   {
    "h2": "How do climate and nature shape a Port St. Lucie house?",
@@ -64,6 +68,10 @@
   {
    "title": "City of Port St. Lucie, Our Story",
    "url": "https://cityofpsl.com/News-Stories/Our-Story"
+  },
+  {
+   "title": "City of Port St. Lucie, The Port District",
+   "url": "https://cityofpsl.com/Government/Your-City-Government/Departments/Community-Redevelopment-Agency/The-Port-District"
   },
   {
    "title": "City of Port St. Lucie, PSL Hot Topics",
