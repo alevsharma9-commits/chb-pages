@@ -20,3 +20,11 @@
 - MI pages with self-computed transfer tax examples (b0581 houghton/huron/ingham register pages, b0602 hamtramck/holland/jackson/kalamazoo): verify against MCL 207.504/207.525 or strip dollar examples.
 - Danville IL (sell-my-house-fast-danville-il) vacant-building rules from 2011 ordinance; Normal IL rental code 2016 PDF; recheck.
 - Shared /tmp scratch collisions: agents overwrote each other's gen scripts; holmes/huron/crawford/columbiana OH recorder pages may have been regenerated from another agent's script. Final QA: rerun overlap.py + _count.py on every merged slug and diff vs sources.
+
+## Added on resume (merge of b0673-b0715)
+- Merged below 85% gate (rework later, all still >=80%): medina-county-oh-recorder-of-deeds 84, miami-county-oh-property-tax-guide 84, sell-my-house-fast-athens-oh 84, sell-my-house-fast-beavercreek-oh 84, sell-my-house-fast-elyria-oh 84.
+- Wikipedia cited for census figures on many drafts (b0692, b0712 and older). Owner rule says official pages only: swap to Census QuickFacts or drop.
+- alpharetta-ga-property-tax-guide: claims city bills its own property tax, inferred not stated by an opened page. Verify.
+- Agents wrote to shared /tmp/claude-0 (b0683, b0714 and others): QA scripts-collision pages.
+- wayne-county-oh-property-tax-guide: conveyance rate $4 per $1,000 vs older $2 snippets; recheck.
+- Washington County OH recorder FAQ answers matched to guessed questions; recheck.
