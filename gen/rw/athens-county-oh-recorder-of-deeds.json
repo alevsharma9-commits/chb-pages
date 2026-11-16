@@ -3,15 +3,15 @@
  "sections": [
   {
    "h2": "What does the Athens County Recorder do?",
-   "html": "<p>The recorder keeps the public land records for Athens County, recording every document that conveys an interest in real estate, including deeds, mortgages and veterans discharge papers (DD214). Financing statements that put a lien on real estate also go there. The office is open Monday to Friday, 8:00 a.m. to 4:00 p.m., and closed on weekends.</p><p>Real property records in Athens County run from 1790 to the present, with alphabetical indices for the same span. Staff will help you find a record but will not run a title search for you. For ownership history, the county's land records can be viewed and printed for free on the AvaWeb portal.</p>"
+   "html": "<p>The recorder keeps the public land records for Athens County, recording every document that conveys an interest in real estate, including deeds, mortgages and veterans discharge papers (DD214). Financing statements that put a lien on real estate also go there. The office opens at eight on weekdays, closes at four, and stays shut on weekends.</p><p>Real property records in Athens County run from 1790 to the present, with alphabetical indices for the same span. Staff will help you find a record but will not run a title search for you. For ownership history, the county's land records can be viewed and printed for free on the AvaWeb portal.</p>"
   },
   {
-   "h2": "How much does it cost to record a deed in Athens County?",
+   "h2": "What does an Athens County deed cost to record?",
    "html": "<p>The county lists basic recording at $34.00 for the first two pages and $8.00 for each additional printed page, plus $4.00 for each marginal notation or reference. Those figures track ORC 317.32, which splits the first two pages into a $17 base fee and a $17 housing trust fund fee, and each later page into $4 and $4.</p><table><caption>Athens County Recorder fees as listed by the county</caption><thead><tr><th>Service</th><th>Fee</th></tr></thead><tbody><tr><td>First two pages of a document</td><td>$34.00</td></tr><tr><td>Each additional page</td><td>$8.00</td></tr><tr><td>Marginal notation or reference</td><td>$4.00</td></tr><tr><td>Document that misses the state formatting standards</td><td>Additional $20.00</td></tr><tr><td>Copy of a recorded document</td><td>$2.00 per page</td></tr><tr><td>Certified copy</td><td>$2.00 per page plus a $1.00 certification fee</td></tr><tr><td>Fax copy</td><td>$2.00 per page local, $4.00 per page long distance</td></tr><tr><td>Real estate UCC filing</td><td>$12.00 plus $4.00 for each name indexed</td></tr></tbody></table><p>The statute also lets a county charge a document preservation surcharge of up to five dollars. Ask the recorder's office whether it applies to your filing before you send a check.</p>"
   },
   {
    "h2": "Why might the recorder reject or surcharge my deed?",
-   "html": "<p>Ohio House Bill 525, effective July 1, 2009, set standardization rules that nearly all recorded documents must meet. A document that does not meet them may still be recorded, but for the extra $20.00. The county also says documents must be prepared and executed under the Ohio Revised Code, which is why a deed drafted by an out-of-state form site can come back.</p><ul><li>Check that the legal description matches the last recorded deed.</li><li>Confirm every signature is acknowledged before a notary.</li><li>Count the pages, since the fee depends on the page total.</li><li>Include a check for the full amount, because short or over payments cause delays.</li></ul>"
+   "html": "<p>Ohio House Bill 525, effective July 1, 2009, set standardization rules that nearly all recorded documents must meet. A document that does not meet them may still be recorded, but for the extra $20.00. The county also says documents must be prepared and executed under the Ohio Revised Code. Have the deed prepared by someone who knows Ohio's requirements.</p><ul><li>The fee depends on the page total, so confirm the count before you send payment.</li><li>Call the office if you are unsure of the total, since the county's fee list is the controlling figure.</li><li>Questions about the formatting rules go to the recorder, who also points to a template on the Ohio Recorders' Association site.</li></ul>"
   },
   {
    "h2": "Does the recorder collect the transfer tax in Athens County?",
@@ -19,11 +19,19 @@
   },
   {
    "h2": "What is the county behind the records?",
-   "html": "<p>Athens County was formed on March 1, 1805 from Washington County and takes its name from the Greek city, because Ohio's first state university opened here in 1804. The county covers 508 square miles of rugged Appalachian foothills, and it borders Perry, Morgan, Washington, Meigs, Vinton and Hocking counties in Ohio plus Wood County, West Virginia. The Hocking River drains most of it and reaches the Ohio River at Hockingport.</p><p>Population climbed from 54,889 in 1970 to a peak of 64,757 in 2010, then dipped to 62,431 in 2020. The Census Bureau's 2025 estimate is 63,197. Because that growth tied to the university, deeds here often involve student rentals and investor sales, and each one passes through the recorder's index.</p>"
+   "html": "<p>Athens County was formed on March 1, 1805 from Washington County and takes its name from the Greek city, because Ohio's first state university opened here in 1804. The county covers 508 square miles of rugged Appalachian foothills, and it borders Perry, Morgan, Washington, Meigs, Vinton and Hocking counties in Ohio plus Wood County, West Virginia. The Hocking River drains most of it and reaches the Ohio River at Hockingport.</p><p>Population climbed from 54,889 in 1970 to a peak of 64,757 in 2010, then dipped to 62,431 in 2020. The Census Bureau's 2025 estimate is 63,197. Housing data from the 2020 census shows 54.4% of occupied homes owner-occupied and 45.6% rented, so many deeds in the county involve rental property.</p>"
   },
   {
    "h2": "What documents come up most often in a house sale?",
    "html": "<p>A typical sale produces a deed, a mortgage release if the seller had a loan, and sometimes a power of attorney or an affidavit about a deceased owner. Each is recorded separately and priced by page count under the table above.</p><ul><li>Warranty or fiduciary deed from the seller to the buyer.</li><li>Mortgage release, recorded after the lender is paid at closing.</li><li>Affidavit or court certificate when an estate sells the house.</li></ul><p>Sellers with a house that needs repairs, has tenants or came through probate can still sell as-is. The title steps do not change, and the recorder's index is where the title company confirms the chain of ownership.</p>"
+  },
+  {
+   "h2": "Which Athens County office handles which step of a sale?",
+   "html": "<p>A sale touches several offices, and mixing them up costs time. The recorder takes the deed and mortgage release. The auditor takes the statement of value, collects the conveyance fee, and keeps the homestead and owner-occupancy records. The treasurer takes tax payments and supplies the payoff amount.</p><ul><li>Recorder: records the deed, charges per page, and holds the index from 1790.</li><li>Auditor: endorses the conveyance and files the statement of value required by ORC 319.202.</li><li>Treasurer: bills and collects real estate tax and holds payment plans.</li></ul><p>The recorder's page also notes that since July 1, 2001 only UCC filings that relate to real estate are filed with the county. Other personal property filings go to the Ohio Secretary of State, so a lien on equipment or inventory will not appear in the county index.</p>"
+  },
+  {
+   "h2": "What does ORC 317.32 say about other recorder fees?",
+   "html": "<p>The statute is the ceiling for what every Ohio recorder charges, and Athens County's published figures follow it. Besides the page fees, it sets a base fee of one dollar and a housing trust fund fee of one dollar per page for certifying a copy, plus fifty cents and fifty cents for a seal. A marginal reference by separate instrument carries a base fee of two dollars and a housing trust fund fee of two dollars.</p><p>Local fax or electronic transmission is one dollar plus one dollar per page, and long-distance fax is two dollars plus two dollars per page. Instruments filed by a county land reutilization corporation are exempt from these fees. Because the Athens County page quotes its own totals for copies, treat the county's listing as the controlling number and call the office to confirm.</p>"
   },
   {
    "h2": "How can I look up records before I sell?",
@@ -33,10 +41,10 @@
  "faqs": [
   {
    "q": "What are the Athens County Recorder's hours?",
-   "a": "Monday to Friday, 8:00 a.m. to 4:00 p.m., and closed Saturday and Sunday, according to the county website."
+   "a": "The county website lists weekdays from eight in the morning until four in the afternoon, with Saturday and Sunday closed."
   },
   {
-   "q": "How much does it cost to record a deed in Athens County?",
+   "q": "What fees apply when Athens County records my deed?",
    "a": "The county lists $34.00 for the first two pages and $8.00 for each additional page. A document that misses state formatting rules may be recorded for an extra $20.00."
   },
   {
