@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Ways to sell in Skokie",
-   "html": "<p>A Skokie owner can list with an agent, sell without one, or sell directly to a buyer paying cash. The cash route usually saves the most time, since there is no showing schedule and no lender appraisal to wait for. Whichever path you take, Skokie adds paperwork of its own: a village transfer stamp, a final water reading, and for rentals a pre-sale inspection.</p><ul><li>List on the open market and accept showings, repair requests and a longer timeline.</li><li>Sell by owner and handle the contract, disclosures and title work yourself.</li><li>Sell directly to a cash buyer, usually as-is, with a closing date you choose.</li></ul>"
+   "html": "<p>A Skokie owner can list with an agent, sell without one, or sell directly to a buyer paying cash. The cash route usually saves the most time, since there is no showing schedule and no lender appraisal to wait for. Whichever path you take, Skokie adds paperwork of its own: a village transfer stamp, a final water reading, and for rentals a pre-sale inspection.</p><ul><li>Use an agent and live with showings, repair requests and a longer wait.</li><li>Go it alone and take on the contract, disclosures and title work.</li><li>Take a cash offer, normally as-is, and set the closing day.</li></ul>"
   },
   {
    "h2": "Skokie homes, owners and what buyers want",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Transfer taxes on a Skokie sale",
-   "html": "<p>A sale here can carry charges at three levels. The Cook County Clerk names the seller as the liable party for the state and county amounts, and county recorders sell the state stamps under 35 ILCS 200/31-15. A deed will not be accepted for filing unless the stamps were bought from the recorder of the county where it is filed (35 ILCS 200/31-20).</p><table><caption>Transfer taxes on a Skokie sale</caption><thead><tr><th>Level</th><th>Rate</th></tr></thead><tbody><tr><td>Village of Skokie</td><td>$3 per $1,000 of property value, or any fraction</td></tr><tr><td>State of Illinois</td><td>$0.50 per $500</td></tr><tr><td>Cook County</td><td>$0.25 per $500</td></tr></tbody></table><p>Ask your title company for a line-by-line estimate before you agree to a net number, because the contract decides who pays what.</p>"
+   "html": "<p>A sale here can carry charges at three levels. The Cook County Clerk names the seller as liable for the state and county amounts. Stamps come from the recorder (35 ILCS 200/31-15), and the deed is refused for filing without them (35 ILCS 200/31-20).</p><table><caption>Transfer taxes on a Skokie sale</caption><thead><tr><th>Level</th><th>Rate</th></tr></thead><tbody><tr><td>Village of Skokie</td><td>$3 per $1,000 of property value, or any fraction</td></tr><tr><td>State of Illinois</td><td>$0.50 per $500</td></tr><tr><td>Cook County</td><td>$0.25 per $500</td></tr></tbody></table><p>Ask your title company for a line-by-line estimate before you agree to a net number, because the contract decides who pays what.</p>"
   },
   {
    "h2": "Property taxes and exemptions at closing",
@@ -31,7 +31,19 @@
   },
   {
    "h2": "Steps to a quick Skokie sale",
-   "html": "<p>Work backward from the closing date, because the village timelines drive the schedule.</p><ul><li>Pull the village's lien and violation status and clear any unpaid balance.</li><li>If the house is a rental, book the Property Standards inspection at least 28 days ahead.</li><li>Gather your forwarding address and the buyer's contact details for the final water reading request.</li><li>Order the state transfer declaration through the title company so the stamps and deed are ready together.</li><li>Record the deed with the Cook County Clerk's recording division after the stamps are affixed.</li></ul>"
+   "html": "<p>Count back from your closing date; the village timelines set the pace.</p><ul><li>Pull the village's lien and violation status and clear any unpaid balance.</li><li>If the house is a rental, book the Property Standards inspection at least 28 days ahead.</li><li>Gather your forwarding address and the buyer's contact details for the final water reading request.</li><li>Order the state transfer declaration through the title company so the stamps and deed are ready together.</li><li>Record the deed with the Cook County Clerk's recording division after the stamps are affixed.</li></ul>"
+  },
+  {
+   "h2": "Selling an inherited or long-held Skokie house",
+   "html": "<p>Many Skokie houses have been in one family for decades, so heirs and downsizers are common sellers. Original wiring, an aging furnace and a dated kitchen are the usual issues. If you inherited the house, locate the deed and the latest water and tax bills first, then ask the Clerk's Office whether any balance or violation is open. A cash buyer will often take a house like this as it stands, which spares you from hiring contractors for a property you may not live in. You still need the stamp, the final water reading and a recorded deed.</p>"
+  },
+  {
+   "h2": "If the house has liens or code violations",
+   "html": "<p>Open liens, code violations and unpaid village balances all block the stamp, and without the stamp the deed cannot go forward. Pay or resolve each one before closing, or ask the Clerk's Office how an open item affects your date. Give the title company the village's answer in writing so the payoff can come out of your proceeds at the table.</p>"
+  },
+  {
+   "h2": "What a cash sale skips here",
+   "html": "<p>A direct cash purchase skips staging, open houses, a lender's appraisal and the repair list that follows a buyer's inspection. It does not skip the village steps. The transfer stamp, the final water reading and, for a rental, the Property Standards inspection all apply the same way. Build them into your calendar from the day you sign. If the buyer is paying cash, the village paperwork is often the longest item left, so send the transfer tax form and the water reading request as soon as a closing date is agreed. Keep a copy of the stamped receipt for your records, and confirm with the title company that the deed went to the Cook County recording division the same week.</p>"
   }
  ],
  "faqs": [
