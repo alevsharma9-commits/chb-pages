@@ -19,11 +19,11 @@
   },
   {
    "h2": "If your taxes are unpaid",
-   "html": "<p>The county clerk posts a timeline for bills left unpaid. It is a useful warning for anyone behind on taxes before a sale.</p>\n<table>\n<caption>Delinquent tax timeline in Scott County</caption>\n<thead><tr><th>When</th><th>What happens</th></tr></thead>\n<tbody>\n<tr><td>April 15</td><td>Delinquent certificates move to the County Clerk's office</td></tr>\n<tr><td>May and June</td><td>The County Attorney mails two notices, and the first offers a payment agreement to eligible owners</td></tr>\n<tr><td>June 30</td><td>Last day to enter a payment agreement</td></tr>\n<tr><td>July 1</td><td>Advertising costs are added to bills still unpaid, which are published in the newspaper</td></tr>\n<tr><td>Late summer</td><td>Payment is due by a cutoff before the annual delinquent tax sale</td></tr>\n</tbody>\n</table>\n<p>When a bill transfers, a 10% penalty and the sheriff's add-on fee are already attached, and interest runs at 1% per month. An owner with delinquent tax should get the clerk's payoff figure before choosing a closing date. The payoff is taken from the sale proceeds, so the number needs to be firm before you accept an offer.</p>"
+   "html": "<p>If you are behind on taxes, the clerk's schedule below shows how little time passes before costs pile up.</p>\n<table>\n<caption>Delinquent tax timeline in Scott County</caption>\n<thead><tr><th>When</th><th>What happens</th></tr></thead>\n<tbody>\n<tr><td>April 15</td><td>Delinquent certificates move to the County Clerk's office</td></tr>\n<tr><td>May and June</td><td>The County Attorney mails two notices, and the first offers a payment agreement to eligible owners</td></tr>\n<tr><td>June 30</td><td>Last day to enter a payment agreement</td></tr>\n<tr><td>July 1</td><td>Advertising costs are added to bills still unpaid, which are published in the newspaper</td></tr>\n<tr><td>Late summer</td><td>Payment is due by a cutoff before the annual delinquent tax sale</td></tr>\n</tbody>\n</table>\n<p>When a bill transfers, a 10% penalty and the sheriff's add-on fee are already attached, and interest runs at 1% per month. Ask the clerk for a payoff figure before you pick a closing date. That amount comes out of your sale proceeds, so you want it firm before you accept any offer.</p>"
   },
   {
    "h2": "Deed transfer tax and recording",
-   "html": "<p>The seller owes $0.50 for each $500 of deed value, rounded up per block. The Scott County Clerk, at 101 East Main Street, collects it as the deed is filed. The office keeps weekday hours from 8:30 to 4:30 and answers at (502) 863-7875.</p>\n<p>Owners past 65 or with a total disability may qualify for the state homestead exemption, $49,100 in the 2025 and 2026 assessment years, through the Scott County PVA. It attaches to the person, so a buyer files a new application.</p>"
+   "html": "<p>On a sale, the seller covers a state deed tax of $0.50 per $500 of value, with any partial block counted as a full one. You pay it at the Scott County Clerk's counter, 101 East Main Street, when the deed goes on record. The office keeps weekday hours from 8:30 to 4:30 and answers at (502) 863-7875.</p>\n<p>Owners past 65 or with a total disability may qualify for the state homestead exemption, $49,100 in the 2025 and 2026 assessment years, through the Scott County PVA. The benefit follows the owner, so whoever buys your house must apply on their own.</p>"
   },
   {
    "h2": "Permits and zoning",
@@ -41,7 +41,7 @@
  "faqs": [
   {
    "q": "How much deed tax applies to a Georgetown sale?",
-   "a": "The seller pays $0.50 per $500 block, rounded up. The Scott County Clerk collects it when the deed is filed."
+   "a": "The seller pays $0.50 for every $500 of value, rounded up, at the Scott County Clerk's counter when the deed is filed."
   },
   {
    "q": "When does Scott County mail property tax bills?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "Which office answers questions on a Georgetown assessment?",
-   "a": "Call the Scott County Property Valuation Administrator at (502) 863-7885. The sheriff only collects what the PVA assessed."
+   "a": "Call the Scott County Property Valuation Administrator at (502) 863-7885. The sheriff collects the bill but does not set the value."
   },
   {
    "q": "Where do I get a building permit in Georgetown?",
