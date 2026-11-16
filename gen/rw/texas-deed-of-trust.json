@@ -1,0 +1,77 @@
+{
+ "slug": "texas-deed-of-trust",
+ "sections": [
+  {
+   "h2": "What is a deed of trust in Texas?",
+   "html": "<p>A deed of trust is the document most Texas homeowners sign to secure a mortgage loan, and it usually gives the lender a power of sale. If the borrower defaults, the lender can sell the home at a public auction without going to court first.</p><p>The loan itself is the promissory note. The deed of trust is the lien paper that ties the house to that note. When the note is paid off, the lender releases the lien, and that release is recorded with the county clerk so the public record shows the house is free of that debt.</p><p>Texas law recognizes three routes to foreclose. The State Law Library describes them this way:</p><ul><li>Judicial foreclosure, which goes through a lawsuit and is uncommon in Texas.</li><li>Nonjudicial foreclosure, which relies on the power of sale in the deed of trust and is governed by Property Code section 51.002.</li><li>Expedited foreclosure, which needs a court order and is the required route for home equity loans, reverse mortgages and some owners' association assessment liens.</li></ul>"
+  },
+  {
+   "h2": "How does nonjudicial foreclosure work under a deed of trust?",
+   "html": "<p>It works through a series of written notices followed by an auction, with no judge deciding whether the sale goes ahead. Because no court is involved, the notice deadlines in the statute carry most of the weight for the borrower.</p><p>For most home loans, a federal rule bars a servicer from starting foreclosure until the loan is more than 120 days delinquent. After that, the servicer sends a notice of default. The borrower can bring the loan current by paying the past-due amount within 20 days of receiving that notice, under section 51.002(d).</p><p>If the default is not cured, the servicer then sends a notice of sale. It has to go out at least 21 days before the sale date, be posted at the courthouse door, and be filed with the county clerk. Read each letter the day it arrives, because the dates printed on it set the schedule.</p>"
+  },
+  {
+   "h2": "When and where is a Texas deed of trust foreclosure sale held?",
+   "html": "<p>The sale is a public auction held on the first Tuesday of a month, between 10 a.m. and 4 p.m., in the county where the house sits. If the first Tuesday is January 1 or July 4, the sale moves to the first Wednesday, according to informal guidance from the Attorney General.</p><p>The sale begins at the time stated in the notice and must start no later than three hours after that time. The commissioners court of each county designates the area where sales take place and records that designation in the real property records, so the auction spot can be looked up through the clerk.</p><table><caption>Deed of trust sale steps and the timing printed by Texas state agencies</caption><thead><tr><th>Step</th><th>Rule</th></tr></thead><tbody><tr><td>Federal limit on starting</td><td>Loan more than 120 days delinquent for most home loans</td></tr><tr><td>Cure after notice of default</td><td>20 days from receipt</td></tr><tr><td>Notice of sale</td><td>At least 21 days before the sale</td></tr><tr><td>Where notice goes</td><td>Courthouse door and county clerk</td></tr><tr><td>Sale day</td><td>First Tuesday of the month, 10 a.m. to 4 p.m.</td></tr><tr><td>Deficiency suit</td><td>Within two years of the sale</td></tr></tbody></table><p>Sources for the table are the State Law Library foreclosure guide and the Attorney General's informal guidance on foreclosure sales.</p>"
+  },
+  {
+   "h2": "What happens after a deed of trust sale?",
+   "html": "<p>The winning bidder takes the property, and the former owner may still owe money. The lender can file a deficiency suit if the sale price fell short of the debt, but it must do so within two years of the sale. A borrower can ask the court to credit the home's fair market value against what is claimed.</p><p>If the sale brings in more than the debt, the extra money goes first to junior lienholders and then to the former owner. Texas does not give an automatic right to buy the house back after this kind of sale. Redemption rights exist only for certain situations, such as particular tax liens and owners' association assessment liens.</p><p>A buyer who finds the former owner still living in the house may need to file an eviction case to get possession. The notice and court steps for that are covered on the eviction pages of this site.</p>"
+  },
+  {
+   "h2": "How is a deed of trust recorded and released with the county clerk?",
+   "html": "<p>The county clerk acts as county recorder, and deed records are filed in the county where the real property is located. A deed of trust, its release, and a trustee's deed after a sale all land in that same record.</p><p>To be recorded, an instrument that conveys real property must be signed and acknowledged, or sworn before two subscribing witnesses or an officer authorized to take acknowledgments, under Property Code section 12.001(b). The 2023 county clerk manual lists the standard fees:</p><ul><li>$5.00 for the first page and $4.00 for each additional page or attachment.</li><li>$0.25 for each name over five that must be indexed.</li><li>A records management and preservation fee of no more than $10 and a records archive fee of no more than $10.</li><li>A records technology and infrastructure fee of $2.00.</li></ul><p>Fees can change, so ask the county clerk for the current schedule before you file. After a loan is paid, confirm that the release of the deed of trust shows up in the clerk's index.</p>"
+  },
+  {
+   "h2": "What can a Texas homeowner do when a deed of trust loan is in default?",
+   "html": "<p>The most direct option is to act inside the 20-day reinstatement window and ask the servicer for the exact payoff figure needed to cure. Missing that window does not end every option, but the later steps are tied to the sale calendar.</p><p>These are the main paths people weigh:</p><ul><li>Bring the loan current with a reinstatement payment.</li><li>Ask the servicer about a repayment plan or loan modification before the sale date.</li><li>Sell the house before the first Tuesday sale so the proceeds pay off the lender and any remaining equity stays with you.</li><li>Speak with a Texas attorney or a legal aid office about your specific notice.</li></ul><p>A sale before the auction date generally leaves a cleaner record than a foreclosure, because the lien is paid and released rather than enforced. Gather the notice of default, the notice of sale, and your loan statements first, since any buyer or lender will ask for them.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Texas require a court order to foreclose on a deed of trust?",
+   "a": "Usually no. Nonjudicial foreclosure under the power of sale in the deed of trust does not need a court order. Home equity loans, reverse mortgages and certain owners' association assessment liens need an expedited court order instead."
+  },
+  {
+   "q": "How long do I have to cure a default after the notice of default?",
+   "a": "You have 20 days from receiving the notice to pay the past-due amount and reinstate the loan, under Property Code section 51.002(d). Ask the servicer for a written reinstatement figure so the amount is exact."
+  },
+  {
+   "q": "Can a Texas foreclosure sale happen on any day?",
+   "a": "No. Sales are held at public auction on the first Tuesday of a month between 10 a.m. and 4 p.m., or the first Wednesday when the first Tuesday is January 1 or July 4. The notice states the starting time and the sale must begin within three hours of it."
+  },
+  {
+   "q": "Can I still owe money after the house is sold at auction?",
+   "a": "Yes, possibly. The lender may file a deficiency suit within two years of the sale, and you may ask for a credit based on the home's fair market value. Surplus sale money goes to junior liens first and then to the former owner."
+  },
+  {
+   "q": "Where do I find recorded deeds of trust and releases in Texas?",
+   "a": "Search the county clerk's records in the county where the property is located. The clerk records deeds of trust, releases, trustee's deeds and foreclosure sale notices, and charges the filing fees set by statute."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas State Law Library: Foreclosure",
+   "url": "https://guides.sll.texas.gov/foreclosure"
+  },
+  {
+   "title": "Texas State Law Library: Before the Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/before-the-sale"
+  },
+  {
+   "title": "Texas State Law Library: The Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/the-sale"
+  },
+  {
+   "title": "Texas State Law Library: After the Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/after-the-sale"
+  },
+  {
+   "title": "Texas Attorney General: Informal guidance on foreclosure sales",
+   "url": "https://texasattorneygeneral.gov/news/releases/informal-guidance-concerning-foreclosure-sales"
+  },
+  {
+   "title": "Texas Courts: County Clerk Manual 2023",
+   "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"
+  }
+ ]
+}

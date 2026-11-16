@@ -1,0 +1,69 @@
+{
+ "slug": "texas-eviction-notice",
+ "sections": [
+  {
+   "h2": "What notice must a Texas landlord give before an eviction?",
+   "html": "<p>A landlord generally must give the tenant a written notice to vacate at least three days before filing an eviction suit, unless the lease sets a different period. The rule is in Property Code section 24.005, and the lease can lengthen or shorten the default.</p><p>The notice is a separate step from the lawsuit. Rule 510 of the Texas Rules of Civil Procedure covers how eviction cases run in court but does not govern these pre-suit notices, which sit in Property Code chapter 24. Landlords should check both the lease and the statute before sending anything.</p><p>A tenant who receives a notice to vacate is not yet evicted. Only a judgment and a writ of possession can lead to a removal, and those come later in the court process.</p>"
+  },
+  {
+   "h2": "What types of eviction notice are used in Texas?",
+   "html": "<p>The common types are a notice to vacate for nonpayment, a notice to vacate for another lease violation, and a notice to end a tenancy at the close of its term. Which one applies depends on the facts and on what the lease says.</p><p>The State Law Library's eviction guide also points to two special cases:</p><ul><li>When a tenant who was on time the previous month falls behind, the landlord's notice is framed as a demand to pay the rent or vacate.</li><li>For properties covered by the federal CARES Act, a 30-day notice may be required before filing.</li></ul><p>If your property might be covered by the federal rule, ask the court clerk or an attorney before choosing a notice form. A notice that gives the wrong period can cost the landlord weeks.</p>"
+  },
+  {
+   "h2": "How must a Texas eviction notice be delivered?",
+   "html": "<p>A notice can be handed to the tenant or to a household member who is at least 16, attached inside the premises in an obvious place, sent by mail, or sent by e-mail if the written lease allows e-mail notice. The method matters because the landlord may have to prove delivery in court.</p><p>Many landlords keep a simple record for each notice:</p><ul><li>A copy of the notice exactly as it was served.</li><li>The date, time and method of delivery.</li><li>The name of the person who delivered it.</li><li>Photos, mailing receipts or e-mail headers where they apply.</li></ul><p>Keep these with the lease and the rent ledger so they can be brought to the justice court hearing.</p>"
+  },
+  {
+   "h2": "What happens after the notice period ends?",
+   "html": "<p>If the tenant has not left, the landlord may file an eviction suit in justice court. The tenant must be served at least four days before trial, and a hearing is set no sooner than 10 days and no later than 21 days after the filing.</p><table><caption>Texas eviction notice and early court timing from the State Law Library guide</caption><thead><tr><th>Item</th><th>Rule as printed</th></tr></thead><tbody><tr><td>Notice to vacate</td><td>At least 3 days in writing unless the lease says otherwise</td></tr><tr><td>Federal covered property</td><td>30-day notice may apply</td></tr><tr><td>Service before trial</td><td>At least 4 days</td></tr><tr><td>Trial setting</td><td>10 to 21 days after filing</td></tr><tr><td>Jury demand</td><td>At least 3 days before trial</td></tr></tbody></table><p>A written answer is not required from the tenant, except when a summary disposition is sought. The full court path, including appeal and writ steps, is explained on the eviction process page.</p>"
+  },
+  {
+   "h2": "What about squatters and people who were never tenants?",
+   "html": "<p>A person who was never a tenant is handled through a different route. Property Code chapter 24B lets an owner file a request for removal with the sheriff or constable, with no court case.</p><p>The State Law Library lists the conditions:</p><ul><li>The occupant stayed after being told to leave.</li><li>The property was not open to the public when the occupant entered.</li><li>No lawsuit is pending between the owner and the occupant.</li><li>The occupant is not a family member and is not a current or former tenant.</li></ul><p>If the removal turns out to be wrongful, the occupant can sue under section 24B.005. A newer summary disposition provision, section 24.0051606, gives a squatter four days to respond in a forcible entry and detainer suit, with trial 10 to 21 days after filing when the facts are disputed.</p>"
+  },
+  {
+   "h2": "What should a landlord check before sending a notice in Texas?",
+   "html": "<p>Start with the lease, because it can change the notice period, the delivery method and the grounds for ending the tenancy. Then match the notice to the reason: unpaid rent, a lease violation, or the end of a term each call for different wording.</p><p>A short pre-send review saves time:</p><ul><li>Read the notice clause and the e-mail clause of the lease.</li><li>Confirm the tenant's name matches the lease and any adult occupants are identified.</li><li>Decide whether the federal 30-day notice could apply to the property.</li><li>Pick a delivery method you can prove later and keep the proof.</li></ul><p>Errors in the notice are among the easiest things for a tenant to raise in justice court, and a defective notice may force the landlord to start over.</p>"
+  },
+  {
+   "h2": "How long can the notice stage and early court stage take?",
+   "html": "<p>The notice period alone is three days by default, and the court stage adds at least four days for service and a hearing 10 to 21 days after filing. A tenant who loses can appeal to county court within five days of the judgment, which can stretch things further.</p><p>After a final judgment, a writ of possession becomes available six days later, and the officer serves it within five days, with 24 hours of warning before removal. The writ cannot be executed after the 90th day. These later steps belong to the court process, so the eviction process page walks through them in order.</p><p>Planning a sale around a tenant exit is risky because each step has its own deadline and a hearing can be reset. Sellers who need a firm closing date often choose a buyer who will take the property with the tenant in place.</p>"
+  },
+  {
+   "h2": "Can a Texas landlord sell the house while a tenant is there?",
+   "html": "<p>Yes, a landlord can list and sell a rented house, but the tenant's lease and the notice rules still apply. An eviction notice sent to clear the house for a sale must follow the same written notice and court steps as any other.</p><p>Sellers with tenants commonly sort out these points before listing:</p><ul><li>Whether the lease allows showings and how much notice is required.</li><li>Whether the buyer wants the tenant to stay under the existing lease.</li><li>Whether any unpaid rent or lease violation needs a notice first.</li><li>Whether the property could fall under the federal 30-day notice rule.</li></ul><p>Investors who buy as-is often take the house with the tenant in place, which can avoid the notice process altogether.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days notice does a Texas tenant get before eviction?",
+   "a": "At least three days in writing unless the lease says otherwise, under Property Code section 24.005. Covered federal properties may need a 30-day notice."
+  },
+  {
+   "q": "Can a landlord send an eviction notice by e-mail in Texas?",
+   "a": "Only if the written lease allows e-mail notice. Otherwise the notice goes by hand to the tenant or a household member who is 16 or older, inside the premises in an obvious place, or by mail."
+  },
+  {
+   "q": "Does a notice to vacate mean the tenant must leave immediately?",
+   "a": "No. It starts the clock for the landlord to file in justice court. Removal needs a judgment and a writ of possession, which come after the notice period and the hearing."
+  },
+  {
+   "q": "Where is an eviction suit filed in Texas?",
+   "a": "In justice court. The tenant is served at least four days before trial, and the hearing is set between 10 and 21 days after the filing."
+  },
+  {
+   "q": "How are squatters removed in Texas?",
+   "a": "Through a request for removal filed with the sheriff or constable under Property Code chapter 24B, if the occupant was never a tenant or family member and the other listed conditions are met."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas State Law Library: Eviction Process",
+   "url": "https://guides.sll.texas.gov/landlord-tenant-law/eviction-process"
+  },
+  {
+   "title": "Texas Courts: Rule 510 order",
+   "url": "https://txcourts.gov/media/1461822/259105.pdf"
+  }
+ ]
+}
