@@ -2,8 +2,8 @@
  "slug": "marion-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who runs property tax in Marion County?",
-   "html": "<p>In Marion County the property appraiser sets values and the tax collector bills and collects, with the clerk of court keeping the records. All three work out of the Ocala area, and each has its own website.</p><ul><li><a href=\"https://www.pa.marion.fl.us/\">Marion County Property Appraiser</a>: parcel and sales search, a property tax estimator, homestead e-filing, TPP return e-filing, a page of important dates and information on the TRIM notice and the Value Adjustment Board. The office lists its address as 501 SE 25th Avenue, Ocala, with walk-ins welcome or appointments available.</li><li><a href=\"https://www.mariontax.com/property-taxes\">Marion County Tax Collector</a>: pay taxes online, search the tax roll, apply for a tax deed online, buy county-held certificates, and read about installment plans, deferred taxes and delinquent taxes. The main office is at the McPherson Complex, 503 SE 25th Avenue, Ocala, and the office runs eight locations across the county.</li><li><a href=\"https://www.marioncountyclerk.org/\">Marion County Clerk of Court and Comptroller</a>: the county recorder, the keeper of Official Records, and the office that handles tax deed sales and the Value Adjustment Board.</li></ul><p>Keep the roles straight when you call. The appraiser answers questions about value and exemptions. The collector answers questions about what you owe.</p>"
+   "h2": "Which Marion County offices handle your bill?",
+   "html": "<p>One office values, one bills, and one keeps the records: the appraiser, the tax collector and the clerk of court. All three work out of the Ocala area, and each has its own website.</p><ul><li><a href=\"https://www.pa.marion.fl.us/\">Marion County Property Appraiser</a>: parcel and sales search, a property tax estimator, homestead e-filing, TPP return e-filing, a page of important dates and information on the TRIM notice and the Value Adjustment Board. The office lists its address as 501 SE 25th Avenue, Ocala, with walk-ins welcome or appointments available.</li><li><a href=\"https://www.mariontax.com/property-taxes\">Marion County Tax Collector</a>: pay taxes online, search the tax roll, apply for a tax deed online, buy county-held certificates, and read about installment plans, deferred taxes and delinquent taxes. The main office is at the McPherson Complex, 503 SE 25th Avenue, Ocala, and the office runs eight locations across the county.</li><li><a href=\"https://www.marioncountyclerk.org/\">Marion County Clerk of Court and Comptroller</a>: the county recorder, the keeper of Official Records, and the office that handles tax deed sales and the Value Adjustment Board.</li></ul><p>Pick the right door before you call: value and exemptions belong to the appraiser, and amounts owed belong to the collector.</p>"
   },
   {
    "h2": "When are Marion County property taxes due?",
@@ -22,12 +22,16 @@
    "html": "<p>Ownership and condition on January 1 set each year's value. Exemption and classification paperwork goes in by March 1, and business personal property returns follow on April 1.</p><p>Homestead removes up to $50,000 from taxable value, with school taxes touched only by the first $25,000. The appraiser's e-file page handles the application, which must show the home was your permanent residence on January 1.</p><p>After the first year, a state cap slows increases on a homestead's assessed value, and the state's chart shows 2.7% for 2026. Other property has a separate 10 percent ceiling. A sale or other change of ownership resets the parcel to market-based value the next January, with exceptions for spouses and some transfers at death.</p><p>The TRIM notice arrives in August. Petitions to the Value Adjustment Board run through the clerk, and the clerk's office announced in July 2026 that those petitions can be e-filed.</p>"
   },
   {
+   "h2": "What else is on a Marion County tax bill?",
+   "html": "<p>The collector's property tax menu separates ad valorem taxes from non-ad valorem assessments, and its payment page speaks of taxes and assessments together. A bill can therefore carry more than the county's general levy. The menu also offers a tax bill explanation and a page of current tax payment methods.</p><p>Questions split into two lists, one for current tax and one for delinquent tax. The office phone is (352) 368-8200, and its website lists eight county locations with lobby cameras so you can check the line before you leave home.</p><ul><li>Pay online: search the tax roll by owner or parcel and pay from the same page.</li><li>Deferred taxes: a menu page covers the homestead deferral rules.</li><li>Tax certificates and deed sales: the collector's page and the clerk's page both cover these.</li></ul><p>Read the explanation page before assuming a line item is wrong, then bring any real error to the right office.</p>"
+  },
+  {
    "h2": "What happens to unpaid Marion County taxes?",
    "html": "<p>Delinquency starts April 1, and the state says certificates are sold on all unpaid items by June 1. A certificate buyer pays the bill and earns interest, but cannot press the owner for payment for two years.</p><p>The collector's menu points owners to later steps as well: an online tax deed application, online purchase of county-held certificates, and a page on delinquent taxes. The clerk lists tax deed sales and lands available for taxes among its departments. A homestead parcel carries a higher opening bid at a deed sale.</p><p>Clear a certificate early, since the amount only grows.</p>"
   },
   {
    "h2": "Can a Marion County house with tax owed still sell?",
-   "html": "<p>Yes. Start with the collector's exact balance. The title company can take it out of the money the buyer brings to the table, so a sale does not need a clean tax record first.</p><p>The state charges deed stamp tax of 70 cents per $100 of consideration, and the clerk takes it at recording. The buyer's first bill can also come in higher than yours, because the seller's cap ends with the sale.</p><p>If you inherited the house or fell behind over several years, get a written payoff before you take an offer. The clerk's Property Alert Service sends a message when paperwork hits the records under your parcel or name.</p>"
+   "html": "<p>Yes. Begin with the collector's exact balance. The title company can take it out of the money the buyer brings to the table, so a sale does not need a clean tax record first.</p><p>The state's deed stamp rate is 70 cents for each $100 of price, and the clerk takes it at recording. The buyer's first bill can also come in higher than yours, because the seller's cap ends with the sale.</p><p>For an inherited house, or one behind by several years, a written payoff should come before any offer is accepted. The clerk's Property Alert Service sends a message when paperwork hits the records under your parcel or name.</p>"
   }
  ],
  "faqs": [
@@ -40,7 +44,7 @@
    "a": "April 1. After that date the amount due depends on when the collector receives your payment, and the postmark does not count."
   },
   {
-   "q": "What is the Marion County early payment discount?",
+   "q": "What early payment discount does Marion County give?",
    "a": "The collector lists 4% for November, 3% for December, 2% for January and 1% for February. March payments pay the gross amount."
   },
   {
@@ -49,7 +53,7 @@
   },
   {
    "q": "Do I need to pay all back taxes before selling in Marion County?",
-   "a": "No. A balance can be paid through closing. Get a written payoff from the tax collector and learn whether a certificate exists."
+   "a": "No. A balance can be paid through closing. Ask for a written payoff and find out whether a certificate exists."
   }
  ],
  "sources": [

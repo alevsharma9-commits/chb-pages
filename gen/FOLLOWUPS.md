@@ -58,3 +58,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * florida-property-tax-appeal 5 sources; florida-property-tax-guide lacks certificate redemption/max interest; florida-housing-market has no sale price data.
 * Merged below 85%: jefferson-county-fl-property-tax-guide 84.
 * FL conflicts: highlands-county-fl-property-tax-guide homestead deferral Jan 31 (collector) vs Mar 31 (DOR). hillsborough pages: 2026 homestead amendment status unclear (appraiser says proposed); 3% interest and 18% certificate bid from collector FAQ.
+* Miami-Dade pages state 2026 millage as adopted (county chart); miami-beach-fl two millage lines (18.6681 and 19.4045) deferred to bill.

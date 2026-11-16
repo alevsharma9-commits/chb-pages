@@ -2,8 +2,8 @@
  "slug": "sell-my-house-fast-cape-coral-fl",
  "sections": [
   {
-   "h2": "What should I know before selling a house in Cape Coral?",
-   "html": "<p>Know which Lee County office controls each piece of the sale, then choose between listing, selling yourself and a direct cash sale. Cape Coral homes are assessed, billed and recorded through Lee County, so the county's calendar and fees matter as much as anything the city does.</p><p>Property values come from the Lee County Property Appraiser, whose office handles questions about assessments. Tax bills come from the Lee County Tax Collector, and the Clerk records the deed. Start by pulling your parcel record and your latest tax bill so you know what a buyer will see.</p><ul><li>Check that the owner names on title match the people who will sign.</li><li>Look for open permits, liens or unpaid taxes.</li><li>Ask whether a lender, a tenant or an heir has a say in the timing.</li></ul>"
+   "h2": "What comes first when a Cape Coral owner decides to sell?",
+   "html": "<p>Work out which Lee County office controls each piece of the sale, then weigh a listing, a do-it-yourself sale and a direct cash sale. Cape Coral homes are assessed, billed and recorded through Lee County, so the county's calendar and fees matter as much as anything the city does.</p><p>Property values come from the Lee County Property Appraiser, whose office handles questions about assessments. Tax bills come from the Lee County Tax Collector, and the Clerk records the deed. Start by pulling your parcel record and your latest tax bill so you know what a buyer will see.</p><ul><li>Check that the owner names on title match the people who will sign.</li><li>Look for open permits, liens or unpaid taxes.</li><li>Ask whether a lender, a tenant or an heir has a say in the timing.</li></ul>"
   },
   {
    "h2": "What calendar does the Lee County Property Appraiser publish?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "How does the early-payment discount work in Lee County?",
-   "html": "<p>Paying early lowers the bill: 4 percent off in November, 3 percent in December, 2 percent in January and 1 percent in February, as the Property Appraiser's calendar prints it. The Department of Revenue prints the same schedule for the whole state.</p><p>Taxes turn delinquent on April 1. Tax certificates on unpaid items are sold by June 1, and the certificate holder may not contact the owner to demand payment until 2 years after April 1 of the year of issuance, under section 197.432. The holder may apply for a tax deed after that 2-year period passes, with a $75 application fee.</p><p>For a seller, the lesson is simple: clear the balance before closing, or have the closing agent pay it from proceeds. A certificate on the property can delay a buyer's lender, and a buyer will ask about it.</p>"
+   "html": "<p>Paying early lowers the bill: 4 percent off in November, 3 percent in December, 2 percent in January and 1 percent in February, per the Property Appraiser's calendar, the same schedule the state publishes for every county.</p><p>Taxes turn delinquent on April 1. Tax certificates on unpaid items are sold by June 1, and the certificate holder may not contact the owner to demand payment until 2 years after April 1 of the year of issuance, under section 197.432. The holder may apply for a tax deed after that 2-year period passes, with a $75 application fee.</p><p>For a seller, the lesson is simple: clear the balance before closing, or have the closing agent pay it from proceeds. A certificate on the property can delay a buyer's lender, and a buyer will ask about it.</p>"
   },
   {
    "h2": "What happens if the lender or the county is moving on the property?",
@@ -23,11 +23,11 @@
   },
   {
    "h2": "Which exemptions and relief programs might apply to a Cape Coral homeowner?",
-   "html": "<p>Several, and some depend on age or service. A county or city may allow an extra homestead exemption of up to $50,000 for owners 65 or older within an income limit, under section 196.075. Veterans 65 or older with a permanent service-connected disability may receive a discount equal to the VA disability percentage, and a disabled ex-servicemember may receive a $5,000 reduction in assessed value.</p><p>A homeowner who may defer taxes should file Form DR-570 with the tax collector by March 31 after the assessment year. Deferral covers the part of the bill above 5 percent of last year's household income, or above 3 percent for a permanent resident 65 or older. Ask the Lee County offices which of these apply before you decide to sell under pressure.</p>"
+   "html": "<p>Several, and some depend on age or service. Section 196.075 lets a county or city grant seniors, age 65 and up, an added homestead exemption of up to $50,000 within an income limit. Veterans past 65 with a permanent service-connected disability may receive a discount equal to the VA disability percentage, and a disabled ex-servicemember may receive a $5,000 reduction in assessed value.</p><p>A homeowner who may defer taxes should file Form DR-570 with the tax collector by March 31 after the assessment year. Deferral covers the part of the bill above 5 percent of last year's household income, or above 3 percent for a permanent resident 65 or older. Ask the Lee County offices which of these apply before you decide to sell under pressure.</p>"
   },
   {
-   "h2": "What does it cost to put a deed on record?",
-   "html": "<p>The state tax is 70 cents on each $100 of consideration, and all parties to the document stay liable even if the contract assigns it to one side. Lee County follows the standard rate, since Miami-Dade is the lone exception.</p><p>The clerk adds recording charges under section 28.24: $5.00 for the first page and $4.00 for each additional page, plus $1.00 for each name beyond four. Smaller trust-fund and technology charges apply on top. Ask the Lee County Clerk for a total before closing so nothing surprises you at the table.</p><p>A deed between spouses where the only consideration is a mortgage on the homestead, and divorce deeds for the marital home, fall under an exemption in section 201.02(7). A deed made for estate planning has no special exemption, according to the Department of Revenue.</p>"
+   "h2": "What goes on the closing statement for recording?",
+   "html": "<p>The state tax is 70 cents on each $100 of consideration, and all parties to the document stay liable even if the contract assigns it to one side. Lee County follows the standard rate, since Miami-Dade is the lone exception.</p><p>Recording charges come from section 28.24 and run per page, with an extra charge for names beyond four. Ask the Lee County Clerk for a total before closing so nothing surprises you.</p><p>A deed between spouses where the only consideration is a mortgage on the homestead, and divorce deeds for the marital home, fall under an exemption in section 201.02(7). A deed made for estate planning has no special exemption, per state guidance.</p>"
   }
  ],
  "faqs": [
@@ -40,7 +40,7 @@
    "a": "March 1. The Property Appraiser's date list says filings after that day may be granted for the following year, so file as early as you can once you own the home on January 1."
   },
   {
-   "q": "How long do I have to challenge my value?",
+   "q": "What is the window to challenge my value?",
    "a": "25 days from the mailing of the TRIM notice, which goes out in August, according to the Lee County Property Appraiser. An informal conference with the office is available at any time during the year."
   },
   {

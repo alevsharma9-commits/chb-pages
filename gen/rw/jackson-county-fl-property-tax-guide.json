@@ -2,58 +2,58 @@
  "slug": "jackson-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which office collects tax in Jackson County?",
-   "html": "<p>The Jackson County Tax Collector collects it, and the county's online tax portal lets you search a bill by tax year. The Property Appraiser values property, and the Board of County Commissioners and other taxing bodies set the rates.</p>\n<p>The tax collector's own site has a due dates and discounts page that works as a calendar for the whole year, mixing property tax with vehicle and license deadlines. This guide pulls the property tax rows from it so a seller can see which date applies when a house goes under contract.</p>\n<p>Jackson County keeps Central Time, which matters when you pay online close to a month-end discount cutoff.</p>"
+   "h2": "Which Jackson County office sends the tax bill?",
+   "html": "<p>The Jackson County Tax Collector sends and collects it, using an online portal where a bill can be looked up by tax year. Values come from the Property Appraiser, and the rates come from the County Commission, the School Board and other taxing districts.</p>\n<p>The collector's website has a \"Due Dates and Discounts\" page laid out as a month-by-month calendar. It mixes vehicle, license and property tax items, so the rows below keep only the property ones. A seller can match them against a contract date to see which deadline is next.</p>\n<p>The county keeps Central Time, which matters if you pay online near the end of a discount month.</p>"
   },
   {
-   "h2": "When are Jackson County property taxes due?",
-   "html": "<p>Collection starts in November and the gross amount is due by March 31. The tax collector's calendar lists a discount for each month from November through February.</p>\n<table>\n<caption>Property tax calendar rows from the Jackson County Tax Collector (jacksontc.com, Due Dates and Discounts)</caption>\n<thead><tr><th>Month</th><th>What the page says</th></tr></thead>\n<tbody>\n<tr><td>November</td><td>Collection begins, 4% discount through November 30</td></tr>\n<tr><td>December</td><td>3% discount</td></tr>\n<tr><td>January</td><td>2% discount</td></tr>\n<tr><td>February</td><td>1% discount</td></tr>\n<tr><td>March</td><td>Pay the gross amount by March 31</td></tr>\n<tr><td>April</td><td>Unpaid real property tax is delinquent April 1, with a 3% penalty</td></tr>\n</tbody>\n</table>\n<p>The same discounts apply to tangible personal property tax, which covers business equipment. A homeowner can ignore that line, but a landlord with furnished units or a seller who ran a business from the property should read it.</p>"
+   "h2": "What are the Jackson County property tax months?",
+   "html": "<p>The collector's calendar starts collection in November and wants the gross amount by March 31, with a shrinking discount in between.</p>\n<table>\n<caption>Property tax rows from the Jackson County Tax Collector Due Dates and Discounts page (jacksontc.com)</caption>\n<thead><tr><th>Month</th><th>Calendar entry</th></tr></thead>\n<tbody>\n<tr><td>November</td><td>Collection opens; 4% discount if paid by November 30</td></tr>\n<tr><td>December</td><td>3% discount</td></tr>\n<tr><td>January</td><td>2% discount</td></tr>\n<tr><td>February</td><td>1% discount</td></tr>\n<tr><td>March</td><td>Gross amount due by March 31</td></tr>\n<tr><td>April</td><td>Unpaid real property tax delinquent on April 1; 3% penalty</td></tr>\n</tbody>\n</table>\n<p>Business equipment (tangible personal property) follows the same discount months. That row rarely matters to a homeowner, but a landlord or a seller who ran a business from the property should read it.</p>"
   },
   {
-   "h2": "What happens when Jackson County property tax goes delinquent?",
-   "html": "<p>On April 1 a 3% penalty is added to the gross amount for real property. Within 45 days the delinquent list is advertised in a local newspaper, and the cost of that advertising is added to your bill.</p>\n<p>Each week for three weeks in May, the delinquent real estate list is published ahead of the certificate sale. The tax collector sets the sale date in March, before the April 1 delinquency date, so a date can be known well ahead. A tax certificate is a lien the collector sells to an investor; after two years from April 1 of the issue year the holder can apply for a tax deed, and the clerk then holds an auction. The state opening bid for homestead property includes one-half of the latest assessed value in addition to the amounts due, which gives a homestead more protection than other parcels.</p>\n<p>Tangible personal property works differently. Unpaid tangible tax picks up 1.5% interest per month on the gross amount, advertising within 45 days, and tax warrant processing starting May 1.</p>"
+   "h2": "What does the Jackson County calendar say about delinquent accounts?",
+   "html": "<p>After April 1, real property tax carries a 3% penalty on the gross amount. The collector advertises the delinquent list in a local newspaper within 45 days and adds that cost to the bill. During May the list runs weekly for three weeks, ahead of the tax certificate sale. The sale date is set in March, before the delinquency date, so it is knowable early.</p>\n<p>A certificate is a lien an investor buys. If it stays unredeemed for two years past the April 1 of issue, the holder may ask for a tax deed, and the clerk auctions the property. For homestead, the statute's opening bid includes one-half of the latest assessed value on top of the amounts due, which is an extra cushion.</p>\n<p>Business equipment is handled differently. Unpaid tangible tax grows by 1.5% a month, is advertised within 45 days, and goes to tax warrant processing starting May 1.</p>"
   },
   {
-   "h2": "Is there an installment plan in Jackson County?",
-   "html": "<p>Yes. The tax collector's calendar describes a four-payment plan for next year's property tax, and applications are due by April 30. People already enrolled do not need to reapply.</p>\n<ul>\n<li>First installment: due on or before June 1, with the program cancelled if the payment is not remitted by June 30.</li>\n<li>Second installment: due before September 30.</li>\n<li>Third installment: due by December 31.</li>\n<li>Fourth installment: due by March 31.</li>\n</ul>\n<p>The first-installment wording is worth a close read: the June row says \"on or before June 1,\" while the cancellation rule says June 30. Call the tax collector to confirm which date applies to your account before relying on the later one. If you sell during the plan year, tell the closing agent which installments are paid so the tax is prorated correctly.</p>"
+   "h2": "Can Jackson County owners spread payments over the year?",
+   "html": "<p>Yes. The calendar lists a four-payment plan for the following year's tax, with applications due April 30. Those already enrolled do not reapply.</p>\n<ul>\n<li>First payment: on or before June 1, but the plan is cancelled if nothing is remitted by June 30.</li>\n<li>Second payment: before September 30.</li>\n<li>Third payment: by December 31.</li>\n<li>Final payment: by March 31.</li>\n</ul>\n<p>Two dates in the first item look inconsistent, so call the office to confirm what applies to your account. If you sell while on the plan, give the closing agent a list of paid installments so the proration is right.</p>"
   },
   {
-   "h2": "What homestead and assessment limits apply in Jackson County?",
-   "html": "<p>A Jackson County owner who makes the house a permanent residence by January 1 and files Form DR-501 by March 1 can claim up to $50,000 of homestead exemption. The first $25,000 applies to every tax, and the second $25,000 reaches only non-school taxes on assessed value over $50,000.</p>\n<p>The Save Our Homes cap holds yearly assessed-value growth to the lower of 3 percent or inflation, with the 2026 cap listed at 2.7 percent. Non-homestead property is limited to 10 percent a year. Both limits end with a change of ownership, so a buyer often sees a larger bill than the seller did.</p>\n<ul>\n<li>Seniors 65 or older may qualify for an additional local exemption if the county or city has adopted the ordinance and household income is within the limit.</li>\n<li>A veteran with a 10 percent or greater service-connected disability may receive a $5,000 reduction in assessed value.</li>\n<li>Homestead is lost when the home is rented or stops being the permanent residence.</li>\n</ul>\n<p>Ask the Jackson County Property Appraiser which local ordinances apply to your address.</p>"
+   "h2": "Which homestead and assessment limits matter to a Jackson County seller?",
+   "html": "<p>A permanent residence on January 1 plus Form DR-501 filed by March 1 opens a homestead exemption of up to $50,000. The first $25,000 touches all taxes, while the second $25,000 applies to value above $50,000 for non-school taxes.</p>\n<p>The Save Our Homes cap limits annual growth to 3 percent or inflation, whichever is lower, and the state chart lists 2.7 percent for 2026. Other property is limited to 10 percent a year. A sale ends both limits, which is why a buyer's first bill can exceed the seller's.</p>\n<ul>\n<li>Age 65 and up: an extra local exemption is possible where an ordinance exists and income fits the limit.</li>\n<li>Disabled veterans: a $5,000 reduction in assessed value applies at a 10 percent service-connected rating or more.</li>\n<li>Renting the home or moving out ends homestead.</li>\n</ul>\n<p>Ask the Property Appraiser which local ordinances cover your address.</p>"
   },
   {
-   "h2": "What is the route for contesting a Jackson County value?",
-   "html": "<p>File a petition with the Value Adjustment Board within 25 days of the Notice of Proposed Property Taxes, the TRIM notice, which the Property Appraiser mails in August. An exemption denial gets 30 days from the denial letter.</p>\n<p>Start with the Property Appraiser for an informal review, since many errors in square footage or exemption status can be corrected without a hearing. Bring a deed, survey or contractor records if the property record is wrong.</p>\n"
+   "h2": "How do I contest a Jackson County value?",
+   "html": "<p>Petition the Value Adjustment Board within 25 days after the Property Appraiser mails TRIM notices in August. A denied exemption has a longer window: 30 days from the denial letter.</p>\n<p>It pays to begin with an informal talk with the appraiser's staff, since a wrong square footage or exemption status can be fixed without a hearing. Bring a deed, survey or builder's records when the property record itself is wrong.</p>"
   },
   {
-   "h2": "Will the November 2026 property tax amendment change my Jackson County bill?",
-   "html": "<p>Jackson County's government announced a town hall on October 13, 2026 about Amendment 3, a proposed property tax amendment on the November 2026 ballot, to discuss how it could affect local government funding and public services. The county's notice describes the amendment as proposed and presents no figures.</p>\n<p>What changes depends on the ballot result and any law that follows. Look at the Florida Department of Revenue and the county's budget pages for the effective year before you build a number into a sale price. Until the property appraiser and tax collector post new rules, plan around the dates and rates on your bill.</p>"
+   "h2": "Does the November 2026 property tax amendment affect a Jackson County bill?",
+   "html": "<p>The county announced a town hall on October 13, 2026 about Amendment 3, a property tax proposal on the November 2026 ballot. The notice said the discussion would cover the possible effect on local funding for public safety, fire and emergency services and special districts. It describes the amendment as proposed, so no figures appear.</p>\n<p>What changes depends on the ballot result and any law that follows. Check the Florida Department of Revenue and county budget pages for the effective year before relying on a number in a sale. Until new rules are posted, use the dates and amounts on your own bill.</p>"
   },
   {
-   "h2": "What should a Jackson County seller do about tax at closing?",
-   "html": "<p>Get a written payoff from the tax collector, note which year it covers, and have the title company split the current year. Florida's deed stamp tax is 70 cents per $100 of consideration, and every party to the deed is liable for it.</p>\n<ul>\n<li>Search the account by tax year in the tax collector's portal to see whether earlier years are open.</li>\n<li>Ask about delinquent amounts and advertising costs if the account passed April 1.</li>\n<li>Check for recorded liens at the Clerk before setting a closing date.</li>\n<li>Tell the closing agent about installment payments already made.</li>\n</ul>\n<p>Cash buyers can schedule a closing ahead of a delinquency or certificate sale date, and the title company pays the tax out of your proceeds.</p>"
+   "h2": "What should a Jackson County seller line up before closing?",
+   "html": "<p>Obtain a written payoff from the tax collector and note which year it covers. The title company then splits the current year across buyer and seller. Florida's deed stamp tax is 70 cents per $100 of consideration, and each party named on the deed can be liable.</p>\n<ul>\n<li>Pull up the account by tax year in the collector's portal to see if older years remain open.</li>\n<li>Ask about advertising costs and penalties if the account passed April 1.</li>\n<li>Search the Clerk's records for recorded liens before choosing a closing date.</li>\n<li>Give the closing agent your installment history.</li>\n</ul>\n<p>A cash purchase can be scheduled before a delinquency or certificate sale date, and the title company pays the tax from your proceeds.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the due date for Jackson County property tax?",
-   "a": "The gross amount must be paid by March 31, while discounts of 4%, 3%, 2% and 1% apply for November through February."
+   "q": "When is the last day to pay Jackson County property tax at the gross amount?",
+   "a": "March 31. Discounts of 4%, 3%, 2% and 1% apply for payments in November, December, January and February."
   },
   {
-   "q": "What penalty applies after April 1 in Jackson County?",
-   "a": "A 3% penalty is added to unpaid real property tax on April 1. Tangible personal property instead carries 1.5% interest per month."
+   "q": "What penalty hits an unpaid Jackson County bill on April 1?",
+   "a": "Real property gets a 3% penalty on the gross amount. Business equipment gets 1.5% interest per month instead."
   },
   {
-   "q": "When is the Jackson County tax certificate sale?",
-   "a": "The tax collector sets the date in March, before the April 1 delinquency date. Check the collector's announcements for the current year."
+   "q": "When does Jackson County hold its tax certificate sale?",
+   "a": "The collector fixes the date in March, ahead of the April 1 delinquency date. Look at the collector's announcements for the exact day."
   },
   {
-   "q": "Can I pay Jackson County taxes in installments?",
-   "a": "Yes. Apply by April 30 for next year's plan, then pay in June, September, December and March. Confirm the June due date with the office."
+   "q": "Does Jackson County allow installment payments?",
+   "a": "Yes. Applications for the next year's plan are due April 30, with payments in June, September, December and March. Confirm the June due date with the office."
   },
   {
-   "q": "Does a sale of my Jackson County house reset my property tax?",
-   "a": "For the buyer, yes. A change of ownership ends the Save Our Homes cap and the 10 percent non-homestead limit, and the property is reassessed at just value the following January 1."
+   "q": "Will selling raise the next owner's Jackson County bill?",
+   "a": "Usually. The sale ends the Save Our Homes cap and the 10 percent limit, and the property resets to just value the next January 1."
   }
  ],
  "sources": [
