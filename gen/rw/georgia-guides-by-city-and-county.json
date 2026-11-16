@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What should a Georgia home seller know before listing?",
-   "html": "<p>A Georgia sale touches a county tax commissioner, a board of tax assessors, a clerk of superior court and, for troubled properties, the courts. Which office matters depends on the problem, so this page maps the whole state and the guides on this site.</p>\n<p>Population gives the scale. The Census Bureau puts the state at 11,302,748 residents in mid 2025, a gain of 5.5 percent over the 2020 base, with 185.6 people per square mile counted in 2020. Its 2020 to 2024 survey figures show $303,300 as the median value of owner-occupied homes and 4,074,366 households, which is the pool of owners the county offices serve.</p>"
+   "html": "<p>A Georgia sale touches a county tax commissioner, a board of tax assessors, a clerk of superior court and, for troubled properties, the courts. Which office matters depends on the problem, so this page maps the whole state and the guides on this site.</p>\n<p>Georgia had 11,302,748 residents in mid 2025, up 5.5 percent from the 2020 base, and the 2020 to 2024 survey shows 601,304 veterans and 4,074,366 households in the state. Those households are the owners and renters served by 159 county governments.</p>"
   },
   {
    "h2": "Which Georgia numbers help a seller judge the local market?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "Which office handles which Georgia property question?",
-   "html": "<table>\n<caption>Georgia county offices and the topics they handle, per the Georgia Department of Revenue property tax FAQ and the Clerks' Cooperative Authority</caption>\n<thead><tr><th>Question</th><th>Where to ask</th><th>Rule stated by the source</th></tr></thead>\n<tbody>\n<tr><td>Paying a tax bill, tax liens, intangible recording tax</td><td>County tax commissioner</td><td>Collects county, school and state property tax</td></tr>\n<tr><td>Appeal of a value</td><td>County board of tax assessors</td><td>Written appeal within 45 days of the notice mailing date</td></tr>\n<tr><td>Homestead exemption</td><td>Tax commissioner or tax assessor, depending on the county</td><td>State exemption for owner-occupied primary residences</td></tr>\n<tr><td>Real estate transfer tax</td><td>Clerk of superior court</td><td>Paid before the deed is recorded, by the seller unless the contract differs</td></tr>\n<tr><td>Foreclosure sale</td><td>County courthouse steps</td><td>Courthouse steps on the first Tuesday of the month</td></tr>\n<tr><td>Eviction case</td><td>Magistrate court, usually</td><td>Tenant answers within seven days of service</td></tr>\n</tbody>\n</table>"
+   "html": "<table>\n<caption>Georgia county offices and the topics they handle, per the Georgia Department of Revenue property tax FAQ and the Clerks' Cooperative Authority</caption>\n<thead><tr><th>Question</th><th>Where to ask</th><th>Rule stated by the source</th></tr></thead>\n<tbody>\n<tr><td>Paying a tax bill, tax liens, intangible recording tax</td><td>County tax commissioner</td><td>One bill covering county, school and state levies</td></tr>\n<tr><td>Appeal of a value</td><td>County board of tax assessors</td><td>Written appeal on the uniform state form</td></tr>\n<tr><td>Homestead exemption</td><td>Tax commissioner or tax assessor, depending on the county</td><td>Primary residences qualify; some counties add more relief</td></tr>\n<tr><td>Real estate transfer tax</td><td>Clerk of superior court</td><td>Clerk certifies payment first; seller pays by default</td></tr>\n<tr><td>Foreclosure sale</td><td>County courthouse steps</td><td>Public auction at the courthouse once a month</td></tr>\n<tr><td>Eviction case</td><td>Magistrate court, usually</td><td>Tenant answers within seven days of service</td></tr>\n</tbody>\n</table>"
   },
   {
    "h2": "How is Georgia property tax set, and who gets the bill?",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "What is the route for contesting a Georgia assessed value?",
-   "html": "<p>Disputes start at the county board of tax assessors, in writing, inside 45 days of the mailing date shown on the notice. Mailing the form to the state revenue agency accomplishes nothing because that agency cannot change a local value. The grounds can be taxability, value, uniformity or a denied exemption, and the state publishes the PT-311A form for the purpose.</p>\n<p>The form asks the owner to choose one of three paths.</p>\n<ul>\n<li>Board of Equalization: a hearing is scheduled and the board rules when it ends</li>\n<li>Hearing officer: a certified appraiser, offered only for non-homestead real property worth more than $500,000</li>\n<li>Arbitrator: the owner supplies a certified appraisal, and the side whose number lands farther from the arbitrator's finding pays the fees</li>\n</ul>\n<p>Superior court is the last stop. Notice goes to the assessors after the first-level ruling, and the court will not hear the case until tax has been paid at the prior-year level.</p>"
+   "html": "<p>Disputes begin in writing at the county assessors, and a late filing forfeits the dispute, so mark the mailing date on the notice the day it arrives. The state revenue agency does not rule on individual parcels, which is why a form mailed there goes nowhere.</p>\n<ul>\n<li>A Board of Equalization hearing is the usual path for a homeowner</li>\n<li>A hearing officer is reserved for costly non-homestead property</li>\n<li>Arbitration needs an appraisal from a certified appraiser, and fee responsibility follows whose number is closer</li>\n</ul>\n<p>After any of those, superior court is the last stop. Our county guides give the local assessor contact for the first filing.</p>"
   },
   {
    "h2": "What happens to property tax when the house sells?",
@@ -28,6 +28,10 @@
   {
    "h2": "What do Georgia foreclosure and eviction rules mean for sellers?",
    "html": "<p>Lenders in Georgia auction homes without a lawsuit. The borrower gets a certified or overnight letter no later than a month before the sale, and the auction runs on the first Tuesday at the county courthouse. Atlanta Legal Aid lists a pay-off sale ahead of that date as one way out, which makes timing the central issue for an owner in default. Our foreclosure guide goes through each step.</p>\n<p>Landlords go through the magistrate courts rather than changing locks. Tenants answer court papers within a week of service, and a seller handing a rented house to a buyer must pass the tenant's deposit along or refund it. The eviction notice and eviction process guides on this site cover those steps one at a time.</p>"
+  },
+  {
+   "h2": "Where can Georgia owners and tenants find free legal help?",
+   "html": "<p>Two nonprofit programs run the GeorgiaLegalAid.org site, Atlanta Legal Aid Society and the Georgia Legal Services Program, and the site carries plain-language guides on foreclosure and landlord and tenant problems. Atlanta Legal Aid keeps offices in Fulton, DeKalb, Cobb, South Fulton and Clayton, and Gwinnett, and the Attorney General's page sends residents of every other county to the Georgia Legal Services Program.</p>\n<p>The Georgia Courts website also hosts a landlord and tenant self-help page, with links to magistrate court forms. Owners facing a sale date or tenants served with papers should contact one of these programs early, because the answer deadline after service is only seven days.</p>"
   },
   {
    "h2": "Where do the city and county guides fit in?",

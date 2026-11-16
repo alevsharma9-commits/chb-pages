@@ -1,61 +1,77 @@
 {
-  "slug": "georgia-squatters-rights-adverse-possession",
-  "sections": [
-    {
-      "h2": "Is squatting a crime in Georgia?",
-      "html": "<p>Yes. The Georgia Squatter Reform Act, House Bill 1017 of the 2024 session, created O.C.G.A. 16-7-21.1. A person commits unlawful squatting by entering the land or premises of another and residing there for any period of time, knowing the owner, rightful occupant or an authorized representative has not consented.</p><p>The statute defines residing simply as inhabiting or living on or within the land or premises. The offense is a misdemeanor punished under 17-10-3. The Act took effect when the governor approved it.</p><p>The same bill also changed the magistrate court's reach. The magistrate court may now try unlawful squatting violations and hear the owner's intruder proceedings under Code Sections 44-11-30 through 44-11-33.</p>"
-    },
-    {
-      "h2": "What can an accused squatter do to avoid arrest?",
-      "html": "<p>Show paperwork. Anyone accused receives a citation telling them to present, within three business days, properly executed documentation authorizing their entry. The head of the issuing law enforcement agency, or a designee, is the person who receives it.</p><p>The statute names examples of acceptable documents: a properly executed lease or rental agreement, or proof of rental payments. A person who cannot produce anything is subject to arrest.</p><p>A person who does submit documents gets a hearing within seven days. If the court finds the documents were not properly executed or have no merit, that person can be subject to removal, arrest and penalties under 16-9-1 and 16-9-2, and an additional fine based on the fair market monthly rent of the property. Those two code sections concern forged or fraudulent documents, which is why fake leases are the target.</p>"
-    },
-    {
-      "h2": "How does an owner remove someone from a Georgia property?",
-      "html": "<p>The owner, an agent, or an attorney in fact signs an affidavit before an officer authorized to administer oaths. The affidavit says the owner claims possession in good faith and that a named person has no good faith claim and still refuses to leave. It goes to the sheriff or a deputy, constable, marshal, or another person certified by the Georgia Peace Officer Standards and Training Council in the county where the land lies.</p><ul><li>The officer exhibits the affidavit to the occupant at the earliest possible day.</li><li>Three days after the affidavit was exhibited, the officer turns the occupant out of possession.</li><li>The occupant may instead hand over a counteraffidavit claiming a good faith legal right to possession, and the officer may administer that oath.</li><li>With a counteraffidavit, neither party is moved. Both affidavits go to the court clerk for a nonjury trial in magistrate court.</li><li>If the court finds the counteraffidavit not meritorious by a preponderance of the evidence, the occupant is turned out under a writ of possession as soon as practicable.</li><li>The court may award the plaintiff fair market rent for the length of the occupancy and other relief it finds appropriate.</li></ul><p>Forms and filing details are handled by the magistrate court clerk in your county, so ask that office what it needs. A Georgia attorney can help when facts are disputed, such as a claimed oral lease.</p>"
-    },
-    {
-      "h2": "How long must someone occupy land before claiming it?",
-      "html": "<p>Twenty years in ordinary cases, or seven years when the possessor holds color of title. The Georgia Department of Revenue course text cites O.C.G.A. 44-5-163 for twenty years and 44-5-164 for seven years, and explains that color of title means a flawed written document, such as a deed from someone who lacked authority to convey.</p><p>Time alone does not do it. The Georgia consumer education office lists the elements: actual possession, open and notorious possession, exclusive possession, an uninterrupted period for the entire time the law requires, and a claim of right. It adds that trimming the hedges on a neglected lot next door does not give anyone ownership.</p><p>Possession must also be without the true owner's permission, according to the Department of Revenue, and it names government land as traditionally immune from adverse possession. Someone who occupies with the owner's consent, such as a tenant, is not in adverse possession, since consent defeats the claim.</p>"
-    },
-    {
-      "h2": "How do the main situations compare?",
-      "html": "<p>The table below sets the criminal rule, the removal procedure, and the ownership doctrine side by side. They answer different questions and can overlap in a single dispute.</p><table><caption>Georgia squatting, removal and adverse possession rules by source</caption><thead><tr><th>Question</th><th>Georgia rule</th><th>Source</th></tr></thead><tbody><tr><td>Is residing without consent an offense?</td><td>Yes, a misdemeanor under 16-7-21.1</td><td>House Bill 1017 as passed</td></tr><tr><td>How fast must an accused person show documents?</td><td>Within three business days of the citation</td><td>House Bill 1017 as passed</td></tr><tr><td>When can an officer remove an intruder?</td><td>Three days after the affidavit is exhibited, absent a counteraffidavit</td><td>44-11-30 as revised by House Bill 1017</td></tr><tr><td>Years to claim title without a deed</td><td>Twenty years</td><td>44-5-163 in the Department of Revenue course text</td></tr><tr><td>Years to claim title with color of title</td><td>Seven years</td><td>44-5-164 in the Department of Revenue course text</td></tr></tbody></table>"
-    },
-    {
-      "h2": "Can a person who has held the land for years prove ownership?",
-      "html": "<p>Not simply by saying so. The Department of Revenue course text notes that, apart from color of title, an adverse possessor holds no written proof of ownership, and one who tries to sell will probably have difficulty establishing title. The usual route is a quiet title action in which the possessor asks a court to declare ownership, backed by affidavits or witnesses on the length and nature of possession. A judgment can then support later sales.</p><p>For an owner, that means a long-running occupation of part of your land, a fence line or an abandoned strip, is worth addressing early. Written permission, a recorded survey, and a conversation with a Georgia attorney protect your title before the period matures.</p>"
-    },
-    {
-      "h2": "What should a Georgia owner with an unwanted occupant do before selling?",
-      "html": "<p>Start with the paper trail. Gather the deed, any lease or rent receipts, and written notices you sent, because the squatting statute turns on what documents the occupant can produce.</p><p>Then decide the route. If the person entered without any permission, the affidavit and removal procedure above, or a report to law enforcement under the unlawful squatting offense, may fit. If the person once had a lease or paid rent, the facts look more like a tenancy, and the Georgia landlord and eviction rules apply instead. Our <a href=\"/georgia-landlord-tenant-law-tenant-rights/\">landlord tenant guide</a> and <a href=\"/georgia-eviction-notice/\">eviction notice guide</a> cover that path.</p><p>Buyers and title companies want a clear occupancy before closing, so removal of the occupant is normally a condition of any sale of the house.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Can a squatter take ownership of my Georgia house?",
-      "a": "Only by meeting every element of adverse possession for the full period: twenty years, or seven years with color of title. The possession must be open, exclusive, uninterrupted, hostile to the owner and under a claim of right."
-    },
-    {
-      "q": "How quickly can a squatter be removed in Georgia?",
-      "a": "Three days after the sheriff or other certified officer shows the owner's affidavit to the occupant, unless the occupant files a counteraffidavit. A counteraffidavit sends the dispute to a nonjury magistrate court trial."
-    },
-    {
-      "q": "What documents can an accused squatter use?",
-      "a": "The statute names a properly executed lease or rental agreement or proof of rental payments, presented within three business days of the citation. If the documents are submitted, a hearing is set within seven days."
-    },
-    {
-      "q": "Does the owner recover rent from a squatter?",
-      "a": "Possibly. If the court finds the counteraffidavit not meritorious, it may award fair market rent for the duration of the occupancy and other monetary relief, and a false-document finding can add a fine based on monthly fair market rent."
-    },
-    {
-      "q": "Does a quitclaim deed give someone ownership after seven years?",
-      "a": "Georgia.gov says that is no longer so simple, and more documentation than the deed is required. Seven years applies only when the possessor holds color of title and meets every possession requirement."
-    }
-  ],
-  "sources": [
-    {"title": "House Bill 1017, Georgia Squatter Reform Act (as passed), Governor's 2024 signed legislation", "url": "https://gov.georgia.gov/document/2024-signed-legislation/hb-1017/download"},
-    {"title": "Does maintaining a neglected property give me ownership rights?, Georgia Governor's Office of Consumer Protection", "url": "https://consumered.georgia.gov/ask-ed/2012-07-10/does-maintaining-neglected-property-give-me-ownership-rights"},
-    {"title": "Deed Fundamentals course text (O.C.G.A. 44-5-163 and 44-5-164), Georgia Department of Revenue", "url": "https://dor.georgia.gov/document/document/deed-fundamentals/download"},
-    {"title": "Transfer Property with a Quit Claim Deed, Georgia.gov", "url": "https://georgia.gov/transfer-property-quit-claim-deed"}
-  ]
+ "slug": "georgia-squatters-rights-adverse-possession",
+ "sections": [
+  {
+   "h2": "Is squatting a crime in Georgia?",
+   "html": "<p>Yes. The Georgia Squatter Reform Act, House Bill 1017 of the 2024 session, created O.C.G.A. 16-7-21.1. A person commits unlawful squatting by entering the land or premises of another and residing there for any period of time, knowing the owner, rightful occupant or an authorized representative has not consented.</p><p>The statute defines residing simply as inhabiting or living on or within the land or premises. The offense is a misdemeanor punished under 17-10-3. The Act took effect when the governor approved it.</p><p>The same bill also changed the magistrate court's reach. The magistrate court may now try unlawful squatting violations and hear the owner's intruder proceedings under Code Sections 44-11-30 through 44-11-33.</p>"
+  },
+  {
+   "h2": "What can an accused squatter do to avoid arrest?",
+   "html": "<p>Show paperwork. Anyone accused receives a citation telling them to present, within three business days, properly executed documentation authorizing their entry. The head of the issuing law enforcement agency, or a designee, is the person who receives it.</p><p>The statute names examples of acceptable documents: a properly executed lease or rental agreement, or proof of rental payments. A person who cannot produce anything is subject to arrest.</p><p>A person who does submit documents gets a hearing within seven days. If the court finds the documents were not properly executed or have no merit, that person can be subject to removal, arrest and penalties under 16-9-1 and 16-9-2, and an additional fine based on the fair market monthly rent of the property.</p>"
+  },
+  {
+   "h2": "Who handles a squatting case, police or a court?",
+   "html": "<p>Both play a part. Law enforcement issues the citation that starts the three business day clock, and the head of that agency or a designee receives the occupant's documents. The courts take over if the paperwork is challenged: the bill gives the magistrate court authority to try unlawful squatting violations and to run the owner's intruder proceedings.</p><p>The bill's title also says proceedings on a writ of possession are not required to be jury trials. For an owner, the practical effect is a faster, more local forum than a full civil suit, since the magistrate court sits in the county where the property is.</p>"
+  },
+  {
+   "h2": "How does an owner remove someone from a Georgia property?",
+   "html": "<p>The owner, an agent, or an attorney in fact signs an affidavit before an officer authorized to administer oaths. The affidavit says the owner claims possession in good faith and that a named person has no good faith claim and still refuses to leave. It goes to the sheriff or a deputy, constable, marshal, or another person certified by the Georgia Peace Officer Standards and Training Council in the county where the land lies.</p><ul><li>The officer exhibits the affidavit to the occupant at the earliest possible day.</li><li>Three days after the affidavit was exhibited, the officer turns the occupant out of possession.</li><li>The occupant may instead hand over a counteraffidavit claiming a good faith legal right to possession, and the officer may administer that oath.</li><li>With a counteraffidavit, neither party is moved. Both affidavits go to the court clerk for a nonjury trial in magistrate court.</li><li>If the court finds the counteraffidavit not meritorious by a preponderance of the evidence, the occupant is turned out under a writ of possession as soon as practicable.</li><li>The court may award the plaintiff fair market rent for the length of the occupancy and other relief it finds appropriate.</li></ul><p>Forms and filing details are handled by the magistrate court clerk in your county, so ask that office what it needs. A Georgia attorney can help when facts are disputed, such as a claimed oral lease.</p>"
+  },
+  {
+   "h2": "How long must someone occupy land before claiming it?",
+   "html": "<p>Twenty years in ordinary cases, or seven years when the possessor holds color of title. The Georgia Department of Revenue course text cites O.C.G.A. 44-5-163 for twenty years and 44-5-164 for seven years, and explains that color of title means a flawed written document, such as a deed from someone who lacked authority to convey.</p><p>Time alone does not do it. The Georgia consumer education office lists the elements: actual possession, open and notorious possession, exclusive possession, an uninterrupted period for the entire time the law requires, and a claim of right. It adds that trimming the hedges on a neglected lot next door does not give anyone ownership.</p><p>Possession must also be without the true owner's permission, according to the Department of Revenue, and it names government land as traditionally immune from adverse possession. Someone who occupies with the owner's consent, such as a tenant, is not in adverse possession, since consent defeats the claim.</p>"
+  },
+  {
+   "h2": "How do the main situations compare?",
+   "html": "<p>The table below sets the criminal rule, the removal procedure, and the ownership doctrine side by side. They answer different questions and can overlap in a single dispute.</p><table><caption>Georgia squatting, removal and adverse possession rules by source</caption><thead><tr><th>Question</th><th>Georgia rule</th><th>Source</th></tr></thead><tbody><tr><td>Is residing without consent an offense?</td><td>Yes, a misdemeanor under 16-7-21.1</td><td>House Bill 1017 as passed</td></tr><tr><td>How fast must an accused person show documents?</td><td>Within three business days of the citation</td><td>House Bill 1017 as passed</td></tr><tr><td>When can an officer remove an intruder?</td><td>Three days after the affidavit is exhibited, absent a counteraffidavit</td><td>44-11-30 as revised by House Bill 1017</td></tr><tr><td>Years to claim title without a deed</td><td>Twenty years</td><td>44-5-163 in the Department of Revenue course text</td></tr><tr><td>Years to claim title with color of title</td><td>Seven years</td><td>44-5-164 in the Department of Revenue course text</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Can a person who has held the land for years prove ownership?",
+   "html": "<p>Not simply by saying so. The Department of Revenue course text notes that, apart from color of title, an adverse possessor holds no written proof of ownership, and one who tries to sell will probably have difficulty establishing title. The usual route is a quiet title action in which the possessor asks a court to declare ownership, backed by affidavits or witnesses on the length and nature of possession. A judgment can then support later sales.</p><p>For an owner, that means a long-running occupation of part of your land, a fence line or an abandoned strip, is worth addressing early. Written permission, a recorded survey, and a conversation with a Georgia attorney protect your title before the period matures.</p>"
+  },
+  {
+   "h2": "What should a Georgia owner with an unwanted occupant do before selling?",
+   "html": "<p>Start with the paper trail. Gather the deed, any lease or rent receipts, and written notices you sent, because the squatting statute turns on what documents the occupant can produce.</p><p>Then decide the route. If the person entered without any permission, the affidavit and removal procedure above, or a report to law enforcement under the unlawful squatting offense, may fit. If the person once had a lease or paid rent, the facts look more like a tenancy, and the Georgia landlord and eviction rules apply instead. Our <a href=\"/georgia-landlord-tenant-law-tenant-rights/\">landlord tenant guide</a> and <a href=\"/georgia-eviction-notice/\">eviction notice guide</a> cover that path.</p><p>Buyers and title companies want a clear occupancy before closing, so removal of the occupant is normally a condition of any sale of the house.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can a squatter take ownership of my Georgia house?",
+   "a": "Only by meeting every element of adverse possession for the full period: twenty years, or seven years with color of title. The possession must be open, exclusive, uninterrupted, hostile to the owner and under a claim of right."
+  },
+  {
+   "q": "How quickly can a squatter be removed in Georgia?",
+   "a": "Three days after the sheriff or other certified officer shows the owner's affidavit to the occupant, unless the occupant files a counteraffidavit. A counteraffidavit sends the dispute to a nonjury magistrate court trial."
+  },
+  {
+   "q": "What documents can an accused squatter use?",
+   "a": "The statute names a properly executed lease or rental agreement or proof of rental payments, presented within three business days of the citation. If the documents are submitted, a hearing is set within seven days."
+  },
+  {
+   "q": "Does the owner recover rent from a squatter?",
+   "a": "Possibly. If the court finds the counteraffidavit not meritorious, it may award fair market rent for the duration of the occupancy and other monetary relief, and a person whose submitted documents fail at the seven day hearing can face an added fine based on monthly fair market rent."
+  },
+  {
+   "q": "Does a quitclaim deed give someone ownership after seven years?",
+   "a": "Georgia.gov says that is no longer so simple, and more documentation than the deed is required. Seven years applies only when the possessor holds color of title and meets every possession requirement."
+  }
+ ],
+ "sources": [
+  {
+   "title": "House Bill 1017, Georgia Squatter Reform Act (as passed), Governor's 2024 signed legislation",
+   "url": "https://gov.georgia.gov/document/2024-signed-legislation/hb-1017/download"
+  },
+  {
+   "title": "Does maintaining a neglected property give me ownership rights?, Consumer Ed, Georgia state consumer education page",
+   "url": "https://consumered.georgia.gov/ask-ed/2012-07-10/does-maintaining-neglected-property-give-me-ownership-rights"
+  },
+  {
+   "title": "Deed Fundamentals course text (O.C.G.A. 44-5-163 and 44-5-164), Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/document/document/deed-fundamentals/download"
+  },
+  {
+   "title": "Transfer Property with a Quit Claim Deed, Georgia.gov",
+   "url": "https://georgia.gov/transfer-property-quit-claim-deed"
+  }
+ ]
 }
