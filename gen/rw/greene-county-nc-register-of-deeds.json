@@ -2,40 +2,44 @@
  "slug": "greene-county-nc-register-of-deeds",
  "sections": [
   {
-   "h2": "Where do I file a deed for Greene County land?",
-   "html": "<p>File it at the Greene County Courthouse, 301 N. Greene Street, Snow Hill, NC 28580. The counter is staffed from 8:00 AM until 5:00 PM on weekdays, holidays excepted, and the phone is 252-747-3620. Letters go to PO Box 86.</p>\n<p>The register of deeds describes the office as custodian of the county's real estate papers and vital records. On the land side it handles deeds, deeds of trust, maps, easements, leases, assignments and UCC fixture filings tied to real property. Notary commissions are logged there, and the office swears in notaries who reside in the county.</p>\n<p>The county's rate page names three towns, Hookerton, Snow Hill and Walstonburg, and land in any of them is recorded at this single office.</p>"
+   "h2": "Where to file a deed for Greene County land",
+   "html": "<p>Take the deed to the Greene County Courthouse, 301 N. Greene Street, Snow Hill, NC 28580. The counter is staffed weekdays from 8:00 AM to 5:00 PM except holidays. Call 252-747-3620, or write to PO Box 86.</p><p>The register of deeds keeps the county's real estate papers and vital records. On the land side that means deeds, deeds of trust, maps, easements, leases, assignments and UCC fixture filings tied to real property. Notary commissions are logged here too, and the office swears in notaries who live in the county.</p><p>Hookerton, Snow Hill and Walstonburg are the county's three towns. Land in any of them is recorded at this one office.</p>"
   },
   {
-   "h2": "Why does Greene County want a tax form before it records a deed?",
-   "html": "<p>The county ties recording to its tax records. Every deed submitted must carry a form signed off by the Greene County Tax Office, which the register of deeds' page calls the Deed Information form.</p>\n<ul><li>Who is giving and who is receiving the property, with addresses.</li><li>The street address and legal description, and buildings if the deed splits a parcel.</li><li>Any personal property that moves with the land, such as a mobile home.</li><li>Whether deferred tax value is involved, and how the two parties are related if so.</li><li>Unpaid prior-year tax and the current-year figure, filled in by the tax office.</li></ul>\n<p>The tax office also marks the document as a transfer, a split or a merge and assigns the parcel number. Instructions on the reverse of the form cover deeds where delinquent taxes exist, so phone the tax office at 252-747-3615 before heading to the courthouse if you owe back tax on the parcel.</p>"
+   "h2": "The tax form required before recording",
+   "html": "<p>Greene ties recording to its tax records. Each deed must carry the Deed Information form, signed off by the Greene County Tax Office, before the register will take it.</p><ul><li>Who is giving and who is receiving the property, with addresses.</li><li>The street address and legal description, plus buildings if the deed splits a parcel.</li><li>Any personal property that moves with the land, such as a mobile home.</li><li>Whether deferred tax value is involved, and how the two parties are related if so.</li><li>Unpaid prior-year tax and the current-year figure, filled in by the tax office.</li></ul><p>The tax office also marks the document as a transfer, a split or a merge and assigns the parcel number. The back of the form has instructions for deeds where delinquent taxes exist. If you owe back tax on the parcel, phone the tax office at 252-747-3615 before you head to the courthouse.</p>"
   },
   {
-   "h2": "Can a Greene County deed be e-recorded?",
-   "html": "<p>Yes, for nearly every deed. The office accepts electronic recording for all instruments except maps and highway rights-of-way, so a closing attorney can file from a distance.</p>\n<p>The one difference involves the tax form. For electronic filings, the county says its tax office only approves Deed Information sheets inside the e-recording platform and asks filers not to deliver anything to the tax office by hand or mail. Paper filers get the signature first, then bring the packet to Snow Hill.</p>\n<p>Index searches run from 1875 to the present on a site run by Courthouse Computer Systems. The register of deeds moved to that system in December 2025, and staff take questions at 252-747-3620.</p>"
+   "h2": "E-recording",
+   "html": "<p>Almost every deed can be filed electronically. Only maps and highway rights-of-way are excluded, so a closing attorney can file from a distance.</p><p>The tax form works differently online. For electronic filings, the tax office approves Deed Information sheets inside the e-recording platform, and filers should not deliver anything to the tax office by hand or mail. Paper filers get the signature first and then bring the packet to Snow Hill.</p><p>Index searches cover 1875 to the present on a site run by Courthouse Computer Systems. The office moved to that system in December 2025, and staff take questions at 252-747-3620.</p>"
   },
   {
-   "h2": "What will the state fee schedule cost on a Greene County filing?",
-   "html": "<p>The charges come from G.S. 161-10 and are uniform statewide. A general instrument is $26.00 for its first 15 pages, a deed of trust is $64.00 for its first 35, and each extra page after those thresholds adds $4.00.</p>\n<p>Recording a satisfaction of a deed of trust costs nothing, and plats run $21.00 a sheet. Items outside land records are priced separately by the county: a certified birth, death or marriage copy is $10.00 in cash, and a marriage license is $60, cash only.</p>"
+   "h2": "Recording fees",
+   "html": "<p>Charges come from G.S. 161-10 and are the same statewide. A general instrument is $26.00 for its first 15 pages, and a deed of trust is $64.00 for its first 35. Every page past those points adds $4.00.</p><p>Recording a satisfaction of a deed of trust is free, and plats run $21.00 a sheet. Other items are priced separately by the county: a certified birth, death or marriage copy is $10.00 in cash, and a marriage license is $60, cash only.</p>"
   },
   {
-   "h2": "Who owes the excise tax when a Greene County house is sold?",
-   "html": "<p>The seller does. The state levies $1.00 for each $500 of consideration or value, with a partial $500 counted whole (G.S. 105-228.30), and the transferor settles it with the register of deeds before the deed is filed.</p>\n<p>The money is split between the county general fund and the state. Since the tax tracks the amount stated in the deed, check that figure against the sale contract. A deed bounced for a missing tax form or a wrong amount is not effective against later buyers and lien creditors until it is properly registered, according to G.S. 47-18.</p>"
+   "h2": "Who pays the excise tax?",
+   "html": "<p>The seller does. The state charges $1.00 for each $500 of consideration or value, counting a partial $500 as whole (G.S. 105-228.30). The transferor pays the register of deeds before the deed is filed.</p><p>The money is split between the county general fund and the state. The tax follows the amount stated in the deed, so compare that figure to your sale contract. A deed bounced for a missing tax form or a wrong amount is not effective against later buyers and lien creditors until it is properly registered (G.S. 47-18).</p>"
   },
   {
-   "h2": "What do Greene County tax rates and fees look like?",
-   "html": "<p>The tax department's 2026 page lists a county rate of $0.7835 per $100, with town and fire district charges stacked on top. The tax office is at 229 Kingold Boulevard, Suite B, Snow Hill (PO Box 482), phone 252-747-3615, open 8:30 AM to 5:00 PM on weekdays.</p>\n<table><caption>Greene County 2026 rates and fees as the county prints them (https://greenecountync.gov/departments/tax/tax-rates/)</caption><thead><tr><th>Item</th><th>Rate or fee as printed</th></tr></thead><tbody>\n<tr><td>County rate</td><td>$0.7835</td></tr><tr><td>Town of Hookerton</td><td>$0.465</td></tr><tr><td>Town of Snow Hill</td><td>$0.340 (sticker fee $5.00)</td></tr><tr><td>Town of Walstonburg</td><td>$0.500 (sticker fee $2.00)</td></tr><tr><td>Solid waste fee, countywide</td><td>$130.00</td></tr><tr><td>Solid waste fee, city</td><td>$65.00</td></tr></tbody></table>\n<p>Eleven fire districts are listed, from Arba at $0.0700 to Fort Run at $0.1220, and a Middle Swamp service district shows $0.0910. Owners who hold mobile homes, boats, aircraft or unlicensed vehicles on January 1 must list them during January, and a late listing draws a ten percent penalty.</p>"
+   "h2": "Greene County tax rates and fees",
+   "html": "<p>The county's 2026 rate is $0.7835 per $100 of value, with town and fire district charges stacked on top. The tax office is at 229 Kingold Boulevard, Suite B, Snow Hill (PO Box 482), phone 252-747-3615, open 8:30 AM to 5:00 PM on weekdays.</p><table><caption>Greene County 2026 rates and fees</caption><thead><tr><th>Jurisdiction or fee</th><th>Rate or amount</th></tr></thead><tbody><tr><td>County rate</td><td>$0.7835</td></tr><tr><td>Town of Hookerton</td><td>$0.465</td></tr><tr><td>Town of Snow Hill</td><td>$0.340 (sticker fee $5.00)</td></tr><tr><td>Town of Walstonburg</td><td>$0.500 (sticker fee $2.00)</td></tr><tr><td>Solid waste fee, countywide</td><td>$130.00</td></tr><tr><td>Solid waste fee, city</td><td>$65.00</td></tr></tbody></table><p>Eleven fire districts are listed, from Arba at $0.0700 to Fort Run at $0.1220, and a Middle Swamp service district shows $0.0910. If you hold mobile homes, boats, aircraft or unlicensed vehicles on January 1, list them during January. A late listing draws a ten percent penalty.</p>"
   },
   {
-   "h2": "What else does the Greene County Register of Deeds handle besides deeds?",
-   "html": "<p>Vital records and licenses take up much of the counter. A certified birth, death or marriage copy costs $10.00 in cash when requested in person with a photo ID issued by the DMV.</p>\n<ul><li>By mail: send the signed application, a copy of your state photo ID, a $10.00 money order payable to the Greene County Register of Deeds (personal checks are refused) and a stamped return envelope to PO Box 86, Snow Hill, NC 28580.</li><li>Marriage license: each applicant 18 or older needs a certified birth certificate, a state photo ID or a passport for non-residents, a Social Security card, and a divorce decree or a spouse's death certificate if previously married. The fee is $60, cash only, and licenses are issued between 9:00 AM and 4:00 PM.</li><li>Licenses go back to the county that issued them, wherever the wedding takes place.</li></ul>\n<p>The office also offers a Thank-A-Vet program, an assumed business name filing, and a link for protection from property and mortgage fraud on its main page.</p>"
+   "h2": "Vital records and licenses",
+   "html": "<p>Vital records and licenses take up much of the counter. A certified birth, death or marriage copy costs $10.00 in cash when you ask in person with a photo ID issued by the DMV.</p><ul><li>By mail: send the signed application, a copy of your state photo ID, a $10.00 money order payable to the Greene County Register of Deeds (personal checks are refused) and a stamped return envelope to PO Box 86, Snow Hill, NC 28580.</li><li>Marriage license: each applicant 18 or older needs a certified birth certificate, a state photo ID or a passport for non-residents, a Social Security card, and a divorce decree or a spouse's death certificate if previously married. The fee is $60, cash only, and licenses are issued between 9:00 AM and 4:00 PM.</li><li>Licenses go back to the county that issued them, wherever the wedding takes place.</li></ul><p>The office also runs a Thank-A-Vet program, takes assumed business name filings and links to a tool for protection from property and mortgage fraud.</p>"
   },
   {
-   "h2": "What does deferred tax mean on the Greene County deed form?",
-   "html": "<p>Item six on the county form asks whether deferred value is involved and, if so, how the grantor is related to the grantee. Item seven lists deferred taxes due by year, and the form warns that deferred taxes have not been calculated unless that section is filled in.</p>\n<p>The tax office completes the lines for prior-year and current-year tax. If your parcel carries deferred value, ask the office to calculate the amount before the deed is signed, since the form treats uncalculated deferred taxes as unknown. Sellers should not leave that question for the closing table.</p>\n<p>The form also asks for Social Security numbers but says disclosure is voluntary, based on federal law and N.C.G.S. 105-309 for tax administration.</p>"
+   "h2": "Deferred tax on the deed form",
+   "html": "<p>Item six on the form asks whether deferred value is involved and, if so, how the grantor is related to the grantee. Item seven lists deferred taxes due by year. The form warns that deferred taxes have not been calculated unless that section is filled in.</p><p>The tax office completes the prior-year and current-year lines. If your parcel carries deferred value, ask the office to calculate the amount before the deed is signed, because an uncalculated figure is treated as unknown. Do not leave that question for the closing table.</p><p>The form also asks for Social Security numbers, but disclosure is voluntary under federal law and N.C.G.S. 105-309 for tax administration.</p>"
   },
   {
-   "h2": "How large and how affordable is Greene County?",
-   "html": "<p>QuickFacts shows 20,700 residents in 2025, a 1.2% gain on the 2020 estimates base, spread across about 267 square miles of land. That averages roughly 77 residents per square mile.</p>\n<ul><li>Owner-occupied share of homes: 66.5% (2020 to 2024).</li><li>Middle value of an owner's home: $117,400.</li><li>Middle gross rent: $853.</li><li>Middle household income: $53,244.</li><li>People in poverty: 19.9%.</li><li>Housing units in 2025: 8,070.</li></ul>\n<p>The middle home value here is about half that listed for Granville County and Greensboro on the same QuickFacts table. Building permits numbered 59 in 2025. Treat these as county averages, since one farmhouse or town lot can sit far from them.</p>"
+   "h2": "Greene County housing",
+   "html": "<p>Greene County has 20,700 residents, up 1.2% from the 2020 estimates base, and 8,070 housing units. About 66.5% of homes are owner-occupied. The middle value of an owner's home is $117,400, and middle gross rent is $853. Building permits numbered 59 in 2025. Treat these as county averages, since one farmhouse or town lot can sit far from them.</p>"
+  },
+  {
+   "h2": "Getting ready to sell",
+   "html": "<p>Begin at the tax office. Ask for the current and prior-year balance and whether any deferred value attaches to the parcel, then have the Deed Information form signed. Next, make sure your attorney has the payoff letters and a fresh look at your vesting deed. At closing, the seller's excise tax is paid and the deed is recorded, usually electronically. A cash sale skips a lender's review, but the tax form and the excise tax still apply.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +49,7 @@
   },
   {
    "q": "Does the Greene County tax office sign off on deeds?",
-   "a": "Yes. The county's page states that every deed needs a tax form signed by the Tax Office. E-filers get that approval through the electronic platform."
+   "a": "Yes. Every deed needs a tax form signed by the Tax Office. E-filers get that approval through the electronic platform."
   },
   {
    "q": "How is the deed excise tax figured here?",
@@ -57,7 +61,7 @@
   },
   {
    "q": "How old are the online Greene County indexes?",
-   "a": "The county says online index searches cover 1875 through the present. The office began using a new records system in December 2025."
+   "a": "Online index searches cover 1875 through the present. The office began using a new records system in December 2025."
   }
  ],
  "sources": [
