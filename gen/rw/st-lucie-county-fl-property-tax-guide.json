@@ -2,62 +2,70 @@
  "slug": "st-lucie-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "What kind of county is St. Lucie County for a seller?",
-   "html": "<p>St. Lucie County grew from 329,226 people in April 2020 to an estimated 402,449 in July 2025, a 22.2 percent gain. Its land area is 571.66 square miles, with 575.9 residents per square mile counted in 2020.</p><p>Owners' homes were typically worth $347,300 in the 2020 to 2024 data and rent ran $1,585. Owners occupy 78.6 percent of homes, and one resident in four, 24.9 percent, is 65 or over, which makes the senior and deferral options below worth a close read.</p><table><caption>St. Lucie County figures from Census QuickFacts</caption><thead><tr><th>Indicator</th><th>Reading</th></tr></thead><tbody><tr><td>Residents, mid-2025 estimate</td><td>402,449</td></tr><tr><td>Homes counted, mid-2025</td><td>176,160</td></tr><tr><td>Typical owner home value</td><td>$347,300</td></tr><tr><td>Monthly cost for owners with no mortgage</td><td>$690</td></tr><tr><td>Household income, midpoint</td><td>$71,457</td></tr><tr><td>Permits issued in 2025</td><td>4,008</td></tr></tbody></table>"
+   "h2": "What do the Census numbers say about St. Lucie County?",
+   "html": "<p>St. Lucie County counted 277,789 residents in 2010, 329,226 in 2020 and an estimated 402,449 by mid-2025, which the Census Bureau calls a 22.2 percent rise since the 2020 base. Land area is 571.66 square miles. Roughly one resident in four is 65 or older at 24.9 percent, so age-linked tax breaks matter here more than they do in a younger county.</p><table><caption>Households and housing in St. Lucie County, Census QuickFacts</caption><thead><tr><th>Measure</th><th>Value</th></tr></thead><tbody><tr><td>Households, 2020 to 2024</td><td>137,453</td></tr><tr><td>People per household</td><td>2.60</td></tr><tr><td>Veterans, 2020 to 2024</td><td>24,969</td></tr><tr><td>Residents in the same house a year earlier</td><td>89.6%</td></tr><tr><td>Average commute, minutes</td><td>29.3</td></tr><tr><td>Building permits, 2025</td><td>4,008</td></tr></tbody></table><p>Source: <a href=\"https://www.census.gov/quickfacts/stluciecountyflorida\">Census QuickFacts, St. Lucie County</a>. With 24,969 veterans on the count and 78.6 percent of homes owner occupied, the veteran and homestead rules below reach a large share of sellers.</p>"
   },
   {
-   "h2": "Who handles property tax in St. Lucie County?",
-   "html": "<p>Three county offices matter. The Saint Lucie County Property Appraiser values property and processes exemptions; the St. Lucie County Tax Collector sends bills and takes payments; and the Clerk of the Circuit Court runs the Value Adjustment Board process and records deeds.</p><p>The property appraiser's office lists a phone line of 772-462-1000 on its TRIM notice page for questions about value or exemptions. Exemption questions belong with the appraiser, not the collector.</p>"
+   "h2": "Which St. Lucie County office answers which tax question?",
+   "html": "<p>The property appraiser's office, reachable at 772-462-1000, splits its work across four departments: appraisal, mapping, tax roll and tangible property. It values parcels, tracks ownership changes, keeps boundary maps and grants exemptions. It does not set a rate. Elected county and city officials, the school board and districts for fire, roads, port, airport and water management set those.</p><p>The tax collector, at 772-462-1650 for equipment tax questions, mails bills at the start of November and collects. The Clerk of the Court records deeds and answers copy requests at 772-462-6900. The appraiser's real estate search shows a record card, a TRIM button and a map for each parcel, which is the fastest way to check what the county has on file before you list.</p>"
   },
   {
-   "h2": "When does the St. Lucie County TRIM notice arrive, and what can an owner do with it?",
-   "html": "<p>The property appraiser mails the notice in mid-August to the owner of record of every parcel. It is an estimate rather than a bill, built from proposed millage rates, the January 1 value and any exemptions.</p><p>The notice shows three columns: last year's figures, what taxes would be if each taxing authority kept its revenue flat, and what they would be at the proposed rate. It also lists budget hearing dates and the deadline for a Value Adjustment Board petition over value, classification or an exemption. For 2026 that deadline was September 8, which has passed. Future deadlines are printed on each year's notice.</p><p>A buyer should note that the notice explains why a bill jumps after a purchase: reassessment on January 1 and removal of the prior owner's exemptions and caps.</p>"
+   "h2": "What does each column of a St. Lucie County TRIM notice show?",
+   "html": "<p>Page one of the mid-August notice compares three scenarios, and the appraiser colors them. The orange column holds last year's values and budgets, for comparison only. The blue column shows this year's tax if every taxing body raised the same dollars it did before. The green column shows the tax at each body's proposed rate, which can still shift after public hearings.</p><p>Page two lists market value for both years, then assessed value, exemptions and taxable value per taxing authority. A gray band reports reductions such as the agricultural classification, the 3 percent or 10 percent cap and any portability benefit. The notice also prints the Value Adjustment Board deadline; for 2026 the appraiser's page gave September 8. The notice is an estimate and not a bill.</p>"
   },
   {
-   "h2": "What are the St. Lucie County tax discounts and deadlines?",
-   "html": "<p>The tax collector publishes a month-by-month list. The early-payment discount shrinks from 4 percent in November to 3 percent in December, 2 percent in January and 1 percent in February, which the state revenue department prints the same way.</p><p>The collector's calendar also gives January 31 as its deadline for homestead tax deferral, while the state's general guidance names March 31 following the assessment year, so ask the St. Lucie office which date governs your application. March 1 is the deadline to file new homestead exemptions with the property appraiser.</p><ul><li>November: 4 percent discount, bills issued.</li><li>December: 3 percent.</li><li>January: 2 percent.</li><li>February: 1 percent.</li><li>April 1: unpaid taxes turn delinquent.</li></ul>"
+   "h2": "How does the appraiser get from market value to taxable value in St. Lucie County?",
+   "html": "<p>The appraiser's FAQ lays the chain out in five links.</p><ul><li>Just market value: the price signal from sales before the January 1 assessment date.</li><li>Cap: a 3 percent limit on homestead growth and a 10 percent limit for other property.</li><li>Assessed value: just value minus the cap.</li><li>Exemptions: reductions for which the owner applied and qualified.</li><li>Taxable value: assessed value minus exemptions, which is the number each millage rate multiplies.</li></ul><p>Some bill lines have nothing to do with that chain. Non ad valorem charges pay for services like lighting, landscaping, security and trash, and they do not track the value of the home.</p>"
   },
   {
-   "h2": "How does Save Our Homes affect a St. Lucie County sale?",
-   "html": "<p>The appraiser's TRIM guide explains it plainly: a property bought in a given year is reassessed and the prior owner's exemptions and caps are removed, which can lift the tax bill. For sellers, that is the reason a listing's current tax figure understates what a buyer will pay.</p><p>The Save Our Homes cap limits assessment growth on a homestead to 3 percent or the CPI change, whichever is lower, and starts accruing after the first year of homestead. The 2026 cap on the state's chart was 2.7 percent. Sellers who buy another Florida home can transfer up to $500,000 of the accumulated difference through portability, using Form DR-501T by March 1, provided the new homestead is set up within three years.</p>"
+   "h2": "Why did a St. Lucie County bill jump after a purchase?",
+   "html": "<p>The previous owner's protections do not travel with the house. Reassessment happens each January 1, and a new owner receives market value with the old exemptions and capped amount erased. The appraiser also notes that a neighbor's lower bill usually comes from a cap built up over years of homestead or from an extra exemption the neighbor holds.</p><p>The cap begins to accrue only after the first year of homestead, and only when market value is rising. A seller who is listing should warn buyers that the current tax figure on a listing can understate what the next owner pays.</p>"
   },
   {
-   "h2": "What does a St. Lucie County deed cost at closing?",
-   "html": "<p>Stamp tax runs seventy cents per $100 of price under the statute and the revenue department's page. The Miami-Dade surtax does not reach St. Lucie.</p><p>Each signer is liable, so the sale contract should pick who funds it. The fee statute sets clerk charges at $5.00 for page one and $4.00 per added page plus add-ons. Deeds in lieu of foreclosure and trustee's deeds are taxable. A personal representative's deed under a probated will is not.</p>"
+   "h2": "What happens to homestead and the cap when a St. Lucie County deed changes?",
+   "html": "<p>Homestead cannot be handed over; a new application is needed whenever title changes or a new home is established. Adding a name to the deed normally leaves the exemption alone but can cost part of the cap, depending on the tenancy.</p><ul><li>Joint tenants with survivorship who also file for homestead: the cap resets to market value and restarts the next year.</li><li>Joint tenants who do not file: the cap is left unchanged.</li><li>Tenants in common who do not file: the cap shrinks to the original owner's share, and the other share is assessed at market and then under the 10 percent limit.</li></ul><p>Inheritance follows the same logic. An heir generally cannot keep the decedent's exemption or cap, which end with the year. Two exceptions let a cap continue: a surviving spouse who files for homestead, and a legally or naturally dependent person living in the house at the death who then files. Placing a home in a trust requires the beneficial interest language of s. 196.041 on the deed or in the trust pages, and the appraiser asks for the trust if the deed lacks it.</p>"
   },
   {
-   "h2": "Which tax breaks can a St. Lucie County homeowner claim?",
-   "html": "<p>The standard homestead exemption is up to $50,000 under state law, split into a first $25,000 that covers school taxes and an added slice for non-school taxes on assessed value above $50,000. The added slice is indexed to inflation each January 1.</p><p>Beyond that, the state lists several options an owner may qualify for:</p><ul><li>An added exemption for owners 65 or older where a local ordinance allows it and household income is within the limit.</li><li>A $5,000 reduction for disabled former servicemembers rated 10 percent or more.</li><li>A homestead discount equal to the VA disability percentage for veterans 65 or older with a permanent service-connected disability.</li><li>Homestead tax deferral, with the tax collector, for taxes above a share of household income.</li></ul><p>Ask the property appraiser which of these apply to your parcel before the March 1 deadline. An owner who missed it should still call, since the notice window in August also lets the office hear exemption disputes through the Value Adjustment Board.</p>"
+   "h2": "How can a St. Lucie County seller carry the cap to a new house?",
+   "html": "<p>Portability moves the accumulated gap between market and assessed value, up to $500,000, to a new Florida homestead. The appraiser's page requires a homestead exemption on the old property in at least one of the three preceding tax years, and a new homestead established by January 1 within three tax years of abandoning the old one.</p><p>File with the new homestead application by March 1, in either office location or online. A former spouse sharing the old home must file the DR-501TS share designation first. A larger new house transfers the full amount, while a smaller one carries it over in proportion.</p>"
   },
   {
-   "h2": "What should an heir or seller who lived elsewhere check in St. Lucie County?",
-   "html": "<p>Start with whether homestead is still in place. State rules say homestead ends if the house is rented, stops being the permanent home or the owner leaves Florida as a permanent resident. Renting the home is the usual way owners lose it without noticing.</p><p>Then look at the title. A personal representative's deed under a probated will is listed as not taxable for documentary stamps, but a deed with no probate has no estate planning exception. Confirm the parcel number on the property appraiser's record card, which the appraiser's site offers through its real estate search. Finally ask the tax collector for a payoff, since taxes unpaid after April 1 can reach the certificate stage and a certificate holder may later apply for a tax deed.</p><p>These steps cost little and keep a sale of a St. Lucie County house from stalling at the closing table.</p>"
+   "h2": "What payment dates should a St. Lucie County owner circle?",
+   "html": "<p>The collector's month page gives a 2 percent discount in January for real estate and equipment tax, and January 31 as the last day to file for homestead tax deferral. That date sits earlier than the March 31 date on the state's general guidance, so confirm which applies before relying on either. November through February runs the usual 4, 3, 2 and 1 percent scale printed by the <a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">Department of Revenue</a>.</p><p>An unpaid bill turns delinquent April 1, certificates are sold by June 1, and a holder may seek a deed two years after April 1 of the issue year. A title company will ask for a certificate search, so order one early.</p>"
   },
   {
-   "h2": "What if a St. Lucie County owner is behind on taxes?",
-   "html": "<p>Delinquency starts April 1. By June 1 the collector sells certificates, and the lowest interest bid wins; unsold ones go to the county at the top rate.</p><p>Two years after April 1 of the issue year, a holder may ask for a tax deed. On a homestead the opening bid includes half the latest assessed value. A sale cannot close cleanly with a certificate outstanding, so ask the collector for a payoff.</p><ul><li>Order a certificate search through the title company.</li><li>Ask whether a homestead deferral lien exists.</li><li>Settle any delinquent balance out of the seller's payout.</li></ul>"
+   "h2": "Who owes equipment tax when a St. Lucie County business changes hands?",
+   "html": "<p>The tax follows the equipment, so the buyer and seller should check balances before closing. The appraiser's FAQ advises calling the collector on 772-462-1650 to learn whether tangible personal property tax is unpaid, and it suggests asking the closing agent to prorate.</p><p>Returns are due April 1. Late filers pay 5 percent for each month or part of a month, a missing return draws 25 percent, and unreported assets can add 15 percent. There is no minimum value, and a landlord must report furniture and appliances supplied in a rental. A thirty day extension can be requested online before April 1 with written reasons. When a business closes, the owner files a final return and an account status change form.</p>"
+  },
+  {
+   "h2": "Does agricultural land in St. Lucie County stay classified after a sale?",
+   "html": "<p>No. The appraiser states that an agricultural classification does not transfer with the land, and applications are taken between January 1 and March 1. The classification lowers value, but it is not an exemption.</p><p>Use on January 1 controls the outcome, and the appraiser inspects. Evidence includes care of the land, income and expense records, a Schedule F or C, receipts for feed, seed or fertilizer, business plans and insurance. Land used mainly for residential, development or investment purposes is not eligible, and agricultural zoning does not create the classification. Owners must report any change in use or acreage or risk losing it.</p>"
+  },
+  {
+   "h2": "What ballot item did the St. Lucie County appraiser flag for 2026?",
+   "html": "<p>The appraiser's TRIM page described a proposed constitutional amendment, labeled Amendment 3 (CS/HJR 1F), on the November 2026 general election ballot. The page said approval by at least 60 percent of voters would make it effective January 1, 2027. Check the appraiser's site for the result and what it means for a homestead, since the page did not describe the details.</p><p>Beware of mail that looks like a bill. The appraiser warns that letters from a county records office or property site are solicitations and not amounts due, and that those companies have no tie to the county. A real deed copy comes from the clerk or from the parcel's record card.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "When is the St. Lucie County homestead filing deadline?",
-   "a": "March 1 of the tax year, filed with the property appraiser. You must have owned and lived in the home as your permanent residence on January 1."
+   "q": "Is the TRIM notice a bill in St. Lucie County?",
+   "a": "No. It is an estimate built from proposed rates, January 1 value and exemptions. The tax collector sends the actual bill at the beginning of November."
   },
   {
-   "q": "Does St. Lucie County mail the tax bill in November?",
-   "a": "Yes, the tax collector issues bills in November, the month the 4 percent early-payment discount applies. A buyer or seller closing that month should ask the title agent whether the bill is paid and at what discount."
+   "q": "What is the usual homestead filing window in St. Lucie County?",
+   "a": "January 1 through March 1. The appraiser also allows pre-filing for the following year at any time, and portability is filed alongside the homestead application."
   },
   {
-   "q": "Why did my St. Lucie County taxes jump after buying?",
-   "a": "The property is reassessed to market value and the prior owner's exemptions and caps are removed, which the property appraiser's TRIM guide describes."
+   "q": "Can a St. Lucie County heir keep a parent's capped value?",
+   "a": "Generally no. A surviving spouse who files for homestead, or a dependent living in the house at the death who files, may keep it."
   },
   {
-   "q": "Who do I call in St. Lucie County about my property value?",
-   "a": "The Property Appraiser's office, which lists 772-462-1000 on its TRIM notice page."
+   "q": "Who handles deed copies in St. Lucie County?",
+   "a": "The Clerk of the Court, at 772-462-6900, or the parcel's record card on the appraiser's site. Mailed offers for copies are solicitations."
   },
   {
-   "q": "Does St. Lucie County have a deed transfer tax?",
-   "a": "Yes, Florida's documentary stamp tax at 70 cents per $100 of consideration, owed through the clerk at recording."
+   "q": "Does St. Lucie County have an early payment discount in January?",
+   "a": "Yes, 2 percent, according to the collector's month page, and the same page lists January 31 for homestead tax deferral."
   }
  ],
  "sources": [
@@ -70,48 +78,16 @@
    "url": "https://www.paslc.gov/212/Learn-More-About-TRIM-Notices"
   },
   {
+   "title": "St. Lucie County Property Appraiser, FAQ",
+   "url": "https://www.paslc.gov/FAQ.aspx"
+  },
+  {
    "title": "St. Lucie County Tax Collector, Discounts and Deadlines by Month",
    "url": "https://www.tcslc.com/203/Tax-Discounts-Deadlines-By-Month"
   },
   {
    "title": "Florida DOR Property Tax Oversight, Taxpayers",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
-  },
-  {
-   "title": "Florida DOR, Save Our Homes and portability (PT-112)",
-   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
-  },
-  {
-   "title": "Florida DOR, Save Our Homes chart",
-   "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
-  },
-  {
-   "title": "Florida DOR, Documentary stamp tax",
-   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
-  },
-  {
-   "title": "Florida DOR, Homestead exemption (PT-113)",
-   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
-  },
-  {
-   "title": "Florida DOR, Senior and veteran benefits (PT-110)",
-   "url": "https://floridarevenue.com/property/Documents/pt110.pdf"
-  },
-  {
-   "title": "Florida DOR, Veteran exemptions (PT-109)",
-   "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
-  },
-  {
-   "title": "Florida Statutes 28.24",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
-  },
-  {
-   "title": "Florida Statutes 197.432",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
-  },
-  {
-   "title": "Florida Statutes 197.502",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
   }
  ]
 }

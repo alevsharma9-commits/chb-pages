@@ -2,116 +2,96 @@
  "slug": "marion-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which Marion County offices handle your bill?",
-   "html": "<p>One office values, one bills, and one keeps the records: the appraiser, the tax collector and the clerk of court. All three work out of the Ocala area, and each has its own website.</p><ul><li><a href=\"https://www.pa.marion.fl.us/\">Marion County Property Appraiser</a>: parcel and sales search, a property tax estimator, homestead e-filing, TPP return e-filing, a page of important dates and information on the TRIM notice and the Value Adjustment Board. The office lists its address as 501 SE 25th Avenue, Ocala, with walk-ins welcome or appointments available.</li><li><a href=\"https://www.mariontax.com/property-taxes\">Marion County Tax Collector</a>: pay taxes online, search the tax roll, apply for a tax deed online, buy county-held certificates, and read about installment plans, deferred taxes and delinquent taxes. The main office is at the McPherson Complex, 503 SE 25th Avenue, Ocala, and the office runs eight locations across the county.</li><li><a href=\"https://www.marioncountyclerk.org/\">Marion County Clerk of Court and Comptroller</a>: the county recorder, the keeper of Official Records, and the office that handles tax deed sales and the Value Adjustment Board.</li></ul><p>Pick the right door before you call: value and exemptions belong to the appraiser, and amounts owed belong to the collector.</p>"
+   "h2": "Can Marion County owners pay their property tax in quarterly installments?",
+   "html": "<p>Yes, if they enroll on time. The Marion County Tax Collector's installment page wants Form DR534 on file ahead of May 1 in the year you join, and the prior year's bill has to have topped $100.</p>\n<p>Once enrolled, an owner does not reapply each year, with one catch: if the first installment is missed, the account drops out and the owner has to reapply by April 30 of a later year. Four payments follow a fixed pattern, and the first two are based on the previous year's gross tax.</p>\n<table><caption>Marion County installment schedule as printed by the Tax Collector</caption><thead><tr><th>Payment</th><th>Due</th><th>Amount</th><th>Discount</th></tr></thead><tbody>\n<tr><td>First</td><td>June 30</td><td>One quarter of last year's gross tax</td><td>6%</td></tr>\n<tr><td>Second</td><td>September 30</td><td>One quarter of last year's gross tax</td><td>4.5%</td></tr>\n<tr><td>Third</td><td>December 31</td><td>One quarter of this year's adjusted tax</td><td>3%</td></tr>\n<tr><td>Fourth</td><td>March 31</td><td>One quarter of this year's adjusted tax</td><td>None</td></tr>\n</tbody></table>\n<p>Source: <a href='https://www.mariontax.com/installment-plan'>Marion County Tax Collector, installment plan</a>.</p>\n<p>A late first payment can still be made by July 31, though without the discount. After July 31 the account reverts to ordinary annual billing.</p>\n<p>Compare that with the ordinary route. A lump sum paid in November earns 4%, and the cut falls a point each month to 1% in February. Quarterly payers collect larger percentages on early installments but pay across a whole year, so the plan suits owners who prefer smooth cash flow over one big bill. A seller weighing the plan against an upcoming listing should remember that the discounted amounts are tied to last year's bill, which can differ from what the new year's roll produces.</p>"
   },
   {
-   "h2": "When are Marion County property taxes due?",
-   "html": "<p>The tax collector's payment page lists November 1 as the due date and April 1 as the delinquency date for Marion County taxes and assessments. Florida allows a discount for early payment starting in November.</p><table><caption>Early payment discounts on the Marion County Tax Collector's payment page</caption><thead><tr><th>Month paid</th><th>Discount</th></tr></thead><tbody><tr><td>November</td><td>4%</td></tr><tr><td>December</td><td>3%</td></tr><tr><td>January</td><td>2%</td></tr><tr><td>February</td><td>1%</td></tr><tr><td>March</td><td>Gross amount, no discount</td></tr></tbody></table><p>On or after April 1 the amount you owe depends on the day the collector receives your payment, not the postmark. The office also notes that taxes are payable even if a bill never arrives, and that a mortgage company paying from escrow may request the bill and the owner then gets an informational copy. The collector's notice for 2026 states that the real estate, tangible personal property and railroad rolls opened for collection.</p>"
+   "h2": "What happens to a Marion installment plan when the house sells?",
+   "html": "<p>The plan belongs to the tax year, not to the seller. According to the collector, a property that changes hands after one or more quarterly payments must stay on the plan for that year under the new owner.</p>\n<p>So a half-paid plan travels with the house. A buyer inherits the remaining quarters, and your title company needs to see which ones were already paid. Request a payment history from the collector and pass copies to both sides.</p>\n<ul><li>Put the plan details in the disclosure packet so no one finds them at the closing table.</li><li>Check that the settlement statement credits installments you already covered.</li><li>A buyer who prefers one annual bill should ask the collector whether the account can revert.</li></ul>"
   },
   {
-   "h2": "What can Marion County homeowners do about the bill?",
-   "html": "<p>Several options exist before a bill turns delinquent. The collector's property tax menu lists an installment plan and deferred taxes, and the state describes the rules behind both.</p><ul><li>Installment plan: section 197.222 lets owners prepay and pay in installments, with May 1 as the application deadline.</li><li>Homestead deferral: Form DR-570 goes to the tax collector by March 31. Deferral covers the portion above 5 percent of last year's household income, and a permanent resident aged 65 or older may defer the part above 3 percent.</li><li>Partial payments: before the delinquency date these are at the tax collector's discretion under section 197.374.</li><li>Escrow: a lender holding escrow can request your bill, so check with your servicer before paying twice.</li></ul><p>Check with the collector on which of these still fit a parcel headed to sale, since a plan tied to the current owner may not carry to a buyer.</p>"
+   "h2": "Where do Marion County sellers go in person for tax questions?",
+   "html": "<p>The Tax Collector keeps offices around the county, each open Monday to Friday from eight to four. Tax deed and certificate questions go only to the main branch, which matters if your parcel has an old balance.</p>\n<ul><li>Main office, McPherson Complex, 503 SE 25th Avenue, Ocala.</li><li>Dunnellon, inside the Rainbow Springs Government Complex.</li><li>Belleview, in the Belleview Regional Shopping Center on U.S. 441.</li><li>Forest, at Forest Center on State Road 40 in Silver Springs.</li><li>State Road 200, at Jasmine Square in Ocala.</li><li>North, at Ocala Springs Shopping Center on U.S. 441.</li><li>Summerfield, at Spruce Creek Terrace Shops.</li><li>Ocala Annex, which serves driver license customers only.</li></ul>\n<p>The office suggests midweek visits, ideally between 9:30 and 10:30 in the morning, and warns that Mondays, Fridays and month-end days run busiest. Lobby cameras on its site show the line before you leave. The shared number is (352) 368-8200.</p>"
   },
   {
-   "h2": "What tools does the Marion County appraiser offer owners?",
-   "html": "<p>The appraiser's site lists a property tax estimator, a mortgage estimate letter request, a mailing address change form and a homestead e-file page. It also lists a form for reporting property damage and a confidential form for reporting suspected homestead fraud.</p><p>Owners who run a business or rent out a property can file a tangible personal property return electronically and request an extension. The office also posts frequently asked questions, a property taxpayer's bill of rights, reports, digital data requests and a code list. These are the first stops for an owner who wants to understand a bill before a sale.</p><ul><li>Estimator: a way to model taxes for a parcel before you commit to a price.</li><li>Mortgage estimate letter: a document lenders and buyers ask about.</li><li>Address change: keeps the TRIM notice and bill reaching you after you move.</li></ul><p>Walk-ins are welcome at the Ocala office, and appointments can be booked ahead through the website.</p>"
+   "h2": "Which Marion offices handle value, billing and records?",
+   "html": "<p>Three offices touch a Marion sale, and each owns a different question. All sit in Ocala, though each keeps its own website and search tools.</p>\n<p>The Property Appraiser at 501 SE 25th Avenue determines value and processes exemptions, taking walk-ins or booked appointments. The Tax Collector issues and collects the bill. The Clerk of Court and Comptroller records deeds, hosts the Value Adjustment Board filings and conducts deed sales.</p>\n<p>The statewide calendar sits on top of all three: January 1 fixes ownership and condition, March 1 closes exemption filings, April 1 is the tangible personal property deadline, and the proposed-tax notice lands in August. The collector's payment page gives November 1 as the due date.</p>"
   },
   {
-   "h2": "How does Marion County value homes for tax?",
-   "html": "<p>Ownership and condition on January 1 set each year's value. Exemption and classification paperwork goes in by March 1, and business personal property returns follow on April 1.</p><p>Homestead removes up to $50,000 from taxable value, with school taxes touched only by the first $25,000. The appraiser's e-file page handles the application, which must show the home was your permanent residence on January 1.</p><p>After the first year, a state cap slows increases on a homestead's assessed value, and the state's chart shows 2.7% for 2026. Other property has a separate 10 percent ceiling. A sale or other change of ownership resets the parcel to market-based value the next January, with exceptions for spouses and some transfers at death.</p><p>The TRIM notice arrives in August. Petitions to the Value Adjustment Board run through the clerk, and the clerk's office announced in July 2026 that those petitions can be e-filed.</p>"
+   "h2": "Do Marion vacation rentals owe a separate local tax?",
+   "html": "<p>Yes. Rentals of six months or less carry a 4% Tourist Development Tax, collected from the guest and sent to the Tax Collector. The collector's page adds that Marion County has no contract with platforms such as Airbnb or VRBO, so the owner has to register, collect and remit directly.</p>\n<p>The same page puts state sales tax at 7.5% in Marion County, made up of 6% plus a 1.5% infrastructure surtax. The tourist tax applies to rent and to fees tied to the stay, such as cleaning and pet fees.</p>\n<ul><li>The return is due on the first of the following month and is late after the 20th.</li><li>Operators file each month, collections or not.</li><li>Lateness costs 10% of the tax for each month, with a $50 floor and a ceiling of half the tax due.</li><li>An owner who sells or closes the business should notify the office in writing.</li></ul>\n<p>Past guest stays leave a paper trail. Pull your registration number, monthly returns and proof of payment together, because a careful buyer will want to see that the account is current.</p>"
   },
   {
-   "h2": "What else is on a Marion County tax bill?",
-   "html": "<p>The collector's property tax menu separates ad valorem taxes from non-ad valorem assessments, and its payment page speaks of taxes and assessments together. A bill can therefore carry more than the county's general levy. The menu also offers a tax bill explanation and a page of current tax payment methods.</p><p>Questions split into two lists, one for current tax and one for delinquent tax. The office phone is (352) 368-8200, and its website lists eight county locations with lobby cameras so you can check the line before you leave home.</p><ul><li>Pay online: search the tax roll by owner or parcel and pay from the same page.</li><li>Deferred taxes: a menu page covers the homestead deferral rules.</li><li>Tax certificates and deed sales: the collector's page and the clerk's page both cover these.</li></ul><p>Read the explanation page before assuming a line item is wrong, then bring any real error to the right office.</p>"
+   "h2": "What can the Marion appraiser's website do for a seller?",
+   "html": "<p>The site bundles a tax estimator, a request form for a mortgage estimate letter, a change-of-address form and a homestead e-file page. It adds a damage report page and a confidential channel for tips about suspected homestead fraud.</p>\n<p>Run the estimator at a realistic sale price. A sale resets assessed value, so the buyer's first bill can differ sharply from yours, and lenders ask about that gap. Homestead trims up to $50,000 from the taxable base, with only the first $25,000 applying to school taxes, and the state cap protecting your own assessment ends at transfer.</p>\n<p>After you move, file the address change. Notices follow the address on record, and a bill that never arrives still has to be paid.</p>"
   },
   {
-   "h2": "What happens to unpaid Marion County taxes?",
-   "html": "<p>Delinquency starts April 1, and the state says certificates are sold on all unpaid items by June 1. A certificate buyer pays the bill and earns interest, but cannot press the owner for payment for two years.</p><p>The collector's menu points owners to later steps as well: an online tax deed application, online purchase of county-held certificates, and a page on delinquent taxes. The clerk lists tax deed sales and lands available for taxes among its departments. A homestead parcel carries a higher opening bid at a deed sale.</p><p>Clear a certificate early, since the amount only grows.</p>"
+   "h2": "What happens when Marion County taxes go unpaid?",
+   "html": "<p>April 1 marks the shift from routine billing to collection. Delinquent parcels are advertised, and certificates are sold by June 1. A certificate buyer covers the bill and collects interest, yet cannot demand money from the owner for two years.</p>\n<p>The collector's menu offers an online tax deed application, online purchase of county-held certificates and a delinquent tax page. Homestead parcels start higher at a deed sale. Paying off a certificate sooner costs less, because interest keeps building.</p>"
   },
   {
-   "h2": "Can a Marion County house with tax owed still sell?",
-   "html": "<p>Yes. Begin with the collector's exact balance. The title company can take it out of the money the buyer brings to the table, so a sale does not need a clean tax record first.</p><p>The state's deed stamp rate is 70 cents for each $100 of price, and the clerk takes it at recording. The buyer's first bill can also come in higher than yours, because the seller's cap ends with the sale.</p><p>For an inherited house, or one behind by several years, a written payoff should come before any offer is accepted. The clerk's Property Alert Service sends a message when paperwork hits the records under your parcel or name.</p>"
+   "h2": "Can a Marion County house with taxes owed still be sold?",
+   "html": "<p>Yes. Back taxes are common in estate sales and in houses left empty, and buyers expect them. Get the exact balance from the collector, and the closing agent deducts it from what the buyer brings.</p>\n<p>The state charges seventy cents on each hundred dollars of price in deed stamps, paid at the clerk's recording desk. With an inherited house or several unpaid years, secure a written payoff before you accept anything. The Clerk's Property Alert Service sends a message whenever a document is recorded under your parcel or name, which helps spot deed fraud.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Who sends the Marion County property tax bill?",
-   "a": "The Marion County Tax Collector sends and collects the bill. The property appraiser sets the value and mails the TRIM notice in August."
+   "q": "Who sends the Marion County tax bill?",
+   "a": "The Marion County Tax Collector. The Property Appraiser sets the value but never mails a bill, and the Clerk records deeds and handles deed sales."
   },
   {
-   "q": "When do Marion County property taxes become delinquent?",
-   "a": "April 1. After that date the amount due depends on when the collector receives your payment, and the postmark does not count."
+   "q": "What is the first Marion installment due date?",
+   "a": "June 30, with a 6% discount on one quarter of last year's gross tax. A late first payment is allowed through July 31 without the discount."
   },
   {
-   "q": "What early payment discount does Marion County give?",
-   "a": "The collector lists 4% for November, 3% for December, 2% for January and 1% for February. March payments pay the gross amount."
+   "q": "Does the buyer keep my Marion installment plan?",
+   "a": "Yes for that tax year. The collector states that a new owner must continue on the plan if the property sells after payments have started."
   },
   {
-   "q": "Can I apply for homestead exemption in Marion County after March 1?",
-   "a": "The state deadline is March 1, with Form DR-501 going to the appraiser. Ask the appraiser's office what, if anything, is available after that date."
+   "q": "Do Marion vacation rentals pay a tax beyond sales tax?",
+   "a": "Yes, a 4% Tourist Development Tax on rentals of six months or less, paid to the Tax Collector by the owner because no platform contract exists."
   },
   {
-   "q": "Do I need to pay all back taxes before selling in Marion County?",
-   "a": "No. A balance can be paid through closing. Ask for a written payoff and find out whether a certificate exists."
+   "q": "Where can I ask about a tax certificate in Marion County?",
+   "a": "At the main Tax Collector office, 503 SE 25th Avenue, Ocala. The branch page says only the main branch handles tax deed and certificate information."
   }
  ],
  "sources": [
   {
+   "title": "Marion County Tax Collector, installment plan",
+   "url": "https://www.mariontax.com/installment-plan"
+  },
+  {
+   "title": "Marion County Tax Collector, branch locations",
+   "url": "https://www.mariontax.com/branch-locations"
+  },
+  {
+   "title": "Marion County Tax Collector, tourist development tax",
+   "url": "https://www.mariontax.com/td-home"
+  },
+  {
    "title": "Marion County Tax Collector, property taxes",
    "url": "https://www.mariontax.com/property-taxes"
-  },
-  {
-   "title": "Marion County Tax Collector, payment of taxes",
-   "url": "https://www.mariontax.com/payment-of-taxes"
-  },
-  {
-   "title": "Marion County Tax Collector, home page",
-   "url": "https://www.mariontax.com"
   },
   {
    "title": "Marion County Property Appraiser",
    "url": "https://www.pa.marion.fl.us/"
   },
   {
-   "title": "Marion County Clerk of Court and Comptroller",
+   "title": "Marion County Clerk",
    "url": "https://www.marioncountyclerk.org/"
   },
   {
-   "title": "Marion County Clerk, Property Alert Service",
-   "url": "https://nvweb.marioncountyclerk.org/PropertyAlert/"
-  },
-  {
-   "title": "Florida Department of Revenue, property tax information for taxpayers",
+   "title": "Florida Department of Revenue, taxpayer calendar",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida Department of Revenue, homestead guide pt113",
+   "title": "Florida Department of Revenue, homestead exemption",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida Department of Revenue, Save Our Homes guide pt112",
-   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
-  },
-  {
-   "title": "Florida Department of Revenue, Save Our Homes cap chart",
-   "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
-  },
-  {
-   "title": "Florida Department of Revenue, documentary stamp tax",
+   "title": "Florida Department of Revenue, document stamp tax",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
-  },
-  {
-   "title": "Florida Statutes s. 201.02",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
-  },
-  {
-   "title": "Florida Statutes s. 197.432",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
-  },
-  {
-   "title": "Florida Statutes s. 197.502",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
   }
  ]
 }

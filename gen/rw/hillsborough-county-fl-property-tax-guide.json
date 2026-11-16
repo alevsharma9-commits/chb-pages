@@ -2,99 +2,103 @@
  "slug": "hillsborough-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which Hillsborough County office does what?",
-   "html": "<p>Billing and collection belong to the Hillsborough County Tax Collector, and the Hillsborough County Property Appraiser sets values and rules on exemptions. A question about value belongs with the appraiser, and a question about paying goes to the collector.</p>\n<p>The appraiser's main office is in the County Center at 601 E. Kennedy Boulevard in Tampa, on the 15th floor, on weekdays between 8:00 am and 5:00 pm at (813) 272-6100. Tax bills, payment options and a property tax search run through the <a href=\"https://www.hillstaxfl.gov/taxes/real-estate-tax/\">tax collector's property tax page</a>. Deeds and liens that affect a sale are filed with the clerk, covered on our Hillsborough County property records page.</p>\n<ul><li>Property Appraiser: value, homestead, Save Our Homes cap, portability, TRIM notice.</li><li>Tax Collector: bills, payments, installment plan, tax certificates.</li><li>Value Adjustment Board: hears value and exemption petitions.</li></ul>"
+   "h2": "Whom do I call about a Hillsborough County property tax question?",
+   "html": "<p>It depends on the question. The Hillsborough County Property Appraiser handles value and exemptions. The Hillsborough County Tax Collector handles money, receipts and payment plans.</p>\n<p>The appraiser's downtown Tampa office is on the 15th floor of the County Center, 601 E. Kennedy Boulevard, reachable at (813) 272-6100 Monday through Friday from 8 to 5. The collector publishes bills, payment options and a property search on its real estate tax page. A board separate from both offices, the Value Adjustment Board, hears value and exemption disputes.</p>\n<ul><li>Property Appraiser: just value, homestead filings, the assessment cap, portability and the TRIM notice.</li><li>Tax Collector: bills, installment applications, partial payments and tax certificates.</li><li>Clerk of the Circuit Court: recorded deeds, liens and the tax deed auction.</li></ul>\n<p>The appraiser's site also promotes a free Property Fraud Alert that flags new recordings made in your name. Heirs holding an empty Tampa Bay house are the people most likely to want it switched on.</p>"
   },
   {
-   "h2": "What are the Hillsborough County due dates and early payment discounts?",
-   "html": "<p>Hillsborough tax notices arrive in November with a November 1 due date, and April 1 is the delinquency date. The tax collector's FAQ says delinquent accounts pick up 3% interest plus advertising costs on that date.</p>\n<p>A November payment trims 4 percent from the bill, and the break shrinks a point each month until February's 1 percent. Pay in March and there is no reduction. A payment that arrives after March 31 is late even if the bill was never opened, so a seller listing in winter should find out which month's discount a closing date will fall in.</p>\n<p>Owners who want smaller payments can apply for the installment plan before May 1. The first payment is due in June. If June is missed, July still works but the discount is lost, and an account with no payment by July 31 is dropped from the plan. Full payment is then due in November with the 4 percent discount. Current-year bills can be paid in part under the collector's partial payment plan, and delinquent real estate bills cannot.</p>"
+   "h2": "How does a Hillsborough County bill and its early payment discount work?",
+   "html": "<p>Hillsborough tax notices land in November and can be paid from the 1st. The collector's FAQ says an account still open on April 1 picks up 3% interest and advertising costs.</p>\n<p>Early payers get a cut of 4 percent in November, 3 in December, 2 in January and 1 in February, and March is full price. A winter seller should ask the closing agent which of those months the closing date falls in, since the sale proceeds may be what pays the bill.</p>\n<p>Smaller checks are possible through the installment plan, which needs an application before May 1 and starts with a June payment. Paying in July keeps the plan alive but forfeits the discount. If nothing arrives by July 31 the account leaves the plan and the whole balance is payable the next November, with the 4 percent break. A separate partial payment option exists for current-year bills only, and an overdue real estate account has to be cleared in one payment.</p>"
   },
   {
-   "h2": "What dates matter on the Hillsborough County tax calendar?",
-   "html": "<p>Seven dates cover almost every Hillsborough County property tax decision, from the January 1 valuation to the April 1 delinquency.</p>\n<table><caption>Hillsborough County tax calendar with the office that publishes each date</caption><thead><tr><th>Date</th><th>What happens</th><th>Source</th></tr></thead><tbody>\n<tr><td>January 1</td><td>Valuation date; homestead status fixed</td><td>Florida Revenue</td></tr>\n<tr><td>March 1</td><td>Statutory deadline for exemption applications</td><td>Property Appraiser</td></tr>\n<tr><td>May 1</td><td>Last day to apply for the installment plan</td><td>Tax Collector FAQ</td></tr>\n<tr><td>Before June 1</td><td>Tax certificate sale for delinquent accounts</td><td>Tax Collector FAQ</td></tr>\n<tr><td>August</td><td>TRIM notice mailed; value petition due within 25 days</td><td>Florida Revenue</td></tr>\n<tr><td>November 1</td><td>Bills payable</td><td>Tax Collector FAQ</td></tr>\n<tr><td>April 1</td><td>Unpaid taxes delinquent</td><td>Tax Collector FAQ</td></tr></tbody></table>\n<p>The appraiser mails an Official Notice of Denial by July 1 when an exemption is refused, and that notice opens the right to a hearing before a magistrate hired by the Hillsborough County Value Adjustment Board.</p>"
+   "h2": "Which Hillsborough County dates belong on a calendar?",
+   "html": "<p>Seven dates drive nearly every decision a Hillsborough County owner or seller makes.</p>\n<table><thead><tr><th>When</th><th>What it triggers</th><th>Published by</th></tr></thead><tbody>\n<tr><td>January 1</td><td>Valuation date and homestead test date</td><td>Florida Department of Revenue</td></tr>\n<tr><td>March 1</td><td>Exemption filing deadline</td><td>Property Appraiser</td></tr>\n<tr><td>May 1</td><td>Last day to request the installment plan</td><td>Tax Collector FAQ</td></tr>\n<tr><td>By June 1</td><td>Online auction of tax certificates</td><td>Tax Collector FAQ</td></tr>\n<tr><td>August</td><td>TRIM notice mailed, then 25 days to petition on value</td><td>Florida Department of Revenue</td></tr>\n<tr><td>November 1</td><td>Bills payable</td><td>Tax Collector FAQ</td></tr>\n<tr><td>April 1</td><td>Delinquency</td><td>Tax Collector FAQ</td></tr></tbody></table>\n<p>The appraiser's home page reports that the latest TRIM mailing began August 13, with longer office hours, and links a 2026 Hurricane Damage Adjustment Form for storm-hit owners. A refused exemption produces an Official Notice of Denial by July 1, which opens a hearing before a Value Adjustment Board magistrate.</p>"
   },
   {
-   "h2": "What homestead and senior exemptions apply in Hillsborough County?",
-   "html": "<p>A Hillsborough County homeowner can deduct up to $50,000 from the assessed value of a permanent residence. The first $25,000 lowers every levy. The second $25,000 covers value from $50,000 to $75,000 and leaves the school levy untouched.</p>\n<p>After the first year, assessed value can rise each year by no more than 3 percent or the CPI change, whichever is lower. The appraiser says applications are taken year round, the statutory deadline is March 1, and a late application can be accepted up to the 25th day after the TRIM notice is mailed.</p>\n<ul><li>Low income senior exemption: the City of Tampa and unincorporated Hillsborough County allow up to $50,000, and Temple Terrace allows up to $25,000.</li><li>Long term resident senior exemption: offered by the City of Tampa and unincorporated Hillsborough County for homes with a just value under $250,000 and 25 consecutive years of residence.</li><li>Veteran, disability, widow and blind exemptions: papers required; Hillsborough County Veterans Affairs is listed at 813-635-8316 for help with discharge papers.</li></ul>\n<p>An owner who keeps a homestead exemption after the house stops being the permanent home faces a lien for the exempted taxes from the prior 10 years, plus a 50 percent penalty and 15 percent interest, according to the appraiser. Report the change before a sale if the owner has moved out.</p>"
+   "h2": "What exemptions can a Hillsborough County owner stack?",
+   "html": "<p>A permanent residence can shed up to $50,000 of assessed value in two layers.</p>\n<p>Layer one touches every levy. Layer two sits on the slice of assessed value above $50,000 and skips school taxes. A yearly growth limit then applies after the first year. The appraiser accepts filings year round, cites March 1 as the legal deadline, and says a late one may still be taken up to 25 days after TRIM notices are mailed.</p>\n<ul><li>Low income senior: unincorporated Hillsborough County and the City of Tampa allow up to $50,000, and Temple Terrace allows up to $25,000.</li><li>Long term resident senior: Tampa and unincorporated areas, for homes with just value under $250,000 and 25 consecutive years in residence.</li><li>Veteran, disability, widow and blind exemptions: these need documents, and Hillsborough County Veterans Affairs lists 813-635-8316 for help with discharge papers.</li></ul>\n<p>Claiming homestead on a house you have left is expensive. According to the appraiser, the exempted taxes from the prior 10 years turn into a lien carrying a 50 percent penalty and 15 percent interest, so report a move-out before the sign goes in the yard.</p>"
   },
   {
-   "h2": "Does the 2026 Florida property tax amendment change the Hillsborough County homestead exemption?",
-   "html": "<p>The appraiser's legislative update page describes the amendment on the 2026 ballot as setting homestead exemption amounts of up to $150,000 beginning in 2027 and up to $250,000 beginning in 2028, and it directs the Legislature to schedule later increases. The appraiser's home page also carries a statement issued after the vote.</p>\n<p>Ask the property appraiser how the amendment applies to your parcel and which taxes it reaches, because the legislative update page says the exact savings differ by property and cannot be calculated in advance. The Hillsborough County Tax Collector also posts a property tax reform page for the same ballot item. Until a bill shows a new exemption amount, plan a sale around the exemption printed on your current bill.</p>"
+   "h2": "What did Amendment 3 change for Hillsborough County homesteads?",
+   "html": "<p>Voters passed the statewide property tax amendment on November 3, 2026. A statement from the Hillsborough appraiser about its passage sits on that office's home page.</p>\n<p>On its legislative update page the appraiser describes homestead exemption amounts of up to $150,000 from 2027 and up to $250,000 from 2028, with lawmakers told to schedule more increases. That page adds that the effect varies by parcel and cannot be calculated in advance. Treat the number on today's bill as the working figure until a TRIM notice shows a new one. The tax collector keeps a property tax reform page on the same ballot item.</p>\n<p>Sellers feel this mostly through the buyer. The first bill after a purchase begins from just value, and a new exemption amount reaches the buyer only after an application is filed.</p>"
   },
   {
-   "h2": "How does a Hillsborough County sale deal with the tax bill?",
-   "html": "<p>Because the lien runs with the land, any open Hillsborough County bill comes out of the seller's money at the closing table. The tax collector notes that the name on the bill does not block payment, because the appraiser may not yet have received a recorded deed when the roll was certified.</p>\n<p>A sale also ends the owner's homestead benefits. Any sale or transfer of title counts in Florida as a change of ownership, so on the following January 1 the home is assessed at just value and the incoming owner must file a fresh application. Portability of the capped value belongs to the seller and attaches to a new homestead, not to the house being sold.</p>\n<ul><li>Escrowed loans: the servicer pays from a list sent to the tax collector, and after payoff the bill comes to the owner once November 1 passes.</li><li>Documentary stamp tax: Deed stamps: 70 cents for each $100 of the price everywhere but Miami-Dade, with every party to the deed answerable.</li><li>Portability: the new homestead must be set up inside a three year window that runs from January 1 of the year the old one was given up, with Form DR-501T filed with the DR-501.</li></ul>"
+   "h2": "Who pays the tax when a Hillsborough County house closes?",
+   "html": "<p>An open Hillsborough County bill is settled out of the seller's proceeds at the table, because the lien stays with the land. The collector says the name printed on a bill is no obstacle to paying it, since a recorded deed may not have reached the appraiser before the roll was certified.</p>\n<p>The seller's homestead ends with the sale, and the buyer starts over at just value after the next January 1 and files a new application. What the seller can carry along is the portable savings, which attach to a replacement home.</p>\n<ul><li>Escrowed loans: the servicer pays from a list it sends the collector, and once the loan is paid off the next bill is mailed to the owner.</li><li>Deed stamps: the state rate applies here because Hillsborough is not Miami-Dade, and each party on the deed shares the liability.</li><li>Portability: the replacement homestead has a three year window and needs a DR-501T with the new application.</li></ul>"
   },
   {
-   "h2": "What if Hillsborough County tax is never paid?",
-   "html": "<p>Nonpayment leads first to a tax certificate, and about two years later to a possible tax deed sale. The tax collector runs the certificate sale as an online auction, with bidding that starts at 18 percent and drops in 0.25 percent steps, and the lowest rate wins.</p>\n<p>The certificate is a first lien that ranks ahead of other government liens. The tax collector says an owner has up to 22 months after the certificate is issued before a tax deed foreclosure can begin, and the Florida statute counts two years from the April 1 of the issue year. A homestead parcel owing under $250 has its certificate issued to the county, so no bidder gets it. At the deed stage the clerk holds the auction, and the opening bid on a homestead parcel adds half of the latest assessed value.</p>\n<p>Being behind does not stop a sale. Paying the bill at closing redeems the lien and clears the title for the buyer.</p>"
+   "h2": "How does unpaid Hillsborough County tax reach a tax deed sale?",
+   "html": "<p>A skipped bill becomes a tax certificate first, and a deed sale can come about two years after that.</p>\n<p>The collector auctions certificates online. Bids start at 18 percent and fall by 0.25 percent per step, and the lowest bidder wins a certificate that ranks first among liens, including other government ones. Per the collector, a deed application cannot begin until up to 22 months after issue. The statute measures two years from April 1 of the issue year. When a homestead owes under $250, the county takes the certificate itself and no investor can buy it.</p>\n<p>The clerk conducts the deed auction, and a homestead parcel's opening bid includes half of the last assessed value. An owner who is behind can still sell, since paying off the certificate at closing clears the title.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When is Hillsborough County property tax due?",
-   "a": "Bills are payable November 1 and become delinquent April 1. Payments made in November earn a 4 percent discount, December 3 percent, January 2 percent and February 1 percent. After the delinquency date, the tax collector adds 3% interest and advertising costs."
+   "a": "Bills are payable November 1 and go delinquent April 1. The discount is 4 percent in November, then 3, 2 and 1 percent through February. An account open on April 1 picks up 3% interest and advertising costs."
   },
   {
-   "q": "Can I pay Hillsborough County property tax in installments?",
-   "a": "Yes, if you apply before May 1. June brings the first payment. A July payment keeps you on the plan without the discount, and a missed July 31 deadline drops the account, which then owes the full amount in November with the 4% discount."
+   "q": "Can I pay Hillsborough County tax in installments?",
+   "a": "Yes, if you apply before May 1. The first payment is due in June, a July payment keeps you in the plan without the discount, and missing July 31 drops the account into a single November payment with the 4 percent discount."
   },
   {
-   "q": "Who decides my Hillsborough County homestead exemption?",
-   "a": "The Hillsborough County Property Appraiser decides it. Filing closes March 1, and a denial notice is mailed by July 1 and points to the Value Adjustment Board. The tax collector has no say over eligibility."
+   "q": "Who decides a Hillsborough County homestead claim?",
+   "a": "The Property Appraiser does. Filing closes March 1, any denial notice is mailed by July 1, and an appeal heads to the Value Adjustment Board. The collector never rules on eligibility."
   },
   {
-   "q": "Does the tax collector accept partial payments on delinquent bills?",
-   "a": "No. Current-year bills can be paid in part under a separate plan, yet delinquent real estate bills cannot. Ask the office before sending less than the full balance."
+   "q": "Are partial payments allowed on a delinquent Hillsborough County bill?",
+   "a": "No. Only current-year bills qualify for the partial plan, and an overdue real estate bill needs the full balance. Call the collector before sending anything smaller."
   },
   {
-   "q": "What if I sell my Hillsborough County house before the bill arrives?",
-   "a": "The tax still has to be paid when the sale closes. The closing agent asks the tax collector for the figure and deducts it from the seller's funds. The seller's homestead exemption ends with the sale, and the buyer applies for a new one by the following March 1."
+   "q": "What if I sell before my Hillsborough County bill arrives?",
+   "a": "The bill is still paid at closing. The title agent requests the amount from the collector and takes it out of the seller's money, and the buyer applies for a new homestead by the next March 1."
   }
  ],
  "sources": [
   {
-   "title": "Hillsborough County Tax Collector: Real estate tax",
+   "title": "https://www.hillstaxfl.gov/taxes/real-estate-tax/",
    "url": "https://www.hillstaxfl.gov/taxes/real-estate-tax/"
   },
   {
-   "title": "Hillsborough County Tax Collector: FAQs",
+   "title": "https://www.hillstaxfl.gov/faq/",
    "url": "https://www.hillstaxfl.gov/faq/"
   },
   {
-   "title": "Hillsborough County Property Appraiser",
+   "title": "https://www.hcpafl.org/",
    "url": "https://www.hcpafl.org/"
   },
   {
-   "title": "Hillsborough County Property Appraiser: Homestead and other exemptions",
+   "title": "https://hcpafl.org/property-info/homestead-other-info",
    "url": "https://hcpafl.org/property-info/homestead-other-info"
   },
   {
-   "title": "Hillsborough County Property Appraiser: Legislative update",
+   "title": "https://dmz.hcpafl.org/legislative/Legupdate.cfm?Q1=yes&R3=yes&S8=yes",
    "url": "https://dmz.hcpafl.org/legislative/Legupdate.cfm?Q1=yes&R3=yes&S8=yes"
   },
   {
-   "title": "Florida Department of Revenue: Property tax for taxpayers",
+   "title": "https://www.scpafl.org/",
+   "url": "https://www.scpafl.org/"
+  },
+  {
+   "title": "https://floridarevenue.com/property/Pages/Taxpayers.aspx",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida Department of Revenue: Homestead exemption (PT-113)",
+   "title": "https://floridarevenue.com/property/Documents/pt113.pdf",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida Department of Revenue: Save Our Homes and portability (PT-112)",
+   "title": "https://floridarevenue.com/property/Documents/pt112.pdf",
    "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
   },
   {
-   "title": "Florida Department of Revenue: Documentary stamp tax",
+   "title": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
   },
   {
-   "title": "Florida Statutes 197.432",
+   "title": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
   },
   {
-   "title": "Florida Statutes 197.502",
+   "title": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
   }
  ]

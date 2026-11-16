@@ -2,104 +2,100 @@
  "slug": "polk-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which Polk County offices send the bill and value the house?",
-   "html": "<p>In Polk County one elected office decides what a parcel is worth and another one collects the money. A third office, the Clerk of the Courts, runs tax deed auctions and records deeds.</p>\n<p>The appraiser's site at <a href=\"https://polkflpa.gov/\">polkflpa.gov</a> carries the parcel search, the map search, the tax estimator and the exemption filing pages. Its old address, polkpa.org, now redirects, so use the new one when you bookmark it. Its parcel statistics page counts 231,135 single family residential parcels and 329,750 housing units countywide. The Tax Collector at <a href=\"https://www.polktaxes.com/\">polktaxes.com</a> handles bills, discounts, delinquent accounts and the annual certificate sale.</p>\n<ul>\n<li>Property Appraiser: value, exemptions, portability, address changes. Main office phone 863-534-4777.</li>\n<li>Tax Collector: tax bills, payment, delinquency and certificate sales.</li>\n<li>Clerk of the Courts: tax deed sales and the free Property Alert Service that the appraiser's site recommends against deed fraud.</li>\n</ul>"
+   "h2": "Why does a Polk County tax bill look different from other Florida bills?",
+   "html": "<p>Because Polk packs a long list of local levies into one statement. Along with county and school millage, a parcel can carry fire, garbage, lighting, roadway and community district charges, and the Tax Collector publishes the full roster of who bills for what.</p>\n<p>That matters when you sell. A buyer who only compares the headline value of two houses can miss the line items that follow a particular street or subdivision. If you are listing in Polk, learn which of those lines your parcel carries before the first showing, and put the answer in your listing notes.</p>\n<ul><li>The Property Appraiser at <a href='https://polkflpa.gov/'>polkflpa.gov</a> sets value and handles exemptions.</li><li>The Tax Collector at <a href='https://www.polktaxes.com/'>polktaxes.com</a> sends and collects the bill.</li><li>Each taxing body named on the bill answers questions about its own rate or assessment.</li></ul>"
   },
   {
-   "h2": "What does the Polk County payment calendar look like?",
-   "html": "<p>Bills go out around the start of November, and paying early earns a discount that shrinks each month. Unpaid taxes go delinquent April 1.</p>\n<p>The state revenue agency prints the early-payment schedule that county tax collectors follow. The Tax Collector's delinquency page confirms that taxes unpaid after the year-end cycle go delinquent April 1 and carry 3% interest plus an advertising charge.</p>\n<table>\n<caption>Polk County real estate tax payment calendar, from Florida state revenue agency and Polk Tax Collector pages</caption>\n<thead><tr><th>When paid</th><th>What applies</th></tr></thead>\n<tbody>\n<tr><td>November</td><td>4% discount</td></tr>\n<tr><td>December</td><td>3% discount</td></tr>\n<tr><td>January</td><td>2% discount</td></tr>\n<tr><td>February</td><td>1% discount</td></tr>\n<tr><td>March</td><td>Gross amount, no discount</td></tr>\n<tr><td>April 1</td><td>Delinquent: 3% interest and an advertising charge are added</td></tr>\n<tr><td>On or before June 1</td><td>Tax certificate sale on unpaid parcels</td></tr>\n</tbody>\n</table>\n<p>The Tax Collector also notes that when a mailed payment carries a postmark showing it was late, the date the office receives it decides the amount owed. Mail early or pay online if you are near a month end.</p>"
+   "h2": "Where does Polk County sit, and does location change a sale?",
+   "html": "<p>Polk lies between the Orlando and Tampa metro areas along the I-4 corridor, and the county's own welcome page describes the north as quickly urbanizing and the land south of State Road 60 as ranch and scrub. County news releases are datelined Bartow.</p>\n<p>The split shows up on the bill. A house in a newer northern neighborhood is more likely to sit inside a district created for roads, drainage or amenities. A rural parcel in the south tends to have fewer special charges but may depend on a private well or septic system, which a buyer's inspector will check.</p>\n<p>The appraiser's statistics page counts 231,135 single family parcels and 329,750 housing units countywide, so comparable sales in your own subdivision are usually easy to find. Use the parcel map search to confirm exactly which taxing areas touch your lot.</p>"
   },
   {
-   "h2": "What happens to unpaid Polk County property tax?",
-   "html": "<p>After April 1 the parcel is advertised and, by June 1, a tax certificate is sold against it. The certificate is a lien held by an investor, and it does not transfer the house.</p>\n<p>Polk's Tax Collector says back taxes plus interest and fees are what the certificate covers. Bidding opens at 18% interest and goes down until a bidder wins at the lowest rate, which can fall as low as 0%. Certificates that draw no bid are struck off to the county. When a certificate is redeemed, the person paying owes the bid rate or a mandatory 5% charge, whichever is greater. The office also states that certificates are dated from opening day of the sale and expire after 7 years.</p>\n<ul>\n<li>Once two years have run from April 1 of the issue year, the holder may file a tax deed application, and applications are filed online at realtda.com.</li>\n<li>The Clerk of the Courts then holds a public auction.</li>\n<li>Until the deed sale, the record owner can keep the property by paying everything owed: taxes, fees, interest, commissions and costs.</li>\n</ul>\n<p>Florida's statute summary says the holder of a certificate cannot demand payment from the owner for two years after April 1 of the issue year, and homestead parcels carry a higher opening bid at a tax deed sale because it includes half the latest assessed value. An owner who already has a certificate against the house should get the collector's payoff in writing before listing.</p>"
+   "h2": "Who levies what on a Polk County bill?",
+   "html": "<p>The Tax Collector's taxing authorities page sorts the levies into groups, summarized below. Call the body listed for a line you do not recognize.</p>\n<table><caption>Sample of levies on the Polk County Tax Collector's taxing authorities page</caption><thead><tr><th>Group</th><th>Items named</th></tr></thead><tbody>\n<tr><td>Board of County Commissioners, ad valorem</td><td>General revenue, environmental land acquisition, library MSTU, parks MSTU, stormwater MSTU</td></tr>\n<tr><td>County assessments and liens</td><td>Fire services, garbage collection and landfill, lighting district, code enforcement lien, roadway improvement MSBUs</td></tr>\n<tr><td>School Board</td><td>General revenue fund, local capital fund</td></tr>\n<tr><td>Other assessing bodies</td><td>Community development districts, water control districts, a water authority, PACE programs</td></tr>\n</tbody></table>\n<p>Source: <a href='https://www.polktaxes.com/services/taxing-authorities/'>Polk County Tax Collector, taxing authorities</a>.</p>\n<p>Ad valorem items follow your assessed value. Assessments follow a service, a district or a lien, so they can stay the same even when value drops.</p>"
   },
   {
-   "h2": "How do Polk County homestead and senior exemptions work?",
-   "html": "<p>A Polk homeowner who is the permanent resident on the January 1 assessment date can file for homestead, which the appraiser says lowers assessed value by up to $50,000. Filing is free, and the appraiser warns residents to watch for third-party sites that charge for it.</p>\n<p>For 2026 the filing deadline was March 2, and the appraiser accepted late applications until the value adjustment board petition deadline of Friday, September 11, 2026. Each later year follows the same pattern: a March deadline, then a late-file window. Once approved, the exemption renews itself every year, and approval letters are not mailed; only a denial is.</p>\n<ul>\n<li>Limited income senior exemption: for homeowners aged 65 and over with homestead and adjusted gross household income no higher than $36,614 as the appraiser printed it, adjusted yearly by the state. Polk has authorized the full $50,000.</li>\n<li>Extra 25-year residency exemption: applies to the county general millage only, needs a just value under $250,000 and 25 continuous years in the home.</li>\n<li>$5,000 widow or widower, $5,000 disability, and $5,000 service-connected disability reductions.</li>\n<li>Total and permanent service-connected disability and first responder exemptions for qualifying owners.</li>\n</ul>\n<p>Homestead does not move on its own. A resident who buys another Polk home files a fresh application, and the portability form (DR-501T) can carry as much as $500,000 of the Save Our Homes benefit to the new homestead.</p>"
+   "h2": "How do community development district charges affect a Polk buyer?",
+   "html": "<p>They add a yearly assessment that a buyer inherits, so you should disclose it. The Tax Collector's list names dozens of community development districts, among them Lake Ashton, Silverlake, Poinciana, Eagle Hammock, Towne Park and Westside Haines City, along with Haines City Water Control, West Lakeland Water Control and the Tohopekaliga Water Authority.</p>\n<p>If your subdivision shows up on that list, your bill likely carries a non-ad valorem line that does not shrink when your home value does. Buyers and their lenders will count it as part of monthly cost.</p>\n<ol><li>Find the district name on your tax bill or in the Tax Collector's parcel search.</li><li>Ask the district manager for the current assessment and any remaining balance.</li><li>Hand that figure to the closing agent so the payoff or proration is right.</li></ol>\n<p>PACE programs appear on the same list. A PACE assessment attaches to the property, so a seller who used one should get the balance in writing before accepting an offer.</p>"
   },
   {
-   "h2": "What does selling a Polk County house do to the tax bill?",
-   "html": "<p>After a sale the appraiser raises the parcel to full just value the next January 1, which often pushes the buyer's bill above yours. Spouse-to-spouse transfers are among the exceptions.</p>\n<p>The assessment cap limits yearly assessment growth on a homestead to 3% or the CPI change, whichever is smaller. The revenue agency's cap chart lists a 2.7% cap for 2026 and 2.9% for 2025. The seller's protection ends with the sale, and the appraiser's exemption page encourages owners who moved in after January 1 to pre-file for the following roll.</p>\n<p>Closing costs also include state documentary stamp tax. Florida's deed stamp rate is $0.70 for each $100 of price, and the state revenue agency adds that every party on the deed answers for it, whoever the contract says will pay. Polk is not one of the counties with a different rate. Stamps are paid through the Clerk's recording desk.</p>\n<p>Disabled veterans who qualify under the total and permanent exemption may get a prorated first year if they buy between January 1 and November 1 and file the prorate worksheet, according to the appraiser. If you are the seller, ask the closing agent how the current-year bill will be split and whether any delinquent amount must be cleared first.</p>"
+   "h2": "Which exemptions can Polk homeowners claim?",
+   "html": "<p>Homestead is the main one, and it takes a permanent residence on January 1 plus an application by early March. The appraiser's exemption page says it cuts as much as $50,000 from the taxable base, and filing is free.</p>\n<ul><li>Senior exemption: homeowners 65 and older under the household income limit, with Polk granting the larger amount.</li><li>Long-time resident exemption: 25 years in the home and a just value under $250,000, applied to county general millage.</li><li>$5,000 reductions for widows or widowers, disability and service-connected disability.</li><li>Total and permanent disability and first responder exemptions for eligible owners.</li></ul>\n<p>Approvals renew on their own each year, and only a denial arrives by letter. A seller who leaves Polk for another Florida home can carry assessment savings forward with the portability form, up to $500,000, as the state revenue agency explains.</p>"
   },
   {
-   "h2": "Where do I get Polk County millage and value figures?",
-   "html": "<p>Polk's property appraiser mails the proposed-tax notice (TRIM), in mid-August. It lists each taxing authority's proposed rate, your value and the dates of budget hearings.</p>\n<p>Treat the notice as an estimate, since no payment is due on it. Final rates come in October, after each taxing authority certifies them to the appraiser, the Tax Collector and the state. The appraiser's tax roll page lists the statute steps: estimates by June 1, certification of value by July 1, TRIM in August, final rates in October, and the value adjustment board close-out in March or April.</p>\n<p>For the rate on your own parcel, use the appraiser's tax estimator or the Tax Collector's parcel search. A rate for a Lakeland address differs from one in a county fire district or another city, because each municipality and special district levies its own. If a bill looks wrong, ask the collector's office for the line-by-line breakdown. A value dispute goes to the value adjustment board: the state revenue agency sets the petition window at 25 days after the TRIM notice goes out mailing.</p>"
+   "h2": "Can Polk owners spread payments or put off the bill?",
+   "html": "<p>Yes, through two programs run by the Tax Collector. Both have firm paperwork dates, so decide well before a sale.</p>\n<p>The installment plan needs an application by April 30 of that tax year, and the prior bill must have topped $100. Once you are enrolled, the office re-enrolls you automatically. If the property sells mid-plan, check with the collector how the remaining payments pass to the buyer.</p>\n<p>Homestead deferral is meant for owners with low income relative to the bill. The collector's page lists four tests: household income under $10,000 allows deferral of everything, taxes above 5% of income can be deferred beyond that share, owners 65 and older can defer beyond 3%, and older owners under the additional exemption income limit may defer the whole amount. Deferral is barred if deferred amounts and liens exceed 85% of just value or the primary mortgage exceeds 70% of just value. Form DR-570 goes to the collector by the end of March after the assessment year.</p>\n<p>Deferred taxes build up as a lien, so expect them to come out of sale proceeds at closing.</p>"
   },
   {
-   "h2": "Which Polk County cities matter when you sell?",
-   "html": "<p>Most sales in Polk County happen in or near Lakeland, Winter Haven and Haines City, and the county tax bill follows the parcel wherever it sits. City lines change which municipal levy appears on the bill, so give your title company the parcel ID.</p>\n<p>The same appraiser, collector and clerk serve all of them. If you are comparing a sale in Lakeland to one in a smaller town, the process and dates are identical and only the line items change.</p>"
+   "h2": "What follows a missed Polk deadline?",
+   "html": "<p>Delinquency begins April 1, and a certificate sale on unpaid parcels takes place by June 1. Bidders start at 18% interest and bid downward, and a redemption costs at least a 5% charge.</p>\n<p>A certificate is a lien held by an investor, not a transfer of title. The holder may apply for a tax deed once two years have passed counted from the April 1 that followed issue, and the Clerk of the Courts runs the auction. Until the sale, the record owner may pay all taxes, interest, fees and costs and keep the property. Ask the collector for a written payoff before listing, since the number grows.</p>"
+  },
+  {
+   "h2": "What changes for the buyer after a Polk sale?",
+   "html": "<p>The county reassesses the parcel at just value on the following New Year's Day, so the buyer's first bill can run well above yours. Transfers between spouses are among the listed exceptions. Your homestead cap does not move with the house.</p>\n<p>The deed stamp rate in Polk is the statewide 70 cents per $100, and the state holds every signer of the deed responsible whoever the contract names as payer. The clerk collects it at recording. The state's cap chart shows 2.7% for 2026 and 2.9% for 2025 as the limit on homestead assessment growth.</p>\n<p>Because TRIM notices arrive in August and final rates are set by the autumn, your closing agent will prorate the year using the best figures on hand. If rates change later, the contract language decides who covers the difference.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Are Polk County property taxes paid in advance or in arrears?",
-   "a": "They are paid in arrears for the calendar year. The bill arrives in November and covers that year, with a discount of 4% for November payments falling to 1% for February and none in March."
+   "q": "Is Polk County property tax billed in advance or after the year ends?",
+   "a": "It is billed in November for the current calendar year, after rates are set that autumn. Taxes are collected for the year just assessed, and the discount runs 4% in November down to 1% in February."
   },
   {
-   "q": "What is the Polk County tax delinquency date?",
-   "a": "April 1. Interest of 3% and an advertising charge are added then, and a tax certificate sale follows by June 1."
+   "q": "When do Polk County taxes go delinquent?",
+   "a": "April 1. A tax certificate sale on unpaid parcels follows by June 1, and the Tax Collector adds interest and an advertising charge to delinquent accounts."
   },
   {
-   "q": "Can I pay Polk County property taxes in installments?",
-   "a": "Ask the Tax Collector. The state revenue agency notes that partial payments before the delinquency date are at the tax collector's discretion under s. 197.374, and the state's four-payment installment plan needs an application by May 1."
+   "q": "Can I defer Polk County homestead taxes?",
+   "a": "Possibly. Send Form DR-570 to the Tax Collector before March ends in the year after assessment. Eligibility turns on household income, age and how much debt and liens already sit against the home."
   },
   {
-   "q": "How can I check whether my Polk County home has homestead?",
-   "a": "Open the parcel detail page on the appraiser's site and read the Exemptions section. The office does not write individual letters, and it says to print that page for your mortgage servicer."
+   "q": "Do I need to reapply for Polk homestead every year?",
+   "a": "No. Once approved, homestead renews on its own and only a denial is mailed. File a new application if you buy a different Polk home or if the use of the property changes."
   },
   {
-   "q": "Does a tax certificate mean I lose my Polk County house?",
-   "a": "No. A certificate is a lien an investor buys by paying your taxes. Loss of title can only follow a tax deed application after at least two years and a public auction run by the Clerk, and you can pay in full before the sale."
+   "q": "What is a CDD charge on my Polk County bill?",
+   "a": "It is an assessment from a community development district that financed local infrastructure. It appears as a non-ad valorem item, stays attached to the parcel after a sale, and should be confirmed with the district before closing."
   }
  ],
  "sources": [
   {
-   "title": "Polk County Property Appraiser home",
-   "url": "https://polkflpa.gov/"
+   "title": "Polk County Tax Collector, taxing authorities",
+   "url": "https://www.polktaxes.com/services/taxing-authorities/"
   },
   {
-   "title": "Polk County Property Appraiser exemptions",
-   "url": "https://polkflpa.gov/Exemptions.aspx"
+   "title": "Polk County Tax Collector, installment options",
+   "url": "https://www.polktaxes.com/services/installment-options/"
   },
   {
-   "title": "Polk County Property Appraiser tax roll process",
-   "url": "https://polkflpa.gov/TaxRollProcess/default.aspx"
+   "title": "Polk County Tax Collector, property tax deferrals",
+   "url": "https://www.polktaxes.com/services/property-tax-deferrals/"
   },
   {
-   "title": "Polk County Tax Collector home",
-   "url": "https://www.polktaxes.com/"
-  },
-  {
-   "title": "Polk County Tax Collector delinquency and tax sale",
+   "title": "Polk County Tax Collector, delinquency and tax sale",
    "url": "https://polktaxes.com/services/delinquency-and-tax-sale-information"
   },
   {
-   "title": "Florida DOR property tax taxpayer information",
+   "title": "Polk County Government welcome page",
+   "url": "https://www.polkfl.gov/"
+  },
+  {
+   "title": "Polk County Property Appraiser",
+   "url": "https://polkflpa.gov/"
+  },
+  {
+   "title": "Polk County Property Appraiser, exemptions",
+   "url": "https://polkflpa.gov/Exemptions.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue, taxpayer calendar",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida DOR homestead guide",
-   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
-  },
-  {
-   "title": "Florida DOR Save Our Homes guide",
-   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
-  },
-  {
-   "title": "Florida DOR Save Our Homes cap chart",
+   "title": "Florida Department of Revenue, Save Our Homes",
    "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
   },
   {
-   "title": "Florida DOR documentary stamp tax",
+   "title": "Florida Department of Revenue, document stamp tax",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
-  },
-  {
-   "title": "Florida Statutes 197.502",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
-  },
-  {
-   "title": "Florida Statutes 197.432",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
   }
  ]
 }

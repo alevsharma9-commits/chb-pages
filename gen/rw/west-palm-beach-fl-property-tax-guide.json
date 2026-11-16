@@ -2,91 +2,95 @@
  "slug": "west-palm-beach-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which office bills property tax for West Palm Beach homes?",
-   "html": "<p>West Palm Beach sits in Palm Beach County, so the Palm Beach County Tax Collector sends the bill and the Palm Beach County Property Appraiser sets the value. The city only sets its own millage rate. According to the tax collector, the season opens with the TRIM notice in August and the office mails more than 600,000 bills by November 1.</p><p>Bills go to the address the property appraiser holds. If you moved or sold, fix the address, or file the collector's Property Sold Form so the bill is forwarded on to the buyer.</p><p>The revenue is distributed to the county and city governments, the school district, fire departments, libraries, parks, children's services and the healthcare district, per the collector's property tax page.</p>"
+   "h2": "What kind of city is West Palm Beach, and why does that shape a tax bill?",
+   "html": "<p>West Palm Beach is the county seat of Palm Beach County, so the same city that holds the courthouse also sits inside the county's tax machinery. The city's own history page says it was incorporated on November 5, 1894, two years ahead of Miami, and counted about 1,000 residents in 1895. It now estimates more than 120,000 people.</p>\n<p>The housing stock varies a great deal from one end of town to the other. The city's history page names the shopping and dining districts of The Square, Clematis Street, Antique Row and Northwood Village, and it points to Grassy Waters Everglades Preserve on the western edge. A bungalow near Northwood and a newer place out west do not share a value history, which is why the parcel record matters more than any citywide average.</p>\n<p>Other landmarks the city lists include the Kravis Center for the Performing Arts and the Norton Museum of Art. Florida's first junior college, Palm Beach Jr. College, opened here in 1933, and the airport moved thousands of servicemen during World War II.</p>"
   },
   {
-   "h2": "What millage rates apply to West Palm Beach?",
-   "html": "<p>The property appraiser publishes a table of every taxing authority's rates. For West Palm Beach it lists a final 2025 city rate of 8.1308 mills and a proposed 2026 rate of 8.1308. One mill is a dollar of tax for each thousand of taxable value. Treat the 2026 column as proposed, and ask the tax collector when the final figure is certified.</p><table><caption>Selected levies on the Palm Beach County property appraiser rate table</caption><thead><tr><th>Taxing authority</th><th>2025 final</th><th>2026 proposed</th></tr></thead><tbody><tr><td>West Palm Beach</td><td>8.1308</td><td>8.1308</td></tr><tr><td>West Palm Beach, debt service</td><td>0.0580</td><td>0.0533</td></tr><tr><td>Palm Beach County</td><td>4.5000</td><td>4.5000</td></tr><tr><td>School Board, local</td><td>3.2480</td><td>3.2480</td></tr><tr><td>School Board, state</td><td>3.0730</td><td>3.0390</td></tr><tr><td>Health Care District</td><td>0.6561</td><td>0.6561</td></tr><tr><td>Children's Services</td><td>0.4908</td><td>0.4908</td></tr></tbody></table><p>Source: <a href=\"https://pbcpao.gov/trim/hearings.htm\">Palm Beach County Property Appraiser, tax rates and contact info</a>. The same page lists a downtown development authority levy of 0.9700 for 2025 and 2.0000 proposed for 2026, which applies to its district only. Your bill is the total of everything that touches your parcel, so use the parcel lookup instead of adding columns.</p>"
+   "h2": "Which offices touch a West Palm Beach property tax bill?",
+   "html": "<p>Two county offices do the work, and the city only adds its own levy. The Palm Beach County Property Appraiser sets values and handles exemptions, while the Palm Beach County Tax Collector mails and collects the bill.</p>\n<p>The collector says it sends more than 600,000 bills each year, with the mailing wrapping up by November 1. Money collected is split among county and city governments, the school district, fire departments, libraries, parks, children's services and the healthcare district.</p>\n<p>A bill follows the mailing address on file at the appraiser. After a sale or a move, update that record, or send the collector's Property Sold Form so the notice reaches the new owner instead of piling up at an old address.</p>"
   },
   {
-   "h2": "When are West Palm Beach property taxes due?",
-   "html": "<p>Payable from November 1 through March 31, with a sliding discount. The tax collector's schedule runs 4% in November, 3% in December, 2% in January and 1% in February, with no discount in March, and delinquency starting in April.</p><p>Deadlines on weekends and holidays roll forward under Florida law. Once a bill is delinquent it cannot be paid online. Payments need to arrive by the last working day of the month to count for that month, and the postmark is no longer proof of payment.</p><p>The gross amount is due March 31 with no discount. The office also publishes an important dates page, so check it if a closing lands near a deadline.</p>"
+   "h2": "What millage rates sit on a West Palm Beach parcel?",
+   "html": "<p>A parcel inside the city carries several layers of millage, and the appraiser's rate page shows each layer in one list. A mill is one dollar of tax for every thousand dollars of taxable value.</p>\n<table>\n<caption>Selected West Palm Beach area levies listed by the Palm Beach County Property Appraiser</caption>\n<thead><tr><th>Taxing body</th><th>2025 final</th><th>2026 proposed</th></tr></thead>\n<tbody>\n<tr><td>City of West Palm Beach</td><td>8.1308</td><td>8.1308</td></tr>\n<tr><td>City debt service</td><td>0.0580</td><td>0.0533</td></tr>\n<tr><td>Palm Beach County</td><td>4.5000</td><td>4.5000</td></tr>\n<tr><td>School board, local</td><td>3.2480</td><td>3.2480</td></tr>\n<tr><td>School board, state</td><td>3.0730</td><td>3.0390</td></tr>\n<tr><td>Health Care District</td><td>0.6561</td><td>0.6561</td></tr>\n<tr><td>Children's Services</td><td>0.4908</td><td>0.4908</td></tr>\n</tbody>\n</table>\n<p>Source: <a href=\"https://pbcpao.gov/trim/hearings.htm\">Palm Beach County Property Appraiser, TRIM hearings and rates</a>. The 2026 column is a proposal, so the collector's bill is the place to confirm what was certified.</p>\n<p>The same page shows a downtown development authority levy of 0.9700 for 2025 and 2.0000 proposed for 2026. It reaches only parcels inside that district. Rather than adding columns yourself, look up the parcel and read its own total.</p>"
   },
   {
-   "h2": "What happens to delinquent taxes in Palm Beach County?",
-   "html": "<p>After April 1 the tax carries penalties and interest, and later the collector sells a tax certificate. By Florida statute 197.402, the sale is held 60 days after the delinquency date or June 1, whichever is later, per the collector.</p><ul><li>The certificate is a first lien that an investor buys by paying the tax.</li><li>Certificates nobody buys are struck to the county, and those accrue 18% a year, or 1.5% a month.</li><li>To redeem, pay the delinquent tax, the accrued interest, advertising costs and a $6.25 collection fee.</li><li>If the tax stays unpaid for two years from delinquency, the holder may apply for a tax deed under s. 197.502.</li></ul><p>The Clerk and Comptroller conducts the tax deed sale, and an owner can redeem before the sale occurs. Two further statewide points: the clerk's auction requires a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater, with full payment within 24 hours per <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html\">s. 197.542</a>.</p>"
+   "h2": "How does the payment calendar work in Palm Beach County?",
+   "html": "<p>Bills can be paid from November 1 through March 31, and the collector's discount shrinks month by month: 4 percent in November, 3 in December, 2 in January and 1 in February. March carries no discount.</p>\n<ul>\n<li>Delinquent bills cannot be paid online, so allow time for an office or mail payment.</li>\n<li>To count for a month, a payment must arrive by that month's last working day. A postmark does not prove timely payment.</li>\n<li>A due date that lands on a weekend or holiday moves to the next business day.</li>\n</ul>\n<p>The collector also keeps an important dates page. Check it before setting a closing near the end of a discount month, since an extra percentage point on a large bill is real money.</p>"
   },
   {
-   "h2": "How do homestead rules affect a West Palm Beach sale?",
-   "html": "<p>A homestead exemption goes to the owner living there on January 1 and ends when the house sells. Florida's <a href=\"https://floridarevenue.com/property/Documents/pt113.pdf\">homestead guide</a> says the exemption is up to $50,000, with the first $25,000 applying to school taxes too, and that the appraiser takes applications until March 1.</p><p>The Save Our Homes cap limits yearly growth in assessed value to the lower of 3 percent or the CPI change, and a sale resets the assessment to just value the next January 1. A seller moving within Florida may carry some of that benefit to a new home. Portability needs the new homestead established within three years, with Form DR-501T filed alongside DR-501, per the <a href=\"https://floridarevenue.com/property/Documents/pt112.pdf\">Save Our Homes guide</a>.</p><p>The county collector's home page also directs owners to a statewide amendment on property tax. Ask the collector which changes affect your parcel before you plan around them.</p>"
+   "h2": "What follows April 1 for an unpaid Palm Beach County bill?",
+   "html": "<p>Penalties and interest attach, and the collector later auctions a tax certificate. Under s. 197.402 the sale takes place 60 days after the delinquency date or on June 1, whichever comes later.</p>\n<p>A certificate is a first lien that an investor buys by paying the tax. When no investor bids, the certificate is struck to the county and accrues 18 percent a year, or 1.5 percent a month. Redeeming one means paying the tax, the interest, advertising costs and a $6.25 collection fee.</p>\n<p>After two years of nonpayment the certificate holder may apply for a tax deed under s. 197.502. The Clerk and Comptroller runs that sale, and the owner may redeem until the sale occurs. The auction's high bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is more, and pays in full within 24 hours under s. 197.542.</p>"
   },
   {
-   "h2": "What costs come with a deed in West Palm Beach?",
-   "html": "<p>A deed here is taxed at 70 cents per hundred dollars of price, since the county is not Miami-Dade (see the <a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">stamp tax page</a>). Consideration includes any mortgage on the property, whether or not the buyer assumes it. The Department says all parties are liable regardless of who agrees to pay.</p><p>Clerk recording fees come from <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html\">s. 28.24</a>.</p><p>The title agent will total both on the settlement statement. Check the contract to see which side pays the stamps.</p>"
+   "h2": "How can a West Palm Beach owner contest a value?",
+   "html": "<p>Start with a call to the appraiser, then file with the Value Adjustment Board if the matter stays open. The appraiser's office offers an informal conference at 561.355.3230 and says that talking to staff does not extend the filing deadline.</p>\n<p>The board has five members: two county commissioners, one school board member and two citizens. It relies on special magistrates, who hear cases on valuation, portability denials, deferrals and change of ownership findings and recommend decisions, while the board makes the final ruling. The Clerk and Comptroller administers the process separately from the appraiser.</p>\n<ul>\n<li>The petition is due within 25 days of the TRIM mailing. The 2026 deadline was September 14, and it has passed.</li>\n<li>The board may charge up to $20 to file.</li>\n<li>Single parcels can be filed online through the clerk's portal. Contiguous parcels go by mail or in person.</li>\n<li>Mail goes to PO Box 4036, West Palm Beach, FL 33402. In person or by courier, the office is at 301 North Olive Avenue, Room 206.</li>\n<li>An incomplete petition gets a Clerk's Notice with 10 calendar days to fix it.</li>\n</ul>"
   },
   {
-   "h2": "What should a West Palm Beach seller do about back taxes?",
-   "html": "<p>Request a payoff letter from the collector that runs through the closing date, and check whether a certificate exists. The collector's delinquent list is posted online, and county-held certificates can be searched through its RealAuction link.</p><ul><li>Pay before April 1 if you can, to avoid penalties.</li><li>Redeem a certificate before a tax deed application is filed.</li><li>Let the title agent settle the payoff out of your proceeds.</li></ul><p>Delinquent amounts cannot be paid online, so allow time for an in-person or mailed payment before the last working day of the month.</p>"
+   "h2": "What should a seller in West Palm Beach settle before closing?",
+   "html": "<p>Ask the collector for a payoff figure that runs through the closing date, and check whether a certificate exists on the parcel. The collector posts a delinquent list online, and county-held certificates can be searched through its RealAuction link.</p>\n<ul>\n<li>Homestead ends with the sale, and the next January 1 resets the assessment to just value, so the buyer's bill can differ sharply from yours.</li>\n<li>A seller buying again in Florida can look into portability, which has its own three-year window and a Form DR-501T.</li>\n<li>Deed stamps run 70 cents per $100 of price here, because the county is not Miami-Dade, and the contract says which side pays.</li>\n<li>Clerk recording charges follow s. 28.24, and the title agent adds both to the settlement statement.</li>\n</ul>\n<p>The collector's home page also points owners to a statewide property tax amendment. Ask which changes reach your parcel before you plan around them.</p>"
   },
   {
-   "h2": "Can a West Palm Beach owner contest the assessment?",
-   "html": "<p>Yes. The August TRIM notice starts a short clock: a value petition goes to the court clerk inside 25 days of that notice, and a turned-down exemption can be appealed within 30 days of the letter, per the <a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">state revenue agency</a>. The property appraiser's office handles exemption questions at the number printed on your bill.</p><p>Non-homestead assessments can climb up to 10 percent a year. Owners of a rental in West Palm Beach should compare the TRIM value against recent sales before the window closes.</p><ul><li>August: TRIM notice with proposed values and hearing dates.</li><li>September: local taxing bodies hold their public hearings; the appraiser's table lists dates for the city, county, school board and others.</li><li>November: the collector mails the bills.</li></ul>"
-  },
-  {
-   "h2": "What does the Palm Beach County bill explanation show?",
-   "html": "<p>The collector posts a sample bill with numbered callouts. It identifies the property control number, owners, situs address, exemptions, assessed, exempt and taxable values, and the amount due under each discount month. A QR code leads to the payment portal.</p><p>Taxable value is assessed value minus exemptions, and that figure is multiplied by each authority's millage rate to give ad valorem tax. Non-ad valorem assessments, such as solid waste fees that depend on the type of property, are added to reach the annual total. A seller can use this to check what a payoff statement includes.</p>"
+   "h2": "What does the sample Palm Beach County bill actually show?",
+   "html": "<p>The collector posts a sample bill with numbered callouts. It identifies the property control number, owners, situs address, exemptions, and the assessed, exempt and taxable values, then lists the amount due in each discount month. A QR code leads to the payment portal.</p>\n<p>Taxable value is assessed value minus exemptions. Each authority's millage is multiplied against it to produce the ad valorem total, and non-ad valorem assessments such as solid waste fees are added on top. When a payoff statement looks high, compare its lines with this layout.</p>\n<p>The TRIM notice arrives in August with proposed values and hearing dates, local taxing bodies hold September hearings, and the collector mails bills in November.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the West Palm Beach city millage rate?",
-   "a": "The Palm Beach County Property Appraiser's table lists 8.1308 mills as the final 2025 rate and 8.1308 as the proposed 2026 rate. Your total bill adds the county, school and other levies."
+   "q": "What is the West Palm Beach city millage rate on the appraiser's list?",
+   "a": "The appraiser's rate page shows 8.1308 mills for the city in 2025 and a proposed 8.1308 for 2026, with a separate city debt service line. Confirm the certified figure with the tax collector."
   },
   {
-   "q": "When does West Palm Beach property tax become delinquent?",
-   "a": "April 1. The Palm Beach County Tax Collector says delinquent tax is subject to penalties and interest and cannot be paid online."
+   "q": "When does a West Palm Beach tax bill become delinquent?",
+   "a": "April 1. Taxes paid in full by March 31 avoid penalties, and after April 1 the bill can no longer be paid online."
   },
   {
-   "q": "What discount can I get on a West Palm Beach tax bill?",
-   "a": "4% in November, 3% in December, 2% in January and 1% in February. March carries no discount."
+   "q": "Which discount applies if I pay in December?",
+   "a": "The collector's schedule gives 3 percent in December. November is 4 percent, January is 2, February is 1, and March has none."
   },
   {
-   "q": "What does redeeming a Palm Beach County certificate involve?",
-   "a": "You pay the delinquent tax, accrued interest, advertising costs and a $6.25 collection fee, according to the tax collector."
+   "q": "What does redeeming a Palm Beach County certificate cost?",
+   "a": "You pay the delinquent tax, accrued interest, advertising costs and a $6.25 collection fee, per the collector's tax certificate page."
   },
   {
-   "q": "Who runs the tax deed sale in Palm Beach County?",
-   "a": "The Clerk and Comptroller. A certificate holder can file for a tax deed once two years have passed from the delinquency date, and the owner may redeem until the sale."
+   "q": "Who holds the tax deed sale in Palm Beach County?",
+   "a": "The Clerk and Comptroller conducts it. Bidders post a deposit of 5 percent or $200, whichever is greater, and must pay in full within 24 hours."
   }
  ],
  "sources": [
   {
-   "title": "Palm Beach County Tax Collector, property taxes",
+   "title": "Palm Beach County Tax Collector, property tax",
    "url": "https://www.pbctax.gov/taxes/property-tax/"
   },
   {
-   "title": "Palm Beach County Tax Collector, tax certificates and deeds",
+   "title": "Palm Beach County Tax Collector, certificates and deeds",
    "url": "https://www.pbctax.gov/taxes/property-tax/tax-certificates-and-deeds/"
   },
   {
-   "title": "Palm Beach County Tax Collector, home page",
-   "url": "https://www.pbctax.gov"
-  },
-  {
-   "title": "Palm Beach County Property Appraiser, tax rates",
+   "title": "Palm Beach County Property Appraiser, TRIM hearings and rates",
    "url": "https://pbcpao.gov/trim/hearings.htm"
   },
   {
-   "title": "Florida Department of Revenue, homestead guide",
+   "title": "Palm Beach County Property Appraiser, file a petition",
+   "url": "https://pbcpao.gov/file-petition.htm"
+  },
+  {
+   "title": "Palm Beach County Clerk, petition filing",
+   "url": "https://www.mypalmbeachclerk.com/departments/value-adjustment-board-vab/petition-filing"
+  },
+  {
+   "title": "City of West Palm Beach, history",
+   "url": "https://wpb.org/Our-City/History"
+  },
+  {
+   "title": "Florida DOR, homestead guide",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida Department of Revenue, Save Our Homes guide",
+   "title": "Florida DOR, Save Our Homes guide",
    "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
   },
   {
-   "title": "Florida Department of Revenue, documentary stamp tax",
+   "title": "Florida DOR, documentary stamp tax",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
   },
   {

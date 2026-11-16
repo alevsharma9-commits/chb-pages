@@ -2,116 +2,108 @@
  "slug": "sell-my-house-fast-cape-coral-fl",
  "sections": [
   {
-   "h2": "What comes first when a Cape Coral owner decides to sell?",
-   "html": "<p>Sort out which Lee County office controls each piece of the paperwork, then weigh an agent listing, an owner-run sale and a straight cash purchase. Cape Coral homes are assessed, billed and recorded through Lee County, so the county's calendar and fees matter as much as anything the city does.</p><p>Valuation questions go to the Lee County Property Appraiser. The bill itself comes from the Lee County Tax Collector, and deed filing belongs to the Clerk. Start by pulling your parcel record and your latest tax bill so you know what a buyer will see.</p><ul><li>Check that the owner names on title match the people who will sign.</li><li>Look for open permits, liens or unpaid taxes.</li><li>Ask whether a lender, a tenant or an heir has a say in the timing.</li></ul>"
+   "h2": "What makes selling in Cape Coral different from other Lee County towns?",
+   "html": "<p>Utility assessments. Cape Coral grew from a 1957 land-sales platting with canals, and the city has been extending water, sewer and irrigation lines to parcels that never had them. Those extensions are paid through special assessments, and a buyer will ask whether yours is paid off.</p><p>The city's budget book describes more than 400 miles of waterways with access to the Intracoastal Waterway and the Gulf of Mexico, so many sellers also have seawalls, docks and canal-front insurance questions. Those come from other sources, but the assessment question starts with the city's billing office.</p><ul><li>Look up whether your street sits in a Utilities Extension Project area.</li><li>Check your tax bill for a non-ad valorem line from the city.</li><li>Ask whether City water and irrigation are already connected.</li></ul>"
   },
   {
-   "h2": "What calendar does the Lee County Property Appraiser publish?",
-   "html": "<p>The office lists a yearly cycle that starts with January 1 as the assessment date and ends with tax bills in November. It also notes that applications for exemptions filed after March 1 may be granted for the following year, which matters if you buy or move late in the year.</p><table><caption>Lee County Property Appraiser, dates to remember</caption><thead><tr><th>When</th><th>Event</th></tr></thead><tbody><tr><td>January 1</td><td>Date of assessment for all properties</td></tr><tr><td>January and February</td><td>Applications for exemptions are filed for the current year</td></tr><tr><td>March 1</td><td>Deadline for all exemptions and agricultural classification</td></tr><tr><td>April 1</td><td>Tangible personal property returns due</td></tr><tr><td>July 1</td><td>Assessment rolls go to the Department of Revenue</td></tr><tr><td>August</td><td>TRIM notices mailed; 25 days to petition the Value Adjustment Board on value</td></tr><tr><td>October</td><td>Rolls certified for collection</td></tr><tr><td>November</td><td>Tax Collector mails bills</td></tr></tbody></table><p>The Property Appraiser also says owners may ask for an informal conference at any time during the year, which can settle a value question before it becomes an appeal.</p>"
+   "h2": "How do Cape Coral special assessments move when a house sells?",
+   "html": "<p>Generally they stay with the lot. The city's FAQ says an unpaid assessment passes to the new owner, who takes over the remaining balance, unless it is paid in full first.</p><p>The same page says the charge is treated as a tax levy and is recorded with the Lee County Clerk as a notice, not as a mortgage-style lien. The exception is hardship and deferral programs, which require a lien on the property, and those liens must be paid in full at closing.</p><p>Assessments are billed once a year on the Lee County Tax Collector's tax bill, so skipping one carries the same risk as skipping the rest of the bill: a tax certificate. Payoffs can be made by mail, in person at City Hall's cashier window, or online under the city's tax-billed assessments payment page.</p>"
   },
   {
-   "h2": "How does the early-payment discount work in Lee County?",
-   "html": "<p>Early payers get a shrinking discount, starting at 4 percent in November and ending at 1 percent in February, per the Property Appraiser's calendar and the same state schedule used everywhere.</p><p>Delinquency starts April 1, and certificates go to auction by June 1. Under section 197.432 a certificate buyer waits two years before contacting the owner, and the tax deed application comes only after that wait.</p><p>The takeaway for sellers: settle the balance early, or let the closing agent pay from proceeds. An outstanding certificate can stall a buyer's lender.</p>"
+   "h2": "How is a Cape Coral assessment calculated?",
+   "html": "<p>The city charges by lot area, not by the value of the house, and it bills vacant lots as well as built ones.</p><table><caption>How the two Cape Coral line-extension charges work</caption><thead><tr><th>Charge</th><th>Who pays</th><th>Unit used</th></tr></thead><tbody><tr><td>UEP special assessment</td><td>Every parcel in an approved project area, built or vacant</td><td>Per equivalent lot of 5,000 square feet, or per parcel of 10,000</td></tr><tr><td>Contribution in aid of construction</td><td>Parcels outside a project area where a developer already paid for lines</td><td>Equivalent parcels of 10,000 square feet, times the rate set by council</td></tr></tbody></table><p>Source: <a href='https://capecoral.gov/departments/financial_services/customer_billing_services/assessments/special_assessment_faqs.php'>City of Cape Coral, Special Assessment FAQ</a>.</p><p>Each project area has its own billing term and interest rate, listed on the city's special assessments page. The charge is meant to repay project costs, including financing fees, once the council approves the project. Owners who sell to an investor should get the remaining balance and its end date in writing from the city.</p>"
   },
   {
-   "h2": "What happens if the lender or the county is moving on the property?",
-   "html": "<p>Once a foreclosure judgment exists, time is short: section 45.031 sets the public sale 20 to 35 days out unless the plaintiff agrees otherwise. Notice runs for two consecutive weeks first.</p><p>Section 702.10 offers lenders a faster path, an order to show cause requested in a verified complaint. It also treats a home carrying a homestead exemption on the latest roll as owner-occupied unless rebutted.</p><ul><li>Surplus funds: the judgment must carry a notice about them, and owners should contact the clerk promptly after the sale.</li><li>Tax deed sales: on homestead property the opening bid adds half of the latest assessed value.</li><li>If either process has started, call a Florida attorney first.</li></ul>"
+   "h2": "Does the northeast irrigation rule affect a sale?",
+   "html": "<p>It can. In May 2025 the city mailed letters to about 1,000 owners in a northeast water-shortage area served by the Mid-Hawthorn Aquifer, telling them to connect to city irrigation within 180 days under Ordinance 7-25. The rule applies only where city irrigation service is already available.</p><p>The city ties the rule to its joint plan with the South Florida Water Management District, following that agency's water shortage declaration in November 2023. Owners are charged for irrigation water when they connect or when 180 days pass, whichever comes first.</p><ul><li>With in-ground sprinklers, you need a free permit and inspection to connect.</li><li>Without sprinklers, a Kit-A outdoor spigot is installed and no permit is needed.</li><li>A plumber does the work, and any damaged swale or road must be repaired before the permit closes.</li><li>Keep trees seven feet and palms five feet from utilities.</li><li>In a mapped eagle nest zone, no machine digging from October 15 to May 15; hand digging is allowed.</li></ul><p>If you received a letter and have not complied, tell your buyer and your closing agent. Without a letter, the city says the rule does not affect you.</p>"
   },
   {
-   "h2": "Can squatters or a lapsed tenant affect my Cape Coral sale?",
-   "html": "<p>Yes, an occupant can delay closing, but Florida gives owners real tools. Under section 82.036 an owner or agent can file a verified Complaint to Remove Persons Unlawfully Occupying Residential Real Property with the sheriff, who serves a notice to vacate and puts the owner back in possession when conditions are met.</p><p>Conditions include no tenancy, a non-family occupant, a property closed to the public, a request to leave and no pending lawsuit. A false statement exposes the owner to damages, up to triple the fair market rent.</p><p>Adverse possession is a different matter. Section 95.18 requires 7 years of actual continued possession under a claim of title, payment of taxes and a return filed with the Property Appraiser. A person who lives in a house only on an adverse possession claim before filing that return commits trespass under the statute. Most vacant-house problems never reach that stage, but a vacant property is the one to watch.</p>"
+   "h2": "What does the Lee County Property Appraiser calendar mean for a seller?",
+   "html": "<p>It sets the year's clock. Value is fixed as of January 1, exemption requests are due March 1, and the appraiser mails TRIM notices in August. The appraiser also notes that late exemption applications may be granted for the following year, and that owners may ask for an informal conference at any time to talk through a value.</p><p>The Lee County Tax Collector mails bills in November. Early payment brings a discount of 4 percent that month, shrinking monthly to 1 percent in February, and anything unpaid on April 1 is delinquent.</p><p>A TRIM notice shows proposed levies and any proposed or adopted non-ad valorem assessments, which is where a city utility charge would appear. Read that line before you set a price, and ask the city's customer billing office, which handles new construction and project questions, to confirm the balance in writing.</p><p>Vacant lots in the same project area are assessed too, so a lot next door is not exempt. Compare notes with the title agent early so the payoff or the transfer of the balance is written into the contract.</p>"
   },
   {
-   "h2": "What should I gather before I ask for offers on a Cape Coral house?",
-   "html": "<p>Assemble a folder first. Buyers move faster, and offers come in cleaner, when the basic records are on the table. Most of these items cost nothing to collect.</p><ul><li>Your latest Lee County tax bill and the parcel record from the Property Appraiser.</li><li>A recorded copy of your deed, which the Clerk can supply.</li><li>Mortgage and lien payoff information, plus any association or utility balances.</li><li>Permit records for additions, roofs, windows or other work done since you bought.</li><li>Receipts for major repairs, and any warranty papers you can transfer.</li></ul><p>If a lender, a co-owner or a tenant is involved, note their names and contact details in the same folder. That way your closing agent can reach each person without waiting on you, and you avoid the delays that come from missing signatures late in the process.</p><p>Finally, decide in advance how low a price you would accept and how soon you need the money. Those two numbers make every offer easier to judge.</p>"
+   "h2": "What if a lender, the county or an occupant is already involved?",
+   "html": "<p>Timing tightens fast once a foreclosure judgment is entered: the public sale is set 20 to 35 days out unless the plaintiff agrees to more, with notice running two weeks first. A lender may instead ask for an order to show cause, and a homestead exemption on the latest roll is presumed to mean owner-occupied. Call a Florida attorney if either has begun.</p><p>For an unwanted occupant in a vacant house, an owner or agent can file a verified complaint with the sheriff to remove persons unlawfully occupying residential property. It requires no tenancy, no family tie, a property closed to the public, a demand to leave and no pending suit. A false statement can cost up to triple the fair market rent.</p><p>Adverse possession needs seven years of continued possession under claim of title with taxes paid and a return filed. Living in a house on that theory before filing is trespass under the statute.</p>"
   },
   {
-   "h2": "Which exemptions and relief programs might apply to a Cape Coral homeowner?",
-   "html": "<p>Several, and some depend on age or service. Seniors aged 65 and up may qualify for an added homestead break if a local ordinance provides it and household income is within the limit, under section 196.075. Veterans past 65 with a permanent service-connected disability may receive a discount equal to the VA disability percentage, and a disabled ex-servicemember may get a flat reduction in assessed value.</p><p>A tax deferral is another option, filed on Form DR-570 with the collector. Ask the Lee County offices which programs apply before you decide to sell under pressure.</p>"
+   "h2": "Which relief programs might help Cape Coral owners?",
+   "html": "<p>Several, depending on age and service. A city or county ordinance may add a homestead break for owners 65 and older within an income limit. Veterans aged 65 or more with a permanent service-connected disability may receive a discount equal to their VA rating. A disabled ex-servicemember may get a flat $5,000 cut in assessed value.</p><p>Owners can also ask the Tax Collector about deferral on Form DR-570, filed by March 31 after the assessment year. Ask the Lee County offices which programs your household meets before selling under pressure.</p>"
   },
   {
-   "h2": "What mistakes slow down a quick sale here?",
-   "html": "<p>Most delays come from paperwork that nobody checked early. A mismatch between the name on the deed and the name on a driver's license, an unreleased old mortgage, or a lien nobody remembered can add weeks.</p><p>Another common snag is timing around the exemption calendar. If you plan to buy again, remember that the January 1 assessment date and the March 1 filing date drive the new home's tax bill. Closing a week before or after those dates can change what you owe the next November. Ask your closing agent to flag which side of the dates your purchase falls on.</p>"
-  },
-  {
-   "h2": "What goes on the closing statement for recording?",
-   "html": "<p>The deed tax uses the standard statewide rate in Lee County, since only Miami-Dade differs, and every party on the document stays liable even when the contract assigns the cost to one side.</p><p>Recording charges follow section 28.24 and run per page. Ask the Lee County Clerk for a total before closing.</p><p>A deed between spouses where the only consideration is a mortgage on the homestead, and divorce deeds for the marital home, fall under an exemption in section 201.02(7). A deed made for estate planning has no special exemption, per state guidance.</p>"
+   "h2": "What belongs in the folder for a Cape Coral buyer?",
+   "html": "<ul><li>Your latest Lee County tax bill, with its non-ad valorem lines.</li><li>City utility status: connected, assessed, or not yet extended.</li><li>A recorded deed copy from the Clerk.</li><li>Payoff letters for loans, liens and association balances.</li><li>Permit records for roofs, windows, docks or additions.</li></ul><p>The deed stamp tax uses the standard seventy cent rate in Lee County, and every signer is liable. Recording is charged per page under section 28.24.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which county handles Cape Coral property taxes?",
-   "a": "Lee County. The Lee County Property Appraiser sets values, the Lee County Tax Collector mails bills in November, and the Clerk records deeds."
+   "q": "Does a Cape Coral utility assessment stay with the house?",
+   "a": "Yes, if unpaid. The city says the new owner assumes the remaining balance, except that hardship and deferral liens must be paid at closing."
   },
   {
-   "q": "When is the Lee County exemption deadline?",
-   "a": "March 1. The Property Appraiser's date list says filings after that day may be granted for the following year, so file as early as you can once you own the home on January 1."
+   "q": "Where is a Cape Coral assessment billed?",
+   "a": "On the annual Lee County Tax Collector bill, as a non-ad valorem line. Payoffs can also be made at City Hall or online."
   },
   {
-   "q": "How long can I contest my Cape Coral value?",
-   "a": "25 days after TRIM notices go out in August. An informal conference with the office is available at any time during the year."
+   "q": "Who gets the irrigation connection letters?",
+   "a": "Only owners in the northeast water-shortage area where city irrigation is already available. The city says it mailed about 1,000 in May 2025."
   },
   {
-   "q": "What if there are unpaid taxes when I sell?",
-   "a": "Clear them for clean title, usually through the closing statement. Delinquency begins April 1 and certificate auctions follow by June 1."
+   "q": "When must I file for homestead in Lee County?",
+   "a": "By March 1 of the tax year, with the home as your permanent residence on January 1."
   },
   {
    "q": "Can I remove someone living in my vacant Cape Coral house?",
-   "a": "Possibly, through a sheriff removal complaint if the statutory conditions are met, such as no tenancy and no litigation. If anything is in doubt, ask an attorney before filing."
+   "a": "Possibly, through the sheriff complaint process if the statutory conditions are met, such as no tenancy and a prior demand to leave. Talk to an attorney first."
   }
  ],
  "sources": [
   {
-   "title": "Lee County Property Appraiser, Important Dates To Remember",
+   "title": "https://capecoral.gov/departments/financial_services/customer_billing_services/assessments/special_assessment_faqs.php",
+   "url": "https://capecoral.gov/departments/financial_services/customer_billing_services/assessments/special_assessment_faqs.php"
+  },
+  {
+   "title": "https://capecoral.gov/news_detail_T4_R91.php",
+   "url": "https://capecoral.gov/news_detail_T4_R91.php"
+  },
+  {
+   "title": "https://leepa.org/Dates.aspx",
    "url": "https://leepa.org/Dates.aspx"
   },
   {
-   "title": "Florida Department of Revenue, Property Tax Information for Taxpayers",
+   "title": "https://floridarevenue.com/property/Pages/Taxpayers.aspx",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida Department of Revenue, Documentary Stamp Tax",
+   "title": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
   },
   {
-   "title": "Florida Statutes 45.031",
+   "title": "https://flsenate.gov/Laws/Statutes/2026/45.031",
    "url": "https://flsenate.gov/Laws/Statutes/2026/45.031"
   },
   {
-   "title": "Florida Statutes 702.10",
+   "title": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0702/Sections/0702.10.html",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0702/Sections/0702.10.html"
   },
   {
-   "title": "Florida Statutes 197.432",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.432.html"
-  },
-  {
-   "title": "Florida Statutes 197.502",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
-  },
-  {
-   "title": "Florida Statutes 82.036",
+   "title": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0082/Sections/0082.036.html",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0082/Sections/0082.036.html"
   },
   {
-   "title": "Florida Statutes 95.18",
+   "title": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.18.html",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.18.html"
   },
   {
-   "title": "Florida Department of Revenue, Exemptions for veterans and seniors",
+   "title": "https://floridarevenue.com/property/Documents/pt110.pdf",
    "url": "https://floridarevenue.com/property/Documents/pt110.pdf"
   },
   {
-   "title": "Florida Department of Revenue, Disabled servicemember exemptions",
+   "title": "https://floridarevenue.com/property/Documents/pt109.pdf",
    "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
   },
   {
-   "title": "Florida Statutes 28.24",
+   "title": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
-  },
-  {
-   "title": "Florida Statutes 201.02",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
   }
  ]
 }
