@@ -1,125 +1,113 @@
 {
+ "slug": "brevard-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who does what on a Brevard property tax bill?",
-   "html": "<p>Three offices matter: the Brevard County Property Appraiser (BCPAO), the Brevard County Tax Collector and the county clerk, who files deeds. Each does a separate job, and mixing them up costs sellers time.</p><ul><li>The appraiser values property each January 1, mails the August notice of proposed taxes and decides exemption eligibility.</li><li>The collector mails the November bill, takes payment and handles installment and deferral applications.</li><li>The clerk, whose offices are in Viera, Titusville, Melbourne, Palm Bay and Merritt Island, files the deed and takes the stamp tax.</li></ul><p>Brevard's tax collector website says its office answers questions about property taxes, vehicle registration and business services, and it keeps branch offices around the county. Its homepage also offers appointments and Publix kiosks for vehicle renewals.</p>"
+   "h2": "What does Brevard County look like to someone about to sell?",
+   "html": "<p>Brevard stretches along the central Florida east coast for 72 miles from north to south and holds roughly 600,000 residents. The county's own profile counts 16 municipalities and names two anchors that shape local demand, Kennedy Space Center and Patrick Space Force Base.</p>\n<p>A seller in Titusville, Melbourne, Palm Bay or a small beachside city is therefore dealing with very different local governments under one county tax system. The county itself mainly serves people who live outside city limits, and the commission has five districts. The tax bill, though, runs on county rails wherever the house sits.</p>"
   },
   {
-   "h2": "When do Brevard bills arrive and come due?",
-   "html": "<p>Bills are issued in November, and early payment earns a discount that shrinks each month: 4 percent for November, then 3, 2 and 1 percent through February. April 1 is the line after which an unpaid Brevard bill is delinquent.</p><table><caption>Florida property tax calendar as it applies to Brevard owners</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Value is set for the year</td></tr><tr><td>March 1</td><td>Exemption and classification filing deadline</td></tr><tr><td>August</td><td>Notice of proposed taxes mailed</td></tr><tr><td>Within 25 days of that notice</td><td>Value petition due at the clerk</td></tr><tr><td>November</td><td>Tax bills sent</td></tr><tr><td>April 1</td><td>Unpaid taxes delinquent</td></tr><tr><td>By June 1</td><td>Tax certificates sold on unpaid items</td></tr></tbody></table><p>Brevard's collector holds the figures for your parcel, including the millage rate, and can also explain installment prepayment. Ask them about it early in the year, well ahead of the November bill.</p>"
+   "h2": "Which Brevard government handles permits, and which handles tax?",
+   "html": "<p>Permits depend on the address, while tax billing does not. For unincorporated land, county government issues building permits, reviews plans, enforces code, maintains local roads and bridges and supplies utilities. Inside a city, the city does most of that.</p>\n<ul>\n<li>County services that reach everyone include 9-1-1 and emergency medical services, emergency management, mosquito control, libraries and parks.</li>\n<li>Value comes from the appraiser's office, and the collector's office sends the bills and takes the money.</li>\n<li>The county reports about 2,350 employees across 24 offices, none of which sets your assessed value.</li>\n</ul>\n<p>The county's profile also lists a Valkaria Airport, a Natural Resources Management office and a Solid Waste Management office among its departments, a reminder that unincorporated owners deal with the county for services that city residents get from city hall.</p>\n<p>Before a pre-sale repair, confirm which jurisdiction issues the permit. The mailing address on the tax bill can name a city that differs from the one that governs the lot.</p>"
   },
   {
-   "h2": "What does Brevard homestead exemption cover?",
-   "html": "<p>The exemption can remove up to $50,000 of taxable value. School taxes see only the first $25,000, while the other layer of up to $25,000 reaches assessed value above $50,000 for non-school levies. The second layer is adjusted each January 1 for inflation when the CPI change is positive.</p><p>Form DR-501 goes to the appraiser by March 1, and you must live there as your permanent residence by January 1. For 2026 the BCPAO home page showed midnight Monday, March 2, since March 1 landed on a Sunday.</p><p>Renting the house out, or moving out, ends the exemption. The BCPAO and the tax collector both display a notice about a homestead exemption ballot item, Amendment 3, which was on the November 3 ballot. Check the appraiser's Amendment 3 page for the result and any new rules before you file.</p>"
+   "h2": "What does the Brevard tax collector's year look like?",
+   "html": "<p>The collector publishes a calendar by month, and its discounts run on the postmark. Here are the entries a seller is likely to need.</p>\n<table>\n<caption>Selected entries on the Brevard County Tax Collector important dates page</caption>\n<thead><tr><th>Month</th><th>Entry</th></tr></thead>\n<tbody>\n<tr><td>November</td><td>Collection starts, 4% discount through November 30</td></tr>\n<tr><td>December</td><td>3% discount, third installment due December 31</td></tr>\n<tr><td>January, February</td><td>2% then 1% discount</td></tr>\n<tr><td>March</td><td>Full amount due March 31, fourth installment, last day for homestead tax deferral filing</td></tr>\n<tr><td>April</td><td>Unpaid taxes delinquent April 1, installment applications for next year accepted until May 1</td></tr>\n<tr><td>May</td><td>Delinquent list advertised weekly for three weeks, cost added to the bill</td></tr>\n<tr><td>June</td><td>Certificate sale starts by June 1; first installment due June 30</td></tr>\n<tr><td>September</td><td>Second installment due September 30</td></tr>\n</tbody>\n</table>\n<p>Source: <a href=\"https://brevardtaxcollector.com/important-dates\">Brevard County Tax Collector, important dates</a>.</p>"
   },
   {
-   "h2": "How does selling change a Brevard bill?",
-   "html": "<p>Title changing hands sends the parcel back to just value on the following first of January. That ends the Save Our Homes cap, which holds annual homestead assessment growth to 3 percent or inflation, whichever is lower.</p><p>The Department of Revenue's chart shows the cap was 3.0 percent for 2024, 2.9 percent for 2025 and a 2.7 percent cap for 2026. A long-time Brevard owner can therefore have a taxable value well under market, and a buyer should expect a higher bill. If you buy again in Florida, portability can carry part of the old benefit to the new homestead, up to $500,000, if the new homestead is set up inside three years counted from the first of January of the year the old one ended (Form DR-501T).</p>"
+   "h2": "Can a Brevard owner pay in quarterly installments?",
+   "html": "<p>Yes, when estimated tax is above $100. The collector's plan splits the year into four payments, due by June 30, September 30, December 31 and March 31, with the application, Form DR-534, due before May 1.</p>\n<p>The June and September payments are figured from last year's gross tax. Changes from new value or exemptions are folded into the December and March payments after the roll is certified. Once enrolled and current, an owner does not reapply each year, as long as the first payment lands by June 30. If it has not arrived by July 31, participation is cancelled.</p>\n<p>The collector warns that anyone with a mortgage escrow account should not use installments, because the lender pays in November to capture the largest discount. Questions go to (321) 264-6969, and the form goes to the collector at P.O. Box 2500, Titusville, FL 32781-2500. Any amount still unpaid on April 1 follows the normal delinquency rules.</p>"
   },
   {
-   "h2": "Can I sell a Brevard house with tax still owed?",
-   "html": "<p>An outstanding balance does not block a Brevard sale, yet the title agent needs the collector's payoff. Collect the payoff number, interest and any certificate costs from the Brevard collector so the closing date fits.</p><p>If taxes are delinquent, the lien process moves in a set order. A tax certificate is sold on unpaid taxes by June 1, and the holder must wait two years, counted from April 1 of the issue year, before asking the owner to pay. A deed application can follow after that period, and a homestead tax deed opens at an amount that includes half of the latest assessed value (s. 197.502).</p><ul><li>Homestead owners with a small delinquency under $250 have the certificate issued to the county, not auctioned.</li><li>Seniors who want to defer part of the tax file Form DR-570 with the collector by March 31, and the deferral covers the portion above 3 percent of household income.</li></ul>"
+   "h2": "What are the payment methods and fees in Brevard?",
+   "html": "<p>Standard bills are mailed by November 1, and the collector asks owners to call if nothing has arrived by the second week of November. Installment payers get bills quarterly, in June, September, December and March. A duplicate can be mailed on request.</p>\n<ul>\n<li>E-checks made online are free, and a payment sent in error can be reversed by calling before 5:00 pm that day.</li>\n<li>Credit and debit cards, Apple Pay and Google Pay carry a 2.75 percent fee with a $2.75 minimum. International cards are 3.95 percent. A third-party vendor keeps the fee.</li>\n<li>A returned check draws a service charge under s. 68.065: $25 under $50, $30 from $50 to $299.99, $40 from $300 to $799.99, and 5 percent at $800 or more.</li>\n<li>Wire payments must name the tax account number, the owner and the property ID, and cover all bank fees.</li>\n</ul>\n<p>The collector adds that a current mailing address on file protects against ownership problems, which matters most for an owner who has already moved out.</p>"
   },
   {
-   "h2": "Where does a Brevard value challenge go?",
-   "html": "<p>If the appraiser's record shows a factual error, such as the wrong square footage or bedroom count, call BCPAO first. A formal challenge goes to the value adjustment board: file the petition, on the DR-486 series, with the clerk inside 25 days of the August proposed-tax notice.</p><p>If the appraiser denied an exemption, classification, portability or deferral, the petition window is 30 days after the denial letter was mailed. A rental owner in Brevard faces a different limit: non-homestead assessed value may climb 10 percent a year.</p>"
+   "h2": "What happens in Brevard when a bill is left unpaid?",
+   "html": "<p>In May, the late list for real estate is printed in a local paper on three consecutive weeks, and the ad cost plus an electronic fee land on the owner's balance. Certificates go up for sale as early as June 1 or soon after. Business property that is late gets one May listing, and warrants follow July 1.</p>\n<p>A holder who has waited out the statutory period may then apply for a deed (s. 197.502). On a homestead, the opening bid includes half of the last assessed value, and a homestead balance under $250 is issued to the county, never auctioned.</p>"
   },
   {
-   "h2": "Which discounts and relief programs exist in Brevard County?",
-   "html": "<p>Some senior and veteran relief depends on a local ordinance, which Brevard's appraiser can confirm. A homeowner 65 or older may qualify for an extra homestead exemption of up to $50,000 if the local ordinance applies and income fits the limit, so ask BCPAO whether Brevard has adopted it and what the income cap is.</p><ul><li>Disabled former servicemembers: $5,000 off assessed value.</li><li>Older veterans with a lasting service-related disability: a homestead discount that tracks the VA rating.</li><li>Total and permanent disability: a full homestead exemption may be possible.</li><li>Servicemembers deployed on a designated operation: a partial exemption on Form DR-501M.</li></ul><p>A servicemember away on deployment can rent the house without giving up the exemption. Brevard's appraiser runs several offices, including one in Titusville, and its home page says no appointment is needed for in-person service.</p>"
+   "h2": "Can the sale close while Brevard tax is unpaid?",
+   "html": "<p>Back taxes will not block a closing. The title agent still needs the collector's payoff and any certificate costs, so request them early. A sold certificate has to be redeemed at the table.</p>\n<p>A deed to the buyer also resets the parcel to just value January 1, which ends the homestead growth limit, so the buyer's first bill can sit far above yours. Someone moving to another Florida house should ask about portability and Form DR-501T.</p>"
   },
   {
-   "h2": "Which taxes ride along with a Brevard sale?",
-   "html": "<p>Real estate tax follows the parcel, so an unpaid Brevard bill appears in the title search. Before closing, the buyer's title agent checks the status with the collector.</p><p>Documentary stamp tax is separate. It applies to the deed at a rate of $0.70 for every $100 of price and debt, collected by the Brevard clerk at filing.</p><ul><li>Real property tax: owed to the Brevard tax collector.</li><li>Deed stamp tax: owed to the clerk at recording.</li><li>Tangible personal property return for rental furnishings or business equipment: due April 1 to the appraiser (Form DR-405).</li></ul>"
+   "h2": "Who handles a value dispute or exemption question in Brevard?",
+   "html": "<p>Start with the Brevard County Property Appraiser, who answers at (321) 264-6700 per the collector's page. If the record misstates something simple, such as the bedroom count, a phone call may settle it. Formal petitions use the DR-486 forms, filed with the clerk inside 25 days of the August notice, or 30 days after an exemption denial letter.</p>\n<p>Homestead applications are due March 1. The collector's home page has flagged Amendment 3, a homestead exemption ballot item, so check the appraiser's site for current exemption amounts before you quote a buyer next year's taxes.</p>"
   },
   {
-   "h2": "How do property tax records help me sell a Brevard inherited house?",
-   "html": "<p>When an owner dies, the homestead exemption ends because the home is no longer a permanent residence, and the next first of January assessment can rise. Ask the appraiser how the transfer is treated, since some transfers upon death are among the exceptions to the change-of-ownership reset.</p><p>Heirs who want a quick sale should get a payoff quote from the collector and the exemption status from the appraiser ahead of listing.</p>"
+   "h2": "What relief programs might an older or veteran Brevard owner ask about?",
+   "html": "<p>Several programs depend on local adoption, so ask the appraiser which apply in Brevard and your city.</p>\n<ul>\n<li>Residents 65 and older: an ordinance may add as much as $50,000 for qualifying household income.</li>\n<li>Disabled ex-servicemembers: a $5,000 assessed value reduction.</li>\n<li>Veterans past 65 with a lasting service-related disability: a homestead discount tied to the VA percentage.</li>\n<li>Homestead tax deferral: the collector lists March 31 as the filing deadline.</li>\n</ul>"
+  },
+  {
+   "h2": "What do heirs in Brevard need to check before listing?",
+   "html": "<p>Heirs lose the exemption once the owner is gone. Call the appraiser to learn how the transfer is treated, since certain transfers at death escape the ownership reset, and pull a payoff from the collector before the sign goes up.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Which Brevard office mails the tax notice?",
-   "a": "The Brevard County Tax Collector sends it in November. The property appraiser sets value and exemptions but does not bill."
+   "a": "The tax collector mails the November bill. The property appraiser mails the proposed tax notice in August."
   },
   {
    "q": "What is the Brevard delinquency date?",
-   "a": "April 1 following the November bill. Brevard certificates for unpaid items go on sale by the first of June."
+   "a": "April 1. Taxes unpaid then become delinquent, and certificates are offered on or before June 1."
   },
   {
-   "q": "What is the Brevard homestead filing deadline?",
-   "a": "March 1 under state law. The appraiser posted midnight on Monday, March 2 for 2026 because March 1 fell on a Sunday."
+   "q": "What is the minimum for the Brevard installment plan?",
+   "a": "Estimated tax must exceed $100, and the application on Form DR-534 must reach the collector before May 1."
   },
   {
-   "q": "Do I lose the homestead cap if I sell my Brevard home?",
-   "a": "Yes for the buyer. A sale resets value to just value on the next first of January. You may carry part of the benefit to a new Florida homestead through portability."
+   "q": "Do mortgage escrow owners use installments in Brevard?",
+   "a": "No. The collector says lenders pay in November to capture the discount, so installments are not for escrow accounts."
   },
   {
-   "q": "Where can I find the current Brevard millage rate?",
-   "a": "Read the notices from the Brevard tax collector or appraiser, which carry the rates for each taxing authority. The rate is set after budget hearings in September and October."
+   "q": "Is the Brevard discount based on postmark?",
+   "a": "Yes, the collector's calendar says discounts are based on postmark, with 4 percent through November 30."
   }
  ],
  "sources": [
   {
-   "title": "Brevard County Property Appraiser",
-   "url": "https://www.bcpao.us"
+   "title": "Brevard County Government, about the county",
+   "url": "https://brevardfl.gov/AboutBrevardCounty"
   },
   {
-   "title": "Brevard County Tax Collector",
+   "title": "Brevard County Tax Collector, home",
    "url": "https://www.brevardtaxcollector.com"
   },
   {
-   "title": "Florida DOR taxpayer information",
+   "title": "Brevard County Tax Collector, important dates",
+   "url": "https://brevardtaxcollector.com/important-dates"
+  },
+  {
+   "title": "Brevard County Tax Collector, pay property taxes",
+   "url": "https://brevardtaxcollector.com/services/pay-property-taxes"
+  },
+  {
+   "title": "Brevard County Tax Collector, installment options",
+   "url": "https://brevardtaxcollector.com/services/installment-options"
+  },
+  {
+   "title": "Florida DOR, taxpayer information",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida DOR homestead guide",
+   "title": "Florida DOR, homestead guide",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida DOR Save Our Homes guide",
+   "title": "Florida DOR, Save Our Homes guide",
    "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
   },
   {
-   "title": "Florida DOR Save Our Homes chart",
-   "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
+   "title": "Florida DOR, documentary stamp tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
   },
   {
-   "title": "Fla. Stat. 193.155",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0193/Sections/0193.155.html"
-  },
-  {
-   "title": "Fla. Stat. 197.432",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
-  },
-  {
-   "title": "Fla. Stat. 197.502",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
-  },
-  {
-   "title": "Florida DOR senior benefits guide",
+   "title": "Florida DOR, senior and veteran exemptions",
    "url": "https://floridarevenue.com/property/Documents/pt110.pdf"
   },
   {
-   "title": "Florida DOR veteran benefits guide",
-   "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
-  },
-  {
-   "title": "Florida Senate county analysis",
-   "url": "https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF"
-  },
-  {
-   "title": "Fla. Stat. 735.201",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.201.html"
-  },
-  {
-   "title": "Fla. Stat. 733.702",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0733/Sections/0733.702.html"
-  },
-  {
-   "title": "Florida DOR estate tax",
-   "url": "https://floridarevenue.com/taxes/taxesfees/pages/estate_tax.aspx"
+   "title": "Florida Statutes s. 197.502",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
   }
- ],
- "slug": "brevard-county-fl-property-tax-guide"
+ ]
 }

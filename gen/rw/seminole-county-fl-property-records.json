@@ -2,104 +2,112 @@
  "slug": "seminole-county-fl-property-records",
  "sections": [
   {
-   "h2": "Who keeps property records in Seminole County, Florida?",
-   "html": "<p>The Seminole County Clerk of the Circuit Court and Comptroller keeps them, in a single series called the Official Records.</p><p>The clerk's Official Records page lists the kinds of documents held there: deeds, mortgages, notices of commencement, liens, declarations of condominium, final judgments, military discharges, probate documents, satisfactions of mortgage, plats and maps. Florida's county offices divide the work, and it helps to know which one answers which question.</p><ul><li>Clerk: recorded deeds, mortgages, liens and plats; also runs tax deed sales.</li><li>Property appraiser: ownership on the tax roll, assessed value and exemptions.</li><li>Tax collector: tax bills, payments, installment plans and delinquent accounts.</li></ul><p>Florida counties elect a sheriff, tax collector, property appraiser, supervisor of elections and clerk of the circuit court to four-year terms, so the three offices above answer to voters separately. A record you need may live in only one of them, and a request sent to the wrong office will simply be redirected.</p><p>Seminole County's seat is Sanford, where the clerk's Official Records department works, and county residents in cities such as Winter Springs, Oviedo or Lake Mary all record through that one office.</p>"
+   "h2": "What does the Seminole County tax roll look like?",
+   "html": "<p>The appraiser's 2026 statistics sketch the market that these records document. The county holds 181,187 real property parcels, of which 138,250 are residential, 6,923 commercial and 16,439 condominium. It also lists 13,489 tangible accounts and 45,960 apartment units. Taxable value totals about $60 billion against roughly $92 billion in market value.</p>\n<p>The gap between those two totals is the effect of exemptions and assessment limits. Most of the paper moving through the records office in Sanford concerns those 138,000 residential parcels.</p>"
   },
   {
-   "h2": "How do you record a document with the Seminole County Clerk?",
-   "html": "<p>You can bring it in, mail it with the fees and a prepaid return envelope, or send it through an electronic recording portal.</p><p>The Official Records department is at 1750 E. Lake Mary Blvd., Sanford, FL 32773, phone 407-665-4405, according to the clerk's page. Recording fees and any documentary stamp tax are due when the document is recorded. The clerk says electronically submitted documents are typically recorded within 24 to 72 hours, and the image can be pulled from the Official Records page once recorded.</p><p>The clerk lists four approved eRecording vendors: CSC eRecording, eRecording Partners Network, Hopdox and Simplifile. Suggested practices include 300 DPI scans, TIFF or PDF format, 8 by 11 pages, party names indexed as last name then first name, and no more than 15 documents per receipt.</p><p>Some documents cannot be sent electronically and must be mailed or hand delivered: a notice of contest of lien, notice of contest of bond, notice of homestead, a transfer of liens to security by bond or cash, a transfer of judgment, and a notice of marketable title when a certificate of service is required.</p>"
+   "h2": "Which Seminole County office holds which record?",
+   "html": "<p>Three elected offices divide the records, and any given paper lives in just one.</p>\n<ul><li><strong>Clerk and Comptroller:</strong> keeps the Official Records of recorded deeds, mortgages, liens, plats and maps, and also runs tax deed auctions.</li>\n<li><strong>Property Appraiser:</strong> ownership on the tax roll, value, exemptions and parcel data. The office is at 1101 E. 1st Street in downtown Sanford, open weekdays 8 to 5, with customer service at 407-665-7506 and exemption or fraud questions at 407-665-7512.</li>\n<li><strong>Tax Collector:</strong> bills, payments, installment plans and delinquent accounts.</li></ul>\n<p>A request to the wrong desk is simply redirected, but that costs days. The clerk's Official Records page lists what it holds: deeds, mortgages, notices of commencement, liens, condominium declarations, judgments, military discharges, probate papers, satisfactions and plats.</p>"
   },
   {
-   "h2": "What does recording cost in Seminole County?",
-   "html": "<p>The clerk's posted sheet lists $10.00 for page one plus $8.50 for later pages.</p><p>That sheet also prints the stamp and tax lines that ride along with a deed or mortgage, plus service charges for copies and searches. Under Florida law, the deed stamp tax rate is 70 cents per $100 of consideration, and a mortgage carries 35 cents per $100 of the amount secured. The clerk's sheet shows the same deed and mortgage rates and adds an intangible tax on a mortgage at 20 cents per $100.</p><table><caption>Seminole County clerk fee sheet, items as posted</caption><thead><tr><th>Item</th><th>Charge as posted</th></tr></thead><tbody><tr><td>Recording, first page</td><td>$10.00</td></tr><tr><td>Each additional page</td><td>$8.50</td></tr><tr><td>Index, each name over 4</td><td>$1.00</td></tr><tr><td>Deed stamp tax</td><td>.70 per $100, rounded up to the next hundred</td></tr><tr><td>Mortgage stamp tax</td><td>.35 per $100, rounded up to the next hundred</td></tr><tr><td>Mortgage intangible tax</td><td>.20 per $100</td></tr><tr><td>Copy, per page</td><td>$1.00</td></tr><tr><td>Certification</td><td>$2.00 per document</td></tr><tr><td>Search and prepare</td><td>$7.00</td></tr><tr><td>Plat, first page</td><td>$30.00</td></tr></tbody></table><p>The state statute sets the base page charges in section 28.24(13), and the county's total reflects the added trust fund and technology charges that statute allows.</p>"
+   "h2": "What are the ways to file a deed in Seminole County?",
+   "html": "<p>You can deliver it, mail it with fees and a self-addressed prepaid envelope, or send it electronically. The Official Records department is at 1750 E. Lake Mary Blvd., Sanford, FL 32773 (407-665-4405). Fees and stamp tax are paid when the document is filed.</p>\n<p>The clerk says electronic submissions are typically recorded in 24 to 72 hours and that the image appears online afterward. Four approved vendors handle eRecording: CSC eRecording, eRecording Partners Network, Hopdox and Simplifile. The clerk suggests 300 DPI scans in TIFF or PDF, 8 by 11 pages, names indexed last name first, and no more than 15 documents per receipt.</p>\n<p>Some items must be mailed or hand delivered instead: a notice of contest of lien or of bond, a notice of homestead, a transfer of liens to security by bond or cash, a transfer of judgment, and a notice of marketable title requiring a certificate of service.</p>"
   },
   {
-   "h2": "Why does Florida's recording statute matter to a Seminole County seller?",
-   "html": "<p>Because the statute tells the clerk what to record and open to the public, and sets the charge.</p><p>A deed of land must be written and signed in front of two subscribing witnesses under section 689.01, with witnessing allowed by audio-video technology. If your deed has a defect such as a missing witness, the title company will catch it, but fixing it takes time. Quitclaim deeds, deeds in lieu of foreclosure and contracts for deed are all taxable documents according to state revenue officials. Spousal homestead deeds where the only consideration is a mortgage, and divorce deeds for a marital home, are exempt.</p><p>A personal representative's deed under a probated will is listed as not taxable, but state revenue officials say there is no general exemption for transfers made for estate planning.</p>"
+   "h2": "What fees does the Seminole clerk post?",
+   "html": "<p>The posted sheet includes the stamp and tax lines that accompany a deed or mortgage, plus charges for copies and searches. The sheet repeats the state stamp rates, seventy cents per hundred dollars on a deed and thirty-five cents on a mortgage's secured amount, and adds a twenty cent intangible tax on mortgages. Per-page base charges come from section 28.24(13), plus trust fund and technology amounts the statute permits.</p>\n<table><caption>Seminole County clerk charges as posted</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>Page one of a recorded document</td><td>$10.00</td></tr><tr><td>Every additional page</td><td>$8.50</td></tr><tr><td>Index, each name beyond 4</td><td>$1.00</td></tr><tr><td>Deed stamp tax</td><td>.70 per $100, rounded to next hundred</td></tr><tr><td>Mortgage stamp tax</td><td>.35 per $100, same rounding</td></tr><tr><td>Mortgage intangible tax</td><td>.20 per $100</td></tr><tr><td>Copy, per page</td><td>$1.00</td></tr><tr><td>Certification</td><td>$2.00 per document</td></tr><tr><td>Search and prepare</td><td>$7.00</td></tr><tr><td>Plat, first page</td><td>$30.00</td></tr></tbody></table>\n<p>Source: <a href=\"https://www.seminoleclerk.org/wp-content/uploads/recording-fees.pdf\">Seminole County Clerk fee sheet</a>.</p>"
   },
   {
-   "h2": "How are Seminole County property taxes billed and collected?",
-   "html": "<p>The tax collector bills in November and the early-payment discount runs 4 percent that month, then 3, 2 and 1 percent through February.</p><p>The tax collector's site says taxes become delinquent on April 1, after which they are listed on the county website and advertising and collection fees are added. Installment plans are offered with an application, and a payment missed under the plan is treated as delinquent on April 1. Seminole's site also says a discount period ending on a Saturday, Sunday or legal holiday extends to the next working day when payment is delivered to a qualifying location.</p><p>Value is set January 1 and exemptions filed by March 1 with the property appraiser. A homestead exemption up to $50,000 applies: the first $25,000 to all taxes and an added amount to non-school taxes on value over $50,000. After a sale, the next owner's assessment resets to just value the following January 1.</p>"
+   "h2": "Can a flawed deed hold up a Seminole County sale?",
+   "html": "<p>Yes. Section 689.01 requires a signed writing with two witnesses, who may appear by audio-video link. A title company catches a missing witness, but curing it eats days.</p>\n<p>State revenue guidance counts quitclaims, foreclosure-avoiding deeds and contracts for deed as taxable. Spousal homestead deeds backed only by a mortgage escape the tax, as do divorce transfers of the marital home and an estate representative's deed carrying out a probated will. Estate planning transfers get no blanket exemption.</p>"
   },
   {
-   "h2": "What happens at a Seminole County tax deed sale?",
-   "html": "<p>The clerk conducts the sale and issues the tax deed to the high bidder.</p><p>The clerk's page explains that a tax certificate holder applies for a tax deed through the tax collector, that no court case is filed, and that no court order is issued for the sale. The page warns that tax deed properties are sold on a buyer beware basis and that a tax deed does not warrant clear and marketable title. The clerk's tax deed department answers questions at taxdeeds@seminoleclerk.org, and auction files and the calendar are online.</p><p>Under Florida law, the certificate holder may apply two years after April 1 of the issuance year, and the buyer pays 5 percent or $200, whichever is greater, as a nonrefundable deposit, with full payment due within 24 hours excluding weekends and holidays. An owner with delinquent taxes should settle them with the tax collector before the sale to protect the property.</p>"
+   "h2": "How does the Seminole County Tax Collector bill and collect?",
+   "html": "<p>Once the appraiser certifies the roll, the collector prints and mails bills in November. The reward for paying promptly runs from 4 percent that month down to 1 percent in February, then nothing. The deadline is March 31; from April 1 the account is delinquent, payable only in certified funds, and picks up advertising and collection fees. Installment plans are offered, and a missed installment counts as delinquent on April 1.</p>\n<p>Pay online, in person, by check to P.O. Box 630 in Sanford, or by courier at 1101 East First St, Room 1200. When a discount month ends on a weekend or legal holiday, the collector extends it to the next working day for payments delivered to a qualifying location.</p>\n<p>The bill combines ad valorem millage set by taxing authorities with non-ad valorem assessments. The collector also explains that tangible taxes on business furniture, fixtures and equipment, and on rental property, arrive alongside the real estate bill and earn the same discounts.</p>"
+  },
+  {
+   "h2": "What does Amendment 3 change for Seminole County owners?",
+   "html": "<p>The appraiser's homepage and the collector's tax page both report that voters approved the property tax amendment on November 3, 2026. The collector stresses that the 2026 bill stays as issued, nobody will receive a revised one, and the effects start with tax year 2027, billed in November 2027.</p>\n<p>Valuation date stays January 1. The appraiser separates filing into a regular window, January 1 to March 1, and a pre-file window that runs March 2 through December 31 for the next year, and suggests pre-filing to dodge the lines. The standard homestead exemption reaches $50,000, the first $25,000 applying to every levy. A buyer is reassessed at just value on the January 1 after purchase.</p>"
+  },
+  {
+   "h2": "How does a Seminole County tax deed sale work?",
+   "html": "<p>The clerk holds the auction and issues the deed to the top bidder. The holder of a tax certificate applies through the tax collector, and the process involves no lawsuit and no court order. The clerk cautions that such property sells buyer-beware and that the resulting deed carries no promise of clear, marketable title. Questions go to taxdeeds@seminoleclerk.org, and the auction calendar and files are online.</p>\n<p>The statute makes a holder wait two years past the issue year's April 1 to apply. At the sale, the winner leaves a deposit that is not refundable, the greater of 5 percent and $200, and settles the balance within one business day. An owner behind on taxes should clear the account with the collector first.</p>"
   },
   {
    "h2": "What should a Seminole County owner check before selling?",
-   "html": "<p>Check the record chain, then the bills, then the exemptions.</p><ul><li>Search the Official Records online for your deed and any recorded mortgage, lien or judgment.</li><li>Confirm that satisfied mortgages show a recorded satisfaction.</li><li>Ask the property appraiser to confirm your exemptions and parcel data.</li><li>Ask the tax collector whether the current year is paid.</li><li>List all names exactly as they appear on the deed for the new instrument.</li></ul><p>The clerk reminds users to search every spelling variation of a name, since the index is only as accurate as what was filed. Cities in the county, Winter Springs among them, follow the same county recording process, so these steps apply there too. If a record looks wrong, such as a name misspelled on an old deed, ask the clerk how a corrective instrument is recorded and what it costs.</p>"
+   "html": "<ul><li>Search the Official Records for your deed and any mortgage, lien or judgment, trying every spelling of your name, since the index is only as accurate as the filings.</li>\n<li>Make sure every paid-off mortgage has a recorded satisfaction.</li>\n<li>Ask the appraiser to verify exemptions and parcel data. A parcel split or combination request waits until the current year's taxes are paid.</li>\n<li>Ask the collector whether this year is paid.</li>\n<li>List owner names exactly as on the deed for the new instrument.</li></ul>\n<p>If an old deed misspells a name, ask the clerk how a corrective instrument is recorded and what it costs. Cities such as Winter Springs, Oviedo and Lake Mary use the same county recording process. The clerk also offers free property fraud alerts, which the appraiser recommends.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which office takes deeds for recording in the county?",
-   "a": "With the Seminole County Clerk's Official Records department at 1750 E. Lake Mary Blvd., Sanford. You can also use an approved eRecording vendor."
+   "q": "Which office takes a Seminole County deed?",
+   "a": "The clerk's Official Records department, 1750 E. Lake Mary Blvd. in Sanford. One office serves every city in the county."
   },
   {
-   "q": "How much does recording cost in Seminole County?",
-   "a": "The clerk's sheet lists $10.00 for page one plus $8.50 for later pages. Deed stamp tax is separate at 70 cents per $100."
+   "q": "What does the Seminole clerk charge to record?",
+   "a": "Ten dollars for page one and $8.50 for each page after, with stamp taxes added where the document calls for them."
   },
   {
-   "q": "Can I send any document through eRecording?",
-   "a": "No. The clerk lists documents that must be mailed or hand delivered, including a notice of homestead and a notice of contest of lien."
+   "q": "Does eRecording work for every document type?",
+   "a": "No. A handful, including a notice of homestead and a transfer of judgment, have to be mailed or hand delivered."
   },
   {
-   "q": "Who runs tax deed sales in Seminole County?",
-   "a": "The clerk conducts them under Chapter 197, Florida Statutes. No court case is filed for the sale."
+   "q": "Who holds Seminole County tax deed auctions?",
+   "a": "The clerk. The certificate holder applies through the tax collector first."
   },
   {
-   "q": "When do Seminole County property taxes become delinquent?",
-   "a": "On April 1. The tax collector lists a 4 percent discount for November payment, falling to 1 percent in February."
+   "q": "On which day are Seminole bills late?",
+   "a": "April 1, the day after the March 31 deadline. Late balances take certified funds and carry extra fees."
   }
  ],
  "sources": [
   {
-   "title": "Seminole County Clerk: Official Records",
+   "title": "www.scpafl.org",
+   "url": "https://www.scpafl.org/"
+  },
+  {
+   "title": "www.seminoleclerk.org",
    "url": "https://www.seminoleclerk.org/home/official-records/"
   },
   {
-   "title": "Seminole County Clerk: Recording fees",
+   "title": "www.seminoleclerk.org",
    "url": "https://www.seminoleclerk.org/wp-content/uploads/recording-fees.pdf"
   },
   {
-   "title": "Seminole County Tax Collector: Property and tangible taxes",
+   "title": "seminolecounty.tax",
    "url": "https://seminolecounty.tax/services/property-taxes/property-and-tangible-taxes"
   },
   {
-   "title": "Seminole County Tax Collector: Delinquent taxes",
+   "title": "seminolecounty.tax",
    "url": "https://seminolecounty.tax/services/property-taxes/delinquent-taxes"
   },
   {
-   "title": "Florida DOR: Documentary stamp tax",
+   "title": "floridarevenue.com",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
   },
   {
-   "title": "Florida DOR: Property tax information for taxpayers",
+   "title": "floridarevenue.com",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida DOR: Homestead exemption guide",
+   "title": "floridarevenue.com",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida Statutes s. 28.24",
+   "title": "www.leg.state.fl.us",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
   },
   {
-   "title": "Florida Statutes s. 689.01",
+   "title": "www.leg.state.fl.us",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html"
   },
   {
-   "title": "Florida Statutes s. 197.542",
+   "title": "www.leg.state.fl.us",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html"
   },
   {
-   "title": "Florida Statutes s. 197.502",
+   "title": "www.leg.state.fl.us",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
-  },
-  {
-   "title": "Florida Senate: County officers analysis",
-   "url": "https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF"
   }
  ]
 }
