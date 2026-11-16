@@ -1,82 +1,133 @@
 {
-  "slug": "orange-county-nc-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Who handles property tax in Orange County, North Carolina?",
-      "html": "<p>Orange County Tax Administration handles values, bills and collections. The office is in the Gateway Center at 228 S. Churton Street, Suite 200, Hillsborough, NC 27278, with a mailing address of P.O. Box 8181, Hillsborough, NC 27278-8181.</p><p>The general phone line is 919-245-2100, and the tax email is tax@orangecountync.gov. The Revenue and Collections division, which bills and takes payment, is open Monday through Friday from 8 a.m. to 5 p.m. except county holidays. A separate drop box outside the Gateway Center takes checks and money orders. Do not leave cash in it.</p><ul><li>Assessment, listing and appeals: Tax Administration, Suite 200</li><li>Payments: Revenue and Collections, same suite</li><li>Mail: P.O. Box 8181, Hillsborough</li><li>Phone payments by card: 919-583-6137, convenience fee may apply</li></ul>"
-    },
-    {
-      "h2": "When was Orange County last revalued and when is the next revaluation?",
-      "html": "<p>The most recent countywide revaluation took effect January 1, 2025. The one before it was January 1, 2021, and the county's page names January 1, 2029 as the next.</p><p>That is a four-year rhythm, shorter than the eight-year minimum in state law, which lets a county choose a more frequent cycle. In a revaluation, appraisers use recent arm's-length sales, construction costs and income data to estimate what each parcel would have sold for on the effective date, and the county calls the work mass appraisal rather than an inspection of each home. Values stay tied to January 1, 2025 until the next revaluation, so a sale price today does not change your assessment on its own.</p>"
-    },
-    {
-      "h2": "What tax rates apply in Orange County?",
-      "html": "<p>It depends on where the house sits. Each parcel carries a rate code that stacks the county tax with any city, fire district and school special district taxes.</p><p>The county's rate page shows combined rates for the 2026 tax year per one dollar of value and says they are updated each July. Ask the Tax Office to confirm the current figure for your parcel before you rely on one.</p><table><caption>Sample combined rate codes printed on the Orange County rate page</caption><thead><tr><th>Rate code</th><th>Area and taxes combined</th><th>Total rate as printed</th></tr></thead><tbody><tr><td>00</td><td>County plus Orange Rural Fire</td><td>0.007726</td></tr><tr><td>22</td><td>County, Chapel Hill-Carrboro school district, Chapel Hill city</td><td>0.013284</td></tr><tr><td>21</td><td>County, Chapel Hill-Carrboro school district, Carrboro city</td><td>0.013937</td></tr><tr><td>23</td><td>County plus Hillsborough city</td><td>0.011935</td></tr><tr><td>24</td><td>County plus Mebane city</td><td>0.010505</td></tr><tr><td>25</td><td>County plus Durham city</td><td>0.011176</td></tr></tbody></table><p>Your rate code is printed on your bill. Two houses with the same value can have different bills because of the fire district or school district they sit in.</p>"
-    },
-    {
-      "h2": "How do you appeal an Orange County property value?",
-      "html": "<p>Appeals follow three levels: an informal review by a county appraiser, a formal hearing before the Board of Equalization and Review, and an optional appeal to the state Property Tax Commission. There is no cost to file with the county and a lawyer is not required.</p><p>The 2026 dates have passed. Informal appeals ran from January 1 through March 31, 2026, the board convened April 30, and the formal window ended June 30, 2026. The county publishes new dates each year on its appeals page, so check there before planning a filing.</p><ul><li>The owner carries the burden of proof and must show the value differs from market value on January 1, 2025, or is out of line with similar properties.</li><li>The percentage of increase and your ability to pay are not grounds for a change.</li><li>Useful evidence includes comparable sales near January 1, 2025, appraisals from that period, closing statements, photos and repair estimates.</li><li>A state appeal is filed within 30 days of the board's decision letter.</li></ul><p>You can file through the online portal, by email to Reval@orangecountync.gov, by mail to P.O. Box 8181, or in person at 228 S. Churton Street.</p>"
-    },
-    {
-      "h2": "What must Orange County owners list each January?",
-      "html": "<p>Owners list personal property every year and report changes to their land or buildings. The county's listing deadline is January 31, and a late filing draws a 10% penalty.</p><p>Real property stays on the books once listed, so you only return the form when you built, added on or removed a structure. Personal property that must be listed includes manufactured homes, boats, aircraft, unlicensed vehicles and the appliances or furnishings you supply in a rental. Licensed vehicles with an annual registration are not listed. Do not enclose a tax payment with the form. Pay separately using the bill instructions.</p>"
-    },
-    {
-      "h2": "What tax relief can an Orange County homeowner apply for?",
-      "html": "<p>Three state programs exist: the elderly or disabled exclusion, the disabled veteran exclusion and the circuit breaker deferment. The county also lists present use value, exempt property, a builder property tax exclusion and solid waste fee assistance.</p><ul><li>Elderly or disabled exclusion: excludes the greater of $25,000 or 50% of appraised value of a permanent residence. The owner must be 65 or older, or totally and permanently disabled, with income under the limit, which the state prints as $38,800 for the 2026 tax year.</li><li>Disabled veteran exclusion: excludes the first $45,000 of appraised value, with no age or income test printed on the state form.</li><li>Circuit breaker: caps the tax at 4.0% of income for owners at or below the income limit and 5.0% above it up to 150% of that limit. The excess is deferred and becomes a lien, and deferred tax for the three prior years comes due when the property is sold.</li></ul><p>An owner can receive only one of the three. Applications go to the county tax office, not the state, and the county's evaluator tool on its relief page shows which program might fit.</p>"
-    },
-    {
-      "h2": "How and when are Orange County property taxes paid?",
-      "html": "<p>Bills are due September 1, and the tax is payable at face value through January 5. Starting January 6 interest runs at 2% until February 1, and then at three-fourths of one percent for each month or part of a month.</p><p>You can pay online, by phone, by mail, at the drop box or at the counter. For bills of $100 or more, the county offers five coupon payments due on the last day of each month, usually August through December. It also offers a pre-payment program, bank draft program and a post-billing plan for owners who want to spread the bill out. Card payments may carry a convenience fee, and the county warns that it never asks for payment by gift card or other unusual route.</p>"
-    },
-    {
-      "h2": "What if you sell an Orange County house with tax still owed?",
-      "html": "<p>The tax follows the parcel, not the seller. State law makes the annual tax a lien from the date property is listed, and unpaid amounts with penalties and interest stay attached until cleared.</p><p>Ask the Tax Office for the current bill and any delinquent balance before you set a closing date. Your closing attorney can then pay it from proceeds. The seller also pays the deed excise tax to the register of deeds before the deed is recorded, at $1 for each $500 of value. If the county is foreclosing for taxes, the state process ends in a public sale at the courthouse door, and the owner can redeem by paying taxes, interest and costs before the sale is confirmed.</p>"
-    },
-    {
-      "h2": "What does Orange County look like in the census numbers?",
-      "html": "<p>The Census Bureau estimates 152,498 residents on July 1, 2025, up 2.5% from the 2020 base, on 397.56 square miles of land. That works out to 374.0 people per square mile.</p><p>Residents 65 and older make up 18.1%, and median household income for 2020 to 2024 is $90,089. Median selected monthly owner costs with a mortgage run $2,221, and the county issued 666 building permits in 2025.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Where do I pay Orange County property taxes?",
-      "a": "Pay online, by phone at 919-583-6137, by mail to Orange County Tax Collector, P.O. Box 8181, Hillsborough, NC 27278, at the Gateway Center drop box, or in person at 228 S. Churton Street, Suite 200. Hours are 8 a.m. to 5 p.m., Monday through Friday."
-    },
-    {
-      "q": "What is the next Orange County revaluation date?",
-      "a": "The county's page gives January 1, 2029. The current values reflect the January 1, 2025 revaluation, and the previous one was January 1, 2021."
-    },
-    {
-      "q": "Can I appeal my Orange County assessment this year?",
-      "a": "Appeal windows are set each year and the 2026 ones have closed. Contact the Tax Office at 919-245-2100 or reval@orangecountync.gov to learn when the next period opens."
-    },
-    {
-      "q": "Is there a penalty for a late listing in Orange County?",
-      "a": "Yes. The county applies a 10% late listing penalty to personal property or property changes not listed by January 31."
-    },
-    {
-      "q": "Does a seller owe the property tax bill at closing?",
-      "a": "Any unpaid tax is a lien on the parcel, so it is normally settled from proceeds at closing. Ask the Orange County Tax Office for the amount due and let the closing attorney pay it."
-    }
-  ],
-  "sources": [
-    {"title": "Orange County Appealing Your Property Tax Value", "url": "https://orangecountync.gov/806/Appealing-Your-Value"},
-    {"title": "Orange County Tax Payment Options", "url": "https://orangecountync.gov/859/Tax-Payment-Options"},
-    {"title": "Orange County 2025 Property Revaluation", "url": "https://www.orangecountync.gov/878/Revaluation"},
-    {"title": "Orange County Tax Rates and Fees Information", "url": "https://orangecountync.gov/897/Tax-Rates-and-Fees-Information"},
-    {"title": "Orange County State Provided Property Tax Assistance Programs", "url": "https://orangecountync.gov/1787/Property-Tax-Assistance-Programs"},
-    {"title": "Orange County Annual Listing", "url": "https://orangecountync.gov/867/Annual-Listing"},
-    {"title": "Census QuickFacts: Onslow, Orange and Pamlico Counties, NC", "url": "https://www.census.gov/quickfacts/fact/table/onslowcountynorthcarolina,orangecountynorthcarolina,pamlicocountynorthcarolina/PST045224"},
-    {"title": "G.S. 105-360 Due date and interest", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-360.html"},
-    {"title": "G.S. 105-277.1 Elderly or disabled exclusion", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1.html"},
-    {"title": "G.S. 105-277.1B Circuit breaker", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1B.html"},
-    {"title": "G.S. 105-277.1C Disabled veteran exclusion", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1C.html"},
-    {"title": "NCDOR AV-9 application", "url": "https://ncdor.gov/2026-av-9-securedpdf/open"},
-    {"title": "G.S. 105-355 Tax lien", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"},
-    {"title": "G.S. 105-374 Foreclosure of tax lien", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-374.html"},
-    {"title": "G.S. 105-286 Time for general reappraisal", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-286.html"},
-    {"title": "G.S. 105-290 Property Tax Commission appeals", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-290.html"},
-    {"title": "G.S. 105-228.30 Excise tax on conveyances", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"}
-  ]
+ "slug": "orange-county-nc-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who runs property tax billing and valuation in Orange County, North Carolina?",
+   "html": "<p>Orange County Tax Administration does both. Its office is in the Gateway Center at 228 S. Churton Street, Suite 200, Hillsborough, and the mailing address is P.O. Box 8181, Hillsborough, NC 27278-8181.</p><p>Call 919-245-2100 or write to tax@orangecountync.gov. The Revenue and Collections division bills property tax and ambulance fees, and its counter serves weekdays until 5 p.m. A drop box outside the building takes checks and money orders but never cash.</p><ul><li>Valuation, listing and appeals: Tax Administration, Suite 200</li><li>Bills and payment: Revenue and Collections, same suite</li><li>Phone payment line for cards: 919-583-6137</li><li>Mobile option: the MyOrangeCountyNC app for bills and scheduled payments</li></ul>"
+  },
+  {
+   "h2": "When was Orange County last revalued and when is the next revaluation?",
+   "html": "<p>The latest countywide revaluation is dated January 1, 2025, the one before it January 1, 2021, and the county's page names January 1, 2029 for the next.</p><p>Four years between revaluations is shorter than the state's eight-year ceiling, which lets a county pick a quicker cycle. Appraisers used market sales, building costs and income and expense data to estimate what each parcel would have sold for on the effective date. The county calls this mass appraisal. It is no inspection of individual homes. Until 2029 your value stays pegged to January 1, 2025, whatever the market does in between.</p><p>The county's revaluation page offers owners a property record card search, a comparable-sales tool, the 2025 schedule of values, a sales bank, a heat map of percent increases and a map of appraisal neighborhoods. Pulling up your neighborhood before you list helps you judge whether the assessment is near a likely sale price.</p>"
+  },
+  {
+   "h2": "What tax rates apply in Orange County?",
+   "html": "<p>It depends on where the house sits. Each parcel carries a rate code that stacks the county tax with any city, fire district and school special district taxes.</p><p>The county's rate page shows combined rates for the 2026 tax year per one dollar of value and says they are updated each July. Call 919-245-2100 to confirm what applies to your parcel.</p><table><caption>Sample combined rate codes printed on the Orange County rate page</caption><thead><tr><th>Rate code</th><th>Area and taxes combined</th><th>Total rate as printed</th></tr></thead><tbody><tr><td>00</td><td>County plus Orange Rural Fire</td><td>0.007726</td></tr><tr><td>22</td><td>County, Chapel Hill-Carrboro school district, Chapel Hill city</td><td>0.013284</td></tr><tr><td>21</td><td>County, Chapel Hill-Carrboro school district, Carrboro city</td><td>0.013937</td></tr><tr><td>23</td><td>County plus Hillsborough city</td><td>0.011935</td></tr><tr><td>24</td><td>County plus Mebane city</td><td>0.010505</td></tr><tr><td>25</td><td>County plus Durham city</td><td>0.011176</td></tr></tbody></table><p>Your rate code is printed on your bill. A Carrboro house and a rural house can carry identical values and very different bills.</p>"
+  },
+  {
+   "h2": "How do you appeal an Orange County property value?",
+   "html": "<p>The county describes three steps. A county appraiser handles the informal review first, a citizen board hears formal appeals next, and the state Property Tax Commission is an optional third stop. Filing with the county costs nothing and a lawyer is optional.</p><p>The 2026 dates have passed. For 2026, informal requests were open January 1 to March 31, the board met starting April 30, and formal filings closed June 30. The county publishes new dates each year on its appeals page, so check there before planning a filing.</p><ul><li>The owner has to prove the value is off from market on January 1, 2025, or out of step with comparable parcels.</li><li>The percentage of increase and your ability to pay are not grounds for a change.</li><li>Useful evidence includes comparable sales near January 1, 2025, appraisals from that period, closing statements, photos and repair estimates.</li><li>A state appeal is due 30 days after the board's letter.</li></ul><p>You can file through the online portal, by email to Reval@orangecountync.gov, by mail to P.O. Box 8181, or in person at 228 S. Churton Street.</p>"
+  },
+  {
+   "h2": "What must Orange County owners list each January?",
+   "html": "<p>Owners list personal property every year and report changes to their land or buildings. The county's listing deadline is January 31, and a late filing draws a 10% penalty.</p><p>Real property stays on the books once listed, so you only return the form when you built, added on or removed a structure. Personal property that must be listed includes manufactured homes, boats, aircraft, unlicensed vehicles and the appliances or furnishings you supply in a rental. Licensed vehicles with an annual registration are not listed. Do not enclose a tax payment with the form. Pay separately using the bill instructions.</p>"
+  },
+  {
+   "h2": "What tax relief can an Orange County homeowner apply for?",
+   "html": "<p>Orange County administers three state programs, the elderly or disabled exclusion, the disabled veteran exclusion and the circuit breaker deferment. It also points to present use value, exempt property, a builder property tax exclusion and help with the solid waste fee.</p><ul><li>For tax year 2026 the state's income ceiling is $38,800. The disabled veteran program shields the first $45,000 of value.</li><li>The elderly or disabled program shields $25,000 or half the value of a primary home, whichever is larger.</li><li>The circuit breaker limits the bill to a slice of income and parks the remainder as a deferred lien.</li></ul><p>An owner may use only one program. The county's evaluator tool on its relief page gives a quick read on which one fits, but you may skip it and just file the application with the Tax Office.</p>"
+  },
+  {
+   "h2": "How and when are Orange County property taxes paid?",
+   "html": "<p>Bills fall due September 1. Interest begins January 6 under state rules, so any payment in the fall and early winter avoids it.</p><p>Payment channels are the website, the phone line, a mailed check made out to Orange County Tax Collector, the drop box and the counter, where Apple Pay and Google Pay also work. For a bill of $100 or more, five coupons let you pay in equal parts on the last day of each month, usually August to December. Other options include a pre-payment program that builds toward an estimated bill, a bank draft program and a post-billing plan. Card payments may add a convenience fee, and the county warns that it never asks for gift cards.</p>"
+  },
+  {
+   "h2": "What if you sell an Orange County house with tax still owed?",
+   "html": "<p>The tax stays with the parcel, so it is paid out of proceeds at closing. Get the balance and any delinquent amount from the Tax Office first.</p><p>Your closing attorney will usually pay it directly. The seller also covers the deed stamp tax at the Register of Deeds. If you cannot cover the bill, call 919-245-2100 (Option 2) and ask about the payment assistance programs before the account goes delinquent.</p>"
+  },
+  {
+   "h2": "What does Orange County look like in the census numbers?",
+   "html": "<p>The July 2025 estimate counts 152,498 people in Orange County, up 2.5% on the 2020 base, across 397.56 square miles of land. Density works out to 374 per square mile.</p><p>About 18% of residents are 65 or older. Households earn a median $90,089 in the 2020 to 2024 survey, and owners with a mortgage report monthly costs near $2,221. Builders pulled 666 permits in 2025.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I pay Orange County property taxes?",
+   "a": "Pay online, by calling 919-583-6137, by mail to Orange County Tax Collector at P.O. Box 8181, Hillsborough, NC 27278, at the Gateway Center drop box, or at Suite 200 of 228 S. Churton Street."
+  },
+  {
+   "q": "What is the next Orange County revaluation date?",
+   "a": "The county's page gives January 1, 2029. The current values reflect the January 1, 2025 revaluation, and the previous one was January 1, 2021."
+  },
+  {
+   "q": "Can I appeal my Orange County assessment this year?",
+   "a": "The 2026 windows have closed. Call 919-245-2100 or email reval@orangecountync.gov to learn when the next one opens."
+  },
+  {
+   "q": "Is there a penalty for a late listing in Orange County?",
+   "a": "Yes. The county applies a 10% late listing penalty to personal property or property changes not listed by January 31."
+  },
+  {
+   "q": "Does a seller owe the property tax bill at closing?",
+   "a": "In practice, yes. Any unpaid bill sits against the parcel, so the closing attorney normally pays it out of the seller's proceeds after the Tax Office confirms the amount."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Orange County Appealing Your Property Tax Value",
+   "url": "https://orangecountync.gov/806/Appealing-Your-Value"
+  },
+  {
+   "title": "Orange County Tax Payment Options",
+   "url": "https://orangecountync.gov/859/Tax-Payment-Options"
+  },
+  {
+   "title": "Orange County 2025 Property Revaluation",
+   "url": "https://www.orangecountync.gov/878/Revaluation"
+  },
+  {
+   "title": "Orange County Tax Rates and Fees Information",
+   "url": "https://orangecountync.gov/897/Tax-Rates-and-Fees-Information"
+  },
+  {
+   "title": "Orange County State Provided Property Tax Assistance Programs",
+   "url": "https://orangecountync.gov/1787/Property-Tax-Assistance-Programs"
+  },
+  {
+   "title": "Orange County Annual Listing",
+   "url": "https://orangecountync.gov/867/Annual-Listing"
+  },
+  {
+   "title": "Census QuickFacts: Onslow, Orange and Pamlico Counties, NC",
+   "url": "https://www.census.gov/quickfacts/fact/table/onslowcountynorthcarolina,orangecountynorthcarolina,pamlicocountynorthcarolina/PST045224"
+  },
+  {
+   "title": "G.S. 105-360 Due date and interest",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-360.html"
+  },
+  {
+   "title": "G.S. 105-277.1 Elderly or disabled exclusion",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1.html"
+  },
+  {
+   "title": "G.S. 105-277.1B Circuit breaker",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1B.html"
+  },
+  {
+   "title": "G.S. 105-277.1C Disabled veteran exclusion",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1C.html"
+  },
+  {
+   "title": "NCDOR AV-9 application",
+   "url": "https://ncdor.gov/2026-av-9-securedpdf/open"
+  },
+  {
+   "title": "G.S. 105-355 Tax lien",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"
+  },
+  {
+   "title": "G.S. 105-374 Foreclosure of tax lien",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-374.html"
+  },
+  {
+   "title": "G.S. 105-286 Time for general reappraisal",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-286.html"
+  },
+  {
+   "title": "G.S. 105-290 Property Tax Commission appeals",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-290.html"
+  },
+  {
+   "title": "G.S. 105-228.30 Excise tax on conveyances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"
+  }
+ ]
 }
