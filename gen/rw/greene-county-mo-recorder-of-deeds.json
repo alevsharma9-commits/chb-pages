@@ -2,62 +2,66 @@
  "slug": "greene-county-mo-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where do I take a deed for recording in Greene County?",
-   "html": "<p>Go to 940 N Boonville Ave, Springfield, MO 65802, the home of the county Recorder of Deeds. Cheryl Dawson-Spaulding holds the office, and the phone is (417) 868-4068. The counter serves the public Monday to Friday from 8:00 am until 4:30 pm, except county holidays, although recording intake ends earlier in the afternoon (see below).</p><p>The Assessor shares the building in Room 35, phone (417) 868-4101. That is convenient when a deed needs a legal description. The assessor's Public Access website lists a parcel's owner, taxing district and school district, and the assessor says its data is refreshed nightly, so a recent purchase may already show.</p>"
+   "h2": "Where to take a deed in Greene County",
+   "html": "<p>You will find the Recorder of Deeds at 940 N Boonville Ave, Springfield, MO 65802, reachable at (417) 868-4068. The counter serves the public Monday to Friday from 8:00 am to 4:30 pm, except county holidays, though recording intake stops earlier in the afternoon (see the cutoff section below).</p><p>Allow time before the afternoon intake cutoff. The Assessor shares the building in Room 35, phone (417) 868-4101, which helps when a deed needs a legal description. The Assessor's Public Access website lists a parcel's owner, taxing district and school district and refreshes nightly, so a recent purchase may already appear.</p>"
   },
   {
-   "h2": "Which documents does the Greene County recorder file?",
-   "html": "<p>The office keeps the property records for Greene County: deeds, mortgages and deeds of trust, releases, and other papers that touch land. State law points a deed to this counter, since <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=442.380\">RSMo 442.380</a> directs that a conveyance be recorded in the county where the real estate is found.</p><p>The county's responsibility list adds three more jobs:</p><ul><li>Marriage license issue and upkeep</li><li>Federal and state tax lien filings</li><li>Military discharge records, with a request form and regulations posted online</li></ul><p>Drafting is not on that list. The county FAQ says the office does not prepare documents, and it sends people to a title company or an attorney to change ownership.</p>"
+   "h2": "Documents the office files",
+   "html": "<p>Property records for the whole county live here, from deeds and mortgages to releases and anything else that affects title. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=442.380\">RSMo 442.380</a> directs that a conveyance be recorded in the county where the real estate lies, which sends your deed to this counter.</p><p>The office has three other jobs:</p><ul><li>Issuing and maintaining marriage licenses</li><li>Filing federal and state tax liens</li><li>Keeping military discharge records, with a request form and regulations posted online</li></ul><p>Drafting is not on the list. Staff will not write your deed, so hire a title company or lawyer for that.</p>"
   },
   {
-   "h2": "What does recording a deed cost in Greene County?",
-   "html": "<p>The posted schedule charges $26.00 for page one of a real estate document and $3.00 for every page after that. Enclose a stamped return envelope or add the postage to your payment if you want the original back by mail.</p><table><caption>Greene County recording charges listed on the Recorder's fee page</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>Deed or other real estate paper, page one</td><td>$26.00</td></tr><tr><td>Same, each page after the first</td><td>$3.00</td></tr><tr><td>Plat or survey, page one (to 18 by 24 inches)</td><td>$46.00</td></tr><tr><td>Plat or survey, each further page</td><td>$25.00</td></tr><tr><td>Photocopy of a recorded paper, each page</td><td>$1.00</td></tr><tr><td>Certifying a document</td><td>$1.00</td></tr></tbody></table><p>A notice at the top of the recorder's page reads that Senate Bill 938 adds $2 to the charge for real estate documents, plats and surveys from August 28, 2026. That day has come and gone, so phone the office for today's figure. The state portion is set in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.319\">RSMo 59.319</a>: a six dollar user fee on every recorded instrument, above whatever else the office charges.</p>"
+   "h2": "Recording fees",
+   "html": "<p>The posted schedule charges $26.00 for page one of a real estate document and $3.00 for each page after that. If you want the original returned by mail, enclose a stamped return envelope or add postage to your payment.</p><table><caption>Greene County recording charges</caption><thead><tr><th>Document or service</th><th>Charge</th></tr></thead><tbody><tr><td>Deed or other real estate paper, page one</td><td>$26.00</td></tr><tr><td>Same, each page after the first</td><td>$3.00</td></tr><tr><td>Plat or survey, page one (to 18 by 24 inches)</td><td>$46.00</td></tr><tr><td>Plat or survey, each further page</td><td>$25.00</td></tr><tr><td>Photocopy of a recorded paper, each page</td><td>$1.00</td></tr><tr><td>Certifying a document</td><td>$1.00</td></tr></tbody></table><p>Senate Bill 938 adds $2 to the charge for real estate documents, plats and surveys, so phone the office for the current total. The state's own piece is set in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.319\">RSMo 59.319</a>: a six dollar user fee on every recorded instrument, on top of whatever else the office charges.</p>"
   },
   {
-   "h2": "What makes a Greene County deed fit to record?",
-   "html": "<p>Under <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.310\">RSMo 59.310</a> the recorder can turn away paper that breaks the layout rules, or accept it for an extra $25. Think of it as a checklist for your title company:</p><ul><li>Single-sided, unbound pages in dark ink, type of at least eight points, on light paper of twenty-pound weight or heavier</li><li>Three blank inches across the top of the first page for the recorder's certification, and three-quarter inch margins on every side</li><li>Below that blank space: title, date, grantors with marital status, grantees, statutory addresses and the legal description</li></ul><p>RSMo 59.330 layers on two more demands. The deed must carry a legal description, and unless it is an easement or right-of-way, it must give a mailing address for one of the grantees. Refused papers go back to whoever presented them with the reason in writing.</p>"
+   "h2": "What makes a deed fit to record",
+   "html": "<p>Under <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=59.310\">RSMo 59.310</a> the recorder may refuse a paper that breaks the layout rules, or take it for an extra $25. Treat the list as a checklist for your title company:</p><ul><li>Single-sided, unbound pages in dark ink, with type of at least eight points, on light paper of twenty-pound weight or more</li><li>A blank three-inch band across the top of page one for the recorder's certification, and three-quarter inch margins on all sides</li><li>Under the blank band: title, date, grantors with marital status, grantees, statutory addresses and the legal description</li></ul><p>RSMo 59.330 adds two demands. The deed needs a legal description, and unless it is an easement or right-of-way it must give a mailing address for one of the grantees. A refused paper goes back to whoever presented it, with the reason in writing.</p>"
   },
   {
-   "h2": "When does the Greene County recorder stop taking documents each day?",
-   "html": "<p>Business-day intake ends at 4:00 PM, a half hour before the building's counters close. Anyone already at the counter by then is served. Later arrivals are recorded when the doors open at 8:00 AM on the next business day. The recorder's policy tells filers to leave staff enough time to check pages.</p><p>As for price, the FAQ says a recorded deed does not have to state the selling price, and the fee schedule above lists nothing called a transfer tax. Confirm any other closing charges with the title company.</p>"
+   "h2": "Packing a deed for the counter",
+   "html": "<p>Before you drive to Springfield, run through this list. Is the legal description copied exactly from the vesting deed? Is there a mailing address for at least one grantee, unless the paper is an easement or right-of-way? Do the margins and ink match the rules above? Is the fee worked out from the page count, with a stamped return envelope or postage added if you want the original mailed back?</p><p>A single missed item sends the paper back, and the office will not fix it for you. Staff cannot draft or edit a deed, so questions about wording belong with a title company or attorney. Ask them to read the packet once more the day before, and keep your own copy of everything you hand over.</p><p>If you inherited the house or have tenants in it, say so early, since the order of recording can matter. A cash buyer's closing agent handles the same recording steps and pays the fees from the closing funds.</p>"
   },
   {
-   "h2": "How do I research a recorded paper or lien on a Greene County house?",
-   "html": "<p>Street addresses do not work here. The index answers to a full legal description, a book and page, a name or a document number. If all you hold is an address, ask the Assessor to supply the legal description first.</p><p>By law the recorder may not run lien searches, and the office points out that liens are filed in places besides its own. Staff will still help you page through the records. There is also a subscription service for downloading raw data, which does not display images online. A closing for a Greene County sale relies on the title company's full search.</p>"
+   "h2": "Daily cutoff for recording",
+   "html": "<p>Each business day the intake window shuts at 4:00 PM, half an hour before the counters close. Anyone already at the counter by then is served. Later arrivals are recorded when the doors open at 8:00 AM the next business day. Staff need time to look over the pages.</p><p>The price need not appear on the deed, and the schedule above shows no transfer tax. Other closing charges are a question for the title company.</p><p>If your closing is on a tight schedule, deliver the deed in the morning. A paper refused late in the afternoon has no time left to be fixed and recorded that day.</p>"
   },
   {
-   "h2": "Can I get copies of recorded papers from the Greene County recorder?",
-   "html": "<p>Yes. Copies of recorded documents cost $1.00 a page, a certification costs another $1.00, and a copy of a plat is $5.00. The same schedule prices a certified marriage license copy at $9.00. A mailed request for a marriage license copy needs a cashier's check or money order, because personal checks are not accepted.</p><p>Bring or send what the index needs. A legal description, book and page, name or document number will find the instrument, and the fee is counted by page.</p>"
+   "h2": "Researching a recorded paper or lien",
+   "html": "<p>The index does not work from street addresses. It answers to a full legal description, a book and page, a name or a document number. With only an address in hand, ask the Assessor for the legal description first.</p><p>The law bars the recorder from running lien searches, and liens are filed in places besides this office. Staff will still help you page through the records. A subscription service lets you download raw data, though it does not show images online. For a Greene County sale, rely on the title company's full search.</p>"
   },
   {
-   "h2": "How does recording close out a Greene County home sale?",
-   "html": "<p>Recording comes last. After the closing, the signed deed travels to 940 N Boonville Ave and is entered in the county record. The assessor then updates its tax maps from the warranty deeds the recorder sends over, which is why property lines and owner names in the county's parcel data follow your deed.</p><p>Ask your closing agent to run through the legal description, the grantee mailing address and the margins a few days before signing. The recorder's office does not prepare papers, and it recommends a title company or an attorney for any ownership change.</p>"
+   "h2": "Copies of recorded papers",
+   "html": "<p>Recorded documents are $1.00 a page to copy, certification is another $1.00, and a plat copy is $5.00. Certified marriage license copies are $9.00, and by mail they require a cashier's check or money order since personal checks are refused.</p><p>Bring or send whatever the index needs. A legal description, book and page, name or document number will find the instrument, and the fee is counted by page.</p>"
   },
   {
-   "h2": "What should a seller know about Greene County itself?",
-   "html": "<p>Greene County was founded January 2, 1833 and named for Revolutionary War general Nathanael Greene. It spreads over 678 square miles of the Ozarks foothills in southwest Missouri, with Springfield as seat and largest city. The Census Bureau estimated 309,286 residents for July 1, 2025, up from 298,915 in the 2020 count, the largest county outside the Kansas City and St. Louis areas. Wilson's Creek National Battlefield lies inside its borders, and Polk, Dallas, Webster, Christian, Lawrence and Dade counties surround it.</p><ul><li>142,405 housing units and 130,951 households</li><li>57.5 percent of homes lived in by owners</li><li>$221,300 median value for an owned home</li><li>$989 median gross rent</li><li>966 building permits in 2025</li></ul><p>At the 2020 census the median age was 36.8, and 85.9 percent of residents lived in urban areas. Springfield R-XII is the biggest school district, with Republic R-III, Logan-Rogersville R-VIII, Ash Grove R-IV and Fair Grove R-X serving smaller towns. Beyond Springfield, cities include Battlefield, Strafford, Walnut Grove and Willard. Drivers use I-44, US 60, US 65 and US 160.</p>"
+   "h2": "How recording closes out a home sale",
+   "html": "<p>Recording comes last. Once you close, the signed deed travels to 940 N Boonville Ave to be entered in the county record. The Assessor then updates its tax maps from the warranty deeds the recorder sends over, which is why lot lines and owner names in the county's parcel data follow your deed.</p><p>Several days ahead of signing, have your closing agent proofread the legal description, the grantee's mailing address and the margins.</p>"
+  },
+  {
+   "h2": "Greene County at a glance",
+   "html": "<p>Greene County, in the Ozark foothills of southwest Missouri, is centered on Springfield. The population estimate is 309,286, compared with 298,915 at the 2020 count. It has 142,405 housing units, and owners live in 57.5 percent of homes. The median owned home is valued at $221,300 and median gross rent is $989. The county issued 966 building permits in 2025, so recordings come steadily from new construction and resales alike.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Is there a transfer tax on a Greene County deed?",
-   "a": "The fee schedule shows none, and the recorder's FAQ states the selling price need not appear on a recorded deed. Page-based recording charges apply. Ask the title company about other closing costs."
+   "q": "Does Greene County charge transfer tax on a deed?",
+   "a": "The fee schedule shows none, and the recorder's FAQ says the selling price need not appear on a recorded deed. Page-based recording charges apply. Ask the title company about other closing costs."
   },
   {
    "q": "What is the cutoff time to record a deed in Greene County?",
-   "a": "4:00 PM on a business day. Papers presented after that are recorded starting at 8:00 AM the next business day."
+   "a": "4:00 PM on a business day. Papers presented later are recorded starting at 8:00 AM the next business day."
   },
   {
    "q": "Will the Greene County recorder tell me about liens on my house?",
-   "a": "No, the law bars the office from running lien searches, and liens may be filed elsewhere. A title company's search is the reliable check before closing."
+   "a": "No. The law bars the office from running lien searches, and liens may be filed elsewhere. A title company's search is the reliable check before closing."
   },
   {
-   "q": "Where do I get a legal description for a Greene County parcel?",
-   "a": "From the Greene County Assessor, Room 35 at 940 N Boonville Ave, or from its Public Access website. The recorder cannot search by street address."
+   "q": "How do I find the legal description of my parcel?",
+   "a": "From the Assessor, Room 35 at 940 N Boonville Ave, or its Public Access website. The recorder cannot search by street address."
   },
   {
    "q": "What if the recorder refuses my deed?",
-   "a": "It is returned to you with the reason. Papers that miss the layout rules in RSMo 59.310 can alternatively be recorded for an extra $25."
+   "a": "It comes back to you with the reason. A paper that misses the layout rules in RSMo 59.310 can instead be recorded for an extra $25."
   }
  ],
  "sources": [

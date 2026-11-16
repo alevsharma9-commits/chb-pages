@@ -2,62 +2,66 @@
  "slug": "howell-county-mo-property-tax-guide",
  "sections": [
   {
-   "h2": "Who runs property tax in Howell County, and where do I find them?",
-   "html": "<p>Both offices work out of the county building on the West Plains square, 35 Court Square. The collector's site names Janet Crow as County Collector and puts the office in Room 201, phone (417) 256-4001, fax (417) 257-0090. Hours are 8:30 am to 4:30 pm Monday through Friday, including the noon hour, and the office closes on state holidays.</p><p>The assessor, Daniel Franks, has Suite 202 at (417) 256-8284 and opens at 8:00 am. His site offers GIS mapping and a subscription parcel search at howell.missouriassessors.com. The collector's duties go beyond houses: it prepares separate statements for personal property such as cars, trucks and boats, for real estate, and for utilities such as railroads and gas lines, and it issues merchant licenses.</p>"
+   "h2": "Howell County offices and hours",
+   "html": "<p>Collector and assessor both work from the county building on the West Plains square, 35 Court Square. The County Collector is in Room 201, phone (417) 256-4001, fax (417) 257-0090. The counter is open Monday through Friday from 8:30 am until 4:30 pm, noon hour included, and shuts for state holidays.</p><p>The assessor is in Suite 202 at (417) 256-8284 and opens at 8:00 am. The assessor's site offers GIS mapping and a subscription parcel search at howell.missouriassessors.com. The collector does more than houses: it prepares separate statements for personal property such as cars, trucks and boats, for real estate, and for utilities such as railroads and gas lines, and it issues merchant licenses.</p>"
   },
   {
-   "h2": "How do I pay my Howell County tax bill?",
-   "html": "<p>Statements are mailed each November and count as due on receipt. After December 31 they turn delinquent. A mailed check that is postmarked January 1 or later comes back unless it includes late fees. If November ends with no statement in your mailbox, call at once, since the missing paper does not erase the tax.</p><table><caption>Ways to pay Howell County property tax, from the Howell County Collector website</caption><thead><tr><th>Method</th><th>Detail</th></tr></thead><tbody><tr><td>Online</td><td>Click Pay Taxes on the collector's site</td></tr><tr><td>Phone</td><td>1-800-652-0405, current taxes only; enter county number 18 and the PIN from your statement</td></tr><tr><td>Mail</td><td>Postmarked no later than December 31</td></tr><tr><td>Drop box</td><td>Outside the Howell County Office Building</td></tr><tr><td>Counter</td><td>Room 201, 8:30 am to 4:30 pm</td></tr></tbody></table><p>The collector distributes what it collects each month to the taxing entities that levy against your parcel.</p>"
+   "h2": "Paying your Howell County tax bill",
+   "html": "<p>Mailing starts in November, and each statement is due when it arrives. Delinquency begins after December 31, and a check postmarked January 1 or later is returned unless late fees are included. A statement that never turns up still leaves the tax owing, so phone the office if one has not come by the end of November.</p><table><caption>Ways to pay Howell County property tax</caption><thead><tr><th>Method</th><th>How it works</th></tr></thead><tbody><tr><td>Online</td><td>Click Pay Taxes on the collector's site</td></tr><tr><td>Phone</td><td>1-800-652-0405, current taxes only; enter county number 18 and the PIN from your statement</td></tr><tr><td>Mail</td><td>Postmarked no later than December 31</td></tr><tr><td>Drop box</td><td>Outside the Howell County Office Building</td></tr><tr><td>Counter</td><td>Room 201, 8:30 am to 4:30 pm</td></tr></tbody></table><p>Each month the collector passes what it has taken in to the taxing entities that levy against your parcel.</p>"
   },
   {
-   "h2": "Who owes the tax if I sell or move partway through the year?",
-   "html": "<p>The assessor's information page quotes RSMo 137.075 and says liability attaches to whoever holds property on January 1, even a buyer who closes that same day. It gives the example of someone leaving Missouri in June 2026: that person is still taxed for 2026 and the law offers no proration.</p><p>That page is written around vehicles and other personal property, which taxpayers list with the assessor before March 1. A house is different in practice, since the sale contract and the settlement statement set how the year's real estate bill is divided. Read the proration clause before you sign.</p>"
+   "h2": "Who owes the tax if you sell or move mid-year",
+   "html": "<p>Under RSMo 137.075, liability attaches to whoever holds property on January 1, even a buyer who closes that same day. A person who moves out of Missouri in June still owes tax for that whole year. The law gives no proration.</p><p>That rule is written mostly around vehicles and other personal property, which owners list with the assessor before March 1. A house works differently in practice. What you and the buyer each pay of the year's real estate bill comes from the sale contract and settlement statement, so read the proration clause first.</p>"
   },
   {
-   "h2": "What share of a Howell County home's value is taxed?",
-   "html": "<p>Missouri taxes 19 percent of a home's true value, 12 percent of farmland and 32 percent of commercial property, a rule found in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=137.115\">RSMo 137.115</a>. Real estate is revalued every odd year.</p><ul><li>Raises above 15 percent for a home, new building excluded, require an on-site inspection.</li><li>You may ask for the inspector to come inside, and the notice must give you thirty days to do so.</li><li>Under <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=138.060\">RSMo 138.060</a>, the assessor must prove a raise of that size is justified when you appeal.</li></ul><p>Pull up your parcel record on the assessor's site before you call, so you can quote the parcel number.</p>"
+   "h2": "What share of a home's value is taxed",
+   "html": "<p>Homes are taxed on 19 percent of true value, farmland on 12 and commercial property on 32, as set in <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=137.115\">RSMo 137.115</a>. Values are reset every odd year.</p><ul><li>Any raise over 15 percent on a home, unless new building caused it, calls for an on-site inspection.</li><li>You may ask the inspector to come inside, and the notice must give you thirty days to do so.</li><li>On appeal, <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=138.060\">RSMo 138.060</a> makes the assessor prove a raise of that size is justified.</li></ul><p>Open your parcel record on the assessor's site before you call so you can quote the parcel number. The subscription search there also shows what nearby properties are carried at, which is useful when you want to compare your value with a neighbor's.</p>"
   },
   {
-   "h2": "What are my options if the number looks wrong?",
-   "html": "<p>The Board of Equalization comes first, with a cutoff on the second Monday in July. The State Tax Commission is next, and it gives you 30 days from the Board's letter. Signing a stipulation with the assessor settles the case for good.</p><p>Paying under protest is a separate tool. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=139.031\">RSMo 139.031</a> calls for payment of the whole bill ahead of delinquency, a written explanation filed with the collector, and a lawsuit against the collector within ninety days. The collector holds the contested share in its own fund while the case runs. A tax paid by mistake can be credited or refunded when the taxpayer applies within three years.</p>"
+   "h2": "Your options if the number looks wrong",
+   "html": "<p>Begin with the Board of Equalization, which takes filings until the second Monday in July. The State Tax Commission is the next level and allows 30 days from the date of the Board's letter. A stipulation signed with the assessor ends the case permanently.</p><p>Paying under protest is a separate tool. <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=139.031\">RSMo 139.031</a> asks for the whole bill before delinquency, a written explanation filed with the collector and a lawsuit against the collector within ninety days. The collector holds the contested share in its own fund while the case runs. A tax paid by mistake can be credited or refunded if the taxpayer applies within three years.</p>"
   },
   {
-   "h2": "When does Howell County auction delinquent property?",
-   "html": "<p>The collector's page sets the sale for the fourth Monday in August, and <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=140.150\">RSMo 140.150</a> agrees. Until the gavel falls, an owner can settle by paying the tax, penalty, interest and costs. The collector mails notice to the record owner, though a letter that goes astray does not wipe out the debt.</p><p>A seller with a balance should ask (417) 256-4001 for a payoff and have the title company wire it from proceeds at closing.</p>"
+   "h2": "The August delinquent tax sale",
+   "html": "<p>The collector holds the sale on the fourth Monday in August, and <a href=\"https://revisor.mo.gov/main/OneSection.aspx?section=140.150\">RSMo 140.150</a> agrees. Until the gavel falls, an owner can settle by paying the tax, penalty, interest and costs. The collector mails notice to the record owner, though a letter that goes astray does not wipe out the debt.</p><p>If you owe a balance, ask (417) 256-4001 for a payoff so the title company can pay it out of your proceeds.</p>"
   },
   {
-   "h2": "What is the story behind Howell County?",
-   "html": "<p>Josiah Howell bought the first settlement in Howell Valley, and the county took his name when it was organized on March 2, 1857. The first circuit court met in a log cabin about a mile east of West Plains, according to an 1876 account. A small wooden courthouse went up on the West Plains square in 1859 and burned in 1862. The county reorganized in 1865, lost its records to a fire in 1866, and built a three-room frame courthouse measuring about 24 by 30 feet in 1869.</p><p>Today the county covers 927 square miles of land on the Arkansas line, which makes it the third largest in Missouri by land area. Part of the Mark Twain National Forest lies inside it. West Plains is the seat and largest city, joined by Brandsville, Mountain View and Willow Springs, and the census-designated places of Pomona and South Fork.</p>"
+   "h2": "Howell County housing at a glance",
+   "html": "<p>Along the Arkansas line, Howell County is led by West Plains. It has an estimated 40,798 people and 18,288 housing units, and 70.3 percent of homes are lived in by owners. Expect a median owned-home value of $173,000 and median rent of $733. Owner costs average $1,109 with a mortgage and $394 without. With only 67 permits issued in 2025, buyers mostly choose from existing houses.</p><p>Other towns include Brandsville, Mountain View and Willow Springs.</p>"
   },
   {
-   "h2": "Which colleges, libraries and neighboring counties frame a Howell County sale?",
-   "html": "<p>Howell County borders Texas, Shannon, Oregon, Ozark and Douglas counties in Missouri and Fulton County in Arkansas. Missouri State University-West Plains, a satellite of Missouri State University, is in the county seat, and the South Central Career Center in West Plains offers vocational and technical programs for grades 9 through 12. Public libraries operate in Mountain View, West Plains and Willow Springs.</p><p>Private schools listed for the county include Faith Assembly Christian School and Ozarks Christian Academy in West Plains and Trinity Christian Academy in Mountain View. Population peaked at 40,400 in 2010 and was 39,750 at the 2020 census, with the Census Bureau's 2025 estimate back above 40,000.</p>"
+   "h2": "Three kinds of statement",
+   "html": "<p>The collector issues separate statements for personal property, real estate and utilities, and a homeowner usually sees two of them. The real estate statement covers the house and land. The personal property statement covers vehicles, boats and similar items that you listed with the assessor before March 1, so a seller who owns a truck or boat should expect a second envelope.</p><p>Each kind can be delinquent on its own. When you ask for a payoff, say clearly that you want every statement tied to your name, then ask whether the amount includes late fees. The phone line at 1-800-652-0405 handles current taxes only, so an older balance has to be paid at the counter or by another route.</p>"
   },
   {
-   "h2": "What do housing numbers look like in Howell County?",
-   "html": "<p>Census Bureau figures for 2020 to 2024 give a picture of a county where most households own:</p><ul><li>Estimated population on July 1, 2025: 40,798</li><li>Housing units: 18,288 across 15,965 households</li><li>Homes occupied by owners: 70.3%</li><li>Median owner-occupied value: $173,000</li><li>Median rent: $733</li><li>Monthly owner costs: $1,109 with a mortgage and $394 without</li><li>Persons per household: 2.48, with per capita income of $27,570</li><li>Median household income: $50,993, with 18.6% of residents in poverty</li><li>New building permits in 2025: 67</li></ul><p>At the 2020 census the median age was 41.5 and 21.0 percent of residents were 65 or older. Roughly 70 percent lived in rural areas. Public schools include West Plains R-7, Willow Springs R-IV and Mountain View-Birch Tree R-III, plus smaller districts such as Fairview, Glenwood, Howell Valley, Junction Hill and Richards. Workers spend about 23 minutes getting to their jobs, and 17.8 percent of adults 25 and older hold a bachelor's degree or higher.</p>"
+   "h2": "A practical checklist for the week before closing",
+   "html": "<ol><li>Confirm with Room 201 that the real estate statement for the year is paid or that the payoff is known.</li><li>Ask whether any personal property statement is open under your name.</li><li>Print the parcel record from the assessor's site and compare it with the deed.</li><li>Give the title company the payoff, the parcel number and the contract's proration clause.</li><li>Keep the receipt and put it with the settlement statement.</li></ol><p>A drop box outside the county building takes payments after hours, and a check in the mail must carry a postmark no later than December 31 to count as timely.</p>"
+  },
+  {
+   "h2": "Selling a Howell County house with taxes due",
+   "html": "<p>Start with a statement from Room 201 and a call to (417) 256-4001 to see whether an earlier year is open. Ask for a payoff figure and give it to the title company, along with the parcel number from the assessor's site. Keep the receipt with your closing papers.</p><p>Remember that the year's bill is assigned by your contract, not by the county. If a lien, a tenant or a repair list is slowing a normal sale, a cash buyer can close without a lender's appraisal and the title company pays the county balance from your proceeds.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What phone number pays a Howell County tax bill?",
-   "a": "Dial 1-800-652-0405 for current taxes. Enter county number 18, then the PIN printed on your statement. Back taxes cannot be paid by that line."
+   "a": "Call 1-800-652-0405 for current taxes. Enter county number 18, then the PIN printed on your statement. Back taxes cannot be paid on that line."
   },
   {
-   "q": "Who is the Howell County assessor?",
-   "a": "Daniel Franks, in Suite 202 at 35 Court Square, West Plains. His office is open weekdays from 8:00 am to 4:30 pm and answers at (417) 256-8284."
+   "q": "Who is the Howell County assessor's office?",
+   "a": "It is in Suite 202 at 35 Court Square, West Plains, open weekdays from 8:00 am to 4:30 pm. The phone is (417) 256-8284."
   },
   {
    "q": "When must personal property be listed in Howell County?",
-   "a": "Before March 1 each year, according to the assessor's page. Property is assessed as it stood on January 1."
+   "a": "Before March 1 each year. Property is assessed as it stood on January 1."
   },
   {
-   "q": "Is Howell County tax prorated if I leave Missouri?",
-   "a": "The assessor says no. The tax rests on what you held on January 1, and the law has no proration. A home sale contract can still split that year's real estate bill between buyer and seller."
+   "q": "Is tax prorated if I leave Missouri?",
+   "a": "No, the tax rests on what you held on January 1, and the law has no proration. A home sale contract can still split that year's real estate bill between buyer and seller."
   },
   {
-   "q": "Where can I check my Howell County parcel before an appeal?",
-   "a": "Use the assessor's site, howell.missouriassessors.com, or call (417) 256-8284. Have your parcel number ready, and file any Board of Equalization appeal by the second Monday in July."
+   "q": "Where can I check my parcel before an appeal?",
+   "a": "Use the assessor's site, howell.missouriassessors.com, or call (417) 256-8284. Have the parcel number ready, and file any Board of Equalization appeal by the second Monday in July."
   }
  ],
  "sources": [
