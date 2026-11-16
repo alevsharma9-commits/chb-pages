@@ -1,70 +1,101 @@
 {
-  "slug": "orange-county-nc-register-of-deeds",
-  "sections": [
-    {
-      "h2": "Where do you record a deed in Orange County, North Carolina?",
-      "html": "<p>Deeds are recorded at the Register of Deeds office in the Gateway Center, 228 S Churton Street, Suite 300, Hillsborough, NC 27278. The county lists hours of Monday through Friday, 8 a.m. to 5 p.m.</p><p>A seller in Chapel Hill, Carrboro or Efland files at the same Hillsborough counter as everyone else in the county. The county notes that parking for the office is in the deck directly behind the Gateway Center building. The recording page on the county site also points to an e-recording option, which spares a title company the drive.</p><ul><li>Location: Gateway Center, Suite 300, 228 S Churton Street</li><li>Hours: 8 a.m. to 5 p.m., Monday to Friday, office is closed on holidays</li><li>Parking: the deck behind the building</li><li>Online: document inquiry website for searching recorded papers</li></ul>"
-    },
-    {
-      "h2": "What does the Orange County fee schedule charge for recording?",
-      "html": "<p>The county's fee page, dated October 1, 2026, prints the same statewide amounts used in every North Carolina county, plus a few extra charges of its own.</p><table><caption>Orange County Register of Deeds fees printed on the county fee page</caption><thead><tr><th>Service</th><th>Charge as printed</th></tr></thead><tbody><tr><td>Deed, first 15 pages</td><td>$26, then $4 per added page</td></tr><tr><td>Deed of trust or mortgage, first 35 pages</td><td>$64, then $4 per added page</td></tr><tr><td>Non-standard document</td><td>$25 per document</td></tr><tr><td>Party names beyond 20</td><td>$2 for each added name</td></tr><tr><td>Plat</td><td>$21 per page</td></tr><tr><td>Certified copy of a non-vital record</td><td>$5 first page, $2 each added page</td></tr><tr><td>Notice of satisfaction</td><td>No charge</td></tr></tbody></table><p>The office takes cash, certified bank checks, money orders, personal or business checks and most cards, though American Express and Apple Pay are excluded for recording payments. Vital record payments follow stricter rules and personal checks are refused there.</p>"
-    },
-    {
-      "h2": "How is excise tax figured on an Orange County deed?",
-      "html": "<p>The county's FAQ puts the current stamp tax at $1 for each $500, or fractional part, of the value of the property conveyed. Its fee table states the same rule as $2 per thousand for deeds from August 1, 1991 forward.</p><p>The table also lists older periods, which matter only if you are reading an old deed: $1 per thousand for January 1, 1968 through July 31, 1991, and $1.10 per thousand before 1968. State law makes the seller responsible, and the amount is paid to the register of deeds before the deed is recorded. When a parcel straddles county lines, the county that holds the larger share of its value collects the tax. Ask the closing attorney for the stamp figure at your sale price instead of estimating it.</p>"
-    },
-    {
-      "h2": "What can Orange County Register of Deeds staff help with and what can they not?",
-      "html": "<p>Staff can issue certified copies of recorded deeds and plats, and they can help you find a plat by book and page. They cannot do a title search.</p><p>The county answers that question directly: a title search must come from an attorney or a paralegal working under one. It gives the same answer to a common seller question, since changing a name on a deed requires a new deed and the county advises seeking legal counsel unless you are used to preparing such documents. A closing attorney can prepare the right instrument before any listing or cash sale.</p><ul><li>Certified copies of recorded deeds: available, with fees from the schedule</li><li>Plat copies: certified $5 per page, uncertified $3 per page</li><li>Title search: refer to an attorney or paralegal</li><li>Name changes on a recorded deed: need a new deed</li></ul>"
-    },
-    {
-      "h2": "Why does recording in the right county matter when selling a house?",
-      "html": "<p>Because a deed or mortgage only gains priority against lien creditors and later buyers from the time it is registered in the county where the land lies. State law ranks competing papers by the order and time they were filed.</p><p>An Orange County house has to be recorded in Orange County, even if the buyer or lender is in Durham or Wake. Parcels near the Durham and Mebane lines still file here when the land is in Orange County, and the county's rate codes include city codes for Durham and Mebane. A deed signed at a closing table is not final protection until the register of deeds has stamped it.</p>"
-    },
-    {
-      "h2": "What do Orange County home sellers need to know before the deed is filed?",
-      "html": "<p>Sort out three items before the closing date: the payoff of any deed of trust, the current property tax bill and who will pay the excise tax. Each one affects what the register of deeds receives.</p><ul><li>A lender's satisfaction of a deed of trust is recorded for no charge, so ask your lender how soon it will file one.</li><li>Property tax is a lien from the listing date each year and the bill comes due September 1, so ask the Orange County Tax Administration office for the current balance.</li><li>Excise tax comes from the seller's proceeds at closing and is paid before the deed is recorded.</li></ul><p>Sellers who want to skip repairs and showings sometimes pick a cash buyer. The recording steps are identical either way.</p>"
-    },
-    {
-      "h2": "How does the Orange County housing market look in the numbers?",
-      "html": "<p>Orange County is among the costlier counties in the state. The Census Bureau lists a median owner-occupied home value of $459,500 for 2020 to 2024, and it reports 63.8% of homes as owner-occupied.</p><p>Median gross rent is $1,496 and median selected monthly owner costs with a mortgage are $2,221. The county has 57,342 households and 64,913 housing units (July 2025), and 61.8% of adults 25 and older hold a bachelor's degree or higher. The Census Bureau also counted 666 building permits in 2025.</p>"
-    },
-    {
-      "h2": "What should you bring when you visit the Orange County office?",
-      "html": "<p>Bring the original signed and notarized deed, the check or card for the recording fee and the excise tax, and a photo ID for any vital record request. Accepted IDs are a driver license with photograph, a state-issued identification card or a passport.</p><p>If an agent, attorney or legal representative collects a certified certificate for someone else, the county also asks for documents proving that authority. For a deed, call ahead if it has more than 15 pages, lists many parties or uses an unusual size, because added-page, non-standard and extra-party charges can apply.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Where is the Orange County NC Register of Deeds?",
-      "a": "It is in the Gateway Center at 228 S Churton Street, Suite 300, Hillsborough, NC 27278. Hours are Monday through Friday, 8 a.m. to 5 p.m."
-    },
-    {
-      "q": "How much does Orange County charge to record a deed?",
-      "a": "The county fee page prints $26 for the first 15 pages and $4 for each added page. A deed of trust or mortgage is $64 for the first 35 pages, and a non-standard document adds $25."
-    },
-    {
-      "q": "What is the excise tax on a deed in Orange County?",
-      "a": "It is $1 for each $500 or fractional part of the value conveyed, which the county's fee table also shows as $2 per thousand. The seller pays it to the register of deeds before the deed is recorded."
-    },
-    {
-      "q": "Can the Orange County Register of Deeds search my title?",
-      "a": "No. The county says a title search must be done by an attorney or a paralegal supervised by an attorney. Staff can help you reach the recorded documents and certified copies."
-    },
-    {
-      "q": "Can I record documents electronically in Orange County?",
-      "a": "Yes. The county's Recording and Real Estate page lists an E-Recording option. Contact the office at its Hillsborough location to confirm how to enroll before you plan a closing around it."
-    }
-  ],
-  "sources": [
-    {"title": "Orange County Register of Deeds fees", "url": "https://www.orangecountync.gov/758/Fees"},
-    {"title": "Orange County Recording and Real Estate", "url": "https://www.orangecountync.gov/2678/Recording-Real-Estate"},
-    {"title": "Orange County Register of Deeds FAQs", "url": "https://orangecountync.gov/m/faq?cat=45"},
-    {"title": "Orange County Tax Rates and Fees Information", "url": "https://www.orangecountync.gov/897/Tax-Rates-and-Fees-Information"},
-    {"title": "Census QuickFacts: Onslow, Orange and Pamlico Counties, NC", "url": "https://www.census.gov/quickfacts/fact/table/onslowcountynorthcarolina,orangecountynorthcarolina,pamlicocountynorthcarolina/PST045224"},
-    {"title": "G.S. 105-228.30 Excise tax on conveyances", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"},
-    {"title": "G.S. 47-18 Conveyances, contracts to convey, options and leases of land", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"},
-    {"title": "G.S. 161-10 Uniform fees of registers of deeds", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"},
-    {"title": "G.S. 105-355 Tax lien", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"}
-  ]
+ "slug": "orange-county-nc-register-of-deeds",
+ "sections": [
+  {
+   "h2": "Where do you record a deed in Orange County, North Carolina?",
+   "html": "<p>Deeds are recorded at the Register of Deeds office in the Gateway Center, 228 S Churton Street, Suite 300, Hillsborough, NC 27278. The county lists hours of Monday through Friday, 8 a.m. to 5 p.m.</p><p>A seller in Chapel Hill, Carrboro or Efland files at the same Hillsborough counter as everyone else in the county. The county notes that parking for the office is in the deck directly behind the Gateway Center building. The recording page on the county site also points to an e-recording option, which spares a title company the drive.</p><ul><li>Location: Gateway Center, Suite 300, 228 S Churton Street</li><li>Hours: 8 a.m. to 5 p.m., Monday to Friday, office is closed on holidays</li><li>Parking: the deck behind the building</li><li>Online: document inquiry website for searching recorded papers</li></ul>"
+  },
+  {
+   "h2": "What does the Orange County fee schedule charge for recording?",
+   "html": "<p>The county's fee page, dated October 1, 2026, prints the same statewide amounts used in every North Carolina county, plus a few extra charges of its own.</p><table><caption>Orange County Register of Deeds fees printed on the county fee page</caption><thead><tr><th>Service</th><th>Charge as printed</th></tr></thead><tbody><tr><td>Deed, first 15 pages</td><td>$26, then $4 per added page</td></tr><tr><td>Deed of trust or mortgage, first 35 pages</td><td>$64, then $4 per added page</td></tr><tr><td>Non-standard document</td><td>$25 per document</td></tr><tr><td>Party names beyond 20</td><td>$2 for each added name</td></tr><tr><td>Plat</td><td>$21 per page</td></tr><tr><td>Certified copy of a non-vital record</td><td>$5 first page, $2 each added page</td></tr><tr><td>Notice of satisfaction</td><td>No charge</td></tr></tbody></table><p>The office takes cash, certified bank checks, money orders, personal or business checks and most cards, though American Express and Apple Pay are excluded for recording payments. Vital record payments follow stricter rules and personal checks are refused there.</p>"
+  },
+  {
+   "h2": "How is excise tax figured on an Orange County deed?",
+   "html": "<p>The county's FAQ puts the current stamp tax at $1 for each $500, or fractional part, of the value of the property conveyed. Its fee table states the same rule as $2 per thousand for deeds from August 1, 1991 forward.</p><p>The table also lists older periods, which matter only if you are reading an old deed: $1 per thousand for January 1, 1968 through July 31, 1991, and $1.10 per thousand before 1968. State law makes the seller responsible, and the amount is paid to the register of deeds before the deed is recorded. When a parcel straddles county lines, the county that holds the larger share of its value collects the tax. Ask the closing attorney for the stamp figure at your sale price instead of estimating it.</p>"
+  },
+  {
+   "h2": "What can Orange County Register of Deeds staff help with and what can they not?",
+   "html": "<p>Staff can issue certified copies of recorded deeds and plats, and they can help you find a plat by book and page. They cannot do a title search.</p><p>The county answers that question directly: a title search must come from an attorney or a paralegal working under one. It gives the same answer to a common seller question, since changing a name on a deed requires a new deed and the county advises seeking legal counsel unless you are used to preparing such documents. A closing attorney can prepare the right instrument before any listing or cash sale.</p><ul><li>Certified copies of recorded deeds: available, with fees from the schedule</li><li>Plat copies: certified $5 per page, uncertified $3 per page</li><li>Title search: refer to an attorney or paralegal</li><li>Name changes on a recorded deed: need a new deed</li></ul>"
+  },
+  {
+   "h2": "Why does recording in the right county matter when selling a house?",
+   "html": "<p>Because a deed or mortgage only gains priority against lien creditors and later buyers from the time it is registered in the county where the land lies. State law ranks competing papers by the order and time they were filed.</p><p>An Orange County house has to be recorded in Orange County, even if the buyer or lender is in Durham or Wake. Parcels near the Durham and Mebane lines still file here when the land is in Orange County, and the county's rate codes include city codes for Durham and Mebane. A deed signed at a closing table is not final protection until the register of deeds has stamped it.</p>"
+  },
+  {
+   "h2": "What other filings does the Orange County Register of Deeds handle?",
+   "html": "<p>Beyond deeds, the office takes plats, notices of satisfaction, assumed business names and Uniform Commercial Code filings. Its recording page links to document standards, an inquiry tool for submitting and searching document questions, and a guide on registering an assumed name.</p><p>UCC filings run under Chapter 25, Article 9 of the North Carolina General Statutes and give notice of a security interest to third parties. The fee page prints $38 for an initial filing, correction, amendment or termination of up to two pages, $45 for three to ten pages and $2 for each page past ten. An owner with an equipment or fixture lien tied to a property should ask the office whether a filing exists before listing. Marriage licenses cost $60 per license, and the county says the license is valid right away and stays valid for sixty days.</p>"
+  },
+  {
+   "h2": "What do Orange County home sellers need to know before the deed is filed?",
+   "html": "<p>Sort out three items before the closing date: the payoff of any deed of trust, the current property tax bill and who will pay the excise tax. Each one affects what the register of deeds receives.</p><ul><li>A lender's satisfaction of a deed of trust is recorded for no charge, so ask your lender how soon it will file one.</li><li>Property tax is a lien from the listing date each year and the bill comes due September 1, so ask the Orange County Tax Administration office for the current balance.</li><li>Excise tax comes from the seller's proceeds at closing and is paid before the deed is recorded.</li></ul><p>Sellers who want to skip repairs and showings sometimes pick a cash buyer. The recording steps are identical either way.</p>"
+  },
+  {
+   "h2": "How does the Orange County housing market look in the numbers?",
+   "html": "<p>Orange County is among the costlier counties in the state. The Census Bureau lists a median owner-occupied home value of $459,500 for 2020 to 2024, and it reports 63.8% of homes as owner-occupied.</p><p>Median gross rent is $1,496 and median selected monthly owner costs with a mortgage are $2,221. The county has 57,342 households and 64,913 housing units (July 2025), and 61.8% of adults 25 and older hold a bachelor's degree or higher. The Census Bureau also counted 666 building permits in 2025.</p>"
+  },
+  {
+   "h2": "What should you bring when you visit the Orange County office?",
+   "html": "<p>Bring the original signed and notarized deed, the check or card for the recording fee and the excise tax, and a photo ID for any vital record request. Accepted IDs are a driver license with photograph, a state-issued identification card or a passport.</p><p>If an agent, attorney or legal representative collects a certified certificate for someone else, the county also asks for documents proving that authority. For a deed, call ahead if it has more than 15 pages, lists many parties or uses an unusual size, because added-page, non-standard and extra-party charges can apply.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where is the Orange County NC Register of Deeds?",
+   "a": "It is in the Gateway Center at 228 S Churton Street, Suite 300, Hillsborough, NC 27278. Hours are Monday through Friday, 8 a.m. to 5 p.m."
+  },
+  {
+   "q": "How much does Orange County charge to record a deed?",
+   "a": "The county fee page prints $26 for the first 15 pages and $4 for each added page. A deed of trust or mortgage is $64 for the first 35 pages, and a non-standard document adds $25."
+  },
+  {
+   "q": "What is the excise tax on a deed in Orange County?",
+   "a": "It is $1 for each $500 or fractional part of the value conveyed, which the county's fee table also shows as $2 per thousand. The seller pays it to the register of deeds before the deed is recorded."
+  },
+  {
+   "q": "Can the Orange County Register of Deeds search my title?",
+   "a": "No. The county says a title search must be done by an attorney or a paralegal supervised by an attorney. Staff can help you reach the recorded documents and certified copies."
+  },
+  {
+   "q": "Can I record documents electronically in Orange County?",
+   "a": "Yes. The county's Recording and Real Estate page lists an E-Recording option. Contact the office at its Hillsborough location to confirm how to enroll before you plan a closing around it."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Orange County Register of Deeds fees",
+   "url": "https://www.orangecountync.gov/758/Fees"
+  },
+  {
+   "title": "Orange County Recording and Real Estate",
+   "url": "https://www.orangecountync.gov/2678/Recording-Real-Estate"
+  },
+  {
+   "title": "Orange County Register of Deeds FAQs",
+   "url": "https://orangecountync.gov/m/faq?cat=45"
+  },
+  {
+   "title": "Orange County Tax Rates and Fees Information",
+   "url": "https://www.orangecountync.gov/897/Tax-Rates-and-Fees-Information"
+  },
+  {
+   "title": "Census QuickFacts: Onslow, Orange and Pamlico Counties, NC",
+   "url": "https://www.census.gov/quickfacts/fact/table/onslowcountynorthcarolina,orangecountynorthcarolina,pamlicocountynorthcarolina/PST045224"
+  },
+  {
+   "title": "G.S. 105-228.30 Excise tax on conveyances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"
+  },
+  {
+   "title": "G.S. 47-18 Conveyances, contracts to convey, options and leases of land",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"
+  },
+  {
+   "title": "G.S. 161-10 Uniform fees of registers of deeds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"
+  },
+  {
+   "title": "G.S. 105-355 Tax lien",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"
+  }
+ ]
 }

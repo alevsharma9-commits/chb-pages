@@ -2,74 +2,116 @@
   "slug": "lenoir-county-nc-property-tax-guide",
   "sections": [
     {
-      "h2": "Which office handles property tax in Lenoir County?",
-      "html": "<p>The Lenoir County Tax Department, at 101 North Queen Street in Kinston, lists, appraises and bills all property in the county. Call 252-527-7174. The office is open Monday through Friday from 8:30 a.m. to 5:00 p.m.</p><p>Its records cover real estate, personal property, property transfers, exemptions, exclusions and deferrals. The department also keeps the county land records and GIS mapping, bills special taxing districts such as fire districts, municipal service districts and drainage districts, and administers solid waste fees, privilege licenses and permits to move mobile homes.</p><p>The county website has links to view and pay tax bills, look up real property records, schedule a real property appeal, and file business or individual personal property listings. A seller checking a bill before closing can start there, then call the office for a payoff figure.</p>"
+      "h2": "Where does Lenoir County send its property tax bills from?",
+      "html": "<p>Bills come from the Lenoir County Tax Department in the administration building at 101 North Queen Street in Kinston, phone 252-527-7174. Walk-in service runs on weekdays between 8:30 in the morning and 5:00 in the afternoon.</p><p>One office carries several jobs. It lists and appraises real estate, keeps ownership and transfer records, tracks exemptions, exclusions and deferrals, and mails the bills. It also bills the special districts layered over the county: fire districts, municipal service districts and drainage districts. Solid waste fees, privilege licenses and permits to move mobile homes run through the same counter.</p><p>The county website links to online bill viewing and payment, real property records, GIS maps, a scheduler for real property appeals, and listing forms for business and individual personal property. A seller checking a bill before closing can look there first and then phone for a payoff figure.</p>"
     },
     {
-      "h2": "When are Lenoir County property taxes due and when does interest start?",
-      "html": "<p>Taxes are due September 1, and a bill paid before January 6 carries no interest. From January 6 to February 1 the interest is 2 percent, and after that it runs at 3/4 percent per month or part of a month until paid.</p><table><caption>North Carolina property tax dates that apply to Lenoir County bills</caption><thead><tr><th>Event</th><th>Rule</th><th>Source</th></tr></thead><tbody><tr><td>Listing period</td><td>First business day of January through January 31</td><td>G.S. 105-307</td></tr><tr><td>Tax due date</td><td>September 1 of the fiscal year</td><td>G.S. 105-360</td></tr><tr><td>Interest-free payment</td><td>Before January 6</td><td>G.S. 105-360</td></tr><tr><td>Interest from January 6</td><td>2 percent to February 1, then 3/4 percent a month</td><td>G.S. 105-360</td></tr><tr><td>Board of equalization and review first meeting</td><td>Not before the first Monday in April or after the first Monday in May</td><td>G.S. 105-322</td></tr><tr><td>Appeal from the county board</td><td>30 days after the board mailed its decision</td><td>G.S. 105-290</td></tr></tbody></table><p>A mailed payment is treated as received on its U.S. Postal postmark date.</p>"
+      "h2": "What are the due dates and interest rules on a Lenoir County bill?",
+      "html": "<p>A bill is due on September 1, yet it costs nothing extra until January 6. Interest then starts at 2 percent for the period through February 1, and 3/4 percent is added for every month or fraction after that.</p><table><caption>Calendar rules that shape a Lenoir County tax year, with the statute for each</caption><thead><tr><th>Step</th><th>What the law says</th><th>Where to read it</th></tr></thead><tbody><tr><td>Listing</td><td>Opens the first business day of January, closes January 31</td><td>G.S. 105-307</td></tr><tr><td>Payment date</td><td>September 1 of the fiscal year for which the tax is levied</td><td>G.S. 105-360</td></tr><tr><td>Last interest-free day</td><td>The day before January 6</td><td>G.S. 105-360</td></tr><tr><td>Review board convenes</td><td>On or after the first Monday in April, no later than the first Monday in May</td><td>G.S. 105-322</td></tr><tr><td>Next appeal level</td><td>Within 30 days of the county board's mailed decision</td><td>G.S. 105-290</td></tr></tbody></table><p>Checks sent by mail are credited on the postmark date.</p>"
     },
     {
       "h2": "How do I appeal a Lenoir County property value?",
-      "html": "<p>Appeals of real estate values go to the Lenoir County Board of Equalization and Review, and the window for the 2026 appeals closed on April 23, 2026, when the board adjourned. The county says the appeal window for 2027 opens on January 1, 2027.</p><p>That board is a quasi-judicial body under G.S. 105-322. It hears disputes about the listing and appraisal of real estate, individual and business personal property, applications for exemption, requests for exclusion and present-use value classifications.</p><p>To appeal, request a hearing in writing or by personal appearance before the board adjourns. The board mails its decision within 30 days after adjournment. If you still disagree, a written notice of appeal to the state Property Tax Commission must be filed within 30 days after the date the board mailed its notice, with a copy to the county assessor. The Lenoir County site has a link to schedule a real property appeal.</p>"
+      "html": "<p>A real estate appeal in Lenoir County goes to the Board of Equalization and Review. Its 2026 window ended April 23, 2026, the day the board adjourned, and the county says the 2027 window opens January 1, 2027.</p><p>This quasi-judicial board hears disputes over how real estate and personal property were listed and appraised, plus exemption applications, exclusion requests and present-use classifications, all under G.S. 105-322.</p><p>The rule on timing is that a hearing must be requested, in writing or in person, before the board adjourns. A written decision follows within 30 days of adjournment. Someone still unhappy can file notice with the state Property Tax Commission inside 30 days of the mailing date, stating the grounds and sending a copy to the assessor. The county site offers a form for scheduling a real property appeal.</p>"
     },
     {
       "h2": "When did Lenoir County last revalue property?",
-      "html": "<p>The county's page says values stayed the same from the reappraisal effective January 1, 2017, and it described the next reappraisal as effective January 1, 2025. State law requires counties to reappraise real property at least every eighth year, as of January 1 of the scheduled year.</p><p>Between those dates, the assessed value does not move with the market. It changes when the property itself changes, such as new construction or a removed building. The county explains that a reappraisal updates every property's market value as of its effective date, with certified appraisers visiting properties and checking characteristics, market sales and costs.</p><p>For a seller, the practical point is that the value on the tax bill is not a sale price. Compare your latest notice with recent sales before you decide on an asking price, and ask the tax office for the current assessed value of your parcel.</p>"
+      "html": "<p>Lenoir County's own page says assessed values held steady after the reappraisal effective January 1, 2017, and it described the next one as effective January 1, 2025. North Carolina law sets the outside limit at eight years between reappraisals of real property.</p><p>In between, a value changes only when the property does, for example through new construction or a removed building. During a reappraisal, certified appraisers visit parcels, confirm characteristics and study sales and costs so every property is measured as of the same date.</p><p>An assessed figure is not a price. Compare your notice with recent sales before setting an asking price, and ask the tax office for the current assessed value on your parcel.</p>"
     },
     {
       "h2": "What property tax relief programs exist for Lenoir County owners?",
-      "html": "<p>North Carolina has three homestead programs, and the county accepts the applications on Form AV-9. An owner may take benefit from only one of them. Applications should be filed during the listing period, but they must be accepted through June 1 before the tax year.</p><ul><li>Elderly or disabled exclusion: the greater of $25,000 or 50 percent of the home's appraised value, for owners 65 or older or totally and permanently disabled, with income at or under the limit. The limit is $38,800 for the 2026 tax year.</li><li>Disabled veteran exclusion: the first $45,000 of appraised value, with no age or income limit, on Form NCDVA-9 filed with the assessor.</li><li>Circuit breaker: tax capped at 4.0 percent of income when income is up to the limit, or 5.0 percent when it is over the limit up to 150 percent of it. Five years of owning and occupying the home is required, and a new application is needed each year.</li></ul><p>Land used for farming, horticulture or forestry may qualify for the present-use value program, which gives a reduced assessment. Lenoir County has an AV-7 request form for an estimate of deferred taxes. Ask the office for that estimate before you sell qualified land.</p>"
+      "html": "<p>Three homestead programs exist statewide, and the county takes the AV-9 application for them. An owner can use only one program. File during the listing period; the county must still accept an application up to June 1 before the tax year.</p><ul><li>Elderly or disabled exclusion: the larger of $25,000 or half the home's appraised value, for an owner who is 65 or older or totally and permanently disabled and whose income is within the limit, printed as $38,800 for 2026.</li><li>Disabled veteran exclusion: $45,000 off appraised value, with no age or income test, using Form NCDVA-9 filed with the assessor.</li><li>Circuit breaker: a ceiling of 4.0 percent of income for owners at or under the income limit, or 5.0 percent for incomes above it up to 150 percent of it. The owner must have lived in the home five years, and must reapply annually.</li></ul><p>Farm, horticulture and forest land may qualify for present-use value, which lowers the assessment. Lenoir County has an AV-7 form to request an estimate of deferred taxes, a useful step before selling qualifying land.</p>"
     },
     {
       "h2": "What happens to Lenoir County property tax when I sell?",
-      "html": "<p>The tax lien attaches to the parcel as of the January 1 listing date, so the bill follows the property. A closing attorney or title company normally asks the Lenoir County Tax Department for the current balance and pays it from the sale proceeds at the table.</p><p>For personal property the rule is different. A lien for personal property taxes attaches to all of the taxpayer's real property in the taxing unit, so unpaid boat, aircraft or business equipment bills can show up against a house. Individual personal property such as boats, jet skis, aircraft, mobile homes and unlicensed vehicles must be listed every January, and a listing after January 31 draws a 10 percent penalty.</p><p>Lenoir County uses a permanent listing system for real estate, so a seller does not relist the house each year unless the value changed.</p>"
+      "html": "<p>The lien reaches a parcel on its January 1 listing date, so the unpaid balance travels with the house. At closing, the attorney or title company usually requests the figure from the Lenoir County Tax Department and pays it out of the seller's proceeds.</p><p>Personal property works differently. A lien for unpaid personal property tax can reach every parcel the taxpayer owns in that taxing unit, so an old boat or equipment bill may surface against a house. Boats, jet skis, aircraft, mobile homes and unlicensed vehicles are listed each January, with a 10 percent penalty for a late listing.</p><p>Real estate follows a permanent listing system in this county. A seller does not relist the house every year unless its value changed.</p>"
     },
     {
-      "h2": "What if I fall behind on taxes in Lenoir County?",
-      "html": "<p>Unpaid real estate taxes are collected by a foreclosure action in the nature of a mortgage foreclosure, filed in the county where the property lies. The owner of record, the spouse and other lienholders are served.</p><p>The sale is a public auction at the courthouse door. The commissioner may require a deposit of up to 20 percent of the bid, and the sale reports within three days. Exceptions or an increased bid may be filed within 10 days after the report, and the commissioner's fee can reach 5 percent of the purchase price. Before the sale is confirmed, a person redeeming pays the taxes due plus penalties, interest and costs.</p><p>The county tax page lists a legal services contact for tax foreclosures. If a notice has arrived, call the Lenoir County tax office and a legal aid provider early.</p>"
+      "h2": "What happens if Lenoir County property tax goes unpaid?",
+      "html": "<p>The county can sue to foreclose its tax lien, a process modeled on mortgage foreclosure and filed in the county where the property sits. Owners of record, spouses and other lienholders receive notice.</p><p>A sale is held at the courthouse door to the highest bidder. The commissioner can ask for a deposit as high as 20 percent of the bid and reports the sale in three days. Parties have 10 days after the report to file exceptions or a higher bid, and the commissioner's fee may reach 5 percent of the price. Until confirmation, an owner can redeem by paying the taxes, penalties, interest and costs.</p><p>The county tax page names a legal services contact for tax foreclosures. Anyone holding a notice should call the tax office and a legal aid provider promptly.</p>"
     },
     {
       "h2": "What are the housing and income figures for Lenoir County?",
-      "html": "<p>Lenoir County had an estimated 55,837 residents on July 1, 2025, compared with 59,495 at the 2010 census. It has 27,402 housing units on 399.09 square miles of land.</p><p>The Census Bureau's 2020 to 2024 numbers show a median owner-occupied home value of $120,500 and an owner-occupancy rate of 59.2 percent, which leaves roughly 41 percent of homes as rentals. Median gross rent is $861, and median household income is $45,143. About 19.1 percent of people live in poverty, and 22.4 percent are 65 or older.</p><p>Median owner costs with a mortgage are $1,237 a month, and without one $460. At those values, a property tax bill makes up a large part of what a low-income owner pays each year, and a house with back taxes can lose most of its equity to the debt. Building permits numbered 131 in 2025, so there is little new construction competing with a resale in Kinston and the surrounding county.</p>"
+      "html": "<p>Kinston's county had an estimated 55,837 residents on July 1, 2025, down from 59,495 in the 2010 census, and it has 27,402 housing units across 399.09 square miles.</p><p>Census survey figures for 2020 to 2024 put the typical owned home at $120,500, with owners in 59.2 percent of homes and renters in the rest, at a median gross rent of $861. Households earn a median $45,143. Poverty affects 19.1 percent of residents, and 22.4 percent are 65 or older.</p><p>Monthly owner costs are a median $1,237 with a mortgage and $460 without one. At home values this modest, a tax bill is a real share of yearly housing cost, and back taxes can eat much of a house's equity. Permits numbered 131 in 2025, so new construction is thin and a resale competes mostly with other older homes.</p>"
     }
   ],
   "faqs": [
     {
-      "q": "Who do I call about property tax in Lenoir County?",
-      "a": "Call the Lenoir County Tax Department at 252-527-7174. It is at 101 North Queen Street in Kinston and open Monday to Friday, 8:30 a.m. to 5:00 p.m."
+      "q": "Which phone number reaches Lenoir County tax staff?",
+      "a": "Dial 252-527-7174. The Tax Department sits at 101 North Queen Street in Kinston and keeps hours of 8:30 a.m. to 5:00 p.m., Monday through Friday."
     },
     {
-      "q": "When is the Lenoir County real estate appeal deadline?",
-      "a": "The 2026 window closed April 23, 2026, when the Board of Equalization and Review adjourned. The county says the 2027 window opens January 1, 2027, and appeals must be made before the board adjourns."
+      "q": "Is the Lenoir County real estate appeal period still open for 2026?",
+      "a": "No. It closed April 23, 2026, when the Board of Equalization and Review adjourned. The county says the window for 2027 opens January 1, 2027."
     },
     {
-      "q": "Do I have to list my house with Lenoir County every year?",
-      "a": "No. The county uses a permanent listing system for real estate, so real property does not need relisting unless its value changed. Personal property such as boats and unlicensed vehicles must be listed each January."
+      "q": "Must a Lenoir County homeowner list the house each year?",
+      "a": "No. The county runs a permanent listing system for real estate, so a house is relisted only after a change in value. Boats, aircraft and unlicensed vehicles need a January listing."
     },
     {
-      "q": "What is the late listing penalty in Lenoir County?",
-      "a": "Ten percent. Personal property listings received after the January listing period, which ends January 31, are charged that penalty under state law."
+      "q": "What does a late personal property listing cost in Lenoir County?",
+      "a": "A 10 percent penalty. Listings made after the period ending January 31 are charged it, per the county tax page."
     },
     {
-      "q": "Can I sell a Lenoir County house with unpaid property tax?",
-      "a": "Yes, but the tax is a lien on the parcel and is normally paid from sale proceeds at closing. Ask the tax office for the balance before you sign, so the payoff is on the settlement statement."
+      "q": "Can a house with unpaid Lenoir County tax be sold?",
+      "a": "Yes. The tax lien is paid out of the sale proceeds at closing. Get the balance from the tax office before signing so the payoff appears on the settlement statement."
     }
   ],
   "sources": [
-    {"title": "Lenoir County Tax Department", "url": "https://lenoircountync.gov/tax-department"},
-    {"title": "Lenoir County Board of Equalization and Review notice", "url": "https://lenoircountync.gov/lenoir-county-seeking-applicants-for-board-of-equalization-and-review"},
-    {"title": "U.S. Census Bureau QuickFacts: Lenoir County, North Carolina", "url": "https://www.census.gov/quickfacts/fact/table/lenoircountynorthcarolina/PST045224"},
-    {"title": "N.C.G.S. 105-307 Listing period", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-307.html"},
-    {"title": "N.C.G.S. 105-360 Due date, interest", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-360.html"},
-    {"title": "N.C.G.S. 105-322 Board of equalization and review", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-322.html"},
-    {"title": "N.C.G.S. 105-290 Property Tax Commission", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-290.html"},
-    {"title": "N.C.G.S. 105-286 Revaluation cycle", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-286.html"},
-    {"title": "N.C.G.S. 105-277.1 Elderly or disabled exclusion", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1.html"},
-    {"title": "N.C.G.S. 105-277.1B Circuit breaker", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1B.html"},
-    {"title": "N.C.G.S. 105-277.1C Disabled veteran exclusion", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1C.html"},
-    {"title": "NCDOR AV-9 application and 2026 income limit", "url": "https://ncdor.gov/2026-av-9-securedpdf/open"},
-    {"title": "N.C.G.S. 105-355 Lien for taxes", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"},
-    {"title": "N.C.G.S. 105-374 Foreclosure of tax lien", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-374.html"}
+    {
+      "title": "Lenoir County Tax Department",
+      "url": "https://lenoircountync.gov/tax-department"
+    },
+    {
+      "title": "Lenoir County Board of Equalization and Review notice",
+      "url": "https://lenoircountync.gov/lenoir-county-seeking-applicants-for-board-of-equalization-and-review"
+    },
+    {
+      "title": "U.S. Census Bureau QuickFacts: Lenoir County, North Carolina",
+      "url": "https://www.census.gov/quickfacts/fact/table/lenoircountynorthcarolina/PST045224"
+    },
+    {
+      "title": "N.C.G.S. 105-307 Listing period",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-307.html"
+    },
+    {
+      "title": "N.C.G.S. 105-360 Due date, interest",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-360.html"
+    },
+    {
+      "title": "N.C.G.S. 105-322 Board of equalization and review",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-322.html"
+    },
+    {
+      "title": "N.C.G.S. 105-290 Property Tax Commission",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-290.html"
+    },
+    {
+      "title": "N.C.G.S. 105-286 Revaluation cycle",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-286.html"
+    },
+    {
+      "title": "N.C.G.S. 105-277.1 Elderly or disabled exclusion",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1.html"
+    },
+    {
+      "title": "N.C.G.S. 105-277.1B Circuit breaker",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1B.html"
+    },
+    {
+      "title": "N.C.G.S. 105-277.1C Disabled veteran exclusion",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-277.1C.html"
+    },
+    {
+      "title": "NCDOR AV-9 application and 2026 income limit",
+      "url": "https://ncdor.gov/2026-av-9-securedpdf/open"
+    },
+    {
+      "title": "N.C.G.S. 105-355 Lien for taxes",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"
+    },
+    {
+      "title": "N.C.G.S. 105-374 Foreclosure of tax lien",
+      "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-374.html"
+    }
   ]
 }
