@@ -2,58 +2,62 @@
  "slug": "bridgeport-ct-property-tax-guide",
  "sections": [
   {
-   "h2": "Bridgeport and the offices that handle its property tax",
-   "html": "<p>Bridgeport is Connecticut's most populous city, with 148,654 residents in 2020. It sits in eastern Fairfield County where the Pequonnock River reaches Long Island Sound, about 60 miles from Manhattan. Property tax is split between two city offices: the Tax Assessor values property, and the Tax Collector bills and collects.</p><p>The city was incorporated as a town in 1821 and as a city in 1836, and it covers 19.4 square miles, 16.0 of them land. Its elevation is only 3.3 feet, a fact worth remembering when buyers raise flood and storm questions. Because Bridgeport grew as a port and factory city, its housing varies a great deal in age and condition from one neighborhood to the next.</p>"
+   "h2": "Bridgeport and who handles the tax",
+   "html": "<p>Bridgeport is Connecticut's most populous city, with 148,654 residents in 2020. It sits in eastern Fairfield County where the Pequonnock River reaches Long Island Sound, about 60 miles from Manhattan. Two city offices divide the property tax job. The Tax Assessor sets values, and the Tax Collector sends bills and takes payments.</p><p>Bridgeport became a town in 1821 and a city in 1836. Of its 19.4 square miles, 16.0 are land. The city stands only 3.3 feet above sea level, which explains why buyers ask about flooding and storms. Bridgeport grew up as a port and factory town, so housing age and condition swing widely between neighborhoods.</p>"
   },
   {
    "h2": "How the tax is calculated",
-   "html": "<p>The bill is the assessed value of the property multiplied by the mill rate. One mill is $1 of tax for each $1,000 of assessment. For fiscal year 2026-2027 the rate is 27.95 mills on real estate and personal property and 31.75 mills on motor vehicles.</p><p>Assessed value is a set share of market value, described by the city as 70 percent, so the figure on your notice will be lower than a sale price. When you check a bill, compare it with the assessed value on the notice, not with what a neighbor's house sold for. The Tax Collector's general tax information page posts the mill rate history, and the Tax Assessor's page explains how taxes are determined.</p>"
+   "html": "<p>Multiply the property's assessed value by the mill rate and you have the bill. A mill is $1 of tax on every $1,000 of assessment. The city's rates for fiscal year 2026-2027 are 27.95 mills for real estate and personal property and 31.75 mills for motor vehicles.</p><p>The city describes assessed value as 70 percent of market value, which is why the number on your notice looks smaller than a sale price. Read the bill against that assessed figure, and leave neighbors' sale prices out of it. The Tax Collector's general tax information page posts the mill rate history, and the Tax Assessor's page explains how taxes are determined.</p>"
   },
   {
    "h2": "Due dates and delinquency",
-   "html": "<p>Property tax is assessed as of October 1, levied the following July 1, and paid in two installments. Connecticut law makes an installment delinquent if it is not paid by the first day of the next month.</p><table><thead><tr><th>Installment</th><th>Due</th><th>Delinquent if unpaid after</th></tr></thead><tbody><tr><td>First</td><td>July 1</td><td>August 1</td></tr><tr><td>Second</td><td>January 1</td><td>February 1</td></tr></tbody></table><p>The city files liens on June 30, the last day of the fiscal year, so ask the collector whether one has been filed against your property.</p>"
+   "html": "<p>Assessment happens as of October 1. The tax is levied the following July 1 and collected in two installments. State law treats an installment as delinquent once the first day of the next month arrives without payment.</p><table><thead><tr><th>Installment</th><th>Due</th><th>Delinquent if unpaid after</th></tr></thead><tbody><tr><td>First</td><td>July 1</td><td>August 1</td></tr><tr><td>Second</td><td>January 1</td><td>February 1</td></tr></tbody></table><p>June 30, the final day of the fiscal year, is when the city files liens. The collector can tell you whether one was filed on your property.</p>"
   },
   {
    "h2": "Interest and how payments are applied",
-   "html": "<p>Under Connecticut General Statutes section 12-146, the delinquent portion of a tax accrues interest at 18 percent a year from the date it was due. Any part of a month is counted as a whole month. The minimum charge is $2 per installment, unless the municipality has voted not to impose it, and interest keeps running even after the city wins a judgment.</p><p>The collector applies a partial payment to interest first and principal second. A payment is on time if it went through a municipal electronic payment service within the allowed time, or if the envelope carries a postmark within that time.</p>"
+   "html": "<p>Section 12-146 of the Connecticut General Statutes puts interest on the overdue part of a tax at 18 percent a year, counted from the original due date. A partial month counts as a full one. There is a $2 minimum per installment unless the municipality voted against it, and interest continues even after a judgment for the city.</p><p>Partial payments go first to interest and then to principal. Timeliness is judged by the municipal electronic payment service's timestamp or by the postmark on the envelope.</p>"
   },
   {
    "h2": "How to appeal your Bridgeport assessment",
-   "html": "<p>Appeals go to the Board of Assessment Appeals, and the written appeal must be filed on or before February 20. State law lets you file in writing or by email, in the way the board prescribes. Ask the Tax Assessor's office for the current year's application form. The appeal needs to include:</p><ul><li>The owner's name, plus the signer's name and position.</li><li>A description of the property.</li><li>A name, mailing address and email address for all correspondence.</li><li>The reason for the appeal and your own estimate of value.</li><li>The signature of the owner or authorized agent, with the date.</li></ul><p>The board must notify each filer of the hearing date, time and place no later than March 1, and the notice has to go out at least seven calendar days ahead. For commercial, industrial, utility or apartment property assessed above $1 million, the board may decline to hold a hearing, and the owner can then go directly to Superior Court under section 12-117a.</p><p>If the assessor received an extension, the filing deadline moves to March 20 and hearings take place in April. A gross assessment the board changes stays fixed until the next revaluation, with limited exceptions for new construction, damage, demolition, court orders and factual corrections.</p><p>A person who took title after the assessment date can also appeal, and so can a lessee bound by a recorded lease to pay the real property taxes.</p>"
+   "html": "<p>Take an assessment dispute to the Board of Assessment Appeals, in writing, by February 20 at the latest. The statute allows paper or email, in whatever way the board prescribes, and the Tax Assessor's office can hand you the current year's form. Your filing has to carry these items:</p><ul><li>Who owns the property, and who is signing and in what position.</li><li>What the property is.</li><li>A contact name, mailing address and email address for every letter the board sends.</li><li>Why you are appealing and what you think the value is.</li><li>A dated signature from the owner or an authorized agent.</li></ul><p>Each filer hears about the hearing's date, time and place by March 1, with at least seven calendar days of warning. A commercial, industrial, utility or apartment property assessed above $1 million may be denied a hearing, in which case the owner can head straight to Superior Court under section 12-117a.</p><p>An extension granted to the assessor pushes the filing deadline to March 20 and moves hearings into April. When the board changes a gross assessment, the new number holds until the next revaluation, apart from narrow exceptions for new construction, damage, demolition, court orders and factual corrections.</p><p>Someone who took title after the assessment date may appeal too, as may a lessee whose recorded lease obliges them to pay the real property taxes.</p>"
   },
   {
    "h2": "Flood zone questions for a coastal house",
-   "html": "<p>Bridgeport's location on the water brings storm and flood questions that inland towns face less often. Hurricanes and tropical storms hit the Connecticut coast in 1903, 1938, 1944, 1954, 1960, 1985 and, with Hurricane Sandy, in 2012. A buyer, insurer or lender may ask whether your home sits in a flood zone, and older basements, roofs and sea walls draw the most attention. Gather any flood insurance papers and repair records before you list.</p>"
+   "html": "<p>A shoreline city fields storm and flood questions that towns inland rarely hear. Hurricanes and tropical storms struck the Connecticut coast in 1903, 1938, 1944, 1954, 1960 and 1985, and again with Hurricane Sandy in 2012. Expect a buyer, an insurer or a lender to ask whether the house is in a flood zone, and expect extra scrutiny of older basements, roofs and sea walls. Pull together flood insurance papers and repair records before listing.</p>"
   },
   {
    "h2": "Selling with unpaid Bridgeport property tax",
-   "html": "<p>Get a payoff figure from the Tax Collector before closing, because interest at 18 percent a year keeps adding to a delinquent balance. A closing agent can pay the tax out of the sale proceeds as long as the figure is current on the closing date.</p><ul><li>List which installments are unpaid, July, January or both, and the fiscal years they belong to.</li><li>Ask for the interest to date and the amount that will be added each month if closing slips.</li><li>Check whether a lien was filed on the last June 30.</li><li>If you believe the assessment is wrong, the February 20 appeal date is firm, so do not wait until a closing is scheduled.</li></ul>"
+   "html": "<p>Ask the Tax Collector for a payoff figure ahead of closing, since a delinquent balance keeps growing at 18 percent a year. The closing agent can settle the tax from sale proceeds if the figure matches the closing date.</p><ul><li>Write down which installments are open, July, January or both, and the fiscal year of each.</li><li>Find out the interest so far and how much more accrues each month if the closing is delayed.</li><li>Ask whether a lien went on file last June 30.</li><li>If you think the assessment is too high, February 20 is a hard stop. Act before a closing is on the calendar.</li></ul>"
   },
   {
    "h2": "What a cash sale does with an unpaid bill",
-   "html": "<p>When taxes are behind, a cash sale can still close. The buyer purchases the house as is, the title company gets the payoff figure, and the amount owed is paid from the proceeds at closing. Because no lender is involved, nobody needs to be satisfied by a bank appraisal. Bring your notices, any lien paperwork and the mortgage servicer's details to the first conversation.</p><p>Expect the title company to ask three things. Which installments are open? Has a lien been filed? Is anyone besides the owner of record entitled to sign? Answering those at the start keeps a closing date from slipping, which matters because each extra month adds interest to a delinquent bill.</p>"
+   "html": "<p>A bill in arrears does not rule out a cash sale. The buyer takes the house as is, the title company requests the payoff figure, and what is owed comes out of the proceeds at closing. No bank is involved, so no bank appraisal has to be satisfied. Bring your notices, any lien paperwork and the mortgage servicer's details to the first conversation.</p><p>Three questions will come from the title company. Which installments are still open? Is a lien on file? Does anyone besides the owner of record have a right to sign? Settle them early. Each month a closing slips adds interest to a delinquent bill, so a clean file saves real money.</p><p>One more habit pays off: keep the paper trail. Save every notice, every receipt and any email from the collector. If the amount a closing agent quotes differs from your records, the file lets you ask a specific question and get a specific answer, and that is much faster than arguing from memory.</p>"
+  },
+  {
+   "h2": "What should a seller do before listing?",
+   "html": "<p>Think in terms of the tax calendar. If it is spring and you believe the assessment is off, the filing window closes on February 20, so appeal before you sign a listing agreement. If a July or January installment is open, pay it or ask the collector for the exact amount including interest, so the buyer's attorney sees a clean record.</p><p>Next, ask the Tax Collector whether a lien was filed on the last June 30, and ask the Tax Assessor's office for the current year's application form if you plan to appeal. Finally, check your flood status and collect insurance papers. A seller who arrives with these items already settled usually negotiates from a stronger position, and a closing agent can finish the tax line without delay.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the Bridgeport mill rate?",
-   "a": "For fiscal year 2026-2027 the city lists 27.95 mills for real estate and personal property and 31.75 mills for motor vehicles. One mill is $1 of tax per $1,000 of assessment."
+   "a": "The city's 2026-2027 figures are 27.95 mills for real estate and personal property and 31.75 mills for vehicles. A mill equals $1 of tax per $1,000 of assessment."
   },
   {
    "q": "When are Bridgeport property taxes due?",
-   "a": "In two installments, July 1 and January 1. Under state law an installment becomes delinquent if it is not paid by the first of the following month."
+   "a": "July 1 and January 1. An installment turns delinquent if it goes unpaid past the first day of the following month."
   },
   {
    "q": "What interest does Bridgeport charge on late tax?",
-   "a": "Connecticut General Statutes section 12-146 sets interest on the delinquent part at 18 percent a year, with a $2 minimum per installment unless the city votes not to impose it. Each part of a month counts as a whole month."
+   "a": "Section 12-146 sets 18 percent a year on the overdue portion, with a $2 minimum per installment unless the city votes otherwise. A partial month counts in full."
   },
   {
    "q": "What is the deadline to appeal a Bridgeport assessment?",
-   "a": "The written appeal to the Board of Assessment Appeals is due on or before February 20, or March 20 if the assessor was granted an extension."
+   "a": "February 20 for the written appeal to the Board of Assessment Appeals, or March 20 if the assessor received an extension."
   },
   {
    "q": "Can a new owner appeal an assessment from before the purchase?",
-   "a": "Yes. Section 12-111 lets a person to whom title was transferred since the assessment date appeal to the board."
+   "a": "Yes. Section 12-111 allows anyone who received title after the assessment date to appeal to the board."
   }
  ],
  "sources": [

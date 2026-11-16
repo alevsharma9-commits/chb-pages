@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "Wethersfield at a glance",
-   "html": "<p>Wethersfield sits right below Hartford on the Connecticut River, in the Hartford County part of the Capitol Planning Region. It spans about 13.1 square miles, 12.3 of them land, and had 27,298 residents at the 2020 census. English settlers arrived in October 1634, and the town was incorporated on February 21, 1637, alongside Windsor and Hartford. It still calls itself \"Ye Most Ancient Town in Connecticut.\" The ZIP code is 06109.</p>\n<p>Interstate 91 serves the town at exits 25 and 26, and Route 99, the Silas Deane Highway, is the main commercial road. Others include Route 175 (Wells Road), Route 287 (Prospect Street), Route 15 and US Route 5, and Route 3 over the Putnam Bridge. CT Transit runs routes 43, 47, 53, 55, 61 and 91 here, and Hartford station is the closest passenger rail stop. Many buyers look at Wethersfield because Hartford is right next door.</p>"
+   "html": "<p>Immediately south of Hartford, on the Connecticut River, Wethersfield belongs to Hartford County and the Capitol Planning Region. The town measures about 13.1 square miles, roughly 12.3 of them land, and counted 27,298 people in 2020. English settlers arrived in October 1634, and the town was incorporated on February 21, 1637, alongside Windsor and Hartford. It still calls itself \"Ye Most Ancient Town in Connecticut.\" The ZIP code is 06109.</p>\n<p>Interstate 91 serves the town at exits 25 and 26, and Route 99, the Silas Deane Highway, is the main commercial road. Others include Route 175 (Wells Road), Route 287 (Prospect Street), Route 15 and US Route 5, and Route 3 over the Putnam Bridge. CT Transit runs routes 43, 47, 53, 55, 61 and 91 here, and Hartford station is the closest passenger rail stop. Many buyers look at Wethersfield because Hartford is right next door.</p>"
   },
   {
    "h2": "Old Wethersfield and older houses",
-   "html": "<p>Old Wethersfield became a National Register historic district in 1970. It covers about two square miles and has roughly 1,100 buildings from the 17th, 18th and 19th centuries, which makes it the largest historic district in Connecticut. Three buildings are listed as landmarks on their own: the Buttolph-Williams House on Broad Street, the Joseph Webb House at 211 Main Street and the Silas Deane House at 203 Main Street.</p>\n<p>Inside the district, expect buyers to ask about the age of the house, its original windows and prior alterations. Older framing, knob and tube wiring, oil heat and stone foundations come up often. Outside it, most of the housing is from the 20th century, but deferred maintenance is common there too. Ask the town's building office which permits are on file for your address before you list. A missing permit for a finished basement or a replaced furnace can stall a conventional closing.</p>"
+   "html": "<p>The National Register added Old Wethersfield as a historic district in 1970. Spread over about two square miles, it holds roughly 1,100 buildings from the 17th, 18th and 19th centuries, which makes it the largest historic district in Connecticut. Three buildings are listed as landmarks on their own: the Buttolph-Williams House on Broad Street, the Joseph Webb House at 211 Main Street and the Silas Deane House at 203 Main Street.</p>\n<p>Inside the district, expect buyers to ask about the age of the house, its original windows and prior alterations. Older framing, knob and tube wiring, oil heat and stone foundations come up often. Outside it, most of the housing is from the 20th century, but deferred maintenance is common there too. Ask the town's building office which permits are on file for your address before you list. A missing permit for a finished basement or a replaced furnace can stall a conventional closing.</p>"
   },
   {
    "h2": "Assessment, mill rate and the phase-in",
@@ -15,7 +15,7 @@
   },
   {
    "h2": "How does the conveyance tax work when a Wethersfield house closes?",
-   "html": "<p>Connecticut charges a real estate conveyance tax when a deed is recorded, and the seller's side files the return. The grantor, the grantor's attorney or an authorized agent submits Form OP-236 when the price is $2,000 or more, unless an exemption applies. Wethersfield's town code on the form is 159.</p>\n<p>One exemption helps owners who are underwater: a principal residence sold for less than the mortgages plus the real estate taxes and municipal liens that rank ahead of them. Rates and municipal shares can change, so confirm them with the town clerk or your closing attorney.</p>"
+   "html": "<p>A deed recorded in Connecticut brings a conveyance tax, and the return comes from the seller's side. Form OP-236 is submitted by the grantor, the grantor's attorney or an authorized agent for any price of $2,000 or more that no exemption covers. On the form, Wethersfield is town code 159.</p>\n<p>One exemption helps owners who are underwater: a principal residence sold for less than the mortgages plus the real estate taxes and municipal liens that rank ahead of them. Rates and the town's share shift over time, so get the current figures from the clerk or your attorney.</p>"
   },
   {
    "h2": "Flood and water risk near the river",
@@ -23,15 +23,23 @@
   },
   {
    "h2": "What Wethersfield sellers usually run into",
-   "html": "<p>The usual situations are older houses with deferred repairs, inherited homes held by several heirs, and owners behind on taxes or a mortgage. In a town with this much historic building stock, repair lists can run long.</p>\n<ul>\n<li>Roof, chimney or window work on a house built before 1900.</li>\n<li>A basement or foundation that has seen water, which matters near the river and the Cove.</li>\n<li>Heirs who live out of state and cannot agree on a list price.</li>\n<li>Tax or lien balances that must be paid from sale proceeds.</li>\n<li>Tenants in a multi-family house who are not cooperative on showings.</li>\n</ul>"
+   "html": "<p>Typical calls involve deferred repairs on old houses, inherited homes with several heirs, and owners who have fallen behind on taxes or a mortgage. In a town with this much historic building stock, repair lists can run long.</p>\n<ul>\n<li>Roof, chimney or window work on a house built before 1900.</li>\n<li>A basement or foundation that has seen water, which matters near the river and the Cove.</li>\n<li>Heirs who live out of state and cannot agree on a list price.</li>\n<li>Tax or lien balances that must be paid from sale proceeds.</li>\n<li>Tenants in a multi-family house who are not cooperative on showings.</li>\n</ul>"
   },
   {
    "h2": "Cash offer versus listing",
-   "html": "<p>A cash buyer takes the house in its current condition, so repairs and showings come off the table. The offer reflects the work the house needs, which is the tradeoff. Ask for the offer in writing and compare it with what a listing would net after repairs, concessions and months of carrying costs.</p>\n<p>A listing makes sense when the house is in good shape and time is on your side. A cash sale makes sense when a roof, a foundation or a tenant problem would stall a lender-financed buyer. Only you can weigh how much the speed is worth.</p>"
+   "html": "<p>A cash buyer accepts the house as it is today, which removes repairs and showings. The tradeoff is a price that reflects the work needed. Get the offer in writing, then put it beside the likely result of a listing after repair bills, buyer concessions and the months of upkeep.</p>\n<p>A listing makes sense when the house is in good shape and time is on your side. A cash sale makes sense when a roof, a foundation or a tenant problem would stall a lender-financed buyer. Only you can weigh how much the speed is worth.</p>"
+  },
+  {
+   "h2": "Selling with several heirs",
+   "html": "<p>When a house passes to a family, every owner on title normally has to sign the deed. Brothers and sisters in different states may disagree on a price, or one may want to keep the place while another wants cash. Settle who will speak for the group, collect everyone's contact details and agree in writing on how proceeds will be divided before offers come in.</p>\n<p>Disagreement over price is common, and an outside number can help. A cash offer and a listing estimate side by side often turn a vague argument into a plain comparison that everyone can read.</p>"
+  },
+  {
+   "h2": "What closing looks like",
+   "html": "<p>On closing day you sign the deed, the closing attorney pays off any mortgage, tax or lien from the money, and the deed is recorded with the town clerk along with the conveyance return. You receive what is left. Bring photo identification and every key. Plan to have utilities and insurance changed over that same day.</p>"
   },
   {
    "h2": "Getting the house ready on paper",
-   "html": "<p>Before any buyer sees the house, assemble a short file. Include the deed, your latest tax bill, any mortgage statement, the permits the building office has on record and notes on repairs you have done, with dates. If heirs share the house, gather their contact details and agree who speaks for the group.</p>\n<p>When a payoff or a lien shows up, ask for it in writing and keep it in the file. The closing attorney will order a title search anyway, and the more you have in front of you, the fewer surprises appear on the closing statement.</p>"
+   "html": "<p>Start a folder before any buyer visits. It should hold the deed, the newest tax bill, a mortgage statement if there is a loan, the permits on record with the building office and dated notes on repairs already done. If heirs share the house, gather their contact details and agree who speaks for the group.</p>\n<p>If a payoff or lien turns up, get the amount in writing and drop it in the folder. A title search is coming regardless, and the more you already know, the fewer odd lines show on the closing statement.</p>"
   }
  ],
  "faqs": [
