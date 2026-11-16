@@ -3,53 +3,57 @@
  "sections": [
   {
    "h2": "Which sale route moves fastest in Mankato?",
-   "html": "<p>You can list with an agent, sell it yourself, or take a cash offer. The best fit usually follows from what the house is: a rental, a student-area property or a family home. Mankato is the Blue Earth County seat, and its 2025 population of 46,529 is 4.4 percent above the 2020 base.</p>\n<p>Owners live in half of Mankato's homes, and a typical renter pays $1,132 a month. Many houses here are rented, so buyers range from first-time owners to people planning to rent the place out. Minnesota State University, Mankato keeps student demand alive in parts of town. A worn rental or a vacant house may sell sooner to a buyer paying cash than to one who needs a mortgage and an appraisal.</p>\n<ul>\n<li>Agent: the most buyers see it, and the timeline is the longest.</li>\n<li>Investor purchase: few showings, and you can name the closing date.</li>\n<li>Owner sale: you manage the buyer, the disclosure and the paperwork.</li>\n</ul>"
+   "html": "<p>Three routes are open: an agent, a sale on your own, or a cash offer. Which one fits depends on what you own: a rental, a student-area property or a family home. Mankato is the Blue Earth County seat, and its 2025 population of 46,529 is 4.4 percent above the 2020 base.</p>\n<p>Half of Mankato's homes are owner-occupied, and renters typically pay $1,132 a month. Because so many houses are rented, the buyer pool includes first-time owners and people who want another rental. Minnesota State University, Mankato keeps student demand alive in parts of town. A tired rental or an empty house can sell faster to a cash buyer than to someone waiting on a mortgage and an appraisal.</p>\n<ul>\n<li>Agent listing: widest exposure to buyers, but the slowest path to closing.</li>\n<li>Investor purchase: hardly any showings, and the closing date is yours to name.</li>\n<li>Sale by owner: you deal with buyers, the written disclosure and all the forms yourself.</li>\n</ul>"
   },
   {
    "h2": "Mankato housing numbers",
-   "html": "<p>Mankato has a short commute and a lower price point than the Twin Cities. The typical owner-occupied home is valued at $261,700, and the average drive to work is 13.9 minutes. Owners with a mortgage pay a median $1,624 a month, and the city has 18,075 households.</p>"
+   "html": "<p>Mankato has a short commute and a lower price point than the Twin Cities. A typical owner-occupied home is valued at $261,700. The city counts 18,075 households, owners with a mortgage pay a median $1,624 monthly, and the drive to work averages 13.9 minutes.</p>"
   },
   {
    "h2": "Which county taxes and records your Mankato house?",
-   "html": "<p>Mankato lies in three counties. The city extends into Blue Earth, Nicollet and Le Sueur counties. Most addresses fall in Blue Earth, but your tax statement and deed name the county that applies to your parcel, so read them first.</p>\n<p>Recording matters here. <a href=\"https://www.revisor.mn.gov/statutes/cite/507.34\">Minnesota Statutes 507.34</a> means an unrecorded deed loses to a later good-faith buyer whose deed reaches the recorder first, so closing agents file right away.</p>\n<p>The state deed tax under <a href=\"https://www.revisor.mn.gov/statutes/cite/287.21\">section 287.21</a> is 0.33 percent of net consideration on any price over $3,000, collected as the deed goes to the recorder. Your purchase agreement decides which side pays it.</p>"
+   "html": "<p>Mankato lies in three counties. The city extends into Blue Earth, Nicollet and Le Sueur counties. Most addresses fall in Blue Earth, but your tax statement and deed name the county that applies to your parcel, so check them before you list.</p>\n<p>Recording matters here. <a href=\"https://www.revisor.mn.gov/statutes/cite/507.34\">Minnesota Statutes 507.34</a> puts an unrecorded deed behind any later good-faith buyer who records first, which is why closing agents file at once.</p>\n<p>The state deed tax under <a href=\"https://www.revisor.mn.gov/statutes/cite/287.21\">section 287.21</a> takes 0.33 percent of net consideration on prices over $3,000, paid when the deed reaches the recorder. The purchase agreement says who pays.</p>"
   },
   {
    "h2": "Rental licenses and zoning",
-   "html": "<p>Mankato ties rental licenses to zoning, which matters if your house has been or could be a rental. Low-density districts R-1 and R-2 limit occupancy to two unrelated people or a family, while R-3, R-4 and office-residential districts allow five unrelated people or a family.</p>\n<ul>\n<li>Parking: two off-street stalls per unit in R-1 and R-2, paved with asphalt or concrete, each at least 8 by 18 feet.</li>\n<li>Units: R-2 can license up to two units depending on lot size, and R-3 up to eight.</li>\n<li>Grandfathered licenses: an existing license keeps its status only until it lapses, and then a new application meets current code.</li>\n</ul>\n<p>A new rental application goes to the Intergovernmental Center, 10 Civic Center Plaza, with payment, a site plan and floor plans drawn to scale. If off-street parking cannot be met, no license is issued and no further inspections happen. If your house has a rental license, ask the city to confirm in writing whether it is grandfathered and still active, because a lapsed license means the next owner applies under current code.</p>"
+   "html": "<p>In Mankato a rental license depends on the zoning of the lot, a point that counts for any house once used or planned as a rental. Low-density districts R-1 and R-2 limit occupancy to two unrelated people or a family, while R-3, R-4 and office-residential districts allow five unrelated people or a family.</p>\n<ul>\n<li>Parking: two off-street stalls per unit in R-1 and R-2, paved with asphalt or concrete, each at least 8 by 18 feet.</li>\n<li>Units: R-2 can license up to two units depending on lot size, and R-3 up to eight.</li>\n<li>Grandfathered licenses: an existing license keeps its status only until it lapses, and then a new application meets current code.</li>\n</ul>\n<p>A new rental application goes to the Intergovernmental Center, 10 Civic Center Plaza, with payment, a site plan and floor plans drawn to scale. If off-street parking cannot be met, no license is issued and no further inspections happen. Holding a license now? Get the city to say in writing whether it is grandfathered and active. Once a license lapses, the next owner applies under current code, and that can change what the house is worth to a landlord.</p>"
   },
   {
    "h2": "Blue Earth County property taxes",
-   "html": "<p>The county bills more than 31,000 parcels. A weekend or legal holiday pushes a deadline to the next regular business day. Statements are mailed by March 31 and rest on the previous year's valuation.</p>\n<table>\n<caption>Blue Earth County property tax due dates</caption>\n<thead><tr><th>Property type</th><th>First half</th><th>Second half</th></tr></thead>\n<tbody>\n<tr><td>Most real estate</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Agricultural land</td><td>May 15</td><td>November 15</td></tr>\n<tr><td>Manufactured homes</td><td>August 31</td><td>November 15</td></tr>\n</tbody>\n</table>\n<p>Valuation dates to January 2, and an appraiser walks through each property roughly every fifth year, with extra visits for new construction and improvements. The state wants the overall assessment level between 90 percent and 105 percent of market value.</p>\n<p>The county's online tax system lets you search by address or parcel number for current and past tax, special assessments and the breakdown by taxing jurisdiction, and you can pay electronically. If your mortgage company escrows your taxes, you still get a statement, and you remain responsible for making sure the bill is paid.</p>"
+   "html": "<p>Blue Earth County bills over 31,000 parcels. When a due date lands on a weekend or holiday, it moves to the next business day. Statements are mailed by March 31 and are based on the previous year's valuation.</p>\n<table>\n<caption>Blue Earth County property tax due dates</caption>\n<thead><tr><th>Property type</th><th>First half</th><th>Second half</th></tr></thead>\n<tbody>\n<tr><td>Most real estate</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Agricultural land</td><td>May 15</td><td>November 15</td></tr>\n<tr><td>Manufactured homes</td><td>August 31</td><td>November 15</td></tr>\n</tbody>\n</table>\n<p>Each valuation is set as of January 2. An appraiser visits every property about once in five years, with added visits for new building and improvements. State guidance keeps the county's overall assessment level between 90 percent and 105 percent of market value.</p>\n<p>Online, you can look up a parcel by address or number to see current and past tax, special assessments and each taxing body's share, and pay electronically. Escrow through your lender does not end your duty to confirm the bill was paid, and you still get a statement.</p>"
   },
   {
    "h2": "How to appeal your valuation",
-   "html": "<p>If you disagree with a value after the notice, talk to the assessor first at (507) 304-4251. A formal petition over the prior year's value goes to the Minnesota Tax Court by April 30 of the year the tax is payable, and the county takes service by email or in person at 410 South 5th Street.</p>"
+   "html": "<p>Think the value is wrong? Start with a call to the assessor at (507) 304-4251. A formal petition goes to the Minnesota Tax Court by April 30 of the year the tax is payable, with service on the county by email or in person at 410 South 5th Street.</p>"
   },
   {
    "h2": "Winter and school questions from buyers",
-   "html": "<p>Mankato sits where the Minnesota and Blue Earth rivers meet, and winter is a real factor. Snow cover lasts into March, so insulation, furnace condition and a sound roof are visible concerns. Mankato Area Public Schools serve Mankato, North Mankato, Eagle Lake and Madison Lake, with Mankato West and Mankato East high schools.</p>\n<p>U.S. Highways 14 and 169 and Minnesota Highways 22 and 60 are the main routes, and the Mankato Transit System runs local service.</p>"
+   "html": "<p>Winters hit hard at the meeting of the Minnesota and Blue Earth rivers. Snow cover lasts into March, so insulation, furnace condition and a sound roof are visible concerns. Mankato Area Public Schools serve Mankato, North Mankato, Eagle Lake and Madison Lake, with Mankato West and Mankato East high schools.</p>\n<p>Buyers who commute use U.S. Highways 14 and 169 or Minnesota Highways 22 and 60, and local buses run through the Mankato Transit System.</p>"
   },
   {
    "h2": "Selling a student-area rental",
-   "html": "<p>If the house has housed students, gather the lease, the rental license and any inspection results before you list. Check the occupancy count against the zoning limit, since a buyer will ask whether the current tenants fit it. Timing matters too: leases tied to the school year can limit showings, and a vacant house is easier to show and to close on. If the house is vacant and tired, a cash buyer can take it as it stands and skip the repairs a lender would require.</p>"
+   "html": "<p>Has the house sheltered students? Round up the lease, the license and any inspection results first. Compare the number of people living there with the zoning limit, because a rental buyer will do the same math. Timing matters too: leases tied to the school year can limit showings, and a vacant house is easier to show and to close on. If the house is vacant and tired, a cash buyer can take it as it stands and skip the repairs a lender would require.</p>"
+  },
+  {
+   "h2": "Why the county line matters to timing",
+   "html": "<p>A parcel in Nicollet or Le Sueur County means different offices, phone numbers and forms than one in Blue Earth. Learn which courthouse holds your file before you promise a buyer a date. A few minutes with the parcel number saves a week of forwarded calls, and a buyer working with a deadline will appreciate that you already know who to contact.</p>"
   },
   {
    "h2": "What happens at closing",
-   "html": "<p>The title company searches the record, prepares the deed and files it with the county recorder right away. You sign, hand over the keys, and receive your proceeds after any mortgage and taxes owed are paid. Before closing day, pull your tax statement to confirm the county and parcel number, and ask the county for a payoff figure if anything is owed.</p>"
+   "html": "<p>A title company checks the record, drafts the deed and sends it to the recorder at once. Closing day means signing, giving up the keys, and getting paid after the mortgage and any taxes are cleared. A few days ahead, confirm the county and parcel number from your statement and request a payoff figure if you owe anything.</p>"
   },
   {
    "h2": "Who is a cash buyer a good fit for?",
-   "html": "<p>Selling for cash can suit a landlord leaving the business, an heir handling an estate from out of town, or an owner whose deferred maintenance would trouble a lender's appraiser. Because Mankato rental licenses turn on zoning, parking and a housing inspection, a cash buyer can weigh those factors without waiting for a mortgage commitment.</p>\n<p>Get the offer on paper along with the closing date, the split of closing costs and proof of funds. Then set it beside what a listing would net after repairs and months of carrying costs.</p>"
+   "html": "<p>A cash sale can help a landlord getting out, an heir managing an estate from far away, or an owner whose neglected repairs would worry an appraiser. Because Mankato rental licenses turn on zoning, parking and a housing inspection, a cash buyer can weigh those factors without waiting for a mortgage commitment.</p>\n<p>Get the offer in writing with the closing date, how closing costs split and proof of funds. Then put it next to what a listing would leave you after repairs and the months of carrying costs, and add anything you would owe the county.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Is Mankato in Blue Earth County?",
-   "a": "Mostly. Mankato is the Blue Earth County seat, though the city also reaches into Nicollet and Le Sueur counties. Your tax statement shows which county bills your parcel."
+   "a": "Mostly. It is the county seat, but part of the city lies in Nicollet and Le Sueur counties, and your tax statement names the one that bills your parcel."
   },
   {
    "q": "What are the Blue Earth County tax payment dates?",
-   "a": "May 15 for the first half and October 15 for the second half on most real estate. Agricultural land pays its second half on November 15."
+   "a": "Most real estate pays on May 15 and October 15. Agricultural land pays the second half on November 15 instead."
   },
   {
    "q": "How many unrelated people can rent a Mankato house in R-1 or R-2 zoning?",
@@ -57,11 +61,11 @@
   },
   {
    "q": "What does the state charge on the deed for a Mankato sale?",
-   "a": "The rate is 0.33 percent of net consideration for prices over $3,000, paid as the deed is recorded. Your purchase agreement decides which side covers it."
+   "a": "Sales above $3,000 owe 0.33 percent of the net amount, due when the deed is recorded. The purchase agreement sets who pays."
   },
   {
    "q": "Can I appeal my Mankato property value?",
-   "a": "Yes. Call the Blue Earth County assessor at (507) 304-4251 first. A petition for the prior year's value goes to the Minnesota Tax Court on or before April 30 of the year taxes are payable."
+   "a": "Yes. Begin with the Blue Earth County assessor, (507) 304-4251. If that fails, a petition on last year's value goes to the Minnesota Tax Court by April 30 of the year the taxes are payable."
   }
  ],
  "sources": [
