@@ -4,6 +4,8 @@ m=json.load(open('manifest.json')); have={b['file'] for b in m['batches']}
 for c in codes:
     for f in sorted(glob.glob(f'pages/{c}/*.json')):
         if f not in have: m['batches'].append({'file':f})
+import hashlib
+for b in m['batches']: b['hash']=hashlib.md5(open(b['file'],'rb').read()).hexdigest()  # updater re-publishes a file when its hash changes
 json.dump(m,open('manifest.json','w'))
 allp={};sl=collections.Counter()
 for b in m['batches']:
