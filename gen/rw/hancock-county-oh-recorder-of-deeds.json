@@ -2,50 +2,58 @@
  "slug": "hancock-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where in Findlay do Hancock County deeds get filed?",
-   "html": "<p>The filing counter is at 300 S. Main Street, Room 23, Findlay, Ohio 45840, and the number to call is 419-424-7091. Doors are open weekdays from 8:30 am to 4:30 pm. The day's recordings end at 4:00 pm, so a document delivered later waits for the following business day.</p>\n<p>Walk-in, mail and electronic filing are all accepted. A mailed package should hold the document, payment, a return envelope with your address, conveyance forms if ownership is changing hands, and recording instructions where the filing calls for them.</p>"
+   "h2": "Where Hancock County deeds are filed in Findlay",
+   "html": "<p>The filing counter is at 300 S. Main Street, Room 23, Findlay, Ohio 45840, and the number to call is 419-424-7091. Doors are open weekdays from 8:30 am to 4:30 pm. The day's recordings end at 4:00 pm, so a document delivered later waits for the following business day.</p><p>Walk-in, mail and electronic filing are all accepted. A mailed package should hold the document, payment, a return envelope with your address, conveyance forms if ownership is changing hands, and recording instructions where the filing calls for them.</p>"
   },
   {
-   "h2": "What does Hancock County look like on paper?",
-   "html": "<p>Northwest Ohio's Hancock County spans 531 square miles of land and counts Findlay as both seat and largest city. The General Assembly organized it in 1828 out of the southern part of Wood County and named it for John Hancock. Its neighbors are Wood, Seneca, Wyandot, Hardin, Allen, Putnam and Henry counties.</p>\n<p>The 2020 count was 74,920 residents, and the July 2025 estimate of 75,034 shows almost no movement. Roughly 70.8% of households own the home they live in.</p>\n<ul>\n<li>Typical home value among owners: $204,700 for 2020 to 2024.</li>\n<li>Median household income of $73,141, and a poverty rate of 9.0%.</li>\n<li>34,342 housing units, and 361 permits pulled during 2025.</li>\n<li>Average commute: 18.0 minutes, shorter than in Hamilton County.</li>\n</ul>\n<p>Numbers are from <a href=\"https://www.census.gov/quickfacts/fact/table/hancockcountyohio/PST045224\">QuickFacts for Hancock County</a>, and Wikipedia supplies the founding and neighbors.</p>"
+   "h2": "Hancock County homes and owners",
+   "html": "<p>Findlay is both the county seat and the largest city in this northwest Ohio county. The 2020 count was 74,920 residents, and the July 2025 estimate of 75,034 shows almost no movement. Roughly 70.8% of households own the home they live in.</p><ul><li>Typical home value among owners: $204,700 for 2020 to 2024.</li><li>Median household income of $73,141.</li><li>34,342 housing units, and 361 permits pulled during 2025.</li></ul><p>A steady market with few new homes means a seller's deed history, not the neighborhood, is usually what decides how fast a closing goes.</p>"
   },
   {
-   "h2": "How did Hancock County's recording fee change in 2025?",
-   "html": "<p>A $5 increase took effect January 1, 2025, bringing the first two pages to $39 while added pages stay at $8. The Recorder's fee page credits Senate Bill 94 and cites ORC 317.32.</p>\n<table>\n<thead><tr><th>Item</th><th>Amount</th></tr></thead>\n<tbody>\n<tr><td>First two pages of a deed, mortgage or lease</td><td>$39</td></tr>\n<tr><td>Each additional page</td><td>$8</td></tr>\n<tr><td>Marginal entry</td><td>$4</td></tr>\n<tr><td>Copies, assisted, per page</td><td>$2</td></tr>\n<tr><td>Copies, unassisted, per page</td><td>$0.15</td></tr>\n<tr><td>Non-conforming document (ORC 317.114)</td><td>$20</td></tr>\n<tr><td>Federal tax lien, and its release</td><td>$5 and $3</td></tr>\n</tbody></table>\n<p>Figures are from the Recorder's fee schedule page. Payment is by cash or check only, never card. Make the check out to the Hancock County Recorder and write a second check for the Auditor.</p>"
+   "h2": "Recording fees and the 2025 increase",
+   "html": "<p>A $5 increase took effect January 1, 2025, bringing the first two pages to $39 while added pages stay at $8. The Recorder's fee page credits Senate Bill 94 and cites ORC 317.32.</p><table><caption>Hancock County Recorder fees</caption><thead><tr><th>Service</th><th>Fee</th></tr></thead><tbody><tr><td>First two pages of a deed, mortgage or lease</td><td>$39</td></tr><tr><td>Each additional page</td><td>$8</td></tr><tr><td>Marginal entry</td><td>$4</td></tr><tr><td>Copies, assisted, per page</td><td>$2</td></tr><tr><td>Copies, unassisted, per page</td><td>$0.15</td></tr><tr><td>Non-conforming document (ORC 317.114)</td><td>$20</td></tr><tr><td>Federal tax lien, and its release</td><td>$5 and $3</td></tr></tbody></table><p>Payment is by cash or check only, never card. Make the check out to the Hancock County Recorder and write a second check for the Auditor.</p>"
   },
   {
-   "h2": "What goes to the Hancock County Auditor with a deed?",
-   "html": "<p>According to the Recorder's FAQ, the Auditor's conveyance fee is $3.00 per thousand and the transfer fee is $0.50 per parcel. A deed that changes ownership stops at the Auditor before the Recorder, and the two offices coordinate so the transfer and recording line up.</p>\n<p>ORC 319.202 has the buyer or the buyer's representative file the value statement. It counts the full consideration paid or to be paid, mortgage and vendor's lien included, as the value, and it forbids willfully falsifying that figure. An exempt transfer needs only a statement of the reason.</p>\n<p>If the land had a homestead reduction or an agricultural valuation, ask the Auditor which extra forms apply, since the statute has the buyer question the seller on both.</p>"
+   "h2": "What goes to the Auditor with a deed",
+   "html": "<p>The Auditor's conveyance fee is $3.00 per thousand and the transfer fee is $0.50 per parcel. A deed that changes ownership stops at the Auditor before the Recorder, and the two offices coordinate so the transfer and recording line up.</p><p>ORC 319.202 has the buyer or the buyer's representative file the value statement. It counts the full consideration paid or to be paid, mortgage and vendor's lien included, as the value, and it forbids willfully falsifying that figure. An exempt transfer needs only a statement of the reason.</p><p>If the land had a homestead reduction or an agricultural valuation, ask the Auditor which extra forms apply, since the statute has the buyer question the seller on both.</p>"
   },
   {
-   "h2": "What risk comes with an unrecorded Hancock County deed?",
-   "html": "<p>A deed left unrecorded loses ground to a later buyer. ORC 5301.25 sends deeds to the recorder of the county where the land lies, and until that happens they are fraudulent against a subsequent good-faith purchaser with no knowledge of them.</p>\n<p>The same statute deals with surveys. When land being conveyed was surveyed, the Auditor requires the surveyor's name in the deed, in a line reading \"A survey of this property was made by\" and then the name.</p>\n<ul>\n<li>File within days of closing.</li>\n<li>Staple nothing: keep the Auditor's endorsement and the returned copy in one folder.</li>\n<li>Compare the new legal description line by line with the prior deed.</li>\n</ul>"
+   "h2": "Risk of an unrecorded deed",
+   "html": "<p>A deed left unrecorded loses ground to a later buyer. ORC 5301.25 sends deeds to the recorder of the county where the land lies, and until that happens they are fraudulent against a subsequent good-faith purchaser with no knowledge of them.</p><p>The same statute deals with surveys. When land being conveyed was surveyed, the Auditor requires the surveyor's name in the deed, in a line reading \"A survey of this property was made by\" and then the name.</p><ul><li>File within days of closing.</li><li>Staple nothing: keep the Auditor's endorsement and the returned copy in one folder.</li><li>Compare the new legal description line by line with the prior deed.</li></ul>"
   },
   {
-   "h2": "Why is indexing so central at the Hancock County Recorder?",
-   "html": "<p>By the Recorder's own description, land records must stay current, legible and easy to reach, and indexing is what lets a searcher find each one. With it an examiner can assemble a chain of title, the line of ownership, and see debts or encumbrances against the land.</p>\n<p>The page lists the public, attorneys, historians, genealogists and title examiners as users. It also explains that some Ohio counties hold Torrens registered land, whose boundaries are certified and whose title a state insurance fund guarantees. For a seller here, a tidy deed history keeps a title search short, while a gap can delay closing."
+   "h2": "Why indexing matters to a seller",
+   "html": "<p>Land records must stay current, legible and easy to reach, and indexing is what lets a searcher find each one. With it an examiner can assemble a chain of title, the line of ownership, and see debts or encumbrances against the land. Users include the public, attorneys, historians, genealogists and title examiners.</p><p>Some Ohio counties hold Torrens registered land, whose boundaries are certified and whose title a state insurance fund guarantees. For a seller here, a tidy deed history keeps a title search short, while a gap can delay closing.</p>"
   },
   {
-   "h2": "How do I get a copy of a Hancock County deed or plat?",
-   "html": "<p>There are three routes to a copy of a deed or mortgage: come to the office, phone with your name and address so staff can locate it, or search the website for anything recorded since January 1, 1985. Staff-assisted copies cost $2 a page, and copies you make yourself cost $0.15 a page.</p>\n<ul>\n<li>Plats 24 by 36 inches: $50 a page.</li>\n<li>Plats 11 by 17 inches: $40 a page.</li>\n<li>Township zoning resolutions: $50, and zoning amendments: $20.</li>\n</ul>\n<p>Those figures come from the Recorder's January 2025 schedule.</p>"
+   "h2": "Getting a copy of a deed or plat",
+   "html": "<p>There are three routes to a copy of a deed or mortgage: come to the office, phone with your name and address so staff can locate it, or search the website for anything recorded since January 1, 1985. Staff-assisted copies cost $2 a page, and copies you make yourself cost $0.15 a page.</p><ul><li>Plats 24 by 36 inches: $50 a page.</li><li>Plats 11 by 17 inches: $40 a page.</li><li>Township zoning resolutions: $50, and zoning amendments: $20.</li></ul>"
   },
   {
-   "h2": "How do Hancock County's townships show up in deed descriptions?",
-   "html": "<p>The county began in 1828 as Findlay Township alone, with Amanda and Welfare (now Delaware) added that April. Jackson came in 1829, Liberty and Marion in December 1830, and Big Lick, Blanchard and Van Buren in 1831. Washington, Union and Eagle were laid out in 1832, Cass and Portage in 1833, Pleasant in 1835, Orange in 1836, Madison in 1840 and Allen in 1850.</p>\n<p>In 1845 part of the southeast corner went to the newly formed Wyandot County. Farmland outside Findlay is often described by township, so deeds for those parcels will cite these units. Check that your new deed repeats the description from the deed you received.</p>"
+   "h2": "Township names in deed descriptions",
+   "html": "<p>Farmland outside Findlay is often described by township, so deeds for those parcels will cite these units. Check that your new deed repeats the description from the deed you received, word for word, before anyone signs.</p>"
   },
   {
-   "h2": "Can I look up Hancock County land records myself?",
-   "html": "<p>The Recorder's online search holds documents recorded and imaged from January 1, 1985 to the present, and historical indexes can be viewed online as well. Enter names last name first, such as Doe John, and enter companies as they normally appear.</p>\n<p>A search cannot be run by parcel number at the Recorder's office. You need the owner's name and the legal description. If you lack either one, start at the Hancock County Auditor's website to find the owner and parcel details, then return to the Recorder.</p>\n<p>The county is indexed alphabetically online only for 1985 to the present, and anything earlier has to be searched in the office. The Recorder will also provide copies by phone, in person or through the website.</p>"
+   "h2": "Searching Hancock County land records yourself",
+   "html": "<p>The online search holds documents recorded and imaged from January 1, 1985 to the present, and historical indexes can be viewed online as well. Enter names last name first, such as Doe John, and enter companies as they normally appear.</p><p>You cannot search by parcel number at the Recorder's office. You need the owner's name and the legal description. If you lack either one, start at the Hancock County Auditor's website to find the owner and parcel details, then return to the Recorder.</p><p>Anything recorded before 1985 has to be searched in the office. The Recorder will also provide copies by phone, in person or through the website.</p>"
   },
   {
-   "h2": "Can I e-record a deed in Hancock County?",
-   "html": "<p>Yes. Electronic filing is accepted for every document type, including deeds that must pass the Auditor's conveyance step. The office works with four outside submission services.</p>\n<p>E-recording suits title firms, lenders and law offices best. A homeowner can simply ask whoever handles the closing whether the deed will be sent electronically.</p>"
+   "h2": "Can you e-record a deed in Hancock County?",
+   "html": "<p>Yes. Electronic filing is accepted for every document type, including deeds that must pass the Auditor's conveyance step. The office works with four outside submission services.</p><p>E-recording suits title firms, lenders and law offices best. A homeowner can simply ask whoever handles the closing whether the deed will be sent electronically.</p>"
+  },
+  {
+   "h2": "After the deed is recorded",
+   "html": "<p>Once the Recorder indexes the deed, the new owner appears in the public chain of title and the buyer is protected against a later claim. Ask the closing agent for the recording date and keep the returned copy with the Auditor's endorsement. If anything looks wrong on it, such as a misspelled name or a changed legal description, call the Recorder at 419-424-7091 right away, because a correction is simpler the sooner it is caught. A seller who also owes on a mortgage should confirm the lender records a release, so the old loan does not linger in the index and trip up the next title search.</p>"
+  },
+  {
+   "h2": "Steps for a typical sale",
+   "html": "<p>Have the deed prepared by an attorney or title office, since the Recorder does not hand out blank forms. Sign it before a notary. Take it with the conveyance form to the Auditor, pay the conveyance and transfer fees, then carry the endorsed deed to Room 23 before 4:00 pm with a separate check for the recording fee. If you mail it, enclose a return envelope. When the recorded deed comes back, keep it with your closing papers.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Will the Hancock County Recorder add or remove a name on my deed?",
-   "a": "Not without a new deed. The Recorder says adding or removing someone, or changing a name, takes a newly prepared deed, and the office only records documents. It suggests an attorney or title office to prepare it."
+   "a": "Not without a new deed. Adding or removing someone, or changing a name, takes a newly prepared deed, and the office only records documents. An attorney or title office can prepare it."
   },
   {
    "q": "Who holds my original deed after I pay off my mortgage in Hancock County?",
@@ -53,11 +61,11 @@
   },
   {
    "q": "Does the Hancock County Recorder provide blank deed forms?",
-   "a": "No. The office does not give out blank deeds, mortgages, liens or other real property forms, and it recommends an attorney or title office for preparation."
+   "a": "No. Blank deeds, mortgages, liens and other real property forms are not handed out there. Ask an attorney or title office to prepare one."
   },
   {
    "q": "How much is the Hancock County conveyance fee?",
-   "a": "The Recorder's FAQ lists $3.00 per thousand for the Auditor's conveyance fee and $0.50 per parcel for the transfer fee. Confirm the total with the Auditor before you pay."
+   "a": "The Auditor's conveyance fee is $3.00 per thousand, and the transfer fee is $0.50 per parcel. Confirm the total with the Auditor before you pay."
   },
   {
    "q": "What time must I get a deed to the Hancock County Recorder?",
