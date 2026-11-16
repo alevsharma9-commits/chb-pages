@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What does the Rowan County Register of Deeds do?",
-   "html": "<p>It keeps the official land records for Rowan County and records deeds, deeds of trust and maps. North Carolina register of deeds offices are elected county offices, and state law has the register collect the uniform recording fees and the excise tax on deeds before an instrument is recorded.</p><p>The county runs an online document search site for land records, and the office also takes vital record requests online. Property Check, a free alert service, is one more local tool for owners. Questions about Property Check go to 704-216-8636.</p>"
+   "html": "<p>It keeps the official land records for Rowan County and records deeds, deeds of trust and maps. North Carolina register of deeds offices are elected county offices, and state law has the register collect the uniform recording fees and the excise tax on deeds before an instrument is recorded.</p><p>The county runs an online document search site for land records. Property Check, a free alert service, is one more local tool for owners. Questions about Property Check go to 704-216-8636.</p>"
   },
   {
    "h2": "How does Property Check protect a Rowan County owner?",
@@ -24,6 +24,18 @@
   {
    "h2": "What should a Rowan County seller check before listing?",
    "html": "<p>Look at the recorded chain of title, then fix gaps. A seller can use the register's online search to see the last deed, any deed of trust and any liens, and a title company will do a full search. Common problems include a satisfied loan whose release was never recorded, a deed from a deceased owner and an old easement.</p><ul><li>Pull the vesting deed and check that the name matches the person signing.</li><li>Look for any deed of trust without a recorded satisfaction. Satisfactions carry no recording fee.</li><li>Sign up for Property Check to watch for new filings while the house is vacant.</li><li>Ask the register's office how it wants a deed presented, since the office, not the statute, runs the counter day to day.</li></ul><p>Selling to a cash buyer does not change the recording steps, because the deed is still presented to the register in the county where the property sits.</p>"
+  },
+  {
+   "h2": "How do I record a contract for deed or seller-financed sale in Rowan County?",
+   "html": "<p>A seller who keeps title while the buyer pays in installments is covered by Chapter 47H when the property is a one to four family dwelling or manufactured home priced at $5,000 or more with five or more payments beyond the down payment. The seller must record the contract or a Memorandum of a Contract for Deed within five business days.</p><p>The agreement must be written, signed and acknowledged, and the buyer can cancel until midnight of the third business day after execution or delivery. A forfeiture needs a written default notice that gives at least 30 days to cure, and the buyer's equity of redemption ends only through a recorded mutual termination or a court order. Rowan County has no separate rules here, so the register records these under the same fee and excise tax rules.</p>"
+  },
+  {
+   "h2": "What happens to the excise tax and recording when a Rowan County house is inherited?",
+   "html": "<p>A transfer by death is a different path from a sale, and the register still records the paperwork that shows the new owner. When a small estate qualifies, an heir may file an affidavit with the clerk of superior court of the county where the person lived, and the affidavit lists each tract of real property owned. Larger estates need a personal representative, and the court clerk is the first stop, not the register.</p><p>Once a deed or court paper is ready, the register records it under the standard fee schedule. If there is no taxable consideration, the excise stamp is not owed, but the document still goes through the checklist. Ask a probate attorney before you list an inherited house, because the buyer's title insurer will want the right authority on record.</p>"
+  },
+  {
+   "h2": "What recording rules apply to every North Carolina register of deeds?",
+   "html": "<p>Statewide rules decide most of what happens at the Rowan County counter. The register is elected by the county's voters, collects the uniform fees and has no discretion to change them. The fee statute calls the amounts complete and exclusive, and they are collected before filing.</p><ul><li>Additional instruments in one document cost $10.00 each on top of the base fee.</li><li>Plats are charged by the sheet, not by the page.</li><li>A non-standard document pays a $25.00 add-on.</li><li>Satisfactions and cancellations of deeds of trust and mortgages are free to record.</li></ul><p>For the Rowan County seller, that means the cost to record a deed is small next to the excise tax. The tax is a function of the price, rounded up to the next $500 step, and the register will not record the deed until it is paid.</p>"
   }
  ],
  "faqs": [
@@ -49,6 +61,14 @@
   }
  ],
  "sources": [
+  {
+   "title": "G.S. Chapter 47H Contract for deed",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"
+  },
+  {
+   "title": "G.S. 28A-25-1 Small estate affidavit",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_28A/GS_28A-25-1.html"
+  },
   {
    "title": "Rowan County: Property Check",
    "url": "https://rowancountync.gov/1706/Property-Check"

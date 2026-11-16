@@ -24,6 +24,14 @@
   {
    "h2": "Why does recording matter when I sell a Rockingham County house?",
    "html": "<p>A conveyance is not valid against lien creditors or purchasers for value until it is registered in the county where the land lies. Priority follows the order and time of registration, which is why a buyer's attorney insists on recording right after funding.</p><p>For a seller, the practical points are a clean chain of title, satisfied mortgages and no open liens. Ask the register about a satisfaction that was never recorded, since recording a satisfaction carries no fee. If the title shows a gap, such as an heir who never deeded property after a death, fix it before listing, because it can delay or kill a closing.</p>"
+  },
+  {
+   "h2": "How do I record a contract for deed or seller-financed sale in Rockingham County?",
+   "html": "<p>Seller financing where the seller keeps title falls under Chapter 47H when it covers a one to four family dwelling or manufactured home priced at $5,000 or more with five or more payments beyond the down payment. The seller must record the contract, or a Memorandum of a Contract for Deed, within five business days.</p><p>The contract must be written, signed and acknowledged, and the buyer may cancel until midnight of the third business day after signing. Rockingham County does not set separate rules for this. The register simply records the document under the same checklist, fees and excise tax rules as other instruments, so a seller offering terms should have an attorney prepare it.</p>"
+  },
+  {
+   "h2": "What should I bring to the Rockingham County register on closing day?",
+   "html": "<p>Bring the original signed deed with the drafter's name on page one, the grantee's mailing address, the notary acknowledgment and the excise stamp amount noted. Most attorneys deliver these electronically or in person, but a seller who is recording a family deed alone should prepare the same package.</p><ul><li>The original deed, with a notary block that carries a seal and expiration date</li><li>Payment for the recording fee and the excise tax, by check or money order if mailed</li><li>A return envelope with postage if the document goes by mail</li><li>A parcel number and the names of every party exactly as they appear in the vesting deed</li></ul><p>If the paper is rejected, the register records it only after the $25 non-standard fee is paid, in addition to the regular recording fee. Check the margins and font before you go, and call 336-342-8820 with questions about presentation.</p>"
   }
  ],
  "faqs": [
@@ -49,6 +57,10 @@
   }
  ],
  "sources": [
+  {
+   "title": "G.S. Chapter 47H Contract for deed",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"
+  },
   {
    "title": "Rockingham County: Document Recording Requirements",
    "url": "https://rockinghamcountync.gov/21246/Document-Recording-Requirements"

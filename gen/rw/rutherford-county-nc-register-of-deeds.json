@@ -23,7 +23,15 @@
   },
   {
    "h2": "What does the seller owe in deed excise tax in Rutherford County?",
-   "html": "<p>The seller pays, at a rate of $1.00 per $500 of price or value (or part of $500), handed over before the deed is recorded (G.S. 105-228.30). Half of the money stays with the county and half goes to the state.</p><p>A cash sale is a conveyance for value, so the tax applies. Ask your attorney to print it on its own line of the settlement statement.</p>"
+   "html": "<p>The seller pays, at a rate of $1.00 per $500 of price or value (or part of $500), handed over before the deed is recorded (G.S. 105-228.30). Half of the money stays with the county and half goes to the state.</p><p>A cash sale is a conveyance for value, so the tax applies. Ask your attorney to print it on its own line of the settlement statement.</p><p>For a tract that straddles two counties, the tax goes to the county holding the greater value. A Rutherford County tract that runs across a county line is worth a quick call to the closing attorney, since the filing location and tax payment depend on where most of the value lies.</p><p>The statute also lets the county keep a small share of the state half as an allowance, which is bookkeeping between governments and changes nothing on your bill.</p>"
+  },
+  {
+   "h2": "Where does a Rutherford County seller get a tax balance?",
+   "html": "<p>The county revenue department answers tax bill questions at 828-287-6000 and sits at 145 College Avenue, Suite A, Rutherfordton, NC 28139, open 8:30 to 5:00 on weekdays. Collections questions can also go by email to the address on the department page.</p><p>The department page says all tax bills are due September 1 each year, and that payment by January 5 avoids interest and enforced collection. Mailed payments are honored by postmark through that date. Cash or check payments are taken at the tax office, while online payment runs through a third-party service that adds its own fees, which the county says it does not set.</p><p>The page also shows a search for tax bill information, a link to registered vehicle tax receipts, and a list of delinquent tax bills. Pull your parcel's bill and ask for a payoff before your closing attorney orders the deed.</p>"
+  },
+  {
+   "h2": "Does the Rutherford County office file business name certificates?",
+   "html": "<p>Yes. The register of deeds records assumed business name certificates, the doing-business-as forms that tell the public a person or firm trades under a particular name in one county or in all 100 North Carolina counties. The recording fee printed on the county page is $26.00.</p><p>An online option exists for businesses located in Rutherford County, with a $15.00 service fee added to the recording fee. The county also notes that certificates recorded before December 1, 2017 expired on December 1, 2022, so an older DBA for a rental or landlord business needs a fresh filing. A landlord selling a rented house may want to confirm that the name on the lease and the deed still match.</p>"
   },
   {
    "h2": "Does Rutherford County accept electronic filing?",
@@ -76,6 +84,14 @@
   {
    "title": "Rutherford County Register of Deeds",
    "url": "https://www.rutherfordcountync.gov/departments/register_of_deeds/index.php"
+  },
+  {
+   "title": "Rutherford County Revenue Department",
+   "url": "https://rutherfordcountync.gov/departments/revenue_department_tax_administrator/index.php"
+  },
+  {
+   "title": "Rutherford County assumed business names",
+   "url": "https://rutherfordcountync.gov/departments/register_of_deeds/assumed_business_name.php"
   },
   {
    "title": "Rutherford County recordation page",
