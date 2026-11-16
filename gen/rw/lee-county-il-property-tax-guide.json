@@ -1,76 +1,121 @@
 {
-  "slug": "lee-county-il-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which Lee County offices deal with a property tax bill?",
-      "html": "<p>Four offices in Dixon share the work, and the right call depends on the question. Value and exemption questions go to the assessment office, bill and payment questions go to the Treasurer, and rate questions go to the County Clerk.</p>\n<table>\n<caption>Lee County property tax offices as listed on the county website</caption>\n<thead><tr><th>Office</th><th>Handles</th><th>Contact</th></tr></thead>\n<tbody>\n<tr><td>Treasurer and Collector</td><td>Bills, payments, annual tax sale, senior tax deferral</td><td>815-288-4477, 112 E Second Street, mail to P.O. Box 328</td></tr>\n<tr><td>Chief County Assessment Office</td><td>Assessments, exemptions, appeal forms</td><td>815-288-4483, 112 E Second Street, 8 a.m. to 4:30 p.m. weekdays</td></tr>\n<tr><td>Board of Review</td><td>Hears assessment complaints</td><td>815-288-4483, meets in the assessment office</td></tr>\n<tr><td>County Clerk and Recorder</td><td>Tax rate extension, redemption after a tax sale, deeds</td><td>815-288-3309, mail to P.O. Box 329</td></tr>\n</tbody>\n</table>\n<p>All four sit in the Old Lee County Courthouse on East Second Street. The Treasurer's page says the office collects and distributes more than $96 million a year among more than 130 taxing districts, so a single bill in Lee County is really a stack of schools, townships, fire districts and the county itself.</p>"
-    },
-    {
-      "h2": "What kind of county is Lee County for a home seller?",
-      "html": "<p>Lee County is a mostly rural county in northern Illinois, organized in 1839 when the lower half of Ogle County was split off. Dixon is the county seat and largest city. Amboy is the other city the county lists, and Rochelle sits mostly in Ogle County. The land covers about 725 square miles and borders Ogle, DeKalb, LaSalle, Bureau and Whiteside counties.</p>\n<p>The Census Bureau counts 32,914 residents as of July 1, 2025, down from 34,145 in the 2020 count. Owners occupy 73.6% of homes, the median owner-occupied value for 2020 to 2024 is $154,600, and median household income is $70,292. Only 32 building permits were issued in 2025, so most houses a buyer sees are older stock. Dixon's winters bring a January average low near 10 degrees, and an EF4 tornado touched down in the county on April 9, 2015, so storm history is a fair question for a buyer to ask.</p>\n<p>School districts that touch the county include Dixon Unit 170, Amboy 272, Ashton 275, Lee Center 271, Polo 222 and Sterling 5. Your district sets a large part of the rate on your bill.</p>"
-    },
-    {
-      "h2": "How does Lee County assess a house?",
-      "html": "<p>Township assessors set the values, and the Chief County Assessment Office compiles them. Residential property is assessed at 33 1/3% of fair cash value, and a notice is mailed when an individual parcel's assessment changes. A change caused only by an equalization factor, sometimes called a township multiplier, does not require a notice.</p>\n<p>Illinois reassesses on a four-year cycle. The county's publication page says 2026 is the general (quadrennial) year for Amboy, Ashton, Bradford, Franklin Grove, Nachusa, Lee Center, May and Sublette townships. Property records, including square footage, age and lot size, can be reviewed at the assessment office, and the county posts a parcel search and property record cards online.</p>\n<p>If your bill rose, the county's FAQ lists three general reasons: local governments voted a larger levy, you may be missing an exemption you qualify for, or neighbors gained exemptions you lack. Lee County has no power to set another district's levy. Under the Property Tax Extension Limitation Law, most districts can raise their levy by the lesser of 5% or inflation over the highest extension of the prior three years, with exceptions for new construction, bonds and voter-approved referenda.</p>"
-    },
-    {
-      "h2": "How do you appeal a Lee County assessment?",
-      "html": "<p>You file a written complaint with the Lee County Board of Review within 30 calendar days after the assessment list is published (35 ILCS 200/16-55). The county posted November 18, 2026 as the 2026 publication date for the townships listed above, with a filing deadline of December 18, 2026. Other townships follow their own publication dates, so confirm yours with the assessment office.</p>\n<p>The Board has three members appointed by the County Board and can confirm, reduce or increase an assessment as appears just. Its rules recognize four kinds of argument:</p>\n<ul>\n<li>Assessment equity compared with similar homes</li>\n<li>Fair cash value</li>\n<li>An incorrect physical description of the property</li>\n<li>Matters of law</li>\n</ul>\n<p>Talk with your township assessor or the assessment office first, because many questions end there. The only complaint that can be heard after the 30 days is a discrepancy in the physical data, such as a house described as larger than it is. A Board decision can be appealed to the state Property Tax Appeal Board, reachable at 217-782-6076 or at 401 S Spring Street, Room 402, Springfield. The Board rules on value, so a complaint about the size of the final bill belongs with the taxing districts instead.</p>"
-    },
-    {
-      "h2": "How and when do you pay a Lee County tax bill?",
-      "html": "<p>Illinois bills real estate tax in two installments, and Lee County prints the due dates on each bill. Under 35 ILCS 200/21-15, the first installment becomes delinquent after the later of June 1 or the day after the printed date, and the second after the later of September 1 or the day after its printed date. Interest runs at 1 1/2% per month or part of a month. A payment postmarked on or before the due date is on time.</p>\n<p>You can pay by several routes:</p>\n<ul>\n<li>Online through the county's property tax inquiry site, where a pay link appears once you find your parcel by PIN, owner name or address.</li>\n<li>By phone at 877-690-3729, using jurisdiction code 7042.</li>\n<li>By mail to Lee County Collector, P.O. Box 328, Dixon, IL 61021.</li>\n<li>In person at the Treasurer's office on East Second Street.</li>\n</ul>\n<p>The third-party card fee is printed as 2.40% with a $2.00 minimum. E-check fees start at $2 for amounts up to $50,000 and rise in steps, as the county's due-dates page lists. A lost bill is not an excuse, so ask the Treasurer for a duplicate. Address changes go to the Treasurer on the county's change-of-address form.</p>"
-    },
-    {
-      "h2": "Which Lee County exemptions and deferrals can lower the bill?",
-      "html": "<p>Exemptions reduce the equalized assessed value before the rate is applied. Lee County is not next to a county of 3,000,000 or more people, so the statute's lower dollar amounts apply here. The main ones are:</p>\n<ul>\n<li><strong>General homestead:</strong> up to $6,000 off equalized assessed value for an owner-occupied home (35 ILCS 200/15-175).</li>\n<li><strong>Senior citizens:</strong> up to $5,000 for an owner who is 65 by December 31 of the assessment year (35 ILCS 200/15-170). The county's form says the exemption renews automatically once approved, and the owner must report if the home stops qualifying.</li>\n<li><strong>Senior assessment freeze:</strong> needs an annual application and a household income under the limit printed on the county form.</li>\n<li><strong>Senior tax deferral:</strong> run by the Treasurer for owners 65 and older with household income up to $75,000, rising to $77,000 for tax year 2026 and $79,000 for 2027. Deferred tax becomes a lien that is paid when the home is sold.</li>\n</ul>\n<p>Exemption applications go to the assessment office. When a home sells, state law keeps the homestead exemption in place for the rest of that assessment year, and the office may ask the new owner to apply for the next one.</p>"
-    },
-    {
-      "h2": "What happens if Lee County property tax goes unpaid?",
-      "html": "<p>The county sells the unpaid tax, not the house. The Treasurer holds a tax sale at the end of each tax year for every parcel still unpaid. The owner keeps the right to redeem by paying the tax plus costs and interest, and redemption is handled by the Tax Redemption Department of the County Clerk's office.</p>\n<p>The statute generally allows 3 years from the sale date to redeem, with exceptions listed in 35 ILCS 200/21-350. If a tax buyer holds your parcel, ask the Clerk for the exact redemption figure and last day before you agree to any sale price.</p>"
-    },
-    {
-      "h2": "How is the tax handled when you sell a Lee County house?",
-      "html": "<p>The title company or closing attorney reads the current bill and any unpaid installments, then splits the year between seller and buyer on the settlement statement. Ask the Treasurer whether any earlier year is delinquent or sold, because that balance must be cleared or paid from the proceeds. If a mortgage servicer pays from escrow, confirm which installments it has already sent.</p>\n<p>Sellers with inherited houses, tenants or deferred maintenance often have back taxes mixed in with those problems. A written payoff from the Treasurer, plus the Clerk's redemption figure when a sale has occurred, lets you compare offers on the same footing.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Who do I call in Lee County about my tax bill?",
-      "a": "Call the Lee County Treasurer at 815-288-4477 for bills and payments. The assessment office at 815-288-4483 answers value, exemption and appeal questions, and the County Clerk at 815-288-3309 covers how rates are developed and redemption after a tax sale."
-    },
-    {
-      "q": "Can I still appeal my Lee County assessment after the 30 days?",
-      "a": "Generally no. Complaints to the Board of Review must be filed within 30 days after the roll is published. The county's FAQ names one exception, a mismatch in the physical description of the property, such as the wrong square footage."
-    },
-    {
-      "q": "How much is the general homestead exemption in Lee County?",
-      "a": "Up to $6,000 off equalized assessed value, because Lee County is not contiguous to a county of 3,000,000 or more inhabitants. The statute is 35 ILCS 200/15-175, and applications go to the Chief County Assessment Office."
-    },
-    {
-      "q": "What interest applies to a late Lee County tax payment?",
-      "a": "Interest is 1 1/2% per month or portion of a month under 35 ILCS 200/21-15, counted from the later of the statutory date or the day after the due date printed on the bill. A payment postmarked by the due date is on time."
-    },
-    {
-      "q": "Does the senior tax deferral cancel the tax?",
-      "a": "No. The deferral postpones payment, and the deferred tax becomes a lien that is paid when the home is eventually sold. Owners must be 65 or older and apply through the Lee County Treasurer, who sets the household income limit printed on the county page."
-    }
-  ],
-  "sources": [
-    {"title": "Lee County, IL Treasurer", "url": "https://leecountyil.com/268/Treasurer"},
-    {"title": "Lee County Treasurer FAQ", "url": "https://leecountyil.com/FAQ.aspx?QID=145"},
-    {"title": "Lee County Chief County Assessment Office FAQ", "url": "https://www.leecountyil.com/faq.aspx?TID=15"},
-    {"title": "Lee County Important Tax Due Dates", "url": "https://leecountyil.com/270/Important-Tax-Due-Dates"},
-    {"title": "Lee County Board of Review", "url": "https://leecountyil.com/290/Board-of-Review"},
-    {"title": "Lee County Assessment Publication", "url": "https://leecountyil.com/172/Assessment-Publications"},
-    {"title": "Lee County Senior Citizen Homestead Exemption application", "url": "https://leecountyil.com/DocumentCenter/View/103/Senior-Citizen-Homestead-Exemption--PDF"},
-    {"title": "Lee County Clerk and Recorder", "url": "https://leecountyil.com/204/County-Clerk-Recorder"},
-    {"title": "Census QuickFacts Lee County", "url": "https://www.census.gov/quickfacts/fact/table/leecountyillinois/PST045224"},
-    {"title": "Wikipedia Lee County, Illinois", "url": "https://en.wikipedia.org/wiki/Lee_County,_Illinois"},
-    {"title": "35 ILCS 200/21-15", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K21-15"},
-    {"title": "35 ILCS 200/16-55", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K16-55"},
-    {"title": "35 ILCS 200/15-175", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-175"},
-    {"title": "35 ILCS 200/15-170", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"},
-    {"title": "35 ILCS 200/21-350", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K21-350"}
-  ]
+ "slug": "lee-county-il-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who do you contact about a Lee County tax bill?",
+   "html": "<p>Four desks inside one courthouse in Dixon split the job. Questions about value or exemptions belong with the assessment staff, payment trouble goes to the Treasurer, and a question about how a rate came out goes to the Clerk's extension department.</p>\n<table>\n<caption>Lee County offices that touch a property tax bill, per leecountyil.com</caption>\n<thead><tr><th>Office</th><th>Role</th><th>Contact</th></tr></thead>\n<tbody>\n<tr><td>Treasurer and Collector</td><td>Prints and collects bills, runs the annual tax sale, administers senior deferral</td><td>815-288-4477, 112 E Second Street, mailing box 328</td></tr>\n<tr><td>Chief County Assessment Office</td><td>Values, exemptions, appeal paperwork</td><td>815-288-4483, open weekdays from 8 until 4:30</td></tr>\n<tr><td>Board of Review</td><td>Decides assessment complaints</td><td>815-288-4483, first floor of the old courthouse</td></tr>\n<tr><td>County Clerk and Recorder</td><td>Extends rates, takes redemption money after a sale, records deeds</td><td>815-288-3309, mailing box 329</td></tr>\n</tbody>\n</table>\n<p>The Treasurer reports collecting and passing along more than $96 million this year to over 130 taxing districts. That explains why a Lee County bill reads like a ledger of school, township, fire and county lines rather than one charge.</p>"
+  },
+  {
+   "h2": "What should a seller know about Lee County itself?",
+   "html": "<p>Lee County lies along the Rock River country of northern Illinois and was carved out of Ogle County on February 27, 1839. Dixon, where Ronald Reagan spent part of his boyhood, is the seat and the biggest city. Amboy is the other incorporated city the county lists, while Rochelle lies mostly across the line in Ogle County. Land area is roughly 725 square miles, and the neighbors are Ogle, DeKalb, LaSalle, Bureau and Whiteside.</p>\n<p>The Census Bureau's July 2025 estimate is 32,914 people, a drop from the 34,145 counted in 2020. Of occupied homes, 73.6% have owners living in them. The midpoint value for an owner-occupied home in the 2020 to 2024 survey is $154,600, and the midpoint household income is $70,292. Builders took out just 32 permits in 2025. An EF4 tornado touched down here on April 9, 2015, so storm history is a fair question for a buyer.</p>\n<p>Several school districts cut across the county, including Dixon Unit 170, Amboy 272, Ashton 275, Lee Center 271, Polo 222 and Sterling 5. Whichever one serves your address drives much of the rate.</p>"
+  },
+  {
+   "h2": "How are Lee County homes valued for tax?",
+   "html": "<p>Township assessors propose values, and the county assessment office pulls them together. The target for houses is one-third of fair cash value. When a single parcel changes, the office mails a notice. When the only change comes from a township-wide equalization factor, no notice is required.</p>\n<p>Illinois runs on a four-year general reassessment. The county's publication page names Amboy, Ashton, Bradford, Franklin Grove, Nachusa, Lee Center, May and Sublette as the townships in their general year for 2026. Anyone can look over a parcel's size, age, lot and sketch at the assessment counter, or search property record cards on the county site.</p>\n<p>A bigger bill does not always mean a bigger assessment. The county's FAQ gives three general explanations: a taxing district asked for more, an exemption you qualify for has not been applied, or other owners picked up exemptions you lack. The county itself can only set its own levy. Under the state's extension limitation law, most districts may grow their levy by the smaller of 5% or inflation over the highest of the prior three years, and new construction, bonds and referendum-approved increases sit outside that cap.</p>"
+  },
+  {
+   "h2": "What is the process to contest a Lee County value?",
+   "html": "<p>You file a written complaint with the Board of Review within 30 calendar days of the assessment list being published, as 35 ILCS 200/16-55 requires. For the townships named above, the county lists November 18, 2026 as the publication date and December 18, 2026 as the last day to file. Townships not on that list have their own publication dates, so ask the assessment staff which applies to you.</p>\n<p>Three members, chosen by the County Board, sit on the Board of Review, and they may confirm, lower or raise a value. The county's FAQ says its rules accept these grounds:</p>\n<ul>\n<li>Equity, meaning your value out of line with similar homes</li>\n<li>Fair cash value</li>\n<li>A wrong physical description of the property</li>\n<li>Questions of law</li>\n</ul>\n<p>Speak with your township assessor or the county staff beforehand, since many disputes end in that conversation. After the 30 days, only a physical-data mismatch, such as a house recorded larger than it is, can still be raised. If the Board's ruling disappoints you, the Illinois Property Tax Appeal Board takes the next step at 217-782-6076 or 401 S Spring Street, Room 402, Springfield. The Board looks at value only, so an objection to the size of the final bill belongs with the taxing districts.</p>"
+  },
+  {
+   "h2": "How do you pay Lee County real estate tax?",
+   "html": "<p>The state splits the bill in two, and the county prints each due date on the bill itself. Under 35 ILCS 200/21-15, a first installment turns delinquent after the later of June 1 or the day following the printed date. The second follows the same test against September 1. Late interest is 1 1/2% for each month or fraction. A mailed payment with a postmark on or before the date counts as on time.</p>\n<p>Ways to pay include:</p>\n<ul>\n<li>The county's property tax inquiry website, which shows a pay link after you search by PIN, owner name or address.</li>\n<li>Phone payment at 877-690-3729 with jurisdiction code 7042.</li>\n<li>A check mailed to Lee County Collector, P.O. Box 328, Dixon, IL 61021.</li>\n<li>The Treasurer's counter at the Old Lee County Courthouse.</li>\n</ul>\n<p>The county's due-dates page states a 2.40% card fee through a third party with a $2.00 floor. For e-checks it prints $2 up to $50,000, then $4, $8.50 and $10 in higher bands. If you never received a bill, ask the Treasurer for a duplicate, since a missing bill does not cancel the debt. Send address updates on the county's change-of-address form.</p>"
+  },
+  {
+   "h2": "Which Lee County breaks reduce a bill?",
+   "html": "<p>An exemption subtracts from equalized assessed value ahead of the rate. Because Lee County does not border a county with 3,000,000 or more residents, the lower statutory ceilings apply. These are the main ones:</p>\n<ul>\n<li><strong>General homestead:</strong> a reduction of as much as $6,000 on a home the owner lives in (35 ILCS 200/15-175).</li>\n<li><strong>Senior citizens:</strong> as much as $5,000 once the owner turns 65 within the assessment year (35 ILCS 200/15-170). The county's form says the exemption renews on its own after approval, and owners must tell the office if the home stops qualifying.</li>\n<li><strong>Senior freeze:</strong> a yearly application, with household income held under the limit on the county form.</li>\n<li><strong>Tax deferral:</strong> the Treasurer's program for owners 65 and over whose household income is at most $75,000, moving to $77,000 for tax year 2026 and $79,000 for 2027. The postponed tax rides as a lien until the house sells.</li>\n</ul>\n<p>File exemption forms with the assessment office. After a sale, state law keeps the seller's homestead credit through the assessment year of the sale, and the office can ask the buyer to apply for the year after.</p>"
+  },
+  {
+   "h2": "What if the Lee County bill goes unpaid?",
+   "html": "<p>What gets sold is the unpaid tax, not your home. Each year the Treasurer puts every unpaid parcel into a tax sale. You keep the right to redeem by paying the tax with added costs and interest, and the redemption desk sits in the County Clerk's office.</p>\n<p>State law usually gives three years from the sale date, subject to exceptions in 35 ILCS 200/21-350. If a buyer already holds a certificate on your parcel, get the Clerk's payoff figure and final date in writing before you set a price or sign a contract.</p>"
+  },
+  {
+   "h2": "How do taxes settle at a Lee County closing?",
+   "html": "<p>A title agent or attorney reads the latest bill, checks for installments still open, and divides the year between seller and buyer on the closing statement. Before that, ask the Treasurer whether any older year is delinquent or sold, since that balance must be cleared at the table. When a lender escrows taxes, find out which installments it has remitted.</p>\n<p>Houses that come with probate, tenants or deferred repairs often carry back taxes too. A payoff letter from the Treasurer, together with a redemption figure from the Clerk if a sale happened, lets you weigh competing offers on equal terms.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which number reaches the Lee County Treasurer?",
+   "a": "815-288-4477 for bills and payments. The assessment office at 815-288-4483 takes value, exemption and appeal questions, and the Clerk's extension department at 815-288-3309 explains how rates are built and handles redemption."
+  },
+  {
+   "q": "Is there any way to appeal late in Lee County?",
+   "a": "Only for a physical-data error. The county's FAQ says complaints must come within 30 days of the roll's publication, with the single exception of a mismatch like the wrong square footage on the record."
+  },
+  {
+   "q": "What is the largest general homestead reduction in Lee County?",
+   "a": "$6,000 of equalized assessed value, since the county does not border one with 3,000,000 or more inhabitants. The rule is 35 ILCS 200/15-175, and the assessment office takes the application."
+  },
+  {
+   "q": "What does late payment cost in Lee County?",
+   "a": "Interest of 1 1/2% per month or partial month under 35 ILCS 200/21-15. The clock starts after the later of the statutory date or the day after the printed due date, and a timely postmark avoids it."
+  },
+  {
+   "q": "Does Lee County's senior deferral wipe out the tax?",
+   "a": "No, it only delays it. The deferred amount becomes a lien and comes due when the house is sold. An applicant must be 65 or older and apply through the Treasurer, whose page states the income limit."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Lee County, IL Treasurer",
+   "url": "https://leecountyil.com/268/Treasurer"
+  },
+  {
+   "title": "Lee County Treasurer FAQ",
+   "url": "https://leecountyil.com/FAQ.aspx?QID=145"
+  },
+  {
+   "title": "Lee County Chief County Assessment Office FAQ",
+   "url": "https://www.leecountyil.com/faq.aspx?TID=15"
+  },
+  {
+   "title": "Lee County Important Tax Due Dates",
+   "url": "https://leecountyil.com/270/Important-Tax-Due-Dates"
+  },
+  {
+   "title": "Lee County Board of Review",
+   "url": "https://leecountyil.com/290/Board-of-Review"
+  },
+  {
+   "title": "Lee County Assessment Publication",
+   "url": "https://leecountyil.com/172/Assessment-Publications"
+  },
+  {
+   "title": "Lee County Senior Citizen Homestead Exemption application",
+   "url": "https://leecountyil.com/DocumentCenter/View/103/Senior-Citizen-Homestead-Exemption--PDF"
+  },
+  {
+   "title": "Lee County Clerk and Recorder",
+   "url": "https://leecountyil.com/204/County-Clerk-Recorder"
+  },
+  {
+   "title": "Census QuickFacts Lee County",
+   "url": "https://www.census.gov/quickfacts/fact/table/leecountyillinois/PST045224"
+  },
+  {
+   "title": "Wikipedia Lee County, Illinois",
+   "url": "https://en.wikipedia.org/wiki/Lee_County,_Illinois"
+  },
+  {
+   "title": "35 ILCS 200/21-15",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K21-15"
+  },
+  {
+   "title": "35 ILCS 200/16-55",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K16-55"
+  },
+  {
+   "title": "35 ILCS 200/15-175",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-175"
+  },
+  {
+   "title": "35 ILCS 200/15-170",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"
+  },
+  {
+   "title": "35 ILCS 200/21-350",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K21-350"
+  }
+ ]
 }
