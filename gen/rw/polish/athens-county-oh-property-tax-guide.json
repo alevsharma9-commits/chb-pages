@@ -3,27 +3,35 @@
  "sections": [
   {
    "h2": "Who to call about Athens County property tax",
-   "html": "<p>Two offices matter. The county auditor sets values and takes exemption applications at 15 S. Court Street in Athens, and its Real Estate Division answers at 740-592-3223. The treasurer mails the bills and takes payment. That office also runs delinquent payment plans, escrow plans and mobile home tax.</p>\n<p>The treasurer chairs the county land bank, too. A run-down vacant house with back taxes can draw that office's attention as well as a buyer's.</p>"
+   "html": "<p>Start with two offices. Values and exemption forms are the auditor's job, at 15 S. Court Street in Athens. Dial 740-592-3223 for the Real Estate Division. Bills and payments belong to the treasurer, who also handles delinquent payment plans, escrow plans and mobile home tax.</p>\n<p>The treasurer also leads the county land bank, so an empty, run-down house with back taxes may attract that office as well as a buyer.</p>"
   },
   {
    "h2": "Housing around Athens",
-   "html": "<p>Athens County is hill country, 508 square miles of steep ridges and creek valleys drained mostly by the Hocking River. The city of Athens is the seat and the largest community. The 2020 count was 62,431 people and 26,386 housing units, of which 10.2% were vacant. Among occupied homes, 45.6% were rented.</p>\n<p>That renter share means many sellers here own rental houses near campus. If you are one of them, check each parcel's owner-occupancy status with the auditor before you sell.</p>"
+   "html": "<p>Athens County is hill country, 508 square miles of steep ridges and creek valleys drained mostly by the Hocking River. Athens is both the county seat and the largest community. The 2020 census found 62,431 people in 26,386 housing units, with 10.2% of units vacant and 45.6% of occupied homes rented.</p>\n<p>So many sellers here are landlords with houses near campus. Landlords should confirm each parcel's owner-occupancy status at the auditor's office before listing.</p>"
   },
   {
-   "h2": "Due dates and late payment",
-   "html": "<p>The county prints the real due dates on your bill, so read the current one rather than relying on last year's calendar. State law, ORC 323.12, sets the baseline at December 31 for the whole bill, or half by then and the rest by June 20. A mailed payment is timely if its U.S. Postal Service postmark falls on or before the last day.</p>\n<p>Ohio allows no grace period, so a late payment normally draws a penalty automatically. Mailed checks can run late because the Postal Service no longer postmarks on the day it receives mail. An electronic payment costs $0.50. If paying in full is a stretch, call or stop in at the treasurer's office and ask about a payment plan. Mobile home bills go out right after the regular bills with the same due date.</p>"
+   "h2": "Payment deadlines and penalties",
+   "html": "<p>Your bill carries the actual deadlines, so use the current one instead of last year's calendar. The statutory baseline in ORC 323.12 is December 31 for everything, or half by that date and the balance by June 20. A mailed payment counts as on time when the postmark is dated no later than the final day.</p>\n<p>Ohio allows no grace period, so a late payment normally draws a penalty automatically. Mailed checks risk lateness because the Postal Service no longer postmarks on the day it takes the mail. Paying electronically adds $0.50. Owners who cannot pay everything at once can phone or visit the treasurer about a plan. Mobile home bills go out right after the regular bills with the same due date.</p>"
   },
   {
    "h2": "Why bills vary across the county",
-   "html": "<p>The county mixes a university city, an old coal and salt district, and farm and forest land. Each of those uses can fall in a different school district and township, and that changes the levies stacked on a parcel. Five school districts serve residents: Alexander Local, Athens City, Federal Hocking Local, Nelsonville-York City and Trimble Local.</p>\n<p>Two houses of similar size, one in Athens and one in Trimble, can carry different bills. Ask the auditor for the taxing district code on your parcel to see why.</p>"
+   "html": "<p>Land use here ranges from the university city to former coal and salt country to farm and forest. Which levies stack up on a parcel depends on its school district and township. Five school districts serve residents: Alexander Local, Athens City, Federal Hocking Local, Nelsonville-York City and Trimble Local.</p>\n<p>A house in Athens and a similar one in Trimble can get different bills. The taxing district code on your parcel, available from the auditor, explains the gap.</p>"
   },
   {
    "h2": "The 2026 reappraisal",
-   "html": "<p>Athens County's next countywide reappraisal is tax year 2026. New values apply as of January 1, 2026 and reach bills payable in 2027. The auditor posts values online and asks owners to check acreage, building size and construction details, then call the Real Estate Division about errors. The website shows only the new value, so compare it against your second-half 2025 bill.</p>\n<p>The auditor also summarizes several late-2025 state laws that limit automatic tax growth:</p>\n<ul>\n<li>House Bill 186 creates an Inflation Cap Credit for some school districts hit by the 20-mill floor, itemized on the bill.</li>\n<li>House Bill 335 limits growth in inside millage during valuation reset years to inflation.</li>\n<li>House Bill 129 changes how the school district 20-mill floor is calculated, beginning with tax year 2026.</li>\n</ul>\n<p>These laws do not eliminate property taxes, repeal voted levies, reduce school bond millage or freeze values.</p>"
+   "html": "<p>The county reappraises everything for tax year 2026. Values are set as of January 1, 2026 and first appear on bills payable in 2027. Owners are asked to review the posted figures for acreage, building size and construction details and phone the Real Estate Division about mistakes. Since the site shows the new value only, set it beside your second-half 2025 bill.</p>\n<p>The auditor also summarizes several late-2025 state laws that limit automatic tax growth:</p>\n<ul>\n<li>House Bill 186 creates an Inflation Cap Credit for some school districts hit by the 20-mill floor, itemized on the bill.</li>\n<li>House Bill 335 limits growth in inside millage during valuation reset years to inflation.</li>\n<li>House Bill 129 changes how the school district 20-mill floor is calculated, beginning with tax year 2026.</li>\n</ul>\n<p>These laws do not eliminate property taxes, repeal voted levies, reduce school bond millage or freeze values.</p>"
   },
   {
-   "h2": "How to dispute your valuation",
-   "html": "<p>A complaint goes to the county auditor, who passes it to the Board of Revision. Filing stays open to the end of March of the next tax year, or until first-half collection closes if that is later (ORC 5715.19(A)(1)). The treasurer sits on the Board of Revision.</p>\n<p>Parties must get hearing notice ten days ahead, and the board has 180 days from the last filing day to decide. While you wait, you can tender tax on your claimed value, and the treasurer must accept it. If you owe more at the end, interest runs on the shortfall. A second complaint in the same interim period needs something new, such as an arm's-length sale, casualty, a major improvement or a fifteen percent swing in occupancy.</p>"
+   "h2": "Disputing a value",
+   "html": "<p>File the complaint with the auditor, who sends it to the Board of Revision, where the treasurer holds a seat. You have until the end of March of the next tax year, or the close of first-half collection when that comes later (ORC 5715.19(A)(1)).</p>\n<p>Notice of the hearing must reach the parties ten days in advance, and a decision is due within 180 days of the last filing day. Meanwhile you may pay on your claimed value, which the treasurer has to take. Interest accrues on any shortfall if the final value is higher. Refiling in the same interim period takes a new event: an arm's-length sale, casualty loss, a major improvement or a fifteen percent swing in occupancy.</p>"
+  },
+  {
+   "h2": "Seller's plan",
+   "html": "<p>First pull the auditor's parcel record and check acreage, building size and year built, which a buyer's lender will also review. Second, learn whether the parcel carries a homestead or owner-occupancy reduction, since transfer paperwork asks. Third, request a payoff and any payment plan balance from the treasurer. With a complaint pending, tell the title company so the amount due is worked out correctly. Last, budget for the conveyance fee and any county transfer tax, both charged to the seller.</p>"
+  },
+  {
+   "h2": "Timing a sale around the reappraisal",
+   "html": "<p>Because new values reach bills payable in 2027, a buyer shopping now may see a tax figure that is about to change. Look at the posted value for your parcel, compare it with the second-half 2025 bill, and be ready to explain the difference. If the new value looks wrong, the Real Estate Division at 740-592-3223 is the first call, and a formal complaint to the Board of Revision is the next step. Having the auditor's record corrected before you list saves arguments later in escrow.</p>\n<p>The state laws listed above cap some of the automatic growth, so the bill may rise less than the value does. They do not freeze anything, and a seller should not promise a buyer a particular tax amount.</p>"
   },
   {
    "h2": "Exemptions and credits",
@@ -31,29 +39,29 @@
   },
   {
    "h2": "What sellers handle at closing",
-   "html": "<p>Ask the treasurer for a payoff, and check whether a payment plan balance is open. Under ORC 319.202 the grantee files a value statement with the auditor at transfer. It records what the seller said about homestead or owner-occupancy reductions and about CAUV status, and a farm leaving CAUV can face a recoupment charge.</p>\n<p>ORC 319.54(G)(3) prices the auditor's conveyance fee at $1 or 10 cents per $100 of value or fraction, whichever is more. The grantor covers it, along with any Chapter 322 county transfer tax. Ask the Athens County auditor whether such a tax applies.</p>\n<p>An inherited house, a house with tenants or a house that needs work can close as-is without changing any of this. A buyer paying cash skips the lender, but the payoff, the value statement and the fee all still happen. Start with the treasurer's payoff so you know what comes out of your proceeds.</p>"
+   "html": "<p>Get a payoff from the treasurer and see whether a payment plan balance is open. At transfer the buyer files a value statement with the auditor under ORC 319.202, noting the seller's answers on homestead or owner-occupancy reductions and CAUV status. Land leaving CAUV can trigger a recoupment charge.</p>\n<p>The auditor's conveyance fee under ORC 319.54(G)(3) is $1, or 10 cents per $100 of value or fraction if that is more. The seller pays it plus any Chapter 322 county transfer tax, so ask whether Athens County levies one.</p>\n<p>Inherited, tenant-occupied and fixer-upper houses can all close as-is with these same steps. A cash buyer removes the lender but not the payoff, the value statement or the fee. Get the treasurer's payoff first so you know what leaves your proceeds.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Athens County real estate taxes due?",
-   "a": "The due dates are printed on each bill. State law sets the baseline at December 31, or half by then and the rest by June 20. There is no grace period, so late payments are penalized."
+   "a": "Look at your bill for the dates. The statutory baseline is December 31, or half by then and the remainder by June 20, with no grace period."
   },
   {
    "q": "Does the Athens County treasurer offer payment plans?",
-   "a": "Yes. Call or visit the treasurer's office to ask about one. An electronic payment carries a $0.50 fee."
+   "a": "Yes, ask by phone or in person at the treasurer's office. Electronic payment adds $0.50."
   },
   {
    "q": "When does the new Athens County reappraisal show up on my bill?",
-   "a": "On bills payable in 2027, using values as of January 1, 2026. Check the auditor's posted value against your second-half 2025 bill."
+   "a": "On bills payable in 2027, based on January 1, 2026 values."
   },
   {
    "q": "Who qualifies for the Athens County homestead exemption?",
-   "a": "Homeowners 65 or older, or permanently and totally disabled, who live there on January 1, with an income cap for new applicants. The auditor takes applications until December 31."
+   "a": "People 65 or older, or permanently and totally disabled, living in the home on January 1, under an income cap for new applicants. Applications go to the auditor by December 31."
   },
   {
    "q": "When does the window to contest a valuation close?",
-   "a": "At the end of March in the next tax year, or at the close of first-half collection if that is later (ORC 5715.19(A)(1)). The auditor receives the complaint and passes it to the Board of Revision."
+   "a": "End of March of the next tax year, unless first-half collection closes later. The auditor takes the complaint and forwards it to the Board of Revision."
   }
  ],
  "sources": [
