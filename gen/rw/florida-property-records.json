@@ -2,58 +2,66 @@
  "slug": "florida-property-records",
  "sections": [
   {
-   "h2": "Where are Florida property records kept?",
-   "html": "<p>Each county clerk of the circuit court keeps the Official Records, the public book of deeds, mortgages, liens and similar instruments for that county. The clerk is also the office that records a new deed and collects the documentary stamp tax when it is filed.</p><p>Because Florida has 67 counties, there is no single statewide deed database. Search the clerk's site for the county where the property sits, and use the property appraiser's site for ownership, parcel numbers and assessed values.</p>"
+   "h2": "Where do Florida deeds and mortgages get filed for public view?",
+   "html": "<p>Each of the 67 counties keeps its own Official Records, run by the county clerk. A deed, mortgage or lien filed there becomes searchable by anyone, and the clerk takes the stamp tax due on a deed at the counter.</p><p>No single statewide index exists. To look up a parcel, search the Official Records of the county where it lies, then check the appraiser's website for owner name, parcel number and assessed value.</p>"
   },
   {
-   "h2": "What does recording a deed do for a Florida owner?",
-   "html": "<p>Recording gives public notice of a transfer and protects the new owner against later buyers and creditors. Under s. 695.01, a conveyance, transfer or mortgage of real property, or a lease of a year or longer, is not effective against creditors or later purchasers for value without notice unless it is recorded.</p><p>The same section treats a quitclaim grantee as a purchaser without notice for purposes of the recording acts. A lien from a governmental body for an improvement, service, fine or penalty is valid against later purchasers only if recorded in the county's official records, with certain exceptions such as tax, special assessment and utility liens.</p>"
+   "h2": "Why does filing a deed matter to the buyer?",
+   "html": "<p>An unfiled deed leaves the buyer exposed. Section 695.01 says a conveyance, transfer or mortgage of real property, or a lease running a year or more, is ineffective against creditors and later good-faith purchasers who lack notice unless it is filed as the law requires.</p><p>The same section deems a quitclaim grantee a purchaser without notice under the recording acts. It also says a lien from a government or quasi-government body for an improvement, service, fine or penalty binds later purchasers only when recorded, with tax, special assessment and utility liens carved out.</p>"
   },
   {
-   "h2": "What must a deed look like before the clerk will record it?",
-   "html": "<p>Section 695.26 sets form requirements the clerk checks before recording, and a rejected page is a common reason for closing delays.</p><ul><li>Each signer's name printed beneath the signature, with a post-office address.</li><li>The name and address of the person who prepared the instrument.</li><li>Each witness's printed name and address.</li><li>A printed name for any notary or other officer taking the acknowledgment.</li><li>A 3-inch by 3-inch blank space at the top right of page one and a 1-inch by 3-inch space on later pages.</li><li>The name and address of each grantee, for any instrument other than a mortgage.</li></ul><p>The statute exempts wills, plats, court orders, instruments signed by public officers and instruments executed outside Florida from those layout rules, and a clerk's slip does not undo a recording that was made.</p>"
+   "h2": "What formatting does a Florida clerk check before accepting a document?",
+   "html": "<p>Section 695.26 lists layout rules, and a deed that breaks them can be bounced at the counter, which delays a closing.</p><ul><li>Every signer's name typed or printed under the signature, with a mailing address.</li><li>Who prepared the paper, with a mailing address.</li><li>Printed names and addresses for each witness.</li><li>A printed name under any notary's signature.</li><li>Blank margin boxes at the top right: 3 by 3 inches on page one, 1 by 3 inches on later pages.</li><li>Each grantee's name and mailing address, except on a mortgage.</li></ul><p>Wills, plats, court orders, papers signed by public officers, instruments from before July 1, 1991 and those signed outside the state are exempt from these rules. If the clerk takes a nonconforming page anyway, the recording still stands.</p>"
   },
   {
-   "h2": "How many witnesses does a Florida deed need?",
-   "html": "<p>Two. Section 689.01 requires a conveyance of a freehold interest, or of a term longer than one year, to be in writing and signed in the presence of two subscribing witnesses. No seal is needed, and witnessing may be done through audio-video technology.</p><p>These formalities apply to every type of deed, including a quitclaim or a lady bird deed. A document missing a witness can be refused at the clerk's counter or questioned later by a title insurer.</p>"
+   "h2": "Does a Florida deed need witnesses?",
+   "html": "<p>Yes, two. Section 689.01 requires a written conveyance of a freehold or of a term over one year to be signed with two subscribing witnesses present. A seal is not required, and the witnessing can take place by audio-video technology.</p><p>That requirement covers quitclaim and lady bird deeds as well. A missing witness can lead a title insurer to refuse the document later.</p>"
   },
   {
-   "h2": "What does recording cost in Florida?",
-   "html": "<p>Fees come from two places, the clerk's recording charges and documentary stamp tax. Statute s. 28.24(13) sets the clerk's per-page charges, and the Department of Revenue explains the tax.</p><table><caption>Florida clerk recording charges as printed in s. 28.24</caption><thead><tr><th>Charge</th><th>Amount printed</th></tr></thead><tbody><tr><td>First page of an instrument up to 14 by 8.5 inches</td><td>$5.00</td></tr><tr><td>Each additional page</td><td>$4.00</td></tr><tr><td>Each name beyond four</td><td>$1.00</td></tr><tr><td>Public Records Modernization Trust Fund</td><td>$1.00 first page, $0.50 each additional page</td></tr><tr><td>Technology charge</td><td>$4 per page</td></tr><tr><td>Tax deed application processing</td><td>$60.00</td></tr></tbody></table><p>Ask the clerk for the total on your specific document, since page count and the number of names change the result.</p>"
+   "h2": "What are the clerk's per-page fees?",
+   "html": "<p>Two kinds of charge show up on a closing statement: the clerk's page fees and stamp tax. The first group comes from s. 28.24.</p><table><caption>Clerk charges printed in s. 28.24 for instruments up to 14 by 8.5 inches</caption><thead><tr><th>Charge</th><th>Printed amount</th></tr></thead><tbody><tr><td>Page one</td><td>$5.00</td></tr><tr><td>Every added page</td><td>$4.00</td></tr><tr><td>Each name past the fourth</td><td>$1.00</td></tr><tr><td>Records modernization trust fund</td><td>$1.00 page one, $0.50 per added page</td></tr><tr><td>Technology add-on</td><td>$4 per page</td></tr><tr><td>Tax deed application handling</td><td>$60.00</td></tr></tbody></table><p>Page count and the number of names drive the total, so ask the clerk's recording desk for a figure on your actual document.</p>"
   },
   {
-   "h2": "How does documentary stamp tax work on a deed?",
-   "html": "<p>The deed stamp rate under s. 201.02(1)(a) is 70 cents on each $100 of consideration. Consideration includes money, the discharge of an obligation and any mortgage or encumbrance on the property whether or not the buyer assumes it.</p><p>Revenue's page says Miami-Dade County uses 60 cents per $100 plus a surtax of 45 cents per $100, and that the surtax does not apply to a document transferring only a single-family dwelling. Everywhere else the rate is 70 cents per $100 or portion thereof.</p><ul><li>All parties to a document are liable for the tax, whichever party agrees to pay it.</li><li>The clerk collects it at recording; unrecorded taxable documents are paid to the Department of Revenue.</li><li>Warranty, special warranty, quit claim, trustee's and life estate deeds are on the taxable list, along with contracts for deed and deeds in lieu of foreclosure.</li><li>Mortgages and notes carry 35 cents per $100 secured, and tax on a note is capped at $2,450.</li></ul>"
+   "h2": "How is stamp tax figured on a Florida deed?",
+   "html": "<p>Section 201.02(1)(a) puts the deed rate at 70 cents on each $100 of consideration. Consideration covers cash, a released obligation and any mortgage or encumbrance on the land, whether the buyer assumes it or not.</p><p>Miami-Dade follows a different formula on the Revenue page: 60 cents per $100 plus a 45 cents per $100 surtax, and the surtax is not due when the paper moves only a single-family home. Every other county uses 70 cents per $100 or portion thereof.</p><ul><li>Every party to the paper is liable, whoever agrees to pay.</li><li>Unrecorded taxable paper goes to the state revenue agency rather than the clerk.</li><li>Taxable deeds named by Revenue include warranty, special warranty, quit claim, trustee's, life estate, contract for deed, deed in lieu and certificate of title.</li><li>Mortgages and notes bear 35 cents per $100 secured; the note tax stops at $2,450.</li></ul>"
   },
   {
-   "h2": "Which transfers have special record or tax treatment?",
-   "html": "<p>A personal representative's deed under a probated will is listed as not taxable, and a spousal homestead deed where the only consideration is a mortgage is exempt under s. 201.02(7). Divorce deeds for the marital home are exempt on the same basis.</p><p>Revenue states there is no specific exemption for estate-planning transfers. An advisement from 2020 (TAA 20B4-004) concluded that a lady bird deed on the facts presented did not transfer a present beneficial interest and so was not subject to the tax, but it applied to a particular set of facts and is not a general rule.</p><p>A transfer also counts as a change of ownership for Save Our Homes unless an exception applies, so the next January 1 assessment may reset to just value. Ask the property appraiser before deeding a longtime homestead.</p>"
+   "h2": "Which transfers are treated differently?",
+   "html": "<p>Revenue lists a deed from an estate's fiduciary under a probated will as not taxable. A homestead deed between spouses where the only consideration is a mortgage, and a divorce deed for the marital home, are exempt under s. 201.02(7).</p><p>Revenue also says no specific exemption exists for estate-planning transfers. Advisement TAA 20B4-004 (October 2020) found a lady bird deed on its particular facts passed no present beneficial interest, so it escaped the tax, though other facts could change the answer.</p><p>Any transfer of title also counts as a change of ownership for Save Our Homes unless an exception fits, which resets the next January 1 assessment to just value. Check with the property appraiser before deeding a long-held homestead.</p>"
   },
   {
-   "h2": "How do I order or read Florida property records for a sale?",
-   "html": "<p>Start with the clerk's Official Records search for the county, then confirm the parcel on the appraiser's site. Before listing a house, pull the vesting deed, any recorded mortgages and any liens so the seller knows what must be paid at closing.</p><p>Sellers with an inherited or unusual title can ask the clerk what the office will accept for recording before scheduling a closing.</p>"
+   "h2": "Which county offices hold which pieces of the property file?",
+   "html": "<p>A parcel's paper trail is split between three elected offices. The clerk holds recorded instruments and takes deed stamp tax, the property appraiser sets just value each January 1 and rules on exemptions, and the tax collector bills and collects.</p><ul><li>Clerk: deeds, mortgages, liens, tax deed and foreclosure sale paperwork.</li><li>Property appraiser: ownership on the roll, TRIM notice and exemption decisions.</li><li>Tax collector: November bills, delinquency, tax certificates.</li></ul><p>Plat filings carry their own clerk charge in s. 28.24: $30.00 for the first page and $15.00 for each additional page. A surveyor or developer subdividing land should budget for that separately from deed recording.</p>"
+  },
+  {
+   "h2": "What shows up after a foreclosure or tax deed sale?",
+   "html": "<p>Mortgages and liens appear in a title search and need payoff or release before a clean deed can pass. A foreclosure sale ends in a certificate of title, on which tax is figured from the highest and best bid under s. 201.02(9).</p><p>A tax deed buyer owes stamp tax and recording fees within 24 hours of the auction, excluding weekends and holidays. A recorded contract-for-deed vendee is among the parties the tax collector lists for notice before that sale, which shows how recording protects an installment buyer.</p>"
+  },
+  {
+   "h2": "How should a seller review the records before listing?",
+   "html": "<p>Pull the vesting deed, each recorded mortgage and any lien. That tells you what must be paid off at closing and whether the name on title matches the person signing.</p><p>If title came through an estate, a gift or an unusual deed, ask the recording desk what it will accept before you schedule a closing date.</p><p>Also note any government lien for a fine or penalty. Under s. 695.01(3), such a lien is valid against later buyers only if the notice of lien was recorded and shows the owner of record, a description or address and the parcel number, so a recorded notice on your parcel is worth reading line by line before you sign a listing agreement.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Where do I record a deed in Florida?",
-   "a": "Record it with the clerk of the circuit court in the county where the property is located. The clerk also collects documentary stamp tax at recording, so bring the deed in recordable form."
+   "q": "Which office takes deeds for recording in Florida?",
+   "a": "The clerk in the county where the land lies. That office also collects stamp tax on the deed when it is filed, so bring a document that meets the form rules."
   },
   {
-   "q": "How many pages and names affect recording fees?",
-   "a": "Fees run per page and per extra name. Section 28.24(13) prints $5.00 for the first page, $4.00 for each additional page and $1.00 for each name beyond four, plus a trust fund charge and a technology charge. Ask the clerk for the total."
+   "q": "What changes the recording bill?",
+   "a": "Page count and extra names. Section 28.24(13) prints $5.00 for page one, $4.00 for later pages and $1.00 per name beyond four, plus trust fund and technology charges. The clerk can quote the sum."
   },
   {
-   "q": "Is documentary stamp tax the same in every Florida county?",
-   "a": "Almost. The rate is 70 cents per $100 in every county except Miami-Dade, which Revenue lists at 60 cents per $100 plus a 45 cents per $100 surtax that does not apply to a document transferring only a single-family dwelling."
+   "q": "Is the stamp rate identical in all 67 counties?",
+   "a": "Nearly. Miami-Dade is listed at 60 cents per $100 plus a 45 cents surtax that skips single-family transfers, while the rest use 70 cents per $100."
   },
   {
-   "q": "Does an unrecorded deed still count?",
-   "a": "It may bind the parties, but under s. 695.01 it is not effective against creditors or later purchasers for value without notice unless recorded. Documentary stamp tax is also due on deeds whether or not they are recorded."
+   "q": "Is an unfiled deed worthless?",
+   "a": "Not between the signers, but s. 695.01 withholds effect against creditors and later buyers for value without notice. Stamp tax is also owed on deeds recorded or not."
   },
   {
-   "q": "Do the recording rules apply to every document?",
-   "a": "The layout rules in s. 695.26 skip wills, plats, court orders, instruments signed by public officers and instruments executed outside Florida. The clerk may also accept a page where a name or address sits in a different position if the link to the signer is clear."
+   "q": "Do the layout rules reach every instrument?",
+   "a": "No. Wills, plats, court orders, papers signed by public officers and instruments signed outside Florida are exempt, and a clerk may accept a page whose name placement is odd if the signer link is plain."
   }
  ],
  "sources": [
@@ -76,6 +84,14 @@
   {
    "title": "Florida Statutes s. 201.02 Tax on deeds",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
+  },
+  {
+   "title": "Florida Statutes s. 197.502 Tax deed application",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
+  },
+  {
+   "title": "Florida Statutes s. 197.542 Sale at public auction",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html"
   },
   {
    "title": "Florida Department of Revenue documentary stamp tax",

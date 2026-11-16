@@ -26,6 +26,14 @@
    "html": "<p>Recording charges are set by s. 28.24(13), and they are separate from the stamp tax.</p><ul><li>$5.00 for the first page and $4.00 for each additional page, for instruments up to 14 by 8.5 inches.</li><li>$1.00 for each name beyond four.</li><li>A Public Records Modernization Trust Fund charge of $1.00 on the first page and $0.50 on each additional page.</li><li>An additional $4 per page technology charge.</li></ul><p>Your county clerk can confirm the current total for your page count before you submit.</p>"
   },
   {
+   "h2": "What other stamp taxes can appear around a sale?",
+   "html": "<p>Mortgage paperwork is taxed separately from the deed. The Department of Revenue prints 35 cents per $100 of the amount secured for mortgages and notes, with the tax on a note capped at $2,450 and no cap on mortgages.</p><p>A foreclosure produces a certificate of title, and s. 201.02(9) computes its tax on the highest and best bid at the sale. For an ordinary sale between private parties, expect the deed tax to be the main figure, and ask your closing agent whether the buyer's new loan adds its own charges.</p>"
+  },
+  {
+   "h2": "How should a seller prepare a deed before closing?",
+   "html": "<p>Assemble the pieces early, because a clerk can reject an instrument at the counter and the closing then slips.</p><ul><li>Pull the legal description from your vesting deed and copy it character for character.</li><li>Confirm the exact way each grantor's name appears in the record, and use the same spelling.</li><li>Line up two adult witnesses and a notary on the signing day, or ask the title company about remote witnessing.</li><li>Print every name and mailing address where the statute wants it.</li><li>Leave the top right corner of each page clear for the clerk.</li></ul><p>Then confirm with the closing agent what stamp tax will be due and who funds it.</p>"
+  },
+  {
    "h2": "How does a deed affect property taxes after the sale?",
    "html": "<p>A sale, foreclosure or other transfer of title is a change of ownership, and the property goes back to just value on the following January 1. The seller's Save Our Homes cap does not follow the house.</p><p>Exceptions include transfers between spouses and certain transfers at death. A quitclaim to a relative is not an exception just because no money changes hands. Buyers should file for their own homestead exemption with the county property appraiser by March 1, and should look into portability if they held a homestead elsewhere in the state.</p>"
   }
@@ -46,6 +54,10 @@
   {
    "q": "Is a deed valid if the clerk's recording was imperfect?",
    "a": "Generally yes. Section 695.26(4) says a clerk's failure to follow the recording checklist does not impair the recording or its constructive notice. Fix defects anyway, because title companies will flag them."
+  },
+  {
+   "q": "Where is the deed tax paid?",
+   "a": "Pay it to the county clerk when the deed is recorded. If a taxable document is never recorded, the tax goes to the Department of Revenue instead."
   },
   {
    "q": "Is a warranty deed the same as a deed in lieu of foreclosure?",

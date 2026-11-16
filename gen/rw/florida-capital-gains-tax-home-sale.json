@@ -2,54 +2,54 @@
  "slug": "florida-capital-gains-tax-home-sale",
  "sections": [
   {
-   "h2": "How much of a Florida home sale gain can be excluded from tax?",
-   "html": "<p>You can exclude up to $250,000 of gain on the sale of your main home, or up to $500,000 if you file a joint return with your spouse, when you meet the ownership and use tests. That is a federal rule, explained on IRS Topic 701, and it applies to a house in Tampa the same way it applies to one in Tulsa.</p><p>Florida is where the property sits, so the Florida pieces are the deed, the recording and the county records, not a separate state gain calculation. This page covers the federal exclusion first and then the Florida paperwork that goes with the sale.</p>"
+   "h2": "Does a Florida homeowner owe tax on profit from selling a house?",
+   "html": "<p>Possibly, but a federal exclusion wipes out most or all of the profit for many sellers of a main residence. A single filer can shield $250,000 of profit, and a married couple filing together can shield $500,000, as long as two tests are passed. The figure applies to a Florida house exactly as it would to a house anywhere else in the country.</p><p>What Florida adds is local paperwork around the transfer: the deed, the stamp tax collected at recording, and the county's reassessment of the property for the next owner. Those pieces are covered after the federal rules below.</p>"
   },
   {
-   "h2": "What are the ownership and use tests?",
-   "html": "<p>You must have owned the home and lived in it as your residence for at least 24 months, which can be non-consecutive, during the 5 years before the sale date. The IRS says the two tests can be met in different 2-year periods, but both must fall within that same 5-year window.</p><ul><li>Ownership test: you or your spouse owned the home at least 24 months out of the last 5 years.</li><li>Use test: you and your spouse each used it as a residence at least 24 months out of the last 5 years, for a joint return.</li><li>Look-back: generally no exclusion if you excluded gain from another home sale during the two years before this sale.</li></ul><p>For a married couple filing jointly, one spouse can meet the ownership test but both must meet the use test. Publication 523 holds the full eligibility rules, the reduced exclusions and the exceptions to the two-year rule, so open it before you decide a partial year is enough.</p>"
+   "h2": "Which two tests unlock the exclusion?",
+   "html": "<p>You need to pass an ownership test and a use test inside the five years that end on the closing date. Each test asks for 24 months, and the months need not be consecutive. The IRS also says the two tests may be satisfied in different two-year stretches, provided both land in that five-year window.</p><ul><li>Ownership: you or your spouse held title for two years out of the five.</li><li>Use: the house was your residence for two years out of the five, and on a joint return both spouses must pass this one.</li><li>Prior sale: the break is generally unavailable if you claimed it on a different house during the two years before this closing.</li></ul><p>Publication 523, the IRS guide to selling a home, has the worksheets, the partial exclusions for early moves, and the exceptions to the two-year rule. Read it before you assume that eighteen months is enough.</p>"
   },
   {
-   "h2": "What if your gain is larger than the exclusion?",
-   "html": "<p>The part above the exclusion is a capital gain, and the tax rate depends on how long you held the home and on your taxable income. Gain on an asset held more than one year is long-term. Gain on an asset held one year or less is short-term and is taxed as ordinary income at graduated rates, per IRS Topic 409.</p><p>A loss on a personal home is not deductible, per the same IRS topic, so a seller who sells below cost cannot use the loss against other income. Capital losses on investment property are limited to $3,000 a year against other income ($1,500 if married filing separately), with the rest carried forward.</p><p>Your gain is the amount realized from the sale minus your adjusted basis. Basis is generally what you paid, and the IRS says it goes up with the cost of improvements that add to the home's value and goes down with items like depreciation and insurance reimbursements for casualty losses. Keep the closing statement from your purchase and receipts for roofs, additions and similar work, since a clean paper trail makes the gain figure easy to defend if the IRS asks.</p><p>If you inherited the home or received it as a gift, your basis follows different rules, which the IRS points to in Publication 551. A Florida heir who sells a parent's house should check that publication before filing.</p>"
+   "h2": "How is the taxable profit figured when the exclusion falls short?",
+   "html": "<p>Take the price you realize at closing and subtract your adjusted basis. Basis starts with your cost and rises with permanent improvements such as a new roof or an added bedroom. It falls with items like depreciation and insurance payments for casualty losses. Hold on to old closing statements and contractor receipts, because they are your proof.</p><p>Holding period decides the label. Profit on property you held longer than a year is long-term and eligible for the lower rate bands. Anything held a year or less is short-term and is taxed like wages. If the house came to you by inheritance or gift, the IRS sends you to Publication 551 for basis, which matters to a Florida family clearing out a relative's home.</p><p>A loss on a personal residence cannot be deducted. Losses on investment property are different: they offset gains, and up to $3,000 of any excess ($1,500 for married filing separately) reduces other income each year, with the balance carried forward.</p>"
   },
   {
-   "h2": "What are the long-term capital gains rates?",
-   "html": "<p>For taxable years beginning in 2025, the IRS prints rates of 0%, 15% and 20% on most net capital gain, set by taxable income bands. The table below uses the single and married-filing-jointly bands exactly as Topic 409 prints them. Later tax years may carry different thresholds, so check the IRS page for the year you sell.</p><table><caption>Long-term capital gains rate bands printed by the IRS for 2025</caption><thead><tr><th>Rate</th><th>Single</th><th>Married filing jointly</th></tr></thead><tbody><tr><td>0%</td><td>Taxable income up to $48,350</td><td>Taxable income up to $96,700</td></tr><tr><td>15%</td><td>Over $48,350 up to $533,400</td><td>Over $96,700 up to $600,050</td></tr><tr><td>20%</td><td>Above the 15% band</td><td>Above the 15% band</td></tr></tbody></table><p>The IRS also lists a 25% maximum rate on the unrecaptured section 1250 portion of gain from real property, which matters if you took depreciation on a home office or a rental unit. Individuals with significant investment income may owe the net investment income tax, covered on IRS Topic 559.</p>"
+   "h2": "What federal rates apply to profit above the exclusion?",
+   "html": "<p>Most net long-term gain falls into a 0%, 15% or 20% band set by taxable income, and the IRS prints different bands for each filing status. The table copies the bands the IRS shows for tax years starting in 2025. Thresholds move annually, so look at the IRS page for the year of your closing.</p><table><caption>IRS long-term gain bands for tax years beginning in 2025</caption><thead><tr><th>Rate</th><th>Single filer</th><th>Joint return</th></tr></thead><tbody><tr><td>0%</td><td>Income up to $48,350</td><td>Income up to $96,700</td></tr><tr><td>15%</td><td>$48,350 to $533,400</td><td>$96,700 to $600,050</td></tr><tr><td>20%</td><td>Income above the 15% band</td><td>Income above the 15% band</td></tr></tbody></table><p>Two extra items can raise the bill. A 25% ceiling applies to the unrecaptured section 1250 slice of gain, which arises when depreciation was claimed on a home office or rental space. Sellers with large investment income may also face a separate surtax that the IRS describes on Topic 559.</p>"
   },
   {
-   "h2": "Do you have to report a home sale that is fully excluded?",
-   "html": "<p>Yes, if you receive Form 1099-S, Proceeds From Real Estate Transactions, you must report the sale even when the whole gain is excludable. You also report it when you cannot exclude all of the gain. The IRS points filers to Form 8949 and Schedule D of Form 1040 for the reporting.</p><p>The closing agent or title company usually sends the 1099-S. If you expect no form, ask the Florida title agent handling your closing whether one will be issued. A seller who gets a taxable gain may also need to make estimated tax payments, which the IRS explains in Publication 505.</p>"
+   "h2": "Must a fully excluded sale still go on the return?",
+   "html": "<p>It must if the closing agent sends you a Form 1099-S. The IRS says to report the sale in that case even though no tax results. If the gain is larger than your exclusion, report it too, on the Form 8949 and Schedule D pair that the IRS names for this.</p><p>Keep a folder for the sale: the purchase closing statement, improvement receipts, the new settlement statement and any 1099-S. A tax preparer can work from those papers in minutes, and a missing receipt can leave a legitimate improvement out of your basis.</p><p>Title companies in Florida normally prepare the 1099-S from the settlement statement. Ask your closing agent before you sign whether one will be filed in your name. Sellers with a taxable gain may also owe estimated payments during the year, which Publication 505 explains.</p>"
   },
   {
-   "h2": "What special timing rules help military and installment sellers?",
-   "html": "<p>Members of the Uniformed Services, the Foreign Service or the intelligence community on qualified official extended duty can elect to suspend the 5-year test period for up to 10 years. Extended duty means more than 90 days or an indefinite period at a station at least 50 miles from the main home, or living in government housing under orders. Florida has many military households, so this rule can matter to a seller leaving a base area.</p><p>If you sell under a contract that spreads the price over later years, that is an installment sale, and the IRS says to report it under the installment method unless you elect out. The exclusion remains available even when you use the installment method for the rest of the gain. Publication 537 and Form 6252 cover the details.</p>"
+   "h2": "Are there timing rules for military sellers and installment sales?",
+   "html": "<p>Yes. A service member, Foreign Service officer or intelligence community employee on qualified extended duty may elect to freeze the five-year clock for as long as ten years. Extended duty means more than 90 days or an open-ended assignment, at a post 50 or more miles from the home or in government quarters under orders. Many Florida owners near bases and ports fit this description.</p><p>A sale where the buyer pays across later years counts as an installment sale, and the IRS tells sellers to use installment reporting unless they opt out. The home sale exclusion still applies to the part you can exclude. Look at Publication 537 and Form 6252 for the mechanics.</p>"
   },
   {
-   "h2": "What Florida closing steps come with the sale?",
-   "html": "<p>The deed carries Florida documentary stamp tax, set at 70 cents per $100 of consideration in all counties except Miami-Dade, according to the Department of Revenue. Miami-Dade prints 60 cents per $100 plus a surtax that is not due on a document transferring only a single-family dwelling. All parties to the deed are liable even if the contract names one payer.</p><p>The clerk of the circuit court records the deed and collects the tax at recording. Florida buyers also receive a property tax disclosure that says the seller's current taxes should not be relied on as the buyer's future bill, under section 689.261 of the Florida Statutes. A change of ownership resets a homestead property to just value the next January 1, which affects what the buyer owes but not your gain calculation.</p>"
+   "h2": "What Florida deed and reassessment rules touch the sale?",
+   "html": "<p>Florida taxes the deed at seventy cents on each $100 of price in every county except Miami-Dade, where the printed charge is 60 cents plus a surtax. That surtax is skipped for a paper conveying only a single-family dwelling. Every party to the deed is liable, whoever the contract says will pay. The clerk takes payment when the deed goes on record.</p><ul><li>An estate's personal representative who deeds property under a probated will is listed as not taxable.</li><li>A spousal homestead deed whose only consideration is a mortgage is exempt, and so is a divorce deed for the marital home.</li><li>One Department advisement found a lady bird deed outside the stamp tax on the facts it described, so ask a Florida attorney before relying on that.</li></ul><p>For the buyer, the new owner's assessment resets to full just value, ending the old Save Our Homes cap. Florida also hands residential buyers a written tax disclosure, which tells them not to assume your current bill will carry over. A homestead owner who plans to buy again should look at portability, which the Department says requires the new homestead to be established inside a three-year window that is counted from the year the old homestead was abandoned, with Form DR-501T filed alongside the DR-501 by March 1. These steps change the buyer's cost, not your gain.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Does Florida tax capital gains on a home sale?",
-   "a": "The exclusion is a federal rule. The IRS exclusion of $250,000 or $500,000 applies to a Florida main home when you meet the ownership and use tests. Ask the Florida Department of Revenue or a tax professional about any state-level question."
+   "q": "Does the federal exclusion work the same way for a Florida home?",
+   "a": "Yes. The $250,000 and $500,000 limits come from federal tax law and apply to a main home anywhere in the country. Florida does not change the ownership and use tests, though the deed and county records follow Florida procedure."
   },
   {
-   "q": "How long must I live in the house to qualify?",
-   "a": "At least 24 months out of the 5 years before the sale, and you must also have owned it for 24 months in that window. The months do not need to be in a row, and the tests can be met in different 2-year periods within the 5 years."
+   "q": "How many months must I live in the house before selling?",
+   "a": "Twenty-four months of residence and twenty-four months of ownership, both inside the five years ending at closing. The months need not be consecutive, and the two tests may be met in different two-year periods."
   },
   {
-   "q": "Can I use the exclusion twice in a short time?",
-   "a": "Generally not. The IRS says you are usually not eligible if you excluded the gain from the sale of another home during the two years before this sale. Publication 523 lists exceptions."
+   "q": "Can I take the exclusion again soon after another sale?",
+   "a": "Generally not. The IRS says you usually cannot if you excluded profit on another house during the two years before this closing. Publication 523 lists exceptions."
   },
   {
-   "q": "Do I need to report the sale if I owe no tax?",
-   "a": "Yes, if you receive a Form 1099-S. The IRS says you must report the sale even if the gain is excludable. You also report the sale if you cannot exclude the full gain."
+   "q": "I will owe nothing. Do I still tell the IRS?",
+   "a": "If a Form 1099-S arrives, yes. The IRS wants it reported even if every dollar of gain is excludable, and also when part of the gain is taxable."
   },
   {
-   "q": "What counts as my basis in the home?",
-   "a": "Basis is generally your cost, including the purchase price and certain closing costs, plus improvements that add value, less items like depreciation. Inherited or gifted homes follow different rules in IRS Publication 551."
+   "q": "What counts toward my basis?",
+   "a": "Your purchase cost plus lasting improvements, reduced by depreciation and insurance reimbursements for casualty losses. Inherited or gifted homes follow different basis rules in IRS Publication 551."
   }
  ],
  "sources": [
@@ -70,12 +70,12 @@
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
   },
   {
-   "title": "Florida Statutes 689.261",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.261.html"
+   "title": "Florida DOR advisement TAA 20B4-004",
+   "url": "https://floridarevenue.com/TaxLaw/Documents/20B4-004.pdf"
   },
   {
-   "title": "Florida DOR Property Tax Taxpayer Information",
-   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+   "title": "Florida Statutes 689.261",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.261.html"
   },
   {
    "title": "Florida DOR Save Our Homes (pt112)",

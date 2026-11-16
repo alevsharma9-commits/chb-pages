@@ -22,6 +22,10 @@
    "html": "<p>No. The Department of Revenue states that the federal change eliminated Florida's estate tax for people who died after December 31, 2004, and that since July 1, 2023 personal representatives no longer need to file Form DR-312 or DR-313.</p><p>Inheriting a home can still create other costs. The county reassesses at just value after a change of ownership, which can lift a bill that was held down by the Save Our Homes cap.</p>"
   },
   {
+   "h2": "Can unpaid taxes threaten an inherited house while the estate is open?",
+   "html": "<p>They can, because delinquency does not pause for a court case. Florida taxes turn delinquent on April 1, and the tax collector then sells a tax certificate on the unpaid amount. The certificate holder may not demand payment from the owner until 2 years after April 1 of the year the certificate was issued, and a tax deed application can follow after that period.</p><p>A personal representative who expects a long case can ask the tax collector about the early-payment months, which print as 4 percent in November down to 1 percent in February. Paying early keeps the account clear of certificates and keeps the title clean for a later buyer.</p>"
+  },
+  {
    "h2": "How do probate steps affect selling an inherited Florida home?",
    "html": "<p>The sale usually waits for the court to issue authority to the personal representative, who then signs the deed. DOR lists a personal representative's deed under a probated will as not subject to documentary stamp tax, which is a real saving compared with a sale between living owners.</p><table><caption>Probate time limits that touch a house sale</caption><thead><tr><th>Item</th><th>Limit as printed</th><th>Statute</th></tr></thead><tbody><tr><td>Summary administration</td><td>Estate up to $150,000, or death more than 2 years ago</td><td>s. 735.201</td></tr><tr><td>Creditor claim</td><td>Later of 3 months after first publication or 30 days after service</td><td>s. 733.702</td></tr><tr><td>Will, venue or jurisdiction objection</td><td>3 months after service of notice of administration</td><td>s. 733.212</td></tr><tr><td>Outer claim bar</td><td>2 years after death</td><td>s. 733.710</td></tr></tbody></table><p>Heirs who want a fast sale sometimes sell to a cash buyer once authority is in place, which avoids showings and repairs on a house nobody lives in.</p>"
   },
@@ -100,6 +104,10 @@
   {
    "title": "Florida House analysis on county offices",
    "url": "https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF"
+  },
+  {
+   "title": "Florida Statutes s. 197.502 Tax deed application",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
   }
  ]
 }

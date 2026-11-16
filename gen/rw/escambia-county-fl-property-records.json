@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Where do I search Escambia County property records?",
-   "html": "<p>Deeds and other recorded land documents are searched on the Clerk's Landmark Web official records site, and tax and value data are on the Property Appraiser and Tax Collector sites. The Clerk of the Circuit Court and Comptroller keeps the official records, and its Landmark Web page offers searches by name, document, case number, book and page, consideration, record date, clerk file number and legal description.</p><p>The Property Appraiser's site at escpa.org covers parcels in Escambia County, the City of Pensacola and the Town of Century, with values reflecting the 2026 certified roll. The Tax Collector's site lets you search a tax account by name, address or account number. Parcel data on the appraiser's site is not survey quality, so use a surveyor for boundaries.</p>"
+   "html": "<p>Deeds and other recorded land documents are searched on the Clerk's Landmark Web official records site, and tax and value data are on the Property Appraiser and Tax Collector sites. The county's Clerk and Comptroller keeps the official records, and its Landmark Web page offers searches by name, document, case number, book and page, consideration, record date, clerk file number and legal description.</p><p>The Property Appraiser's site at escpa.org covers parcels in Escambia County, the City of Pensacola and the Town of Century, with values reflecting the 2026 certified roll. The Tax Collector's site lets you search a tax account by name, address or account number. Parcel data on the appraiser's site is not survey quality, so use a surveyor for boundaries.</p>"
   },
   {
    "h2": "What older records does the Escambia County Clerk hold?",
@@ -14,8 +14,12 @@
    "html": "<p>The charges come from a statewide schedule, so the clerk in Pensacola charges what clerks elsewhere do. The statute prints $5.00 on page one, $4.00 on each page after, and a $1.00 add-on for names beyond the fourth.</p><table><caption>Clerk recording charges in Florida Statutes s. 28.24(13)</caption><thead><tr><th>Charge</th><th>Amount printed in the statute</th></tr></thead><tbody><tr><td>First page</td><td>$5.00</td></tr><tr><td>Each added page</td><td>$4.00</td></tr><tr><td>Each name beyond four</td><td>$1.00</td></tr><tr><td>Records modernization fund, first page</td><td>$1.00</td></tr><tr><td>Records modernization fund, each added page</td><td>$0.50</td></tr><tr><td>Added technology charge</td><td>$4 per page</td></tr></tbody></table><p>Ask the Clerk for the current total on your document, because page size and name count change the bill. The Clerk collects deed stamp tax at the same counter.</p>"
   },
   {
+   "h2": "What should an Escambia seller check in the records before listing?",
+   "html": "<p>Pull the vesting deed and every recorded document tied to your name before you list. Landmark Web lets you search by name, book and page, record date or legal description, so you can trace how title reached you.</p><ul><li>Confirm the legal description on the last deed matches the tax account on the Property Appraiser's site.</li><li>Look for recorded mortgages, liens or court documents that a payoff must clear.</li><li>Check that each owner's name is spelled the same way on every instrument.</li><li>Note whether the parcel sits inside Pensacola, Century or the unincorporated county, because that changes which non-ad valorem charges appear on the tax bill.</li></ul><p>A title agent will run the same search, so finding a problem early gives you time to fix it before a buyer's deadline.</p>"
+  },
+  {
    "h2": "What documentary stamp tax applies to an Escambia County deed?",
-   "html": "<p>Escambia County uses the standard Florida rate of 70 cents per $100 of consideration. Florida DOR reserves the lower Miami-Dade rate for that county alone.</p><p>Consideration includes cash, a discharged obligation and any mortgage on the property, whether or not the buyer assumes it. Every party to the deed is liable for the tax no matter who agrees to pay, and the clerk collects it at recording. Mortgages and notes carry 35 cents per $100 secured, with a cap of $2,450 on a note and no cap on a mortgage.</p><ul><li>Warranty, special warranty, quit claim, trustee's and life estate deeds are taxable.</li><li>DOR also lists a deed given instead of foreclosure and an agreement for deed as taxable.</li><li>A personal representative's deed under a probated will is listed as not taxable.</li><li>A spousal homestead deed, where the only consideration is a mortgage, and a divorce deed for the marital home are exempt.</li></ul>"
+   "html": "<p>Escambia deeds carry the standard Florida rate, 70 cents on each $100 of price. Florida DOR reserves the lower Miami-Dade rate for that county alone.</p><p>Consideration includes cash, a discharged obligation and any mortgage on the property, whether or not the buyer assumes it. Every party to the deed is liable for the tax no matter who agrees to pay, and the clerk collects it at recording. Mortgages and notes carry 35 cents per $100 secured, with a cap of $2,450 on a note and no cap on a mortgage.</p><ul><li>Warranty, special warranty, quit claim, trustee's and life estate deeds are taxable.</li><li>DOR also lists a deed given instead of foreclosure and an agreement for deed as taxable.</li><li>A personal representative's deed under a probated will is listed as not taxable.</li><li>A spousal homestead deed, where the only consideration is a mortgage, and a divorce deed for the marital home are exempt.</li></ul>"
   },
   {
    "h2": "What does Florida require for a deed to be recordable?",
@@ -37,11 +41,11 @@
  "faqs": [
   {
    "q": "Where are Escambia County deeds recorded?",
-   "a": "With the Clerk of the Circuit Court and Comptroller. You can search recorded documents on the Clerk's Landmark Web site by name, book and page, record date and other fields."
+   "a": "At the county Clerk and Comptroller's office. You can search recorded documents on the Clerk's Landmark Web site by name, book and page, record date and other fields."
   },
   {
    "q": "What is the stamp tax on a deed in Escambia County?",
-   "a": "70 cents per $100 of consideration, the standard Florida rate. All parties to the deed are liable, and the clerk collects it at recording."
+   "a": "70 cents on each $100 of price, the statewide rate. All parties to the deed are liable, and the clerk collects it at recording."
   },
   {
    "q": "How much is the first page recording fee in Florida?",

@@ -27,7 +27,11 @@
   },
   {
    "h2": "Who sets Florida property tax rates?",
-   "html": "<p>Taxing authorities such as counties, school boards, cities and special districts set millage rates at public hearings. They hold tentative budget hearings in September and October and final adoption hearings in October and November. State law also caps growth in a taxing authority's property tax revenue at Florida per capita personal income growth plus new construction, unless a super-majority, unanimous vote or referendum overrides it.</p><p>Look at the TRIM notice mailed in August for proposed millage, then check the tax collector's bill in November for the amounts levied.</p>"
+   "html": "<p>Each taxing authority on your bill sets its millage rate at public hearings. They hold tentative budget hearings in September and October and final adoption hearings in October and November. State law also caps growth in a taxing authority's property tax revenue at Florida per capita personal income growth plus new construction, unless a super-majority, unanimous vote or referendum overrides it.</p><p>Look at the TRIM notice mailed in August for proposed millage, then check the tax collector's bill in November for the amounts levied.</p>"
+  },
+  {
+   "h2": "What does Florida allow for paying in installments or in part?",
+   "html": "<p>An installment prepayment plan requires an application to the tax collector by May 1 of the assessment year (s. 197.222). Partial payments before the delinquency date are at the tax collector's discretion (s. 197.374).</p><p>Ask your county tax collector whether the office offers the plan, which dates apply and what the first payment must be. Counties run their own programs, and the deferral program for homestead owners is separate from installment payment.</p>"
   },
   {
    "h2": "What happens if Florida property taxes go unpaid?",
@@ -35,7 +39,7 @@
   },
   {
    "h2": "How are property taxes handled when a Florida house sells?",
-   "html": "<p>Taxes are normally prorated at closing, and the title company will ask the tax collector for the current balance. Ask the collector for any delinquent amounts or certificates, and ask the property appraiser whether a homestead was removed after the sale.</p><p>Sellers should know the bill the buyer will face may be much higher, because the sale resets the property to just value the next January 1 and the Save Our Homes cap starts over.</p>"
+   "html": "<p>Ask the title company how the year's tax is split between seller and buyer, and ask the tax collector for the current balance, including any delinquent amount or certificate. The property appraiser can tell you whether a homestead exemption stays on the account after the sale.</p><p>The buyer's bill may be much higher than yours, because a sale is a change of ownership that resets the property to just value the next January 1 and starts the Save Our Homes cap over.</p>"
   }
  ],
  "faqs": [
