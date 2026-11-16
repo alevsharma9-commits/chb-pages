@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "What land documents end up in the Forsyth County registry?",
-   "html": "<p>The registry is the county's permanent file of land title papers: deeds, deeds of trust and mortgages, satisfactions, plats, leases, notices of foreclosure and a few other filings.</p><p>The county's recording page also names assumed business names, rights of way, covenant agreements, UCC filings, affidavits, powers of attorney, separation and prenuptial agreements and living wills. Wills, divorces and estates belong to the Clerk of Court, so an heir selling an inherited Forsyth County house files the estate papers there and brings the deed here once authority is in place.</p><p>The volume behind that registry is large. The Census Bureau counts 159,925 households in the county (2020 to 2024), 2,875 building permits issued in 2025 and a median gross rent of $1,098, and each new house or refinance adds paper to the file.</p>"
+   "html": "<p>The registry is the county's permanent file of land title papers: deeds, deeds of trust and mortgages, satisfactions, plats, leases, notices of foreclosure and a few other filings.</p><p>The county's recording page also names assumed business names, rights of way, covenant agreements, UCC filings, affidavits, powers of attorney, separation and prenuptial agreements and living wills. The Clerk of Court keeps wills, divorces and estates. An heir selling an inherited Forsyth County house therefore files estate papers with the clerk first, then brings the deed to this office once authority is in place.</p><p>The volume behind that registry is large. The Census Bureau counts 159,925 households in the county (2020 to 2024), 2,875 building permits issued in 2025 and a median gross rent of $1,098, and each new house or refinance adds paper to the file.</p>"
   },
   {
    "h2": "How does a deed get filed with the Forsyth County office?",
-   "html": "<p>Carry in the signed original, or route it through an approved electronic vendor, during office hours on a business day.</p><ul><li>At the counter: the paper comes back to you once it is recorded.</li><li>By mail: the office wants the precise fee in a business check, cashier's check or money order, written to the Forsyth County Register of Deeds, and a return envelope that is stamped and self-addressed. Do not mail cash.</li><li>Electronic: the sender files a submitter agreement with an authorized e-recording provider and completes a memorandum of understanding. The county lists CSC, EDL, EPN, IGS and Simplifile as vendors, and files must arrive by 4:30 p.m.</li></ul><p>A buyer is protected only once the deed is on the registry. Until then, G.S. 47-18 leaves the transfer open to lien creditors and later purchasers, and the time of registration decides who ranks first. The office only records, and staff cannot draft papers or give legal advice.</p>"
+   "html": "<p>Carry in the signed original, or route it through an approved electronic vendor, during office hours on a business day.</p><ul><li>At the counter: the paper comes back to you once it is recorded.</li><li>By mail: the office wants the precise fee in a business check, cashier's check or money order, written to the Forsyth County Register of Deeds, and a return envelope that is stamped and self-addressed. Do not mail cash.</li><li>Electronic: the sender files a submitter agreement with an authorized e-recording provider and completes a memorandum of understanding. The county lists CSC, EDL, EPN, IGS and Simplifile as vendors, and files must arrive by 4:30 p.m.</li></ul><p>A buyer is protected only once the deed is on the registry. Until then, G.S. 47-18 leaves the transfer exposed to lien creditors and later purchasers, and the registration time decides who ranks first. The office only records, and staff cannot draft papers or give legal advice.</p>"
   },
   {
    "h2": "What does the Forsyth County office charge to record?",
@@ -15,7 +15,7 @@
   },
   {
    "h2": "Who owes the excise tax when a Forsyth County deed is filed?",
-   "html": "<p>The seller, called the transferor in the statute, hands over the excise tax before the deed is recorded.</p><p>Under G.S. 105-228.30 the charge is a dollar for every $500 of price or value, rounding any partial $500 up. The county general fund keeps one half. The state half is sent each month to the Department of Revenue, and the county may retain 2 percent of it. Land lying in two counties is taxed where the larger value sits.</p><p>Annual property tax is a separate matter. The county tax FAQ bills it to the January 1 owner and suggests clearing it at closing, so a settlement statement can show both items.</p>"
+   "html": "<p>The seller, called the transferor in the statute, hands over the excise tax before the deed is recorded.</p><p>The charge in G.S. 105-228.30 is one dollar per $500 block of price or value, and a partial block is rounded up. The county general fund keeps one half. The state half is sent each month to the Department of Revenue, and the county may retain 2 percent of it. Land lying in two counties is taxed where the larger value sits.</p><p>Annual property tax is a separate matter. The county tax FAQ bills it to the January 1 owner and suggests clearing it at closing, so a settlement statement can show both items.</p>"
   },
   {
    "h2": "What layout rules does a Forsyth County filing have to follow?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "Who covers the excise tax on a Forsyth County sale?",
-   "a": "The seller pays it to the register of deeds first. The rate is a dollar for each $500 of value, with a partial $500 rounded up."
+   "a": "The seller pays it to the register of deeds first. The rate is one dollar per $500 block of value, and a partial block is rounded up."
   },
   {
    "q": "Can staff at the Forsyth County registry help draft my deed?",
