@@ -1,71 +1,101 @@
 {
-  "slug": "macon-county-il-property-tax-guide",
-  "sections": [
-    {
-      "h2": "What is Macon County, Illinois, and who bills its property tax?",
-      "html": "<p>Macon County is the Decatur area of central Illinois, formed in 1829 and named for Nathaniel Macon. Decatur is the county seat and largest city, and Macon and Maroa are the other cities. The county covers about 581 square miles of flat glacial plain and calls itself the Heart of Illinois. Neighbors are De Witt, Piatt, Moultrie, Shelby, Christian, Sangamon and Logan counties. The family of Abraham Lincoln moved to the county in 1830.</p>\n<p>The County Treasurer collects about 55,000 tax bills a year for schools, libraries, parks, municipalities and the county. The office is in the Macon County Office Building at 141 South Main Street, Room 302, Decatur, and its phone is 217-424-1426. Hours are 8:30 a.m. to 4:30 p.m. on weekdays, excluding legal holidays. Bills can be paid online at maconcountyil.us, and the payment site's help line is 844-400-8880.</p>"
-    },
-    {
-      "h2": "What do Census figures say about Macon County housing?",
-      "html": "<p>Macon County is losing population: the Census Bureau estimates 99,300 residents for July 1, 2025, down 4.5% from the April 2020 base. In the 2020 count, 83.0% of residents lived in urban areas.</p>\n<table>\n<caption>Macon County housing and income figures, Census QuickFacts</caption>\n<thead><tr><th>Measure</th><th>Macon County</th></tr></thead>\n<tbody>\n<tr><td>Households, 2020-2024</td><td>43,468</td></tr>\n<tr><td>Housing units, July 1, 2025</td><td>49,587</td></tr>\n<tr><td>Owner-occupied housing rate, 2020-2024</td><td>70.2%</td></tr>\n<tr><td>Median owner-occupied home value, 2020-2024</td><td>$127,300</td></tr>\n<tr><td>Median gross rent, 2020-2024</td><td>$847</td></tr>\n<tr><td>Median household income, 2020-2024</td><td>$62,666</td></tr>\n<tr><td>Persons in poverty</td><td>16.7%</td></tr>\n<tr><td>Mean commute, minutes, 2020-2024</td><td>19.4</td></tr>\n<tr><td>Building permits, 2025</td><td>38</td></tr>\n</tbody>\n</table>\n<p>Only 38 building permits were issued in 2025. Winters average a January low near 17 degrees and summers a July high near 88, so heating, roofing and drainage are fair questions to ask of any older house.</p>"
-    },
-    {
-      "h2": "How does Macon County assess a home?",
-      "html": "<p>The Supervisor of Assessments helps the township assessors, administers exemptions, keeps the cadastral maps and property record cards, applies equalization factors, sends assessment notices, publishes assessments in local newspapers and serves as clerk of the Board of Review. The office is at 141 South Main Street, Room 401, phone 217-424-1364, open 8:30 a.m. to 4:30 p.m. on weekdays.</p>\n<p>Illinois sets the target at 33 1/3% of market value outside Cook County. You can find your assessment on the county website, on a mailed notice when the property changed or the township is in its general reassessment year, in the newspaper publication, on your tax bill, or by calling the office. Property record cards can be printed by address and PIN at $.35 a page. Real estate transfer declarations are also available to view in the office for appeals that rely on sales.</p>\n<p>Your bill equals assessed value minus exemptions, times the rates of each district serving the parcel. A house a block away can have a different set of districts, so comparing bills with a neighbor can mislead.</p>"
-    },
-    {
-      "h2": "What is the deadline to appeal a Macon County assessment?",
-      "html": "<p>An appeal to affect the current assessment year must be filed on or before 30 calendar days after the date of publication. Each township has its own publication date. The county's 2026 notice gives October 10, 2026 as the publication date for the 2026 assessments and November 9, 2026 as the deadline to file with the Board of Review, so that window has closed. The county's FAQ warns that by state statute an appeal cannot be accepted after the deadline.</p>\n<p>The Board of Review has three members appointed by the County Board. It hears 800 to 1,000 appeals in a tax year and generally finishes hearings by the end of February. The county's FAQ lists the evidence that carries weight:</p>\n<ul>\n<li>A market analysis from a licensed realtor</li>\n<li>A certified appraisal</li>\n<li>A comparable sheet</li>\n<li>A closing or settlement statement</li>\n<li>Pictures</li>\n</ul>\n<p>You choose between an equity argument, which compares assessments of comparable nearby homes, and a market value argument, which needs recent sales. The Board will tell you it has no jurisdiction over your tax bill, so a hearing that only says taxes are too high goes nowhere.</p>"
-    },
-    {
-      "h2": "What happens after a Macon County Board of Review decision?",
-      "html": "<p>The Board comes into session June 1 of the year, and all communications are by mail, so put the correct mailing address on the complaint form. You can receive one of three replies: agreement with your evidence, a tentative value with 10 days to ask in writing for a hearing, or a hearing notice. A hearing can be rescheduled only once.</p>\n<p>A final notice usually goes out in January. From the postmark date on that notice you have 30 days to file with the Illinois Property Tax Appeal Board, where the case starts fresh and new evidence is allowed. After that, the next step is a court action, and the county suggests contacting an attorney. The Board also acts on property omitted from the assessment roll and must notify the owner first.</p>"
-    },
-    {
-      "h2": "When are Macon County tax bills due and what is the penalty?",
-      "html": "<p>Bills are mailed in May. The first installment is due 30 days after the bill is mailed, and the second is due September 1, moving to the next working day if that date falls on a weekend or Labor Day. Illinois taxes are billed and collected a year behind, so the bill you pay in a given calendar year is for the prior tax year. You receive one bill a year with two coupons, and no separate bill is mailed for the second installment.</p>\n<p>The Treasurer's page says Illinois statutes require a penalty of 1 1/2% per month or part of a month on payments made after the due date, and that even a payment one day late takes the penalty. Call the office for the exact figure. A bill that fails to arrive does not remove the obligation. Many owners pay from a mortgage escrow, so confirm with your servicer whether it will pay, to avoid a duplicate payment or none at all.</p>\n<p>Mobile home tax is billed differently. Bills are mailed in April, the tax is due in one installment within 60 days, and after that a penalty of $25 per month or part of a month applies, up to $100. A $10 tax certification is required before a mobile home is sold or moved.</p>"
-    },
-    {
-      "h2": "How does the Macon County tax sale work?",
-      "html": "<p>After the second installment payments are posted, a delinquent notice goes by certified mail to the billing address, with $10 added to cover mailing and newspaper publication. The Treasurer also publishes the owner's name, parcel number and amount due in a county newspaper. Unpaid taxes are then offered at the annual tax sale, where tax buyers bid an interest percentage beginning at 9% and bidding downward. The buyer bidding the lowest interest wins a certificate. The buyer purchases the tax, not the house.</p>\n<p>The Treasurer's page describes at least 30 and not more than 36 months to redeem for an owner-occupied property, with redemption made at the County Clerk's office. The redemption amount includes the tax sold, penalty, publication cost, sale costs, any costs the buyer incurred and interest, bid up to 9% and compounded every six months. State law, at 35 ILCS 200/21-350, generally gives 3 years from the sale, with exceptions, so ask the Clerk for the exact deadline stated on your certificate.</p>"
-    },
-    {
-      "h2": "Which exemptions can a Macon County owner claim?",
-      "html": "<p>State law sets the homestead amounts, and Macon County is not next to a county of 3,000,000 or more people, so the lower figures apply. The general homestead exemption is up to $6,000 off equalized assessed value (35 ILCS 200/15-175), and the senior citizens exemption is up to $5,000 for owners 65 or older who occupy the home (35 ILCS 200/15-170). Applications and questions go to the Supervisor of Assessments.</p>\n<p>The Treasurer's office also administers the Senior Citizens' Real Estate Tax Deferral Program. Separately, the Supervisor of Assessments takes applications for the affordable housing program under 35 ILCS 200/10-260, with a filing deadline of September 1 of each assessment year.</p>\n<p>When you buy or sell, check with the title company on who owes the tax. New owners should file a change of address form with the Treasurer by March 15, because the deed's address reaches that office only after a lag.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Where do I pay property tax in Macon County?",
-      "a": "Pay online at maconcountyil.us or at the Treasurer's office, 141 South Main Street, Room 302, Decatur. Call 217-424-1426 with bill questions, or the payment site help line at 844-400-8880 for technical trouble."
-    },
-    {
-      "q": "When did the 2026 Macon County appeal window close?",
-      "a": "It closed November 9, 2026. The county announced October 10, 2026 as the 2026 publication date, and the Board of Review rule allows 30 calendar days from publication."
-    },
-    {
-      "q": "Does Macon County mail a separate bill for the second installment?",
-      "a": "No. You get a single bill each year with two tear-off coupons, and the second installment is due September 1, or the next working day when that date falls on a weekend or Labor Day."
-    },
-    {
-      "q": "Does a tax sale mean I lose my Macon County house?",
-      "a": "Not at the sale itself. Tax buyers purchase the unpaid tax, and the owner may redeem by paying the redemption amount at the County Clerk's office."
-    },
-    {
-      "q": "What does it cost to certify mobile home taxes in Macon County?",
-      "a": "The Treasurer charges a $10 fee for tax certification, by cash or check only. Taxes must be paid to date, the original title must be presented, and the office needs the seller's and buyer's names and addresses."
-    }
-  ],
-  "sources": [
-    {"title": "Macon County Treasurer", "url": "https://maconcounty.illinois.gov/departments/treasurer"},
-    {"title": "Macon County Board of Review", "url": "https://maconcounty.illinois.gov/departments/board-of-review"},
-    {"title": "Macon County Supervisor of Assessments", "url": "https://maconcounty.illinois.gov/departments/supervisor-of-assessments"},
-    {"title": "Macon County 2026 Publication notice", "url": "https://maconcounty.illinois.gov/announcements/2026-publication"},
-    {"title": "Macon County Property Tax Information", "url": "https://maconcounty.illinois.gov/property-tax-info"},
-    {"title": "Census QuickFacts Macon County", "url": "https://www.census.gov/quickfacts/fact/table/maconcountyillinois/PST045224"},
-    {"title": "Wikipedia Macon County, Illinois", "url": "https://en.wikipedia.org/wiki/Macon_County,_Illinois"},
-    {"title": "35 ILCS 200/15-175", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-175"},
-    {"title": "35 ILCS 200/15-170", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"},
-    {"title": "35 ILCS 200/21-350", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K21-350"}
-  ]
+ "slug": "macon-county-il-property-tax-guide",
+ "sections": [
+  {
+   "h2": "What is Macon County, Illinois, and where do you pay its tax?",
+   "html": "<p>Macon County is the Decatur area of central Illinois. It was formed January 19, 1829 from Shelby County and named for Nathaniel Macon. Decatur is the seat and the biggest city, with Macon and Maroa as the other two cities. The land is flat, left that way by the Pleistocene ice sheet, and the county likes to be called the Heart of Illinois. Its neighbors are De Witt, Piatt, Moultrie, Shelby, Christian, Sangamon and Logan counties, and the Lincoln family arrived in 1830.</p>\n<p>The Treasurer mails roughly 55,000 bills a year, money that funds schools, libraries, parks, cities and the county. The office sits in the Macon County Office Building, 141 South Main Street, Room 302, Decatur, phone 217-424-1426, open 8:30 to 4:30 on weekdays except legal holidays. Online payment runs through maconcountyil.us, and the site's help desk can be reached at 844-400-8880.</p>"
+  },
+  {
+   "h2": "What does the Census say about homes in Macon County?",
+   "html": "<p>The population estimate for July 1, 2025 is 99,300, which is 4.5% under the April 2020 base, and 83.0% of residents lived in urban areas at the 2020 count. The county makes up the Decatur metropolitan area.</p>\n<table>\n<caption>Macon County housing, income and commuting figures from Census QuickFacts</caption>\n<thead><tr><th>Item</th><th>Value</th></tr></thead>\n<tbody>\n<tr><td>Households (2020-2024 survey)</td><td>43,468</td></tr>\n<tr><td>Housing units, July 2025</td><td>49,587</td></tr>\n<tr><td>Homes occupied by their owners</td><td>70.2%</td></tr>\n<tr><td>Home value at the owner midpoint</td><td>$127,300</td></tr>\n<tr><td>Rent at the midpoint</td><td>$847</td></tr>\n<tr><td>Household income at the midpoint</td><td>$62,666</td></tr>\n<tr><td>Share below the poverty line</td><td>16.7%</td></tr>\n<tr><td>Average trip to work</td><td>19.4 minutes</td></tr>\n<tr><td>Building permits, 2025</td><td>38</td></tr>\n</tbody>\n</table>\n<p>Decatur's January lows average near 17 degrees and July highs near 88, so heating, roofing and drainage are fair questions for any older house.</p>"
+  },
+  {
+   "h2": "Who sets value in Macon County, and how can you look it up?",
+   "html": "<p>The Supervisor of Assessments, at 141 South Main Street, Room 401 (217-424-1364, open 8:30 to 4:30 on weekdays), supports the township assessors, runs exemptions, maintains the parcel maps and record cards, applies equalization factors and publishes assessments in local papers. The same office is clerk to the Board of Review.</p>\n<p>Outside Cook County, Illinois aims for 33 1/3% of market value. To see your number, use the county website, a mailed notice if the parcel changed or the township is in its general year, the newspaper publication, your tax bill, or a phone call. Property record cards print for $.35 a page by address or PIN, and sales transfer declarations are open for viewing at the office, handy if your appeal rests on comparable sales.</p>\n<p>The final bill equals assessed value less exemptions, times the rates of every district serving the parcel. A house one block over can sit in a different mix of districts, so a neighbor's bill is a weak yardstick.</p>"
+  },
+  {
+   "h2": "When did the 2026 Macon County appeal period end?",
+   "html": "<p>The county's 2026 notice names October 10, 2026 as the publication date for 2026 assessments and November 9, 2026 as the last day to file with the Board of Review. That window is over. The standing rule is 30 calendar days after publication, townships have separate publication dates, and the county's FAQ says state statute bars any appeal after the deadline.</p>\n<p>The Board has three members, appointed by the County Board. It hears between 800 and 1,000 appeals in a tax year and usually wraps up hearings by the end of February. The county's FAQ names the evidence that helps:</p>\n<ul>\n<li>A realtor's market analysis</li>\n<li>A certified appraisal</li>\n<li>A grid of comparable properties</li>\n<li>The closing statement from a purchase</li>\n<li>Photos</li>\n</ul>\n<p>You argue either equity, comparing assessments on similar nearby homes, or market value, which requires recent sales. The Board has no say over the tax bill, so a hearing built only on high taxes goes nowhere.</p>"
+  },
+  {
+   "h2": "What comes after a Macon County Board of Review ruling?",
+   "html": "<p>The Board is in session from June 1 and writes by mail only, so double-check the mailing address on your complaint. Replies come in three forms: the Board accepts your numbers, it sends its own tentative value and gives you 10 days to request a hearing in writing, or it sets a hearing date that can be moved once.</p>\n<p>A final notice generally arrives in January. You then have 30 days from its postmark to go to the Illinois Property Tax Appeal Board, where the case starts over and fresh evidence is welcome. Beyond that lies court, and the county advises consulting an attorney. The Board also acts on property left off the roll, and must notify the owner first.</p>"
+  },
+  {
+   "h2": "What are Macon County's installment dates and late penalty?",
+   "html": "<p>Bills go out in May. Installment one falls due 30 days after the mailing date. Installment two is September 1, shifting to the next working day when that lands on a weekend or on Labor Day. The county bills a year behind, so what you pay in one calendar year covers the previous tax year. Expect a single bill with two tear-off coupons, never a second mailing.</p>\n<p>The Treasurer's page says state statute demands a penalty of 1 1/2% for every month or fraction after the due date, even if a payment is a single day late, and tells owners to call for the exact amount. A bill that never shows up does not erase the debt. If a mortgage servicer pays from escrow, check with it to avoid paying twice or not at all.</p>\n<p>Mobile homes follow another schedule. Bills are mailed in April, the full tax is due within 60 days, and afterwards $25 a month or fraction accrues up to $100. Selling or moving a mobile home requires a $10 tax certification.</p>"
+  },
+  {
+   "h2": "How does a Macon County tax sale unfold?",
+   "html": "<p>Once second-installment posting is complete, a certified delinquent notice goes to the billing address, with $10 added for mailing and newspaper publication. The Treasurer also prints the owner's name, parcel number and amount due in a county paper. Unpaid tax then goes to the annual sale, where tax buyers bid interest downward from 9%, and the lowest bidder gets the certificate. What is purchased is the tax, never the house.</p>\n<p>The Treasurer's page puts redemption for an owner-occupied home at no less than 30 and no more than 36 months, paid at the County Clerk's office. The payoff covers the tax sold, penalty, publication, sale costs, the buyer's other costs and interest bid up to 9% compounded every six months. The statute generally allows 3 years from the sale, with exceptions (35 ILCS 200/21-350), so ask the Clerk for the date that governs your certificate.</p>"
+  },
+  {
+   "h2": "Which breaks can a Macon County owner use, and what changes at a sale?",
+   "html": "<p>Macon County does not border a county with 3,000,000 or more people, so the lower statutory homestead amounts apply. The general homestead exemption is up to $6,000 off equalized assessed value (35 ILCS 200/15-175), and the senior exemption is up to $5,000 for an owner 65 or older who lives in the home (35 ILCS 200/15-170). The Supervisor of Assessments handles the paperwork.</p>\n<p>The Treasurer runs the Senior Citizens' Real Estate Tax Deferral Program. The Supervisor of Assessments separately accepts affordable housing applications under 35 ILCS 200/10-260 by September 1 of the assessment year.</p>\n<p>At a sale, let the title company settle who owes which installment. A new owner should send the Treasurer a change of address form by March 15, since the address on a recorded deed reaches that office only after a delay.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where can I pay a Macon County tax bill?",
+   "a": "Online at maconcountyil.us or at the Treasurer's counter, 141 South Main Street, Room 302, Decatur. For bill questions call 217-424-1426, and for payment site trouble call 844-400-8880."
+  },
+  {
+   "q": "Is the 2026 Macon County appeal period still open?",
+   "a": "No. It ended November 9, 2026. The county gave October 10, 2026 as the 2026 publication date, and the rule allows 30 calendar days from publication."
+  },
+  {
+   "q": "Does Macon County send a second bill for the later installment?",
+   "a": "No. Owners get one bill a year with two coupons, and the second installment is due September 1, or the next working day when that falls on a weekend or Labor Day."
+  },
+  {
+   "q": "Do I lose my Macon County house at the tax sale?",
+   "a": "Not at the sale. Tax buyers purchase the unpaid tax, and the owner can redeem by paying the redemption amount at the County Clerk's office."
+  },
+  {
+   "q": "What is the fee for mobile home tax certification in Macon County?",
+   "a": "$10, payable by cash or check only. Taxes must be paid to date, the original title must be shown, and the Treasurer needs the names and addresses of seller and buyer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Macon County Treasurer",
+   "url": "https://maconcounty.illinois.gov/departments/treasurer"
+  },
+  {
+   "title": "Macon County Board of Review",
+   "url": "https://maconcounty.illinois.gov/departments/board-of-review"
+  },
+  {
+   "title": "Macon County Supervisor of Assessments",
+   "url": "https://maconcounty.illinois.gov/departments/supervisor-of-assessments"
+  },
+  {
+   "title": "Macon County 2026 Publication notice",
+   "url": "https://maconcounty.illinois.gov/announcements/2026-publication"
+  },
+  {
+   "title": "Macon County Property Tax Information",
+   "url": "https://maconcounty.illinois.gov/property-tax-info"
+  },
+  {
+   "title": "Census QuickFacts Macon County",
+   "url": "https://www.census.gov/quickfacts/fact/table/maconcountyillinois/PST045224"
+  },
+  {
+   "title": "Wikipedia Macon County, Illinois",
+   "url": "https://en.wikipedia.org/wiki/Macon_County,_Illinois"
+  },
+  {
+   "title": "35 ILCS 200/15-175",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-175"
+  },
+  {
+   "title": "35 ILCS 200/15-170",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"
+  },
+  {
+   "title": "35 ILCS 200/21-350",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K21-350"
+  }
+ ]
 }
