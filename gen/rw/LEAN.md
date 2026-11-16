@@ -42,7 +42,7 @@ Run: python3 /home/claude/chb-pages/gen/rw/overlap.py <slug> <slug> ... (your 4 
 
 ## Research tools (this session, in order)
 1. WebSearch to find pages (small per-turn budget).
-2. mcp__TinyFish_crawl__fetch_content to open pages (it opens .gov, statutes, Census and Wikipedia; WebFetch and the Playwright browser fail here). Load with ToolSearch "select:mcp__TinyFish_crawl__fetch_content,mcp__TinyFish_crawl__search". It bills the owner per page: about 6 to 10 reads per page you write, batch several URLs per call when the tool allows, never re-read a page you already have.
+2. mcp__TinyFish__fetch_content to open pages (it opens .gov, statutes, Census and Wikipedia; WebFetch and the Playwright browser fail here). Load with ToolSearch "select:mcp__TinyFish__fetch_content,mcp__TinyFish__search". It bills the owner per page: about 6 to 10 reads per page you write, batch several URLs per call when the tool allows, never re-read a page you already have.
 3. mcp__HasData__hasdata_web_scraping_web_scraping_scrapeWebPage (datacenter proxy, jsRendering false, markdown) for non-government pages only.
 Never use Firecrawl, curl, Bash or proxies to fetch. Never get past a captcha or bot check. Do not run git commands.
 
