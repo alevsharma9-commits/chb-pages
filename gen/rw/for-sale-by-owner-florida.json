@@ -1,0 +1,89 @@
+{
+ "slug": "for-sale-by-owner-florida",
+ "sections": [
+  {
+   "h2": "Can I sell my house without an agent in Florida?",
+   "html": "<p>Yes. Florida law places no licensing requirement on an owner who sells their own home, but several written disclosures and recording rules still apply to the seller.</p><p>The paperwork falls into three groups: what the buyer must be handed before the contract is signed, what the deed must look like, and what the tax and county offices need afterward. The sections below take those in order.</p>"
+  },
+  {
+   "h2": "What disclosures must a Florida FOR sale by owner seller give?",
+   "html": "<p>Two statutory forms apply to residential sales: a property tax disclosure summary and a flood disclosure. Both must reach the buyer at or before the contract is executed.</p><table><caption>Written items a Florida seller hands the buyer</caption><thead><tr><th>Item</th><th>Statute</th><th>What it covers</th></tr></thead><tbody><tr><td>Property tax disclosure summary</td><td>s. 689.261</td><td>Warns the buyer not to assume the seller's tax bill carries over, since a change of ownership or improvements can trigger reassessment</td></tr><tr><td>Flood disclosure</td><td>s. 689.302</td><td>Seller's knowledge of past flooding, any flood insurance claim, and any flood assistance received</td></tr></tbody></table><p>If the tax summary is not built into the contract, it must be attached, and the contract must refer to it and tell the buyer not to sign until it is read.</p>"
+  },
+  {
+   "h2": "What does the flood disclosure ask?",
+   "html": "<p>It opens with a notice that homeowners' policies do not cover flood damage and that the buyer should discuss separate flood coverage with an insurance agent.</p><ul><li>Whether the seller knows of flooding that damaged the property during the seller's ownership.</li><li>Whether the seller filed a flood damage claim, including with the National Flood Insurance Program.</li><li>Whether the seller received help for flood damage, including from FEMA.</li></ul><p>The statute defines flooding as inundation from overflowing inland or tidal water, rapid runoff from an established water source such as a ditch, or sustained standing water after rainfall. Answer from your own records and do not guess.</p>"
+  },
+  {
+   "h2": "How do listing rules about property taxes change in 2027?",
+   "html": "<p>Starting February 1, 2027, listing platforms must show an estimated tax figure, and the current owner's tax amount may not appear in printed listing materials.</p><p>Section 689.261(3) says the estimate must be built from the listing price at current millage rates, or from the countywide average rate, using data the Department of Revenue publishes. The statute adds that no one is liable for an inaccurate estimate. For a seller advertising a house, this means flyers should leave out your own tax amount, and online listings will lean on the estimator instead.</p>"
+  },
+  {
+   "h2": "What goes into the deed and closing paperwork?",
+   "html": "<p>The deed is a written instrument signed before two subscribing witnesses, as s. 689.01 describes, and recording under s. 695.26 needs printed names, addresses and blank margin space for the clerk.</p><ul><li>A warranty deed or another deed type that matches what you promise the buyer.</li><li>Printed names and post-office addresses for signers, witnesses and the preparer.</li><li>Payment of documentary stamp tax at recording, at 70 cents per $100 of consideration in every county except Miami-Dade.</li><li>Clerk recording charges that depend on page count.</li></ul><p>Consideration includes any mortgage or encumbrance on the property. The state holds all parties liable for the tax, so spell out in the contract who pays it. A title company or attorney can run the closing if you prefer not to handle a deed alone.</p>"
+  },
+  {
+   "h2": "What happens to the tax bill and the exemption when I sell?",
+   "html": "<p>The county tax collector bills the owner of record, so the closing statement is where the year's tax is split between buyer and seller.</p><p>The property appraiser sets value each January 1, tax bills go out in November, and the state prints early-payment discounts of 4 percent in November, 3 in December, 2 in January and 1 in February. Unpaid taxes turn delinquent April 1. A sale resets the property to just value the next January 1, so the buyer's bill can differ sharply from yours. The buyer must file for a homestead exemption by March 1. Tell the appraiser the home was sold, and cancel your exemption on it if it is not changed automatically.</p>"
+  },
+  {
+   "h2": "Are there other risks that FSBO sellers overlook?",
+   "html": "<p>Three come up often: lender liens, county tax liens and occupants.</p><ul><li>Unpaid taxes can eventually lead to a tax certificate sale and then a tax deed, so confirm the current bill is paid or will be at closing.</li><li>Renters or relatives living in the home need proper notice before closing. A month-to-month tenancy ends with at least 30 days' notice, per s. 83.57.</li><li>A buyer's lender will want clear title, so order a title search early.</li></ul>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a lawyer to sell my Florida home myself?",
+   "a": "No statute requires one, but a Florida attorney or title company can prepare the deed, check title and handle recording. Many sellers hire one for the closing even when they find their own buyer."
+  },
+  {
+   "q": "Must a FSBO seller give a property tax disclosure?",
+   "a": "Yes. Section 689.261 requires the buyer to receive the summary at or before signing the contract. It can be part of the contract or a separate attachment."
+  },
+  {
+   "q": "Is the flood disclosure required even if my house never flooded?",
+   "a": "Yes, the form still goes to the buyer, and you mark that you have no knowledge of flooding, no claim and no assistance. It is due at or before contract signing under s. 689.302."
+  },
+  {
+   "q": "Who pays documentary stamp tax in a private sale?",
+   "a": "The contract decides who pays, but the Department of Revenue holds every party to the deed liable. The tax is 70 cents per $100 of consideration outside Miami-Dade, collected by the clerk at recording."
+  },
+  {
+   "q": "Can I advertise my current property tax amount?",
+   "a": "Printed listing materials may not include the current owner's tax amount beginning February 1, 2027, and online platforms follow estimator rules. Ask the county property appraiser for official estimates."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Fla. Stat. 689.261, property tax disclosure",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.261.html"
+  },
+  {
+   "title": "Fla. Stat. 689.302, flood disclosure",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.302.html"
+  },
+  {
+   "title": "Fla. Stat. 689.01, conveyances",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html"
+  },
+  {
+   "title": "Fla. Stat. 695.26, recording requirements",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0695/Sections/0695.26.html"
+  },
+  {
+   "title": "Florida Department of Revenue, documentary stamp tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue, property tax calendar",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  },
+  {
+   "title": "Fla. Stat. 83.57, termination of tenancy",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
+  },
+  {
+   "title": "Fla. Stat. 197.502, tax deed applications",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
+  }
+ ]
+}

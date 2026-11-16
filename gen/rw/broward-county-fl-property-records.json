@@ -17,12 +17,12 @@
    "html": "<p>Florida sets the clerk charges by statute, and the table shows the lines in s. 28.24(13). Confirm the total with the Broward recording office, since other charges can be added.</p><table><caption>Statutory recording lines, Florida s. 28.24(13)</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>First page (up to 14 by 8.5 inches)</td><td>$5.00</td></tr><tr><td>Each added page</td><td>$4.00</td></tr><tr><td>Each name past four</td><td>$1.00</td></tr><tr><td>Modernization trust fund, first page</td><td>$1.00</td></tr><tr><td>Modernization trust fund, added pages</td><td>$0.50</td></tr><tr><td>Technology charge per page</td><td>$4</td></tr></tbody></table>"
   },
   {
-   "h2": "What is the documentary stamp tax on a Broward deed?",
-   "html": "<p>Broward uses the standard state rate of a rate of $0.70 for every $100 of the price and debt transferred. Miami-Dade next door has its own rates, and Broward does not share them.</p><p>Mortgages on the property count as consideration even if the buyer does not assume them. All parties to the deed owe the tax, no matter who agrees to pay it in the contract. Deeds are taxable whether or not they are recorded.</p><ul><li>Taxable examples: warranty, special warranty, quit claim and trustee's deeds, deeds in lieu of foreclosure and certificates of title.</li><li>Exempt examples: spousal homestead deeds where a mortgage is the only consideration, and divorce deeds for the marital home.</li><li>Lady bird deeds: a 2020 Department of Revenue advisement found one not subject to the tax on the facts presented, because no present beneficial interest passed.</li></ul>"
+   "h2": "What stamp tax does a Broward deed carry?",
+   "html": "<p>Broward uses the standard state rate of a rate of $0.70 for every $100 of the price and debt transferred. Miami-Dade next door has its own rates, and Broward does not share them.</p><p>Mortgages on the property count as consideration even if the buyer does not assume them. Each party is liable, whatever the contract says about who pays. An unrecorded deed is taxable too.</p><ul><li>Taxable examples: warranty, special warranty, quit claim and trustee's deeds, deeds in lieu of foreclosure and certificates of title.</li><li>Exempt examples: spousal homestead deeds where a mortgage is the only consideration, and divorce deeds for the marital home.</li><li>Lady bird deeds: a 2020 Department of Revenue advisement found one not subject to the tax on the facts presented, because no present beneficial interest passed.</li></ul>"
   },
   {
    "h2": "How can I protect a Broward owner from deed fraud?",
-   "html": "<p>The Broward County Property Appraiser runs a free Owner Alert service. It notifies subscribers when the appraiser's office receives a document changing the ownership of their property.</p><p>This helps a seller who is moving away or a family holding an inherited house that sits empty. The appraiser also points to its FAQ page for questions about recording a deed, adding or removing an owner and getting copies of recorded documents. Search for the word deed in the questions box.</p>"
+   "html": "<p>The Broward County Property Appraiser runs a free Owner Alert service. It notifies subscribers when the appraiser's office receives a document changing the ownership of their property.</p><p>The service only watches for ownership changes, so it suits a seller who is moving away or a family holding an inherited house that sits empty. The appraiser also points to its FAQ page for questions about recording a deed, adding or removing an owner and getting copies of recorded documents. Search for the word deed in the questions box.</p>"
   },
   {
    "h2": "What happens to property taxes after a Broward sale?",
@@ -30,7 +30,7 @@
   },
   {
    "h2": "How do liens and foreclosures show up in Broward records?",
-   "html": "<p>Search by party name and by parcel ID, because liens attach to the property and to the person. A foreclosure ends with a certificate of title, and the sale is confirmed when no objection arrives ten days after that certificate (s. 45.031).</p><p>A tax deed buyer must apply after two years from April 1 of the certificate year, and the tax collector lists everyone to be notified, including mortgagees and contract-for-deed vendees (s. 197.502).</p>"
+   "html": "<p>Search by party name and by parcel ID, because liens attach to the property and to the person. A court sale ends in a certificate of title, and ten quiet days confirm it (s. 45.031).</p><p>A tax deed buyer must apply after two years from April 1 of the certificate year, and the tax collector lists everyone to be notified, including mortgagees and contract-for-deed vendees (s. 197.502).</p>"
   },
   {
    "h2": "How is a Broward deed filed after closing?",
@@ -38,11 +38,11 @@
   },
   {
    "h2": "How do records help with an inherited Broward house?",
-   "html": "<p>Search the decedent under every name variation and look for unreleased mortgages. A personal representative's deed under a probated will is not taxable for stamp tax, and Florida has had no estate tax for deaths after 2004.</p><p>Summary administration may fit an estate of $150,000 or less in non-exempt assets, or an owner dead more than two years (s. 735.201). Creditors must file by the later of three months after first notice or 30 days after service (s. 733.702). Expect the title insurer to want these steps finished first.</p>"
+   "html": "<p>Search the decedent under every name variation, including nicknames and married names, and look for unreleased mortgages. Plats and maps are searchable at every date range, so a lot-line question can be checked there. A personal representative's deed under a probated will is not taxable for stamp tax, and Florida has had no estate tax for deaths after 2004.</p><p>Summary administration may fit an estate of $150,000 or less in non-exempt assets, or an owner dead more than two years (s. 735.201). Creditor claims face a cutoff set by s. 733.702. Expect the title insurer to want these steps finished first.</p>"
   },
   {
    "h2": "What can a foreclosure mean for a Broward title search?",
-   "html": "<p>A lender may use the order-to-show-cause route under s. 702.10, with a hearing no sooner than the later of 20 days after service of the order or 45 days after service of the complaint. Look for a certificate of title if a sale has already happened.</p><p>Owner-occupied homes are carved out of the quick payment-or-vacate order, and a homestead exemption on the latest roll is a rebuttable presumption of owner occupancy.</p>"
+   "html": "<p>A lender may use the order-to-show-cause route under s. 702.10, where the hearing waits for the later of 20 days after the order is served or 45 days after the complaint is served. Look for a certificate of title if a sale has already happened.</p><p>Owner-occupied homes are carved out of the quick payment-or-vacate order, and a homestead exemption on the latest roll is a rebuttable presumption of owner occupancy.</p>"
   }
  ],
  "faqs": [
@@ -56,14 +56,14 @@
   },
   {
    "q": "What is the Florida deed stamp rate in Broward?",
-   "a": "It is a rate of $0.70 for every $100 of the price and debt transferred under s. 201.02. All parties are liable for it, and the clerk or recorder collects it at filing."
+   "a": "It is a rate of $0.70 for every $100 of the price and debt transferred under s. 201.02. Every party is liable, and it is collected at filing."
   },
   {
-   "q": "Can I get a free alert if someone records a deed on my house?",
+   "q": "Is there a free alert for deed filings on my Broward home?",
    "a": "Yes. The Broward County Property Appraiser offers Owner Alert, which notifies you when a document changing ownership of your property reaches that office."
   },
   {
-   "q": "Does my homestead cap transfer to the buyer?",
+   "q": "Does my assessment cap pass to the buyer?",
    "a": "No. A change of ownership resets assessed value to just value the next first of January, per the Florida Department of Revenue. Exceptions cover things like transfers between spouses."
   }
  ],

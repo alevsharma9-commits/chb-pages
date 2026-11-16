@@ -2,8 +2,8 @@
  "slug": "flagler-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who runs property tax in Flagler County?",
-   "html": "<p>Flagler County splits the job between its Property Appraiser, who sets value, and its Tax Collector, who mails and collects the bill. The levying bodies, such as the Board of County Commissioners, the School Board and city commissions, set the millage rates.</p><p>The Tax Collector's website, flaglertax.gov, has pages for property taxes, tangible personal property tax, tourist development tax, business tax receipts and veteran benefits. For questions about a value, an exemption or a classification, contact the Flagler County Property Appraiser directly and ask for the current forms and filing dates. Deeds are recorded, and foreclosure and tax deed auctions are run, by the circuit court clerk.</p>"
+   "h2": "Which offices run property tax in Flagler?",
+   "html": "<p>Flagler County splits the job between its Property Appraiser, who sets value, and its Tax Collector, who mails and collects the bill. Millage is set by the levying bodies: county commissioners, the school board, city commissions and others.</p><p>The Tax Collector's website, flaglertax.gov, has pages for property taxes, tangible personal property tax, tourist development tax, business tax receipts and veteran benefits. For questions about a value, an exemption or a classification, contact the Flagler County Property Appraiser directly and ask for the current forms and filing dates. Deeds are recorded, and foreclosure and tax deed auctions are run, by the circuit court clerk.</p>"
   },
   {
    "h2": "How are Flagler County property taxes billed?",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "How do homestead and Save Our Homes affect a Flagler County sale?",
-   "html": "<p>Homestead and the Save Our Homes cap stay with the seller, not the house. A sale, foreclosure or other transfer of title is a change of ownership, so the parcel is reassessed at just value the next January 1 unless an exception such as a transfer between spouses applies.</p><p>While the owner holds the exemption, assessed value cannot rise by more than the lower of 3 percent or the CPI change. DOR's chart lists a 2024 CPI of 3.4 percent with a 3.0 percent cap, a 2025 cap of 2.9 percent and a 2026 cap of 2.7 percent. Non-homestead property has a 10 percent annual limit on increases. If you are moving within Florida, portability lets you bring part of the cap to a new homestead, and the new home must be established within three years of the New Year's Day of the year you gave up the old one. Apply on Form DR-501T with the DR-501 by March 1.</p>"
+   "html": "<p>Homestead and the Save Our Homes cap stay with the seller, not the house. A sale, foreclosure or other transfer of title is a change of ownership, so the parcel is reassessed at just value the next January 1 unless an exception such as a transfer between spouses applies.</p><p>While the owner holds the exemption, assessed value cannot rise by more than the lower of 3 percent or the CPI change. DOR's chart lists a 2024 CPI of 3.4 percent with a 3.0 percent cap, a 2025 cap of 2.9 percent and a 2026 cap of 2.7 percent. Non-homestead property has a 10 percent annual limit on increases. If you are moving within Florida, portability lets you bring part of the cap to a new homestead, and the new home must be established inside three years counted from January 1 of the year the old homestead was given up. Apply on Form DR-501T with the DR-501 by March 1.</p>"
   },
   {
    "h2": "Are there veteran and senior breaks for Flagler County homeowners?",
@@ -31,7 +31,7 @@
   },
   {
    "h2": "What if a Flagler County parcel goes to a tax deed sale?",
-   "html": "<p>A certificate holder can apply for a tax deed two years after April 1 of the year the certificate was issued, and the clerk then holds a public auction. The statute sets the application fee at $75, and the tax collector lists everyone who must be notified: the titleholder, mortgagees, lienholders, the party assessed and any recorded contract-for-deed buyer.</p><ul><li>The winning bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater.</li><li>Full payment, deed stamps and recording fees follow within 24 hours, not counting weekends and holidays.</li><li>Interest on the certificate holder's bid builds at 1.5 percent per month.</li><li>If nobody bids, the land goes on a list of lands available for taxes, and the county has 90 days to take it for the opening bid.</li></ul><p>An owner who sells before the auction can pay off the certificate from the closing proceeds. Contact the Flagler Tax Collector for the redemption amount, since interest changes the figure monthly.</p>"
+   "html": "<p>A certificate holder can apply for a tax deed two years after April 1 of the year the certificate was issued, and the clerk then holds a public auction. The statute sets the application fee at $75, and the tax collector lists everyone who must be notified: the titleholder, mortgagees, lienholders, the party assessed and any recorded contract-for-deed buyer.</p><ul><li>The winning bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater.</li><li>Full payment, deed stamps and recording fees follow within 24 hours, not counting weekends and holidays.</li><li>The certificate holder's bid accrues monthly interest at one and a half percent.</li><li>If nobody bids, the land goes on a list of lands available for taxes, and the county gets a 90 day window to buy it at the opening bid.</li></ul><p>An owner who sells before the auction can pay off the certificate from the closing proceeds. Contact the Flagler Tax Collector for the redemption amount, since interest changes the figure monthly.</p>"
   },
   {
    "h2": "What happens to a Flagler County tax bill at closing?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Who sets Flagler County millage rates?",
-   "a": "The levying bodies do: the Board of County Commissioners, the School Board, city commissions and other taxing authorities. The Property Appraiser sets value, not the rate."
+   "a": "The levying bodies do: county commissioners, the school board, city commissions and other authorities. The Property Appraiser sets value, not the rate."
   }
  ],
  "sources": [
