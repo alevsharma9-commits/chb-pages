@@ -1,72 +1,105 @@
 {
-  "slug": "pima-county-az-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which Pima County offices handle property tax?",
-      "html": "<p>Two county offices share the work, and both are in Tucson. The <a href=\"https://www.asr.pima.gov/\">Pima County Assessor</a> values and classifies property, takes appeals and runs the valuation relief programs. The <a href=\"https://www.to.pima.gov/\">Pima County Treasurer</a> mails the statements, collects payments and sells tax liens on delinquent accounts. The Treasurer cannot change the amount of a bill unless the Board of Supervisors directs it, so a disagreement over value starts with the Assessor.</p><ul><li>Treasurer: 240 N. Stone Avenue, lower level of the Pima County Public Service Center, Tucson, AZ 85701. Open Monday through Friday, 8:00 a.m. to 5:00 p.m., phone (520) 724-8341.</li><li>Assessor: 240 N Stone Ave, Tucson, AZ 85701, phone (520) 724-8630, with the Valuation Relief team at (520) 724-7500.</li></ul><p>The Treasurer's office also keeps a holiday calendar. It closes November 26 and 27 for Thanksgiving, December 25, and January 1 and 18, 2027.</p>"
-    },
-    {
-      "h2": "When are Pima County property taxes due and when are they late?",
-      "html": "<p>The first half is due October 1 and the second half March 1, with delinquency after 5:00 p.m. on the following November 1 and May 1 (<a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a>). The Treasurer mails statements in mid-September, and that is the only statement you receive unless the account goes delinquent. Delinquent real property notices go out in August and January.</p><p>For the 2026 tax year, the Treasurer's calendar lists December 31, 2026 as the full-year payment date. The second half is due March 1, 2027, and payments must be postmarked no later than May 3, 2027, because May 1 is a Saturday. Interest is not collected when the full-year tax is paid on or before December 31 of the tax year (<a href=\"https://www.azleg.gov/ars/42/18053.htm\">A.R.S. 42-18053</a>), so a bill that is still open today can be settled in full by the end of the year.</p><table><thead><tr><th>Event</th><th>Date</th><th>Source</th></tr></thead><tbody><tr><td>Statements mailed</td><td>Mid-September</td><td><a href=\"https://www.to.pima.gov/\">Pima Treasurer FAQ</a></td></tr><tr><td>First half due</td><td>October 1</td><td><a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a></td></tr><tr><td>Full year without interest</td><td>December 31, 2026</td><td><a href=\"https://www.to.pima.gov/\">Pima Treasurer calendar</a></td></tr><tr><td>Second half due</td><td>March 1, 2027</td><td><a href=\"https://www.to.pima.gov/\">Pima Treasurer calendar</a></td></tr><tr><td>Second half postmark deadline</td><td>May 3, 2027</td><td><a href=\"https://www.to.pima.gov/\">Pima Treasurer calendar</a></td></tr></tbody></table>"
-    },
-    {
-      "h2": "What happens to a delinquent Pima County tax bill?",
-      "html": "<p>Interest at 16 percent per year, simple, starts at delinquency, and a fraction of a month counts as a whole month. The Treasurer adds that taxes not paid before January of the following year pick up an additional $5.00 or 5 percent penalty. In February the delinquent lien is offered at the Treasurer's tax lien sale, held during the last week of the month, with no bidding on Tuesday because the Board of Supervisors meets that day.</p><p>At the sale the buyer purchases the lien on your taxes. After three years from the sale date, that buyer can foreclose on the lien and acquire the property. The details matter if you are thinking of selling.</p><ul><li>The Treasurer cannot accept partial payments once a lien has been sold. All delinquent taxes, interest, penalties and fees must be paid in full.</li><li>Before a sale, the minimum payment is the tax, interest and fees for a delinquent installment, meaning one half-year.</li><li>The state statute lets a lien be sold for the combined delinquent taxes on a parcel, not just one year (<a href=\"https://www.azleg.gov/ars/42/18104.htm\">A.R.S. 42-18104</a>).</li></ul>"
-    },
-    {
-      "h2": "How can you pay the Pima County Treasurer?",
-      "html": "<p>You can pay online, by mail, or in person. Online payment is by ACH or electronic check, and the minimum payment is the greater of $10 or 10 percent of the installment due. The Treasurer says the online convenience fee goes entirely to the payment servicer.</p><ul><li>Mail: send the coupon with a check, cashier's check or money order in US funds to PO Box 29011, Phoenix, AZ 85038-9011. Put your state code or reference number on the check, and do not mail cash.</li><li>In person: cash, check and card payments at the Treasurer's counter. Credit and debit cards carry a 2 percent service fee.</li><li>Wire: call (520) 724-8341 first.</li></ul><p>Mortgage and tax service companies receive tax statement information on request, so a lender that escrows your taxes should have the bill. Property tax liability covers the calendar year, from January through December, even though the second installment falls due in the next calendar year.</p>"
-    },
-    {
-      "h2": "How is a Pima County tax bill calculated?",
-      "html": "<p>The bill is the limited value times the assessment ratio times the combined tax rate, divided by $100. Primary and secondary taxes are figured the same way and added together. The Treasurer explains that primary taxes pay a jurisdiction's operating expenses and apply to the limited cash value, while secondary taxes pay for special districts such as fire districts and voter-approved bonds and budget overrides.</p><p>Your rate combines every jurisdiction taxing your address, for example the City of Tucson, Pima County and your school district. Two items on the bill are worth knowing.</p><ul><li>Primary Tax Reduction: a credit on the school district's primary levy for owner-occupied homes, sometimes called the homeowner's rebate. The state reimburses the school district for eligible amounts.</li><li>Fire District Assistance: a countywide tax on every taxable property that supplements fire districts, levied under A.R.S. 48-807.</li></ul><p>The Assessor stresses that it has no control over tax levies or rates. If you think your rate is too high, contact the political subdivisions listed on your bill.</p>"
-    },
-    {
-      "h2": "How do you appeal a Pima County valuation?",
-      "html": "<p>File a petition with the Assessor within 60 days after the mail date of the Notice of Value (<a href=\"https://www.azleg.gov/ars/42/16051.htm\">A.R.S. 42-16051</a>). The Assessor says Notices of Value are mailed on or before March 1, and a Notice of Change that mails on or before September 30 has its own supplemental appeal. An assessment appeal tries to show the property was improperly valued, listed with the wrong class, or given an incorrectly calculated limited value. It is not a complaint about higher taxes.</p><p>The petition has to state a valuation method with supporting data.</p><ul><li>Market approach: include the sale price of at least one comparable property in the same area, or the sale of your own property.</li><li>Replacement cost approach: include the cost to build or rebuild plus the land value.</li><li>Income approach: include the information required by A.R.S. 42-16052.</li></ul><p>A Notice of Claim covers a factual error, and a Notice of Proposed Correction can arrive by certified mail at any time of year. The Treasurer advises paying the tax as billed while an appeal is pending. If a correction lowers the tax, you get a refund of the overpayment plus interest at the rate set by the Arizona Department of Revenue. If it raises the tax, you get 60 days to pay the increase without interest.</p>"
-    },
-    {
-      "h2": "What relief and exemptions does Pima County offer?",
-      "html": "<p>The Assessor's Valuation Relief programs either reduce or freeze the limited assessed value for qualifying owners. Each program has strict statutory eligibility rules for the applicant and the household. The annual filing deadline is March 1, and later applications must include a Redemption Waiver form under A.R.S. 42-11153.</p><p>The Assessor currently highlights the exemption for a veteran with a 100 percent service-connected disability. Governor Hobbs signed H.B. 2792 on February 12, 2026, clarifying A.R.S. 42-11111 as an emergency measure effective for tax year 2026 and after. The veteran must be honorably discharged, hold a VA benefit summary letter confirming the 100 percent rating, and meet the income limit. The exemption covers one primary residence. Call (520) 724-7500 or write to ASRValRelief@pima.gov for current forms.</p>"
-    },
-    {
-      "h2": "What size is Pima County, and what does that mean for sellers?",
-      "html": "<p>Pima County spans 9,189 square miles in south central Arizona, with Tucson as seat and largest city. The Census Bureau's July 2025 estimate is 1,074,685 residents. The county has two cities, Tucson and South Tucson, and the towns of Marana, Oro Valley and Sahuarita, plus unincorporated communities such as Casas Adobes and Catalina Foothills.</p><p>Census figures for 2020 to 2024 show 65.2 percent owner-occupied housing, a median owner-occupied value of $319,700 and median gross rent of $1,212. If you sell with taxes open, ask the title company for a payoff that includes interest through the closing date, and ask the Treasurer whether a lien has already been sold on the parcel.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "When are Pima County property taxes due?",
-      "a": "October 1 for the first half and March 1 for the second half. They become delinquent after 5:00 p.m. on November 1 and May 1. For 2026 the full year is due December 31, 2026, and second-half payments must be postmarked by May 3, 2027."
-    },
-    {
-      "q": "What interest does Pima County charge on late taxes?",
-      "a": "Sixteen percent per year, simple, from the delinquency date, with a partial month counted as a whole month. The Treasurer also adds $5.00 or 5 percent for taxes unpaid into January. No interest is collected if the full year is paid by December 31."
-    },
-    {
-      "q": "What is the Pima County tax lien sale?",
-      "a": "The Treasurer sells the lien for delinquent taxes during the last week of February. The house stays with the owner until the lien purchaser forecloses, which the purchaser may do after three years from the sale date."
-    },
-    {
-      "q": "Can I pay my Pima County property tax online?",
-      "a": "Yes. The Treasurer takes ACH or electronic check payments online with a minimum of the greater of $10 or 10 percent of the installment. You can also mail a check to PO Box 29011, Phoenix, AZ 85038-9011, or pay in person at 240 N. Stone Avenue in Tucson."
-    },
-    {
-      "q": "Who do I call if my Pima County valuation looks wrong?",
-      "a": "Call the Assessor at (520) 724-8630. The Treasurer cannot change a bill unless the Board of Supervisors directs it. File a petition within 60 days of the Notice of Value mail date, and keep paying the bill as issued while the appeal proceeds."
-    }
-  ],
-  "sources": [
-    {"title": "Pima County Treasurer", "url": "https://www.to.pima.gov/"},
-    {"title": "Pima County Assessor", "url": "https://www.asr.pima.gov/"},
-    {"title": "Pima County Assessor appeals", "url": "https://asr.pima.gov/appeals"},
-    {"title": "Pima County Assessor valuation relief", "url": "https://asr.pima.gov/valuation-relief"},
-    {"title": "Pima County Assessor forms", "url": "https://asr.pima.gov/forms"},
-    {"title": "A.R.S. 42-18052", "url": "https://www.azleg.gov/ars/42/18052.htm"},
-    {"title": "A.R.S. 42-18053", "url": "https://www.azleg.gov/ars/42/18053.htm"},
-    {"title": "A.R.S. 42-18104", "url": "https://www.azleg.gov/ars/42/18104.htm"},
-    {"title": "A.R.S. 42-16051", "url": "https://www.azleg.gov/ars/42/16051.htm"},
-    {"title": "Census QuickFacts, Pima County", "url": "https://www.census.gov/quickfacts/fact/table/pimacountyarizona/PST045224"},
-    {"title": "Pima County, Arizona (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Pima_County,_Arizona"}
-  ]
+ "slug": "pima-county-az-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Pima County tax offices",
+   "html": "<p>Tucson hosts both offices. Property is valued and classified by the <a href=\"https://www.asr.pima.gov/\">Pima County Assessor</a>, who also takes appeals and runs the valuation relief programs. The <a href=\"https://www.to.pima.gov/\">Pima County Treasurer</a> mails statements, collects payments and sells tax liens on delinquent accounts. Because the Treasurer can't change a bill unless the Board of Supervisors directs it, a dispute over value starts with the Assessor.</p><ul><li>Treasurer: 240 N. Stone Avenue, lower level of the Pima County Public Service Center, Tucson, AZ 85701. Weekday hours are 8:00 a.m. to 5:00 p.m.; phone (520) 724-8341.</li><li>Assessor: 240 N Stone Ave, Tucson, AZ 85701, (520) 724-8630. The Valuation Relief team is at (520) 724-7500.</li></ul>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>Two installments are due: October 1 and March 1. Lateness begins after 5:00 p.m. on the November 1 or May 1 that follows (<a href=\"https://www.azleg.gov/ars/42/18052.htm\">A.R.S. 42-18052</a>). You'll get one statement in mid-September and no more unless the account goes delinquent, when notices on real property are sent in August and January.</p><p>Tax year 2026 has December 31, 2026 as its full-year payment date on the Treasurer's calendar. Second-half money is due March 1, 2027, and since May 1 is a Saturday the postmark cutoff is May 3, 2027. A full-year payment by December 31 of the tax year owes no interest (<a href=\"https://www.azleg.gov/ars/42/18053.htm\">A.R.S. 42-18053</a>), which means a bill still open can be cleared before year-end.</p><table><thead><tr><th>Payment step</th><th>Date</th></tr></thead><tbody><tr><td>Statements mailed</td><td>Mid-September</td></tr><tr><td>First half due</td><td>October 1</td></tr><tr><td>Full year without interest</td><td>December 31, 2026</td></tr><tr><td>Second half due</td><td>March 1, 2027</td></tr><tr><td>Second half postmark deadline</td><td>May 3, 2027</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Delinquent taxes and the lien sale",
+   "html": "<p>Late tax accrues simple interest at 16 percent annually, with partial months rounded up. A further $5.00 or 5 percent penalty applies to anything unpaid before January. The delinquent lien is then offered at the Treasurer's tax lien sale during the last week of February, skipping Tuesday because the Board of Supervisors meets that day.</p><p>Whoever buys the lien holds a claim against your property. After three years from the sale date, that buyer can foreclose and take it. These points affect a sale.</p><ul><li>After the sale, no partial payments are accepted by the Treasurer. You owe everything, delinquent taxes, interest, penalties and fees, at once.</li><li>Ahead of a sale, the smallest payment covers tax, interest and fees on one delinquent installment, which is a half-year.</li><li>A single lien can be sold for all delinquent taxes on a parcel combined (<a href=\"https://www.azleg.gov/ars/42/18104.htm\">A.R.S. 42-18104</a>).</li></ul>"
+  },
+  {
+   "h2": "Ways to pay the Treasurer",
+   "html": "<p>Three channels are open: web, mail and the counter. The web option takes ACH or electronic check and sets a floor of $10 or 10 percent of the installment due, whichever is larger. Its convenience fee is kept wholly by the payment servicer.</p><ul><li>Mail: enclose the coupon and a check, cashier's check or money order in US funds, addressed to PO Box 29011, Phoenix, AZ 85038-9011. Put your state code or reference number on the check. Cash must never go in the mail.</li><li>Counter: cash, check or card. Cards, credit or debit, add a 2 percent service fee.</li><li>Wire: phone (520) 724-8341 beforehand.</li></ul><p>A lender that escrows your taxes can ask the Treasurer for statement information, as can a tax service company. The liability is for the calendar year, January through December, though the second installment comes due the next year.</p>"
+  },
+  {
+   "h2": "How a bill is calculated",
+   "html": "<p>The formula takes limited value, times the assessment ratio, times the combined rate, over $100. Do it once for primary and once for secondary, then add. Primary covers day-to-day operating costs and applies to the limited cash value, whereas secondary funds special districts like fire districts plus voter-approved bonds and budget overrides.</p><p>The rate on your bill blends every jurisdiction covering your address, for example the City of Tucson, Pima County and your school district. Two line items deserve a closer look.</p><ul><li>Primary Tax Reduction: a credit against the school district's primary levy on owner-occupied homes, often called the homeowner's rebate. The state repays the district for eligible amounts.</li><li>Fire District Assistance: a countywide tax on every taxable property that supplements fire districts, levied under A.R.S. 48-807.</li></ul><p>Levies and rates are outside the Assessor's control. Take a rate complaint to the political subdivisions named on your bill.</p>"
+  },
+  {
+   "h2": "Appealing your valuation",
+   "html": "<p>Your petition to the Assessor is due 60 days from the Notice of Value's mail date (<a href=\"https://www.azleg.gov/ars/42/16051.htm\">A.R.S. 42-16051</a>). Those notices are mailed by March 1. A Notice of Change mailed by September 30 opens a separate supplemental appeal. An assessment appeal tries to show that the property was valued improperly, given the wrong class, or assigned an incorrect limited value. It isn't a complaint about higher taxes.</p><p>The petition must state a valuation method with supporting data.</p><ul><li>Market approach: show what a comparable property nearby sold for, or what yours did.</li><li>Replacement cost approach: include the cost to build or rebuild plus the land value.</li><li>Income approach: include the information A.R.S. 42-16052 requires.</li></ul><p>Factual errors go through a Notice of Claim, and a Notice of Proposed Correction may reach you by certified mail in any month. Keep paying the tax as billed while an appeal is pending. A lower tax brings back the overpayment plus interest at the Arizona Department of Revenue's rate; a higher one gives you 60 days to pay the increase interest-free.</p>"
+  },
+  {
+   "h2": "Exemptions and relief",
+   "html": "<p>Qualifying owners can have limited assessed value reduced or frozen through Valuation Relief, and each program sets strict statutory tests for the applicant and household. Applications are due March 1 each year; later ones need a Redemption Waiver form under A.R.S. 42-11153.</p><p>A featured program is the exemption for a veteran rated 100 percent service-connected disabled. H.B. 2792, signed February 12, 2026, clarified A.R.S. 42-11111 as an emergency measure covering tax year 2026 onward. Applicants need an honorable discharge, a VA benefit summary letter showing the 100 percent rating, and income under the limit. It covers one primary residence. Current forms are available at (520) 724-7500 or ASRValRelief@pima.gov.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>Pima County is home to an estimated 1,074,685 people, and 65.2 percent of housing units are owner-occupied. Selling while tax is open? Get a payoff from the title company with interest counted to closing, and ask the Treasurer if a lien has already been sold on your parcel. A sold lien changes the payoff, because partial payments stop being accepted.</p><p>A routine that works: find out which installments are open on your parcel, request a payoff dated to closing, pass it to title, and compare it with the settlement statement. A cash buyer's speed limits how much interest accrues, though every delinquent amount, penalties and fees included, is still taken from your proceeds.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What are the Pima County property tax due dates?",
+   "a": "October 1 and March 1 are the due dates, with delinquency after 5:00 p.m. on the following November 1 and May 1. In 2026 the full year is due by December 31, 2026, and second-half payments need a May 3, 2027 postmark."
+  },
+  {
+   "q": "How much interest accrues on late Pima County taxes?",
+   "a": "Sixteen percent a year, simple, beginning at the delinquency date, with any partial month billed whole. Tax unpaid into January adds $5.00 or 5 percent. Paying the full year by December 31 avoids interest."
+  },
+  {
+   "q": "How does the Pima County tax lien sale work?",
+   "a": "In the last week of February the Treasurer sells liens on delinquent taxes. The owner keeps the house until the lien buyer forecloses, which is allowed three years after the sale date."
+  },
+  {
+   "q": "Is online payment available for Pima County property tax?",
+   "a": "Yes, through ACH or electronic check, at the greater of $10 or 10 percent of the installment as a minimum. Mail to PO Box 29011, Phoenix, AZ 85038-9011, or pay in person at 240 N. Stone Avenue, Tucson."
+  },
+  {
+   "q": "Who handles questions about a Pima County valuation?",
+   "a": "The Assessor, at (520) 724-8630. Only the Board of Supervisors can direct the Treasurer to change a bill. Petition within 60 days of the Notice of Value mail date and keep paying the bill as issued meanwhile."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Pima County Treasurer",
+   "url": "https://www.to.pima.gov/"
+  },
+  {
+   "title": "Pima County Assessor",
+   "url": "https://www.asr.pima.gov/"
+  },
+  {
+   "title": "Pima County Assessor appeals",
+   "url": "https://asr.pima.gov/appeals"
+  },
+  {
+   "title": "Pima County Assessor valuation relief",
+   "url": "https://asr.pima.gov/valuation-relief"
+  },
+  {
+   "title": "Pima County Assessor forms",
+   "url": "https://asr.pima.gov/forms"
+  },
+  {
+   "title": "A.R.S. 42-18052",
+   "url": "https://www.azleg.gov/ars/42/18052.htm"
+  },
+  {
+   "title": "A.R.S. 42-18053",
+   "url": "https://www.azleg.gov/ars/42/18053.htm"
+  },
+  {
+   "title": "A.R.S. 42-18104",
+   "url": "https://www.azleg.gov/ars/42/18104.htm"
+  },
+  {
+   "title": "A.R.S. 42-16051",
+   "url": "https://www.azleg.gov/ars/42/16051.htm"
+  },
+  {
+   "title": "Census QuickFacts, Pima County",
+   "url": "https://www.census.gov/quickfacts/fact/table/pimacountyarizona/PST045224"
+  },
+  {
+   "title": "Pima County, Arizona (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Pima_County,_Arizona"
+  }
+ ]
 }

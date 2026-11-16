@@ -1,70 +1,113 @@
 {
-  "slug": "pima-county-az-county-recorder",
-  "sections": [
-    {
-      "h2": "Where do you record a deed in Pima County?",
-      "html": "<p>Deeds for Pima County land are recorded with the <a href=\"https://www.recorder.pima.gov/\">Pima County Recorder's Office</a> in Tucson. Arizona law makes the county where the property sits the place to record. Under <a href=\"https://www.azleg.gov/ars/33/00411.htm\">A.R.S. 33-411</a>, an instrument affecting real property does not give notice to later buyers or lenders who paid value without notice unless it is recorded in the office of the county recorder of that county. For a seller, that means a signed deed is not the end of the job until it is on the public record.</p><p>The Recorder's site offers a public records search, an e-recording page, a document pickup page and a subscription for document services. The home page links to maps for 240 N Stone Avenue and 6920 E Broadway Boulevard in Tucson. Check the Recorder's contact page for current hours before you drive over.</p><p>The Recorder also runs elections and voter registration, so the same website carries a lot of voting information. Look for the Recording Fees, Recording Requirements and Recording FAQ links when you only need deed help.</p>"
-    },
-    {
-      "h2": "What does Pima County charge to record a deed?",
-      "html": "<p>Recording an ordinary document costs a flat $30. That figure comes from <a href=\"https://www.azleg.gov/ars/11/00475.htm\">A.R.S. 11-475</a>, which sets $30 per instrument for papers required or authorized by law to be recorded, and $15 when a government body is a party and asks for the recording. The Recorder's schedule was last revised April 15, 2022.</p><p>The fee does not change with the sale price. The county schedule lists per-document charges only, and the statute notes that the $30 includes the amount charged under section 11-475.01. If you want to know whether any other charge applies to a particular deed, ask your title company or the Arizona Department of Revenue.</p><table><thead><tr><th>Charge</th><th>Amount</th><th>Source</th></tr></thead><tbody><tr><td>Recording any document</td><td>$30.00</td><td><a href=\"https://www.recorder.pima.gov/Fees.aspx\">Pima Recorder fees</a></td></tr><tr><td>Government agency recording</td><td>$15.00</td><td><a href=\"https://www.recorder.pima.gov/Fees.aspx\">Pima Recorder fees</a></td></tr><tr><td>Return of improperly submitted document</td><td>$5.00 per document</td><td><a href=\"https://www.recorder.pima.gov/Fees.aspx\">Pima Recorder fees</a></td></tr><tr><td>Returned check</td><td>$25.00</td><td><a href=\"https://www.recorder.pima.gov/Fees.aspx\">Pima Recorder fees</a></td></tr><tr><td>Certified copy</td><td>$1.00 per image, plus $3.00 per certificate</td><td><a href=\"https://www.recorder.pima.gov/Fees.aspx\">Pima Recorder fees</a></td></tr><tr><td>Mail processing</td><td>$1.00 per document</td><td><a href=\"https://www.recorder.pima.gov/Fees.aspx\">Pima Recorder fees</a></td></tr></tbody></table>"
-    },
-    {
-      "h2": "How can you pay the Pima County Recorder?",
-      "html": "<p>The office accepts Visa, Mastercard, cash, checks and money orders payable to Pima County Recorder. Credit cards are taken only for in-person transactions, not by phone or by mail. Online purchases carry a 2 percent card convenience fee.</p><p>Two rules trip up mailed packets, so read them before you send anything.</p><ul><li>Checks must be pre-printed with your name.</li><li>Checks and money orders must be dated within 60 days of the Recorder receiving them.</li></ul><p>Military discharge papers recorded under A.R.S. 11-465 carry no charge. Copies of recorded documents cost $0.25 per 8 1/2 by 11 inch image and $0.25 per digital document, while subdivision plats and survey maps are charged separately at $24 for the first image and $20 for each additional image.</p>"
-    },
-    {
-      "h2": "What must a deed look like before the Recorder accepts it?",
-      "html": "<p>It needs a caption, original signatures, a legible original or copy, and a legal description, plus an affidavit of property value unless the transfer is exempt. The Recorder's Recording Requirements page and <a href=\"https://www.azleg.gov/ars/11/00480.htm\">A.R.S. 11-480</a> set out the physical rules, and a document that fails them may be rejected at the counter.</p><ul><li>Each instrument needs a caption briefly stating what it is, such as warranty deed.</li><li>Pages may be no larger than 8 1/2 inches by 14 inches, in type no smaller than ten point.</li><li>Margins must be at least one-half inch, and the first page needs a two inch blank top margin reserved for recording information.</li><li>A document that modifies an earlier one must state the earlier recording date and its docket and page or sequence number.</li></ul><p>Arizona also requires that a deed be signed by the grantor and acknowledged before an authorized officer (<a href=\"https://www.azleg.gov/ars/33/00401.htm\">A.R.S. 33-401</a>). The Pima Recorder says it has been told by the County Attorney's Office not to give legal advice, so questions about which deed to use belong with an attorney or title company.</p>"
-    },
-    {
-      "h2": "Do you need photo ID to record in person in Pima County?",
-      "html": "<p>Yes, starting September 8, 2026. The Recorder's office now requires valid photo identification from customers who present documents for recording in person, under <a href=\"https://www.azleg.gov/ars/11/00472.htm\">A.R.S. 11-472</a>. Accepted forms include a state driver's license, a state identification card, a tribal enrollment card or other tribal identification, and identification issued by a federal, state or local government.</p><p>The statute exempts documents submitted by an escrow officer, a title insurer or agent, a state or federally chartered bank or credit union, an active member of the State Bar of Arizona, or a governmental entity. Most sellers who close through escrow never see this step, because the escrow office handles the recording. The recorder may note the type, name and number of the ID but may not keep a copy, and that note is not a public record.</p>"
-    },
-    {
-      "h2": "What is the affidavit of property value, and who is exempt?",
-      "html": "<p>It is a form signed by buyer and seller that must be attached to a deed at recording, and the Recorder must refuse a deed that lacks a complete one unless it carries an exemption notation (<a href=\"https://www.azleg.gov/ars/11/01133.htm\">A.R.S. 11-1133</a>). The statute asks for the buyer and seller names, the legal description, the sale date, the total consideration and whether the home will be owner-occupied or rented. The Arizona Department of Revenue supplies the form.</p><p>Some transfers are exempt under <a href=\"https://www.azleg.gov/ars/11/01134.htm\">A.R.S. 11-1134</a>. Examples in the statute:</p><ul><li>A deed of gift.</li><li>A quitclaim deed made for no monetary consideration.</li><li>A trustee's deed under a deed of trust, and a transfer solely to provide or release security for a debt.</li><li>A transfer of residential property for only nominal consideration between spouses, parent and child, grandparent and grandchild, or siblings.</li><li>A transfer under a beneficiary deed with only nominal consideration.</li></ul><p>Pima's Recording Requirements page says transfers claiming an exemption must be accompanied by the Department of Revenue exemption letter and number at recording. Check the exact notation with your title company before you submit.</p>"
-    },
-    {
-      "h2": "What is Pima County like for sellers?",
-      "html": "<p>Pima County covers 9,189 square miles in south central Arizona, and Tucson is both its seat and its largest city. It was created in 1864 from land acquired in the Gadsden Purchase, and the Census Bureau's July 2025 estimate is 1,074,685 residents. Beyond Tucson, the incorporated places include South Tucson, Marana, Oro Valley and Sahuarita, and large unincorporated communities such as Casas Adobes and Catalina Foothills.</p><p>Census figures for 2020 to 2024 show 65.2 percent of housing units owner-occupied, a median owner-occupied home value of $319,700, median gross rent of $1,212 and median household income of $70,315. The county holds 437,827 households. For a seller, the recording steps above are the same wherever the house sits in the county, but property tax is billed by the Pima County Treasurer at 240 N. Stone Avenue, so request a tax figure from that office before closing.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "How much does it cost to record a deed in Pima County?",
-      "a": "$30 per document. The Pima County Recorder's schedule lists a flat $30 for any document, and $15 for government agency recordings. Returned documents add $5, and a returned check adds $25. Fees were last revised on April 15, 2022."
-    },
-    {
-      "q": "Does Pima County charge a transfer tax on a home sale?",
-      "a": "The Recorder's fee schedule lists no charge based on the sale price. You pay the flat recording fee and complete an affidavit of property value. For any other charge on a specific deed, ask your title company or the Arizona Department of Revenue."
-    },
-    {
-      "q": "Can the Pima County Recorder help me fill out a deed?",
-      "a": "No. The Pima County Recorder's Office is under instruction from the County Attorney's Office not to give legal advice or guidance. Use an attorney, escrow officer or title company to prepare the deed, then the Recorder checks it against the form rules."
-    },
-    {
-      "q": "Do I need photo ID to record a document in person?",
-      "a": "Yes, since September 8, 2026, unless your document comes from an exempt submitter. Valid photo ID is required under A.R.S. 11-472 for in-person recording. Escrow offices, title insurers, banks, credit unions, State Bar members and government entities are exempt."
-    },
-    {
-      "q": "What happens if I never record the deed?",
-      "a": "Under A.R.S. 33-411, an unrecorded instrument gives no notice to later buyers or encumbrance holders who paid value without notice. That leaves the new owner exposed, so the deed should be recorded promptly after closing."
-    }
-  ],
-  "sources": [
-    {"title": "Pima County Recorder's Office", "url": "https://www.recorder.pima.gov/"},
-    {"title": "Pima County Recorder recording fees", "url": "https://www.recorder.pima.gov/Fees.aspx"},
-    {"title": "Pima County Recorder recording requirements", "url": "https://www.recorder.pima.gov/RecordingRequirements.aspx"},
-    {"title": "A.R.S. 11-475", "url": "https://www.azleg.gov/ars/11/00475.htm"},
-    {"title": "A.R.S. 11-480", "url": "https://www.azleg.gov/ars/11/00480.htm"},
-    {"title": "A.R.S. 11-472", "url": "https://www.azleg.gov/ars/11/00472.htm"},
-    {"title": "A.R.S. 11-1133", "url": "https://www.azleg.gov/ars/11/01133.htm"},
-    {"title": "A.R.S. 11-1134", "url": "https://www.azleg.gov/ars/11/01134.htm"},
-    {"title": "A.R.S. 33-401", "url": "https://www.azleg.gov/ars/33/00401.htm"},
-    {"title": "A.R.S. 33-411", "url": "https://www.azleg.gov/ars/33/00411.htm"},
-    {"title": "Pima County Treasurer", "url": "https://www.to.pima.gov/"},
-    {"title": "Census QuickFacts, Pima County", "url": "https://www.census.gov/quickfacts/fact/table/pimacountyarizona/PST045224"},
-    {"title": "Pima County, Arizona (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Pima_County,_Arizona"}
-  ]
+ "slug": "pima-county-az-county-recorder",
+ "sections": [
+  {
+   "h2": "Where to record a Pima County deed",
+   "html": "<p>Land in Pima County is recorded at the <a href=\"https://www.recorder.pima.gov/\">Pima County Recorder's Office</a> in Tucson, since state law makes the county of the property the place to file. Under <a href=\"https://www.azleg.gov/ars/33/00411.htm\">A.R.S. 33-411</a>, a later buyer or lender who paid value and had no notice isn't bound by an instrument that was never recorded in that county. Signing a deed doesn't finish the job; getting it onto the public record does.</p><p>Online, the Recorder offers record searches, e-recording, document pickup and a document services subscription. Maps to its two Tucson sites, 240 N Stone Avenue and 6920 E Broadway Boulevard, sit on the home page. Confirm current hours on the contact page before you go.</p><p>The office also runs elections and voter registration, so much of the site is about voting. For deed help, look for the Recording Fees, Recording Requirements and Recording FAQ links.</p>"
+  },
+  {
+   "h2": "Recording fees",
+   "html": "<p>The usual charge is $30 for each instrument, set by <a href=\"https://www.azleg.gov/ars/11/00475.htm\">A.R.S. 11-475</a> for papers the law requires or permits to be recorded. A government party that requests the recording pays $15. Section 11-475.01's amount is already inside the $30.</p><p>Price plays no part, since the county schedule lists only per-document charges. If you suspect another charge applies to your deed, check with the title company or the state Department of Revenue.</p><table><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Recording any document</td><td>$30.00</td></tr><tr><td>Government agency recording</td><td>$15.00</td></tr><tr><td>Return of improperly submitted document</td><td>$5.00 per document</td></tr><tr><td>Returned check</td><td>$25.00</td></tr><tr><td>Certified copy</td><td>$1.00 per image, plus $3.00 per certificate</td></tr><tr><td>Mail processing</td><td>$1.00 per document</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Payment methods",
+   "html": "<p>The office takes Visa, Mastercard, cash, checks and money orders, made payable to Pima County Recorder. Card payment is limited to the counter; phone and mail orders can't use one. Buying online adds a 2 percent card convenience fee.</p><p>Two rules sink many mailed packets.</p><ul><li>Your name has to be pre-printed on the check.</li><li>Any check or money order must carry a date within 60 days of receipt.</li></ul><p>No charge applies to military discharge papers under A.R.S. 11-465. A copy of a recorded document costs $0.25 per standard letter-size image, or $0.25 per digital document. Plats and survey maps are priced apart, at $24 for image one and $20 for each image after it.</p>"
+  },
+  {
+   "h2": "What a deed must look like",
+   "html": "<p>Expect to supply a caption, original signatures, a legible original or copy and a legal description, along with an affidavit of property value unless the transfer is exempt. The layout rules sit on the Recording Requirements page and in <a href=\"https://www.azleg.gov/ars/11/00480.htm\">A.R.S. 11-480</a>; fall short and the counter may reject the document.</p><ul><li>Title the instrument with a short caption, for example warranty deed.</li><li>Keep pages within 8 1/2 by 14 inches and type at ten point or larger.</li><li>Leave half-inch margins, and reserve the top two inches of page one for the recording stamp.</li><li>If you are modifying an earlier document, cite its recording date and its docket and page or sequence number.</li></ul><p>The grantor has to sign the deed and acknowledge it before an authorized officer (<a href=\"https://www.azleg.gov/ars/33/00401.htm\">A.R.S. 33-401</a>). The County Attorney's Office has told Recorder staff not to give legal advice, so ask an attorney or title company which deed fits.</p>"
+  },
+  {
+   "h2": "Why a Pima County deed comes back",
+   "html": "<p>Most returns trace to a short list of causes: no caption, margins that crowd the stamp area, a missing signature or acknowledgment, no affidavit or exemption notation, or a check that is undated, unprinted with your name or older than 60 days. A returned document costs $5, and a bounced check costs $25, on top of the delay.</p><p>Mailing adds $1 per document for processing, so a mailed deed with a check for $30 should include that extra dollar. Compare your packet with the list above before you seal the envelope, and ask your title company to look over the deed if the sale is on a tight schedule, because a rejected deed can push your closing date.</p>"
+  },
+  {
+   "h2": "Photo ID for in-person recording",
+   "html": "<p>Walk-in customers recording a document show valid photo ID, as <a href=\"https://www.azleg.gov/ars/11/00472.htm\">A.R.S. 11-472</a> requires. Acceptable choices are a state driver's license or ID card, a tribal enrollment card or other tribal ID, or any ID issued by a federal, state or local government.</p><p>The rule excludes documents brought by an escrow officer, a title insurer or agent, a chartered bank or credit union, a practicing member of the State Bar of Arizona, or a governmental entity. Most sellers never see it, because escrow files the deed. A recorder may jot down the ID's type, name and number but may not copy it, and that note isn't public.</p>"
+  },
+  {
+   "h2": "Affidavit of property value and exemptions",
+   "html": "<p>Both buyer and seller sign this form, and it travels with the deed to the counter. Without a complete one, or an exemption notation, the Recorder must refuse the deed (<a href=\"https://www.azleg.gov/ars/11/01133.htm\">A.R.S. 11-1133</a>). The questions cover both names, the legal description, the sale date, the total consideration and owner-occupied versus rental use. Get the form from the Arizona Department of Revenue.</p><p>Certain transfers are excused by <a href=\"https://www.azleg.gov/ars/11/01134.htm\">A.R.S. 11-1134</a>, including these:</p><ul><li>Gifts by deed.</li><li>Quitclaim deeds with no money exchanged.</li><li>Trustee's deeds after a deed of trust, and transfers made only to give or release security for a debt.</li><li>Homes passed for token consideration among spouses, parents and children, grandparents and grandchildren, or siblings.</li><li>Beneficiary-deed transfers for token consideration.</li></ul><p>If you claim an exemption, the Department of Revenue exemption letter and number must accompany the deed at recording. Your title company can verify the exact notation first.</p>"
+  },
+  {
+   "h2": "Pima County housing context and next steps",
+   "html": "<p>Pima County is home to an estimated 1,074,685 people, with Tucson as seat and largest city. Housing units are 65.2 percent owner-occupied, and the median owner-occupied home is worth $319,700. Recording is identical across the county. Taxes are billed separately by the Pima County Treasurer at 240 N. Stone Avenue, which can quote an amount before closing.</p><p>Here is a workable order: check the deed's caption and margins, sign before a notary, finish the affidavit or note the exemption, then have the escrow or title office record it. Delivering it yourself? Bring photo ID and a $30 check payable to Pima County Recorder, dated within 60 days. Cash sales follow the same steps, minus a buyer's lender, so usually no loan document is recorded behind your deed.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What does Pima County charge to record a deed?",
+   "a": "$30 for each document, or $15 if a government agency requests it. Getting a document back for being improperly submitted costs $5, and a returned check costs $25."
+  },
+  {
+   "q": "Does Pima County tax the sale of a home when the deed is recorded?",
+   "a": "Nothing on the Recorder's schedule depends on price. You pay the flat fee and file an affidavit of property value. Ask your title company or the Department of Revenue about any other charge."
+  },
+  {
+   "q": "Will Pima County Recorder staff help me complete a deed?",
+   "a": "No, the County Attorney's Office has told them not to give legal advice. Use an attorney, escrow officer or title company to prepare it, and the Recorder reviews it against the form rules."
+  },
+  {
+   "q": "Is photo ID required to record in person in Pima County?",
+   "a": "Yes, with exceptions for exempt submitters such as escrow offices, title insurers, banks, credit unions, State Bar members and government entities. The rule is A.R.S. 11-472."
+  },
+  {
+   "q": "What happens if a Pima County deed is never recorded?",
+   "a": "A later buyer or lender who paid value without notice isn't bound by it (A.R.S. 33-411). The new owner is exposed, so record soon after closing."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Pima County Recorder's Office",
+   "url": "https://www.recorder.pima.gov/"
+  },
+  {
+   "title": "Pima County Recorder recording fees",
+   "url": "https://www.recorder.pima.gov/Fees.aspx"
+  },
+  {
+   "title": "Pima County Recorder recording requirements",
+   "url": "https://www.recorder.pima.gov/RecordingRequirements.aspx"
+  },
+  {
+   "title": "A.R.S. 11-475",
+   "url": "https://www.azleg.gov/ars/11/00475.htm"
+  },
+  {
+   "title": "A.R.S. 11-480",
+   "url": "https://www.azleg.gov/ars/11/00480.htm"
+  },
+  {
+   "title": "A.R.S. 11-472",
+   "url": "https://www.azleg.gov/ars/11/00472.htm"
+  },
+  {
+   "title": "A.R.S. 11-1133",
+   "url": "https://www.azleg.gov/ars/11/01133.htm"
+  },
+  {
+   "title": "A.R.S. 11-1134",
+   "url": "https://www.azleg.gov/ars/11/01134.htm"
+  },
+  {
+   "title": "A.R.S. 33-401",
+   "url": "https://www.azleg.gov/ars/33/00401.htm"
+  },
+  {
+   "title": "A.R.S. 33-411",
+   "url": "https://www.azleg.gov/ars/33/00411.htm"
+  },
+  {
+   "title": "Pima County Treasurer",
+   "url": "https://www.to.pima.gov/"
+  },
+  {
+   "title": "Census QuickFacts, Pima County",
+   "url": "https://www.census.gov/quickfacts/fact/table/pimacountyarizona/PST045224"
+  },
+  {
+   "title": "Pima County, Arizona (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Pima_County,_Arizona"
+  }
+ ]
 }
