@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Recording a deed in Armstrong County",
-   "html": "<p>The Register and Recorder handles deeds, from Suite 102 of the courthouse at 500 E. Market Street, Kittanning. One office holds three jobs: Recorder of Deeds, Register of Wills and Clerk of Orphans&rsquo; Court. The main number is (724) 548-3280.</p><p>Transactions are taken from 8:00 a.m. to 3:45 p.m., while records research runs until 4:15 p.m. Payment is by cash or check only. Cards of any kind are refused.</p><p>On the recorder&rsquo;s side, the office keeps real estate records safe and files land documents, veterans&rsquo; discharges, notary bonds and commissions, and powers of attorney that deal with real estate.</p>"
+   "html": "<p>The Register and Recorder handles deeds, from Suite 102 of the courthouse at 500 E. Market Street, Kittanning. One office holds three jobs: Recorder of Deeds, Register of Wills and Clerk of Orphans&rsquo; Court. The main number is (724) 548-3280.</p><p>Transactions are taken from 8:00 a.m. to 3:45 p.m., while records research runs until 4:15 p.m. Payment is by cash or check only. Cards of any kind are refused.</p><p>On the recorder&rsquo;s side, the office keeps real estate records safe and files land documents, military discharges, notary bonds and commissions, and powers of attorney that deal with real estate.</p>"
   },
   {
    "h2": "Electronic and paper filing",
@@ -30,6 +30,10 @@
    "html": "<p>Before anyone drives to Kittanning, make sure the packet has a notarized deed with a legal description, the tax map number, a signed Certificate of Residence, and three checks: state tax, local tax and filing fee. Add a Statement of Value in duplicate if the deed has no price, is a gift, or claims an exemption. Cash is accepted, but checks are easier to trace if a question comes up later.</p>"
   },
   {
+   "h2": "Step by step for a seller",
+   "html": "<p>Most Armstrong County sellers never stand at the counter, but it helps to know the order. The title agent drafts the deed from your existing one, so keep a copy of how you took title. You sign before a notary at closing. The agent then adds the legal description, the tax map number and the Certificate of Residence, writes the three checks, and files the packet by e-recording or in person. Once the office accepts it, the buyer is on record as owner. If something is rejected, the office will say why, and the fix is usually a missing signature, a shaded area or a wrong date, so a second trip is rare when the list above is followed.</p><p>Sellers who inherited a house should ask whether the transfer is wholly exempt on family grounds. If it is, the relationship has to be written on the deed in plain words, or the office will expect a Statement of Value.</p>"
+  },
+  {
    "h2": "What a cash sale does not change",
    "html": "<p>Selling for cash does not skip the recorder. The deed is still checked, taxed and filed here. What a cash deal removes is the buyer&rsquo;s loan approval, which is often the slowest piece of a closing. If a mortgage is being paid off from your proceeds, ask the title company to confirm that the release is recorded afterward.</p>"
   }
@@ -37,7 +41,7 @@
  "faqs": [
   {
    "q": "Where is the Armstrong County Recorder of Deeds office?",
-   "a": "It is inside the Register and Recorder&rsquo;s office, Suite 102 of the Armstrong County Courthouse at 500 E. Market Street, Kittanning, PA 16201. The telephone is (724) 548-3280."
+   "a": "It is inside the Register and Recorder’s office, Suite 102 of the Armstrong County Courthouse at 500 E. Market Street, Kittanning, PA 16201. The telephone is (724) 548-3280."
   },
   {
    "q": "Can I pay with a credit card at the Armstrong County recorder?",
@@ -49,7 +53,7 @@
   },
   {
    "q": "What is a tax map number and why does a deed need one?",
-   "a": "It identifies the property in the county&rsquo;s mapping system and has to appear on deeds and mortgages. It is not the parcel number. The Mapping Department at (724) 548-3234 can provide it."
+   "a": "It identifies the property in the county’s mapping system and has to appear on deeds and mortgages. It is not the parcel number. The Mapping Department at (724) 548-3234 can provide it."
   },
   {
    "q": "Do I need a Statement of Value to record a deed?",
