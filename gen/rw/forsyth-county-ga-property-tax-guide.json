@@ -1,74 +1,101 @@
 {
-  "slug": "forsyth-county-ga-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which Forsyth County offices handle my property tax?",
-      "html": "<p>Different offices handle valuation and billing. The Board of Assessors sets values and takes exemption and appeal filings, while the Tax Commissioner mails bills and takes payment. The assessors answer to neither the Board of Commissioners nor the Tax Commissioner, and the Tax Commissioner's office is likewise independent.</p><ul><li>Board of Assessors: 426 Canton Hwy, Cumming, GA 30040, phone (770) 781-2106.</li><li>Tax Commissioner: main office at 1092 Tribble Gap Road in Cumming, with a second office at 1950 Sharon Road, Cumming, GA 30041. Phone (770) 781-2110 or email tax@forsythco.com.</li></ul><p>Taxable value is 40 percent of market value, and the school board and county commissioners set the millage applied to it. The assessors' site posts the rates, so ask which ones cover your parcel.</p>"
-    },
-    {
-      "h2": "What does the Forsyth County property tax year look like?",
-      "html": "<p>January 1 drives everything: value, owner of record and homestead eligibility are all measured on that date. The calendar below follows the Board of Assessors' own summary.</p><table><caption>Forsyth County property tax calendar (Forsyth County Board of Assessors, Key Deadlines)</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Value, ownership and use are fixed for the tax year</td></tr><tr><td>January 1 to April 1</td><td>Property returns and exemption filings</td></tr><tr><td>Late May to June</td><td>Assessment notices go out to real property owners</td></tr><tr><td>45 days after mailing</td><td>Last day to appeal or to apply for homestead from the notice</td></tr><tr><td>September</td><td>Tax Commissioner mails and posts bills</td></tr><tr><td>November 15</td><td>Payment due</td></tr></tbody></table><p>The assessment notice is informational and is not a tax bill. Legislation in 2025 and 2026 removed the estimated taxes and estimated rollback rates from the notice, which now shows the fair market value and the savings from any exemptions you hold.</p>"
-    },
-    {
-      "h2": "How do I pay a Forsyth County tax bill, and what if November 15 is a weekend?",
-      "html": "<p>Options are forsythcountytax.com (card or e-check), your bank's bill-pay, a check mailed to 1092 Tribble Gap Rd., Cumming, GA 30040, or a visit or drop box at either office. Checks name the Forsyth County Tax Commissioner as payee.</p><p>In 2026 the due date of November 15 fell on a Sunday, and the Tax Commissioner announced that payments received Monday, November 16 would be accepted without interest. Check the calendar each fall for the same situation.</p><p>Bills go to the January 1 owner, and the FAQ says a bill that never arrives still has to be paid. Escrow accounts usually pay through a tax service, yet the county holds the homeowner responsible for making sure the money arrives on time.</p>"
-    },
-    {
-      "h2": "What happens if a Forsyth County property tax payment is late?",
-      "html": "<p>Taxes unpaid after November 15 are delinquent. Interest runs monthly at the legal rate. On top of that, 5 percent of the unpaid balance is added every 120 days, capping at 20 percent. At 90 days past due the office adds a Fi.Fa. (tax lien) fee of $22.50 on bills under $100 or $32.50 on bills over $100.</p><ul><li>Partial payments are accepted, though charges keep building on the unpaid part.</li><li>A 30-day notice of intent goes out before a Fi.Fa. is issued.</li><li>The clerk's General Execution Docket carries the lien for seven years, and credit reports may pick it up.</li><li>A bounced check costs $30 or 5 percent of its face, whichever is larger, and the office then wants cash or certified funds.</li></ul><p>Continued nonpayment exposes the property to levy and sale. A sale is an auction on a first Tuesday outside the Cumming courthouse, and proceeds above the amount owed are held for the owners as excess funds.</p>"
-    },
-    {
-      "h2": "How do I appeal a Forsyth County assessment?",
-      "html": "<p>Counting begins on the day the notice is mailed and runs 45 days. Notices for 2026 were mailed June 26, 2026, which put that year's last day at August 10, 2026, and later notices print their own date.</p><p>Appeals can be filed on the county's online property search, by post, or at the assessors' counter at 426 Canton Hwy. The county says email and fax appeals are no longer accepted, and mailed appeals must be postmarked by the last day shown on the notice. Written appeals should say which process you choose.</p><ul><li>Board of Equalization, with a later appeal to Superior Court.</li><li>Arbitration, limited to valuation, with an appeal to Superior Court. Fees may apply.</li><li>Hearing officer, for non-homestead real property and certain high-value personal property, on value and uniformity only.</li><li>Direct to Superior Court, which needs the Board of Assessors' consent. Fees may apply.</li></ul>"
-    },
-    {
-      "h2": "How does the Forsyth County homestead exemption work?",
-      "html": "<p>Eligibility is set on January 1: you own the house, live there and are a county legal resident, which the county defines through voter or vehicle registration. Nothing happens automatically, so file an application, due April 1 or inside your 45-day appeal window for that year. After approval it carries forward until the deed changes or you stop qualifying.</p><p>The standard exemption cuts assessed value by $8,000 for county operations and fire, and by $2,000 for state and school levies. A floating feature freezes your county and fire taxable value at the base year set when you apply, so later increases in value are exempt from those two authorities. School and state taxes still follow current value.</p><ul><li>Age 65 on or before January 1: full exemption from school general and school bond taxes.</li><li>Age 62 and up, with income caps: extra school tax relief.</li><li>Disability and disabled veteran exemptions are listed on the assessors' exemption page.</li></ul><p>Standard and 65-plus applications go in online, by notarized mail or in person; the portal is open December through April 1, and notaries at each office are free. Bring a Georgia license or state ID showing the property address, and know the last four digits of your Social Security number.</p>"
-    },
-    {
-      "h2": "What happens to the tax bill when I sell a Forsyth County house?",
-      "html": "<p>A sale in the middle of the year leaves the seller's name on the bill, because the county bills the January 1 owner. Either side can email the closing statement to tax@forsythco.com and the office will reissue the bill to the buyer, as long as the purchase closed before November 15.</p><p>A new name on the deed means the occupant must reapply for homestead with the Board of Assessors, the county says. After a death or divorce the new owner applies in person at 426 Canton Hwy.</p><p>Past-due tax at closing adds the penalties and fees above to the payoff, so request a figure good through the closing date.</p>"
-    },
-    {
-      "h2": "Which other Forsyth County property tax filings could affect a seller?",
-      "html": "<p>Owners with more than a house on the parcel should look at the extra filings the county runs on its own calendar.</p><ul><li>Personal property such as boats, aircraft, equipment and business inventory needs a return filed with the Board of Assessors by April 1. Missing it or filing late brings a 10 percent penalty.</li><li>A mobile home gets its own early bill: sent in January, due April 1, and open to appeal at the Board of Assessors for 45 days after mailing.</li><li>Specialized assessments cover preferential, historic, residential transitional, conservation use, brownfield and forest land. The Board of Assessors answers questions about each at (770) 781-2106.</li></ul><p>A refund of an overpayment is mailed about 14 business days after the payment posts, and it goes to whoever made the latest payment. An overpayment from a tax service goes back to that service rather than to the mortgage company it was paying for.</p>"
-    },
-    {
-      "h2": "What are the numbers behind the Forsyth County housing market?",
-      "html": "<p>QuickFacts puts the July 2025 population at 282,805 on 224.62 square miles of land, with 98,879 housing units. Owners occupy 84.4 percent of homes. Median home value for owners is $550,400 (2020 to 2024) and median household income is $143,784.</p><p>Owning costs a median $2,525 a month with a mortgage and $674 without. Renters pay a median $2,090 in gross rent, and 4.5 percent of residents live in poverty.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What is the Forsyth County payment deadline?",
-      "a": "November 15. In 2026 that date landed on a Sunday, and the Tax Commissioner took payments through Monday, November 16 without interest."
-    },
-    {
-      "q": "What is the appeal window for a Forsyth County assessment?",
-      "a": "Forty-five days from the day the notice was mailed. The 2026 window, for notices mailed June 26, 2026, ended August 10, 2026."
-    },
-    {
-      "q": "When must I apply for homestead in Forsyth County?",
-      "a": "By April 1, or during the 45-day window after an assessment notice. You also had to own and occupy the home on January 1."
-    },
-    {
-      "q": "What does late payment cost in Forsyth County?",
-      "a": "Interest each month at the legal rate, 5 percent of the balance every 120 days up to a 20 percent cap, and a $22.50 or $32.50 Fi.Fa. fee at 90 days depending on bill size."
-    },
-    {
-      "q": "Should I notify the county after selling?",
-      "a": "It is the way to get the bill moved. Email the closing statement to tax@forsythco.com, and have the buyer apply for homestead with the Board of Assessors."
-    }
-  ],
-  "sources": [
-    {"title": "Forsyth County Board of Assessors, Key Deadlines", "url": "https://forsythco.com/government/departments/board-of-assessors/key-deadlines"},
-    {"title": "Forsyth County Board of Assessors, Property Assessments", "url": "https://forsythco.com/government/departments/board-of-assessors/property-assessments"},
-    {"title": "Forsyth County Board of Assessors, Homestead and Other Exemptions", "url": "https://forsythco.com/government/departments/board-of-assessors/homestead-other-exemptions"},
-    {"title": "Forsyth County, 2026 Property Tax Bills Due Nov. 15", "url": "https://forsythco.com/news/2026/09/2026-property-tax-bills-due-nov-15"},
-    {"title": "Forsyth County Tax Commissioner, Property Taxes", "url": "https://forsythcountytax.com/property-taxes"},
-    {"title": "Forsyth County Tax Commissioner, FAQ", "url": "https://forsythcountytax.com/faq"},
-    {"title": "Forsyth County Tax Commissioner, Tax Sales and Excess Funds", "url": "https://forsythcountytax.com/tax-sales-excess-funds"},
-    {"title": "Georgia Department of Revenue, County Property Tax Facts Forsyth", "url": "https://dor.georgia.gov/county-property-tax-facts-forsyth"},
-    {"title": "Census Bureau QuickFacts, Fulton, Forsyth and Franklin Counties, Georgia", "url": "https://www.census.gov/quickfacts/fact/table/fultoncountygeorgia,forsythcountygeorgia,franklincountygeorgia/PST045225"}
-  ]
+ "slug": "forsyth-county-ga-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Which Forsyth County offices handle property tax?",
+   "html": "<p>Different offices handle valuation and billing. The Board of Assessors sets values and takes exemption and appeal filings, while the Tax Commissioner mails bills and takes payment. Each is independent of the Board of Commissioners and of the other.</p><ul><li>Board of Assessors: 426 Canton Hwy, Cumming, GA 30040, phone (770) 781-2106.</li><li>Tax Commissioner: main office at 1092 Tribble Gap Road in Cumming, with a second office at 1950 Sharon Road, Cumming, GA 30041. Phone (770) 781-2110 or email tax@forsythco.com.</li></ul><p>Taxable value is 40 percent of market value, and the school board and county commissioners set the millage applied to it. The assessors' site posts the rates, so ask which ones cover your parcel.</p>"
+  },
+  {
+   "h2": "The Forsyth County property tax year",
+   "html": "<p>January 1 drives everything: value, owner of record and homestead eligibility are all measured on that date.</p><table><caption>Forsyth County property tax calendar</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Value, ownership and use are fixed for the tax year</td></tr><tr><td>January 1 to April 1</td><td>Property returns and exemption filings</td></tr><tr><td>Late May to June</td><td>Assessment notices go out to real property owners</td></tr><tr><td>45 days after mailing</td><td>Last day to appeal or to apply for homestead from the notice</td></tr><tr><td>September</td><td>Tax Commissioner mails and posts bills</td></tr><tr><td>November 15</td><td>Payment due</td></tr></tbody></table><p>The assessment notice is informational and is not a tax bill. Legislation in 2025 and 2026 removed the estimated taxes and estimated rollback rates from the notice, which now shows the fair market value and the savings from any exemptions you hold.</p>"
+  },
+  {
+   "h2": "How to pay, and what if November 15 is a weekend?",
+   "html": "<p>Options are forsythcountytax.com (card or e-check), your bank's bill-pay, a check mailed to 1092 Tribble Gap Rd., Cumming, GA 30040, or a visit or drop box at either office. Checks name the Forsyth County Tax Commissioner as payee.</p><p>When November 15 falls on a weekend, as it did in 2026, the Tax Commissioner has accepted payments on the next business day without interest. Check the calendar each fall for the same situation.</p><p>Bills go to the January 1 owner, and a bill that never arrives still has to be paid. Escrow accounts usually pay through a tax service, yet the county holds the homeowner responsible for making sure the money arrives on time.</p>"
+  },
+  {
+   "h2": "Late payment penalties",
+   "html": "<p>Taxes unpaid after November 15 are delinquent. Interest runs monthly at the legal rate. On top of that, 5 percent of the unpaid balance is added every 120 days, capping at 20 percent. At 90 days past due the office adds a Fi.Fa. (tax lien) fee of $22.50 on bills under $100 or $32.50 on bills over $100.</p><ul><li>Partial payments are accepted, though charges keep building on the unpaid part.</li><li>A 30-day notice of intent goes out before a Fi.Fa. is issued.</li><li>The clerk's General Execution Docket carries the lien for seven years, and credit reports may pick it up.</li><li>A bounced check costs $30 or 5 percent of its face, whichever is larger, and the office then wants cash or certified funds.</li></ul><p>Continued nonpayment exposes the property to levy and sale. A sale is an auction on a first Tuesday outside the Cumming courthouse, and proceeds above the amount owed are held for the owners as excess funds.</p>"
+  },
+  {
+   "h2": "How to appeal a Forsyth County assessment",
+   "html": "<p>Counting begins on the day the notice is mailed and runs 45 days. Notices have gone out in late June (June 26 in 2026), and later notices print their own last day.</p><p>Appeals can be filed on the county's online property search, by post, or at the assessors' counter at 426 Canton Hwy. Email and fax appeals are no longer accepted, and mailed appeals must be postmarked by the last day shown on the notice. Written appeals should say which process you choose.</p><ul><li>Board of Equalization, with a later appeal to Superior Court.</li><li>Arbitration, limited to valuation, with an appeal to Superior Court. Fees may apply.</li><li>Hearing officer, for non-homestead real property and certain high-value personal property, on value and uniformity only.</li><li>Direct to Superior Court, which needs the Board of Assessors' consent. Fees may apply.</li></ul>"
+  },
+  {
+   "h2": "Homestead exemption",
+   "html": "<p>Eligibility is set on January 1: you own the house, live there and are a county legal resident, which the county defines through voter or vehicle registration. Nothing happens automatically, so file an application, due April 1 or inside your 45-day appeal window for that year. After approval it carries forward until the deed changes or you stop qualifying.</p><p>The standard exemption cuts assessed value by $8,000 for county operations and fire, and by $2,000 for state and school levies. A floating feature freezes your county and fire taxable value at the base year set when you apply, so later increases in value are exempt from those two authorities. School and state taxes still follow current value.</p><ul><li>Age 65 on or before January 1: full exemption from school general and school bond taxes.</li><li>Age 62 and up, with income caps: extra school tax relief.</li><li>Disability and disabled veteran exemptions are listed on the assessors' exemption page.</li></ul><p>Standard and 65-plus applications go in online, by notarized mail or in person; the portal is open December through April 1, and notaries at each office are free. Bring a Georgia license or state ID showing the property address, and know the last four digits of your Social Security number.</p>"
+  },
+  {
+   "h2": "What happens to the tax bill when you sell?",
+   "html": "<p>A sale in the middle of the year leaves the seller's name on the bill, because the county bills the January 1 owner. Either side can email the closing statement to tax@forsythco.com and the office will reissue the bill to the buyer, as long as the purchase closed before November 15.</p><p>A new name on the deed means the occupant must reapply for homestead with the Board of Assessors. After a death or divorce the new owner applies in person at 426 Canton Hwy.</p><p>Past-due tax at closing adds the penalties and fees above to the payoff, so request a figure good through the closing date.</p>"
+  },
+  {
+   "h2": "Other filings that could affect a seller",
+   "html": "<p>Owners with more than a house on the parcel should look at the extra filings the county runs on its own calendar.</p><ul><li>Personal property such as boats, aircraft, equipment and business inventory needs a return filed with the Board of Assessors by April 1. Missing it or filing late brings a 10 percent penalty.</li><li>A mobile home gets its own early bill: sent in January, due April 1, and open to appeal at the Board of Assessors for 45 days after mailing.</li><li>Specialized assessments cover preferential, historic, residential transitional, conservation use, brownfield and forest land. The Board of Assessors answers questions about each at (770) 781-2106.</li></ul><p>A refund of an overpayment is mailed about 14 business days after the payment posts, and it goes to whoever made the latest payment. An overpayment from a tax service goes back to that service rather than to the mortgage company it was paying for.</p>"
+  },
+  {
+   "h2": "Forsyth County housing at a glance",
+   "html": "<p>Forsyth had 282,805 residents as of July 2025, with 98,879 housing units. Owners occupy 84.4 percent of homes, the median home value for owners is $550,400, and median household income is $143,784. Owning costs a median $2,525 a month with a mortgage and $674 without, and renters pay a median $2,090 in gross rent. At those values, even a small tax error moves real money, so check every figure on your payoff.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Forsyth County payment deadline?",
+   "a": "November 15. When that date lands on a weekend, the Tax Commissioner has taken payment the next business day without interest, as in 2026."
+  },
+  {
+   "q": "What is the appeal window for a Forsyth County assessment?",
+   "a": "Forty-five days from the day the notice was mailed. The last day is printed on your notice, and mailed appeals must be postmarked by then."
+  },
+  {
+   "q": "When must I apply for homestead in Forsyth County?",
+   "a": "By April 1, or during the 45-day window after an assessment notice. You also had to own and occupy the home on January 1."
+  },
+  {
+   "q": "What does late payment cost in Forsyth County?",
+   "a": "Interest each month at the legal rate, 5 percent of the balance every 120 days up to a 20 percent cap, and a $22.50 or $32.50 Fi.Fa. fee at 90 days depending on bill size."
+  },
+  {
+   "q": "Should I notify the county after selling?",
+   "a": "Yes, it is the way to get the bill moved. Email the closing statement to tax@forsythco.com, and have the buyer apply for homestead with the Board of Assessors."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Forsyth County Board of Assessors, Key Deadlines",
+   "url": "https://forsythco.com/government/departments/board-of-assessors/key-deadlines"
+  },
+  {
+   "title": "Forsyth County Board of Assessors, Property Assessments",
+   "url": "https://forsythco.com/government/departments/board-of-assessors/property-assessments"
+  },
+  {
+   "title": "Forsyth County Board of Assessors, Homestead and Other Exemptions",
+   "url": "https://forsythco.com/government/departments/board-of-assessors/homestead-other-exemptions"
+  },
+  {
+   "title": "Forsyth County, 2026 Property Tax Bills Due Nov. 15",
+   "url": "https://forsythco.com/news/2026/09/2026-property-tax-bills-due-nov-15"
+  },
+  {
+   "title": "Forsyth County Tax Commissioner, Property Taxes",
+   "url": "https://forsythcountytax.com/property-taxes"
+  },
+  {
+   "title": "Forsyth County Tax Commissioner, FAQ",
+   "url": "https://forsythcountytax.com/faq"
+  },
+  {
+   "title": "Forsyth County Tax Commissioner, Tax Sales and Excess Funds",
+   "url": "https://forsythcountytax.com/tax-sales-excess-funds"
+  },
+  {
+   "title": "Georgia Department of Revenue, County Property Tax Facts Forsyth",
+   "url": "https://dor.georgia.gov/county-property-tax-facts-forsyth"
+  },
+  {
+   "title": "Census Bureau QuickFacts, Fulton, Forsyth and Franklin Counties, Georgia",
+   "url": "https://www.census.gov/quickfacts/fact/table/fultoncountygeorgia,forsythcountygeorgia,franklincountygeorgia/PST045225"
+  }
+ ]
 }
