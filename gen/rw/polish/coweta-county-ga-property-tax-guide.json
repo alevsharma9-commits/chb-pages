@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Where to take property tax questions",
-   "html": "<p>Owners deal with two Newnan offices. For bills and payments, call the Tax Commissioner (87 Newnan Station Drive, Suite 100) at 770-254-2670. For values and homestead claims, call the Assessor's Office (37 Perry Street) at 770-254-2680.</p><p>Weekday counter hours at the commissioner's are 8am to 4:30pm. Two elected bodies, the county commissioners and the school board, choose separate millage rates, while value disputes go to a board the grand jury names. Deed copies come from the Clerk of Superior Court in the Coweta County Justice Center at 72 Greenville Street, 770-254-2690.</p><ul><li>Value or exemption: Assessor's Office.</li><li>Bill, payoff or lien: Tax Commissioner.</li><li>Deed copy: Clerk of Superior Court.</li></ul>"
+   "html": "<p>Owners deal with two Newnan offices. For bills and payments, call the Tax Commissioner (87 Newnan Station Drive, Suite 100) at 770-254-2670. For values and homestead claims, call the Assessor's Office (37 Perry Street) at 770-254-2680.</p><p>Weekday counter hours at the commissioner's are 8am to 4:30pm. Two elected bodies, the county commissioners and the school board, choose separate millage rates, while value disputes go to a board the grand jury names. Deed copies come from the Clerk of Superior Court in the Coweta County Justice Center at 72 Greenville Street, 770-254-2690.</p><ul><li>Value or exemption question: Assessor's Office.</li><li>Bill, payoff or lien question: Tax Commissioner.</li><li>Deed copy: Clerk of Superior Court.</li></ul>"
   },
   {
    "h2": "Coweta County for a seller",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Before you sign a listing agreement",
-   "html": "<p>Call the Tax Commissioner at 770-254-2670 and ask whether anything is owed on the parcel, including a FiFa. If you hold a homestead exemption, plan to tell the Assessor's Office once the sale closes, because the exemption belongs to the occupant and the buyer files a new claim. Look at your assessment notice too. With 45 days to appeal, a notice received in the weeks before listing is worth acting on promptly.</p>"
+   "html": "<p>Phone the Tax Commissioner at 770-254-2670 to learn what is owed on the parcel, FiFa included. If you hold a homestead exemption, plan to tell the Assessor's Office once the sale closes, because the exemption belongs to the occupant and the buyer files a new claim. Look at your assessment notice too. With 45 days to appeal, a notice received in the weeks before listing is worth acting on promptly.</p>"
   },
   {
    "h2": "How to appeal your assessment",
@@ -31,29 +31,29 @@
   },
   {
    "h2": "Exemptions and special programs",
-   "html": "<p>A homestead claim requires that you owned and lived in the house on January 1, with the application in hand by April 1 of the first year. Anything filed later starts a year afterward. The assessors decide each claim and you can appeal a denial, but homestead cannot be claimed on a second property.</p><p>Local exemptions in Coweta replace the state amount whenever they are larger. Ask the assessors what proof they need for age, income or military service. Once approved, the exemption renews with no new application until you move or ownership changes.</p><ul><li>Deferral: for owners 62 and over with gross household income of $15,000 or less, tax waits until the ownership changes or the balance plus interest reaches 85% of fair market value.</li><li>Agricultural use: qualifying farmland is assessed at 30% of fair market value.</li><li>Conservation Use and Forest Land Protection: covenants of 10 or 15 years.</li><li>Historic property and Hazardous Site Reuse: preferential assessment, each applied for in the first four months of the year it starts.</li></ul><p>Anyone buying an enrolled tract should check with the assessors on whether the covenant carries over.</p>"
+   "html": "<p>To claim homestead, you must have owned the house and lived there on January 1 and get the application in by April 1 of the first year. Later filings take effect the next year. The assessors decide each claim and you can appeal a denial, but homestead cannot be claimed on a second property.</p><p>Local exemptions in Coweta replace the state amount whenever they are larger. Ask the assessors what proof they need for age, income or military service. After approval it renews on its own until you move or ownership changes.</p><ul><li>Deferral: owners 62 and over with gross household income of $15,000 or less can put tax off until ownership changes or the balance plus interest hits 85% of fair market value.</li><li>Agricultural use: qualifying farmland is assessed at 30% of fair market value.</li><li>Conservation Use and Forest Land Protection: 10-year or 15-year covenants.</li><li>Historic property and Hazardous Site Reuse: preferential assessment, applied for during the first four months of the year it begins.</li></ul><p>Anyone buying an enrolled tract should check with the assessors on whether the covenant carries over.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which office in Coweta County sends my property tax bill?",
-   "a": "The Tax Commissioner, at 87 Newnan Station Drive, Suite 100, Newnan. Bills go out October 1, and you can call 770-254-2670."
+   "q": "Who sends my Coweta County property tax bill?",
+   "a": "The Tax Commissioner, 87 Newnan Station Drive, Suite 100, Newnan. Mailing is October 1, and the office phone is 770-254-2670."
   },
   {
-   "q": "Is December 1 the Coweta County due date for every bill?",
-   "a": "For land, buildings and personal property, yes. Mobile and manufactured homes are due April 1, and the printed bill states the date that applies to you."
+   "q": "Is December 1 the due date for every Coweta County bill?",
+   "a": "It applies to land, buildings and personal property. Mobile and manufactured homes come due April 1. Your printed bill shows which date is yours."
   },
   {
-   "q": "Can a hearing officer decide my Coweta County homestead appeal?",
-   "a": "No. Hearing officers are limited to disputes over the value of non-homestead real property worth $1,000,000 or more."
+   "q": "Can a hearing officer decide a Coweta County homestead appeal?",
+   "a": "No. That route is reserved for the value of non-homestead real property at $1,000,000 or more."
   },
   {
-   "q": "Where do I get my deed in Coweta County?",
-   "a": "From the Clerk of Superior Court at the Coweta County Justice Center, 72 Greenville Street, Newnan, GA 30263. The clerk's number is 770-254-2690."
+   "q": "Where can I get a copy of my deed in Coweta County?",
+   "a": "Ask the Clerk of Superior Court at the Coweta County Justice Center, 72 Greenville Street, Newnan, GA 30263, or call 770-254-2690."
   },
   {
-   "q": "Do Coweta County penalties apply to every unpaid bill?",
-   "a": "Not to homesteaded property with a bill under $500. Other unpaid bills take the 5% penalty after 120 days, repeating every 120 days up to a 20% cap."
+   "q": "Does every unpaid Coweta County bill draw a penalty?",
+   "a": "Not a homesteaded bill under $500. Others pick up a 5% penalty at 120 days, again every 120 days, capped at 20%."
   }
  ],
  "sources": [
