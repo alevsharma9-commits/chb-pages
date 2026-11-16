@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Which Union County offices deal with my tax bill?",
-   "html": "<p>Union County Tax Administration does, and its Revenue Division collects the bills. The Revenue Division is at 500 N. Main Street, Suite 119, Monroe, with a mailing address of P.O. Box 38, Monroe, NC 28111-0038 and a phone line at 704-283-3848.</p><p>Valuation questions and appeals go to the Tax Administrator's Office at 500 N. Main Street, Suite 236, or 704-283-3746. In person, the collector's counter in the Government Center takes payments weekdays from 8:00 in the morning to 5:00 in the evening.</p><p>The county also collects property tax bills for ten municipalities: Fairview, Hemby Bridge, Lake Park, Marshville, Marvin, Mineral Springs, Stallings, Waxhaw, Wesley Chapel and Wingate. A house inside one of those towns gets one combined collection through the county office. Ask the county which office bills a parcel inside a town not on that list.</p>"
+   "html": "<p>Union County Tax Administration does, and its Revenue Division collects the bills. The Revenue Division is at 500 N. Main Street, Suite 119, Monroe, and receives mail at P.O. Box 38, Monroe, NC 28111-0038, with 704-283-3848 as its phone line.</p><p>Valuation questions and appeals go to the Tax Administrator's Office at 500 N. Main Street, Suite 236, or 704-283-3746. In person, the collector's counter in the Government Center takes payments weekdays from 8:00 in the morning to 5:00 in the evening.</p><p>The county also collects property tax bills for ten municipalities: Fairview, Hemby Bridge, Lake Park, Marshville, Marvin, Mineral Springs, Stallings, Waxhaw, Wesley Chapel and Wingate. A house inside one of those towns gets one combined collection through the county office. Ask the county which office bills a parcel inside a town not on that list.</p>"
   },
   {
    "h2": "How fast is Union County growing?",
@@ -15,11 +15,11 @@
   },
   {
    "h2": "What is the Union County billing and interest schedule?",
-   "html": "<p>Bills on real estate and personal property come due September 1, but no interest builds until after January 5. Mailed checks count if postmarked by that day, and a weekend January 5 pushes the cutoff to Monday.</p><p>Starting January 6, the county charges 2% through the end of the month, then three-fourths of 1% per month. Car and truck tax is collected when you register or renew a plate, so it stays off this bill.</p><table><caption>Union County payment calendar, as the county prints it</caption><thead><tr><th>Date</th><th>What it means</th></tr></thead><tbody><tr><td>September 1</td><td>Bills fall due</td></tr><tr><td>January 5</td><td>Final interest-free day</td></tr><tr><td>January 6 to 31</td><td>2% interest</td></tr><tr><td>Each month after</td><td>Another three-fourths of 1% monthly</td></tr></tbody></table><p>Source: <a href=\"https://www.unioncountync.gov/government/departments-r-z/taxes-property/collection-payment\">Union County Collection and Payment</a>. Call the office for this year's rate and ask whether a prepayment discount applies.</p>"
+   "html": "<p>Bills for land and personal property come due September 1, but no interest builds until after January 5. A postmark dated no later than then protects a mailed check, and the cutoff slides to Monday when January 5 is a weekend.</p><p>Starting January 6, the county charges 2% through the end of the month, then three-fourths of 1% per month. Car and truck tax is collected when you register or renew a plate, so it stays off this bill.</p><table><caption>Union County payment calendar, as the county prints it</caption><thead><tr><th>Date</th><th>What it means</th></tr></thead><tbody><tr><td>September 1</td><td>Bills fall due</td></tr><tr><td>January 5</td><td>Final interest-free day</td></tr><tr><td>January 6 to 31</td><td>2% interest</td></tr><tr><td>Each month after</td><td>Another three-fourths of 1% monthly</td></tr></tbody></table><p>Source: <a href=\"https://www.unioncountync.gov/government/departments-r-z/taxes-property/collection-payment\">Union County Collection and Payment</a>. Call the office for this year's rate and ask whether a prepayment discount applies.</p>"
   },
   {
    "h2": "What else does the Union County Revenue Division collect?",
-   "html": "<p>Property tax is only part of its workload. The county page lists the following among the charges handled by the division, and a closing agent may ask about any of them for the property you are selling.</p><ul><li>Real estate and personal property tax bills.</li><li>Delinquent motor vehicle tax bills.</li><li>Gross receipts taxes.</li><li>Current and delinquent water and sewer bills.</li><li>Landfill fees and other utility payments.</li></ul><p>The division also values every registered motor vehicle owned by a county resident. Call 704-283-3848 and ask whether any water, sewer or landfill balance sits on the account you are selling.</p>"
+   "html": "<p>Property tax is only part of its workload. The county page lists the following among the charges handled by the division, and a closing agent may ask about any of them for the property you are selling.</p><ul><li>Tax bills for land, buildings and business or personal property.</li><li>Delinquent motor vehicle tax bills.</li><li>Gross receipts taxes.</li><li>Current and delinquent water and sewer bills.</li><li>Landfill fees and other utility payments.</li></ul><p>The division also values every registered motor vehicle owned by a county resident. Call 704-283-3848 and ask whether any water, sewer or landfill balance sits on the account you are selling.</p>"
   },
   {
    "h2": "What payment options does Union County give?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "How does a Union County valuation appeal work?",
-   "html": "<p>An informal review with Tax Administration comes first, and a formal hearing before the county's equalization board follows if you still disagree. The county's appeal page says a staff appraiser reviews your evidence, mails a decision, and sends the case to the board if you return the form at the bottom of the decision letter.</p><p>The page describes the board as five citizens who hear your case and the staff's, and says it rules within 30 days. The board's letter explains how to continue to the statewide Property Tax Commission, and G.S. 105-290 sets 30 days from the mailing of the board's notice.</p><p>Useful evidence listed by the county includes appraisals as of the revaluation date, sales of similar properties, photos of unusual damage and letters about septic limits from Environmental Health or a licensed soil scientist. The percentage of change since a prior assessment cannot be considered. Both the informal review and the formal appeal are free, and a lawyer is not required.</p>"
+   "html": "<p>An informal review with Tax Administration comes first, and a formal hearing before the county's equalization board follows if you still disagree. The county's appeal page says a staff appraiser reviews your evidence, mails a decision, and sends the case to the board if you return the form at the bottom of the decision letter.</p><p>The page describes the board as five citizens who hear your case and the staff's, and says it rules within 30 days. The board's letter explains how to continue to the statewide Property Tax Commission, and G.S. 105-290 gives 30 days counted from when the board's notice was mailed.</p><p>Useful evidence listed by the county includes appraisals as of the revaluation date, sales of similar properties, photos of unusual damage and letters about septic limits from Environmental Health or a licensed soil scientist. The percentage of change since a prior assessment cannot be considered. Both the informal review and the formal appeal are free, and a lawyer is not required.</p>"
   },
   {
    "h2": "Which relief programs can reduce a Union County bill?",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "What if a Union County house is sold with tax still due?",
-   "html": "<p>The debt travels with the land. G.S. 105-355 attaches the lien as of the listing date, with penalties, interest and costs, so buyers and lenders expect payoff at closing.</p><p>Continued nonpayment can lead to a foreclosure suit under G.S. 105-374, ending in a public auction at the courthouse door. Anyone redeeming before confirmation owes the taxes plus penalties, interest and costs.</p><p>In a quick sale, get the payoff from the Revenue Division, let the closer pay it out of the proceeds, and keep the receipt. The deed stamp tax is a separate charge to the seller, collected by the register of deeds before recording.</p>"
+   "html": "<p>A tax debt stays attached to the land. G.S. 105-355 attaches the lien as of the listing date, with penalties, interest and costs, so buyers and lenders expect payoff at closing.</p><p>Continued nonpayment can lead to a foreclosure suit under G.S. 105-374, ending in a public auction at the courthouse door. Anyone redeeming before confirmation owes the taxes plus penalties, interest and costs.</p><p>In a quick sale, get the payoff from the Revenue Division, let the closer pay it out of the proceeds, and keep the receipt. The deed stamp tax is a separate charge to the seller, collected by the register of deeds at filing.</p>"
   }
  ],
  "faqs": [
@@ -45,10 +45,10 @@
   },
   {
    "q": "Where do I pay Union County property tax in person?",
-   "a": "Go to the first-floor collector's counter at the Government Center on weekdays, 8:00 am to 5:00 pm. Letters go to the Monroe post office box."
+   "a": "Walk in to the collector's counter weekdays between 8:00 am and 5:00 pm. Letters go to the Monroe post office box."
   },
   {
-   "q": "Is the 2026 appeal window still open for Union County real estate?",
+   "q": "Is a 2026 value appeal still possible in Union County?",
    "a": "No. The county says it closed with the board's May 6, 2026 adjournment. Ask Tax Administration about later years."
   },
   {
@@ -57,7 +57,7 @@
   },
   {
    "q": "Who owes deed stamp tax on a Union County sale?",
-   "a": "The seller does, paying the register of deeds before recording. The amount appears on the settlement statement."
+   "a": "The seller does, at the register's counter first. The amount appears on the settlement statement."
   }
  ],
  "sources": [

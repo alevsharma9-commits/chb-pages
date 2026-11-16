@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Which Sampson County office bills the tax?",
-   "html": "<p>The Sampson County Tax Office gathers county, fire district and school district levies, and for now it also collects on behalf of Clinton, Autryville, Harrells, Newton Grove, Salemburg, Turkey and Garland. One bill can therefore stack several levies.</p><p>Bills for land, buildings and personal property go out by mail in July or August, while the state DMV sends the registered vehicle bills. Phone the office at (910) 592-8146 or write to PO Box 1082, Clinton, NC 28329.</p><p>Two online tools help: a property record search and a site to search, view and pay bills. Sellers can confirm the parcel, owner and balance there before listing.</p>"
+   "html": "<p>The Sampson County Tax Office gathers county, fire district and school district levies, and for now it also collects on behalf of Clinton, Autryville, Harrells, Newton Grove, Salemburg, Turkey and Garland. One bill can therefore stack several levies.</p><p>Bills for land, buildings and personal property go out by mail in July or August, while the state DMV sends the registered vehicle bills. Phone the office at (910) 592-8146 or write to PO Box 1082, Clinton, NC 28329.</p><p>Two online tools help: a property record search and a site to search, view and pay bills. Sellers can confirm the parcel, owner and balance there before listing. The county's GIS viewer, which searches by owner name, address or parcel ID, helps you match the tax record to the right lot, and that matters in a county where a single address can sit in a town, a fire district and a school district at once.</p>"
   },
   {
    "h2": "What are the Sampson County payment dates and late charges?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "What tax rates does Sampson County print?",
-   "html": "<p>The county's Tax Rates and Fees page carries the figures below under a 2026 heading. Budget years change them, so check the tax office before leaning on any one.</p><table><caption>Rates as printed on the Sampson County Tax Rates and Fees page, per $100 of value</caption><thead><tr><th>Item</th><th>Printed figure</th><th>Source</th></tr></thead><tbody><tr><td>County-wide rate</td><td>0.685</td><td>County rate page</td></tr><tr><td>Clinton school district</td><td>0.115</td><td>County rate page</td></tr><tr><td>Clinton city</td><td>0.34</td><td>County rate page</td></tr><tr><td>Clinton special downtown</td><td>0.18</td><td>County rate page</td></tr><tr><td>Garland</td><td>0.48</td><td>County rate page</td></tr><tr><td>Newton Grove</td><td>0.40</td><td>County rate page</td></tr><tr><td>Autryville</td><td>0.47</td><td>County rate page</td></tr></tbody></table><p>The page prints some extras as well. Clinton shows a $25.00 sticker fee, Garland $10.00, Roseboro $9.00, and Newton Grove and Salemburg $5.00 each, and Harrells lists a trash collection charge of $111.00 for one and $50.00 for each additional. The page also lists rates for fire districts such as Plainview, Halls, Coharie and Taylors Bridge, and for Harrells, Turkey, Roseboro and Salemburg. Your total depends on which district and town the parcel sits in. A parcel's bill adds the county-wide rate to the school, fire and municipal figures that apply to it.</p>"
+   "html": "<p>The county's Tax Rates and Fees page carries the figures below under a 2026 heading. Budget years change them, so check the tax office before leaning on any one.</p><table><caption>Rates as printed on the Sampson County Tax Rates and Fees page, per $100 of value</caption><thead><tr><th>Item</th><th>Printed figure</th><th>Source</th></tr></thead><tbody><tr><td>County-wide rate</td><td>0.685</td><td>County rate page</td></tr><tr><td>Clinton school district</td><td>0.115</td><td>County rate page</td></tr><tr><td>Clinton city</td><td>0.34</td><td>County rate page</td></tr><tr><td>Clinton special downtown</td><td>0.18</td><td>County rate page</td></tr><tr><td>Garland</td><td>0.48</td><td>County rate page</td></tr><tr><td>Newton Grove</td><td>0.40</td><td>County rate page</td></tr><tr><td>Autryville</td><td>0.47</td><td>County rate page</td></tr></tbody></table><p>The page prints some extras as well. Clinton shows a $25.00 sticker fee, Garland $10.00, Roseboro $9.00, and Newton Grove and Salemburg $5.00 each, and Harrells lists a trash collection charge of $111.00 for one and $50.00 for each additional. The page also lists fire district rates, for example Plainview, Halls, Coharie, Goshen and Taylors Bridge, and town rates for Harrells, Turkey, Roseboro and Salemburg. The rate page adds that Franklin, Turkey and Autryville fire charges apply inside the limits of Harrells, Turkey and Autryville respectively. Your total depends on which district and town the parcel sits in. A parcel's bill adds the county-wide rate to the school, fire and municipal figures that apply to it.</p>"
   },
   {
    "h2": "What value date does Sampson County use for houses?",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Which relief programs could a Sampson County owner use?",
-   "html": "<p>State law offers three programs, and one owner may draw on only one. Form AV-9 goes to the county assessor, and applications are accepted up to June 1 ahead of the tax year.</p><ul><li>Elderly or disabled exclusion: the larger of $25,000 or half the appraised value of a permanent home, for owners 65 or older or totally and permanently disabled. The Department of Revenue prints an income limit of $38,800 for 2026 (section 105-277.1).</li><li>Disabled veteran exclusion: $45,000 of appraised value is excluded, and the revenue form says no age or income limit applies (section 105-277.1C).</li><li>Circuit breaker: tax is capped at 4.0 percent of income for incomes within the limit and 5.0 percent for incomes up to 150 percent of it, with the excess deferred (section 105-277.1B).</li></ul><p>Deferred taxes for the three prior years come due when the owner transfers the property, dies or stops living there, so a sale triggers that bill. Ask the office for the amount before closing.</p>"
+   "html": "<p>Three state programs exist, and each owner gets only one. You apply on Form AV-9 at the county assessor's office, not in Raleigh, and the deadline for acceptance is June 1 before the tax year.</p><ul><li>Elderly or disabled exclusion (section 105-277.1): shields the larger of $25,000 or half of a permanent home's appraised value. The Department of Revenue lists a 2026 income ceiling of $38,800.</li><li>Disabled veteran exclusion (section 105-277.1C): $45,000 of value, with no age or income test according to the revenue form.</li><li>Circuit breaker (section 105-277.1B): caps tax at a percentage of income, 4.0 percent for lower incomes and 5.0 percent for incomes up to 150 percent of the ceiling, and defers the rest.</li></ul><p>Deferred circuit breaker tax for the three prior years comes due when the owner transfers the home, dies or stops living in it. A sale triggers it, so get the figure from the tax office before you close.</p>"
   },
   {
    "h2": "How is the tax settled when a Sampson County house sells?",
@@ -88,6 +88,10 @@
   {
    "title": "Sampson County Tax Administration",
    "url": "https://sampsoncountync.gov/Government/Departments-A-Z/Tax-Administration"
+  },
+  {
+   "title": "Sampson County services page (GIS viewer, tax bills)",
+   "url": "https://www.sampsoncountync.gov/Services/Vital-Records"
   },
   {
    "title": "Sampson County Tax Rates and Fees",
