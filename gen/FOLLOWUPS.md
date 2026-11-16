@@ -61,3 +61,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * Miami-Dade pages state 2026 millage as adopted (county chart); miami-beach-fl two millage lines (18.6681 and 19.4045) deferred to bill.
 * cape-coral-fl-property-tax-guide states 5.1471 mills adopted (city news). citrus-county-fl: installment penalty omitted (collector pages disagree). Manatee 2026 discount window ends Dec 3 per collector page.
 * Rates: port-st-lucie-fl 4.8750 mills = approved at July workshop (not final). orlando-fl 0.00665 as printed. An agent edited gen/rw/overlap.py (env N); reverted.
+* sell-my-house-fast-altamonte-springs-fl history from 2009 county profile (dated). sell-my-house-fast-casselberry-fl and boynton-beach-fl thin city sources. sell-my-house-fast-cape-coral-fl rests on Lee appraiser dates + state notes only. pinellas pages cite Escambia page for Amendment 3.
