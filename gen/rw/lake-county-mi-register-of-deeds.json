@@ -3,23 +3,23 @@
  "sections": [
   {
    "h2": "Where is the Lake County, Michigan Register of Deeds?",
-   "html": "<p>It sits inside the Lake County Clerk's office at 800 Tenth Street, Suite 200, in Baldwin, the county seat. One office handles both the clerk's work and the register of deeds work, so every deed for land in the county is left at the same counter.</p><ul><li>Hours: Monday through Thursday, 8:30 am to 5:00 pm, and Friday, 8:30 am to 4:00 pm</li><li>Phone: (231) 745-2725</li><li>Fax: (231) 745-8632</li></ul><p>The county's Equalization Department is in Suite 230 of the same building, phone (231) 745-2723, and it maintains property descriptions and helps with assessment questions.</p>"
+   "html": "<p>Look for Suite 200 at 800 Tenth Street in Baldwin, the county seat. The clerk and the register of deeds share that one office, so every deed for Lake County land goes across the same counter.</p><ul><li>Monday to Thursday: 8:30 am until 5:00 pm</li><li>Friday: 8:30 am until 4:00 pm</li><li>Phone (231) 745-2725, fax (231) 745-8632</li></ul><p>Equalization has its own suite in the same address, Suite 230, with a phone at (231) 745-2723. It maintains property descriptions and helps with assessment questions.</p>"
   },
   {
    "h2": "What kind of county is Lake County for a property seller?",
-   "html": "<p>Lake County is rural, seasonal and low-priced. The county covers about 567 square miles of land and the Census Bureau puts its July 2025 population at 13,182, which works out to roughly 21 people per square mile in 2020. Wikipedia notes the county was created in 1840 as Aischum County and renamed Lake County in 1843 for its many lakes.</p><ul><li>Median value of an owner-occupied home (2020-2024): $133,900</li><li>Owner-occupied housing rate: 82.0%</li><li>Residents 65 and older: 28.6%</li><li>Mean commute to work: 34.0 minutes</li><li>Housing units in 2020: 13,315, of which 61.9% were vacant</li></ul><p>A vacancy share that high means many parcels sit empty for long stretches, so an owner selling one may live far from Baldwin. Call the office with the parcel number to learn what it needs before you mail anything.</p>"
+   "html": "<p>Lake County is rural, seasonal and low-priced. About 567 square miles of land hold an estimated 13,182 residents (Census, July 2025), which was close to 21 people per square mile in 2020. Wikipedia notes that the Legislature created it in 1840 as Aischum County, and it took the Lake name in 1843 for its many lakes.</p><ul><li>Typical owner-occupied home value (2020-2024): $133,900</li><li>Owner-occupied rate: 82.0%</li><li>Residents 65 and older: 28.6%</li><li>Mean commute to work: 34.0 minutes</li><li>Housing units in 2020: 13,315, with 61.9% vacant</li></ul><p>A vacancy share that high means many parcels sit empty for long stretches, so an owner selling one may live far from Baldwin. Call the office with the parcel number to learn what it needs before you mail anything.</p>"
   },
   {
    "h2": "How do you pay Lake County recording fees?",
-   "html": "<p>Recording fees must be paid in person at the clerk's office, by check, money order or cash only. The county's online payment page handles copies, vital records and cremation permits, but the register of deeds page says recordable land record fees are the exception.</p><p>The amount comes from state law. MCL 600.2567 sets $30 for entering and recording a document, regardless of the number of pages, and $3 for each additional instrument assigned or discharged in a single document. A copy is $1 per page, certifying a recorded document is $5, and a records search has a $5 minimum. Because that statute lets a charter county set its own schedule, confirm the amount with the office before you mail a check, and send the payment together with the instrument.</p>"
+   "html": "<p>Bring or mail a check, money order or cash payment to the clerk's office, because recording fees cannot be paid online. The county's web payment page covers copies, vital records and cremation permits, and the register of deeds page carves out recordable land record fees as the exception.</p><p>State law sets the amounts. The amounts in MCL 600.2567 are $30 per recorded document however many pages it runs, $1 per copied page, $5 to certify a recording, and a $5 floor on a records search. Statute lets a charter county adopt another schedule, so phone the office to verify the total first.</p>"
   },
   {
-   "h2": "How much is the transfer tax on a Lake County sale?",
-   "html": "<p>Lake County follows the standard Michigan rates: 55 cents per $500 for the county and $3.75 per $500 for the state. Michigan sets the county rate at 55 cents in any county under 2,000,000 people (MCL 207.504) and the state rate at $3.75 for each $500 or fraction (MCL 207.525).</p><table><caption>Transfer tax on sample Lake County sale prices at the statutory rates</caption><thead><tr><th>Sale price</th><th>County tax</th><th>State tax</th><th>Total</th></tr></thead><tbody><tr><td>$60,000</td><td>$66</td><td>$450</td><td>$516</td></tr><tr><td>$133,900</td><td>$147.40</td><td>$1,005</td><td>$1,152.40</td></tr><tr><td>$250,000</td><td>$275</td><td>$1,875</td><td>$2,150</td></tr></tbody></table><p>The middle row uses the Census median value of an owner-occupied home in Lake County. Because the tax is figured on each $500 or fraction, that price rounds up to 268 units. The seller owes the tax, the deed must state the total value or attach a valuation affidavit, and an exemption has to be written on the instrument.</p>"
+   "h2": "What will the transfer tax be on a Lake County sale?",
+   "html": "<p>Two layers apply in Baldwin as in the rest of Michigan. The county layer is 55 cents per $500 because Lake County has fewer than 2,000,000 residents (MCL 207.504), and the state layer is $3.75 per $500 (MCL 207.525).</p><table><caption>What the statutory rates produce on sample Lake County prices</caption><thead><tr><th>Sale price</th><th>County tax</th><th>State tax</th><th>Total</th></tr></thead><tbody><tr><td>$60,000</td><td>$66</td><td>$450</td><td>$516</td></tr><tr><td>$133,900</td><td>$147.40</td><td>$1,005</td><td>$1,152.40</td></tr><tr><td>$250,000</td><td>$275</td><td>$1,875</td><td>$2,150</td></tr></tbody></table><p>The middle price is the Census median for the county, which rounds up to 268 units of $500. Since the seller bears the tax, the instrument has to show the full value, or a valuation affidavit has to go with it, and any exemption has to be written on it.</p>"
   },
   {
    "h2": "What gets a deed rejected at the Lake County register of deeds?",
-   "html": "<p>The office returns instruments with a checklist of the reasons, and most of them are formatting and signature defects that you can fix before you submit. The checklist cites the Michigan statutes behind each one.</p><ul><li>Signatures must be original, with names typed or printed beneath them, and the names must match the notary acknowledgment.</li><li>Each grantee address needs a street number or post office address.</li><li>The name and address of the person who drafted the document must appear on it.</li><li>The first line of the first page needs one statement identifying the recordable event, in black ink, at least 10-point type, with a 2.5 inch blank top margin on page one and half an inch elsewhere.</li><li>Paper must be at least 8.5 by 11 inches and no larger than 8.5 by 14 inches.</li><li>No more than four sequential digits of a Social Security number may appear.</li><li>A document in another language needs an English translation attached.</li></ul><p>A deed that uses survivorship wording needs a recorded death certificate referenced by liber and page, court orders must be certified and sealed by the court clerk, and a trust document is recorded as its own instrument.</p>"
+   "html": "<p>The clerk's office sends back non-compliant instruments with a checklist, and the checklist cites the Michigan statute for each problem. Most are fixable before you submit.</p><ul><li>Original ink signatures, with each name printed or typed below, matching the notary block.</li><li>A street number or post office address for every grantee.</li><li>The drafter's name and address.</li><li>One statement of the recordable event on line one of page one, in black ink, 10-point type or larger, over a 2.5 inch blank top margin (half an inch on the other margins).</li><li>Paper no smaller than letter size and no longer than legal.</li><li>At most four sequential digits of any Social Security number.</li><li>An attached English translation for any foreign-language text.</li></ul><p>Other triggers include a survivor deed with no recorded death certificate, an uncertified court order, a trust document that is not recorded as its own instrument, and a missing date in the acknowledgment.</p>"
   },
   {
    "h2": "Where do Lake County owners find assessment forms and parcel data?",
@@ -27,25 +27,25 @@
   },
   {
    "h2": "Does Lake County offer a land records fraud alert?",
-   "html": "<p>Yes. The register of deeds says it is a beta test site for a fraud alert program that notifies subscribers when activity occurs in land records connected to their name. To subscribe, send your name, email, phone number, mailing address and parcel ID if you know it to Lake County Register of Deeds, Attn: Fraud Alert, 800 10th Street, Suite 200, Baldwin, Michigan 49304.</p><p>For an owner who lives out of the area and holds a cabin or vacant land, an alert is a cheap way to learn that someone has recorded a document against the parcel. The office also lists a search of land records online, so you can look up a parcel's recorded deeds before a sale.</p>"
+   "html": "<p>Yes. The register of deeds describes itself as the beta test site for a fraud alert program that notifies subscribers when land record activity matches their name. Mail your name, email, phone number, mailing address and parcel ID (if known) to Lake County Register of Deeds, Attn: Fraud Alert, 800 10th Street, Suite 200, Baldwin, Michigan 49304.</p><p>An owner who lives elsewhere and holds a cabin or vacant land can use that alert as an early warning that someone has recorded a document against the parcel. The same page links to online land record searches, which you can use to review a parcel's recorded deeds before a sale.</p>"
   },
   {
    "h2": "What should a Lake County seller settle before recording?",
-   "html": "<p>Clear the tax record first. Under MCL 211.135 a register of deeds must require a county treasurer certificate on a deed with warranty covenants, showing no tax liens and that taxes for the five preceding years are paid. Ask the Lake County treasurer for that certificate before the closing date, since a missing certificate means the deed is not recorded.</p><p>Equalization covers the 15 local units in the county and about 27,000 real property parcels, with permanent parcel numbers in use since 1987, so have the parcel number handy when you call. After the sale, the buyer must file the transfer notice with the local assessing office within 45 days (MCL 211.27a), and the taxable value resets for the next year. A cash buyer who closes as-is still follows the same recording steps, so the paperwork list above applies to every sale.</p>"
+   "html": "<p>Deal with taxes first. A deed that carries warranty covenants will not record in Lake County without the county treasurer's certificate under MCL 211.135, which speaks to liens and the last five years of tax. Request it from the Lake County treasurer well ahead of closing.</p><p>Equalization covers the 15 local units in the county and about 27,000 real property parcels, with permanent parcel numbers in use since 1987, so keep the number handy when you phone. After closing, the buyer has 45 days to report the transfer to the local assessing office (MCL 211.27a), and next year's taxable value is reset. Whether the buyer finances or pays cash, the steps in this guide are the same.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "How much does the Lake County register of deeds charge to record a document?",
-   "a": "The statutory fee is $30 per document, plus $3 for each additional instrument assigned or discharged in the same document. Pay it in person at the clerk's office with a check, money order or cash, since recording fees cannot be paid on the county's online payment page."
+   "q": "What is the recording fee at the Lake County register of deeds?",
+   "a": "The base fee is $30 for each recorded document, and a discharge or assignment that covers extra instruments costs $3 more per instrument. Take payment to the clerk's office as a check, money order or cash, since the online payment page excludes recording fees."
   },
   {
-   "q": "What hours is the Lake County register of deeds open?",
-   "a": "The office is open Monday through Thursday from 8:30 am to 5:00 pm and on Friday from 8:30 am to 4:00 pm. It is in Suite 200 at 800 Tenth Street in Baldwin, and the phone number is (231) 745-2725."
+   "q": "When can I visit the Lake County register of deeds?",
+   "a": "Monday through Thursday it runs 8:30 am to 5:00 pm, and on Friday it closes at 4:00 pm. Go to Suite 200, 800 Tenth Street, Baldwin, or call (231) 745-2725."
   },
   {
-   "q": "Who pays the real estate transfer tax in Lake County?",
-   "a": "The seller pays it. The combined statutory rate is $4.30 per $500 of value, made up of 55 cents for the county and $3.75 for the state, and any exemption must be stated on the face of the deed."
+   "q": "Who owes Lake County real estate transfer tax?",
+   "a": "The seller. Together the two rates are $4.30 per $500 of value, and a deed gets no exemption unless it says so on its face."
   },
   {
    "q": "Why would the Lake County register of deeds return my deed?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "Can I search Lake County land records online?",
-   "a": "Yes. The register of deeds page links to online land records, and the county also runs a fraud alert program you can join by mailing your details and parcel ID to the office."
+   "a": "Yes. The register's page links to online land records and describes a fraud alert program you join by mail with your details and parcel ID."
   }
  ],
  "sources": [

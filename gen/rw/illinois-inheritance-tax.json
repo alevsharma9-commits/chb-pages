@@ -1,0 +1,93 @@
+{
+ "slug": "illinois-inheritance-tax",
+ "sections": [
+  {
+   "h2": "Does Illinois tax a house you inherit?",
+   "html": "<p>The state tax that touches inherited property in Illinois is an estate tax, and it is charged to the estate of the person who died, not billed on a separate heir's return. The Illinois Department of Revenue answers a question about an inheritance or estate tax with a yes, adds that it does not administer the tax, and sends questions to the Office of the Attorney General.</p><p>For most families the practical question is whether the estate is large enough to owe anything. The Attorney General's fact sheet sets a taxable threshold, and the filing duty starts only when an estate's gross value passes it. A house that passes with other assets still counts toward that total, so add up the house, the accounts and any adjusted taxable gifts before deciding.</p>"
+  },
+  {
+   "h2": "What is the Illinois estate tax threshold?",
+   "html": "<p>The Attorney General's instruction sheet for deaths in 2023 states that the exclusion amount for Illinois estate tax purposes is $4,000,000. It describes the figure as a taxable threshold and not a credit against the tax. If the gross value of an estate exceeds $4,000,000 after adjusted taxable gifts are added, an Illinois Form 700 must be filed, whether or not a federal return is required.</p><p>The Attorney General posts a separate fact sheet for each year of death, so read the one that matches the date of death. The sheet also says that the federal rule letting a surviving spouse carry over an unused exemption does not apply to the Illinois computation, and that a separate Illinois QTIP election is available to the estate for deaths since January 1, 2009.</p><ul><li>Civil union partners recognized under Illinois law can claim the same marital deduction treatment for Illinois purposes, with additional filings.</li><li>The Attorney General offers an online estate tax calculator for the interrelated computation.</li><li>Estates that owe no federal tax may still have to file Form 700 with the Illinois Attorney General.</li></ul>"
+  },
+  {
+   "h2": "Who files the return, when is it due and where is it paid?",
+   "html": "<p>The estate representative files Form 700 with the Attorney General's Estate Tax Section, and the tax is due nine months after the date of death. The original return goes by mail, courier or hand delivery to the Chicago office for Cook, DuPage, Lake and McHenry counties, and to the Springfield office for every other county.</p><p>Payment is made separately to the Illinois State Treasurer using the Treasurer's estate tax payment form. Extensions are available: the Attorney General honors federal extensions, and a request for its own extension should be filed within nine months of death on Form 700-EXT or with a written explanation. If the federal tax is paid in installments, the Illinois tax may be paid in installments too.</p><table><caption>Illinois estate tax filing basics from the Attorney General's 2023 instruction sheet. Source: illinoisattorneygeneral.gov.</caption><thead><tr><th>Item</th><th>Rule on the sheet</th></tr></thead><tbody><tr><td>Threshold</td><td>$4,000,000 gross value after adjusted taxable gifts</td></tr><tr><td>Return</td><td>Illinois Form 700, filed with the Attorney General</td></tr><tr><td>Due date</td><td>Nine months after the date of death</td></tr><tr><td>Extension request</td><td>Within nine months, Form 700-EXT or a written explanation</td></tr><tr><td>Payment</td><td>Illinois State Treasurer estate tax payment form</td></tr><tr><td>Spousal carry-over</td><td>Federal portability does not apply to the Illinois computation</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Which taxes and costs apply when an heir sells the inherited house?",
+   "html": "<p>Selling the house triggers the same transfer charges as any sale. The state transfer tax is collected at 50 cents per $500 of value under 35 ILCS 200/31-15, and counties may add 25 cents per $500. Home rule municipalities can impose an additional transfer tax. Buyer and seller complete Form PTAX-203, the Illinois Real Estate Transfer Declaration, which is filed in the county where the property sits and can be prepared through MyDec in participating counties.</p><p>If the property remains subject to a mortgage, only the owner's equity counts in the base, provided the deed states that on its face. Ask the county recorder of deeds what the local stamp or transfer tax is for your parcel, because counties and some municipalities differ.</p><p>Property tax keeps running while the estate is open. In Cook County, a parent who lived in the home on January 1 and used it as a principal residence leaves a property that is still eligible for the senior exemption for that year, and the heir applies using the death certificate and letters of office.</p>"
+  },
+  {
+   "h2": "What if the person who died lived out of state but owned Illinois property?",
+   "html": "<p>The Attorney General's sheet covers both resident and non-resident decedents. The estate first computes a preliminary tax as if every asset were located in Illinois, then multiplies that figure by the ratio of Illinois assets to total assets to get the apportioned tax. An out-of-state owner of an Illinois house therefore still has to account for the house on Form 700 if the whole estate is above the threshold.</p><p>Questions about a specific estate go to the Estate Tax Section. The sheet lists (312) 814-2491 for the Chicago office and (217) 524-5095 for Springfield. Have the date of death, the value of all assets and a copy of any federal Form 706 ready before calling.</p><ul><li>Gather appraisals for the house and any other real estate.</li><li>List where each asset is located, since the apportionment depends on it.</li><li>Keep wills, trusts and gift records together for the lawyer.</li></ul>"
+  },
+  {
+   "h2": "Who has the authority to sell an inherited house in Illinois?",
+   "html": "<p>The person with court-issued letters of office, or an heir who already holds title through a joint tenancy, trust or Transfer on Death Instrument, can sign. Letters of office are the court papers that prove the personal representative's power, and banks and title companies ask to see them before changing title to property held only in the decedent's name.</p><p>An independent representative acting for the estate may sell real estate at public or private sale without a court order, though real estate specifically left to a named legatee cannot be sold without that legatee's written consent (755 ILCS 5/28-8). A small estate affidavit does not reach a house. The Illinois Legal Aid page lists a house as outside the affidavit process.</p><ul><li>Joint tenancy with right of survivorship: title passes to the surviving owner.</li><li>Trust property: the trustee signs under the trust document.</li><li>Property only in the decedent's name: letters of office are needed.</li></ul>"
+  },
+  {
+   "h2": "What should an heir do before talking to buyers?",
+   "html": "<p>Start by finding out how title is held and whether a will exists. A will must be filed with the circuit court clerk right after death under 755 ILCS 5/6-1, and a person who willfully hides one for 30 days after learning of the death faces felony penalties. Then speak with an Illinois lawyer about whether an estate must be opened, since only a licensed Illinois lawyer can start a probate case.</p><p>Gather the death certificate, the deed, the latest property tax bill and any mortgage statement. If the decedent's estate may approach $4,000,000, ask the lawyer to check Form 700 first. A cash buyer can close after the estate representative is authorized to sign, so the legal steps usually set the timeline, not the buyer.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there an Illinois inheritance tax bill for heirs?",
+   "a": "The tax Illinois administers on death is an estate tax, handled by the Attorney General and paid by the estate. The Department of Revenue says it does not administer inheritance or estate tax and points questions to the Attorney General."
+  },
+  {
+   "q": "How large must an estate be to owe Illinois estate tax?",
+   "a": "The Attorney General's 2023 sheet gives a $4,000,000 taxable threshold. Gross value above that after adjusted taxable gifts requires Form 700. Check the fact sheet for the actual year of death."
+  },
+  {
+   "q": "When must the Illinois estate tax be paid?",
+   "a": "It is due nine months after the date of death, payable to the State Treasurer. Extensions can be requested within nine months, and federal extensions are honored."
+  },
+  {
+   "q": "Do I owe transfer tax if I sell an inherited house?",
+   "a": "Yes, the usual transfer tax applies to the sale. The state rate is 50 cents per $500 of value, counties may add 25 cents per $500, and some municipalities add their own."
+  },
+  {
+   "q": "Can I sell an inherited Illinois house before probate ends?",
+   "a": "Possibly. An independent representative with letters of office may sell real estate without a court order, except property specifically left to a legatee needs that person's written consent. Title held in joint tenancy or a trust follows its own rules."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Illinois Department of Revenue: Does Illinois have an inheritance / estate tax?",
+   "url": "https://tax.illinois.gov/questionsandanswers/answer.26.html"
+  },
+  {
+   "title": "Illinois Attorney General: 2023 estate tax instruction sheet",
+   "url": "https://illinoisattorneygeneral.gov/Page-Attachments/InstructionSheet2023.pdf"
+  },
+  {
+   "title": "Illinois Department of Revenue: Real estate transfer tax stamp procedures for counties",
+   "url": "https://tax.illinois.gov/research/taxinformation/property/realestate.html"
+  },
+  {
+   "title": "Illinois Department of Revenue: Real estate transfer tax, MyDec",
+   "url": "https://tax.illinois.gov/research/taxinformation/property/rett.html"
+  },
+  {
+   "title": "35 ILCS 200/31-15 Collection of transfer tax",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K31-15"
+  },
+  {
+   "title": "755 ILCS 5/28-8 Administrative powers",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=075500050K28-8"
+  },
+  {
+   "title": "755 ILCS 5/6-1 Duty to file will",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=075500050K6-1"
+  },
+  {
+   "title": "Illinois Legal Aid Online: Probate FAQ",
+   "url": "https://illinoislegalaid.org/legal-information/probate"
+  },
+  {
+   "title": "Cook County Assessor senior exemption",
+   "url": "https://cookcountyassessoril.gov/senior-citizen-exemption"
+  }
+ ]
+}
