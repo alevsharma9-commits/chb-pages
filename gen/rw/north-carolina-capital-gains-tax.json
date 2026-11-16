@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Does North Carolina charge a separate tax on profit from a house sale?",
-   "html": "<p>No. The Department of Revenue's rate page lists one flat individual rate and no separate rate for gains. Profit from a home sale that stays taxable after federal rules is folded into the same state income calculation as paychecks.</p>\n<p>The calculation begins with federal adjusted gross income. G.S. 105-153.5, headed \"Modifications to adjusted gross income,\" then lists what a North Carolina taxpayer may subtract or must add back before reaching state taxable income. The rest of this page walks through the pieces a seller is most likely to meet.</p>"
+   "html": "<p>No. NCDOR publishes a single flat individual rate and nothing special for gains. Whatever part of a home-sale gain survives the federal rules is taxed with the rest of your income.</p>\n<p>State taxable income starts from federal adjusted gross income. G.S. 105-153.5 is titled \"Modifications to adjusted gross income\" and lists the subtractions and add-backs North Carolina applies. The sections below cover the ones that matter to a seller.</p>"
   },
   {
    "h2": "What flat rate applies to a 2026 sale?",
@@ -23,11 +23,11 @@
   },
   {
    "h2": "How is a taxable gain taxed federally?",
-   "html": "<p>Property held for more than a year produces long-term gain. For tax years beginning in 2025 the IRS puts the rate on most net capital gain at 15% or less for most individuals, while gain on property held a year or less is taxed as ordinary income.</p>\n<p>IRS breakpoints for 2025:</p>\n<ul>\n<li>0%: taxable income up to $48,350 (single), $96,700 (joint) or $64,750 (head of household).</li>\n<li>15%: above those levels, topping out at $533,400 (single), $600,050 (joint) or $566,700 (head of household).</li>\n<li>20%: the part of income above the 15% ceiling.</li>\n<li>25% maximum: the portion that is unrecaptured section 1250 gain on real property.</li>\n</ul>\n<p>High earners may also owe the net investment income tax, and a large gain may call for estimated tax payments. If you sell a personal home at a loss, the IRS says the loss cannot be deducted.</p>"
+   "html": "<p>Property held for more than a year produces long-term gain. For tax years beginning in 2025 the IRS puts the rate on most net capital gain at 15% or less for most individuals, while gain on property held a year or less is taxed as ordinary income.</p>\n<p>IRS breakpoints for 2025:</p>\n<ul>\n<li>Single filers: nothing owed on gain while taxable income stays at or under $48,350, then 15% up to $533,400.</li>\n<li>Joint filers: the 0% zone ends at $96,700 and the 15% zone ends at $600,050.</li>\n<li>Heads of household: 0% through $64,750, and 15% through $566,700.</li>\n<li>Above each 15% ceiling, the excess is taxed at 20%.</li>\n<li>Unrecaptured section 1250 gain on real property has a 25% maximum.</li>\n</ul>\n<p>The IRS adds two cautions: the net investment income tax can reach large investment incomes, and a sizable gain may require estimated payments. A loss on a personal residence is not deductible.</p>"
   },
   {
    "h2": "What changes if you inherited the house or rented it out?",
-   "html": "<p>Heirs have different basis rules. The IRS says to consult Publication 551 for property received by gift or inheritance, and it notes holding-period exceptions for property acquired from a decedent, covered in Publication 544.</p>\n<p>North Carolina no longer has an estate tax, since G.S. 105-32.1 through 105-32.8 were repealed by Session Laws 2013-316 for deaths on or after January 1, 2013. After an estate passes the house on, state tax matters again only when the heir sells and has income to report.</p>\n<p>A rental house faces the same two-year use test as any other. The IRS also caps unrecaptured section 1250 gain at 25%, so a landlord should have a CPA run the numbers before a contract is signed.</p>"
+   "html": "<p>An heir's basis follows its own rules, which the IRS sends readers to Publication 551 to learn. Holding-period exceptions for property acquired from a decedent are explained in Publication 544.</p>\n<p>The state estate tax is gone. Session Laws 2013-316 repealed G.S. 105-32.1 through 105-32.8, effective for decedents who died on or after January 1, 2013. After that, North Carolina taxes an inherited house only through income tax when the heir sells it and has gain to report.</p>\n<p>A rental house faces the same two-year use test as any other. The IRS also caps unrecaptured section 1250 gain at 25%, so a landlord should have a CPA run the numbers before a contract is signed.</p>"
   },
   {
    "h2": "Which state adjustments touch a home seller's North Carolina return?",
@@ -35,21 +35,21 @@
   },
   {
    "h2": "Is the deed excise tax part of this?",
-   "html": "<p>No. The excise tax is a transfer charge paid by the seller to the register of deeds before the deed is recorded, set at $1.00 for each $500.00 of value or fraction of it. It never replaces the income tax.</p>\n<p>Keep the closing statement anyway. The IRS defines a gain as the amount realized minus adjusted basis, with basis generally meaning what the owner paid, so your preparer needs your purchase papers and improvement receipts as well as the sale documents.</p>"
+   "html": "<p>No, they are separate bills. The excise tax is a seller-paid recording charge of $1.00 per $500.00 of value or part of $500.00, collected by the register of deeds ahead of recording. Income tax is figured later on your return.</p>\n<p>Hold on to the closing statement all the same. Per the IRS, gain is the sale proceeds less adjusted basis, and basis usually starts as the owner's cost, so your preparer will want purchase papers and improvement receipts.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Is there a North Carolina capital gains tax rate for homes?",
-   "a": "No separate rate exists. The state taxes the gain through its flat income tax, 3.99% for taxable years after 2025."
+   "q": "Does a house sale get its own North Carolina tax rate?",
+   "a": "No. Gain is taxed under the flat income tax, which is 3.99% for taxable years after 2025."
   },
   {
-   "q": "How much gain can I exclude on a North Carolina home?",
-   "a": "Up to $250,000, or $500,000 on a joint return, if you meet the IRS ownership and use tests for 24 months within the last five years. The two-year limit on repeat use also applies."
+   "q": "What portion of my profit is sheltered when I sell my main residence?",
+   "a": "Up to $250,000 of gain, or $500,000 for joint filers, when ownership and residence each reach 24 months inside the last five years. A prior exclusion within two years can block it."
   },
   {
-   "q": "Do I report a North Carolina home sale that has no taxable gain?",
-   "a": "Yes when you receive a Form 1099-S. The IRS wants the sale reported even if the gain is fully excludable."
+   "q": "Must I report a sale when none of the gain is taxable?",
+   "a": "Yes, if you were sent a Form 1099-S. The IRS wants the sale reported even though the gain is fully excludable."
   },
   {
    "q": "What did North Carolina charge in 2025?",
