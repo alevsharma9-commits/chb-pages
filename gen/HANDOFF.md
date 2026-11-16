@@ -59,26 +59,21 @@ Standing owner rules (the owner is Alev Sharma, who signs as Victoria Sharma). P
    E
    python3 gen/measure.py | head -2
    ```
-3. Work out which in-flight batches (section 5) have all four draft JSONs and pass the gate, merge them (section 6), and relaunch any with missing or partial drafts.
+3. Nothing is in flight. If any gen/rw/<slug>.json exists for a batch not in finished.txt, treat it as an unfinished draft: run the gate (section 6) and merge or relaunch.
 4. Check the agent cap: run ListAgents. The session this handoff was written in is over; any subagents it started are gone.
 
-## 5. State at handoff
+## 5. State at handoff (final, nothing in flight)
 
-Numbers at 02:10 UTC Nov 16 (re-measure; they may have changed because agents were still finishing):
+Numbers at about 03:00 UTC Nov 16 2026, after the last agents reported and were merged:
 
-- Merged batches: about 779 of 916 (about 3,116 pages). Left: about 137 batches, about 548 pages.
-- Last measure: 3,168 pages over 1,200 words; 1,970 pages at or above 80% unique (median uniqueness 80, median words 1,501). These count all 3,716 pages, including the older California pages that are not rewritten and many older pages that are already long.
-- Last pushed commit when this section was written: 1f0a514 "Save drafts" (later "Save in-progress rewrite drafts" commits come from the Stop hook).
-
-Which batches remain, by state (page slugs end in the state code; counts approximate):
-
-- Georgia: done (including b0747 retry, b0756).
-- North Carolina: b0757 to b0772 merged; b0773 to b0781 and b0782 (returned, merge pending or merged, check finished.txt) in flight; b0787 to b0808 not launched.
-- Texas: b0809 to b0815 merged; b0816 to b0821 in flight; b0822 to about b0861 not launched.
-- Florida: about b0862 to b0916 not launched (about 54 batches, roughly 216 pages). Florida has the fl.md notes ready.
+- Merged batches: 806 of 916 (about 3,224 pages). Left: 117 batches, 468 pages, none started.
+- No agents are running. No drafts are waiting to be merged. Every returned batch was gated, merged and pushed. Last measure: 3,248 pages over 1,200 words; 2,012 pages at or above 80% unique; median words 1,504; median uniqueness 81.
+- Remaining batches, all unstarted:
+  - North Carolina: b0787 to b0808 (22 batches). Notes: gen/rw/state_notes/nc.md.
+  - Texas then Florida: b0822 to b0916 (95 batches). Texas runs from b0822 to about b0861 (notes: tx.md); Florida runs from about b0862 to b0916 (notes: fl.md).
 - Page-type mix inside each state: county property tax guides, county register of deeds / clerk / property records, city property tax guides, "sell-my-house-fast-<city>-<st>" city pages, and a few state topic pages (closing costs, eviction, excise tax, etc.).
-
-In-flight agents when this was written (batch ids launched but their agents may not have returned): b0773, b0774, b0775, b0776, b0777, b0778, b0779, b0780, b0781, b0783, b0784, b0785, b0786, b0816, b0817, b0818, b0819, b0820, b0821. After the session ends these agents are gone. Drafts they had already written are in gen/rw (the Stop hook pushed them). For each: if all four slugs in gen/rw/batches/<id>.txt have a gen/rw/<slug>.json and the gate passes, merge it. Be careful: a draft file could be incomplete if the agent was cut off mid-write. Check with `python3 gen/rw/_count.py <slugs>` (words at least 1,200, "nodash") and `python3 gen/rw/overlap.py <slugs>` (every page 85% or more is the target; 80 to 84 is merge-able but log it). Relaunch any batch with a missing JSON or too few words.
+- Georgia is finished. North Carolina through b0786 and Texas through b0821 are merged.
+- Merged below the 85% gate (all but one at or above the owner's 80%): see section 9.5. New since the first version of this file: lenoir-county-nc-property-tax-guide 84, north-carolina-closing-costs 84.
 
 ## 6. The loop (repeat until no batches are left)
 
