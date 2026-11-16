@@ -1,89 +1,26 @@
-{
-"slug": "georgia-capital-gains-tax",
-"sections": [
-{
-"h2": "Does Georgia tax capital gains on a home sale?",
-"html": "<p>Yes, a taxable gain on a house is taxed by Georgia, but as ordinary income. The Department of Revenue states that Georgia does not tax capital gains differently than other income, so there is no separate state capital gains rate or schedule.</p><p>Your gain flows into the same Georgia return as wages and other income. The Department's list of 2026 changes shows the state income tax rate as a flat 4.99%, with a standard deduction of $15,000 for single filers, heads of household and married people filing separately, and $30,000 for married couples filing jointly. Questions the page does not answer go to the Department's Taxpayer Services Division.</p><p>The federal return is where most of the real work happens, because the federal exclusion for a main home usually decides whether there is any gain left to report on either return.</p>"
-},
-{
-"h2": "How does the federal home sale exclusion work for Georgia sellers?",
-"html": "<p>The IRS lets you exclude up to $250,000 of gain from the sale of your main home, or up to $500,000 on a joint return with a spouse. The Department's withholding guidance treats gain excluded from federal adjusted gross income as exempt, so a gain you exclude federally generally leaves little for Georgia to tax.</p><p>To qualify you must pass two tests during the five years ending on the sale date:</p><ul><li>Ownership: you or your spouse owned the home for at least 24 months.</li><li>Use: you and your spouse used it as a residence for at least 24 months, and on a joint return both spouses must meet the use test.</li><li>Timing: the two periods can fall in different stretches of the five years, but you generally cannot exclude gain if you excluded gain on another home in the two years before this sale.</li></ul><p>The IRS points to Publication 523, Selling Your Home, for the full rules, limits on the exclusion and exceptions to the two-year rule. Service members and certain others on extended duty can suspend the five-year period for up to 10 years.</p>"
-},
-{
-"h2": "What gain is left after the exclusion?",
-"html": "<p>Anything above the exclusion is a capital gain, figured as the amount you realized minus your adjusted basis. Basis is generally what you paid, plus improvements that add value, and it drops for items such as depreciation.</p><p>Gain on property held more than one year is long-term. For tax years beginning in 2025, the IRS says the rate on most net capital gain is no higher than 15% for most individuals, with a 0% rate when taxable income is at or below $48,350 for single filers, $96,700 for joint filers and $64,750 for heads of household. A 20% rate applies above the 15% thresholds. The IRS also lists a maximum 25% rate on the part of a gain tied to unrecaptured section 1250 property, which matters for homes that were rented and depreciated.</p><p>Losses on a personal home are not deductible, according to the IRS. If you inherited the house or received it as a gift, your basis follows different rules, and the IRS refers owners to Publication 551, Basis of Assets.</p><table><caption>Federal capital gains rate thresholds for tax years beginning in 2025, as printed by the IRS (Topic no. 409)</caption><thead><tr><th>Filing status</th><th>0% rate up to</th><th>15% rate up to</th></tr></thead><tbody><tr><td>Single</td><td>$48,350</td><td>$533,400</td></tr><tr><td>Married filing jointly and qualifying surviving spouse</td><td>$96,700</td><td>$600,050</td></tr><tr><td>Head of household</td><td>$64,750</td><td>$566,700</td></tr><tr><td>Married filing separately</td><td>$48,350</td><td>$300,000</td></tr></tbody></table>"
-},
-{
-"h2": "Do you have to report a Georgia home sale even if the gain is excluded?",
-"html": "<p>You must report the sale if you receive a Form 1099-S, even when the entire gain is excludable. You must also report it when you cannot exclude all of the gain.</p><p>The IRS directs you to Schedule D and Form 8949 for those cases. A closing attorney or title company usually handles the 1099-S reporting from the settlement statement, so check that the sale price and the seller name on it match your records. If the numbers look wrong, ask the closing office to correct them before the form is filed.</p>"
-},
-{
-"h2": "What records help when a Georgia home sale produces a gain?",
-"html": "<p>Good records shrink the gain you report, because basis includes improvements that add value and the IRS counts selling expenses when figuring what you realized. Collect them before closing, while the contractor invoices and settlement papers are still easy to find.</p><ul><li>The settlement statement from the day you bought the house, which shows the cost the IRS treats as your starting basis.</li><li>Receipts for additions and improvements that add to the value of the property, such as a new roof section or a finished room.</li><li>Records of any depreciation, insurance reimbursements for casualty losses or rental use, which lower basis.</li><li>Proof of the dates you owned and lived in the home, such as utility bills and a driver license address, for the ownership and use tests.</li><li>The new settlement statement and any Form 1099-S that arrives afterward.</li></ul><p>Keep them with your return. A closing attorney can tell you which closing documents Georgia buyers need from a nonresident seller, and a tax professional can confirm basis for an inherited or gifted house.</p>"
-},
-{
-"h2": "What if you are a nonresident selling Georgia property?",
-"html": "<p>Georgia requires the buyer to withhold 3% of the purchase price from a nonresident seller, under O.C.G.A. 48-7-128. The Department calls it income tax withholding, and the seller still files a Georgia return and claims credit for the amount withheld.</p><p>The Department of Revenue describes several ways the withholding drops away or shrinks:</p><ul><li>A principal residence within the meaning of the Internal Revenue Code is exempt for the gain that federal law excludes.</li><li>A seller who swears to the gain on Form IT-AFF2 can have 3% withheld on the gain rather than on the price.</li><li>No withholding applies when the price is under $20,000, or when the tax liability is under $600 and the seller signs a gain affidavit.</li><li>A nonresident who meets every condition for deemed residency can sign an affidavit and avoid withholding.</li><li>If the amount to withhold exceeds the net proceeds, only the net proceeds are withheld.</li></ul><p>The buyer files the return and remits payment by the last day of the month after the closing month, and a buyer who fails to withhold can be personally liable. Ask the closing attorney to confirm your status before the settlement statement is drawn.</p>"
-},
-{
-"h2": "Are there Georgia breaks for older sellers or installment sales?",
-"html": "<p>Georgia has a retirement income exclusion for taxpayers who are 62 or older, or permanently and totally disabled. The Department lists capital gains income among the types of retirement income that count, along with pensions, interest, dividends and net rental income, up to a yearly maximum shown in the Form IT-511 instruction booklet.</p><p>If the sale is paid over several years, the IRS says you generally report gain under the installment method unless you elect out by the due date of that year's return. You include only the part of each year's payments that is gain, plus interest as ordinary income. The home exclusion stays available even when you use the installment method.</p>"
-}
+{"slug":"georgia-capital-gains-tax","sections":[
+{"h2":"Is there a separate Georgia tax on profit from selling a house?","html":"<p>No separate tax exists. A Georgia taxpayer's gain lands on the regular state income tax return, because the Department of Revenue answers a direct question on the point with one line: the state does not tax capital gains differently than other income.</p><p>The Department's 2026 update page lists a flat income tax rate of 4.99%. It also lists standard deductions of $15,000 for single filers, heads of household and married people filing separately, and $30,000 for joint filers. Anything the page leaves open goes to the Taxpayer Services Division.</p><p>In practice the federal return does most of the sorting. If the IRS lets you exclude the profit on a main home, the amount that reaches Georgia is small or zero.</p>"},
+{"h2":"Will a federal exclusion shrink what Georgia sees?","html":"<p>Usually it does. The Georgia withholding guidance for nonresident sellers treats gain excluded from federal adjusted gross income as exempt, which tells you the state follows the federal treatment of a main residence.</p><p>The IRS exclusion tops out at $250,000 of gain for one filer or $500,000 on a joint return. Qualifying takes two things within the five years before closing: 24 months of ownership and 24 months of living in the house. Spouses on a joint return both need the living requirement, and a prior exclusion within the last two years can block a new one.</p><p>Publication 523 holds the worksheets. Military and some foreign service households can pause the five-year clock for as long as 10 years, according to the IRS.</p>"},
+{"h2":"How is any leftover gain measured and taxed federally?","html":"<p>The gain equals what you realized minus adjusted basis. Basis starts with your cost and rises with value-adding improvements, then falls with depreciation or insurance payments for casualty losses.</p><p>For tax years beginning in 2025, the IRS reports that most net capital gain is taxed at no more than 15% for most people, with a 0% bracket at the lower incomes shown below. A 20% rate applies above the 15% limits. Rented and depreciated houses can pull in a 25% maximum rate on the unrecaptured section 1250 portion. The IRS adds that losses on a personal home cannot be deducted.</p><table><caption>Federal capital gains rate thresholds for tax years beginning in 2025, as printed in IRS Topic no. 409</caption><thead><tr><th>Filing status</th><th>0% rate up to</th><th>15% rate up to</th></tr></thead><tbody><tr><td>Single</td><td>$48,350</td><td>$533,400</td></tr><tr><td>Married filing jointly and qualifying surviving spouse</td><td>$96,700</td><td>$600,050</td></tr><tr><td>Head of household</td><td>$64,750</td><td>$566,700</td></tr><tr><td>Married filing separately</td><td>$48,350</td><td>$300,000</td></tr></tbody></table>"},
+{"h2":"Which Georgia sellers have tax withheld at the closing table?","html":"<p>Nonresidents do. O.C.G.A. 48-7-128 makes the buyer hold back 3% of the price and send it to the state, and the seller later claims credit on a Georgia return.</p><p>The Department describes the exits:</p><ul><li>A main home that qualifies under federal law is exempt for the gain federal law excludes.</li><li>A sworn gain affidavit, Form IT-AFF2, lets withholding drop to 3% of the gain.</li><li>Prices under $20,000 are exempt, and so are sales where the tax comes to less than $600 and the seller signs the affidavit.</li><li>A nonresident who meets every statutory condition can sign a deemed-resident affidavit.</li><li>Only net proceeds are withheld when 3% exceeds the cash due to the seller.</li></ul><p>Remittance is due by the last day of the month after closing. A buyer who skips withholding can end up personally liable, so the closing office will ask for your residency facts early.</p>"},
+{"h2":"What papers should I gather before a gain is calculated?","html":"<p>Receipts shrink gains. Improvements add to basis, and the amount realized is figured after selling costs, so a tidy folder can lower the number you report.</p><ul><li>The settlement statement from your purchase.</li><li>Invoices for work that added value, such as a new addition or a finished room.</li><li>Records of depreciation, casualty reimbursements or rental use.</li><li>Evidence of where you lived and when, such as utility bills, to prove the 24-month use test.</li><li>The final settlement statement from this sale, and a Form 1099-S if one arrives.</li></ul><p>An heir or gift recipient follows separate basis rules, and the IRS sends such owners to Publication 551. Ask a tax preparer to confirm basis before pricing the house.</p>"},
+{"h2":"When must I report a Georgia house sale to the IRS?","html":"<p>Report it whenever a Form 1099-S shows up, even if the entire profit is excludable. Report it as well when part of the profit exceeds the exclusion. Schedule D and Form 8949 are the IRS's named forms for the job.</p><p>The 1099-S is built from the settlement statement, so compare the sale price and the seller name on the statement with your own records. Ask the closing office to correct any mismatch before the form is filed.</p>"},
+{"h2":"Do older Georgia sellers or installment sales get special treatment?","html":"<p>Georgia gives taxpayers 62 or older, and those permanently and totally disabled, a retirement income adjustment. The Department includes capital gains income on the list of qualifying retirement income, next to pensions, interest, dividends and net rental income, and points to the Form IT-511 booklet for the yearly cap.</p><p>A sale paid out over several years is an installment sale. Under IRS rules you report gain as payments arrive unless you elect out by the return's due date, include interest as ordinary income, and keep the home exclusion available.</p>"}
 ],
-"faqs": [
-{
-"q": "Does Georgia have a separate capital gains tax rate?",
-"a": "No. The Georgia Department of Revenue says capital gains are not taxed differently than other income, so the gain is taxed at the state income tax rate that applies to your return. The department's list of 2026 changes shows a flat rate of 4.99%."
-},
-{
-"q": "How much gain can I exclude when selling my Georgia home?",
-"a": "Up to $250,000, or up to $500,000 on a joint return, if you pass the ownership and use tests. You need 24 months of each within the five years before the sale. Publication 523 on irs.gov has the worksheets and the exceptions."
-},
-{
-"q": "Does Georgia withhold tax when an out-of-state owner sells?",
-"a": "Yes, in many cases. The buyer withholds 3% of the purchase price, or 3% of the gain if the seller gives a sworn gain affidavit. A principal residence qualifying under federal law is exempt for the excluded gain, and sales under $20,000 are exempt."
-},
-{
-"q": "Do I report a home sale if I owe no tax on it?",
-"a": "Report it if you receive Form 1099-S, or if any gain cannot be excluded. The IRS says this applies even when the whole gain is excludable. Use Schedule D and Form 8949 for the report."
-},
-{
-"q": "What if I inherited the Georgia house I am selling?",
-"a": "Basis for inherited property follows special rules. The IRS sends owners to Publication 551, Basis of Assets, for inherited and gifted property. Ask a tax professional to confirm your basis before you set a price."
-}
+"faqs":[
+{"q":"What rate applies to capital gains in Georgia?","a":"Georgia has no capital gains rate of its own. The Department of Revenue says gains are taxed like other income, and its 2026 update page lists a flat income tax rate of 4.99%."},
+{"q":"How much profit on my Georgia house can I keep tax free?","a":"Up to $250,000 as one filer or $500,000 on a joint return, when you meet the 24-month ownership and use tests. Publication 523 on irs.gov has the worksheets and the exceptions."},
+{"q":"Does an out-of-state owner face withholding on a Georgia sale?","a":"Often yes. The buyer withholds 3% of the price, or 3% of the gain with a sworn affidavit, unless an exemption applies. A qualifying main home is exempt for excluded gain, and prices under $20,000 are exempt."},
+{"q":"Do I report the sale if no tax is due?","a":"Yes when you get a Form 1099-S or when some gain cannot be excluded. The IRS names Schedule D and Form 8949 for that reporting."},
+{"q":"What basis do I use for an inherited Georgia house?","a":"Inherited property follows its own basis rules, which the IRS covers in Publication 551. Have a tax preparer confirm the figure before you set a price."}
 ],
-"sources": [
-{
-"title": "Georgia DOR, Property Tax FAQ (capital gains answer)",
-"url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
-},
-{
-"title": "Georgia DOR, Important Tax Updates",
-"url": "https://dor.georgia.gov/taxes/important-tax-updates"
-},
-{
-"title": "Georgia DOR, Retirement Income Exclusion",
-"url": "https://dor.georgia.gov/retirement-income-exclusion"
-},
-{
-"title": "Georgia DOR, Withholding Requirements for Sales or Transfers of Real Property by Nonresidents",
-"url": "https://dor.georgia.gov/document/document/sales-or-transfers-real-property-archive-web-content/download"
-},
-{
-"title": "IRS Topic 701, Sale of your home",
-"url": "https://www.irs.gov/taxtopics/tc701"
-},
-{
-"title": "IRS Topic 409, Capital gains and losses",
-"url": "https://www.irs.gov/taxtopics/tc409"
-},
-{
-"title": "IRS Topic 703, Basis of assets",
-"url": "https://www.irs.gov/taxtopics/tc703"
-},
-{
-"title": "IRS Topic 705, Installment sales",
-"url": "https://www.irs.gov/taxtopics/tc705"
-}
-]
-}
+"sources":[
+{"title":"Georgia DOR, Property Tax FAQ (capital gains answer)","url":"https://dor.georgia.gov/property-tax-real-and-personal-property-faq"},
+{"title":"Georgia DOR, Important Tax Updates","url":"https://dor.georgia.gov/taxes/important-tax-updates"},
+{"title":"Georgia DOR, Retirement Income Exclusion","url":"https://dor.georgia.gov/retirement-income-exclusion"},
+{"title":"Georgia DOR, Withholding Requirements for Sales or Transfers of Real Property by Nonresidents","url":"https://dor.georgia.gov/document/document/sales-or-transfers-real-property-archive-web-content/download"},
+{"title":"IRS Topic 701, Sale of your home","url":"https://www.irs.gov/taxtopics/tc701"},
+{"title":"IRS Topic 409, Capital gains and losses","url":"https://www.irs.gov/taxtopics/tc409"},
+{"title":"IRS Topic 703, Basis of assets","url":"https://www.irs.gov/taxtopics/tc703"},
+{"title":"IRS Topic 705, Installment sales","url":"https://www.irs.gov/taxtopics/tc705"}
+]}
