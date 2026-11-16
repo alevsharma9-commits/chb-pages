@@ -15,7 +15,7 @@
   },
   {
    "h2": "What exemptions does the Leon County Property Appraiser list?",
-   "html": "<p>March 1 is the filing deadline for each tax year, and the appraiser's site covers homestead plus several veteran and service benefits. Homestead can reduce assessed value by up to $51,411 for the 2026 tax year according to the office, and it is the base for the other benefits listed.</p><p>The veteran and military exemptions the office describes each require homestead first:</p><ul><li>$5,000 off assessed value for a veteran with a service-connected disability of 10 percent or more, or a qualifying surviving spouse.</li><li>A tax discount for a veteran who is 65 or older with a combat-related disability, matched to the VA disability percentage.</li><li>Full exemption for a veteran with a total and permanent service-connected disability, or a qualifying surviving spouse.</li><li>A deployed military exemption, applied for with Form DR-501M and a copy of deployment orders.</li></ul><p>The appraiser also lists a Limited Income Senior Exemption for owners 65 and older and a Long-Term Senior Resident Exemption for owners with 25 years of residence where just value is under $250,000 in the first year. Ask the appraiser for the current income limit. Documentation for most of these can go by email, mail, fax or in person.</p>"
+   "html": "<p>March 1 is the filing deadline for each tax year, and the appraiser's site covers homestead plus several veteran and service benefits. Homestead is the base for the other benefits listed, so owners should file for it first.</p><p>State law builds the homestead benefit in two layers: the first $25,000 of assessed value is exempt from all taxes, including school tax, and a further layer applies only to non-school taxes on value above $50,000. The owner must make the home a permanent residence by January 1, and the benefit ends if the home is rented or stops being the permanent home.</p><p>The veteran and military exemptions the office describes each require homestead first:</p><ul><li>$5,000 off assessed value for a veteran with a service-connected disability of 10 percent or more, or a qualifying surviving spouse.</li><li>A tax discount for a veteran who is 65 or older with a combat-related disability, matched to the VA disability percentage.</li><li>Full exemption for a veteran with a total and permanent service-connected disability, or a qualifying surviving spouse.</li><li>A deployed military exemption, applied for with Form DR-501M and a copy of deployment orders.</li></ul><p>Documentation for these can go by email, mail, fax or in person. Florida lets counties and cities add senior exemptions with an income limit, so ask the appraiser which local ones apply to your address and what the current income limit is.</p>"
   },
   {
    "h2": "What caps and rules apply to Leon County assessments?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "What does Leon County look like in the Census data?",
-   "html": "<p>Leon County, seated in Tallahassee, had an estimated 299,048 residents on July 1, 2025, across 668 square miles of land, and it is a renter-heavy market compared with most of Florida.</p><table><caption>Leon County snapshot, Census Bureau QuickFacts (2020 to 2024 unless noted)</caption><thead><tr><th>Measure</th><th>Leon County</th></tr></thead><tbody><tr><td>Population, July 1, 2025 estimate</td><td>299,048</td></tr><tr><td>Housing units, July 1, 2025</td><td>143,256</td></tr><tr><td>Owner-occupied housing rate</td><td>52.6%</td></tr><tr><td>Median value, owner-occupied homes</td><td>$301,800</td></tr><tr><td>Median gross rent</td><td>$1,291</td></tr><tr><td>Bachelor's degree or higher, age 25+</td><td>48.9%</td></tr></tbody></table><p>With just over half of homes owner-occupied, many Leon County sellers are investors with tenants in place. A rental is not eligible for homestead, and Florida's tenant notice rules apply to the sale timeline.</p>"
+   "html": "<p>Leon County, home to Tallahassee, had an estimated 299,048 residents on July 1, 2025, across 668 square miles of land, and it is a renter-heavy market compared with most of Florida.</p><table><caption>Leon County snapshot, Census Bureau QuickFacts (2020 to 2024 unless noted)</caption><thead><tr><th>Measure</th><th>Leon County</th></tr></thead><tbody><tr><td>Population, July 1, 2025 estimate</td><td>299,048</td></tr><tr><td>Housing units, July 1, 2025</td><td>143,256</td></tr><tr><td>Owner-occupied housing rate</td><td>52.6%</td></tr><tr><td>Median value, owner-occupied homes</td><td>$301,800</td></tr><tr><td>Median gross rent</td><td>$1,291</td></tr><tr><td>Bachelor's degree or higher, age 25+</td><td>48.9%</td></tr></tbody></table><p>With just over half of homes owner-occupied, many Leon County sellers are investors with tenants in place. A rental is not eligible for homestead, and Florida's tenant notice rules apply to the sale timeline.</p>"
   }
  ],
  "faqs": [
@@ -41,7 +41,7 @@
   },
   {
    "q": "What is the Leon County homestead filing deadline?",
-   "a": "March 1 of the tax year. The appraiser accepts applications by email, mail, fax or in person, and the homestead benefit is stated as up to $51,411 of assessed value for 2026."
+   "a": "March 1 of the tax year. The appraiser accepts applications by email, mail, fax or in person. Ask the office for the current homestead amount."
   },
   {
    "q": "Does Amendment 3 change my 2026 Leon County bill?",
@@ -53,6 +53,10 @@
   }
  ],
  "sources": [
+  {
+   "title": "Florida Department of Revenue, Homestead exemption",
+   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
+  },
   {
    "title": "Leon County Tax Collector, Property Taxes",
    "url": "https://www.leontaxcollector.net/Services/Property-Taxes"

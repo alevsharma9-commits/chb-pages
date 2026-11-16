@@ -1,0 +1,81 @@
+{
+ "slug": "miami-dade-county-fl-property-records",
+ "sections": [
+  {
+   "h2": "Who keeps property records in Miami-Dade County?",
+   "html": "<p>The Clerk of the Circuit Court and Comptroller is the county recorder. Under Chapter 28 of the Florida Statutes, the clerk is the official recorder of every instrument that law allows to be recorded here.</p><p>The Official Records hold deeds, mortgages, liens, certain affidavits, subdivision plats, judgments, declarations of domicile, satisfactions and releases, powers of attorney and financial statements. Fees and transfer taxes are figured and collected when a document is recorded.</p>"
+  },
+  {
+   "h2": "How do I search Miami-Dade Official Records?",
+   "html": "<p>Use the clerk's online Official Records search, which covers all of the instruments above. A search by name or by book and page finds the document you need.</p><ul><li>Name searches work for grantors, grantees and lienholders.</li><li>Credit bureaus pick up liens and judgments recorded here. If a bureau reports one you do not recognize, ask them for its book and page and request a copy from the Records Library.</li><li>The Property Appraiser's free fraud alert, run with the clerk, tells you within 24 hours when a deed or mortgage is recorded in your name.</li></ul>"
+  },
+  {
+   "h2": "What does it cost to record a document in Miami-Dade?",
+   "html": "<p>Most documents cost $10 for the first page and $8.50 for each additional page. A lis pendens costs $5 for the first page and $4 for each additional page.</p><table><caption>Miami-Dade clerk fee list for recording and copies</caption><thead><tr><th>Service</th><th>Fee</th></tr></thead><tbody><tr><td>Recording, first page</td><td>$10</td></tr><tr><td>Recording, each added page</td><td>$8.50</td></tr><tr><td>Plat or map, first page</td><td>$35</td></tr><tr><td>Plat or map, each added page</td><td>$19.50</td></tr><tr><td>Indexing, each name over 4</td><td>$1</td></tr><tr><td>Copy, per page</td><td>$1</td></tr><tr><td>Certification</td><td>$2</td></tr></tbody></table><p>Source: <a href=\"https://www.miamidadeclerk.gov/clerk/official-records.page\">Miami-Dade Clerk, Official Records page</a>.</p>"
+  },
+  {
+   "h2": "How much documentary stamp tax applies to a deed?",
+   "html": "<p>The clerk prints deed stamps at 60 cents per $100 of consideration, rounded up to the next hundred. Florida's revenue department confirms that Miami-Dade is the one county that uses 60 cents instead of the standard 70.</p><p>A separate surtax of 45 cents per $100 applies to transfers of real property other than a single-family residence. Mortgages pay 35 cents per $100 of the note, plus intangible tax of $2 per $1,000.</p><p>All parties to a deed are liable for the tax under state rules, regardless of who agrees to pay. Your contract with the buyer sets the practical split.</p>"
+  },
+  {
+   "h2": "What must a Miami-Dade deed include to be accepted?",
+   "html": "<p>The clerk's deed checklist is specific, and a missing item gets a document returned.</p><ul><li>An original document with the seller's signature.</li><li>Addresses for grantors and grantees.</li><li>Two witnesses not related to the transaction, with each name and post office address printed beneath the signature.</li><li>A full notary acknowledgement.</li><li>A Prepared By statement with name and address.</li><li>Documentary stamps, plus the property transfer form.</li><li>A folio number, which is encouraged but not required, and a self-addressed stamped envelope.</li></ul><p>Section 689.01 of the Florida Statutes separately requires two subscribing witnesses on a conveyance.</p>"
+  },
+  {
+   "h2": "What are my options for filing a document in person, by mail or electronically?",
+   "html": "<p>There are four routes. Bring the original and fees to the Osvaldo N. Soto Miami-Dade Justice Center, mail it to the Office of County Recorder at 20 NW 1st Avenue, Suite 5.246, Miami, FL 33128, use an approved eRecording vendor, or use the clerk's eRecording Web Service for Notices of Commencement and Declarations of Domicile.</p><p>Electronic filings take roughly 1 to 3 business days, excluding weekends and holidays, before they appear online. The clerk says it cannot promise same-day recording, so bring time-sensitive documents in person.</p><p>Cash is accepted only in person. Credit cards are in person only, with a $5,000 daily limit.</p>"
+  },
+  {
+   "h2": "Can I remove a Social Security number from a public record?",
+   "html": "<p>Yes. The clerk lets you request redaction of Social Security, bank account and credit card numbers from documents that are available online, using its online redaction form with the file number or book and page.</p><p>People covered by Chapter 119 exemptions can file a confidentiality request, in person or online. Party names stay in the index unless the name includes a street address, as in some trusts or LLCs.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I record a deed in Miami-Dade County?",
+   "a": "At the County Recorder's Office, 20 NW 1st Avenue, Suite 5.246, Miami, or by an approved eRecording vendor. The clerk accepts mail and in-person filings as well."
+  },
+  {
+   "q": "How much is the recording fee for a Miami-Dade deed?",
+   "a": "The clerk lists $10 for the first page and $8.50 for each additional page, before documentary stamps. Statute section 28.24(13) sets a lower base of $5.00 and $4.00 per page and lets the clerk add other charges."
+  },
+  {
+   "q": "Does Miami-Dade charge a deed surtax on a house?",
+   "a": "The 45 cents per $100 surtax applies to real property other than a single-family residence, so a deed for only a single-family home does not carry it."
+  },
+  {
+   "q": "Is a recorded deed necessary to protect a buyer?",
+   "a": "Yes. Under section 695.01, a conveyance is not good against later purchasers without notice or against creditors unless recorded."
+  },
+  {
+   "q": "How long does eRecording take in Miami-Dade?",
+   "a": "Roughly 1 to 3 business days before the document is viewable online, per the clerk."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Miami-Dade Clerk official records",
+   "url": "https://www.miamidadeclerk.gov/clerk/official-records.page"
+  },
+  {
+   "title": "Miami-Dade Clerk records search",
+   "url": "https://onlineservices.miamidadeclerk.gov/officialrecords"
+  },
+  {
+   "title": "Florida DOR doc stamp page",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Statutes 28.24",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
+  },
+  {
+   "title": "Florida Statutes 689.01",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html"
+  },
+  {
+   "title": "Property Appraiser of Miami-Dade County",
+   "url": "https://www.miamidadepa.gov/pa/home.page"
+  }
+ ]
+}

@@ -2,16 +2,16 @@
  "slug": "florida-housing-market",
  "sections": [
   {
-   "h2": "What do Census figures show about Florida's homes?",
-   "html": "<p>The state holds 10,789,047 housing units as of July 1, 2025, for an estimated 23,462,518 residents, and owners put the middle home at $359,000 across 2020 to 2024 (<a href=\"https://www.census.gov/quickfacts/fact/table/FL/PST045225\">QuickFacts, Florida</a>).</p><p>Growth is brisk. The estimate for mid-2025 sits 8.9 percent above the April 2020 base. Density rose from 350.6 people per square mile in 2010 to 401.4 in 2020 across 53,652.17 square miles of land. New supply keeps arriving too, with 178,297 building permits recorded for 2025.</p>"
+   "h2": "What does the Census Bureau report on Florida housing?",
+   "html": "<p>Florida counted 10,789,047 housing units on July 1, 2025, alongside an estimated 23,462,518 residents, and the middle owner-reported home value is $359,000 in the 2020 to 2024 data (<a href=\"https://www.census.gov/quickfacts/fact/table/FL/PST045225\">QuickFacts, Florida</a>).</p><p>Growth is brisk. Growth since April 2020 is 8.9 percent. Population per square mile climbed from 350.6 to 401.4 between 2010 and 2020, over 53,652.17 square miles of land. New supply keeps arriving too, with 178,297 building permits recorded for 2025.</p>"
   },
   {
-   "h2": "How many Florida homes are lived in by their owners?",
-   "html": "<p>Roughly two in three: 67.6 percent for the 2020 to 2024 period. That leaves about a third of occupied homes to renters. The bureau counts 8,752,810 households averaging 2.51 people.</p><p>Residents mostly stay put. About 86.3 percent of people aged one and older had not moved in the prior year. Sellers therefore draw buyers from arrivals as much as from neighbors trading up.</p><p>The age mix is notable. Those 65 and older make up 22.8 percent of the population, and 1,327,071 residents are veterans. Both groups connect to homestead benefits described in the state's senior and veteran guides, which shape what a buyer or an heir pays after a sale.</p>"
+   "h2": "What share of Florida households own their homes?",
+   "html": "<p>About two of every three homes: 67.6 percent in the 2020 to 2024 data. That leaves about a third of occupied homes to renters. The bureau counts 8,752,810 households averaging 2.51 people.</p><p>Residents mostly stay put. About 86.3 percent of people aged one and older had not moved in the prior year. Sellers therefore draw buyers from arrivals as much as from neighbors trading up.</p><p>The age mix is notable. Those 65 and older make up 22.8 percent of the population, and 1,327,071 residents are veterans. Both groups connect to homestead benefits described in the state's senior and veteran guides, which shape what a buyer or an heir pays after a sale.</p>"
   },
   {
    "h2": "What are typical monthly housing costs in Florida?",
-   "html": "<p>Owners with a mortgage report median monthly costs of $1,959. Owners without one report $673. Renters pay a median gross rent of $1,669. All three come from the 2020 to 2024 survey period.</p><p>The spread between the owner figures shows how much of a payment is the loan itself. A paid-off house still carries taxes, insurance and upkeep, so an heir holding a free-and-clear property pays less per month yet faces vacancy risk, repairs and the autumn tax bill.</p><p>For comparison, median household income is $74,568 in 2024 dollars, per capita income is $42,609, and 12.0 percent of people are below the poverty line.</p>"
+   "html": "<p>Median monthly cost runs $1,959 for owners still paying a mortgage and $673 for owners who are not. Renters face $1,669 in gross rent. The bureau labels all three as 2020 to 2024 estimates.</p><p>The spread between the owner figures shows how much of a payment is the loan itself. A paid-off house still carries taxes, insurance and upkeep, so an heir holding a free-and-clear property pays less per month yet faces vacancy risk, repairs and the autumn tax bill.</p><p>For comparison, median household income is $74,568 in 2024 dollars, per capita income is $42,609, and 12.0 percent of people are below the poverty line.</p>"
   },
   {
    "h2": "Which Florida housing statistics fit in one view?",
@@ -19,11 +19,11 @@
   },
   {
    "h2": "What do workers and buyers look like statewide?",
-   "html": "<p>Income and rent sit close enough to show pressure on buyers: median gross rent of $1,669 a month eats a visible share of a $74,568 household income. About 59.3 percent of residents 16 and older are in the labor force, and commutes average 28.0 minutes each way.</p><p>Other rows describe the buyer pool. Some 34.1 percent of adults hold a bachelor's degree, 21.9 percent were born abroad, and 30.6 percent of residents five and older use another language at home. A seller benefits from plain, bilingual-friendly paperwork.</p><p>Business rows add context: 645,575 employer establishments in 2023, employment near 9,988,508, and 2022 retail sales of $484,218,148,000. These are statewide sums, so check the county or city page in QuickFacts for your own location.</p>"
+   "html": "<p>Income and rent sit close enough to show pressure on buyers: median gross rent of $1,669 a month eats a visible share of a $74,568 household income. The civilian labor force takes in 59.3 percent of residents 16 and up, with a 28.0 minute average trip to work.</p><p>Other rows describe the buyer pool. A bachelor's degree or more belongs to 34.1 percent of adults, 21.9 percent were born abroad, and 30.6 percent of residents five and older use another language at home. A seller benefits from plain, bilingual-friendly paperwork.</p><p>Business rows add context: 645,575 employer establishments in 2023, employment near 9,988,508, and 2022 retail sales of $484,218,148,000. These are statewide sums, so check the county or city page in QuickFacts for your own location.</p>"
   },
   {
    "h2": "How do transfer taxes and recording charges affect a Florida sale?",
-   "html": "<p>Documentary stamp tax applies to the deed. The revenue agency prints a rate of 70 cents for each $100 of consideration everywhere except Miami-Dade, where it is 60 cents plus a 45 cent surtax that skips a document moving only a single-family dwelling. Every party to the document is liable regardless of who agrees to pay (<a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">doc stamp page</a>).</p><p>The clerk also charges to record. Under s. 28.24(13) that means $5.00 on page one, $4.00 on each later page, a $1.00 and $0.50 trust fund charge, and a $4 per page technology charge (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html\">s. 28.24</a>).</p><p>Property tax runs on a fixed rhythm: assessment each January 1, bills in November, and discounts that shrink from 4 percent to 1 percent by February.</p>"
+   "html": "<p>Documentary stamp tax applies to the deed. The revenue agency sets 70 cents per $100 of consideration in every county but Miami-Dade, where it is 60 cents plus a 45 cent surtax that skips a document moving only a single-family dwelling. Every party to the document is liable regardless of who agrees to pay (<a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">doc stamp page</a>).</p><p>The clerk also charges for recording. Section 28.24(13) sets $5.00 for the opening page and $4.00 for later pages, plus a modernization fund charge and a $4 per page technology fee (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html\">s. 28.24</a>).</p><p>Property tax runs on a fixed rhythm: assessment each January 1, bills in November, and discounts that shrink from 4 percent to 1 percent by February.</p>"
   },
   {
    "h2": "How does homestead protection split buyers from long-time owners?",
@@ -31,15 +31,19 @@
   },
   {
    "h2": "Which county offices does a Florida seller deal with?",
-   "html": "<p>Florida is divided into 67 counties, and each elects a sheriff, tax collector, property appraiser, supervisor of elections and clerk of the circuit court to four year terms (<a href=\"https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF\">Senate bill analysis</a>). Three of those offices touch a home sale.</p><ul><li>The property appraiser sets just value each January, mails the August notice and rules on exemptions.</li><li>The tax collector bills, collects, takes deferral and installment requests, and sells certificates on unpaid items.</li><li>The clerk records the deed, collects stamp tax at recording and runs foreclosure and tax deed auctions.</li></ul><p>Knowing which door to knock on saves a seller days at closing.</p>"
+   "html": "<p>Florida is divided into 67 counties, and each elects a sheriff, tax collector, property appraiser, supervisor of elections and clerk of the circuit court to four year terms (<a href=\"https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF\">Senate bill analysis</a>). Three of those offices touch a home sale.</p><ul><li>The property appraiser sets just value each January, mails the August notice and rules on exemptions.</li><li>The tax collector bills, collects, takes deferral and installment requests, and sells certificates on unpaid items.</li><li>The clerk of the circuit court records the deed, takes the stamp tax and runs foreclosure and tax deed auctions.</li></ul><p>Knowing which door to knock on saves a seller days at closing.</p>"
   },
   {
-   "h2": "What happens when Florida property tax goes unpaid?",
+   "h2": "What happens to unpaid Florida property tax?",
    "html": "<p>Unpaid tax turns delinquent on April 1, and the tax collector sells certificates on unpaid items by June 1 (<a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">state calendar</a>). Bidders compete on the lowest interest rate in quarter percent steps, and the county takes any certificate that finds no bidder at the maximum rate (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html\">s. 197.432</a>).</p><p>A certificate holder may not demand payment from the owner until two years after April 1 of the issue year, and may apply for a tax deed after that same period. Homeowners considering a quick sale should clear delinquencies first, since a buyer's lender will insist.</p>"
   },
   {
    "h2": "What should a seller verify before leaning on statewide averages?",
    "html": "<p>Look at the county, the neighborhood and the house. One state median blends beach condos, inland ranch homes and rural parcels.</p><p>County offices hold the facts that set closing costs. The appraiser publishes values, the clerk records deeds and collects stamp tax, and the tax collector sends bills.</p><p>QuickFacts does not carry sale price, days on market or sales volume. A local agent or the clerk's recorded sales can fill that gap.</p>"
+  },
+  {
+   "h2": "What questions should a Florida seller ask a local office?",
+   "html": "<p>Write the questions down before calling, because each office answers only its own slice. Useful ones include the following.</p><ul><li>To the appraiser: what are the current assessed and just values, and is every exemption still active?</li><li>To the tax collector: are any taxes, deferrals or installment plans open against the parcel?</li><li>To the clerk: how will the deed be recorded, and what stamp tax and recording charges will apply?</li></ul><p>Answers vary by county, and a house in a high-growth county may be assessed very differently from a similar one inland. Use the statewide Census figures here as a backdrop, then replace them with the county and city rows when you set a price or plan repairs.</p><p>Closing agents can estimate the settlement figures once they see the contract, so request a draft statement early rather than the week of closing.</p>"
   }
  ],
  "faqs": [
@@ -84,6 +88,18 @@
   {
    "title": "Florida Department of Revenue, Assessment limitation guide (pt112)",
    "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  },
+  {
+   "title": "Florida Senate bill analysis, county officers",
+   "url": "https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF"
+  },
+  {
+   "title": "Florida Statutes, s. 197.432",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
+  },
+  {
+   "title": "Florida Department of Revenue, Property Tax Taxpayer Information",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   }
  ]
 }
