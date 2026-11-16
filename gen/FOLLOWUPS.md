@@ -79,3 +79,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 - dakota-county-mn-property-tax-guide: 'November 15, moved to Monday, November 16 this year' for ag/manufactured-home second half. Stale after Nov 16, 2026; reword as 'November 15 (next business day when it falls on a weekend)'.
 - Spot-check Mississippi pages (batch 154: biloxi, brandon, clinton, greenville, gulfport, hattiesburg and county guides): disclosure statute, Class I/II assessment ratios, homestead exemptions, deed fees were heavily reworded to pass the overlap limit.
 - NJ resale smoke/CO/fire-extinguisher certificate: NJ pages disagree (Bergenfield, Brick, Teaneck still list a portable extinguisher; one agent says another page says the state dropped it Feb 3, 2025). Verify on the NJ DCA page and make all NJ pages agree.
+- san-miguel-county-nm-property-tax-guide: keeps Nov 19, 2026 state auction (upcoming). Reword as a recurring rule after Nov 19.
