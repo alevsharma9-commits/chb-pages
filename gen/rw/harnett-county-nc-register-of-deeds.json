@@ -3,15 +3,15 @@
  "sections": [
   {
    "h2": "Where is the Harnett County Register of Deeds and what does it record?",
-   "html": "<p>Look for Suite 200 at 305 W. Cornelius Harnett Blvd, Lillington, NC 27546. Land documents of every kind end up here: deeds, mortgages, plats, powers of attorney and UCC filings. Voters choose the person who runs the office every two years, as <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html\">G.S. 161-1</a> provides.</p><p>All of it is open to the public except military discharges. Harnett County was formed from Cumberland County in 1855, and the books go back to that year, although fires in 1892 and 1894 destroyed many early records.</p><p>By statute, the staff may not run title searches. A seller or buyer who wants the chain of title needs an attorney or a title company. Because the index runs by name, a person who only has a street address should look up the owner in the county GIS viewer first.</p>"
+   "html": "<p>Look for Suite 200 at 305 W. Cornelius Harnett Blvd, Lillington, NC 27546. Land documents of every kind end up here: deeds, mortgages, plats, powers of attorney and UCC filings. The person who runs the office is chosen by voters every two years, as <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html\">G.S. 161-1</a> provides.</p><p>All of it is open to the public except military discharges. Harnett County was formed from Cumberland County in 1855, and the books go back to that year, although fires in 1892 and 1894 destroyed many early records.</p><p>By statute, the staff may not run title searches. A seller or buyer who wants the chain of title needs an attorney or a title company. Because the index runs by name, a person who only has a street address should look up the owner in the county GIS viewer first.</p>"
   },
   {
    "h2": "What are the Harnett County recording fees?",
-   "html": "<p>The posted schedule is dated July 1, 2026 and follows <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html\">G.S. 161-10</a>. An ordinary deed starts at $26.00 and a mortgage or deed of trust at $64.00, with $4.00 charged for each page beyond the included count.</p><table><caption>Harnett County recording charges, schedule dated July 1, 2026</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>Deed or other instrument, pages 1 to 15</td><td>$26.00</td></tr><tr><td>Added pages, either type</td><td>$4.00 each</td></tr><tr><td>Deed of trust or mortgage, pages 1 to 35</td><td>$64.00</td></tr><tr><td>Satisfaction or cancellation</td><td>None</td></tr><tr><td>Plat, per page</td><td>$21.00</td></tr><tr><td>Certified copy</td><td>$5.00 first page, $2.00 each after</td></tr><tr><td>Extra subsequent-instrument index reference</td><td>$25.00</td></tr></tbody></table><p>Source: <a href=\"https://harnett.org/deeds/downloads/uniform-fee-schedule.pdf\">Harnett County Register of Deeds uniform fee schedule</a>. Because releasing a loan costs nothing to record, a payoff at closing adds no recording charge on that side.</p>"
+   "html": "<p>The posted schedule is dated July 1, 2026 and follows <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html\">G.S. 161-10</a>. An ordinary deed starts at $26.00 and a loan instrument at $64.00, with $4.00 charged for each page beyond the included count.</p><table><caption>Harnett County recording charges, schedule dated July 1, 2026</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>Deed or other instrument, pages 1 to 15</td><td>$26.00</td></tr><tr><td>Added pages, either type</td><td>$4.00 each</td></tr><tr><td>Mortgage or trust deed, pages 1 to 35</td><td>$64.00</td></tr><tr><td>Satisfaction or cancellation</td><td>None</td></tr><tr><td>Plat, per page</td><td>$21.00</td></tr><tr><td>Certified copy</td><td>$5.00 first page, $2.00 each after</td></tr><tr><td>Extra subsequent-instrument index reference</td><td>$25.00</td></tr></tbody></table><p>Source: <a href=\"https://harnett.org/deeds/downloads/uniform-fee-schedule.pdf\">Harnett County Register of Deeds uniform fee schedule</a>. Because releasing a loan costs nothing to record, a payoff at closing adds no recording charge on that side.</p>"
   },
   {
    "h2": "What deed tax applies to a Harnett County sale?",
-   "html": "<p>The county prints the rate as $2.00 per $1,000, which is the same as $1.00 for each $500 of price or fraction of $500. Its history table shows that rate in force since August 1, 1991, after a 50-cent rate that began in 1968.</p><p>The seller settles it ahead of recording. Under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> the money is split between the county general fund and the state, which receives its half monthly after a small county allowance.</p><p>Have the closing attorney show this tax as a separate seller line on the settlement statement.</p>"
+   "html": "<p>The county prints the rate as $2.00 per $1,000, which is the same as $1.00 for each $500 of price or part of $500. Its history table shows that rate in force since August 1, 1991, after a 50-cent rate that began in 1968.</p><p>The seller settles it ahead of recording. Under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> the money is split between the county general fund and the state, which receives its half monthly after a small county allowance.</p><p>Have the closing attorney show this tax as a separate seller line on the settlement statement.</p>"
   },
   {
    "h2": "When does a deed count as recorded in Harnett County?",
@@ -35,13 +35,13 @@
   },
   {
    "h2": "Which Census numbers frame a Harnett County sale?",
-   "html": "<p>Census Bureau figures describe the people a Harnett County seller is marketing to. These are the ones most tied to housing.</p><ul><li>49,845 households for 2020-2024, averaging 2.73 persons.</li><li>Age and service: 14.7% of the population is 65 or older, and the county counts 11,660 veterans.</li><li>Rent and carrying costs: gross rent has a median of $1,112, and mortgaged owners carry a median of $1,594 monthly.</li><li>Stability: 86.8% of people aged one and over had not moved in the prior year.</li><li>Land area is 594.93 square miles, with 224.5 people per square mile counted in 2020 (<a href=\"https://www.census.gov/quickfacts/fact/table/harnettcountynorthcarolina/PST045224\">Census QuickFacts</a>).</li></ul><p>Workers average 32.8 minutes of travel to work, a figure buyers weigh against the price of a house.</p>"
+   "html": "<p>Census Bureau figures describe the people a Harnett County seller is marketing to. These are the ones most tied to housing.</p><ul><li>49,845 households for 2020-2024, averaging 2.73 persons.</li><li>Age and service: 14.7% of the population is 65 or older, and the county counts 11,660 veterans.</li><li>Rent and carrying costs: gross rent has a median of $1,112, and mortgaged owners carry a median of $1,594 monthly.</li><li>Stability: 86.8% of people aged one and over had not moved during the prior year.</li><li>Land area is 594.93 square miles, with 224.5 people per square mile counted in 2020 (<a href=\"https://www.census.gov/quickfacts/fact/table/harnettcountynorthcarolina/PST045224\">Census QuickFacts</a>).</li></ul><p>Workers average 32.8 minutes of travel to work, a figure buyers weigh against the price of a house.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Price of recording a Harnett deed?",
-   "a": "Budget $26.00 for a deed of up to 15 pages, with $4.00 added per extra page. A deed of trust runs $64.00 up to 35 pages. Those are the numbers on the schedule dated July 1, 2026."
+   "a": "Budget $26.00 for a deed of up to 15 pages, with $4.00 added per extra page. A mortgage costs $64.00 for up to 35 pages. Those are the numbers on the schedule dated July 1, 2026."
   },
   {
    "q": "Who covers the Harnett County deed excise tax?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "How late in the day can a Harnett County deed be recorded?",
-   "a": "In person, it must be keyed before 5:00 p.m., and that turns on how long the document takes to enter. E-recordings must arrive by 4:45 p.m. Later items are recorded on the next business day."
+   "a": "In person, it must be keyed before 5:00 p.m., and that turns on how long the document takes to enter. E-recordings must arrive by 4:45 p.m. Anything later is recorded the following business day."
   },
   {
    "q": "Does it cost anything to record a mortgage satisfaction in Harnett County?",
