@@ -3,60 +3,76 @@
  "sections": [
   {
    "h2": "Why would a Monroe-area seller need the Union County Register of Deeds?",
-   "html": "<p>Because the sale is not complete in the public record until your deed is filed there. The office keeps what its website calls a permanent record of land ownership and transfers for Union County, covering deeds, deeds of trust, cancellations, plats, assumed names and powers of attorney.</p>\n<p>Birth, death and marriage certificates, marriage licenses, military discharge papers and notary commissions also run through this desk, and it doubles as a passport acceptance facility open to anyone. A house seller cares about the land side only. Whoever handles your closing delivers the signed deed, and the time stamp on it settles who stands first if two claims ever collide.</p>\n<p>The department page says the office has served Union County since the county was formed in 1842, and that the register is an elected official. A quick cash sale of a Union County house still ends at this counter.</p>"
+   "html": "<p>Because the sale is not complete in the public record until your deed is filed there. The office keeps what its website calls a permanent record of land ownership and transfers for Union County, with deeds, plats and powers of attorney among the filings.</p>\n<p>Vital records, marriage licenses and notary oaths share the counter, along with passport applications. A house seller cares only about the land side. Whoever runs your closing delivers the signed deed, and its time stamp decides who ranks first if two claims collide.</p>\n<p>Per the department page, the office dates to the county's formation in 1842 and the register is elected. A quick cash sale of a Union County house still ends at this counter.</p>"
   },
   {
    "h2": "Can the Union County register tell you what a document means?",
-   "html": "<p>No. The department describes itself as a recording office only, and it says North Carolina law forbids the register and staff from practicing law.</p>\n<p>Staff will not hand out legal forms, coach you through filling one in, or say what a filed instrument does to your rights. For all of that the department tells visitors to see an attorney. This comes up most with title changes: to add or remove a name from a deed, you record a fresh deed, because the office does not edit an old one.</p>\n<ul>\n<li>Liens and judgments against a person or property: the Clerk of Court, 704-698-3100.</li>\n<li>Who owns a given street address: the tax assessor, 704-283-3746, since the register indexes by name.</li>\n<li>Drafting or correcting a deed: a North Carolina attorney.</li>\n</ul>"
+   "html": "<p>No. The department describes itself as a recording office only, and it says North Carolina law forbids the register and staff from practicing law.</p>\n<p>Expect no blank legal forms and no coaching on completing one. The department points visitors to an attorney. Title changes are the usual trigger: changing the names on a house means recording a fresh deed, and an old one is never edited.</p>\n<ul>\n<li>Liens and judgments against a person or property: the Clerk of Court, 704-698-3100.</li>\n<li>Who owns a given street address: the tax assessor, 704-283-3746, since the register indexes by name.</li>\n<li>Drafting or correcting a deed: a North Carolina attorney.</li>\n</ul>"
   },
   {
-   "h2": "How and when do you file a deed in Union County?",
-   "html": "<p>Walk it in during recording hours, Monday to Friday, 8 a.m. to 5 p.m., or route it through an electronic recording vendor. The Union County Government Center at 500 North Main Street, Monroe, houses the office, and the department lists neighborhood covenant files on the second floor.</p>\n<p>Three vendors are named as currently in use: Simplifile, CSC and ePN. You contact the vendor to get set up, which is why most sellers never touch this step. Title companies and law firms that run closings tend to hold accounts already. Ask yours which vendor they use and when to expect the recorded copy back.</p>\n<p>Paper filers need the original signed document plus payment. State law says fees are collected before filing, so an unpaid document will sit.</p>"
+   "h2": "Where in Monroe do you take a deed to be filed?",
+   "html": "<p>Recording hours are Monday to Friday, 8 a.m. to 5 p.m. Bring a document in, or send it through an e-recording vendor. The Union County Government Center at 500 North Main Street, Monroe, houses the office, and the department lists neighborhood covenant files on the second floor.</p>\n<p>Three vendors are named as currently in use: Simplifile, CSC and ePN. Setup is arranged with the vendor directly, and most sellers never touch it, because the firm running a closing usually has an account. Ask which vendor your firm uses and when the stamped copy returns.</p>\n<p>Paper filers bring the signed original and payment. State law collects the fee up front.</p>"
   },
   {
-   "h2": "What are the recording fees and transfer tax in Union County?",
-   "html": "<p>The department prints $26.00 for the first fifteen pages and $4.00 per further page when it explains how to record separation papers, and state law uses the same pair of numbers for instruments generally. The excise tax on deeds is $2 per thousand dollars for deeds since August 1, 1991.</p>\n<table>\n<caption>Union County recording items, with the page that prints each</caption>\n<thead><tr><th>Item</th><th>Amount printed</th><th>Where printed</th></tr></thead>\n<tbody>\n<tr><td>Instrument, first fifteen pages</td><td>$26.00, then $4.00 per page</td><td>County FAQ and G.S. 161-10</td></tr>\n<tr><td>Deed of trust or mortgage, first 35 pages</td><td>$64.00, then $4.00 per page</td><td>G.S. 161-10</td></tr>\n<tr><td>Satisfaction of a deed of trust</td><td>No charge</td><td>G.S. 161-10</td></tr>\n<tr><td>Plat</td><td>$21.00 a sheet</td><td>G.S. 161-10</td></tr>\n<tr><td>Assumed name</td><td>$26</td><td>County FAQ</td></tr>\n<tr><td>Deed excise tax since August 1, 1991</td><td>$2 per thousand</td><td>County FAQ</td></tr>\n</tbody>\n</table>\n<p>Documents that miss the layout rules pick up $25.00 more. Ask the office for its current fee sheet before mailing a check.</p>"
+   "h2": "What will filing cost at the Monroe counter?",
+   "html": "<p>The department prints $26.00 for the first fifteen pages and $4.00 per further page when it explains how to record separation papers, and state law uses the same pair of numbers for instruments generally. The excise tax on deeds is $2 per thousand dollars for deeds since August 1, 1991.</p>\n<table>\n<caption>Union County recording items, with the page that prints each</caption>\n<thead><tr><th>Item</th><th>Amount printed</th><th>Where printed</th></tr></thead>\n<tbody>\n<tr><td>Instrument, first fifteen pages</td><td>$26.00, then $4.00 per page</td><td>County FAQ and G.S. 161-10</td></tr>\n<tr><td>Deed of trust or mortgage, first 35 pages</td><td>$64.00, then $4.00 per page</td><td>G.S. 161-10</td></tr>\n<tr><td>Satisfaction of a deed of trust</td><td>No charge</td><td>G.S. 161-10</td></tr>\n<tr><td>Plat</td><td>$21.00 a sheet</td><td>G.S. 161-10</td></tr>\n<tr><td>Assumed name</td><td>$26</td><td>County FAQ</td></tr>\n<tr><td>Deed excise tax since August 1, 1991</td><td>$2 per thousand</td><td>County FAQ</td></tr>\n</tbody>\n</table>\n<p>A nonstandard document adds $25.00. Request the office's current fee sheet before mailing a check.</p>"
   },
   {
-   "h2": "Who pays the Union County deed excise tax?",
-   "html": "<p>The person giving up the property pays it. The legislature words the rate as one dollar for each $500 of value, which matches the $2 per thousand the county shows, and requires payment to the register before the deed goes on record.</p>\n<p>In an ordinary sale that is the seller, and the charge appears as a line on the settlement statement. The collected tax splits evenly between the county general fund and the state, with the county permitted to hold back a small cut of the state half.</p>\n<p>The dollar amount turns on the price or value stated in the deed, so get the number from your closing office rather than estimating.</p>"
+   "h2": "Who owes the excise tax on a Union County deed?",
+   "html": "<p>The transferor pays. The legislature writes the rate as a dollar per $500 of value, matching the $2 per thousand the county shows, and requires payment before recording.</p>\n<p>In a typical sale that is the seller, shown as a line at settlement. Half the tax stays in the county general fund and half goes to the state.</p>\n<p>The amount tracks the value stated in the deed, so take the figure from your closing office.</p>"
   },
   {
-   "h2": "What can you search online in Union County, and what needs a visit?",
+   "h2": "Which Union County deeds are online?",
    "html": "<p>Online, the register offers deeds from 1973 and maps from 1842. Earlier deeds and every other record type need a trip to the office.</p>\n<p>Two limits catch people. The deed look-up covers deeds and plats only, so mortgage information is not there. And the index is built on names, so typing a street address into it gets you nowhere.</p>\n<ul>\n<li>Know the owner's name as it appears on the last deed.</li>\n<li>Call the assessor for the owner of a street address.</li>\n<li>Go to the office for mortgages and deeds of trust.</li>\n<li>Look in the same office for filed HOA covenants, if the county holds them.</li>\n</ul>\n<p>Sellers use the search to check that the signers match the names on title and that no old deed of trust is still open.</p>"
   },
   {
-   "h2": "Why does the order of recording matter in Union County?",
-   "html": "<p>A conveyance, an option, a right of first refusal or a lease over three years binds lien creditors and buyers for value only once registered in the county holding the land. Competing instruments rank by registration time.</p>\n<p>That rule is why a delay between signing and recording can matter, and why an uncancelled deed of trust on an inherited or long-held house deserves attention before you sign a sales contract. Lenders do not charge to record a release, since satisfactions carry no fee.</p>\n<p>Ask for the recorded copy after closing and keep it with your sale papers.</p>"
+   "h2": "What do Census figures say about Union County homes and owners?",
+   "html": "<p>Union County keeps its offices in Monroe. QuickFacts shows a 2025 population estimate of 267,674, up 12.4 percent from the April 2020 base of 238,179, and 95,683 housing units. About 81.6 percent of homes are owner-occupied, a high share that means most sales here involve a single-family owner rather than a landlord.</p>\n<p>The median value of an owner-occupied home was $417,300 for 2020-2024, with median household income at $102,900 in 2024 dollars and a mean commute of 29.8 minutes. The Bureau counted 2,707 building permits in 2025.</p>\n<ul>\n<li>Households: 84,237, averaging 2.95 people.</li>\n<li>Land area: 632.74 square miles, or 376.6 people per square mile in 2020.</li>\n<li>Median monthly owner cost with a mortgage: $1,940; without one, $553.</li>\n<li>Median gross rent: $1,496.</li>\n<li>Residents 65 and older: 15.2 percent, and 11,834 veterans.</li>\n<li>Households with a broadband subscription: 94.1 percent.</li>\n</ul>\n<p>For sellers, steady new construction and long commutes to larger job centers shape who buys, and the register's index shows every deed that moves between them.</p>"
   },
   {
-   "h2": "Which other Union County offices come up in a home sale?",
-   "html": "<p>The assessor, the Clerk of Court and the register cover most questions. The assessor's number is 704-283-3746, the Clerk of Court's is 704-698-3100, and the register's vital records line is 704-283-3610 per the department's pages.</p>\n<p>Notary commissions are also kept here. A notary who is renewing takes the oath in person for a $10.00 fee. Have your closing office confirm that the notary witnessing your signature holds a current commission.</p>\n<p>Probate, divorce and tax questions follow their own paths through the courts and the tax office. The register only files what those processes hand over.</p>"
+   "h2": "How do you reach the Union County Register of Deeds by mail or phone?",
+   "html": "<p>The land records page gives the street address as 500 North Main Street, Suite 239, Monroe, NC 28112, and the telephone number as 704-283-3843. Mail goes to PO Box 248, Monroe, NC 28111-0248. A separate Suite 258 appears on the vital records instructions, so a seller delivering a deed should use the Suite 239 land records address.</p>\n<p>Most sellers skip the mail and let the closing firm file electronically.</p>\n<p>The county also posts older excise tax rates for researching past transfers: $1 per thousand for 1969 to July 1991 and $1.10 per thousand before 1968. They only matter if you are tracing an old deed in the family chain of title.</p>"
+  },
+  {
+   "h2": "Does filing order change who wins a dispute?",
+   "html": "<p>Under G.S. 47-18, a conveyance has no force against lien creditors or purchasers for value before it is registered, and rank follows registration time.</p>\n<p>So a gap between signing and filing carries risk, and an uncancelled deed of trust on an inherited house deserves a look before you sign a contract. Releases record free.</p>\n<p>Keep the recorded copy with your sale papers.</p>"
+  },
+  {
+   "h2": "Which phone numbers help with a Union sale?",
+   "html": "<p>Three numbers cover most questions: assessor 704-283-3746, Clerk of Court 704-698-3100 and the register's vital records line 704-283-3610.</p>\n<p>Notary commissions are also kept here. A notary who is renewing takes the oath in person for a $10.00 fee. Have your closing office confirm that the notary witnessing your signature holds a current commission.</p>\n<p>Probate, divorce and tax matters run through the courts and the tax office. The register files the paper they produce.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What hours does the Union County Register of Deeds keep?",
-   "a": "Monday through Friday, 8 a.m. to 5 p.m. Electronic filers go through Simplifile, CSC or ePN, so ask your vendor about its cutoff."
+   "q": "Is the Union County deed office open on weekends?",
+   "a": "Weekdays from 8 a.m. to 5 p.m. E-filers use Simplifile, CSC or ePN; ask the vendor about its cutoff."
   },
   {
-   "q": "Will the Union County register draft my deed?",
-   "a": "No. The department calls itself a recording office only, and staff cannot supply legal forms or advise on completing them. Hire an attorney to prepare the deed."
+   "q": "Will Union County staff fix a mistake in my deed?",
+   "a": "No. Staff cannot advise on drafting, so the attorney who prepared the deed has to correct it."
   },
   {
-   "q": "What is the Union County deed excise tax?",
-   "a": "The county shows $2 per thousand dollars for deeds from August 1, 1991 on. State law words it as $1.00 per $500 of value, and the seller usually pays at closing."
+   "q": "How was the deed tax set before 1991?",
+   "a": "The county lists $1 per thousand for 1969 to July 1991 and $1.10 per thousand for earlier deeds, and $2 per thousand since."
   },
   {
-   "q": "Can I look up a Union County deed by street address?",
-   "a": "Not in the register's index, which runs on names. For an address, call the tax assessor at 704-283-3746. Online deeds start in 1973."
+   "q": "Why can't I type my address into the deed search?",
+   "a": "Not directly, since the index runs on names. Call the assessor at 704-283-3746. Online deeds begin in 1973."
   },
   {
-   "q": "Is there a charge to record a satisfaction in Union County?",
-   "a": "State law lists no fee for recording satisfactions or cancellations of deeds of trust or mortgages. Confirm with the office when you file."
+   "q": "Do payoff releases cost extra in Union County?",
+   "a": "No fee under G.S. 161-10, which exempts satisfactions and cancellations."
   }
  ],
  "sources": [
+  {
+   "title": "Union County Land Records",
+   "url": "https://www.unioncountync.gov/business/land-records"
+  },
+  {
+   "title": "Census QuickFacts, Union County, North Carolina",
+   "url": "https://www.census.gov/quickfacts/fact/table/unioncountynorthcarolina/PST045224"
+  },
   {
    "title": "Union County Register of Deeds",
    "url": "https://www.unioncountync.gov/government/departments-r-z/register-of-deeds"

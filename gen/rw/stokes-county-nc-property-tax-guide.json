@@ -6,28 +6,28 @@
    "html": "<p>Tax Administration, in the county Administration Building at 1014 Main Street, Danbury. Mail goes to P.O. Box 57 and the office is open weekdays from 8:30 to 5:00.</p><p>Its web pages offer a search and payment portal, property record cards, land and home values, an online listing service and a form to request a listing extension. Owners who want paperless bills can sign up for e-statements using the registration ID printed on the statement.</p>"
   },
   {
-   "h2": "What are the Stokes County tax deadlines?",
-   "html": "<p>Bills are due by January 5, and a mailed payment needs a postmark on or before that day. The state default is September 1 payable, with interest beginning January 6.</p><table><caption>Stokes County and state tax calendar</caption><thead><tr><th>Date or period</th><th>What happens</th></tr></thead><tbody><tr><td>January 1 to January 31</td><td>Listing period</td></tr><tr><td>Up to April 15</td><td>Individual listing extension for good cause, if requested in January</td></tr><tr><td>January 5</td><td>Last day to pay without interest</td></tr><tr><td>January 6 on</td><td>Interest begins</td></tr></tbody></table><p>A tax bill for the year you sell remains a charge on the parcel, so work out the split with your closing attorney.</p>"
+   "h2": "What are the Stokes tax dates?",
+   "html": "<p>Bills carry a January 5 deadline, and mail needs that postmark. Under state law the tax is payable September 1, and interest starts January 6.</p><table><caption>Stokes County yearly tax rhythm</caption><thead><tr><th>When</th><th>Event</th></tr></thead><tbody><tr><td>All of January</td><td>Property listing</td></tr><tr><td>Through April 15</td><td>Extension for good cause, if asked in January</td></tr><tr><td>By January 5</td><td>Payment without interest</td></tr><tr><td>From January 6</td><td>Interest accrues</td></tr></tbody></table><p>A bill for your year of sale stays on the parcel, so settle the split with your closing attorney.</p>"
   },
   {
    "h2": "What happens if a Stokes County owner does not list property?",
-   "html": "<p>The county posts a 10% penalty on the total tax levied. The commissioners may add up to 30 days to the listing period in a year without a general reappraisal.</p><p>Most homeowners do not have to do anything in a quiet year, but anyone who built, demolished, bought a business asset or owns a boat or similar item should list. The online listing service is the quickest route.</p>"
+   "html": "<p>The county posts a 10% penalty on the total tax levied. The commissioners may add up to 30 days to the listing period in a year without a general reappraisal.</p><p>Most homeowners need to do nothing in a quiet year. Anyone who built or demolished a structure, bought a business asset or owns a boat or similar item should list, and the online listing service is the quickest route. The department's extension request form is also on its page.</p>"
   },
   {
    "h2": "How often does Stokes County reappraise?",
    "html": "<p>Every four years, according to the county's real property page, even though G.S. 105-286 allows up to eight. Between reappraisals the assessor may change a value only to fix a clerical or math error or a misapplied schedule, or to reflect real changes to the property.</p><p>Normal depreciation, countywide economic swings and minor upkeep such as repainting or landscaping do not justify a change in between. Check your notice for the effective date of the current reappraisal.</p>"
   },
   {
-   "h2": "What are the steps if I think my Stokes County value is wrong?",
-   "html": "<p>Call Tax Administration first, then go to the county board that hears value disputes. State law has that board meet for the first time between the first Monday in April and the first Monday in May, and you must ask for a hearing before it adjourns.</p><ul><li>The board mails its decision no more than 30 days after adjourning.</li><li>You then have 30 days from that mailing to notify the state Property Tax Commission.</li><li>Stokes sets the board's dates each year, so ask the office for the current schedule.</li></ul><p>Bring comparable sales, an appraisal, or evidence the county data on your house is wrong.</p>"
+   "h2": "What can I do if my Stokes value looks wrong?",
+   "html": "<p>Phone Tax Administration first. If that fails, take it to the county board that reviews values. State law has it meet first no sooner than the first Monday in April and no later than the first Monday in May; your request must reach it before adjournment.</p><ul><li>Decisions are mailed within 30 days of adjourning.</li><li>You get 30 days from that mailing to notify the state commission.</li><li>Stokes sets dates yearly; ask for this year's schedule.</li></ul><p>Bring an appraisal, comparable sales or proof of an error in the county's data.</p>"
   },
   {
-   "h2": "What relief programs can Stokes County homeowners use?",
-   "html": "<p>The county FAQ describes an exclusion for owners 65 or older or totally and permanently disabled, whichever is larger of $25,000 or half the appraised value, with an income cap it prints as $38,800. State law also offers a $45,000 disabled veteran exclusion and a circuit breaker deferment.</p><ul><li>The veteran exclusion has no age or income test.</li><li>The circuit breaker needs five years of ownership and residence in the home.</li><li>Only one of the three may be used.</li></ul><p>Forms are on the county tax pages, and applications go to the assessor.</p>"
+   "h2": "What homestead relief does Stokes County offer?",
+   "html": "<p>The county FAQ covers owners 65 or older, or totally and permanently disabled, who may exclude $25,000 or half the appraised value, whichever is higher. It prints an income cap of $38,800. The state adds a disabled veteran exclusion of $45,000 and an income-linked deferment.</p><ul><li>No age or income test applies to the veteran program.</li><li>The deferment requires five years living in the home.</li><li>One program at a time.</li></ul><p>Application forms are on the county tax pages and go to the assessor.</p>"
   },
   {
-   "h2": "What if Stokes County property tax goes unpaid?",
-   "html": "<p>The lien attached on the listing date, and the county can sue in the nature of a mortgage foreclosure. The sale is a courthouse auction to the highest bidder, with a deposit of up to 20% of the bid.</p><p>Challenges or higher bids come within 10 days of the sale report. Before the court confirms, an owner can redeem by paying taxes, penalties, interest and costs. Call the tax office early, since an unpaid bill also blocks the deed certification described above.</p>"
+   "h2": "What if a Stokes bill stays unpaid?",
+   "html": "<p>A lien attached on the listing date, and the county may sue as in a mortgage foreclosure. Property sells at a courthouse auction to the top bidder, with up to 20% down.</p><p>Challenges or raised offers must come within 10 days of the report. Until the court confirms, you may redeem by paying taxes, penalties, interest and costs. Call early, since an open balance also blocks the deed certification.</p>"
   },
   {
    "h2": "How is personal property valued in Stokes County?",
@@ -38,22 +38,30 @@
    "html": "<p>North Carolina requires everyone to list taxable property each year, and the county's FAQ points to G.S. 105-287 for that duty. A person who bought a house in the past year typically has real estate already on the books, so the main item to list is personal property such as a boat or business equipment.</p><p>The county posts a 2025 online listing service link and a form for tax extension requests on the Tax Administration page. Individual extensions for good cause can run as late as April 15, but only if you ask during January.</p>"
   },
   {
-   "h2": "What is the foreclosure bidding process after a Stokes County tax sale?",
-   "html": "<p>After the commissioner reports a sale, anyone can submit an upset bid in the following 10 days. A new bid must beat the last one by at least 5%, with a minimum increase of $750, and needs a deposit of at least 5% of the bid but no less than $750. Each upset bid starts a new 10 day period, and rights become fixed when no bid arrives in time.</p><p>The commissioner's fee can reach 5% of the purchase price, and leftover proceeds after taxes go to the court for the people entitled to them. These rules reward a quick sale before foreclosure, which is why talking to Tax Administration early is worth the phone call.</p>"
+   "h2": "What happens after a Stokes tax sale?",
+   "html": "<p>Within 10 days after the commissioner's report, anyone may file a higher bid, at least 5% above the last with a minimum raise of $750, and a deposit of at least 5% (never under $750). Each new bid restarts the clock, and rights lock when no bid arrives in time.</p><p>The commissioner's fee can reach 5% of the price, and money left after taxes goes to the court for those entitled. Selling before this stage almost always leaves more behind.</p>"
   },
   {
-   "h2": "How long does the Stokes County review board sit?",
-   "html": "<p>In a year without a general reappraisal, the board completes its work by the third Monday after its first meeting unless more time is necessary, and cannot sit past July 1 except for certain requests. In a reappraisal year, it finishes by December 1.</p><p>That difference matters in Stokes County because the county reappraises on a four year cycle. Owners in a reappraisal year have a longer window to be heard, while owners in an off year face a tighter one. Look for the date of the board's first meeting when your notice arrives.</p>"
+   "h2": "How long does the Stokes value board sit?",
+   "html": "<p>In a year without a general reappraisal it finishes by the third Monday after its first meeting unless more time is needed, and it cannot sit past July 1 except for certain requests. In a reappraisal year it has until December 1.</p><p>Because Stokes reappraises every four years, one year in four gives owners a longer window. Check your notice for the first meeting date.</p>"
   },
   {
    "h2": "Where are the Stokes County offices a taxpayer will need?",
    "html": "<p>They cluster in Danbury at the Administration Building, 1014 Main Street.</p><ul><li>Tax Administration, P.O. Box 57, weekdays 8:30 to 5:00.</li><li>Register of Deeds, (336) 593-2414, recording until 4:45 on weekdays.</li><li>Planning and Inspections, (336) 593-2444.</li><li>Finance, (336) 914-9188.</li></ul><p>The deed certification rule means the first two will often be visited on the same day.</p>"
+  },
+  {
+   "h2": "How is income counted for Stokes relief?",
+   "html": "<p>Per the county FAQ, income starts with adjusted gross income under section 62 of the Internal Revenue Code, then adds every other dollar from every source except gifts or inheritances from a spouse, parent, grandparent or descendant. Married couples sharing a home combine incomes, even when only one name is on the deed.</p><p>Age and disability are judged on January 1 before the tax year, and the applicant must live in North Carolina. A disabled applicant needs a certificate from a licensed physician or an agency, and a couple gets the full exclusion if one spouse qualifies.</p>"
+  },
+  {
+   "h2": "What should a Stokes County buyer look up before making an offer?",
+   "html": "<p>The tax website carries property record cards and land and home values, and the county GIS site shows parcel lines. Together they reveal acreage, building details and the value the county uses. Compare those with the listing, since an error in square footage is easy to correct at the assessor's office.</p><p>Ask Tax Administration which taxing districts bill the parcel, and request the current balance. The county posts a list of its ten largest taxpayers on the FAQ page for anyone curious about the base.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "When is Stokes County property tax due?",
-   "a": "January 5 is the last day to pay without interest, and mailed payments must be postmarked by then."
+   "q": "What is the Stokes payment deadline?",
+   "a": "January 5, with a postmark of that date for mail. Interest begins January 6."
   },
   {
    "q": "What is the Stokes County listing window?",
@@ -68,8 +76,8 @@
    "a": "On a four year cycle, according to the county's real property page."
   },
   {
-   "q": "Where can I pay Stokes County property tax in person?",
-   "a": "At Tax Administration, 1014 Main Street, Danbury, weekdays 8:30 to 5:00, or online through the county's payment portal."
+   "q": "Where do I pay a Stokes bill in person?",
+   "a": "At Tax Administration, 1014 Main Street, Danbury, open weekdays 8:30 to 5:00. An online portal is also on the county site."
   }
  ],
  "sources": [
@@ -132,6 +140,10 @@
   {
    "title": "G.S. 105-374 sale and upset bids",
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-21.27.html"
+  },
+  {
+   "title": "Stokes County home page",
+   "url": "https://www.co.stokes.nc.us/"
   }
  ]
 }

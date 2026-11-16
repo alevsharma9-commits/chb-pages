@@ -2,8 +2,8 @@
  "slug": "stokes-county-nc-register-of-deeds",
  "sections": [
   {
-   "h2": "Where is the Stokes County Register of Deeds and when can I reach it?",
-   "html": "<p>The office is at 1014 Main Street in Danbury, ZIP 27016, and mail goes to P.O. Box 67. The listed numbers are (336) 593-2414 for the office and (336) 593-9360 for fax.</p><table><caption>Stokes County Register of Deeds service windows</caption><thead><tr><th>Service</th><th>Weekday hours listed by the county</th></tr></thead><tbody><tr><td>General office</td><td>8:30 to 5:00</td></tr><tr><td>Recording documents</td><td>8:30 to 4:45</td></tr><tr><td>Marriage applications</td><td>8:30 to 4:30</td></tr></tbody></table><p>Notice the recording window closes fifteen minutes before the office does. A deed handed over at ten to five will most likely wait for the next business day.</p>"
+   "h2": "How do I reach the Stokes County Register of Deeds?",
+   "html": "<p>Walk in at 1014 Main Street, Danbury, ZIP 27016, or write to P.O. Box 67. The listed lines are (336) 593-2414 for the office and (336) 593-9360 for fax.</p><table><caption>Stokes County Register of Deeds service windows</caption><thead><tr><th>Service</th><th>Weekday hours listed by the county</th></tr></thead><tbody><tr><td>General office</td><td>8:30 to 5:00</td></tr><tr><td>Recording documents</td><td>8:30 to 4:45</td></tr><tr><td>Marriage license applications</td><td>Until 4:30</td></tr></tbody></table><p>The recording window closes a quarter hour before the office does, so a deed delivered at ten to five likely waits until the next business day.</p>"
   },
   {
    "h2": "What does this office do in a home sale?",
@@ -11,19 +11,19 @@
   },
   {
    "h2": "Does a Stokes County deed need tax clearance first?",
-   "html": "<p>Yes. County Tax Administration states that a deed offered for recording must carry its certification that no delinquent tax is owed on the real property being transferred, citing G.S. 161-31.</p><p>So a parcel with a past-due bill cannot be recorded until it is paid. Tax Administration is in the same building at the same street address, which makes the errand short. Its listed hours are 8:30 to 5:00 on weekdays.</p>"
+   "html": "<p>It does. Tax Administration says every deed offered for recording must include its certification that no delinquent tax is owed on the real property being transferred, citing G.S. 161-31.</p><p>An unpaid bill therefore holds the deed back. The tax office shares the building and street address, so the errand is short, and it keeps weekday hours of 8:30 to 5:00.</p>"
   },
   {
-   "h2": "What fees apply to a Stokes County filing?",
-   "html": "<p>Rates come from statute and apply in every North Carolina county. A standard instrument costs $26.00 through page 15, then $4.00 for each additional page. A mortgage or deed of trust costs $64.00 through page 35 under the same extra-page rate. Recording a satisfaction costs nothing.</p><p>The state also adds $25.00 for a nonstandard document and $10.00 for each extra instrument inside one filing. The fee list is described as complete and exclusive, with payment due before filing, so the county cannot invent separate charges. The deed tax is a different matter: the seller pays $1.00 per $500.00 of value, or part thereof, at this counter.</p>"
+   "h2": "What does a Danbury filing cost?",
+   "html": "<p>Statute sets the amounts: $26.00 buys a standard instrument of 15 pages, and each page beyond adds $4.00. A mortgage or deed of trust starts at $64.00 for 35 pages. Filing a loan release is free.</p><p>Add $25.00 if a document misses the formatting rules and $10.00 for each extra instrument in one filing. The statute calls the schedule complete and exclusive, due up front. The seller's deed tax is separate and is paid here too.</p>"
   },
   {
-   "h2": "How does recording protect people on either side of the deal?",
-   "html": "<p>G.S. 47-18 says a conveyance is ineffective against lien creditors and purchasers for value until registered in the county where the property lies, and priority follows the order of registration.</p><p>A buyer therefore wants the deed on record promptly. A seller gains too, because once the buyer's deed is on file, later claims against the buyer do not reach back to you. Keep a copy showing the recording date and time.</p>"
+   "h2": "Why does fast filing help both sides?",
+   "html": "<p>North Carolina ranks competing claims by the order of registration. Until a deed is registered where the property sits, it does not defeat lien creditors or paying buyers (G.S. 47-18).</p><p>The buyer wants priority. The seller wants a clean break, because claims against the buyer that arise afterward cannot reach back. Keep a copy showing the date and time of filing.</p>"
   },
   {
-   "h2": "How are land contracts handled in Stokes County?",
-   "html": "<p>Under Chapter 47H, a seller-financed contract for a one to four family home must be recorded, or a memorandum of it, within five business days. The buyer can walk away until midnight of the third business day after signing.</p><ul><li>Default notices need a cure date at least 30 days after service.</li><li>Late fees are capped at 4% and apply only to payments more than 15 days overdue.</li><li>The seller must actually hold title.</li></ul><p>If you sold on a land contract years ago, check that the memorandum made it into the Danbury records.</p>"
+   "h2": "Do installment land contracts get recorded at Danbury?",
+   "html": "<p>They should. Chapter 47H reaches deals where the seller holds title to a home of up to four units and the buyer pays at least five installments. Either the contract or a memorandum must be filed within five business days of signing, and the buyer has until midnight of the third business day to cancel.</p><ul><li>A default notice must leave a cure period of at least 30 days.</li><li>Late charges stop at 4% and start only after 15 days.</li></ul><p>If you sold this way years ago, check that the memorandum is indexed in Danbury.</p>"
   },
   {
    "h2": "What can a Stokes County seller do before recording day?",
@@ -38,8 +38,20 @@
    "html": "<p>The planning page links the county's 2035 Vision Plan, titled Moving Together, along with planning board materials for meetings held during 2026. It also notes that a regional transportation organization based in Winston-Salem published a draft 2050 Metropolitan Transportation Plan for public comment through September 15, 2025.</p><p>None of that changes how a deed is recorded, but a buyer evaluating a rural parcel may ask what is planned nearby. Planning and Inspections can answer zoning and code enforcement questions at (336) 593-2444.</p>"
   },
   {
-   "h2": "What if the owner has died before a Stokes County sale?",
-   "html": "<p>North Carolina allows a small estate to be handled by affidavit once 30 days have passed since death, when the personal property, less liens, does not exceed $20,000. A sole-heir surviving spouse can use a higher ceiling that stops at $30,000. The affidavit goes to the clerk of superior court in the county of domicile and lists a description of each tract of real property the decedent owned.</p><p>Estates above the limit follow a longer path through the clerk. In either case, the deed that eventually conveys the house is still recorded in Danbury and still needs the tax certification, so bring the court paperwork with you.</p>"
+   "h2": "What changes when the owner has died?",
+   "html": "<p>Small estates can skip full administration. Once 30 days have passed, an heir may file an affidavit with the superior court clerk serving the decedent's home county, provided personal property net of liens is under $20,000 (or under $30,000 for a spouse who is the only heir). The affidavit must describe every tract of land owned.</p><p>Larger estates take the longer route. Either way, the deed that finally conveys the house is filed in Danbury with the tax certification, so bring the court papers.</p>"
+  },
+  {
+   "h2": "What happens to a recorded deed of trust in a foreclosure?",
+   "html": "<p>A lender or trustee starts by filing a notice of hearing with the clerk of superior court. The clerk has to find a valid debt, a default and a right to foreclose. An owner can appeal that finding in 10 days by posting a bond of 1% of principal unless the judge lowers it.</p><p>After the sale is reported, upset bids must top the last one by 5% or $750 added, whichever is greater, with a deposit. A borrower who sells before the hearing usually keeps more equity, and the payoff ends with a release filed in Danbury.</p>"
+  },
+  {
+   "h2": "What does the Stokes County tax calendar mean for a deed?",
+   "html": "<p>Stokes bills come due by January 5, with interest from January 6. The tax certification a deed needs reflects what the county's books show owed on the parcel at that moment, so a house sold in autumn, after bills go out, usually has an open current-year balance.</p><p>Plan to settle it at the closing table. Tax Administration can quote a figure, and the tax website lists property record cards and land and home values that confirm what the county has on file for your parcel.</p>"
+  },
+  {
+   "h2": "Which towns and school system sit behind a Stokes County address?",
+   "html": "<p>The county website links to the town sites for Danbury, King and Walnut Cove, and to the Stokes County school system. A buyer comparing houses will often start there, then ask the register's office only about the paper side of the transfer.</p><p>Where a house sits matters for permits and utilities, but the deed still records at Danbury whatever town the parcel lies in. Use the county GIS site to confirm which jurisdiction a parcel falls under before you advertise it.</p>"
   }
  ],
  "faqs": [
@@ -52,16 +64,16 @@
    "a": "P.O. Box 67, Danbury, NC 27016. The street address is 1014 Main Street, Danbury."
   },
   {
-   "q": "Is a tax certification required for a Stokes County deed?",
-   "a": "Yes. Tax Administration must certify that no delinquent tax is owed before the deed is submitted for recording."
+   "q": "Does a Stokes deed need tax clearance first?",
+   "a": "Yes. Tax Administration must certify that no delinquent tax is owed on the real property before the deed is offered for recording."
   },
   {
-   "q": "Who pays the deed tax in Stokes County?",
-   "a": "The seller pays it to the register before recording, at $1.00 for each $500.00 of value or fraction of that amount."
+   "q": "Who pays the deed tax in Danbury?",
+   "a": "The seller, at the register's window before recording, at one dollar per $500.00 of price with any remainder counted as another block."
   },
   {
-   "q": "Does it cost anything to record a loan release in Stokes County?",
-   "a": "No. State law sets no fee for recording a satisfaction or cancellation of a deed of trust."
+   "q": "Is a loan release free to record in Danbury?",
+   "a": "Yes. State law sets no fee for filing a satisfaction or cancellation of a deed of trust."
   }
  ],
  "sources": [
@@ -92,6 +104,22 @@
   {
    "title": "N.C. General Statutes Chapter 47H",
    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"
+  },
+  {
+   "title": "G.S. 45-21.16 power of sale hearing",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-21.16.html"
+  },
+  {
+   "title": "G.S. 45-21.27 upset bids",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-21.27.html"
+  },
+  {
+   "title": "G.S. 28A-25-1 small estate affidavit",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_28A/GS_28A-25-1.html"
+  },
+  {
+   "title": "Stokes County home page",
+   "url": "https://www.co.stokes.nc.us/"
   }
  ]
 }
