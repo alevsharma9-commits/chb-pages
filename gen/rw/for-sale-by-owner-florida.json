@@ -38,11 +38,23 @@
    "html": "<p>The state calendar is the same for every Florida seller.</p><ul><li>January 1: the appraiser sets just value.</li><li>March 1: last timely day to apply for exemptions.</li><li>August: the TRIM notice arrives, and a value petition is due within 25 days.</li><li>November: tax bills are sent.</li><li>April 1: unpaid taxes turn delinquent.</li></ul><p>Whatever the closing date, set the proration in the contract and ask the county tax collector for a payoff figure.</p>"
   },
   {
+   "h2": "Should a seller order a title search?",
+   "html": "<p>Yes, early. A buyer's lender will want clear title, and a search shows liens, prior deeds and the exact names that must appear on the new deed. It also reveals whether the owner of record matches the people who will sign, which saves a rejected recording at the clerk's counter.</p><p>The search is also the moment to check for an old homestead exemption you forgot to cancel or a tax account carrying a deferral, since both affect the closing figures.</p>"
+  },
+  {
+   "h2": "Can a seller still use a payment plan or deferral?",
+   "html": "<p>Possibly, though the sale changes things. A homestead tax deferral is requested on Form DR-570 by March 31 after the assessment year, and it covers taxes above 5 percent of household income. Installment prepayment must be requested by May 1 of the assessment year under s. 197.222, and partial payments are at the collector's discretion before the delinquency date.</p><p>Deferred or installment balances should be cleared out of the closing proceeds, so ask the tax collector for a written payoff before the closing date.</p>"
+  },
+  {
    "h2": "Are there other risks that FSBO sellers overlook?",
    "html": "<p>Three come up often: lender liens, county tax liens and occupants.</p><ul><li>Delinquent taxes lead down a path to a certificate sale, so settle the bill.</li><li>Occupants need proper notice before closing; section 83.57 sets 30 days for a month-to-month tenancy.</li><li>A buyer's lender will want clear title, so order a title search early.</li></ul>"
   }
  ],
  "faqs": [
+  {
+   "q": "Where do I record the deed after a private sale?",
+   "a": "Record it with the clerk of the circuit court in the county where the land sits, since the clerk records documents and collects stamp tax. Bring a deed that follows the printed-name and margin rules."
+  },
   {
    "q": "Is a lawyer required for a private sale?",
    "a": "No statute requires one, but a Florida attorney or title company can prepare the deed, check title and handle recording. Many sellers hire one for the closing even when they find their own buyer."
@@ -54,10 +66,6 @@
   {
    "q": "Is the flood disclosure required even if my house never flooded?",
    "a": "Yes, the form still goes to the buyer, and you mark that you have no knowledge of flooding, no claim and no assistance. It is due at or before contract signing under s. 689.302."
-  },
-  {
-   "q": "Who pays documentary stamp tax in a private sale?",
-   "a": "The contract decides who pays, but the Department of Revenue holds every party to the deed liable. The clerk collects it with the recording, at the statewide per-$100 rate."
   },
   {
    "q": "May I put my present tax bill in a flyer?",

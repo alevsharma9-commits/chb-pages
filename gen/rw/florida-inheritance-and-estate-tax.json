@@ -7,11 +7,11 @@
   },
   {
    "h2": "When does federal estate tax reach a Florida estate?",
-   "html": "<p>Only above a high filing line. The IRS requires a return when the decedent's gross estate, plus lifetime taxable gifts and the gift tax exemption used, tops the threshold for the death year (<a href=\"https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax\">IRS estate tax</a>).</p><table><thead><tr><th>Year of death</th><th>Filing threshold</th></tr></thead><tbody><tr><td>2023</td><td>$12,920,000</td></tr><tr><td>2024</td><td>$13,610,000</td></tr><tr><td>2025</td><td>$13,990,000</td></tr><tr><td>2026</td><td>$15,000,000</td></tr></tbody></table><p>Source: IRS estate tax page. Deductions cover debts, administration costs and property passing to a surviving spouse or qualified charity, and spouses can carry over unused exemption by filing on time.</p>"
+   "html": "<p>Only above a high filing line. The IRS requires a return when the decedent's gross estate, plus lifetime taxable gifts and the gift tax exemption used, tops the threshold for the death year (<a href=\"https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax\">IRS estate tax</a>).</p><table><thead><tr><th>Year of death</th><th>Filing threshold</th></tr></thead><tbody><tr><td>2025</td><td>$13,990,000</td></tr><tr><td>2026</td><td>$15,000,000</td></tr></tbody></table><p>Source: IRS estate tax page. Deductions cover debts, administration costs and property passing to a surviving spouse or qualified charity, and spouses can carry over unused exemption by filing on time.</p>"
   },
   {
    "h2": "What is an heir's basis when selling an inherited Florida house?",
-   "html": "<p>Usually the property's value on the day of death, not the decedent's purchase price. Publication 551 also allows an alternate valuation date when the personal representative elects it (<a href=\"https://www.irs.gov/publications/p551\">Pub. 551</a>).</p><p>When an estate files Form 706, the executor generally sends beneficiaries a Schedule A (Form 8971) showing the reported value, and some must adopt it as their starting basis. Without one, the appraised value used for state inheritance or transmission tax can serve.</p><p>One exception exists: appreciated property that you or your spouse gave the decedent within a year before death keeps the decedent's adjusted basis.</p><p>Keep any appraisal made around the death in the estate file, and let a CPA relate it to your sale price.</p>"
+   "html": "<p>Usually the property's value on the day of death, not the decedent's purchase price. Publication 551 also permits a later valuation date if the personal representative chooses one (<a href=\"https://www.irs.gov/publications/p551\">Pub. 551</a>).</p><p>When an estate files Form 706, the executor generally sends beneficiaries a Schedule A (Form 8971) showing the reported value, and some must adopt it as their starting basis. Without one, the appraised value used for state inheritance or transmission tax can serve.</p><p>One exception exists: appreciated property that you or your spouse gave the decedent within a year before death keeps the decedent's adjusted basis.</p><p>Keep any appraisal made around the death in the estate file, and let a CPA relate it to your sale price.</p>"
   },
   {
    "h2": "Who reports income from selling an inherited house?",
@@ -19,15 +19,23 @@
   },
   {
    "h2": "How is a deed taxed when an inherited house changes hands?",
-   "html": "<p>The route matters. The revenue agency treats a personal representative's deed under a probated will as untaxed, while warranty, special warranty, quit claim and life estate deeds are on its taxable list (<a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">doc stamp page</a>).</p><p>A taxable deed pays 70 cents per $100 of consideration in most counties (Miami-Dade differs), and consideration counts any mortgage or encumbrance, assumed or not. The agency adds that no exemption exists just because a transfer is estate planning. A gift of a mortgaged house can therefore be taxed even with no cash exchanged (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html\">s. 201.02</a>).</p><ul><li>Probated will: the representative's deed is the untaxed route.</li><li>Quitclaim between heirs: taxable if debt attaches.</li><li>Every party to a taxable deed is liable, whoever agrees to pay.</li></ul>"
+   "html": "<p>The route matters. The revenue agency treats the deed a personal representative signs under a probated will as untaxed, while warranty, special warranty, quit claim and life estate deeds are on its taxable list (<a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">doc stamp page</a>).</p><p>A taxable deed pays 70 cents on every $100 of consideration outside Miami-Dade, and consideration counts any mortgage or encumbrance, assumed or not. The agency adds that no exemption exists just because a transfer is estate planning. A gift of a mortgaged house can therefore be taxed even with no cash exchanged (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html\">s. 201.02</a>).</p><ul><li>Probated will: the deed signed by the representative is the untaxed route.</li><li>Quitclaim between heirs: taxable if debt attaches.</li><li>Every party to a taxable deed is liable, whoever agrees to pay.</li></ul>"
   },
   {
    "h2": "Which probate rules set the pace for heirs who want to sell?",
    "html": "<p>Three statutes frame the timeline. Summary administration fits an estate with non-exempt assets up to $150,000, or a death more than two years ago (s. 735.201). A creditor must file by the later of three months after the first publication of notice or 30 days after being served, if service was required (s. 733.702). Where only exempt or tiny personal property remains, a court can allow transfer without administration (s. 735.301).</p><p>Homestead adds a layer. With a spouse or minor child surviving, the homestead cannot be devised, so a will may not decide title, and a spouse has six months to elect a half interest instead of a life estate (<a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0732/Sections/0732.401.html\">s. 732.401</a>). Learn what the title insurer wants before you list.</p><p>Property tax keeps accruing while the estate is open. Transfer at death can reset just value the next January 1 unless an exception applies.</p>"
   },
   {
+   "h2": "How do property taxes behave after the owner dies?",
+   "html": "<p>They keep running. Assessment is fixed each January 1, and the tax collector sends bills in November with discounts of 4 percent, 3, 2 and 1 across November through February (<a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">state calendar</a>). An heir cannot skip them because the estate is open.</p><p>The homestead exemption depends on permanent residence, and the department's guide says it ends once the home is no longer the owner's permanent home. After a death the estate or heir should ask the appraiser how to treat the parcel on the next roll.</p><p>Change of ownership rules matter as well. A transfer of title resets the parcel to just value the next January 1, though the state names spousal transfers and certain transfers at death as exceptions (<a href=\"https://floridarevenue.com/property/Documents/pt112.pdf\">assessment guide</a>). A buyer from the estate will usually see a reset.</p>"
+  },
+  {
+   "h2": "Can heirs spread out a tax bill on an inherited house?",
+   "html": "<p>Sometimes. Installment prepayment requires an application to the tax collector by May 1 of the assessment year (s. 197.222), and partial payments before the delinquency date are left to the collector's discretion (s. 197.374). A homestead deferral through Form DR-570 is due by March 31 after the assessment year and depends on household income.</p><p>Those options turn on who lives in the home, since homestead status requires permanent residence. If the heir does not live there, ask the tax collector which plan, if any, fits a non-homestead parcel, and pay before April 1 to avoid delinquency (<a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">state calendar</a>).</p><p>Ask for written confirmation of any arrangement and keep it with the estate records, so the closing agent can show the buyer that no balance is left behind.</p>"
+  },
+  {
    "h2": "What paperwork should heirs have ready for the sale?",
-   "html": "<ul><li>A date-of-death appraisal or a Schedule A, if issued, to document basis.</li><li>Letters or a summary administration order showing who may sign.</li><li>A recorded spousal election, if one was made on homestead.</li><li>The latest tax bill and any deferral papers.</li><li>The reasoning for how each deed is taxed or exempt under chapter 201.</li></ul><p>No Florida estate tax return exists to chase, and Form 706 matters only above the IRS line for the year of death.</p><p>If heirs disagree on price or buyer, the court may have to decide. Raise that early, because an empty house still produces tax, insurance and upkeep costs.</p>"
+   "html": "<ul><li>A date-of-death appraisal or a Schedule A, if issued, to document basis.</li><li>Letters or a summary administration order showing who may sign.</li><li>A recorded spousal election, if one was made on homestead.</li><li>The newest tax bill and any deferral papers.</li><li>The reasoning for how each deed is taxed or exempt under chapter 201.</li></ul><p>No Florida estate tax return exists to chase, and Form 706 matters only above the IRS line for the year of death.</p><p>If heirs disagree on price or buyer, the court may have to decide. Raise that early, because an empty house still produces tax, insurance and upkeep costs.</p>"
   }
  ],
  "faqs": [
@@ -37,15 +45,15 @@
   },
   {
    "q": "When would federal estate tax apply to a house I inherit?",
-   "a": "Only if the estate exceeds the IRS filing line, which is $15,000,000 for deaths in 2026. The estate files and pays, and most estates fall below the line."
+   "a": "Only if the estate exceeds the IRS filing line, set at $15,000,000 for a 2026 death. The estate files and pays, and most estates fall below the line."
   },
   {
    "q": "What basis do I use on an inherited Florida house?",
-   "a": "Generally its worth on the day of death, or the alternate valuation date if the estate used one. A Schedule A (Form 8971) reports the figure when an estate return was filed."
+   "a": "Generally its worth on the day of death, or a later valuation date if the estate chose that route. A Schedule A (Form 8971) reports the figure when an estate return was filed."
   },
   {
    "q": "Is a personal representative's deed taxed?",
-   "a": "The revenue agency lists it as untaxed when it follows a probated will. Quit claim and warranty deeds are taxable, at 70 cents per $100 of consideration in most counties."
+   "a": "The revenue agency lists it as untaxed when it follows a probated will. Quit claim and warranty deeds are taxable, at the 70 cent rate used outside Miami-Dade."
   },
   {
    "q": "Who reports gain on an inherited house sale?",

@@ -34,6 +34,10 @@
    "html": "<p>Assemble the pieces early, because a clerk can reject an instrument at the counter and the closing then slips.</p><ul><li>Pull the legal description from your vesting deed and copy it character for character.</li><li>Confirm the exact way each grantor's name appears in the record, and use the same spelling.</li><li>Line up two adult witnesses and a notary on the signing day, or ask the title company about remote witnessing.</li><li>Print every name and mailing address where the statute wants it.</li><li>Leave the top right corner of each page clear for the clerk.</li></ul><p>Then confirm with the closing agent what stamp tax will be due and who funds it.</p>"
   },
   {
+   "h2": "Which deed fits a sale and which fits a family transfer?",
+   "html": "<p>For an arm's-length sale at market price, buyers and lenders generally look for a warranty deed, since it carries the title promise. A quit claim deed passes only what the grantor owns and is common between relatives or to fix a name on the record, though the revenue department still lists it among taxable deeds.</p><p>An agreement or contract for deed is listed as taxable too, and the buyer under a recorded contract for deed is one of the people notified before a tax deed sale. Section 689.01 reaches any conveyance of a freehold or of a term longer than one year, so a long lease needs the same two witnesses.</p>"
+  },
+  {
    "h2": "How does a deed affect property taxes after the sale?",
    "html": "<p>Title passing by sale, foreclosure or any other route counts as a change of ownership for assessment. Just value applies from the next January 1, and the seller's Save Our Homes cap stays behind.</p><p>Spousal transfers and some transfers at death are carved out. A quitclaim to a relative is not an exception just because no money changes hands. Buyers should file for their own homestead exemption with the county property appraiser by March 1, and should look into portability if they held a homestead elsewhere in the state.</p>"
   }
@@ -54,10 +58,6 @@
   {
    "q": "Is a deed valid if the clerk's recording was imperfect?",
    "a": "Generally yes. Section 695.26(4) says a clerk's failure to follow the recording checklist does not impair the recording or its constructive notice. Fix defects anyway, because title companies will flag them."
-  },
-  {
-   "q": "Where is the deed tax paid?",
-   "a": "At the clerk's office, with the recording. A taxable deed that is never recorded is reported to the state revenue department."
   },
   {
    "q": "Can a deed in lieu replace a warranty deed?",
