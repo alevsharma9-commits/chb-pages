@@ -3,49 +3,57 @@
  "sections": [
   {
    "h2": "What are my main options for selling a house in Lauderdale Lakes?",
-   "html": "<p>Three routes exist: an agent listing, a sale handled by you alone, or a direct purchase by an investor. Each trades speed against price and effort, so weigh the house's problems and your calendar first.</p><p>Lauderdale Lakes sits in Broward County, and the county offices (property appraiser, tax collector, clerk of the circuit court) handle the paperwork that follows any sale here. The city runs its own website for local services, and it was promoting a Business Growth Initiative pitch competition for local entrepreneurs in late 2026, a sign of how the city is trying to build up its commercial side.</p><ul><li>Listings reward a clean, updated unit and patience through showings.</li><li>Going alone keeps the agent's share but hands you every contract and disclosure.</li><li>An investor purchase fits deferred repairs, occupied units, liens or a fixed deadline.</li></ul>"
+   "html": "<p>Three routes exist: an agent listing, a sale handled by you alone, or a direct purchase by an investor. Each trades speed against price and effort, so weigh the house's problems and your calendar first.</p><p>Broward County offices (property appraiser, tax collector, clerk of the circuit court) handle the records behind any sale here, while the city site covers local services. In late 2026 the city was promoting a pitch competition for graduates of its Business Growth Initiative, a sign of how it is courting small businesses.</p><ul><li>Listings reward a clean, updated unit and patience through showings.</li><li>Going alone keeps the agent's share but hands you every contract and disclosure.</li><li>An investor purchase fits deferred repairs, occupied units, liens or a fixed deadline.</li></ul>"
+  },
+  {
+   "h2": "What is Lauderdale Lakes like, and who lives there?",
+   "html": "<p>Lauderdale Lakes is a compact city of about four square miles in the middle of Broward County, centered on the crossroads of State Road 7 (US 441) and Oakland Park Boulevard. The city incorporated on June 22, 1961, when roughly 300 people lived in what was then a rural area of farms and grazing land.</p><p>State Road 7 was a two-lane undivided road at the time, and the first city hall sat in a construction trailer. Growth through the 1960s and 1970s filled the area with neighborhoods around the lakes that give the city its name. Voters moved to a Mayor, City Commission and City Manager structure in March 1998, and the city's own history page describes goals of reviving its commercial corridor, upgrading infrastructure, adding parks and raising property values.</p><p>Police service comes through the Broward Sheriff's Office, with 107 of its personnel serving the city according to the history page. A seller can lean on that central location, because commuters and investors both look at that crossroads first.</p><ul><li>Share the street and cross streets in the listing so buyers can place the house.</li><li>Note any lake or canal frontage on the survey.</li><li>Tell buyers whether the home sits near the State Road 7 corridor.</li></ul>"
   },
   {
    "h2": "Can I sell Lauderdale Lakes property that a tenant occupies?",
-   "html": "<p>A tenant does not have to leave just because you sign a sale contract, so plan the buyer's timeline around the lease and Florida's notice rules. A buyer who purchases with the tenant in place avoids the notice process, while a buyer who wants the house empty needs the lease ended first.</p><p>Florida's landlord and tenant statute sets the clocks. For unpaid rent, the notice runs 3 days, not counting Saturdays, Sundays or court holidays (s. 83.56). A curable lease breach gives the tenant 7 days to fix it, and a breach that cannot be fixed gives 7 days to leave. Month-to-month tenancies end on at least 30 days' notice before the end of a monthly period, and year-to-year tenancies need 60 days (s. 83.57).</p><p>The notice can be mailed, handed over, e-mailed under s. 83.505, or left at the home if the tenant is away, and a lease cannot waive these requirements. If the tenant contests the case beyond a payment defense, the tenant must deposit the rent claimed into the court registry within 5 days, again excluding weekends and holidays, or lose the defenses (s. 83.60). After a judgment, the sheriff acts on the clerk's writ after 24 hours' posted notice (s. 83.62).</p><ul><li>Ask the buyer in writing whether they will take the house subject to the lease.</li><li>Give the tenant's rent history and deposit details to the closing agent.</li><li>Keep copies of every notice you deliver and how you delivered it.</li></ul>"
-  },
-  {
-   "h2": "What transfer taxes and recording charges come with a Lauderdale Lakes sale?",
-   "html": "<p>The main transfer cost is the documentary stamp tax on the deed, set at 70 cents per $100 of consideration for every county except Miami-Dade (s. 201.02, s. 201.031). Broward falls under the 70 cent rate. Consideration counts money, discharged debts, and any mortgage on the property whether or not the buyer assumes it.</p><p>Every signer of the deed answers for the tax, whoever the contract says will pay, so write the payer into the contract. The Broward clerk takes payment at the recording counter, and separate clerk fees apply under s. 28.24.</p><p>Ask the closing agent for both numbers in writing before you sign.</p>"
+   "html": "<p>Yes, but the lease keeps running after a sale contract is signed. A buyer either takes the unit with the tenant in it or waits for the landlord to end the tenancy through the statutory notice steps in Chapter 83.</p><p>Notice lengths depend on the problem. Missed rent draws a 3-day demand (weekends and court holidays do not count), and a lease violation the tenant can fix draws 7 days to cure. Periodic tenancies end on 30 days' notice for month-to-month arrangements and 60 days for year-to-year ones. A lease cannot waive these rules, and delivery can be by mail, hand, e-mail or a copy left at the unit.</p><ul><li>Ask each buyer in writing whether they accept the lease as is.</li><li>Pass the rent roll and deposit amount to the closing agent.</li><li>Keep a copy of each notice and proof of how it was delivered.</li></ul>"
   },
   {
    "h2": "How do Broward property taxes affect my closing?",
-   "html": "<p>Value is fixed on January 1, bills follow in November, and the seller's months of ownership are settled at closing. The Broward County Property Appraiser sets values and decides exemptions, and its office can be reached at 954-357-6830 on weekdays from 8 am to 5 pm.</p><p>A sale ends the homestead cap benefit. Under Save Our Homes, a homestead's assessed value rises by the lower of 3 percent or the CPI change each year, but a change of ownership resets the next owner's assessment to just value on the following January 1 (s. 193.155). Expect the buyer's first bill to be higher than yours, and say so if you are asked.</p><table><caption>Property tax dates printed by the Florida Department of Revenue</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Assessment date</td></tr><tr><td>March 1</td><td>Deadline to file for exemptions</td></tr><tr><td>August</td><td>Notice of Proposed Property Taxes mailed</td></tr><tr><td>25 days after the notice</td><td>Petition window for a value challenge</td></tr><tr><td>November</td><td>Tax bills mailed</td></tr><tr><td>April 1</td><td>Unpaid taxes turn delinquent</td></tr></tbody></table><p>Paying early earns a discount that shrinks from 4 percent in November to 1 percent in February.</p>"
+   "html": "<p>Value is fixed on January 1, bills follow in November, and your months of ownership are settled at closing. The Broward County Property Appraiser handles values and exemptions and lists 954-357-6830 for questions.</p><table><caption>Property tax dates printed by the Florida Department of Revenue</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Assessment date</td></tr><tr><td>March 1</td><td>Deadline to file for exemptions</td></tr><tr><td>August</td><td>Notice of Proposed Property Taxes mailed</td></tr><tr><td>25 days after the notice</td><td>Petition window for a value challenge</td></tr><tr><td>November</td><td>Tax bills mailed</td></tr><tr><td>April 1</td><td>Unpaid taxes turn delinquent</td></tr></tbody></table><p>Paying early earns a discount that shrinks from 4 percent in November to 1 percent in February. A buyer's first bill can run higher than yours because a sale returns the house to full assessed value (s. 193.155).</p>"
   },
   {
    "h2": "What if my Lauderdale Lakes house is vacant or in poor repair?",
-   "html": "<p>A vacant or worn house still sells, but the price and buyer pool change. Lenders and conventional buyers often balk at deferred repairs, while a cash buyer prices the work and closes without an inspection-driven renegotiation.</p><p>Homestead status has a side effect here. Florida says homestead is lost if the home is rented, stops being your permanent residence, or you cease to be a Florida resident, and the exemption must be claimed by March 1 on Form DR-501. If you moved out and still hold a homestead exemption, tell the property appraiser rather than letting the roll carry it.</p><ul><li>Walk the property and list defects before you accept any offer.</li><li>Check the Broward tax collector for unpaid balances.</li><li>Ask the title company about liens that could delay closing.</li></ul>"
+   "html": "<p>A vacant or worn house still sells, but the buyer pool changes, and an empty building draws extra attention from insurers, neighbors and code staff. Lenders balk at deferred repairs, while an investor prices the work and closes without an inspection fight.</p><p>A homestead exemption ends once the home is rented or stops being your permanent residence. If you moved out and the exemption still sits on your parcel, tell the property appraiser instead of letting the roll carry it.</p><ul><li>Walk the property and list defects before you accept any offer.</li><li>Check the Broward tax collector for unpaid balances.</li><li>Ask the title company about liens that could delay closing.</li></ul>"
   },
   {
-   "h2": "What if I am behind on payments and worried about foreclosure?",
-   "html": "<p>Florida foreclosures are judicial, so a lender must win a court judgment before a sale, and you often have time to sell first. After judgment, the clerk sets a public sale 20 to 35 days out unless the plaintiff agrees to longer (s. 45.031).</p><p>Notice of sale is published for two consecutive weeks. The winning bidder posts 5 percent of the bid, and if no one objects within 10 days of the certificate of sale, the sale is confirmed. A sale before judgment by you avoids that path, and any surplus from a foreclosure sale can be claimed through the clerk, who should be asked within 10 days of the sale if the home was your homestead.</p><p>Talk to your servicer and the closing agent about a payoff statement, and ask whether a short sale or a cash close fits your balance.</p>"
+   "h2": "What if I am behind on the mortgage?",
+   "html": "<p>Florida foreclosures run through the courts, so you usually have time to sell before a judgment sale. After judgment, the clerk sets the auction between 20 and 35 days out unless the lender agrees to longer (s. 45.031).</p><p>Talk to your servicer and the closing agent about a payoff statement, and ask whether a short sale or an investor purchase fits your balance.</p><p>Open every letter from the lender and the court, and write the response date on a calendar. Silence is the costliest choice, because deadlines keep running whether or not you answer. A neutral third party, such as a housing counselor or a legal aid office, can read the papers with you before you decide anything.</p>"
+  },
+  {
+   "h2": "How should I prepare a Lauderdale Lakes house before showing it?",
+   "html": "<p>Start with the things buyers notice from the curb: the roof line, the yard, the front door and any peeling paint. On an older house, buyers often ask about the age of the roof, the electrical panel, the plumbing and the air handler. A one-page list of what was replaced and when answers those questions before they become negotiating points.</p><p>Clear out clutter and walk each room with a notepad. Note stains, soft floors, door-frame cracks and anything that smells of damp. Florida humidity punishes closed-up houses, so run the air conditioning and open the blinds before every showing.</p>"
+  },
+  {
+   "h2": "How do I compare a listing with an investor offer?",
+   "html": "<p>Write each path as a net figure. For a listing, take the expected sale price, subtract the agent's commission, the repairs a buyer's inspector will demand, carrying costs for each month on the market, and closing costs. For an investor offer, subtract only what the contract assigns to you.</p><p>Then compare timing. A listing may take months and can fall through at financing or appraisal. An investor sale can close within a few weeks, but the price is lower. Ask any buyer to put the closing date, deposit, repair responsibility and fee split in writing, and read every line before signing.</p><ul><li>Price, deposit and whether it is refundable.</li><li>Closing date and who picks the title company.</li><li>Who pays for repairs found in inspection.</li><li>What happens to any security deposit held for a tenant.</li></ul>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the documentary stamp tax on a deed in Lauderdale Lakes?",
-   "a": "It is 70 cents per $100 of consideration, because Lauderdale Lakes is in Broward, not Miami-Dade (s. 201.02). Each signer is liable, so the contract should name the payer."
+   "q": "How far apart are the city's roads and where is the center?",
+   "a": "The city is about four square miles, centered on State Road 7 (US 441) at Oakland Park Boulevard, according to its history page."
   },
   {
    "q": "Can I sell while a tenant lives in the house?",
-   "a": "Yes. The lease stays in force, so a buyer either takes the house with the tenant or waits for a lawful notice process to end the tenancy. Nonpayment notices run 3 days, and month-to-month tenancies need 30 days' notice (s. 83.56, s. 83.57)."
+   "a": "Yes. The lease stays in force, so the buyer takes the house with the tenant or waits for a lawful notice process to end the tenancy (s. 83.56, s. 83.57). Whichever route you pick, put it in the sales contract so the title company and the tenant both know the plan."
   },
   {
-   "q": "Will the buyer inherit my Save Our Homes cap?",
-   "a": "No. A sale is a change of ownership, so the property returns to just value the following January 1 (s. 193.155). You may be able to carry part of the benefit to a new Florida homestead through portability within three years of January 1 of the year you gave up the old homestead."
+   "q": "Will the buyer inherit my capped assessment?",
+   "a": "No. A sale is a change of ownership, so the property returns to just value the following January 1 (s. 193.155)."
   },
   {
-   "q": "When are Broward property tax bills mailed, and when are they late?",
-   "a": "Bills go out in November and unpaid taxes become delinquent on April 1. Tax certificates are sold on unpaid items by June 1. Ask the Broward tax collector for the exact balance before closing."
+   "q": "When do Broward tax bills go out?",
+   "a": "In November. Unpaid taxes turn delinquent on April 1, so ask the Broward tax collector for an exact balance before closing."
   },
   {
-   "q": "Do I need probate before selling an inherited Lauderdale Lakes home?",
-   "a": "Usually yes, unless the estate qualifies for summary administration, which applies when the non-exempt estate is $150,000 or less or the owner died more than two years ago (s. 735.201). A personal representative's deed under a probated will is listed by the Department of Revenue as not taxable for doc stamps."
+   "q": "Who polices Lauderdale Lakes?",
+   "a": "The city's history page says Broward Sheriff's Office personnel, 107 of them, serve alongside city staff."
   }
  ],
  "sources": [
@@ -54,24 +62,8 @@
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida DOR, Save Our Homes",
-   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
-  },
-  {
-   "title": "Florida DOR, homestead exemption",
-   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
-  },
-  {
-   "title": "Florida DOR, documentary stamp tax",
-   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
-  },
-  {
-   "title": "Fla. Stat. 201.02",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
-  },
-  {
-   "title": "Fla. Stat. 28.24",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
+   "title": "Fla. Stat. 193.155",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0193/Sections/0193.155.html"
   },
   {
    "title": "Fla. Stat. 83.56",
@@ -82,28 +74,20 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
   },
   {
-   "title": "Fla. Stat. 83.60",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.60.html"
-  },
-  {
-   "title": "Fla. Stat. 83.62",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.62.html"
-  },
-  {
    "title": "Fla. Stat. 45.031",
    "url": "https://flsenate.gov/Laws/Statutes/2026/45.031"
   },
   {
-   "title": "Fla. Stat. 735.201",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.201.html"
-  },
-  {
-   "title": "Fla. Stat. 193.155",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0193/Sections/0193.155.html"
+   "title": "Florida DOR, homestead exemption",
+   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
    "title": "Broward County Property Appraiser",
    "url": "https://web.bcpa.net/BcpaClient/"
+  },
+  {
+   "title": "Lauderdale Lakes city history",
+   "url": "https://lauderdalelakes.org/243/City-History"
   },
   {
    "title": "City of Lauderdale Lakes",

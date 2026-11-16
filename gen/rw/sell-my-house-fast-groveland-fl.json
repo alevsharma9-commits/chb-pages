@@ -11,7 +11,7 @@
   },
   {
    "h2": "What do you need to know about Groveland building permits before selling?",
-   "html": "<p>The City of Groveland Building Division handles residential and commercial permits and checks plans against the Florida Building Code. If you did work on the house, such as a roof, windows, an addition or a shed, ask the division whether each job has a closed permit before a buyer's inspector asks.</p><p>The division also issues Certificates of Occupancy for new homes, registers building contractors, and keeps the permit and inspection records. Its office is at 6825 SR 50, second floor, and it answers at 352-429-2141, option 2, or by email at permitting@groveland-fl.gov. Posted hours are Monday through Thursday 8 am to 5 pm, and Friday 8 am to 3 pm with remote help from 3 pm to 5 pm. Inspections are scheduled through the city's eTrakit portal, and fire inspections go through the Fire Inspector at 352-467-0493.</p><ul><li>Pull the permit history for your address before you list or accept an offer.</li><li>Ask the division how to close out an old permit that never received a final inspection.</li><li>Keep contractor invoices with the permit numbers in one folder for the buyer.</li></ul>"
+   "html": "<p>The City of Groveland Building Division handles residential and commercial permits and checks plans against the Florida Building Code. If you did work on the house, such as a roof, windows, an addition or a shed, ask the division whether each job has a closed permit before a buyer's inspector asks.</p><p>The division also issues Certificates of Occupancy for new homes, registers building contractors, and keeps the permit and inspection records. Its office is at 6825 SR 50, second floor, and it answers at 352-429-2141, option 2, or by email at permitting@groveland-fl.gov. The counter is open Monday to Thursday from 8 to 5, and Friday from 8 to 3 with remote service until 5. Inspections are scheduled through the city's eTrakit portal, and fire inspections go through the Fire Inspector at 352-467-0493.</p><ul><li>Request the permit record for your parcel early.</li><li>Learn how to close a permit that lacks a final inspection.</li><li>Gather contractor invoices that cite permit numbers.</li></ul>"
   },
   {
    "h2": "When do Lake County property taxes come due for a Groveland owner?",
@@ -20,6 +20,10 @@
   {
    "h2": "Which exemptions apply to a Groveland home, and what changes at a sale?",
    "html": "<p>Lake County's appraiser page lists a homestead exemption that lowers assessed value by up to $51,411, filed by March 1 for owners who lived in the home on January 1. Approval letters are not mailed, and an approved exemption renews on its own each year unless the use of the property changes.</p><ul><li>Widow or widower: $5,000 off assessed value, ended by remarriage.</li><li>Disability: $5,000 with a physician statement on Form DR-416 or a Social Security letter.</li><li>Limited income senior: up to $50,000 for owners 65 or older, with a household income cap of $38,686 as printed by the appraiser. Lake County and Minneola authorize the full amount, and Clermont, Lady Lake, Mount Dora and Tavares authorize up to $25,000. Groveland is not on that list, so ask the appraiser what applies to your parcel.</li><li>Veterans and deployed service members: separate exemptions, each with a March 1 deadline.</li></ul><p>A sale resets the Save Our Homes cap, so the next owner's first assessment follows just value. Renting out the house or moving away ends a homestead.</p>"
+  },
+  {
+   "h2": "Which veteran and first responder benefits does Lake County list?",
+   "html": "<p>The appraiser lists a $5,000 reduction for honorably discharged veterans rated 10 percent or more, proven by a VA letter. Veterans rated totally and permanently disabled, and some surviving spouses, can have a homestead fully exempt. Buyers in that group who close early in the year may also get a pro-rated first-year refund, which the tax collector starts after the following bill is paid.</p><p>Two more full exemptions cover the unremarried spouse of a first responder killed on duty and a first responder permanently disabled on duty. Each requires paperwork, so call 352-253-2150 if someone in your deal might qualify.</p>"
   },
   {
    "h2": "Which transfer charges land on a Groveland closing statement?",
@@ -31,7 +35,7 @@
   },
   {
    "h2": "What are the main ways to sell a Groveland house?",
-   "html": "<ul><li>An agent listing brings showings, a buyer inspection and a repair negotiation.</li><li>A sale by owner puts contracts, disclosures and recording on you.</li><li>A cash purchase is priced for the property in its present state, with a closing date set by agreement.</li></ul><p>Ask every buyer for written terms, the exact amount you would receive and the date it arrives. Lining up the permit history, the tax bill and any tenant details first makes those offers easier to compare.</p>"
+   "html": "<ul><li>Agent listing: public showings and a negotiation after the inspection.</li><li>Sale by owner: you manage the contract, disclosures and recording yourself.</li><li>Cash purchase: the price reflects the house as it sits, and the two sides agree on a closing day.</li></ul><p>Ask every buyer for written terms, the exact amount you would receive and the date it arrives. Lining up the permit history, the tax bill and any tenant details first makes those offers easier to compare.</p>"
   }
  ],
  "faqs": [
@@ -48,12 +52,12 @@
    "a": "Yes. The Lake County Property Appraiser lists up to $51,411 off assessed value for a permanent residence, with applications due March 1. Approved exemptions renew themselves."
   },
   {
-   "q": "Do I pay documentary stamp tax when I sell in Groveland?",
-   "a": "Yes, the deed carries a state tax under section 201.02, collected by the clerk when the deed is recorded. Your closing agent normally settles it."
+   "q": "Is there a state tax on a Groveland deed?",
+   "a": "Yes. Section 201.02 taxes the deed, and the clerk takes payment at recording, usually through your closing agent."
   },
   {
-   "q": "What if my Groveland house needs repairs before a sale?",
-   "a": "You can sell without fixing it, and some buyers purchase as-is. Open permits are different, so ask the Building Division about them first."
+   "q": "Must I fix a Groveland house first?",
+   "a": "No, some buyers purchase in present condition. Open permits deserve a call to the Building Division before you sign."
   }
  ],
  "sources": [
