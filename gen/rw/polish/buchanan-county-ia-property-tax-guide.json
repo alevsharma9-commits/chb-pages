@@ -3,57 +3,65 @@
  "sections": [
   {
    "h2": "Buchanan County at a glance",
-   "html": "<p>Buchanan County is in northeast Iowa, and Independence is both the county seat and its largest city, with 6,064 residents in 2020. The county as a whole had 20,565 people that year, and about 67 percent live in rural areas. That rural share means many parcels are acreage or farm sites rather than town lots, and the tax bill follows the parcel.</p><p>Jesup (2,508) and Fairbank (1,111) are the next largest places, and both straddle a county line: Jesup is partly in Black Hawk County and Fairbank is partly in Fayette County. A Jesup house on the Black Hawk side would be taxed by that county, so pull the parcel record and confirm the county before you look for a bill.</p>"
+   "html": "<p>Northeast Iowa holds Buchanan County. Independence serves as seat and biggest city, home to 6,064 people in 2020, while the whole county totaled 20,565 and roughly 67 percent of residents live outside towns. Expect plenty of acreage and farm parcels among the listings, and remember that a bill is attached to the parcel, not the owner.</p><p>Jesup (2,508) and Fairbank (1,111) rank next, and each sits on a boundary. Part of Jesup lies in Black Hawk County, and part of Fairbank lies in Fayette County. Before hunting for a statement, look up the parcel and see which county actually taxes it.</p>"
   },
   {
-   "h2": "Who handles property tax",
-   "html": "<p>The county assessor values property, and the county treasurer bills and collects. Both offices are in the courthouse at 210 5th Avenue NE, Independence, IA 50644.</p><table><caption>Buchanan County property tax offices</caption><thead><tr><th>Office</th><th>What it does</th><th>Contact</th></tr></thead><tbody><tr><td>Treasurer</td><td>Collects tax, runs the tax sale, takes redemptions</td><td>319-334-4340 (tax)</td></tr><tr><td>Assessor</td><td>Assesses property, signs up homestead, veteran and family farm credits</td><td>210 5th Ave NE</td></tr></tbody></table><p>Treasurer hours for property tax are Monday to Friday, 8:00 a.m. to 4:30 p.m. The office closes at noon on June 30 and December 31 for balancing. Online payment by card or eCheck is at pay.iowataxandtags.org.</p>"
+   "h2": "Offices and hours",
+   "html": "<p>Valuing is the assessor's job and collecting is the treasurer's. You will find both in the courthouse, 210 5th Avenue NE, Independence, IA 50644.</p><table><caption>Buchanan County property tax offices</caption><thead><tr><th>Office</th><th>What it does</th><th>Contact</th></tr></thead><tbody><tr><td>Treasurer</td><td>Collects tax, runs the tax sale, takes redemptions</td><td>319-334-4340 (tax)</td></tr><tr><td>Assessor</td><td>Assesses property, signs up homestead, veteran and family farm credits</td><td>210 5th Ave NE</td></tr></tbody></table><p>The property tax counter keeps Monday to Friday hours, 8:00 a.m. to 4:30 p.m., and shuts at noon on June 30 and December 31 while the books are balanced. Card and eCheck payments are accepted at pay.iowataxandtags.org.</p>"
   },
   {
-   "h2": "When taxes are due",
-   "html": "<p>Buchanan County taxes come due in two halves: the first on September 1 and the second on March 1. Each half is delinquent after the end of its month, September 30 and March 31. You can pay in full or in halves.</p><p>Statements are mailed in August. If a deadline lands on a weekend, it moves to the next business day. Unpaid first-half taxes become delinquent in October and unpaid second-half taxes in April, with interest of 1.5 percent per month, rounded to the nearest dollar, with a $1 minimum.</p><ul><li>August: tax statements mailed.</li><li>September 1 to 30: first half payable without penalty.</li><li>March 1 to 31: second half payable without penalty.</li><li>Third Monday in June: annual county tax sale.</li></ul>"
+   "h2": "Payment calendar",
+   "html": "<p>Two installments make up the year here. September 1 is the date for the first and March 1 for the second, and each has a grace period that ends on the last day of that month. Paying everything at once is allowed.</p><p>Bills go out in August. A deadline that lands on a Saturday or Sunday slides to the following business day. Once a half goes delinquent, in October or April, interest accrues at 1.5 percent monthly, rounded to the whole dollar, never less than $1.</p><ul><li>August: statements arrive.</li><li>September 1 to 30: window for the first half.</li><li>March 1 to 31: window for the second half.</li><li>Third Monday in June: the yearly tax sale.</li></ul>"
   },
   {
-   "h2": "How to appeal your assessment",
-   "html": "<p>Owners can protest an assessment to the county board of review between April 2 and April 30 of the assessment year. Iowa Code section 441.37 limits a protest to five grounds: the value is not equitable with like property, the property is assessed above the legal value, it is exempt or misclassified, there is an error, or there is fraud.</p><p>The board must send back a written decision with reasons. If that answer leaves you unsatisfied, you can go on to the Property Assessment Appeal Board or district court. Ask the assessor which year the next reassessment falls in and whether informal reviews open earlier in April.</p><p>The assessor's office also signs people up for the homestead, veteran and family farm credit programs, which can lower a bill before you ever need an appeal.</p>"
+   "h2": "Protesting an assessment",
+   "html": "<p>The board of review hears protests from April 2 through April 30 of the assessment year. Under Iowa Code section 441.37 you may argue only one of five things: unequal treatment next to similar property, a value over the legal limit, wrong classification or an exemption you should have, a mistake in the record, or fraud.</p><p>Expect a written ruling that explains itself. Anyone still unhappy can take the matter to the Property Assessment Appeal Board or file in district court. Phone the assessor to learn when the next reassessment falls and whether informal reviews begin before April 2 passes.</p><p>That same office handles homestead, veteran and family farm credit sign-ups, and a credit can shrink a bill without any appeal.</p>"
   },
   {
-   "h2": "What happens to unpaid taxes",
-   "html": "<p>Delinquent parcels are offered at the county tax sale, held each June by open bidding, and the third Monday in June is the standard date. A buyer pays the delinquent tax, and an owner who wants to redeem pays that amount plus 2 percent per month.</p><p>Redemption cannot be paid through the website, so call the treasurer at 319-334-4340. If redemption is not completed in time, the buyer may start steps toward a tax deed. A delinquent bill on a house you plan to sell is worth settling first, because a sold certificate adds interest and fees to your payoff.</p>"
+   "h2": "If taxes go unpaid",
+   "html": "<p>Each June, delinquent parcels go up for bid at the county sale, normally the third Monday. The winning bidder covers the overdue tax, and to get the parcel back an owner repays that sum along with 2 percent for every month that has gone by.</p><p>The website will not take a redemption. Dial the treasurer at 319-334-4340 instead. Let the redemption period lapse and the bidder can begin the road to a deed. For a house you intend to sell, clearing the debt first is cheaper, because a sold certificate piles interest and fees onto the payoff.</p>"
   },
   {
-   "h2": "Transfer tax when you sell",
-   "html": "<p>Iowa charges a real estate transfer tax of 80 cents for each $500 of value above $500, and the seller is liable for it. The tax is paid to the county recorder, and a declaration of value must be filed when the deed is presented, or the recorder will refuse to record it.</p><p>Iowa Code section 428A.2 lists exemptions, including gifts between spouses or between parent and child, transfers to heirs without consideration and tax deeds. A sale to a buyer at full price is taxable. Of each month's receipts, 82.75 percent go to the Department of Revenue and the rest stays in the county general fund.</p>"
+   "h2": "Transfer tax",
+   "html": "<p>Sellers owe Iowa's real estate transfer tax, set at 80 cents on each $500 of value past the first $500. The county recorder takes the money. A declaration of value must come in with the deed, and without it the recorder will not record.</p><p>Iowa Code section 428A.2 exempts certain transfers: gifts between spouses or between a parent and child, inheritances passed without payment, and tax deeds. An ordinary full-price sale is taxable. The state sends 82.75 percent of monthly receipts to the Department of Revenue, and the county general fund keeps what remains.</p>"
   },
   {
-   "h2": "What sellers usually face here",
-   "html": "<p>Sellers in Buchanan County often own a house in a small town or on rural ground, and the buyer pool is narrower than in a city. Inherited homes and houses with deferred repairs are common reasons owners look at a quick sale.</p><ul><li>Pull the parcel record and confirm the county, since Jesup and Fairbank straddle county lines.</li><li>Ask the treasurer for the current balance on both halves.</li><li>Check whether a homestead, veteran or family farm credit is on file with the assessor.</li><li>Bring the deed so a declaration of value can be filed at recording.</li></ul><p>When a house needs work or taxes are behind, a cash sale as-is can move faster than a listing, since there are no repair requests from a lender's appraiser or a buyer's inspector to work through.</p>"
+   "h2": "Selling a rural or small-town house",
+   "html": "<p>Houses here are often in small towns or on country ground, so fewer shoppers compete for them than in a city. Inherited homes and places with postponed repairs are the usual reasons owners consider a fast sale.</p><ul><li>Confirm the parcel's county first, since Jesup and Fairbank cross county lines.</li><li>Ask the treasurer what is still owed on each half.</li><li>See whether a homestead, veteran or family farm credit is attached to the parcel at the assessor's office.</li><li>Have the deed ready so the declaration of value goes in at recording.</li></ul><p>When a property needs repairs or the taxes are behind, selling for cash as-is avoids a buyer's lender, appraiser and inspection list, so the sale can close sooner than a listing would.</p>"
   },
   {
-   "h2": "Closing day steps",
-   "html": "<p>Order of events is simple. Call the treasurer a few days before closing and ask for the balance on each half, including any interest. The title company then pays what is owed out of your proceeds. The deed goes to the recorder along with the declaration of value, and the transfer tax is collected at that point. If you hold a homestead, veteran or family farm credit, tell the assessor about the sale so the credit is not left on a house you no longer own. Keep the settlement statement with your tax papers, since it shows how the current year's bill was divided between you and the buyer.</p>"
+   "h2": "A simple closing sequence",
+   "html": "<p>A few days before the closing date, phone the treasurer and ask what each half currently costs, interest included. The title company subtracts that total from your proceeds. Next, the deed and declaration of value reach the recorder, who collects the transfer tax. Let the assessor know about the sale so a homestead or veteran credit does not linger on a house that has changed hands. Hang on to your settlement statement. It shows how the present year's bill was divided between you and the buyer, which matters if the county later sends a corrected notice. Anyone selling a rural parcel should also check the parcel number on the deed against the tax record, since acreage splits can leave two numbers in play.</p>"
+  },
+  {
+   "h2": "Back taxes before a sale",
+   "html": "<p>Suppose a parent's house in Independence is headed for sale and nobody has opened the mail for a while. Start by asking the treasurer for the balance on both halves. If either half is delinquent, interest is already running at 1.5 percent a month. If the parcel was sold at the June auction, the cost to redeem climbs by 2 percent each month until the owner pays. Either way, the title company will want a written figure good through the closing date, and the sum comes out of the seller's proceeds. Heirs selling an inherited house follow the same path, and a transfer to heirs without payment is one of the exempt transfers listed above, so the recorder should not charge transfer tax on that step.</p><p>Do not wait for the next statement to settle this. A house with an open balance can stall at the title stage, and a buyer's attorney will ask for proof the tax is current.</p>"
+  },
+  {
+   "h2": "Questions for the assessor",
+   "html": "<p>A short call to the assessor can save a surprise. Ask which credits are on the parcel and whether any need to be removed after you sell. Ask when informal reviews open in April, since a quick conversation may fix an error before you need a formal protest. Ask what year the next reassessment falls in, because a buyer may want to know whether the value is about to change. And if you own farm ground, ask how the family farm credit is handled when the land passes to a new owner.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are property taxes due in Buchanan County, Iowa?",
-   "a": "The first half is due September 1 and the second half March 1. Each half is delinquent after September 30 and March 31, and late interest is 1.5 percent per month."
+   "a": "Pay by September 30 for the first half and March 31 for the second. Interest of 1.5 percent a month starts after those dates."
   },
   {
    "q": "Where do I pay Buchanan County property tax?",
-   "a": "Pay at the treasurer's office on the first floor of the courthouse, 210 5th Avenue NE, Independence, or online at pay.iowataxandtags.org. The tax phone is 319-334-4340."
+   "a": "Go to the treasurer on the first floor of the courthouse at 210 5th Avenue NE in Independence, or pay online at pay.iowataxandtags.org. The tax line is 319-334-4340."
   },
   {
    "q": "When is the Buchanan County tax sale?",
-   "a": "The annual sale is held in June, normally on the third Monday, though the treasurer may set another date."
+   "a": "Each June, usually the third Monday. The treasurer may pick another date."
   },
   {
    "q": "How do I contest my Buchanan County assessment?",
-   "a": "File a protest with the board of review between April 2 and April 30 of the assessment year, on one of the grounds in Iowa Code section 441.37."
+   "a": "Send a protest to the board of review in April, from April 2 to April 30, citing one of the five grounds in Iowa Code section 441.37."
   },
   {
    "q": "Does Iowa charge a transfer tax when I sell?",
-   "a": "Yes. The rate is 80 cents per $500 of value above $500, the seller is liable, and the county recorder collects it with a declaration of value."
+   "a": "Yes, 80 cents per $500 above the first $500. The seller owes it, and the recorder collects it along with a declaration of value."
   }
  ],
  "sources": [
