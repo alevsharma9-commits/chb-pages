@@ -1,0 +1,101 @@
+{
+ "sections": [
+  {
+   "h2": "Where a Knox County seller records a deed",
+   "html": "<p>The recorder in Mount Vernon files Knox County deeds, but the auditor sees them first. The auditor's office is at 117 East High Street, Suite 120, Mount Vernon, OH 43050. Weekday hours are 8:00 to 4:00, the real estate desk answers at 740-393-6745, and the exemption desk at 740-393-6748. Phone the recorder's office for counter hours, payment methods and mailing rules before a deed goes in the mail.</p>\n<p>Ohio gives each county a single recorder. Whether the house sits in town, near Fredericktown or around Gambier, the paperwork follows the same route through that one Mount Vernon office.</p>"
+  },
+  {
+   "h2": "What the auditor charges when a deed transfers",
+   "html": "<p>Knox County's conveyance fee is $3.00 per thousand dollars of the sale price. Section <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">319.54(G)(2)</a> adds fifty cents per transfer or entry. After the auditor, the recorder bills under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">section 317.32</a>, where each charge pairs a base fee with a housing trust fund fee.</p>\n<table>\n<caption>What a Knox County deed can cost</caption>\n<thead><tr><th>Charge</th><th>Amount</th></tr></thead>\n<tbody>\n<tr><td>Conveyance fee (auditor)</td><td>$3.00 per thousand dollars of the sale price</td></tr>\n<tr><td>Transfer or entry (auditor)</td><td>$0.50 each</td></tr>\n<tr><td>Recording a two page deed</td><td>$17 base fee, matched by a $17 housing trust fund fee</td></tr>\n<tr><td>Every page past two</td><td>$4 base fee, matched by a $4 housing trust fund fee</td></tr>\n<tr><td>Preservation surcharge</td><td>Up to $5, a county option</td></tr>\n<tr><td>Marginal reference</td><td>$2 plus $2 for each reference</td></tr>\n<tr><td>Deed that ignores the layout rules</td><td>$10 plus $10 on top of the usual charge</td></tr>\n</tbody>\n</table>\n<p>Ask the recorder whether the surcharge applies and what your page count totals.</p>"
+  },
+  {
+   "h2": "The statement of value: who files and who pays",
+   "html": "<p>The buyer files it, and the seller pays, under section <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">319.202</a>. The figure reported is the full price, mortgage included, and a false number is a violation. A county transfer tax, if one is levied, is collected the same way before the deed moves on to the recorder.</p>\n<p>Knox County's auditor posts these forms for a sale:</p>\n<ul>\n<li>DTE 100 records the statement of value and doubles as the receipt.</li>\n<li>DTE 100(EX) names the reason a deed owes nothing.</li>\n<li>DTE 101 discloses a conveyance of homestead property.</li>\n<li>DTE 102 covers land enrolled in the current agricultural use valuation, common on farm acreage here.</li>\n</ul>\n<p>The statute asks the buyer to affirm that the seller was questioned about any homestead reduction and any farm valuation. Tell the closing agent about either one early.</p>\n<p>If your land is in current agricultural use valuation and the buyer plans to change how it is used, the change can trigger a recoupment charge, so raise that with the auditor before you set a closing date.</p>"
+  },
+  {
+   "h2": "Deeds that owe no conveyance fee",
+   "html": "<p>The exemption list in section 319.54(G)(3) is long. The entries a homeowner is likeliest to use:</p>\n<ul>\n<li>Gifts between spouses, or from a parent to a child.</li>\n<li>Transfers among a decedent's heirs when no money changes hands.</li>\n<li>Deeds into a trust the maker can revoke, and deeds back out of it.</li>\n<li>Corrective deeds that repair an earlier recorded one.</li>\n<li>Interests worth $100 or less.</li>\n</ul>\n<p>Government, charity and court-ordered transfers appear on the list too. An exempt deed still needs the exemption form, so ask the real estate desk which form fits.</p>"
+  },
+  {
+   "h2": "How a deed must be laid out",
+   "html": "<p>Section <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.114\">317.114</a> asks for ten point type or larger, paper between letter and legal size, dark ink, no highlighter, one inch margins on the sides and bottom, and a three inch clear band across the top of page one. The recorder will still take a deed that misses these, at the added cost shown in the table. Court filings, plats, agency papers and instruments signed before July 1, 2009 are outside the rule.</p>"
+  },
+  {
+   "h2": "A step by step route for a Knox County sale",
+   "html": "<p>Start with the legal description and parcel number, and compare them with the auditor's parcel search. Have the deed prepared by a closing agent or attorney and signed. Take it to the auditor at Suite 120 with the right DTE form and pay the conveyance fee and the transfer fee. The deed then goes to the recorder in Mount Vernon, which charges its own base and housing trust fund fees by page count.</p>\n<p>Before any of that, call both offices. The auditor can say which form fits your transfer, and the recorder can say whether the preservation surcharge applies and how payment is taken. A deed that follows the layout rules avoids the extra $10 plus $10 charge, so check the margins, ink and type size before it is signed.</p>\n<p>If the parcel is part of a larger tract, ask the auditor early whether a split must be approved first. A division of valuation on split acreage is its own form, and the recorded deed should match the new parcel description.</p>"
+  },
+  {
+   "h2": "Knox County housing figures",
+   "html": "<p>Knox County had 64,002 people in mid 2025, a gain of 2.0 percent since April 2020, living in 26,668 housing units. Three out of four homes are owner occupied (75.5 percent). The median home value is $239,400 and median gross rent is $950. The county's 23,491 households have a median income of $73,878, and farmland covers a large share of the land, so acreage sales are common.</p>"
+  },
+  {
+   "h2": "What to check on the auditor's site before listing",
+   "html": "<p>The auditor runs a real estate search portal that works on phones and tablets, plus a tax estimator, a GIS and tax map page and a downloadable property data correction form. If a deed splits acreage, the forms page carries a split form and a form for the proposed division of valuation on split acreage, which matters for owners selling off a lot from a larger farm parcel.</p>\n<ul>\n<li>Run the parcel search and compare the owner name and acreage with your deed.</li>\n<li>Try the tax estimator for a rough tax figure to show a buyer.</li>\n<li>Download the property data correction form if a record shows the wrong square footage or building count.</li>\n<li>Read the sheriff sales page if the parcel has a case in court.</li>\n</ul>\n<p>Property owners' phone numbers are kept private, so buyers and agents should contact you through the listing.</p>"
+  },
+  {
+   "h2": "Tax due dates and disputes",
+   "html": "<p>Call the Knox County Treasurer for the next pair of due dates. The auditor links to the treasurer's payment site from its home page.</p>\n<p>Value complaints go to the Knox County Board of Revision. The board organizes on January 4, 2027 and takes formal complaints from January 1 through March 31, 2027, and the 2026 returns can be inspected at the auditor's office. The auditor's menu also links pages for the owner occupancy reduction, homestead exemption, CAUV soil rates, agricultural districts and sheriff sales.</p>\n<p>When a tax bill is still open at closing, the title company typically gets a payoff from the treasurer and settles it from the proceeds. Request that figure as soon as a contract exists. Keep your own copy of the payoff letter and the settlement statement.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who records a deed in Knox County, Ohio?",
+   "a": "The Knox County Recorder in Mount Vernon. The deed visits the auditor at 117 East High Street, Suite 120 beforehand. Call the recorder for current hours and mailing instructions."
+  },
+  {
+   "q": "What is the Knox County conveyance fee?",
+   "a": "The county charges $3.00 per thousand dollars of the sale price, and section 319.54(G)(2) adds fifty cents per transfer or entry. Under section 319.202 the seller bears it."
+  },
+  {
+   "q": "What if my deed ignores the margin and ink rules?",
+   "a": "The recorder takes it anyway and collects an extra $10 base fee and $10 housing trust fund fee. Court papers, plats, agency documents and instruments from before July 1, 2009 are excluded."
+  },
+  {
+   "q": "Can I give a Knox County house to my child without the conveyance fee?",
+   "a": "A gift from a parent to a child is on the exemption list in section 319.54(G)(3). File the DTE 100(EX) with the auditor. The recorder's own charges still apply."
+  },
+  {
+   "q": "Which forms apply to farm ground or a homestead parcel in Knox County?",
+   "a": "The auditor lists DTE 101 for homestead property and DTE 102 for current agricultural use valuation property. Ask the auditor about any recoupment charge on farm land before closing."
+  }
+ ],
+ "slug": "knox-county-oh-recorder-of-deeds",
+ "sources": [
+  {
+   "title": "Ohio Revised Code 317.32 Recording fees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-317.32"
+  },
+  {
+   "title": "Ohio Revised Code 317.114 Standard format of instruments",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-317.114"
+  },
+  {
+   "title": "Ohio Revised Code 319.202 Statement declaring value",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"
+  },
+  {
+   "title": "Ohio Revised Code 319.54 Auditor fees",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.54"
+  },
+  {
+   "title": "Ohio Revised Code 322.02 Real property transfer tax",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-322.02"
+  },
+  {
+   "title": "Knox County Auditor home page",
+   "url": "https://knoxcountyauditor.org"
+  },
+  {
+   "title": "Knox County Auditor forms",
+   "url": "https://www.knoxcountyauditor.org/FORMS/"
+  },
+  {
+   "title": "Census QuickFacts Knox, Lake and Lawrence Counties, Ohio",
+   "url": "https://www.census.gov/quickfacts/fact/table/knoxcountyohio,lakecountyohio,lawrencecountyohio/PST045224"
+  },
+  {
+   "title": "Knox County, Ohio (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Knox_County,_Ohio"
+  }
+ ]
+}

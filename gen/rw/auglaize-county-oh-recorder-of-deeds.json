@@ -2,62 +2,70 @@
  "slug": "auglaize-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where is the Auglaize County Recorder and when is it open?",
-   "html": "<p>The recorder's office is at 209 S. Blackhoof St., Suite 103, in Wapakoneta, Ohio 45895. The office keeps weekday hours, opening at eight in the morning and closing at half past four, and the phone is 419-739-6735. The fax line is 419-739-6736.</p><p>The county treasurer works from the same building, at 209 S. Blackhoof Street, with a separate line at 419-739-6745. A seller closing a deed can handle both the recording and the tax payoff on one visit, since the two offices share a street address.</p>"
+   "h2": "Recorder's office address and hours",
+   "html": "<p>You will find the recorder at 209 S. Blackhoof St., Suite 103, Wapakoneta, Ohio 45895. Staff are in from eight to half past four on weekdays. The phone is 419-739-6735 and the fax is 419-739-6736.</p>\n<p>The treasurer shares the street address, at 419-739-6745, so a single visit can handle the deed filing and the tax payoff together.</p>"
   },
   {
-   "h2": "What does the Auglaize County Recorder keep on file?",
-   "html": "<p>Every document that conveys or burdens land in the county ends up in this office's permanent record. Property records start in 1848, the year the county was formed, and the books are kept in archival form with public access.</p><ul><li>It enforces more than 1,000 sections of the Ohio Revised Code that touch the recorder's duties.</li><li>It has a seat on the records commission, which decides how long county records are retained.</li><li>It runs the county microfilming department.</li><li>It collects filing fees and pays them into the county general fund.</li><li>Each year it reminds commissioners and township trustees to file zoning resolutions, maps and amendments.</li></ul><p>A fee schedule is posted on the recorder's page and is marked as updated October 24, 2024. Use it for the amount to send with a deed.</p>"
+   "h2": "What the recorder keeps",
+   "html": "<p>Whatever passes title to land here, or puts a burden on it, lands in the recorder's permanent files. Property records start in 1848, the county's founding year, and the books are preserved in archival form for public use.</p>\n<ul>\n<li>The recorder's work is governed by over 1,000 Ohio Revised Code sections.</li>\n<li>The recorder sits on the records commission, the body that sets how long county records are kept.</li>\n<li>The office runs the county microfilming department.</li>\n<li>Money taken in at the counter is paid into the county general fund.</li>\n<li>Commissioners and township trustees get a yearly reminder from the office to file zoning resolutions, maps and amendments.</li>\n</ul>\n<p>A fee schedule is posted on the recorder's page, and it is the place to find the amount to send with a deed.</p>"
   },
   {
-   "h2": "What recording fees does Ohio law set?",
-   "html": "<p>ORC 317.32 lists the statewide fee structure, and the county's schedule operates within it. The page below uses the statute's own wording because it applies in Auglaize County as in every other Ohio county.</p><table><caption>Recording fees under ORC 317.32 that apply in Auglaize County</caption><thead><tr><th>Service</th><th>Base fee</th><th>Housing trust fund fee</th></tr></thead><tbody><tr><td>Recording and indexing, first two pages</td><td>$17</td><td>$17</td></tr><tr><td>Each subsequent page</td><td>$4</td><td>$4</td></tr><tr><td>Marginal reference by separate instrument</td><td>$2</td><td>$2</td></tr><tr><td>Certified copy, per page</td><td>$1</td><td>$1</td></tr><tr><td>Local fax or electronic transmission, per page</td><td>$1</td><td>$1</td></tr></tbody></table><p>Statute lets counties add a preservation charge, capped at $5, credited to the general fund. The posted Auglaize schedule shows what applies locally.</p>"
+   "h2": "Recording fees under Ohio law",
+   "html": "<p>Statewide fees come from ORC 317.32, and the local schedule operates inside that law.</p>\n<table>\n<caption>Recording fees under ORC 317.32</caption>\n<thead><tr><th>Service</th><th>Base fee</th><th>Housing trust fund fee</th></tr></thead>\n<tbody>\n<tr><td>Recording and indexing, first two pages</td><td>$17</td><td>$17</td></tr>\n<tr><td>Each subsequent page</td><td>$4</td><td>$4</td></tr>\n<tr><td>Marginal reference by separate instrument</td><td>$2</td><td>$2</td></tr>\n<tr><td>Certified copy, per page</td><td>$1</td><td>$1</td></tr>\n<tr><td>Local fax or electronic transmission, per page</td><td>$1</td><td>$1</td></tr>\n</tbody>\n</table>\n<p>Auglaize and other counties may add a preservation charge, no more than $5, credited to the general fund. Ask the recorder whether it applies here.</p>"
   },
   {
-   "h2": "Who collects the deed transfer fee in Auglaize County?",
-   "html": "<p>Not the recorder. The auditor handles it, in a separate office. That office also keeps records of deed transfers, homestead exemptions, oil and gas wells, special assessments and all real property, exempt parcels included. A statement of value comes first, as ORC 319.202 requires from the buyer.</p><p>ORC 319.54(G)(3) prices the fee at $1 or 10 cents per $100 of value or fraction, whichever is higher, payable by the seller. Commissioners may also levy a Chapter 322 transfer tax, so ask the auditor whether one exists here. Exempt transfers include one made only to give or release security for a debt, one under a court order that is not itself a sale, and one that corrects a deed already recorded.</p>"
+   "h2": "Deed transfer fee and the auditor",
+   "html": "<p>The recorder leaves transfer fees to the auditor, whose office is separate. That office also keeps the records of deed transfers, homestead exemptions, oil and gas wells, special assessments and all real property, exempt parcels included. A statement of value comes first, which ORC 319.202 requires from the buyer.</p>\n<p>ORC 319.54(G)(3) charges the seller $1 or 10 cents per $100 of value or fraction, whichever comes out higher. The commissioners can add a Chapter 322 transfer tax as well, so find out from the auditor whether it applies. Exempt transfers fall in three groups: security for a debt that is only given or released, court-ordered moves that are not sales, and fixes to a deed already recorded.</p>"
   },
   {
-   "h2": "How are Auglaize County values set and challenged?",
-   "html": "<p>Valuation belongs to the auditor, the county's chief assessor, who reappraises every six years and updates values every three. Value complaints go before the Board of Revision, which the county describes as the auditor, the treasurer and one commissioner hearing testimony.</p><p>ORC 5715.19(A)(1) sets the filing cutoff at the later of two dates: March 31 after the tax year, or the end of first-half collection. A Postal Service postmark dates a mailed complaint, while a private meter mark does not count. The treasurer's page links a delinquent land tax notice for tax year 2025, so ask that office whether your parcel appears on it.</p>"
+   "h2": "Valuation and complaints",
+   "html": "<p>Valuation is the auditor's job as chief assessor, reappraising every six years and updating every three. Value complaints go to a Board of Revision of three: the auditor, the treasurer and one commissioner.</p>\n<p>Under ORC 5715.19(A)(1) you may file until the later of two dates: March 31 following the tax year, or the day first-half collection ends. Mail is dated by Postal Service postmark rather than a private meter. If unpaid land tax could be on your parcel, ask the treasurer before listing.</p>"
   },
   {
-   "h2": "What sets Auglaize County's housing apart?",
-   "html": "<p>Northwestern Ohio's Auglaize County dates to February 14, 1848, and the river that crosses it gave the county its name. At 402 square miles it ranks second-smallest among Ohio counties. The county is crossed by the Auglaize River and the Miami and Erie Canal, and it holds the headwaters of the St. Marys, Great Miami and Scioto rivers plus parts of Grand Lake and Lake Loramie. Wapakoneta has the courthouse and the largest population, and Saint Marys is the other city.</p><ul><li>Census 2020 counted 19,873 housing units, 6.4% of them vacant, and showed 75.6% of occupied homes as owner-occupied.</li><li>Median age stood at 41.3, with 19.4% of residents aged 65 or over.</li><li>Manufacturing anchors the economy, and employers with more than 400 workers include Crown Equipment, Minster Machine, Veyance Technologies, Dannon and Joint Township District Memorial Hospital.</li></ul><p>With so many owner-occupied homes, most sales here are ordinary house-to-house deeds. Heirs selling a parent's house or an owner moving out of state can close as-is, and the recording steps stay the same.</p>"
+   "h2": "Housing in Auglaize County",
+   "html": "<p>The 2020 count showed 19,873 housing units, 6.4% of them empty, and 75.6% of occupied homes lived in by their owners. Wapakoneta, the county seat, is the biggest town. Because owners dominate, most sales are plain house-to-house deeds. Selling a parent's house or leaving the state does not change the recording steps, and as-is sales work the same.</p>"
   },
   {
-   "h2": "What do the Auglaize County treasurer and auditor handle for a seller?",
-   "html": "<p>Elected to a four-year term, the county treasurer acts as the county's banker and safe keeper of tax money. The office collects local taxes, particularly real property and personal taxes, and also taxes on manufactured homes, hotel-motel stays and special assessments. The office keeps the money collected for schools, cities, townships and villages safe until it is distributed. Its staff is small, two full-time employees, so call ahead for a payoff figure rather than showing up on closing day.</p><p>The auditor does the assessing. Beyond reappraisals, the auditor registers manufactured homes and assesses their value, then passes the proceeds to municipalities, townships and school districts in proportion. The auditor joins the treasurer and the prosecuting attorney on the budget commission, which oversees the tax rates other subdivisions set.</p><ul><li>Payoff and delinquent balances: treasurer, 419-739-6745.</li><li>Statement of value, homestead and parcel records: auditor.</li><li>Deed and mortgage recording: recorder, 419-739-6735.</li></ul>"
+   "h2": "Treasurer and auditor duties in a sale",
+   "html": "<p>Voters elect the treasurer for four years, and the office serves as the county's banker. The office collects real property and personal taxes, plus taxes on manufactured homes, hotel-motel stays and special assessments, and holds the money collected for schools, cities, townships and villages until it is distributed. The staff is small, two full-time employees, so call ahead for a payoff figure instead of showing up on closing day.</p>\n<p>The auditor does the assessing. Beyond reappraisals, the auditor registers manufactured homes and assesses their value, then passes the proceeds to municipalities, townships and school districts in proportion. The auditor also sits with the treasurer and the prosecuting attorney on the budget commission, which oversees the tax rates other subdivisions set.</p>\n<ul>\n<li>Payoff and delinquent balances: treasurer, 419-739-6745.</li>\n<li>Statement of value, homestead and parcel records: auditor.</li>\n<li>Deed and mortgage recording: recorder, 419-739-6735.</li>\n</ul>"
   },
   {
-   "h2": "How has Auglaize County grown, and where does county government sit?",
-   "html": "<p>The county had 11,338 people in 1850, reached 36,147 by 1960 and 44,585 by 1990, and counted 46,422 in 2020, with a 2025 federal estimate of 45,909. The county gained population in most decades since 1960, though it dipped from 46,611 in 2000 to 45,949 in 2010.</p><p>The county's first courthouse, built in 1851 for $11,499, served until 1894. The present courthouse opened that year, occupies a full city block in Wapakoneta, and is built of Berea sandstone with tile floors. It cost $259,481 with its powerhouse, and some 85 men spent 18 months on it. The courts meet there, while the recorder and treasurer work from Blackhoof Street.</p>"
+   "h2": "Typical documents and who files them",
+   "html": "<p>A normal house sale generates a deed and, when the seller has a loan, a release of the mortgage. If the seller has died, an affidavit or court papers may also be needed to show who can sign. Each document is its own recording, and the page count drives the fee in the table above. Title companies bundle these filings and send them in together, which is why many sellers never meet the recorder in person.</p>\n<p>If you are selling on your own, the practical risk is a rejected packet. A missing auditor endorsement, a legal description that differs from the last deed, or a wrong payment amount will send you back to start. One call to the recorder before you leave prevents all three problems.</p>"
   },
   {
-   "h2": "What should I bring to record a deed?",
-   "html": "<p>Bring the signed, acknowledged deed, the auditor-endorsed value statement and a payment matching the county schedule. If you are mailing the deed, call 419-739-6735 first to confirm the total. Keep a copy of the last recorded deed, since the legal description must match.</p><p>Keep a copy of the recorded deed and the value statement with your closing papers. If a title company runs the closing, it normally sends the deed in, and the index then shows the new owner.</p>"
+   "h2": "Why recording matters to a seller",
+   "html": "<p>Recording is what puts the sale on the public record, and the recorder's index is where the next buyer's title search will find it. A deed that is signed but never recorded leaves the record showing the old owner, which leaves the buyer without a clean record of ownership. Ask the closing agent for confirmation that the deed was filed.</p>"
+  },
+  {
+   "h2": "Phone numbers to keep handy",
+   "html": "<ul>\n<li>Recorder, 419-739-6735, with a fax line at 419-739-6736.</li>\n<li>Treasurer, 419-739-6745, for tax payoffs and delinquent balances.</li>\n<li>Auditor, for the statement of value, homestead records and the transfer fee.</li>\n</ul>\n<p>Call the recorder to confirm the fee total, the treasurer for a payoff before the closing date, and the auditor before you carry the deed over. Taking the calls in that order keeps the paperwork moving in the order the county needs it, and it saves a second drive to Wapakoneta. People selling a house they inherited or one they are leaving from out of state can do most of this by phone and mail, as long as the auditor's endorsement is already on the deed.</p>"
+  },
+  {
+   "h2": "What to bring to record a deed",
+   "html": "<p>Take the signed, acknowledged deed, the auditor-endorsed value statement and payment matching the county schedule. Mailing it? Phone 419-739-6735 first and confirm the total. Hold on to the last recorded deed so you can match the legal description.</p>\n<p>Save the recorded deed and value statement with your closing papers. A title company running the closing usually sends the deed in for you, after which the index lists the new owner.</p>\n<p>One workable order: obtain a payoff from the treasurer, prepare the deed, visit the auditor for the endorsement, then record. A cash purchase drops the lender's paperwork but not these visits or fees.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What are the Auglaize County Recorder's hours?",
-   "a": "Weekdays, eight until half past four. Find it at 209 S. Blackhoof St., Suite 103, Wapakoneta, or call 419-739-6735."
+   "a": "Eight to half past four, Monday through Friday, at 209 S. Blackhoof St., Suite 103, Wapakoneta. The phone is 419-739-6735."
   },
   {
    "q": "How far back do Auglaize County property records go?",
-   "a": "To 1848, per the recorder's page, and the books are kept permanently in archival form."
+   "a": "To 1848. The books are kept permanently in archival form."
   },
   {
    "q": "What fees does Auglaize County add for a deed?",
-   "a": "Under the statute, pages one and two cost $17 plus a $17 housing trust fund fee, and each later page $4 plus $4. The county schedule updated October 24, 2024 gives local totals."
+   "a": "State law sets $17 plus a $17 housing trust fund fee for pages one and two, then $4 plus $4 per added page. The posted county schedule shows local totals."
   },
   {
    "q": "Which office collects the conveyance fee?",
-   "a": "The county auditor, at $1 or 10 cents per $100 of value or fraction, whichever is higher. The seller pays it, along with any Chapter 322 county tax."
+   "a": "The auditor does. Sellers pay $1 or 10 cents per $100 of value or fraction, if higher, and any Chapter 322 county tax."
   },
   {
    "q": "Where do I contest my property value?",
-   "a": "Give the complaint to the county auditor for the Board of Revision before the later of March 31 or the end of first-half collection. Reappraisal happens every six years."
+   "a": "File with the auditor, for the Board of Revision, by March 31 or the close of first-half collection, whichever is later."
   }
  ],
  "sources": [
