@@ -2,62 +2,66 @@
  "slug": "fulton-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "What does the Fulton County Recorder do?",
-   "html": "<p>Fulton County's Recorder is the office that files and indexes every land document in the county, so a buyer can trace ownership and a lender can see what debts sit against a parcel. The county's own Recorder page frames the work as recording, safekeeping and organizing those papers so land can be bought with a clear title.</p><p>Fulton County lies west of Toledo and belongs to the Toledo metropolitan area. The state created it in 1850 out of Henry, Lucas and Williams counties. Wauseon grew up around a railroad stop in 1854, took the county seat from Ottokee in 1871, and its courthouse went up in 1872. A deed for a house in Archbold, Delta, Swanton, Fayette, Lyons or Metamora is filed in Wauseon as well.</p>"
+   "h2": "What the Fulton County Recorder does",
+   "html": "<p>The Recorder indexes and files each land document in the county. Buyers use the index to trace past owners, and lenders use it to see what debts attach to a parcel.</p>\n<p>West of Toledo, Fulton County is part of that metro area. County business happens in Wauseon, including filings for homes in Archbold, Delta, Swanton, Fayette, Lyons and Metamora.</p>"
   },
   {
-   "h2": "Where do I find the Fulton County Recorder in Wauseon?",
-   "html": "<p>Go to 152 S. Fulton St., Suite 175, Wauseon, OH 43567. The staff directory shows weekday service from half past eight to half past four, and the telephone is (419) 337-9232.</p><ul><li>Recorder: Suite 175, the last stop for a deed.</li><li>Auditor: Suite 165 in the same building, the first stop. Its real estate line is (419) 337-9200.</li><li>Land records search: reached from the county's Records Search page, for looking up earlier deeds and mortgages.</li></ul><p>The Recorder page also carries a Real Property Conveyance Standards PDF plus printable plats and land surveys. Read them before you draft a legal description.</p>"
+   "h2": "Office location and hours",
+   "html": "<p>The Recorder is at 152 S. Fulton St., Suite 175, Wauseon, OH 43567. The counter serves the public on weekdays from half past eight until half past four, and the number is (419) 337-9232.</p>\n<ul><li>Recorder: Suite 175, where a deed ends up.</li><li>Auditor: Suite 165, same building, where it starts. Real estate questions go to (419) 337-9200.</li><li>Land records search: linked from the county's Records Search page, handy for finding earlier deeds and mortgages.</li></ul>\n<p>The Recorder page also carries a Real Property Conveyance Standards PDF plus printable plats and land surveys. Read them before you draft a legal description.</p>"
   },
   {
-   "h2": "What steps come before a Fulton County deed reaches the Recorder?",
-   "html": "<p>Fulton County's conveyance standards exist to give every legal description a uniform check, correct visible errors and describe the parcel properly for tax purposes. Odd cases go to a panel of the County Engineer, the Auditor and the Planning Director.</p><ol><li>Write the deed so its legal description follows the last deed of record.</li><li>Sign before a notary. Under R.C. 5301.01 a judge, court clerk, county auditor, county engineer or mayor can also take the acknowledgment.</li><li>Take the deed to Suite 165 for the description check, the conveyance fee and the transfer.</li><li>Carry it to Suite 175 and pay the recording fee.</li></ol><p>Ohio's transfer tax statute has the grantor settle with the Auditor before the deed is handed to the Recorder, so keep this order. Ask the Recorder which endorsement it expects to see.</p>"
+   "h2": "Steps before the deed reaches the Recorder",
+   "html": "<p>The county's conveyance standards put every legal description through the same review. The aim is to catch visible errors and describe the parcel properly for tax purposes. Unusual cases are sent to a panel of the County Engineer, the Auditor and the Planning Director.</p>\n<ol><li>Draft the deed, copying the legal description from the most recent recorded deed.</li><li>Have it acknowledged by a notary. R.C. 5301.01 also allows a judge, court clerk, county auditor, county engineer or mayor.</li><li>Take it to Suite 165 for the description review, the conveyance fee and the transfer.</li><li>Then walk it to Suite 175 and pay the recording fee.</li></ol>\n<p>Ohio's transfer tax statute makes the grantor settle with the Auditor first, so do not reverse the order. Ask the Recorder which endorsement it expects to see.</p>"
   },
   {
-   "h2": "What does the Fulton County Auditor charge to transfer a deed?",
-   "html": "<p>The Auditor's price list reads $4.00 per thousand dollars of total consideration, rounded up to the nearest $100, and $0.50 per parcel as a transfer fee. Its own worked example treats $100,001 as $100,100 and arrives at $400.40.</p><p>State law builds that number in layers. R.C. 319.54(G)(3) sets a statement-of-value fee of ten cents per $100, and R.C. 322.02 lets a county add as much as thirty cents per $100. The grantor pays on delivery of the deed.</p><p>Some transfers carry no fee at all under R.C. 319.54(G)(3), including:</p><ul><li>gifts between spouses, or from a parent to a child;</li><li>a transfer where no money or other valuable consideration is paid and the deal is no gift;</li><li>conveyances among the heirs or devisees of one decedent for no money;</li><li>a trustee handing property back to the grantor of a revocable trust.</li></ul><p>If your sale resembles one of these, ask the Auditor's real estate office before you assume a fee is due.</p>"
+   "h2": "Auditor's transfer and conveyance fees",
+   "html": "<p>The rate is $4.00 for every thousand dollars of total consideration, with the amount rounded up to the next $100, and a $0.50 per parcel transfer fee. </p>\n<p>That figure has two state layers. A statement-of-value fee of ten cents per $100 comes from R.C. 319.54(G)(3), and a county may add up to thirty cents per $100 under R.C. 322.02. The grantor pays when the deed is delivered.</p>\n<p>Certain transfers owe no fee under R.C. 319.54(G)(3):</p>\n<ul><li>a gift to a spouse, or from parent to child;</li><li>a deal with no money or other valuable consideration that is also not a gift;</li><li>a no-money conveyance among heirs or devisees of a single decedent;</li><li>a trustee returning property to the grantor of a revocable trust.</li></ul>\n<p>If your sale looks like one of these, check with the Auditor's real estate office before assuming a fee is owed.</p>"
   },
   {
-   "h2": "What will recording a Fulton County deed cost?",
-   "html": "<p>The state sets the recording fees, and half of each goes to the Ohio Housing Trust Fund. Every printed side counts as a page. Counties may tack on a preservation surcharge, capped at $5.00 per document, so phone the Fulton Recorder for the final figure before mailing a check.</p><table><caption>Common charges on a Fulton County deed. Sources: Ohio County Recorders' Association fee schedule; R.C. 317.114; Fulton County Auditor.</caption><thead><tr><th>Charge</th><th>Amount</th><th>Paid to</th></tr></thead><tbody><tr><td>Deed or mortgage, first two pages</td><td>$34.00</td><td>Recorder</td></tr><tr><td>Each added page</td><td>$8.00</td><td>Recorder</td></tr><tr><td>Release or assignment, per reference</td><td>$4.00 on top of the base fee</td><td>Recorder</td></tr><tr><td>Non-standard format</td><td>$20.00 per document</td><td>Recorder</td></tr><tr><td>Federal tax lien</td><td>$5.00</td><td>Recorder</td></tr><tr><td>Conveyance fee</td><td>$4.00 per $1,000</td><td>Auditor</td></tr><tr><td>Transfer fee</td><td>$0.50 per parcel</td><td>Auditor</td></tr></tbody></table>"
+   "h2": "Recording costs",
+   "html": "<p>Recording fees are set by the state, and half of each fee funds the Ohio Housing Trust Fund. A printed side counts as a page. A county can tack on a preservation surcharge of no more than $5.00 per document, so call the Fulton Recorder for the final amount before you mail a check.</p>\n<table><caption>Common charges on a Fulton County deed</caption><thead><tr><th>Charge</th><th>Amount</th><th>Paid to</th></tr></thead><tbody><tr><td>Deed or mortgage, first two pages</td><td>$34.00</td><td>Recorder</td></tr><tr><td>Each added page</td><td>$8.00</td><td>Recorder</td></tr><tr><td>Release or assignment, per reference</td><td>$4.00 on top of the base fee</td><td>Recorder</td></tr><tr><td>Non-standard format</td><td>$20.00 per document</td><td>Recorder</td></tr><tr><td>Federal tax lien</td><td>$5.00</td><td>Recorder</td></tr><tr><td>Conveyance fee</td><td>$4.00 per $1,000</td><td>Auditor</td></tr><tr><td>Transfer fee</td><td>$0.50 per parcel</td><td>Auditor</td></tr></tbody></table>"
   },
   {
-   "h2": "What formatting rules does Fulton County enforce on a deed?",
-   "html": "<p>R.C. 317.114 sets a standard layout for any deed you hand the Recorder. A deed that misses it is still taken but carries an added $10 base fee and $10 housing trust fee.</p><ul><li>Type no smaller than ten point.</li><li>Sheets no smaller than letter size and no longer than 14 inches.</li><li>Ink in black or blue, nothing highlighted.</li><li>One inch of white space down both sides and along the foot of each page.</li><li>Three inches of white space across the head of page one, which the Engineer, Auditor and Recorder use for their endorsements, and one and a half inches on following pages.</li></ul><p>The rule skips court and tax-authority papers, plats, state and federal documents, and anything signed before July 1, 2009.</p>"
+   "h2": "Deed formatting rules",
+   "html": "<p>A standard layout applies to any deed you give the Recorder under R.C. 317.114. Miss it and the deed is still accepted, at the cost of another $10 base fee and $10 housing trust fee.</p>\n<ul><li>Ten point type or larger.</li><li>Paper at least letter size, up to 14 inches long.</li><li>Black or blue ink, with no highlighting.</li><li>An inch of blank margin on each side and at the bottom of every page.</li><li>A three inch blank band at the top of page one for the Engineer, Auditor and Recorder endorsements, then one and a half inches at the top of later pages.</li></ul>\n<p>Court and tax-authority papers, plats, state and federal documents, and anything signed before July 1, 2009 are outside the rule.</p>"
   },
   {
-   "h2": "How big and how stable is the Fulton County housing market?",
-   "html": "<p>The Census Bureau recorded 42,713 residents in April 2020 and put the July 2025 estimate at 41,853, down 2.0 percent. Owners occupy 80.2 percent of the housing, the median owner-occupied unit is worth $191,000, and the county gave out 57 building permits during 2025. Median household income stands at $72,864.</p><p>The county spreads across 405 square miles of land at roughly 105 residents per square mile. Parcels range from farm acreage to village lots in Archbold and Wauseon to homes in any of its twelve townships, Amboy and Chesterfield through Swan Creek and York.</p>"
+   "h2": "Fulton County housing market",
+   "html": "<p>The April 2020 count was 42,713 people, and the July 2025 estimate of 41,853 is down 2.0 percent. Of all homes, 80.2 percent are owner-occupied, with a median value of $191,000 for those. The county gave out 57 building permits in 2025, and median household income is $72,864.</p>\n<p>Across 405 square miles of land, at roughly 105 residents per square mile, parcels range from farm acreage to village lots in Archbold and Wauseon to homes in any of its twelve townships.</p>"
   },
   {
-   "h2": "What else shows up in Fulton County's land records during a sale?",
-   "html": "<p>A title search in Wauseon covers more than the last deed. The Sheriff's Office explains in its own FAQ that when a house is sold at a sheriff's sale, liens are paid in order from the proceeds and then cancelled against the property, except a federal lien, which stays on file at the Recorder. Buyers at those sales are told to check every lien themselves.</p><ul><li>Mortgages, releases and assignments are filed in the same office as the deed.</li><li>Federal tax liens are filed with the Recorder at a $5.00 fee, and releases cost $3.00.</li><li>Military discharge papers are recorded without a charge.</li><li>Plats and condominium drawings are priced at ten cents per square inch with a $40.00 minimum.</li></ul><p>Search the parcel in the Recorder's land records and the Auditor's property search before you agree on a closing date.</p>"
+   "h2": "Other items in the land records",
+   "html": "<p>Expect a title search to look past the latest deed. At a sheriff's sale, liens are paid in order out of the proceeds and then cancelled against the property, but a federal lien survives and stays on file with the Recorder. Buyers at such sales must check each lien themselves.</p>\n<ul><li>Mortgages, releases and assignments are kept in the very office that holds the deed.</li><li>Filing a federal tax lien costs $5.00, and releasing one costs $3.00.</li><li>There is no charge to record military discharge papers.</li><li>Plats and condominium drawings are charged by area, ten cents per square inch, with a $40.00 minimum.</li></ul>\n<p>Search the parcel in the Recorder's land records and in the Auditor's property search before setting a closing date.</p>"
   },
   {
-   "h2": "Which Fulton County tax rules should a home seller check?",
-   "html": "<p>Fulton County real estate tax bills fall due in February and July. According to the Auditor, the lien date is January 1 and Ohio taxes run one year in arrears: the bill paid in 2025 was for tax year 2024 and was figured on what the home was worth when 2025 began.</p><ul><li>Owner-occupied reduction: residences only, and it is never applied on its own. Call (419) 337-9200 to enroll.</li><li>Value complaints: go to the Board of Revision in the window from the first of January to the last day of March.</li><li>Payments and tax-mailing address changes: the Treasurer handles both, not the Auditor.</li></ul><p>Request a payoff figure for the parcel from the Fulton County Treasurer, and have the title company explain who covers each bill.</p>"
+   "h2": "Tax rules a seller should check",
+   "html": "<p>Bills arrive twice a year, due in February and July. The lien date is January 1, and billing trails by a year. A bill paid in 2025 covered tax year 2024 and reflected the home's worth as 2025 began.</p>\n<ul><li>Owner-occupied reduction: residences only, never applied by itself. Enroll at (419) 337-9200.</li><li>Value complaints: file with the Board of Revision any time from January 1 to March 31.</li><li>Payments and mailing address changes for tax bills: the Treasurer handles both, not the Auditor.</li></ul>\n<p>Ask the Fulton County Treasurer for a payoff figure on the parcel, and have the title company spell out who covers which bill.</p>"
+  },
+  {
+   "h2": "Selling for cash in Fulton County",
+   "html": "<p>With cash there is no lender, but the route through the courthouse is unchanged: signed, notarized deed to Suite 165, then to Suite 175. Stick to the layout rules above to avoid extra fees. Because payment is part of the filing, phone ahead for the exact total, as the county decides the preservation surcharge. Also have a photo ID, your latest tax bill and any payoff letter ready, so the title agent can finish the same day.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Is there a transfer tax collected by the Fulton County Recorder?",
-   "a": "The Recorder takes the recording fee only. The conveyance fee of $4.00 per $1,000 and the $0.50 per parcel transfer fee belong to the Auditor, and Ohio law has the grantor pay the Auditor ahead of the filing."
+   "a": "Not by the Recorder, which collects only the recording fee. The $4.00 per $1,000 conveyance fee and the $0.50 per parcel transfer fee go to the Auditor, paid by the grantor before filing."
   },
   {
    "q": "Can a Fulton County deed skip the Auditor and go straight to recording?",
-   "a": "Plan on visiting the Auditor first. R.C. 322.02 has the grantor pay the county Auditor before the deed is presented to the Recorder, and the county's conveyance standards put each legal description through a check."
+   "a": "No. Visit the Auditor first. The grantor pays there under R.C. 322.02 before the Recorder sees the deed, and each legal description is reviewed under the county standards."
   },
   {
    "q": "What hours does the Wauseon Recorder keep?",
-   "a": "Weekdays, half past eight to half past four, at Suite 175, 152 S. Fulton St. The phone is (419) 337-9232. The Auditor is in Suite 165 of the same building."
+   "a": "It is open on weekdays, half past eight until half past four, at Suite 175, 152 S. Fulton St. Call (419) 337-9232. The Auditor is down the hall in Suite 165."
   },
   {
    "q": "What happens if my deed has a small font or thin margins?",
-   "a": "The Recorder still files it, but under R.C. 317.114 the bill rises by $10 in base fee and $10 in housing trust fee. Court papers, plats, state and federal documents and instruments signed before July 1, 2009 are excluded."
+   "a": "It will be filed, with $10 more in base fee and $10 more in housing trust fee under R.C. 317.114. Court papers, plats, state and federal documents and instruments signed before July 1, 2009 are exempt."
   },
   {
    "q": "Where do I send a complaint that my Fulton County home is overvalued?",
-   "a": "Address it to the Board of Revision through the Auditor's real estate office at (419) 337-9200. The filing window runs from January 1 to March 31, and the Auditor's staff can mail a form or point you to the printable copy."
+   "a": "Send it to the Board of Revision by way of the Auditor's real estate office, (419) 337-9200. Complaints are accepted January 1 to March 31, and staff can mail a form or direct you to the printable copy."
   }
  ],
  "sources": [
