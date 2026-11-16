@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Assessor and Collector offices in Hernando",
-   "html": "<p>DeSoto County property tax involves two desks at the same Hernando address. Upstairs or down, the roles differ. In Suite 100 of 365 Losher Street the Tax Assessor (662-469-8029) puts a value on every parcel. In Suite 110 the Tax Collector (662-469-8030) issues the bill and receives payment. A second collection counter operates on BJ Chain Drive in Olive Branch, handy if you live in the north end.</p><p>Mississippi requires a new valuation of real property at least every four years and of taxable personal property annually. The assessor does not have to go inside your home. Rates are not on a ballot for you. Each of the county, your city and the school district decides how much money it needs, and local officials combine that into the millage that lands on your statement.</p><table><caption>Mississippi property classes and assessment ratios</caption><thead><tr><th>Class</th><th>What it covers</th><th>Assessment ratio</th></tr></thead><tbody><tr><td>Class I</td><td>Single-family, owner-occupied home</td><td>10%</td></tr><tr><td>Class II</td><td>Other real property, such as rentals and land</td><td>15%</td></tr><tr><td>Class III</td><td>Business personal property</td><td>15%</td></tr><tr><td>Class IV</td><td>Public utility property</td><td>30%</td></tr><tr><td>Class V</td><td>Motor vehicles</td><td>30%</td></tr></tbody></table><p>Multiply true value by the class ratio, then by millage, and you have the tax. Because a rented house falls in Class II, a larger fraction of its value is taxed than for a home its owner lives in.</p>"
+   "html": "<p>DeSoto County property tax involves two desks at the same Hernando address. In Suite 100 of 365 Losher Street the Tax Assessor (662-469-8029) puts a value on every parcel. In Suite 110 the Tax Collector (662-469-8030) issues the bill and receives payment. A second collection counter operates on BJ Chain Drive in Olive Branch, handy if you live in the north end.</p><p>Mississippi requires a new valuation of real property at least every four years and of taxable personal property annually. The assessor does not have to go inside your home. Rates are not on a ballot for you. Each of the county, your city and the school district decides how much money it needs, and local officials combine that into the millage that lands on your statement.</p><table><caption>Mississippi property classes and assessment ratios</caption><thead><tr><th>Class</th><th>What it covers</th><th>Assessment ratio</th></tr></thead><tbody><tr><td>Class I</td><td>Single-family, owner-occupied home</td><td>10%</td></tr><tr><td>Class II</td><td>Other real property, such as rentals and land</td><td>15%</td></tr><tr><td>Class III</td><td>Business personal property</td><td>15%</td></tr><tr><td>Class IV</td><td>Public utility property</td><td>30%</td></tr><tr><td>Class V</td><td>Motor vehicles</td><td>30%</td></tr></tbody></table><p>Multiply true value by the class ratio, then by millage, and you have the tax. Because a rented house falls in Class II, a larger fraction of its value is taxed than for a home its owner lives in.</p>"
   },
   {
    "h2": "When the money is due",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "Selling with taxes owed",
-   "html": "<p>An open balance rarely stops a sale. The title company asks the collector for a payoff number and subtracts it from your proceeds at the closing table. If the parcel has already been sold at a tax sale, the redemption amount comes out too.</p><p>A few local snags come up again and again:</p><ul><li>Confirm that the name, mailing address and homestead status on the roll are current. A statement mailed to an old address is still owed.</li><li>An inherited house may carry unpaid tax or paperwork never recorded, and both must be fixed before the deed can move.</li><li>A tenant-occupied rental sits in Class II, with the higher ratio, which an investor buyer will notice.</li><li>A newer subdivision may be inside a city levy while a house outside the limits is not, so similar homes can see different bills.</li></ul><p>Selling for cash trims some of that, since the buyer takes the house as is and the closing date is yours to pick. The title still has to be clean, any mortgage paid off and the current year's tax settled on the closing statement.</p>"
+   "html": "<p>A tax balance seldom blocks a sale. Your title company gets the payoff from the collector and deducts it before handing you your check. When the parcel was already sold at a tax sale, the redemption sum is deducted as well.</p><p>Watch for these local snags:</p><ul><li>Confirm that the name, mailing address and homestead status on the roll are current. A statement mailed to an old address is still owed.</li><li>An inherited house may carry unpaid tax or paperwork never recorded, and both must be fixed before the deed can move.</li><li>A tenant-occupied rental sits in Class II, with the higher ratio, which an investor buyer will notice.</li><li>A newer subdivision may be inside a city levy while a house outside the limits is not, so similar homes can see different bills.</li></ul><p>Selling for cash trims some of that, since the buyer takes the house as is and the closing date is yours to pick. The title still has to be clean, any mortgage paid off and the current year's tax settled on the closing statement.</p>"
   },
   {
    "h2": "A quick way to find your balance",
@@ -37,11 +37,11 @@
  "faqs": [
   {
    "q": "When are DeSoto County property taxes due?",
-   "a": "By February 1 for property assessed the year before. A weekend or holiday on that date moves the penalty-free deadline to the next Monday."
+   "a": "February 1, covering property assessed the year before. If that day is a weekend or holiday, the following Monday still counts with no penalty."
   },
   {
    "q": "Where do I pay property tax in DeSoto County?",
-   "a": "The Tax Collector takes payment in Hernando at 365 Losher Street, Suite 110 (662-469-8030) and at the Olive Branch branch. Call ahead about hours and payment types."
+   "a": "Bring it to the Tax Collector at 365 Losher Street, Suite 110, Hernando, or the Olive Branch branch. The Hernando number is 662-469-8030, and it is smart to confirm hours and payment types first."
   },
   {
    "q": "How do I appeal my DeSoto County assessment?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "Can I sell a DeSoto County house with taxes owed?",
-   "a": "Yes. The title company asks for a payoff figure and pays the taxes from your proceeds at closing. A parcel already sold at a tax sale also needs its redemption amount settled."
+   "a": "Yes, and it happens often. The title company collects the payoff figure and pays the county from your sale proceeds. A parcel sold at a tax sale also has to have its redemption amount paid."
   },
   {
    "q": "Does DeSoto County have one school district?",
