@@ -2,67 +2,79 @@
  "slug": "volusia-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Who mails the bill in Volusia County?",
-   "html": "<p>The Volusia County Tax Collector mails and collects the bill, while the Volusia County Property Appraiser sets the value and decides exemptions. The collector's site adds that the appraiser sends the Notice of Proposed Taxes in August, which carries your values and the public hearing dates.</p><p>Millage rates come from a third group: the county council, the school board, city commissioners and other taxing bodies each set their own. A mill is a dollar of tax on each thousand dollars of value. The bill you receive is the sum of every body that levies on your parcel, so two houses in the same county can owe very different amounts.</p><p>If you pay through a mortgage escrow account, the lender normally requests the bill. The tax collector says escrow owners get an informational notice that the original went to the escrow trustee. A seller with escrow should still confirm the payoff figure before closing.</p>"
+   "h2": "How large is Volusia County, and who lives in its houses?",
+   "html": "<p>Land area in Volusia County is 1,101.31 square miles. The 2020 census found 553,543 people, against 494,593 ten years earlier, and the mid-2025 estimate of 606,573 sits 9.6 percent above the 2020 base. Age stands out: 27.3 percent of the population has passed 65, and 46,354 residents are veterans.</p><p>Across 241,881 households for 2020 to 2024, owners live in 73.7 percent of homes. The midpoint owner home is valued at $313,000 and gross rent at the midpoint is $1,467. Builders pulled 2,826 permits in 2025. Those figures come from <a href=\"https://www.census.gov/quickfacts/volusiacountyflorida\">Census QuickFacts</a>. With so many older owners and veterans, the exemption categories further down are worth reading before any sale.</p>"
   },
   {
-   "h2": "What discounts and due dates does Volusia County use?",
-   "html": "<p>Bills go out on or about November 1, and the cheapest time to pay is November. The tax collector lists the following schedule for payments postmarked or made in person or online.</p><table><caption>Volusia County tax collector payment schedule</caption><thead><tr><th>Period</th><th>What the tax collector page says</th></tr></thead><tbody><tr><td>November</td><td>4% discount; bills mailed on or about Nov. 1</td></tr><tr><td>December</td><td>3% discount</td></tr><tr><td>January</td><td>2% discount</td></tr><tr><td>February</td><td>1% discount</td></tr><tr><td>March</td><td>No discount; the final penalty-free day and the deferral filing cutoff</td></tr><tr><td>April 1</td><td>Taxes become delinquent and a 3% minimum charge is added</td></tr><tr><td>April 30</td><td>Deadline for new installment plan applications</td></tr></tbody></table><p>Source: <a href=\"https://www.vctaxcollector.org/taxes/due-dates-discounts-payment-options.html\">Volusia County Tax Collector, due dates and discounts</a>. A deadline that falls on a Saturday, Sunday or holiday rolls to the next working day for walk-in payments.</p>"
+   "h2": "How does a Volusia County parcel travel from value to bill?",
+   "html": "<p>Three hand-offs turn a parcel into a bill. The property appraiser sets value and decides exemptions, and the county council, school board, city commissions and other levying bodies choose millage. A mill is one dollar of tax on each thousand dollars of taxable value.</p><p>Once the appraiser finishes the roll and the Department of Revenue approves it, the appraiser certifies it to the tax collector, who mails each notice to the owner's last address of record. The collector also describes ad valorem tax as paid in arrears, because the year runs January 1 to December 31 and the bill arrives after it ends. You get one bill per parcel, following how the deed was recorded. The appraiser mails a Notice of Proposed Taxes in August, listing value and hearing dates.</p>"
   },
   {
-   "h2": "What happens if a Volusia County bill goes unpaid?",
-   "html": "<p>After April 1 the bill carries the 3% charge, and the amount due depends on the date the office receives the payment, not the postmark. If payment has not been received and processed by close of business on April 30, the account is advertised three times, in print or electronically and on LienHub, and an advertising and listing fee lands on the bill.</p><p>Next comes the tax certificate sale. Volusia County states that the tax collector holds it by June 1, and that it is currently conducted over the internet through LienHub. The certificate is a first lien on the property, not a sale of the land.</p><ul><li>The maximum interest a certificate buyer can collect is 18% a year, simple interest, and the minimum is 5% unless the bid is zero.</li><li>A certificate nobody bids on is issued to the county at 18%.</li><li>An owner redeems by paying the certificate amount plus the interest rate it sold at, counted from the month of the sale, and a $6.25 redemption fee applies from June 1 onward.</li><li>A certificate expires 7 years after the sale opens.</li></ul><p>The county page adds that certificate holders may not contact the owner to demand payment until two years after April 1 of the year the certificate was issued.</p>"
+   "h2": "What should a Volusia County owner do when a bill never arrives?",
+   "html": "<p>Ask for it. Section 197.122 puts three duties on the owner: know that tax is due each year, find out the amount, and pay before delinquency. A lost envelope is no defense.</p><p>The collector mails annual bills on or before November 1 and asks owners to call if nothing has come by the second week of the month. Installment participants get quarterly statements in June, September, December and March instead. A parcel whose taxes run through a lender escrow gets an informational notice saying the original went to the escrow trustee. After a move or a sale, update the mailing address on the appraiser's records, which the collector says the appraiser maintains along with the legal description.</p>"
   },
   {
-   "h2": "Can a Volusia County tax certificate lead to a tax deed sale?",
-   "html": "<p>Yes. If the certificate is not redeemed within two years of the delinquency date, the holder may apply for a tax deed. The tax collector's own example: 2020 taxes became delinquent April 1, 2021, so an application can be made after April 1, 2023.</p><p>The holder files through LienHub and must also clear other open certificates and taxes on the parcel. Running the tax deed sale falls to the circuit clerk, and the collector sends questions there (clerk.org). Statewide, the clerk holds a public auction where the successful bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater, per <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html\">s. 197.542</a>.</p><p>A homeowner who sees a certificate on the parcel has two clean choices: redeem it before an application is filed, or have the closing agent pay the redemption figure from sale proceeds. Get the exact payoff from the collector in writing.</p>"
+   "h2": "Which dates frame the Volusia County tax year?",
+   "html": "<p>The collector's own pages supply the calendar below. A deadline falling on a weekend or holiday moves a working day later for walk-in payments before 5 p.m. and online payments before 11:59 p.m. Eastern.</p><table><caption>Volusia County collector calendar</caption><thead><tr><th>Date</th><th>Event</th></tr></thead><tbody><tr><td>On or about Nov. 1</td><td>Bills mailed</td></tr><tr><td>March 31</td><td>Last penalty-free day, and the cutoff for a deferral application</td></tr><tr><td>April 1</td><td>Delinquent, with a 3 percent minimum charge</td></tr><tr><td>April 30</td><td>Advertising deadline and last day to apply for a new installment plan</td></tr><tr><td>Last business day of May, 4:30 p.m.</td><td>Cutoff to pay in an office and avoid a certificate</td></tr></tbody></table><p>Source: <a href=\"https://www.vctaxcollector.org/taxes/due-dates-discounts-payment-options.html\">Volusia County Tax Collector, important dates</a>. The 4, 3, 2 and 1 percent discounts run November through February; March carries none. A payment postmarked after April 1 is priced by the day the office receives it.</p>"
   },
   {
-   "h2": "What payment options help Volusia County owners who cannot pay in full?",
-   "html": "<p>Volusia County offers an installment plan, and a homestead deferral exists under state law. Both have deadlines that fall well before the bill is due, so they work only for owners who plan ahead.</p><ul><li><strong>Installments:</strong> available when the estimated tax exceeds $100, based on the prior year's gross tax. File Form DR-534 so it reaches the tax collector before May 1. Bills then come in June, September, December and March, and the first payment must be made by June 30 to stay in the plan without reapplying.</li><li><strong>Escrow warning:</strong> the office says owners with a mortgage escrow account should not use installments, because the lender pays in November for the maximum discount.</li><li><strong>Deferral:</strong> the March 31 date on the Volusia page matches the state rule that a homestead owner files Form DR-570 with the tax collector by March 31, and that the deferral covers the part of the tax above 5 percent of household income. The state spells out the formula on its <a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">taxpayer page</a>.</li></ul><p>The tax collector also has a partial payments page. Ask the office whether a partial payment is accepted before the delinquency date.</p>"
+   "h2": "How do installment payments work in Volusia County?",
+   "html": "<p>The plan is open to owners whose estimated tax tops $100, with the estimate taken from last year's gross tax. The Form DR-534 is available November 1 through April 30 and must reach the office at 123 W. Indiana Ave., Room 103, DeLand, before May 1.</p><p>Four quarterly statements follow. June and September amounts rest on the prior year's tax, and any change from new value or exemptions is trued up in December and March once the roll is certified. If the first payment is made by June 30, the owner does not reapply next year. Call the office if the first notice has not arrived by June 15. Anything still unpaid on April 1 is handled as a delinquent real estate tax. Mortgage borrowers should not enroll, since lenders must pay in November to earn the maximum discount.</p>"
   },
   {
-   "h2": "How do homestead and exemptions affect a Volusia County sale?",
-   "html": "<p>Homestead lowers the taxable value only for the owner who qualifies, and it ends with the sale. The Volusia County Property Appraiser lists homestead, senior, disability, veteran, widow or widower, granny flat, first responder, agricultural and several other categories on its exemptions page, and its records department takes questions by phone.</p><p>The state rules sit behind those categories. State guidance puts homestead at up to $50,000 in exemption, the first $25,000 reaching all taxes including school taxes and the second slice applying to assessed value over $50,000 for non-school taxes. Filing with the appraiser closes March 1, and the owner must have made the home a permanent residence by January 1, per its <a href=\"https://floridarevenue.com/property/Documents/pt113.pdf\">homestead guide</a>.</p><p>For a buyer, the sale resets the home to just value the following January 1. Under <a href=\"https://floridarevenue.com/property/Documents/pt112.pdf\">Save Our Homes guidance</a>, a change of ownership ends the capped assessment. That is why a seller's old bill rarely predicts what the new owner pays.</p>"
+   "h2": "Can a Volusia County owner make a partial payment?",
+   "html": "<p>Yes, before April 1, on real and business property, with a sworn affidavit mailed along with the check. A partial payment is anything below the full amount due.</p><ul><li>Installment accounts cannot use it.</li><li>No discount applies once an agreement with the collector exists.</li><li>Whatever remains unpaid on April 1 becomes delinquent and is due in full.</li><li>Taxes not paid in full at an office by 4:30 p.m. on the last business day of May lead to a certificate on the parcel.</li></ul>"
   },
   {
-   "h2": "Who pays the tax when a Volusia County house is sold?",
-   "html": "<p>The seller owes taxes through the day of closing in the usual contract, and the title company settles them from the proceeds. The tax year runs January to December and is paid after it ends, so a mid-year closing splits the year between the parties.</p><p>The county tax collector's page warns that owners carry the duty of knowing taxes are due even when a bill goes missing. That duty comes from s. 197.122, which charges owners with knowing taxes are due, finding the amount, and paying before delinquency. If you changed your mailing address, update it with the property appraiser so bills do not go to an old location.</p><p>Recording happens at the clerk's office. Deed stamps in Florida run 70 cents for every $100 of price, as shown on the <a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">Department of Revenue</a>, so Volusia County follows the standard rate. Ask your title agent who pays it under your contract.</p>"
+   "h2": "How does a tax certificate sale run in Volusia County?",
+   "html": "<p>The sale is held online through LienHub by June 1, and certificate information posts there in mid-May. Before it, a list of delinquent parcels is advertised once a week for three weeks, starting at the north end of the county and working south in parcel order. The paper lists more parcels than will sell, because payments arrive after the list is built.</p><p>Cost to a buyer covers the gross tax, a 3 percent fee, advertising and sale costs. A winning bid cannot exceed 18 percent simple interest and pays at least 5 percent unless bid at zero. Interest begins accruing the month after issue. A parcel with no bidder goes to the county at 18 percent.</p><p>To clear the lien, an owner pays the certificate amount plus the sold rate through the redemption month, and a $6.25 fee applies from June 1. The collector takes cash, a cashier's or certified check, a money order or a card. A certificate lasts seven years and can be sold between investors for a $2.25 recording fee. Buyers may not contact owners about payment until two years after April 1 of the issue year, and a buyer who does can be barred from the sale.</p>"
   },
   {
-   "h2": "What should a Volusia County seller with back taxes do first?",
-   "html": "<p>Get the payoff in writing, then decide whether to sell before April, during the advertising window, or after a certificate is issued. Each step adds cost, so earlier is cheaper.</p><ul><li>Look up the parcel on the tax collector's online search to see the balance and any certificate.</li><li>Call the tax collector for the figure good through your closing date.</li><li>Confirm homestead status with the property appraiser before the March 1 filing date if you are staying through the January 1 cutoff.</li><li>Ask the clerk about any tax deed application if a certificate is more than two years old.</li></ul><p>No matter who buys, any lien must be cleared at closing, so the amount comes out of your proceeds.</p>"
+   "h2": "What must a certificate holder do before Volusia County sets a tax deed sale?",
+   "html": "<p>After two years, a holder who wants a deed applies through LienHub, and one certificate is enough. The collector's example counts from taxes that went delinquent April 1, 2021, which allowed an application after April 1, 2023.</p><p>The applicant first pays the redemption amounts on all other certificates, any omitted or delinquent taxes, current taxes if due, and statutory fees including an application fee and a title search fee. The Clerk of the Circuit Court administers the auction itself, and the collector refers questions there. A homeowner who spots a certificate on the parcel can still redeem it with the collector before a sale takes place.</p>"
+  },
+  {
+   "h2": "Which exemption categories does the Volusia County appraiser list?",
+   "html": "<p>The appraiser's exemption page names twelve groupings and gives the records department's number, 386-736-5901, for questions.</p><ul><li>Homestead, senior, disability, veteran, and widow or widower.</li><li>Granny flat and first responder.</li><li>Religious, literary, charitable and educational property.</li><li>Conservation, economic development and historical.</li><li>Agricultural classification.</li></ul><p>Homestead is the largest. State guidance puts it at up to $50,000, with $25,000 reaching every levy and a second slice on assessed value over $50,000 that skips school taxes. Filing closes March 1, and the home must be a permanent residence on January 1, per the <a href=\"https://floridarevenue.com/property/Documents/pt113.pdf\">state homestead guide</a>. The benefit belongs to one owner. After a sale, the home returns to market value the next January 1.</p>"
+  },
+  {
+   "h2": "What should a Volusia County seller settle before closing?",
+   "html": "<p>Put the payoff in writing from the tax collector, with a figure good through closing. Because the year is paid in arrears, a closing in July leaves half the year's tax unbilled, and the contract decides who covers it.</p><p>Check the parcel's balance and any certificate on the collector's search first. Deed stamps cost seventy cents on each hundred dollars of price, per the <a href=\"https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx\">Department of Revenue</a>, and the contract should name who pays. If a tax deed application may exist on a certificate older than two years, ask the clerk as well.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Until what day can Volusia owners pay with no penalty?",
-   "a": "March 31 ends the penalty-free period, per the county collector, and April 1 brings a 3% minimum charge."
+   "a": "March 31. Weekend or holiday deadlines roll forward for in person and online payments, but the 3 percent charge starts April 1."
   },
   {
-   "q": "What discount does Volusia County give for early payment?",
-   "a": "4% in November, 3% in December, 2% in January, 1% in February and none in March, according to the Volusia County Tax Collector."
+   "q": "Is there a Volusia County discount if I pay in December?",
+   "a": "Yes, 3 percent. November pays 4 percent, January 2 percent, February 1 percent and March none."
   },
   {
-   "q": "Can I redeem a tax certificate on my Volusia County house?",
-   "a": "Yes. Pay the certificate amount, the interest rate it sold at counted from the month of sale, and a $6.25 fee that applies on or after June 1. Funds must be cash, cashier's check, certified check, money order or card."
+   "q": "Can I redeem a certificate on my Volusia County home by card?",
+   "a": "Yes. The collector takes cash, cashier's or certified checks, money orders and credit or debit cards, and the owner owes the rate bid at the sale."
   },
   {
-   "q": "How long before a Volusia County certificate can become a tax deed?",
-   "a": "Two years after delinquency. The holder applies through LienHub, and the circuit clerk then runs the public sale."
+   "q": "How soon can a Volusia County certificate become a deed application?",
+   "a": "After two years, counted from April 1 of the year the certificate was issued. The holder applies through LienHub."
   },
   {
-   "q": "Does the Volusia County installment plan have an application deadline?",
-   "a": "Yes. The application must reach the tax collector before May 1 of the tax year, and the first payment is due by June 30. The form is available November 1 to April 30."
+   "q": "Who should I call in Volusia County about exemptions?",
+   "a": "The property appraiser's records department at 386-736-5901. The collector handles bills, installments and deferral filings."
   }
  ],
  "sources": [
+  {
+   "title": "Census QuickFacts, Volusia County, Florida",
+   "url": "https://www.census.gov/quickfacts/volusiacountyflorida"
+  },
   {
    "title": "Volusia County Tax Collector, property taxes",
    "url": "https://www.vctaxcollector.org/taxes/"
   },
   {
-   "title": "Volusia County Tax Collector, due dates and discounts",
+   "title": "Volusia County Tax Collector, important dates",
    "url": "https://www.vctaxcollector.org/taxes/due-dates-discounts-payment-options.html"
   },
   {
@@ -70,7 +82,11 @@
    "url": "https://www.vctaxcollector.org/taxes/installment-options.html"
   },
   {
-   "title": "Volusia County Tax Collector, tax certificate information",
+   "title": "Volusia County Tax Collector, partial payments",
+   "url": "https://www.vctaxcollector.org/taxes/partial-payments.html"
+  },
+  {
+   "title": "Volusia County Tax Collector, tax certificates",
    "url": "https://www.vctaxcollector.org/taxes/tax-certificate-info.html"
   },
   {
@@ -78,24 +94,12 @@
    "url": "https://vcpa.vcgov.org/exemption"
   },
   {
-   "title": "Florida Department of Revenue, taxpayer information",
-   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
-  },
-  {
-   "title": "Florida Department of Revenue, homestead guide",
+   "title": "Florida DOR, homestead guide",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida Department of Revenue, Save Our Homes guide",
-   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
-  },
-  {
-   "title": "Florida Department of Revenue, documentary stamp tax",
+   "title": "Florida DOR, documentary stamp tax",
    "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
-  },
-  {
-   "title": "Florida Statutes s. 197.542",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html"
   }
  ]
 }
