@@ -2,46 +2,50 @@
  "slug": "pamlico-county-nc-property-tax-guide",
  "sections": [
   {
-   "h2": "Where is the Pamlico County Tax Office and how do you reach it?",
-   "html": "<p>Look for it inside the Pamlico County Courthouse, 202 Main Street, Bayboro, NC 28515. Letters go to Box 538 there, and the counter is staffed weekdays from eight until five.</p><p>One office does the work of both assessor and collector here. It lists property, sets values, records ownership changes and collects current and past-due tax. The county commissioners appoint the Tax Administrator. The office email is tax.office@pamlicocounty.org, and three direct lines split the work.</p><ul><li>Listing, for personal and business property: 252-745-3105</li><li>Collections and payment plans: 252-745-4125</li><li>Land Records: 252-745-3791</li><li>Fax: 252-745-4042</li></ul>"
+   "h2": "Tax Office location and phone numbers",
+   "html": "<p>The office is inside the Pamlico County Courthouse, 202 Main Street, Bayboro, NC 28515. Letters go to Box 538 there, and the counter is staffed weekdays from eight until five.</p>\n<p>One office does the work of both assessor and collector. It lists property, sets values, records ownership changes and collects current and past-due tax. The county commissioners appoint the Tax Administrator. The office email is tax.office@pamlicocounty.org, and three direct lines split the work.</p>\n<ul>\n<li>Listing, for personal and business property: 252-745-3105</li>\n<li>Collections and payment plans: 252-745-4125</li>\n<li>Land Records: 252-745-3791</li>\n<li>Fax: 252-745-4042</li>\n</ul>"
   },
   {
-   "h2": "What dates does the Pamlico County Tax Office publish each year?",
-   "html": "<p>Its key dates list runs from January to September, and most entries repeat annually. Ownership is fixed on January 1 and bills are due September 1.</p><ul><li>January 1: ownership is declared as of this date.</li><li>January 5: the deadline for paying with no interest.</li><li>January 31: listing period ends.</li><li>April: the Board of Equalization and Review begins hearing appeals.</li><li>May 31: the deadline to settle overdue tax before the newspaper ad.</li><li>June 1: final day for exemption and exclusion applications.</li><li>July: bills go out in the mail.</li><li>September 1: bills come due.</li></ul><p>After a missed January date the state adds 2% starting January 6, and from February 1 interest grows by three-fourths of one percent per month or part of one.</p>"
+   "h2": "Yearly tax calendar",
+   "html": "<p>The office's key dates run from January to September and repeat each year. Ownership is fixed on January 1 and bills are due September 1.</p>\n<ul>\n<li>January 1: ownership is declared as of this date.</li>\n<li>January 5: the deadline for paying with no interest.</li>\n<li>January 31: listing period ends.</li>\n<li>April: the Board of Equalization and Review begins hearing appeals.</li>\n<li>May 31: the deadline to settle overdue tax before the newspaper ad.</li>\n<li>June 1: final day for exemption and exclusion applications.</li>\n<li>July: bills go out in the mail.</li>\n<li>September 1: bills come due.</li>\n</ul>\n<p>After a missed January date the state adds 2% starting January 6, and from February 1 interest grows by three-fourths of one percent per month or part of one.</p>"
   },
   {
-   "h2": "When is the next Pamlico County reappraisal?",
-   "html": "<p>The office's own pages disagree, so ask. The last reappraisal took effect January 1, 2020. The About the Tax Office page names January 1, 2026 for the next, while the key dates list shows January 1, 2027. Call 252-745-3105 for the date that applies.</p><p>The county calls its schedule the Octennial Plan, after the state's eight-year limit. Values should track the market as of the last reappraisal date and are adjusted only at the next one. The assessor handles more than 17,000 real property parcels, plus business personal property, mobile homes and aircraft, and all of it must be valued by the same standard.</p>"
+   "h2": "When is the next reappraisal?",
+   "html": "<p>The last reappraisal took effect January 1, 2020. Call 252-745-3105 for the date of the next one.</p>\n<p>The county calls its schedule the Octennial Plan, after the state's eight-year limit. Values track the market as of the last reappraisal date and are adjusted only at the next one. The assessor handles more than 17,000 real property parcels, plus business personal property, mobile homes and aircraft, and all of it must be valued by the same standard.</p>"
   },
   {
-   "h2": "What are the Pamlico County property tax rates?",
-   "html": "<p>The county rate page lists 0.7000 for the county in 2026, against 0.645 in 2025. Town and fire district charges stack on that, which makes location decisive.</p><p>Pamlico County has 12 tax districts, and the money pays for schools, roads, police and fire protection. The county's worked example multiplies a $100,000 value by the town and fire rate per hundred dollars for a house in Bayboro in the Triangle Fire District. Call the Tax Office to confirm which rates apply to your parcel and whether the figures below are final for the year.</p><table><caption>Pamlico County rate page, selected entries for 2026 and 2025</caption><thead><tr><th>Jurisdiction</th><th>2026 as listed</th><th>2025 as listed</th></tr></thead><tbody><tr><td>County</td><td>0.7000</td><td>0.645</td></tr><tr><td>Bayboro</td><td>0.27</td><td>0.27</td></tr><tr><td>Oriental</td><td>0.23</td><td>0.22</td></tr><tr><td>Vandemere</td><td>0.23</td><td>0.23</td></tr><tr><td>Triangle Fire</td><td>0.0700</td><td>0.05</td></tr><tr><td>Reelsboro Fire</td><td>0.1130</td><td>0.0821</td></tr></tbody></table><p>Other towns on the page are Mesic, Minnesott, Stonewall, Grantsboro, Alliance and Arapahoe, which prints 0 for its town rate.</p>"
+   "h2": "Property tax rates",
+   "html": "<p>The county rate is 0.7000 for 2026, up from 0.645 in 2025. Town and fire district charges stack on that, which makes location decisive.</p>\n<p>Pamlico County has 12 tax districts, and the money pays for schools, roads, police and fire protection. The county's worked example multiplies a $100,000 value by the town and fire rate per hundred dollars for a house in Bayboro in the Triangle Fire District. Call the Tax Office to confirm which rates apply to your parcel.</p>\n<table>\n<caption>Selected Pamlico County rates, 2026 and 2025</caption>\n<thead><tr><th>Jurisdiction</th><th>2026 rate</th><th>2025 rate</th></tr></thead>\n<tbody>\n<tr><td>County</td><td>0.7000</td><td>0.645</td></tr>\n<tr><td>Bayboro</td><td>0.27</td><td>0.27</td></tr>\n<tr><td>Oriental</td><td>0.23</td><td>0.22</td></tr>\n<tr><td>Vandemere</td><td>0.23</td><td>0.23</td></tr>\n<tr><td>Triangle Fire</td><td>0.0700</td><td>0.05</td></tr>\n<tr><td>Reelsboro Fire</td><td>0.1130</td><td>0.0821</td></tr>\n</tbody>\n</table>\n<p>Other towns are Mesic, Minnesott, Stonewall, Grantsboro, Alliance and Arapahoe, which has a town rate of 0.</p>"
   },
   {
-   "h2": "Which Pamlico County rates differ between the 2025 and 2026 columns?",
-   "html": "<p>The county column moved from 0.645 to 0.7000, and most fire districts moved up as well. Town rates mostly held still.</p><ul><li>Grants/Slv. Hill Fire, as labeled: 0.08 in 2025, 0.1100 in 2026</li><li>Olympia Fire: 0.0760 in 2025, 0.1100 in 2026</li><li>Reelsboro Fire: 0.0821 in 2025, 0.1130 in 2026</li><li>FL / Whort Fire, as the county labels it: 0.0613 in 2025, 0.0810 in 2026</li><li>Goose Creek Island: 0.06 in 2025, 0.0700 in 2026</li><li>Bayboro and Vandemere town rates: unchanged at 0.27 and 0.23</li></ul><p>A house on Goose Creek Island, one near Reelsboro and one in Bayboro can therefore draw very different bills from the same county value. Ask for the rate sheet that matches your district before you estimate what a buyer will carry.</p>"
+   "h2": "Rate changes from 2025 to 2026",
+   "html": "<p>The county column moved from 0.645 to 0.7000, and most fire districts moved up as well. Town rates mostly held still.</p>\n<ul>\n<li>Grants/Slv. Hill Fire: 0.08 in 2025, 0.1100 in 2026</li>\n<li>Olympia Fire: 0.0760 in 2025, 0.1100 in 2026</li>\n<li>Reelsboro Fire: 0.0821 in 2025, 0.1130 in 2026</li>\n<li>FL / Whort Fire: 0.0613 in 2025, 0.0810 in 2026</li>\n<li>Goose Creek Island: 0.06 in 2025, 0.0700 in 2026</li>\n<li>Bayboro and Vandemere town rates: unchanged at 0.27 and 0.23</li>\n</ul>\n<p>A house on Goose Creek Island, one near Reelsboro and one in Bayboro can therefore draw very different bills from the same county value. Ask for the rate sheet that matches your district before you estimate what a buyer will carry.</p>"
   },
   {
-   "h2": "How does a Pamlico County owner contest a value?",
-   "html": "<p>Put the request for a hearing in writing and deliver it to the board's clerk before the panel adjourns. The Tax Administrator serves as that clerk, at P.O. Box 538, Bayboro, NC 28515.</p><p>For 2026 the board began on April 8, adjourned May 12 and set the filing cutoff at 5:00 p.m. on May 11, so that window is closed. The real estate appeal form on the county's forms page is marked for a January through May window. The owner must show that the value or location was wrong or that the property was taxed in error. A taxpayer who loses at the board can take it to the Property Tax Commission in Raleigh by sending written notice within a month of the mailing date, 30 days to be exact.</p>"
+   "h2": "How to contest a value",
+   "html": "<p>Put the request for a hearing in writing and deliver it to the board's clerk before the panel adjourns. The Tax Administrator serves as that clerk, at P.O. Box 538, Bayboro, NC 28515.</p>\n<p>The board meets in the spring, beginning in April and adjourning in May, and the county's real estate appeal form is marked for a January through May window. You must show that the value or location was wrong or that the property was taxed in error. A taxpayer who loses at the board can go to the Property Tax Commission in Raleigh by sending written notice within a month of the mailing date, 30 days to be exact.</p>"
   },
   {
-   "h2": "What property tax relief does Pamlico County have forms for?",
-   "html": "<p>The forms page carries applications and instructions for the elderly or disabled exclusion, the circuit breaker deferment and the disabled veterans exemption. It also has forms for present use value, a property tax exemption and a business property exemption.</p><ul><li>The state's income ceiling for the 2026 tax year is $38,800.</li><li>Under the elderly or disabled program, the larger of $25,000 and half the appraised value comes off the taxable amount.</li><li>For disabled veterans the first $45,000 of value is excluded, with no age or income test.</li><li>Circuit breaker owners pay at most 4.0% or 5.0% of income, based on how income compares with the ceiling, and the remainder is deferred.</li></ul><p>Applications must reach the office by June 1 on the county's calendar. Roughly a third of residents are 65 or over, so many owners are in range. Call the Listing line to ask for forms.</p>"
+   "h2": "Relief programs and forms",
+   "html": "<p>The forms page carries applications and instructions for the elderly or disabled exclusion, the circuit breaker deferment and the disabled veteran exemption. It also has forms for present use value, a property tax exemption and a business property exemption.</p>\n<ul>\n<li>The state's income ceiling for the 2026 tax year is $38,800.</li>\n<li>Under the elderly or disabled program, the larger of $25,000 and half the appraised value comes off the taxable amount.</li>\n<li>For a disabled veteran the first $45,000 of value is excluded, with no age or income test.</li>\n<li>Circuit breaker owners pay at most 4.0% or 5.0% of income, based on how income compares with the ceiling, and the remainder is deferred.</li>\n</ul>\n<p>Applications must reach the office by June 1. Call the Listing line to ask for forms.</p>"
   },
   {
-   "h2": "What becomes of the tax bill when a Pamlico County house sells?",
-   "html": "<p>It follows the parcel, so closing must clear it. The yearly tax becomes a lien when property is listed, and penalties, interest and costs ride along with it.</p><p>Before picking a closing date, call Collections at 252-745-4125 for the balance. Overdue accounts get advertised after May 31. Where the county forecloses, the sale happens at the courthouse door. The seller also pays the deed stamp tax, $1 for each $500, at the deeds office ahead of recording. A closing attorney usually collects both from the proceeds.</p>"
+   "h2": "Selling with the tax bill outstanding",
+   "html": "<p>The bill follows the parcel, so closing must clear it. The yearly tax becomes a lien when property is listed, and penalties, interest and costs ride along with it.</p>\n<p>Before picking a closing date, call Collections at 252-745-4125 for the balance. Overdue accounts get advertised after May 31. Where the county forecloses, the sale happens at the courthouse door. The seller also pays the deed stamp tax, $1 for each $500, at the deeds office ahead of recording. A closing attorney usually collects both from the proceeds.</p>\n<p>A cash sale skips lender underwriting and appraisal, but it does not skip the tax payoff. Ask for the balance in writing so the closing agent can pay it from your proceeds.</p>"
   },
   {
-   "h2": "How big and how old is Pamlico County, by the census?",
-   "html": "<p>This is a small, mostly owner-occupied county. Census staff count 12,758 residents in the 2025 estimate, 4.0% above the 2020 base, spread over 336.52 square miles of land.</p><p>Owners live in 82.9% of homes, and the middle value among them is $216,800. Median rent is $752. The county counts 5,456 households in 7,610 housing units. Residents 65 and over make up 34.9%. Median household income is $59,717 and 17.6% live below the poverty line. The rate page lists eight fire districts plus Goose Creek Island, so district lines weigh heavily on a bill. Building permits totaled 97 in 2025.</p>"
+   "h2": "Steps before you list",
+   "html": "<p>Start with the Land Records line at 252-745-3791 to confirm the parcel record matches your deed. Next ask Collections for the balance on every open year. Then check your district on the rate sheet so you know what a buyer will carry. If you receive an exclusion or deferment, ask the Listing line how a sale affects it, since circuit breaker owners repay deferred tax when they sell. Finally, hand the payoff figures to your closing attorney so they can be paid from proceeds.</p>\n<p>Taking these steps before the sign goes up avoids delays at the closing table, whether the buyer is using a loan or paying cash.</p>"
+  },
+  {
+   "h2": "Pamlico County housing context",
+   "html": "<p>Pamlico is a small, mostly owner-occupied county with an estimated 12,758 residents in 2025, 4.0% above 2020. Owners live in 82.9% of homes, and the middle value among them is $216,800. Median rent is $752. The county counts 5,456 households in 7,610 housing units, and building permits totaled 97 in 2025. District lines weigh heavily on a bill, since the rate page lists eight fire districts plus Goose Creek Island.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Pamlico County property taxes due?",
-   "a": "September 1. Mailing happens in July, and January 5 is the final interest-free day on the office calendar."
+   "a": "September 1. Mailing happens in July, and January 5 is the final interest-free day."
   },
   {
    "q": "Which number reaches the Pamlico County tax staff?",
@@ -49,15 +53,15 @@
   },
   {
    "q": "What is the Pamlico County tax rate?",
-   "a": "The rate page shows 0.7000 for the county in 2026, with separate town and fire district figures added on top. Call the office to confirm your parcel's combination."
+   "a": "The county rate is 0.7000 for 2026, with separate town and fire district figures added on top. Call the office to confirm your parcel's combination."
   },
   {
-   "q": "Can I still appeal my Pamlico County assessment?",
-   "a": "Not for 2026. The filing cutoff was 5:00 p.m. on May 11, and the board adjourned May 12. Ask the office about next year, since it lists April as the month the board opens."
+   "q": "When can I appeal my Pamlico County assessment?",
+   "a": "In spring. The Board of Equalization and Review opens in April, and the written request must reach the clerk before the board adjourns in May."
   },
   {
    "q": "What is the deadline for tax relief applications in Pamlico County?",
-   "a": "The county calendar closes exemption and exclusion applications on June 1. Use the Listing line, 252-745-3105, for forms."
+   "a": "June 1 for exemption and exclusion applications. Use the Listing line, 252-745-3105, for forms."
   }
  ],
  "sources": [
