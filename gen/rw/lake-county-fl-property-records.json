@@ -7,11 +7,11 @@
   },
   {
    "h2": "What are the Lake County recording fees?",
-   "html": "<p>The clerk's recording fee page prints $10.00 for page one of an instrument up to 8.5 by 14 inches and $8.50 for each additional page. Indexing adds $1.00 for each name over four.</p><table><caption>Lake County clerk official records fees as printed on the clerk's recording fee page</caption><thead><tr><th>Item</th><th>Fee</th></tr></thead><tbody><tr><td>Recording an instrument up to 8.5 by 14, first page</td><td>$10.00</td></tr><tr><td>Each additional page</td><td>$8.50</td></tr><tr><td>Each name over four</td><td>$1.00</td></tr><tr><td>Plat or exhibit larger than 8.5 by 14, first page</td><td>$30.00</td></tr><tr><td>Plat, each additional page</td><td>$15.00</td></tr><tr><td>Lis pendens, first page</td><td>$5.00</td></tr><tr><td>Lis pendens, each additional page</td><td>$4.00</td></tr><tr><td>Release of a lis pendens, first page</td><td>$10.00</td></tr><tr><td>Electronic certified copy, service fee</td><td>$6.00</td></tr><tr><td>Electronic certified copy, certification fee</td><td>$2.00</td></tr></tbody></table><p>The statute behind these amounts, section 28.24(13), sets a base of $5.00 for a first page and $4.00 for each added page, plus separate modernization and technology charges. The clerk's printed totals are the amounts to budget. The clerk's page also links a fee calculator for deeds and mortgages.</p>"
+   "html": "<p>The fee page lists $10.00 for page one of a standard-size instrument, then $8.50 a page. Indexing adds $1.00 for each name over four.</p><table><caption>Lake County clerk official records fees as printed on the clerk's recording fee page</caption><thead><tr><th>Item</th><th>Fee</th></tr></thead><tbody><tr><td>Recording an instrument up to 8.5 by 14, first page</td><td>$10.00</td></tr><tr><td>Each additional page</td><td>$8.50</td></tr><tr><td>Each name over four</td><td>$1.00</td></tr><tr><td>Plat or exhibit larger than 8.5 by 14, first page</td><td>$30.00</td></tr><tr><td>Plat, each additional page</td><td>$15.00</td></tr><tr><td>Lis pendens, first page</td><td>$5.00</td></tr><tr><td>Lis pendens, each additional page</td><td>$4.00</td></tr><tr><td>Release of a lis pendens, first page</td><td>$10.00</td></tr><tr><td>Electronic certified copy, service fee</td><td>$6.00</td></tr><tr><td>Electronic certified copy, certification fee</td><td>$2.00</td></tr></tbody></table><p>Section 28.24(13) of the statutes builds those totals from a $5.00 base and $4.00 for added pages, with modernization and technology charges stacked on. The clerk's printed totals are the amounts to budget. The clerk's page also links a fee calculator for deeds and mortgages.</p>"
   },
   {
    "h2": "What taxes does the clerk collect when a Lake County deed is recorded?",
-   "html": "<p>The clerk collects documentary stamp tax on the deed at recording. The clerk's page gives the deed rate as 70 cents per $100 of consideration or fraction thereof, with a minimum of 70 cents on deeds whose consideration is $100 or less.</p><p>Florida's Department of Revenue explains that all parties to a document are liable for the tax whichever one agrees to pay, and that deeds are taxable whether recorded or not. A personal representative's deed under a probated will is listed as not taxable, while quit claim and special warranty deeds, contracts for deed and deeds in lieu of foreclosure are listed as taxable.</p><p>Mortgages carry two charges at recording, according to the clerk's page: documentary stamps of 35 cents per $100 on the promise to pay, and a one-time intangible tax of 2 mills, which is .002 per $1. A seller using a cash buyer with no new loan usually sees only the deed stamps, so ask the title company what is being recorded.</p>"
+   "html": "<p>The clerk collects documentary stamp tax on the deed at recording. The clerk's page gives the deed rate as 70 cents per $100 of consideration or fraction thereof, with a minimum of 70 cents on deeds whose consideration is $100 or less.</p><p>The state revenue department says the tax follows every party to the document, and a deed owes it even if never recorded. The state's list treats an estate representative's deed under a probated will as not taxable, but quit claim deeds, contracts for deed and deeds in lieu are taxable.</p><p>Mortgages carry two charges at recording, according to the clerk's page: documentary stamps of 35 cents per $100 on the promise to pay, and a one-time intangible tax of 2 mills, which is .002 per $1. A cash sale with no new loan usually records just the deed, so ask the title company what is going on the record.</p>"
   },
   {
    "h2": "What is the process to file a document in Lake County?",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "Can a Lake County owner watch for fraudulent deeds?",
-   "html": "<p>Yes. The Property Appraiser's home page describes a free Clerk of the Court service that sends an email when a document is recorded under a monitored name, and it allows up to five names for each registered email address.</p><p>The page notes that scammers file false deeds to look like owners and then collect money for rentals or sales. Owners of vacant, inherited or out-of-state houses are the most exposed, because nobody is watching the mailbox. Sign up through the clerk's recording notification service, and check the Official Records search yourself now and then for your surname.</p><p>Recording order matters. The clerk records documents in the order received, so a deed and the mortgage that funds it should arrive together, and the closing agent usually sends them the same day.</p>"
+   "html": "<p>Yes. A free clerk service emails you when anything is recorded under a name you list, and the appraiser's home page says each address can watch five names.</p><p>The page notes that scammers file false deeds to look like owners and then collect money for rentals or sales. Owners of vacant, inherited or out-of-state houses are the most exposed, because nobody is watching the mailbox. Sign up through the clerk's recording notification service, and check the Official Records search yourself now and then for your surname.</p><p>Recording order matters. The clerk records documents in the order received, so a deed and the mortgage that funds it should arrive together, and the closing agent usually sends them the same day.</p>"
   },
   {
    "h2": "What should a Lake County seller check in the records before listing?",
@@ -27,17 +27,17 @@
   },
   {
    "h2": "How do lis pendens and foreclosure show up in Lake County records?",
-   "html": "<p>A foreclosure lawsuit announces itself in the Official Records through a lis pendens, which the clerk records for $5.00 on the first page and $4.00 for each added page. Release of one costs $10.00 and $8.50 under the clerk's fee page.</p><p>Under Florida's statute for judicial sales, a final judgment directs the clerk to sell the property at public sale not less than 20 days or more than 35 days after judgment unless the plaintiff agrees to longer. Notice runs for two consecutive weeks, and the high bidder leaves a 5 percent deposit. Lake County's clerk keeps a foreclosure sales calendar on its site, which is the place to confirm any sale date. A homeowner who sees a lis pendens against the house should talk to a Florida attorney and can still sell before the sale if the payoff is covered.</p>"
+   "html": "<p>A foreclosure suit shows up in the Official Records as a lis pendens, priced at $5.00 for page one and $4.00 after. Release of one costs $10.00 and $8.50 under the clerk's fee page.</p><p>State law puts the public sale between 20 and 35 days after a final judgment unless the plaintiff consents to longer. The sale notice runs two weeks in a row, and the winning bidder leaves a deposit. Lake County's clerk keeps a foreclosure sales calendar on its site, which is the place to confirm any sale date. A homeowner who sees a lis pendens against the house should talk to a Florida attorney and can still sell before the sale if the payoff is covered.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Does the Lake County clerk record deeds?",
-   "a": "Yes. The clerk of the circuit court is the county recorder and keeps deeds, mortgages, liens and other instruments in the Official Records. Recording happens in the clerk's Recording Section."
+   "a": "Yes. The clerk acts as county recorder, so deeds, mortgages and liens all end up in the Official Records. Recording happens in the clerk's Recording Section."
   },
   {
    "q": "What will a deed cost to file in Lake County?",
-   "a": "Page one is $10.00 and later pages are $8.50 each, with $1.00 added per name past the fourth. Documentary stamp tax on the deed is separate, at 70 cents per $100 of consideration."
+   "a": "Page one is $10.00 and later pages are $8.50 each, with $1.00 added per name past the fourth. Deed stamps are a separate charge."
   },
   {
    "q": "How long does Lake County recording take?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "Is there a free alert for new documents on my Lake County property?",
-   "a": "Yes. The Clerk of the Court offers a free email notice when a document is recorded under a monitored name, with up to five names per email address, as described on the Property Appraiser's home page."
+   "a": "Yes. Yes. A free email alert fires when a document is recorded under a name you monitor, and five names fit on one address."
   }
  ],
  "sources": [

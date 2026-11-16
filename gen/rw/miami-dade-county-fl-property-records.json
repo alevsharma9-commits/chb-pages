@@ -14,8 +14,20 @@
    "html": "<p>Most documents cost $10 for the first page and $8.50 for each additional page. A lis pendens costs $5 for the first page and $4 for each additional page.</p><table><caption>Miami-Dade clerk fee list for recording and copies</caption><thead><tr><th>Service</th><th>Fee</th></tr></thead><tbody><tr><td>Recording, first page</td><td>$10</td></tr><tr><td>Recording, each added page</td><td>$8.50</td></tr><tr><td>Plat or map, first page</td><td>$35</td></tr><tr><td>Plat or map, each added page</td><td>$19.50</td></tr><tr><td>Indexing, each name over 4</td><td>$1</td></tr><tr><td>Copy, per page</td><td>$1</td></tr><tr><td>Certification</td><td>$2</td></tr></tbody></table><p>Source: <a href=\"https://www.miamidadeclerk.gov/clerk/official-records.page\">Miami-Dade Clerk, Official Records page</a>.</p>"
   },
   {
+   "h2": "How do the state fee rules compare with the clerk's list?",
+   "html": "<p>Florida's clerk fee statute lists $5.00 for the first page and $4.00 for each added page of an instrument up to 14 by 8.5 inches, plus $1.00 for each name beyond four. It adds a $1.00 modernization charge on the first page and $0.50 on later pages, and an extra $4 per page for technology.</p><p>Plats cost $30.00 for the first page and $15.00 for each added page under the statute, and processing a tax deed application costs $60.00. The Miami-Dade clerk lists its own all-in figures, which is why the county's first-page fee reads $10.</p><p>Quote the clerk's current schedule to your title agent rather than adding statute lines yourself.</p>"
+  },
+  {
    "h2": "How much documentary stamp tax applies to a deed?",
    "html": "<p>The clerk prints deed stamps at 60 cents per $100 of consideration, rounded up to the next hundred. Florida's revenue department confirms that Miami-Dade is the one county that uses 60 cents instead of the standard 70.</p><p>A separate surtax of 45 cents per $100 applies to transfers of real property other than a single-family residence. Mortgages pay 35 cents per $100 of the note, plus intangible tax of $2 per $1,000.</p><p>All parties to a deed are liable for the tax under state rules, regardless of who agrees to pay. Your contract with the buyer sets the practical split.</p>"
+  },
+  {
+   "h2": "What goes on a mortgage, satisfaction or lien filing?",
+   "html": "<p>A mortgage must be original, signed and notarized, with a copy of the note attached or the note amount written on the face. It needs addresses for lender and borrower and a Prepared By line.</p><ul><li>A satisfaction or release needs the book and page of the mortgage, the holder's signature and a notarized acknowledgement.</li><li>An assignment of mortgage needs the book and page, the assignor's signature and a notary.</li><li>A construction lien needs the lienor's signature, a notary and a legal description or property address.</li></ul><p>A seller paying off a loan should confirm the satisfaction is recorded, then search the Official Records to see it indexed.</p>"
+  },
+  {
+   "h2": "How do special deeds and court sales show up in Miami-Dade records?",
+   "html": "<p>A quit claim deed, a deed in lieu of foreclosure and a contract for deed are all on the revenue department's list of taxable documents. A personal representative's deed under a probated will is listed as not taxable.</p><p>A foreclosure certificate of title is taxed on the highest and best bid. A lis pendens is the clerk's first sign that a foreclosure suit is pending, and it records at $5 for the first page.</p><p>Any buyer or seller in a distressed transfer should pull the title record before signing so every lien is in view.</p>"
   },
   {
    "h2": "What must a Miami-Dade deed include to be accepted?",
@@ -28,6 +40,10 @@
   {
    "h2": "Can I remove a Social Security number from a public record?",
    "html": "<p>Yes. The clerk lets you request redaction of Social Security, bank account and credit card numbers from documents that are available online, using its online redaction form with the file number or book and page.</p><p>People covered by Chapter 119 exemptions can file a confidentiality request, in person or online. Party names stay in the index unless the name includes a street address, as in some trusts or LLCs.</p>"
+  },
+  {
+   "h2": "How does the county's size affect recording and searching?",
+   "html": "<p>Miami-Dade has 975,411 households and 1,125,274 housing units, and Census data show 88.0 percent of residents lived in the same house a year earlier. The county issued 16,535 building permits in 2025.</p><p>A county that large produces a heavy filing load, so a clean document matters. Missing a witness address or notary block is the most common reason to expect a rejection, and the clerk states it cannot guarantee same-day recording.</p><p>Search by every spelling of a name, and add the folio number when you have it, since the clerk encourages including it.</p>"
   }
  ],
  "faqs": [
@@ -37,15 +53,15 @@
   },
   {
    "q": "How much is the recording fee for a Miami-Dade deed?",
-   "a": "The clerk lists $10 for the first page and $8.50 for each additional page, before documentary stamps. Statute section 28.24(13) sets a lower base of $5.00 and $4.00 per page and lets the clerk add other charges."
+   "a": "The clerk lists $10 for the first page and $8.50 for each additional page, before documentary stamps. Statute section 28.24(13) prints a base of $5.00 and $4.00 per page and allows other charges on top, so use the clerk's list."
   },
   {
    "q": "Does Miami-Dade charge a deed surtax on a house?",
    "a": "The 45 cents per $100 surtax applies to real property other than a single-family residence, so a deed for only a single-family home does not carry it."
   },
   {
-   "q": "Is a recorded deed necessary to protect a buyer?",
-   "a": "Yes. Under section 695.01, a conveyance is not good against later purchasers without notice or against creditors unless recorded."
+   "q": "Do I have to record a deed after a sale?",
+   "a": "Recording is how the buyer gets public notice of the transfer. Ask the title agent to record promptly, and search Official Records afterward to confirm the deed appears."
   },
   {
    "q": "How long does eRecording take in Miami-Dade?",

@@ -15,19 +15,35 @@
   },
   {
    "h2": "What are the millage rates across Miami-Dade municipalities?",
-   "html": "<p>Rates differ a lot by city. The 2026 adopted chart lists totals from 14.9007 on one North Miami Beach line up to 24.1893 for Biscayne Park, while unincorporated areas total 16.8983.</p><p>Examples from the chart: Miami totals 19.9544, Miami Beach 18.6681, Coral Gables 18.1518, Hialeah 18.6134 and Doral 16.9487. Two cities have no school-district-style extra line printed, so read each row on its own.</p><p>Always use the chart row for your actual taxing area. Our city pages cover <a href=\"https://cashhomebuyersca.com/miami-fl-property-tax-guide/\">Miami</a> and <a href=\"https://cashhomebuyersca.com/miami-beach-fl-property-tax-guide/\">Miami Beach</a> in more detail.</p>"
+   "html": "<p>Rates differ a lot by city. The 2026 adopted chart lists totals from 14.9007 on one North Miami Beach line up to 24.1893 for Biscayne Park, while unincorporated areas total 16.8983.</p><p>Examples from the chart: Miami totals 19.9544, Miami Beach 18.6681, Coral Gables 18.1518, Hialeah 18.6134 and Doral 16.9487. Some rows carry extra debt or district lines, so read each row on its own.</p><p>Always use the chart row for your actual taxing area. Our city pages cover <a href=\"https://cashhomebuyersca.com/miami-fl-property-tax-guide/\">Miami</a> and <a href=\"https://cashhomebuyersca.com/miami-beach-fl-property-tax-guide/\">Miami Beach</a> in more detail.</p>"
+  },
+  {
+   "h2": "What does the Miami-Dade economy add to the tax base?",
+   "html": "<p>Census figures for 2023 count 98,394 employer establishments employing 1,055,440 people, with total annual payroll of about $71.6 billion. Employment grew 4.6 percent from 2022 to 2023.</p><p>Retail sales reached about $67.1 billion in 2022, accommodation and food services about $15.4 billion, health care and social assistance about $30.3 billion and transportation and warehousing about $38.5 billion. Building permits for 2025 numbered 16,535.</p><p>Business property is taxed too. Tangible personal property owners file Form DR-405 by April 1, and the appraiser runs a searchable tangible personal property tool by business name, address or folio.</p>"
   },
   {
    "h2": "When are Miami-Dade property taxes due?",
    "html": "<p>Bills go out in November, and the discount ladder runs 4 percent in November, 3 in December, 2 in January and 1 in February. State law makes unpaid bills delinquent on April 1.</p><ul><li>The Department of Revenue says the Notice of Proposed Property Taxes arrives in August.</li><li>A value challenge is filed with the clerk within 25 days of that notice.</li><li>Denial of an exemption can be petitioned to the Value Adjustment Board within 30 days of the denial letter being mailed.</li><li>Installment prepayment requests go to the tax collector by May 1.</li></ul>"
   },
   {
+   "h2": "How do Miami-Dade tax certificates and tax deeds work?",
+   "html": "<p>On unpaid bills, the tax collector sells a tax certificate to the bidder who accepts the lowest interest rate, in quarter-percent steps. Certificates nobody wants are struck to the county at the maximum rate. Sales must be complete by June 1.</p><p>A homestead property with less than $250 delinquent goes to the county and not to auction. The collector keeps a 5 percent commission on certificates.</p><ul><li>The holder may not demand payment from the owner until two years after April 1 of the issue year.</li><li>A tax deed application carries a $75 fee.</li><li>Auction deposits are 5 percent of the bid or $200, whichever is greater, and the balance is due within 24 hours, excluding weekends and holidays.</li></ul><p>The tax collector's online service lets you search for tax certificate sale information, and the clerk runs the deed auction.</p>"
+  },
+  {
+   "h2": "How do Miami-Dade counties and cities share growth caps?",
+   "html": "<p>State law limits non-homestead assessed value growth to 10 percent each year. Taxing authorities also face a revenue growth cap tied to Florida per capita personal income growth plus new construction, unless a super-majority, unanimous vote or referendum overrides it.</p><p>Final millage comes from public hearings. Taxing authorities hold hearings on tentative budgets in September and October and on final budgets in October and November. That is the reason the final rates appear on the county chart only after the TRIM notice.</p>"
+  },
+  {
    "h2": "What relief programs exist for Miami-Dade homeowners?",
    "html": "<p>The standard homestead exemption is up to $50,000, filed with the appraiser by March 1. Seniors 65 and older may receive an additional exemption of up to $50,000 if a local ordinance allows it and household income is within the limit.</p><p>Veterans have several paths. A disabled ex-servicemember with a 10 percent or greater rating gets a $5,000 reduction, and a veteran 65 or older with a permanent service-connected disability may receive a discount equal to the VA percentage.</p><p>Deferral is also available. File Form DR-570 with the tax collector by March 31 to defer taxes above 5 percent of household income, or 3 percent for a permanent resident 65 or older.</p>"
   },
   {
+   "h2": "What else can the property appraiser's office do for me?",
+   "html": "<p>The appraiser now accepts widow(er) exemption and veteran disability exemption filings online, plus agricultural classification applications on form MD-482 with uploaded documents. In-person visits can be booked online to skip the line.</p><p>The office also runs a property tax estimator and a hotline for suspected homestead fraud at 305-375-3402. The clerk offers a free alert that emails you within 24 hours if a deed or mortgage is recorded in your name.</p>"
+  },
+  {
    "h2": "How are taxes handled when a Miami-Dade house sells?",
-   "html": "<p>The title agent gets a payoff from the tax collector and pays the year's tax from the seller's proceeds. Taxes are prorated between buyer and seller by the contract date.</p><p>Deed stamps in this county run 60 cents per $100 plus a 45 cents per $100 surtax that the state revenue department says does not apply to a document transferring only a single-family dwelling. The clerk collects these when the deed is recorded.</p>"
+   "html": "<p>The title agent gets a payoff from the tax collector and pays the year's tax from the seller's proceeds. Your contract decides how the year's tax is split between buyer and seller.</p><p>Deed stamps in this county run 60 cents per $100 plus a 45 cents per $100 surtax that the state revenue department says does not apply to a document transferring only a single-family dwelling. The clerk collects these when the deed is recorded.</p>"
   }
  ],
  "faqs": [

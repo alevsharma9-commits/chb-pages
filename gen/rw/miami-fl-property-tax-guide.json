@@ -7,7 +7,15 @@
   },
   {
    "h2": "What does the 2026 adopted millage chart show for Miami?",
-   "html": "<p>The chart lists Miami at 7.1080 mills for city operations and 0.2536 for city debt service, for a total of 19.9544 mills. The county prints the title as 2026 adopted millage rates.</p><p>A separate line for the downtown development area adds 0.3800 and totals 20.3344. If your house is inside that boundary, your total is the second figure.</p><ul><li>Check the parcel on the appraiser's site to see which line applies.</li><li>City mills are the largest single local piece of the 2026 Miami total in the chart, apart from the school line, which is printed separately.</li><li>One mill equals one dollar of tax per thousand dollars of taxable value.</li></ul>"
+   "html": "<p>The chart lists Miami at 7.1080 mills for city operations and 0.2536 for city debt service, for a total of 19.9544 mills. The county prints the title as 2026 adopted millage rates.</p><p>A separate line for the downtown development area adds 0.3800 and totals 20.3344. If your house is inside that boundary, your total is the second figure.</p><ul><li>Check the parcel on the appraiser's site to see which line applies.</li><li>Miami's city line is higher than Coral Gables at 5.5590 and Miami Beach at 5.8060, so owners here carry more city mills than in either neighbor.</li><li>One mill equals one dollar of tax per thousand dollars of taxable value.</li></ul>"
+  },
+  {
+   "h2": "How does Miami compare with nearby municipalities on the chart?",
+   "html": "<p>Miami's total of 19.9544 mills is higher than Miami Beach at 18.6681, Coral Gables at 18.1518 and Hialeah at 18.6134. It is lower than Miami Gardens at 22.3393 and North Miami at 22.1081.</p><p>The spread comes almost entirely from the city line. Every row shares the same countywide, school and regional pieces, so moving across a city boundary changes the bill mainly through the municipal mills.</p><p>For a seller, that gap matters when buyers compare a Miami house against one a few miles away. Ask the title agent to show the exact folio total on the 2026 bill.</p>"
+  },
+  {
+   "h2": "What do Census numbers say about the size and economy of Miami?",
+   "html": "<p>The 2020 Census count was 442,241 people, up from 399,457 in 2010, and the city packs 12,285.8 people into each square mile. About 77.2 percent of residents age 5 and over speak a language other than English at home.</p><ul><li>Veterans number 7,305.</li><li>Mean commute is 27.3 minutes.</li><li>Education: 81.3 percent of adults hold a high school diploma, and 37.4 percent hold a bachelor's degree or higher.</li><li>2022 sales: transportation and warehousing receipts were about $17.0 billion, health care and social assistance about $8.7 billion, and retail about $13.2 billion.</li></ul><p>Those numbers show a city with a large port and healthcare base, which supports demand across many price levels.</p>"
   },
   {
    "h2": "What do Census figures say about homes in Miami?",
@@ -22,8 +30,16 @@
    "html": "<p>File Form DR-501 with the county property appraiser by March 1, and the home must be your permanent residence on January 1. The appraiser now takes widow(er) and veteran disability exemption filings online as well.</p><p>Homestead protects up to $50,000 of value in the way the state describes: the first $25,000 for all taxes, and an additional amount for non-school taxes only. The Save Our Homes limit then holds yearly growth to the lower of 3 percent or CPI.</p><p>If you rent the house, the exemption is lost. A servicemember is the narrow exception under state law.</p>"
   },
   {
+   "h2": "Can I move my Save Our Homes benefit when I leave a Miami house?",
+   "html": "<p>Possibly. Portability lets you carry assessment savings to a new Florida homestead if you establish it within three years of January 1 of the year you abandoned the old one. You file Form DR-501T with the DR-501 by March 1.</p><p>Without portability, a sale resets the buyer's assessed value to just value the next January 1. The state names exceptions for transfers between spouses and certain transfers at death.</p><p>If the bill is hard to pay, the tax collector handles deferral applications on Form DR-570 by March 31 and installment requests by May 1.</p>"
+  },
+  {
    "h2": "What if I owe back taxes on a Miami house?",
    "html": "<p>Unpaid taxes become delinquent on April 1, and the tax collector then sells a certificate on the debt. State law lets the sale of certificates run by June 1.</p><ul><li>The certificate holder cannot press you for payment until two years after April 1 of the issue year.</li><li>After that waiting period, the holder may file for a tax deed with a $75 application fee.</li><li>Opening bids on homestead property include one half of the latest assessed value.</li></ul><p>The title company pays the lien from sale proceeds, so a Miami seller with back taxes can still close. Ask the tax collector for a payoff figure well before the closing date.</p>"
+  },
+  {
+   "h2": "What does a tax deed sale mean for a Miami owner?",
+   "html": "<p>If a certificate stays unpaid, the holder may apply for a tax deed two years after April 1 of the issue year. The clerk then runs a public auction, and the high bidder posts a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater.</p><p>The tax collector lists the people who must be noticed: the titleholder, lienholders, mortgagees and contract-for-deed vendees. If no one bids, the land goes on a list of lands available for taxes. The county then has 90 days to buy at the opening bid.</p><p>A Miami owner who is behind should talk to the tax collector long before an auction is set, since selling the house normally clears the lien at closing.</p>"
   },
   {
    "h2": "Where do Miami deeds get recorded?",
