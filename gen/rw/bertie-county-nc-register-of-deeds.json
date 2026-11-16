@@ -1,30 +1,105 @@
-{"slug": "bertie-county-nc-register-of-deeds", "sections": [
-{"h2": "Where is the Bertie County Register of Deeds and when is it open?", "html": "<p>The office sits on the first floor of the Bertie County courthouse at the corner of King and Dundee streets in Windsor. The physical address is 108 Dundee Street, Windsor, NC 27983, and the mailing address is PO Box 340 at the same ZIP code.</p><p>The county lists office hours of 8:30 a.m. to 5:00 p.m., but recording hours run only from 8:30 a.m. to 4:30 p.m. daily, so a deed that arrives at 4:45 waits until the next morning. The phone number is (252) 794-5309 and the fax is (252) 794-5374. Holidays and bad weather can close the office.</p><p>The office now accepts electronic real estate recordings, which closing attorneys often use instead of carrying paper to Windsor. Visitors can stop by during office hours.</p>"},
-{"h2": "What does the Bertie County Register of Deeds record and keep?", "html": "<p>The register is the custodian of deeds, deeds of trust, powers of attorney, assumed names, plats, maps and military discharge records for the county. North Carolina voters elect the register every two years, and the office works under Chapter 161 of the General Statutes.</p><p>Recording is what protects a buyer. Under G.S. 47-18, a conveyance, option, lease of more than three years or right of first refusal does not bind lien creditors or purchasers for value until it is registered in the county where the land lies, and priority follows the order of registration by time. A signed deed that sits in a drawer gives the buyer very little protection.</p><ul><li>Real estate records can be searched online from 1977 forward, or by book number starting at Book 600.</li><li>The earliest land and grant transactions on file go back to 1722.</li><li>Records are indexed by name only, so the office cannot tell you who owns a street address.</li><li>For an owner lookup by address, call the county tax assessor's mapping line at (252) 794-5311.</li></ul>"},
-{"h2": "What does it cost to record a deed in Bertie County?", "html": "<p>Recording fees are the same in every North Carolina county. A standard instrument costs $26.00 for the first 15 pages and $4.00 for each additional page, and a deed of trust or mortgage costs $64.00 for the first 35 pages plus $4.00 for each page after that.</p><table><caption>Bertie County Register of Deeds uniform fee schedule under G.S. 161-10 (county fee page)</caption><thead><tr><th>Item</th><th>Fee</th></tr></thead><tbody><tr><td>Instrument other than a deed of trust or mortgage</td><td>$26.00 first 15 pages, $4.00 each added page</td></tr><tr><td>Deed of trust or mortgage</td><td>$64.00 first 35 pages, $4.00 each added page</td></tr><tr><td>Extra instrument in the same document</td><td>$10.00</td></tr><tr><td>Non-standard document</td><td>$25.00 plus the recording fee</td></tr><tr><td>Satisfaction or cancellation</td><td>No fee</td></tr><tr><td>Plat</td><td>$21.00 per sheet</td></tr><tr><td>Certified copy</td><td>$5.00 first page, $2.00 each added page</td></tr><tr><td>Plain copies</td><td>$.20 per page</td></tr></tbody></table><p>The statute calls these fees complete and exclusive, and they are collected before the document is filed. Call the office at (252) 794-5309 if a document has unusual page counts or multiple instruments.</p>"},
-{"h2": "How much is the transfer tax on a Bertie County deed?", "html": "<p>The state excise tax is $1.00 on each $500, or fraction of $500, of the price or value conveyed. The seller, whom the statute calls the transferor, pays it to the register of deeds before the deed is recorded, normally out of closing proceeds.</p><p>The tax is split on receipt: half stays in the county general fund and half goes to the Department of Revenue each month, less refunds and the county's allowance. A parcel that lies in two counties is taxed in the county that holds the greater value. Ask the closing attorney for the exact figure from the sale price on the settlement statement, because the rounding rule for each $500 matters.</p>"},
-{"h2": "What recording rules apply only in Bertie County?", "html": "<p>Bertie County has used a recording resolution since June 1, 1991, under G.S. 161-30. The register may not accept any map or instrument affecting real property unless the name and address of the person to receive it back is on its face, and the grantee's permanent mailing address is also on its face.</p><p>The statewide document standards also apply, and the office prints them for filers. Pages must be 8-1/2 by 11 or 8-1/2 by 14, with a 3 inch blank margin at the top of the first page and a half inch margin on the other sides, black type on white paper, text of at least 9 points on one side only, and the type of instrument shown at the top below the margin. A document that misses a standard is still recorded after a $25.00 non-standard fee, although the register may waive that fee for a slightly small font when the text is legible.</p><p>A short checklist before you send a deed to Windsor:</p><ul><li>Return address and grantee mailing address on the first page</li><li>Deed signed and notarized</li><li>Margin and font standards met</li><li>Recording fee and excise tax ready to pay</li></ul>"},
-{"h2": "How do you change names on a Bertie County deed?", "html": "<p>You prepare a new deed. The register's FAQ says a new deed must be drafted by an attorney, signed and notarized, then presented for recording with the fee.</p><p>The same rule covers a sale, a gift and a transfer after a death. A contract for deed, also called a land contract, has its own recording step in Chapter 47H: the seller must record the contract or a memorandum of it within five business days. Where a seller keeps title under such a contract, a buyer can cancel until midnight of the third business day after signing.</p><p>If a lender has been paid off, ask for a satisfaction of the deed of trust and have it recorded. The county does not charge for recording satisfactions, and a clean record keeps a sale from stalling at the title check.</p>"},
-{"h2": "How does the register of deeds fit into a Bertie County sale?", "html": "<p>The closing attorney or title agent searches the register's records, records the new deed and any new deed of trust, and pays the excise tax out of the settlement. A seller does not file anything personally in most sales. Census QuickFacts counts 9,116 housing units in Bertie County for July 2025, and every deed for those parcels, from a small Windsor lot to a rural farm tract, is recorded in the single courthouse office on Dundee Street.</p><p>Unpaid property taxes are the one record problem that surfaces outside the register's office. They are a lien on the parcel and must be cleared with the tax collector; see our <a href='https://cashhomebuyersca.com/bertie-county-nc-property-tax-guide/'>Bertie County property tax guide</a> for due dates, relief programs and appeals. Title problems from older instruments, such as an unreleased deed of trust or an estate that was never opened, are fixed by recording the missing paper before closing, and the register's long records back to 1722 help trace them.</p>"}
+{
+"slug": "bertie-county-nc-register-of-deeds",
+"sections": [
+{
+"h2": "Where does Bertie County record deeds, and what are the hours?",
+"html": "<p>Deeds are recorded in Windsor, in the courthouse at King and Dundee streets, where the register's office occupies the first floor. Visitors use 108 Dundee Street; mail goes to PO Box 340, Windsor, NC 27983.</p><p>Staff are in from 8:30 to 5:00, but the recording cutoff is 4:30 every day, so a deed delivered at a quarter to five sits until the next morning. Electronic recording is accepted now, which lets a closing attorney send the deed without a drive to Windsor. Holidays and bad weather can close the doors.</p><table><caption>Bertie County Register of Deeds at a glance (county website)</caption><thead><tr><th>Item</th><th>Detail</th></tr></thead><tbody><tr><td>Street address</td><td>108 Dundee Street, Windsor</td></tr><tr><td>Mailing address</td><td>PO Box 340, Windsor, NC 27983</td></tr><tr><td>Phone and fax</td><td>(252) 794-5309 and (252) 794-5374</td></tr><tr><td>Office hours</td><td>8:30 a.m. to 5:00 p.m.</td></tr><tr><td>Recording hours</td><td>8:30 a.m. to 4:30 p.m.</td></tr><tr><td>Online search</td><td>1977 forward, or by book number from Book 600</td></tr><tr><td>Oldest land records</td><td>Land and grant transactions from 1722</td></tr><tr><td>Plain copies</td><td>$.20 a page</td></tr></tbody></table>"
+},
+{
+"h2": "What does the register keep, and why does recording matter?",
+"html": "<p>The register looks after deeds, deeds of trust, powers of attorney, assumed names, plats, maps and military discharge papers. Voters pick the register every two years, and the office answers to Chapter 161 of the General Statutes.</p><p>Recording gives a buyer priority. Under G.S. 47-18, an unrecorded conveyance has no force against lien creditors or purchasers who paid value, and the order of registration sets who ranks first. Until the deed is filed in the county where the land lies, the buyer is exposed to a competing claim.</p><ul><li>Records are filed by name, so the office cannot look up an owner from a street address.</li><li>For an address search, call the tax assessor's mapping line at (252) 794-5311.</li><li>Anyone may obtain copies of recorded papers in person, by mail or by phone request, except military discharge forms, which have limited access.</li></ul>"
+},
+{
+"h2": "What does recording a deed in Bertie County cost?",
+"html": "<p>The charges come from the uniform statewide schedule in G.S. 161-10, which the county reprints on its fee page. A standard instrument costs $26.00 and covers 15 pages, with $4.00 for every page past that. A deed of trust or mortgage costs $64.00 and covers 35 pages, then $4.00 a page.</p><ul><li>An additional instrument inside the same document adds $10.00.</li><li>A non-standard document adds $25.00 on top of the recording fee.</li><li>A satisfaction or cancellation of a mortgage is recorded free.</li><li>A plat costs $21.00 a sheet, and a certified copy costs $5.00 for the first page and $2.00 for each added page.</li></ul><p>The statute describes the schedule as complete and exclusive, so no other filing charge applies, and payment is due before filing. Call the office at (252) 794-5309 for a document with an unusual page count.</p>"
+},
+{
+"h2": "Who pays the transfer tax on a Bertie County deed?",
+"html": "<p>The seller pays. State law taxes every conveyance of real property at $1.00 for each $500 of price or value, counting any leftover fraction of $500 as a full unit, and the transferor delivers the money to the register before the deed goes on record.</p><p>The county keeps half of it for the general fund. The other half, minus refunds and the county's allowance, goes to the Department of Revenue every month. If a tract straddles two counties, the county with the larger share of the value collects the tax.</p><p>Your closing attorney will work out the exact figure from the price on the settlement statement, and the rounding rule for each $500 can move it.</p>"
+},
+{
+"h2": "What do Bertie County's own recording rules require?",
+"html": "<p>A resolution adopted in April 1991 under G.S. 161-30 took effect June 1, 1991. It bars the register from accepting any map or instrument affecting real property unless two items appear on its face: the name and address of the person who should get the document back, and the grantee's permanent mailing address.</p><p>Statewide format rules also apply, and the office posts them for filers. The paper must be 8-1/2 by 11 or 8-1/2 by 14. The first page needs a 3 inch blank top margin and half inch margins elsewhere, with every later page at half inch all around. Text must be black on white, 9 point or larger, printed on one side, and the type of instrument goes at the top of page one below the margin.</p><p>A paper that misses the format is recorded after the $25.00 non-standard fee. The register may waive that fee when the type is a bit small but still legible.</p><ul><li>Return name and address on the first page</li><li>Grantee's permanent mailing address on the first page</li><li>Margins, font size and one-sided printing checked</li><li>Deed signed and notarized</li></ul>"
+},
+{
+"h2": "How are names changed on a Bertie County deed?",
+"html": "<p>A new deed has to be drawn up, and the register's FAQ sends owners to an attorney for it. After signing and notarization, the deed is brought to the office with the fee.</p><p>A land contract works differently. Under Chapter 47H, the seller must record the contract, or a short memorandum of it, within five business days, and the purchaser can cancel until midnight of the third business day after signing.</p><p>Paid-off loans leave a loose end. Ask the lender for a satisfaction and have it recorded, which costs nothing and clears the title check before a sale.</p>"
+},
+{
+"h2": "How does the register fit into a Bertie County sale?",
+"html": "<p>The closing attorney or title agent searches the records, files the new deed and any new deed of trust, and pays the transfer tax from the settlement. Most sellers never visit the office themselves. Census QuickFacts counts 9,116 housing units in the county as of July 2025, and every one of those deeds is filed at this single courthouse office on Dundee Street.</p><p>Property taxes are the one title item that lives elsewhere. Unpaid bills are a lien and are cleared with the tax collector, as covered in our <a href='https://cashhomebuyersca.com/bertie-county-nc-property-tax-guide/'>Bertie County property tax guide</a>. Gaps from older paperwork, such as a mortgage never released or an estate never opened, get fixed by recording the missing document before closing.</p>"
+}
 ],
 "faqs": [
-{"q": "What is the phone number for the Bertie County Register of Deeds?", "a": "The office phone is (252) 794-5309 and the fax is (252) 794-5374. Staff take questions about recording requirements and fees without an appointment."},
-{"q": "How much does the Bertie County Register of Deeds charge to record a deed?", "a": "A standard deed costs $26.00 for the first 15 pages plus $4.00 for each added page. A deed of trust costs $64.00 for the first 35 pages. A non-standard document adds $25.00, and satisfactions carry no fee."},
-{"q": "Who pays the deed transfer tax in Bertie County?", "a": "The seller pays it. The state excise tax is $1.00 per $500 of value, paid to the register of deeds before the deed is recorded."},
-{"q": "Can the Bertie County Register of Deeds tell me who owns a property?", "a": "Not by street address. The register's index is by name only, so call the county tax assessor's mapping office at (252) 794-5311 to find an owner from an address."},
-{"q": "How far back do Bertie County land records go?", "a": "Land and grant transactions on file start in 1722. Online real estate searches cover 1977 to the present, or Book 600 onward by book number."}
+{
+"q": "What is the Bertie County Register of Deeds phone number?",
+"a": "Call (252) 794-5309. The fax is (252) 794-5374, and the office is at 108 Dundee Street in Windsor."
+},
+{
+"q": "How late can I record a deed in Bertie County?",
+"a": "Recording ends at 4:30 p.m. each day, even though the office stays open until 5:00 p.m. Electronic recording is also accepted."
+},
+{
+"q": "What does a standard deed cost to record in Bertie County?",
+"a": "A standard instrument costs $26.00 for up to 15 pages, then $4.00 for each added page. A deed of trust costs $64.00 for up to 35 pages. Non-standard format adds $25.00."
+},
+{
+"q": "Who owes the deed tax on a Bertie County sale?",
+"a": "The seller owes it, at $1.00 per $500 of value, paid to the register before recording."
+},
+{
+"q": "Can the register tell me who owns a Bertie County address?",
+"a": "No. Records are kept by name, so call the tax assessor's mapping office at (252) 794-5311 with the address."
+}
 ],
 "sources": [
-{"title": "Bertie County Register of Deeds", "url": "http://www.co.bertie.nc.us/departments/rod/rod.html"},
-{"title": "Bertie County Register of Deeds FAQ", "url": "http://www.co.bertie.nc.us/departments/rod/faq.html"},
-{"title": "Bertie County Register of Deeds uniform fee schedule", "url": "http://www.co.bertie.nc.us/departments/rod/fees.html"},
-{"title": "Bertie County resolution regarding recordation of instruments", "url": "http://www.co.bertie.nc.us/departments/rod/rrr.html"},
-{"title": "North Carolina document recording standards (Bertie County)", "url": "http://www.co.bertie.nc.us/departments/rod/drs.html"},
-{"title": "Bertie County Tax/Mapping", "url": "http://www.co.bertie.nc.us/departments/tm/ex.html"},
-{"title": "G.S. 161-10 register of deeds fees", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"},
-{"title": "Census QuickFacts, Bertie County", "url": "https://www.census.gov/quickfacts/fact/table/bertiecountynorthcarolina,US/PST045224"},
-{"title": "G.S. 161-1 election of register of deeds", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html"},
-{"title": "G.S. 105-228.30 excise tax on conveyances", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"},
-{"title": "G.S. 47-18 effect of registration", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"},
-{"title": "Chapter 47H contracts for deed", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"}
-]}
+{
+"title": "Bertie County Register of Deeds",
+"url": "http://www.co.bertie.nc.us/departments/rod/rod.html"
+},
+{
+"title": "Bertie County Register of Deeds FAQ",
+"url": "http://www.co.bertie.nc.us/departments/rod/faq.html"
+},
+{
+"title": "Bertie County Register of Deeds uniform fee schedule",
+"url": "http://www.co.bertie.nc.us/departments/rod/fees.html"
+},
+{
+"title": "Bertie County resolution regarding recordation of instruments",
+"url": "http://www.co.bertie.nc.us/departments/rod/rrr.html"
+},
+{
+"title": "North Carolina document recording standards (Bertie County)",
+"url": "http://www.co.bertie.nc.us/departments/rod/drs.html"
+},
+{
+"title": "Bertie County Tax/Mapping",
+"url": "http://www.co.bertie.nc.us/departments/tm/ex.html"
+},
+{
+"title": "G.S. 161-10 register of deeds fees",
+"url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"
+},
+{
+"title": "Census QuickFacts, Bertie County",
+"url": "https://www.census.gov/quickfacts/fact/table/bertiecountynorthcarolina,US/PST045224"
+},
+{
+"title": "G.S. 161-1 election of register of deeds",
+"url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html"
+},
+{
+"title": "G.S. 105-228.30 excise tax on conveyances",
+"url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"
+},
+{
+"title": "G.S. 47-18 effect of registration",
+"url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"
+},
+{
+"title": "Chapter 47H contracts for deed",
+"url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_47H.html"
+}
+]
+}
