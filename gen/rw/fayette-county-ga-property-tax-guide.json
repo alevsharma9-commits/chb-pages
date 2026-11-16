@@ -1,26 +1,93 @@
-{"slug": "fayette-county-ga-property-tax-guide", "sections": [
-{"h2": "Who sends and collects property tax in Fayette County?", "html": "<p>The Fayette County Tax Commissioner mails the bills and takes the payments, and the Assessors' Office values the property. The assessors' own page says plainly that it does not generate tax bills, and it sends billing questions to the commissioner at 770-461-3652.</p><p>The Tax Commissioner works from the county administrative complex at 140 W. Stonewall Avenue in Fayetteville. Suite 110 handles property tax and mobile homes, and Suite 109 handles motor vehicles. The mailing address is P.O. Box 70, Fayetteville, GA 30214. Property tax and mobile home hours are Monday through Friday from 8:00 a.m. to 5:00 p.m., and a pay-by-phone line, (770) 800-6273, is listed for payments.</p><p>City tax is not billed separately. The commissioner's FAQ says all city taxes are on the county bill and the county passes the city share to Fayetteville, Peachtree City, Tyrone, Brooks or Woolsey.</p>"},
-{"h2": "What is the Fayette County property tax calendar?", "html": "<p>Bills go out in the fall, and the commissioner's FAQ says taxpayers are given 60 days from the date the original bills were mailed. The table lists the dates the commissioner publishes.</p><table><caption>Fayette County property tax dates (source: Tax Commissioner FAQ)</caption><thead><tr><th>Item</th><th>Date or rule</th></tr></thead><tbody><tr><td>Return of property value</td><td>January 1 to April 1</td></tr><tr><td>Regular homestead application</td><td>Year round, but complete by April 1 for that tax year</td></tr><tr><td>Mobile home bills</td><td>Mailed January 1, due on or before April 1, 10 percent penalty after the due date</td></tr><tr><td>Real property bills</td><td>Expected around mid September</td></tr><tr><td>Delinquency</td><td>After November 15, or 60 days after mailing if that is later</td></tr></tbody></table><p>Interest accrues once the bill is delinquent. The commissioner reminds owners that a missing bill does not excuse the debt: it is the owner's duty to ask the office for the amount due before the delinquent date. Bills are not sent to a mortgage company unless the lender requests a copy, so give your servicer the lower portion of your bill and include the loan number.</p>"},
-{"h2": "How does the Fayette County homestead exemption work?", "html": "<p>Fayette residents who own and occupy a home on January 1 can claim a regular homestead exemption. The commissioner's FAQ prints the amounts as the first $2,000 of assessed value on the school portion and $5,000 on the county portion of the bill. Homestead is limited to one property, which must be your primary residence.</p><ul><li>Applications can be made year round and must be complete by April 1 to apply to the current tax year.</li><li>The assessors' page says taxpayers may also apply beyond the old April 1 date, up to the end of the 45-day appeal window on their assessment notice.</li><li>Once granted, the exemption continues each year at the same address.</li><li>Someone who qualified for the age 62 exemption must still apply separately when reaching 65.</li><li>Mobile home residents are not eligible for homestead.</li></ul><p>The assessors' page adds that its office also processes homestead applications, so ask which counter takes the form before you go.</p>"},
-{"h2": "What are the floating homestead exemptions in Fayette County?", "html": "<p>Fayette voters approved House Bill 1166 in November 2020, an extra homestead exemption that applies to the school board portion of the bill. A similar measure, House Bill 581, was approved by voters in November 2024 and applies to every taxing entity except bonds.</p><p>The county's news page says the Fayette County school board opted out of HB 581 in favor of the existing HB 1166 exemption. Both are floating exemptions, so the amount depends on the gap between the current value and a base year value. Ask the Assessors' Office which base year applies to your parcel.</p><p>That detail matters when you sell. Buyers who ask what the property tax will be should hear that your bill reflects your own exemption status, and that they need to apply for theirs after closing.</p>"},
-{"h2": "How do I appeal a Fayette County assessment?", "html": "<p>An appeal must be sent to the Board of Tax Assessors and postmarked within 45 days of the mailing date on the notice of assessment, according to the Department of Revenue. The assessors' page shows how this played out in 2026: commercial and residential notices were mailed June 23, and personal property notices were mailed July 28.</p><p>If the assessors do not agree with your appeal, the dispute can go to the county Board of Equalization. The Clerk of Superior Court manages that board's records, notices and decision letters. A further appeal goes to Superior Court under Georgia's process.</p><p>The state also allows a written refund request for tax that was assessed and collected in error, starting within three years of payment. A Fayette property return, filed between January 1 and April 1, is how a taxpayer states an opinion of value. Georgia law requires a return in the first full year of ownership, and later returns are needed only when the property changes.</p>"},
-{"h2": "What happens to unpaid Fayette County property tax?", "html": "<p>The commissioner says the county does not sell tax liens or tax lien certificates. It holds one real property sheriff's tax sale each year, and details appear on the Tax Sales tab of the commissioner's site.</p><p>If you inherit or buy a Fayette house with back taxes, ask the commissioner for a payoff in writing before closing. Georgia's Department of Revenue notes that delinquent tax can bring penalties as well as interest, and the commissioner reports interest after the delinquent date. A buyer's title company will check for open tax at closing, so a clean payoff speeds things up.</p><p>Boats, aircraft and business personal property are taxable in Georgia, and the commissioner says they are taxed in the county where they are located. If a seller keeps a boat docked in another county, that county bills it.</p>"},
-{"h2": "What do the Census numbers say about Fayette County housing?", "html": "<p>Fayette had 125,156 residents in July 2025, a 5.0 percent gain over the 2020 base of 119,193, the fastest growth among the three counties in the same Census table. The land area is 194.56 square miles, and the density in 2020 was 612.6 residents per square mile.</p><ul><li>Housing units in 2025: 47,621.</li><li>Households: 44,581, at 2.72 persons each.</li><li>Residents 65 and over: 22.7 percent.</li><li>Persons in poverty: 5.8 percent.</li><li>Employer establishments in 2023: 3,995.</li><li>Total retail sales in 2022: $2,249,924 thousand.</li></ul><p>The county government says Fayette began to grow in the 1970s with the expansion of Hartsfield-Jackson Atlanta International Airport, and that it adopted building codes and zoning in 1959 and 1960. That early planning shows in a county of five municipalities that still prizes orderly development.</p>"}
+{
+"slug": "fayette-county-ga-property-tax-guide",
+"sections": [
+{
+"h2": "Who sends and collects property tax in Fayette County?",
+"html": "<p>Billing sits with the Fayette County Tax Commissioner, and valuation belongs to the Assessors' Office. The assessors' page states that the office issues no tax bills and refers billing questions to 770-461-3652.</p><p>The Tax Commissioner works from the county administrative complex at 140 W. Stonewall Avenue in Fayetteville. Suite 110 handles property tax and mobile homes, and Suite 109 handles motor vehicles. The mailing address is P.O. Box 70, Fayetteville, GA 30214. The property tax and mobile home counter keeps weekday hours of eight to five, and a pay-by-phone line, (770) 800-6273, is listed for payments.</p><p>City tax is not billed separately. The commissioner's FAQ says all city taxes are on the county bill and the county passes the city share to Fayetteville, Peachtree City, Tyrone, Brooks or Woolsey.</p>"
+},
+{
+"h2": "What does Fayette County's setting mean for a home sale?",
+"html": "<p>The county sits in Georgia's Piedmont, with rolling hills, elevations between 720 and 1,005 feet, an average annual temperature of 61.4 degrees and 48.61 inches of yearly rainfall, according to the county's own profile. Rainfall of that size is worth remembering when a buyer's inspector looks at gutters, grading and crawl spaces.</p><p>Five municipalities share the 199 square miles, and each has its own office for zoning and city questions even though the county bill carries the city tax. The county's list gives these numbers:</p><ul><li>Town of Brooks: 770.719.7666</li><li>City of Fayetteville: 770.461.6029</li><li>City of Peachtree City: 770.487.7657</li><li>Town of Tyrone: 770.487.4038</li><li>Town of Woolsey: 770.461.2320</li></ul><p>Interstates 75, 85 and 285 are within reach, and the county reports MARTA service from nearby Fulton County. Commuting buyers will ask about those links, and a seller who keeps recent tax bills handy gives them a clear picture of ongoing costs.</p>"
+},
+{
+"h2": "What is the Fayette County property tax calendar?",
+"html": "<p>Statements go out in the fall, and the commissioner counts the due date as 60 days after the original mailing. The table lists the dates the office publishes.</p><table><caption>Fayette property tax timeline (source: Tax Commissioner FAQ)</caption><thead><tr><th>Item</th><th>Date or rule</th></tr></thead><tbody><tr><td>Return of property value</td><td>January 1 to April 1</td></tr><tr><td>Regular homestead application</td><td>Year round, but complete by April 1 for that tax year</td></tr><tr><td>Mobile home bills</td><td>Mailed January 1, due on or before April 1, 10 percent penalty after the due date</td></tr><tr><td>Real property bills</td><td>Expected around mid September</td></tr><tr><td>Delinquency</td><td>After November 15, or 60 days after mailing if that is later</td></tr></tbody></table><p>Interest accrues once the bill is delinquent. A bill that never arrives does not erase the debt, and the office tells owners to call for the balance before the delinquent date. Bills are not sent to a mortgage company unless the lender requests a copy, so give your servicer the lower portion of your bill and include the loan number.</p>"
+},
+{
+"h2": "How does the Fayette County homestead exemption work?",
+"html": "<p>An owner who occupies the home on January 1 can claim the regular exemption. The FAQ lists $2,000 of assessed value off the school portion and $5,000 off the county portion of the bill. Homestead is limited to one property, which must be your primary residence.</p><ul><li>File any time of year, but get it complete by April 1 for the current tax year.</li><li>The assessors' page adds that filing can run past the old April 1 date, to the end of the 45-day appeal window on the notice.</li><li>An approved exemption renews itself at the same address.</li><li>Someone who qualified for the age 62 exemption must still apply separately when reaching 65.</li><li>Mobile home residents are not eligible for homestead.</li></ul><p>The assessors' page adds that its office also processes homestead applications, so ask which counter takes the form before you go.</p>"
+},
+{
+"h2": "What are the floating homestead exemptions in Fayette County?",
+"html": "<p>Fayette voters approved House Bill 1166 in November 2020, an extra homestead exemption that applies to the school board portion of the bill. A similar measure, House Bill 581, was approved by voters in November 2024 and applies to every taxing entity except bonds.</p><p>The county's news page says the Fayette County school board opted out of HB 581 in favor of the existing HB 1166 exemption. Both are floating exemptions, so the amount depends on the gap between the current value and a base year value. Ask the Assessors' Office which base year applies to your parcel.</p><p>That detail matters when you sell. Buyers who ask what the property tax will be should hear that your bill reflects your own exemption status, and that they need to apply for theirs after closing.</p>"
+},
+{
+"h2": "How can I dispute a Fayette County value?",
+"html": "<p>Under state guidance the appeal goes to the Board of Tax Assessors, postmarked inside 45 days of the date the notice was mailed. The assessors' page shows how this played out in 2026: commercial and residential notices were mailed June 23, and personal property notices were mailed July 28.</p><p>When the assessors hold their value, the case can move to the equalization board, whose records, notices and decision letters are kept by the Clerk of Superior Court. Superior Court is the next level.</p><p>Georgia also permits a written refund claim for tax charged in error, started within three years of the payment date. Filing a return between January 1 and April 1 is how an owner declares an opinion of value, and the commissioner says a return is required in the first full year of ownership and afterward only when the property changes.</p>"
+},
+{
+"h2": "What happens to unpaid Fayette County property tax?",
+"html": "<p>The county sells no tax liens or lien certificates, the commissioner says. It runs a single real property sheriff's tax sale a year, with details on the Tax Sales tab of the commissioner's site.</p><p>A Fayette house carrying back taxes needs a written payoff from the commissioner before closing. Georgia's Department of Revenue notes that delinquent tax can bring penalties as well as interest, and the commissioner reports interest after the delinquent date. Title companies check for open tax at closing, and a clean payoff speeds the closing.</p><p>The commissioner adds that boats, aircraft and business personal property are taxable in whichever county holds them. A seller whose boat sits at a dock in another county gets that bill from the other county.</p>"
+},
+{
+"h2": "How does Fayette County housing look in Census data?",
+"html": "<p>The July 2025 estimate is 125,156 residents, up 5.0 percent from the 119,193 base set in April 2020 and the fastest climb in the three-county Census comparison. The land area is 194.56 square miles, and the density in 2020 was 612.6 residents per square mile.</p><ul><li>Housing units in 2025: 47,621.</li><li>Households: 44,581, at 2.72 persons each.</li><li>Residents 65 and over: 22.7 percent.</li><li>Persons in poverty: 5.8 percent.</li><li>Employer establishments in 2023: 3,995.</li><li>Total retail sales in 2022: $2,249,924 thousand.</li></ul><p>The county government says Fayette began to grow in the 1970s with the expansion of Hartsfield-Jackson Atlanta International Airport, and that it adopted building codes and zoning in 1959 and 1960. That early planning shows in a county of five municipalities that still prizes orderly development.</p>"
+}
 ],
 "faqs": [
-{"q": "When do Fayette County property taxes become delinquent?", "a": "After November 15, or 60 days after the bills were mailed, whichever is later. The commissioner's FAQ says bills usually arrive around mid September, and interest accrues after the delinquent date."},
-{"q": "Who do I call about a Fayette County property tax bill?", "a": "Call the Tax Commissioner at (770) 461-3652. The office is at 140 W. Stonewall Avenue, Suite 110, in Fayetteville. The Assessors' Office handles values and does not generate bills."},
-{"q": "What is the Fayette County homestead exemption deadline?", "a": "Applications must be complete by April 1 to apply to the current tax year. The assessors' page also says applications can be accepted beyond April 1, up to the end of the 45-day window to appeal an assessment notice."},
-{"q": "Are Fayette County mobile home taxes due on a different date?", "a": "Yes. Mobile home bills are mailed January 1 and are due on or before April 1, with a 10 percent penalty after the due date. New owners must register the home with the Tax Commissioner's Office, and a decal is issued once the tax is paid."},
-{"q": "Does Fayette County sell tax liens?", "a": "No. The commissioner says the county does not sell tax liens or tax lien certificates. It holds one real property sheriff's tax sale per year."}
+{
+"q": "When do Fayette County property taxes become delinquent?",
+"a": "Past November 15, or 60 days after mailing if that falls later. Bills usually arrive around mid September, and interest starts once a balance is delinquent."
+},
+{
+"q": "Which number reaches the Fayette property tax office?",
+"a": "Dial (770) 461-3652 for the Tax Commissioner, at 140 W. Stonewall Avenue, Suite 110, Fayetteville. Value questions go to the Assessors' Office, which issues no bills."
+},
+{
+"q": "What is the Fayette County homestead exemption deadline?",
+"a": "April 1 is the standard cutoff for the current tax year. The assessors' page says applications can also be taken past that date, until the 45-day appeal window on the notice closes."
+},
+{
+"q": "Are Fayette County mobile home taxes due on a different date?",
+"a": "Yes. Mobile home statements go out January 1 and come due by April 1, and a 10 percent penalty follows a missed date. New owners register the home with the commissioner's office and receive a decal after payment."
+},
+{
+"q": "Does Fayette County sell tax liens?",
+"a": "No. Fayette sells neither tax liens nor lien certificates, and it holds one real property sheriff's tax sale a year."
+}
 ],
 "sources": [
-{"title": "Fayette County Tax Commissioner", "url": "https://www.fayettecountypay.com/"},
-{"title": "Fayette County Tax Commissioner FAQ", "url": "https://www.fayettecountypay.com/faq.html"},
-{"title": "Fayette County Assessors' Office", "url": "https://fayettecountyga.gov/departments/assessor/index.php"},
-{"title": "Fayette County, New Homestead Exemption Activated", "url": "https://www.fayettecountyga.gov/news_detail_T2_R61.php"},
-{"title": "Fayette County Clerk of Courts, Role of the Clerk", "url": "https://fayetteclerk.com/Office/RoleOfTheClerk.aspx"},
-{"title": "About Fayette County, Georgia", "url": "https://fayettecountyga.gov/explore/about_fayette_county.php"},
-{"title": "Georgia Department of Revenue, County Property Tax Facts Fayette", "url": "https://dor.georgia.gov/county-property-tax-facts-fayette"},
-{"title": "Census QuickFacts, Fayette, Fannin and Floyd counties, Georgia", "url": "https://www.census.gov/quickfacts/fact/table/fayettecountygeorgia,fannincountygeorgia,floydcountygeorgia/PST045224"}
-]}
+{
+"title": "Fayette County Tax Commissioner",
+"url": "https://www.fayettecountypay.com/"
+},
+{
+"title": "Fayette County Tax Commissioner FAQ",
+"url": "https://www.fayettecountypay.com/faq.html"
+},
+{
+"title": "Fayette County Assessors' Office",
+"url": "https://fayettecountyga.gov/departments/assessor/index.php"
+},
+{
+"title": "Fayette County, New Homestead Exemption Activated",
+"url": "https://www.fayettecountyga.gov/news_detail_T2_R61.php"
+},
+{
+"title": "Fayette County Clerk of Courts, Role of the Clerk",
+"url": "https://fayetteclerk.com/Office/RoleOfTheClerk.aspx"
+},
+{
+"title": "About Fayette County, Georgia",
+"url": "https://fayettecountyga.gov/explore/about_fayette_county.php"
+},
+{
+"title": "Georgia Department of Revenue, County Property Tax Facts Fayette",
+"url": "https://dor.georgia.gov/county-property-tax-facts-fayette"
+},
+{
+"title": "Census QuickFacts, Fayette, Fannin and Floyd counties, Georgia",
+"url": "https://www.census.gov/quickfacts/fact/table/fayettecountygeorgia,fannincountygeorgia,floydcountygeorgia/PST045224"
+}
+]
+}

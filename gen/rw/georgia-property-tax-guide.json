@@ -1,63 +1,89 @@
 {
-  "slug": "georgia-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Who sets and who collects property tax in Georgia?",
-      "html": "<p>Two county offices split the job. The county board of tax assessors values property and handles appeals, while the county tax commissioner collects tax for the county and school system, and in some counties for cities as well.</p><p>The Department of Revenue's Local Government Services Division supervises all 159 county boards of assessors, approves tax digests and certifies local officials. The department states that it may not override the board of assessors, the board of equalization, a hearing officer, an arbitrator or superior court on an individual assessment, so disputes about your own bill start at the county.</p>"
-    },
-    {
-      "h2": "How is a Georgia home's taxable value figured?",
-      "html": "<p>Assessed value is 40 percent of fair market value, and fair market value means what a knowledgeable buyer would pay a willing seller in an arm's length sale. The department's FAQ gives the formula as assessed value, minus exemptions, times the millage rate.</p><p>All property is to be assessed at fair market value every year as of January 1 (O.C.G.A. 48-5-6). Georgia has no statewide revaluation schedule. Each county reviews the digest against sales data annually and updates values it finds too high or too low, so reassessment pace varies from a fast-growing county to a slow one.</p><p>Millage rates are set locally by county, city and school district. For the rate on a specific parcel, ask the county tax commissioner or read the bill itself.</p>"
-    },
-    {
-      "h2": "When is Georgia property tax due?",
-      "html": "<p>December 20 in most counties. The department says taxes are due by that date unless the law says otherwise, that some counties set an earlier deadline or split payment into two installments, and that taxpayers have 60 days from the date of billing.</p><p>If a parcel sits in more than one county, the tax is paid to the county holding the majority of the property, and that office passes along the other counties' share. Some counties offer online payment, so confirm with your tax commissioner's office.</p>"
-    },
-    {
-      "h2": "Do Georgia owners have to file a property tax return each year?",
-      "html": "<p>No. Returns are due between January 1 and April 1 (O.C.G.A. 48-5-18), but an owner who filed or paid the year before is treated as having filed the same return at the same value, with the same homestead exemption.</p><p>A buyer who paid real estate transfer tax on a purchase is likewise considered to have filed. That changes if improvements are made after the transfer, in which case a new return should go in, and homestead still needs its own application. Returns go to the county tax officials, never to the Department of Revenue.</p>"
-    },
-    {
-      "h2": "How does the 45-day Georgia appeal work?",
-      "html": "<p>The owner files a written appeal with the county board of tax assessors within 45 days of the date the assessment notice was mailed. Grounds are taxability, value, uniformity or denial of an exemption. The uniform form is PT-311A, and the department warns against sending it to the state.</p><table><caption>The three appeal routes on the Department of Revenue appeal page</caption><thead><tr><th>Route</th><th>Who can use it</th><th>What follows</th></tr></thead><tbody><tr><td>Board of Equalization</td><td>Any owner</td><td>Board of assessors may amend; a new notice can be appealed within 30 days; otherwise a hearing is held</td></tr><tr><td>Hearing officer</td><td>Non-homestead real property valued above $500,000, value or uniformity issues</td><td>Decision may go to superior court</td></tr><tr><td>Arbitrator</td><td>Value appeals, with a certified appraisal due within 45 days of the board's acknowledgment</td><td>Hearing within 30 days; the party farther from the arbitrator's value pays costs</td></tr></tbody></table><p>A superior court appeal needs written notice to the board of assessors within 30 days of the decision. Before the court hears it, taxes must be paid in an amount equal to the last year taxes were determined due (O.C.G.A. 48-5-29), and the board and owner must hold a settlement conference. If the final value is 85 percent or less of the value set below, the owner recovers litigation costs and reasonable attorney fees.</p>"
-    },
-    {
-      "h2": "What has changed with HB 581 and the 2026 legislation?",
-      "html": "<p>HB 581 added a statewide floating homestead exemption that limits how fast a homestead's taxable value can rise. The 2026 legislative update from Revenue's Local Government Services Division describes follow-up laws that matter to sellers and buyers.</p><ul><li>SB 33, the HOME Act of 2026, removes the HB 581 opt-out and sets a statewide floating exemption from January 1, 2027, with 2026 values as the baseline.</li><li>SB 566 standardizes the notice of assessment, including an explicit fair market value reference, estimated tax savings, an appeal contact person and a reminder that homestead can be claimed during the 45-day window.</li><li>Homestead ineligibility must be reported by the last day of the appeal period, and the update says the tax and a 50 percent penalty attach to the property.</li><li>HB 974 continues Homeowner Tax Relief Grants at $18,000 per eligible homestead, applied through the digest submission.</li></ul><p>Details of the homestead rules are on our Georgia homestead exemption page.</p>"
-    },
-    {
-      "h2": "What happens to unpaid or current-year tax when you sell?",
-      "html": "<p>Whoever owned the property on January 1 is responsible for that year's tax, and the Department of Revenue says Georgia does not refund tax for a partial year when an owner sells and moves. Ask the county tax commissioner for the payoff figure before closing.</p><p>Liens are filed with the county clerk on the general execution docket. For a county tax lien, the department says to contact your county tax commissioner, and for a state tax lien, the Compliance Division or a regional Revenue office.</p><p>A separate real estate transfer tax is collected by the superior court clerk before a deed is recorded. The statute makes the seller liable, though contracts commonly assign it to the buyer, and the department's rate is $1 for the first $1,000 and 10 cents per additional $100.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What is the Georgia property tax assessment ratio?",
-      "a": "Forty percent of fair market value. The Department of Revenue says assessed value is 40 percent, and exemptions such as the $2,000 standard homestead come off that assessed figure."
-    },
-    {
-      "q": "Can I appeal after the 45 days have passed?",
-      "a": "The county window runs 45 days from the date the notice was mailed. Ask the county board of tax assessors whether anything remains open for that notice."
-    },
-    {
-      "q": "Where do I send a Georgia property tax appeal?",
-      "a": "To the county board of tax assessors, not to the Department of Revenue. If the board has adopted a written policy accepting electronic service, you may email the appeal."
-    },
-    {
-      "q": "Will I get a refund of property tax if I sell mid-year?",
-      "a": "No. The Department of Revenue says an owner on January 1 is responsible for the entire year's ad valorem tax, with no refund for partial-year residents."
-    },
-    {
-      "q": "Which office answers questions about my bill versus my value?",
-      "a": "The county tax commissioner handles bills, payments and in many counties homestead filing. The county tax assessor handles value, appeals and the records of the digest."
-    }
-  ],
-  "sources": [
-    {"title": "Filing a Property Tax Appeal, Georgia Department of Revenue", "url": "https://dor.georgia.gov/filing-property-tax-appeal"},
-    {"title": "Property Tax Real and Personal Property FAQ, Georgia Department of Revenue", "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"},
-    {"title": "Property Tax Returns and Payment, Georgia Department of Revenue", "url": "https://dor.georgia.gov/property-tax-returns-and-payment"},
-    {"title": "2026 DOR Legislative Update", "url": "https://dor.georgia.gov/document/document-document/caveat-2026-opening-session/download"},
-    {"title": "Real Estate Transfer Tax, Georgia Department of Revenue", "url": "https://dor.georgia.gov/real-estate-transfer-tax"},
-    {"title": "Property Tax Homestead Exemptions, Georgia Department of Revenue", "url": "https://dor.georgia.gov/property-tax-homestead-exemptions"}
-  ]
+ "slug": "georgia-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Which Georgia office does what on a property tax bill?",
+   "html": "<p>The assessor values, and the commissioner collects. Each of Georgia's 159 counties has a board of tax assessors that sets appraised value and hears disputes, plus a tax commissioner who bills for the county and school system and, in some counties, for cities too.</p><p>Revenue's Local Government Services Division sits above both. It approves county digests, certifies local officials and audits every board, yet it says it cannot override a board, hearing officer, arbitrator or court on a single home. Questions about worth belong with the assessor. Questions about the amount owed belong with the commissioner.</p>"
+  },
+  {
+   "h2": "How does Georgia arrive at the taxable figure for a home?",
+   "html": "<p>The state taxes two-fifths of a home's fair market value, which is the 40 percent assessment level. Fair market value means an arm's length bona fide price between a knowledgeable buyer and a willing seller.</p><p>Revenue's formula subtracts exemptions from the assessed figure and then applies the local millage rate. Georgia law has every property valued again each year as of January 1 (O.C.G.A. 48-5-6, 48-5-2), and no statewide revaluation calendar exists. Counties compare their digests with recent sales and adjust values that look off, so a booming county can reprice quickly while a quiet one barely moves.</p><p>Millage is local, set separately for the county, the city and the school district. Look at the rates printed on your own bill.</p>"
+  },
+  {
+   "h2": "What is the Georgia property tax due date?",
+   "html": "<p>Bills are generally payable by December 20 unless a statute sets another date. A few counties pick an earlier deadline or split payment into two installments, and the state FAQ says billing starts a 60-day payment period.</p><p>Land that straddles two counties is taxed through the one holding most of it, and that office forwards the other county's share. Pay-online options exist in some counties only, so call the commissioner's office to see what yours takes.</p>"
+  },
+  {
+   "h2": "Must owners file a return every year in Georgia?",
+   "html": "<p>No. Returns are taken until April 1 (O.C.G.A. 48-5-18), yet an owner who filed or paid the previous year is treated as returning the same property at the same value with the same exemptions.</p><p>The same treatment reaches a buyer who paid real estate transfer tax last year. New improvements change the picture, because a fresh return should follow in the year they appear, and homestead still needs its own form. Returns go to county officials, never to the state.</p>"
+  },
+  {
+   "h2": "How does an owner contest a Georgia assessment?",
+   "html": "<p>The written appeal goes to the county assessors, and a 45-day clock starts from the mailing date printed on the notice. Accepted grounds are taxability, value, uniformity and a denied exemption. The state's uniform form is PT-311A, and mailing it to the state agency leaves the appeal unprotected.</p><table><caption>Appeal routes described on the Revenue Department's appeal page</caption><thead><tr><th>Route</th><th>Who can use it</th><th>What follows</th></tr></thead><tbody><tr><td>Board of Equalization</td><td>Any owner</td><td>Assessors may revise and reissue the notice, which can be appealed within 30 days; if not revised, a hearing is set</td></tr><tr><td>Hearing officer</td><td>Non-homestead real property over $500,000, value or uniformity only</td><td>Decision can go to superior court</td></tr><tr><td>Arbitrator</td><td>Value disputes, backed by a certified appraisal due within 45 days after the board acknowledges the appeal</td><td>Hearing within 30 days; the side whose value lies farther from the arbitrator's pays costs</td></tr></tbody></table><p>To reach superior court, the owner mails or files written notice with the assessors, and the deadline is 30 days from the decision. The court will not hear the case until taxes equal to the last determined year are paid (O.C.G.A. 48-5-29). An owner who ends with a value at or below 85 percent of the figure set below also recovers litigation costs and attorney fees.</p>"
+  },
+  {
+   "h2": "How does Georgia's arbitration option work in practice?",
+   "html": "<p>The schedule is short and appraisal-driven. An owner who picks arbitration on the form gets an acknowledgment from the assessors within 10 days, then has 45 days to supply a certified appraisal of the property.</p><p>The assessors may accept the appraisal or reject it. A rejection sends the appeal to the appeal administrator, the chief or presiding superior court judge authorizes the arbitration, and a hearing follows within 30 days. The arbitrator rules at the end of the hearing, and either side may carry the result to superior court. Cost-shifting adds risk: if the arbitrator lands closer to the owner's value the county pays, and if closer to the assessors' value the owner pays."
+  },
+  {
+   "h2": "What happens if the case reaches a Georgia superior court?",
+   "html": "<p>The assessors certify the appeal papers to the court clerk after the owner's filing fees are paid, and the state says most appeals are heard by a jury at the first term of court unless a question of law is involved.</p><p>Ahead of that, the assessors have 45 days to schedule a settlement conference, which must happen no later than 30 days after their notice, with both sides conferring in good faith. If no agreement on value emerges, the assessors tell the owner in writing to pay court filing fees to the clerk within 20 days.</p>"
+  },
+  {
+   "h2": "What did HB 581 and the 2026 legislation change?",
+   "html": "<p>HB 581 created a statewide floating homestead exemption, and 2026 laws reshape how it and the notice of assessment work. The Revenue Department's May 2026 legislative update lists the main items.</p><ul><li>SB 33, the HOME Act of 2026, ends the HB 581 opt-out and makes a statewide floating exemption apply starting January 1, 2027, using 2026 values as the baseline.</li><li>SB 566 standardizes the assessment notice: an explicit fair market value statement, estimated savings from exemptions, a named appeal contact and a reminder that homestead can be claimed during the appeal window.</li><li>Report a lost homestead eligibility before the appeal period ends, because the update says tax plus a 50 percent penalty stays with the property.</li><li>HB 974 funds Homeowner Tax Relief Grants of $18,000 per eligible homestead, applied for through the digest process.</li></ul><p>The update also contrasts two local sales tax tools. PTRLOST and FLOST, collected in 35 counties, lower property tax across all property types. LHOST requires a local act and a referendum and mainly benefits homesteads.</p>"
+  },
+  {
+   "h2": "Who owes tax when a Georgia house changes hands?",
+   "html": "<p>Whoever held title on January 1 owes that year's bill, and the state says no refund follows for the months after an owner sells and moves. Contracts therefore split the year at closing.</p><p>Call the commissioner for a payoff number before the sale date. Liens are recorded by the county clerk on the general execution docket. Ask the commissioner about a county lien, and the Compliance Division or a regional Revenue office about a state lien.</p><p>Transfer tax is a separate levy that must be paid before the superior court clerk records a deed. The statute assigns it to the seller, though a purchase contract may move it to the buyer.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What share of a home's market value does Georgia tax?",
+   "a": "Forty percent. Revenue puts the assessed value at that share of market value, and exemptions are subtracted from the assessed amount."
+  },
+  {
+   "q": "What if I missed the appeal deadline on my notice?",
+   "a": "The window is 45 days counted from the mailing date on the notice. Call the assessors to learn whether anything is still open for that notice, and watch for the next year's mailing."
+  },
+  {
+   "q": "Where do I send the PT-311A appeal form?",
+   "a": "To the county board of tax assessors. Email is accepted only where that board has adopted a written policy consenting to electronic service, and the state revenue agency should never receive it."
+  },
+  {
+   "q": "Will the state refund tax for the months after I sell?",
+   "a": "No. Under the state's FAQ, whoever owned the property on January 1 answers for the whole year, and partial-year residents get nothing back."
+  },
+  {
+   "q": "Should I call the commissioner or the assessor about a tax problem?",
+   "a": "Call the commissioner for bills, payments and, in many counties, homestead filing. Call the assessor for value, appeals and digest records."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Filing a Property Tax Appeal, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/filing-property-tax-appeal"
+  },
+  {
+   "title": "Property Tax Real and Personal Property FAQ, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
+  },
+  {
+   "title": "Property Tax Returns and Payment, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-returns-and-payment"
+  },
+  {
+   "title": "2026 DOR Legislative Update",
+   "url": "https://dor.georgia.gov/document/document-document/caveat-2026-opening-session/download"
+  },
+  {
+   "title": "Real Estate Transfer Tax, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/real-estate-transfer-tax"
+  },
+  {
+   "title": "Property Tax Homestead Exemptions, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-homestead-exemptions"
+  }
+ ]
 }
