@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What makes selling a house in Warren, Ohio different?",
-   "html": "<p>Warren is the seat of Trumbull County, on the Mahoning River about 14 miles northwest of Youngstown and 56 miles southeast of Cleveland. Selling here means working with a city whose rules for rentals, vacant houses and contractors are written into its Codified Ordinances.</p>\n<p>For mid-2025 the Census Bureau estimates 38,328 people, below the 39,201 counted in 2020 and the 41,557 counted in 2010. Whether you hold an inherited house, a rental or a vacant property, the sections below cover the local and county steps that apply.</p>"
+   "html": "<p>Warren is the seat of Trumbull County, on the Mahoning River about 14 miles northwest of Youngstown and 56 miles southeast of Cleveland. Selling here means working with a city whose rules for rentals, vacant houses and contractors are written into its Codified Ordinances.</p>\n<p>For mid-2025 the Census Bureau estimates 38,328 people, below the 39,201 counted in 2020 and the 41,557 counted in 2010. The sections below take the local and county steps in turn, starting with the numbers.</p>"
   },
   {
    "h2": "How did Warren's industrial past shape its housing?",
@@ -27,11 +27,11 @@
   },
   {
    "h2": "How does the Trumbull County Board of Revision work?",
-   "html": "<p>Three county offices, the Auditor, the Treasurer and the Commissioners, or their representatives, make up the Board of Revision. It rules on value complaints, homestead and owner-occupancy disputes and some penalty remission requests, and it leaves the tax dollars on your bill alone. Whoever files carries the burden of proof.</p>\n<ul>\n<li>Complaints go to the Trumbull County Auditor, who acts as the board's secretary, by email at BOR@co.trumbull.oh.us, mail, fax or in person. A handwritten form needs a notary, and a form completed on a computer and emailed does not.</li>\n<li>Useful evidence includes an independent appraisal, photos, repair estimates and, after a recent sale, the settlement statement and purchase agreement.</li>\n<li>Hearings can be attended in person, by phone or on video, with at least ten days of notice.</li>\n<li>Disagree with the outcome and you have 30 days from the decision letter to appeal to the state tax appeals board or the county court.</li>\n</ul>\n<p>The window under Ohio Revised Code 5715.19 closes at the end of March following the tax year. An outside party can seek a higher value only when a recent arm's length sale beat the listed value by ten percent and by a state threshold, which the county page sets at $567,000 for tax year 2025.</p>"
+   "html": "<p>Three county offices, the Auditor, the Treasurer and the Commissioners, or their representatives, make up the board. It rules on value complaints and on denied homestead or owner-occupancy claims, and it leaves the tax dollars on your bill alone. Whoever files carries the burden of proof.</p>\n<ul>\n<li>Complaints go to the Auditor's office, which acts as the board's secretary. Email goes to BOR@co.trumbull.oh.us. A handwritten form needs a notary, and a typed form sent by email does not.</li>\n<li>Appraisals, photos, repair estimates and a recent settlement statement and purchase agreement are the evidence types the county names.</li>\n<li>Notice of a hearing arrives at least ten days ahead, and you may attend in person, by phone or on video.</li>\n</ul>\n<p>The filing window under Ohio Revised Code 5715.19 closes at the end of March following the tax year. An outside party can seek a higher value only when a recent arm's length sale beat the listed value by ten percent and by a state threshold, which the county page sets at $567,000 for tax year 2025.</p>"
   },
   {
-   "h2": "Which tax breaks stay with the owner in Trumbull County?",
-   "html": "<p>The county's Homestead Exemption serves owners who are 65 or older, permanently and totally disabled, or a surviving spouse who was at least 59 when the exemption holder died. It shields up to $29,000 of market value, and the income cap for 2026 taxes payable in 2027 is $41,000 of Ohio adjusted gross income. Veterans who are 100% permanently disabled from service may receive up to $58,000 with no income cap.</p>\n<p>Owner Occupancy gives a reduction of about 2.5% to those who live in the home, on one acre and the house. Both follow the owner who lives in the home, so a buyer starts without them.</p>"
+   "h2": "How do Warren's schools and downtown shape buyer interest?",
+   "html": "<p>The Warren City School District runs four preK to 8 schools and Warren G. Harding High School. A second high school, Western Reserve, operated on the south side from 1966 to 1990. Declining population led to a redistricting plan, a new Harding building and the demolition of several early 20th century elementary and junior high schools, so a buyer comparing school buildings should ask the district which one serves a given street. The John F. Kennedy Catholic School offers kindergarten through grade 12 on two campuses.</p>\n<p>Downtown still centers on the Trumbull County Courthouse, built beginning in 1895, along with a Carnegie Law Library and bank and office buildings from the late 19th and early 20th centuries. The Tribune Chronicle, the daily paper, traces its roots to 1812 in what was the Connecticut Western Reserve.</p>"
   },
   {
    "h2": "What does Ohio require when you sell an inherited house?",
@@ -100,10 +100,6 @@
   {
    "title": "Ohio Revised Code 5302.30",
    "url": "https://codes.ohio.gov/ohio-revised-code/section-5302.30"
-  },
-  {
-   "title": "City of Warren",
-   "url": "https://www.warren.org/"
   }
  ]
 }

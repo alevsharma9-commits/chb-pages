@@ -3,61 +3,69 @@
  "sections": [
   {
    "h2": "Which office in Wooster files a Wayne County deed?",
-   "html": "<p>Filing happens on the first floor at 428 West Liberty Street, Wooster, OH 44691, and the Recorder's line is 330-287-5460. In the county's own words, the Recorder protects legal documents, most of them about real estate, including deeds, mortgages and liens, and every subdivision plat is filed in that office.</p>\n<p>The Auditor, Treasurer, Board of Revision and Map Office occupy the same building. Wooster is the seat of a county of roughly 555 square miles that legislators described in 1808 and organized in 1812, and the Census count for July 2025 is 116,758 people.</p>"
+   "html": "<p>Look for the Recorder behind the Administration Building's first-floor doors, 428 West Liberty Street, Wooster, OH 44691, or phone 330-287-5460. The county site describes the post as keeper of legal documents, chiefly real estate papers: deeds, mortgages, liens. Subdivision plats are also filed there.</p>\n<p>The Auditor, Treasurer, Board of Revision and Map Office occupy the same building. Wooster serves a county of roughly 555 square miles. Lawmakers drew the county in 1808, and it began operating in 1812. The Census Bureau lists 116,758 residents for July 2025.</p>"
   },
   {
-   "h2": "In what order does a deed move through Wayne County offices?",
-   "html": "<p>The Auditor's real estate page sets out the sequence, and a deed that skips a stop tends to come back unrecorded.</p>\n<ul>\n<li>Draft the deed, then present it at the Map Office.</li>\n<li>Carry it to the Auditor, where the conveyance and transfer charges are paid.</li>\n<li>Finish at the Recorder's counter for the legal recording.</li>\n</ul>\n<p>The state's value statement sits behind the Auditor's stop. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">R.C. 319.202</a> has the grantee declare the value before endorsement, and the grantor pays the fee. A sale that qualifies for exemption gives the reason instead, and the Auditor's forms library holds the exemption statement, DTE 100(EX).</p>"
+   "h2": "Which stops come before the Recorder in Wayne County?",
+   "html": "<p>A short route is posted on the Auditor's real estate page, and a deed that skips a stop tends to come back unrecorded.</p>\n<ul>\n<li>Draft the deed, then present it at the Map Office.</li>\n<li>Carry it to the Auditor, where the conveyance and transfer charges are paid.</li>\n<li>Last, file at the Recorder's counter.</li>\n</ul>\n<p>The state's value statement sits behind the Auditor's stop. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">R.C. 319.202</a> requires a declaration of value from the grantee before endorsement. An exempt transfer states its reason in place of a value, using the exemption form DTE 100(EX) from the Auditor's library.</p>"
   },
   {
    "h2": "What is the Wayne County conveyance charge at the Auditor?",
-   "html": "<p>Four dollars for every $1,000 of sale price is the figure the Auditor's page prints, with fifty cents added for each parcel. The office rounds the price up to the next $100 first. A Conveyance Fee Calculator under the Auditor's Tools menu runs the numbers for you.</p>\n<p>Taxes can hold up a closing too. The Treasurer, at 330-287-5450, can give a payoff on a parcel, and the Treasurer's website carries a delinquent list. For conveyance questions the Auditor's counter answers at 330-287-5430 every business day, opening at eight in the morning and closing at half past four.</p>"
+   "html": "<p>The Auditor's page prints $4.00 per thousand dollars of price and $0.50 per parcel, applied after the price is bumped up to the next $100. The Auditor's Tools menu includes a Conveyance Fee Calculator for the arithmetic.</p>\n<p>Unpaid taxes can stall a closing. Phone the Treasurer at 330-287-5450 for a payoff, and see the delinquent list online. The Auditor, 330-287-5430, answers conveyance questions from 8:00 am on weekdays.</p>"
   },
   {
    "h2": "What does the Wayne County Recorder charge to record?",
-   "html": "<p>The fee list below comes from the Auditor's page. It tracks <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">R.C. 317.32</a>, where the base and housing trust fund shares are $17 plus $17 for the first two pages and $4 plus $4 for each page after. The same statute lets a county add a preservation surcharge up to $5, so ask the Recorder whether today's total includes one.</p>\n<table>\n<caption>Recording items listed on the Wayne County Auditor's Real Estate Property page</caption>\n<thead><tr><th>Item</th><th>Charge</th></tr></thead>\n<tbody>\n<tr><td>First two pages</td><td>$34.00</td></tr>\n<tr><td>Each additional page</td><td>$8.00</td></tr>\n<tr><td>Marginal notation</td><td>$4.00</td></tr>\n<tr><td>Copies</td><td>$2.00</td></tr>\n<tr><td>Standardization guideline fee</td><td>$20.00</td></tr>\n</tbody>\n</table>\n<p>The $20.00 line applies to a paper that ignores the layout rules in R.C. 317.114, so confirm margins and ink color with the Recorder before signing.</p>"
+   "html": "<p>The table reproduces the Auditor's list, which follows <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">R.C. 317.32</a>, in which each of the base and housing trust fund shares is $17 for pages one and two and $4 for every page after. A county may also layer on a preservation surcharge capped at $5; ask the Recorder if the total below has one.</p>\n<table>\n<caption>Recording charges as the Wayne County Auditor prints them</caption>\n<thead><tr><th>Item</th><th>Charge</th></tr></thead>\n<tbody>\n<tr><td>First two pages</td><td>$34.00</td></tr>\n<tr><td>Each additional page</td><td>$8.00</td></tr>\n<tr><td>Marginal notation</td><td>$4.00</td></tr>\n<tr><td>Copies</td><td>$2.00</td></tr>\n<tr><td>Standardization guideline fee</td><td>$20.00</td></tr>\n</tbody>\n</table>\n<p>That $20.00 line is aimed at papers that break the layout rules of R.C. 317.114, so check margins and ink with the Recorder before you sign.</p>"
   },
   {
-   "h2": "How do Wayne County homes and households look in the Census data?",
-   "html": "<p>Owners hold the title to about 76.6 percent of Wayne County homes in the 2020 to 2024 survey. QuickFacts counts 44,365 households in 47,538 housing units, at 2.53 people per household.</p>\n<ul>\n<li>Owner-held home value at the midpoint: $222,100.</li>\n<li>Monthly rent at the midpoint: $881.</li>\n<li>Household income at the midpoint: $73,574, in 2024 dollars.</li>\n<li>Residents who lived at the same address a year earlier: 90.2 percent.</li>\n<li>Permits for new construction in 2025: 232.</li>\n</ul>\n<p>The Auditor's home page counts roughly 59,000 parcels, so most recorded deeds touch only a small slice of them in any year.</p>"
+   "h2": "What does the Census Bureau say about Wayne County households?",
+   "html": "<p>QuickFacts reports 44,365 households sharing 47,538 housing units, with 2.53 people in each household, and owners hold 76.6 percent of the homes.</p>\n<ul>\n<li>Middle owner-held home value: $222,100.</li>\n<li>Middle rent: $881 a month.</li>\n<li>Middle household income: $73,574.</li>\n<li>Share who stayed at the same address for a year: 90.2 percent.</li>\n<li>Building permits during 2025: 232.</li>\n</ul>\n<p>The Auditor's home page counts roughly 59,000 parcels, so most recorded deeds touch only a small slice of them in any year.</p>"
   },
   {
    "h2": "What should arrive at the Recorder's counter with a Wayne County deed?",
-   "html": "<p>Bring the endorsed original, the parcel numbers and a check for the fees. The Treasurer's FAQ notes that certain name changes call for a new deed, so compare how the owner's name appears on the Auditor's parcel record with what the deed says.</p>\n<ul>\n<li>The Recorder takes deeds, mortgages, liens and plats and indexes them in the county's land records.</li>\n<li>A mortgage release is its own recording, with a marginal reference charge under the statute.</li>\n<li>The Auditor's parcel search and GIS parcel viewer show earlier owners, acreage and last sale before the deed is written.</li>\n</ul>"
+   "html": "<p>Take the endorsed original, parcel numbers and a check. Because the Treasurer's FAQ says some name changes require a new deed, compare the owner's name on the Auditor's parcel record with the deed.</p>\n<ul>\n<li>Land records at the Recorder are indexed by document type and parties.</li>\n<li>A mortgage release is its own recording, with a marginal reference charge under the statute.</li>\n<li>The Auditor's parcel search and GIS parcel viewer show earlier owners, acreage and last sale before the deed is written.</li>\n</ul>"
   },
   {
    "h2": "What does the value statement cover on a Wayne County sale?",
-   "html": "<p>Value means the full price paid or owed, and the statute includes any mortgage or vendor's lien in that total. A gift in whole or part is valued at the estimated open market price between a willing seller and a willing buyer. Willfully falsifying value is barred.</p>\n<p>The statement also carries two checks. One asks about owner-occupied credit or homestead reductions on the parcel, and the other asks whether the land had agricultural use valuation that could trigger recoupment. If the answer to either is yes, the grantor and grantee confirm they have accounted for the amount.</p>"
+   "html": "<p>The statute counts the full price paid or owed, mortgage and vendor's lien amounts included. A gift is valued at its likely open market price. Willfully misstating value is prohibited.</p>\n<p>Two more questions ride along. One covers owner-occupied credit and homestead reductions. The other covers agricultural use valuation and any recoupment charge. A yes to either means both parties confirm the amount has been accounted for.</p>"
   },
   {
    "h2": "How does a tax due date interact with a Wayne County closing?",
-   "html": "<p>First half bills are issued in January or February, second half bills in June or July. For 2026 the Treasurer's final days were February 26 and July 30, with a 10 percent penalty after those dates and half of it returned for payment within 10 days.</p>\n<p>When a deed records in the same week a bill falls due, write down who pays it. Banks face earlier dates (February 2 and July 13 in 2026), which matters if a closing agent pays through a bank. The Treasurer also takes partial payments and applies every one of them to the upcoming bill.</p>"
+   "html": "<p>Installment bills are issued in January or February and again in June or July. The Treasurer's last days for 2026 were February 26 and July 30; a 10 percent penalty follows, and half is returned if the balance clears within 10 days.</p>\n<p>If a deed records in the same week a bill comes due, put in writing who pays. Bank payments faced earlier cutoffs (February 2 and July 13 in 2026). Partial payments are accepted and all go toward the upcoming bill.</p>"
   },
   {
    "h2": "Which four Wayne County phone lines does a seller need?",
-   "html": "<ul>\n<li>Recorder, 330-287-5460: deeds, mortgages, liens and plats.</li>\n<li>Auditor, 330-287-5430: conveyance charges, forms and parcel records.</li>\n<li>Treasurer, 330-287-5450: balances, receipts and card or e-check payment.</li>\n<li>Board of Revision, 330-287-5433: valuation complaints between January 1 and March 31.</li>\n</ul>\n<p>All of them answer from the same Wooster address.</p>"
+   "html": "<ul>\n<li>Recorder, 330-287-5460.</li>\n<li>Auditor, 330-287-5430.</li>\n<li>Treasurer, 330-287-5450.</li>\n<li>Board of Revision, 330-287-5433.</li>\n</ul>\n<p>The first handles recording, the second conveyance and parcel records, the third balances and payments, and the fourth valuation complaints. All answer from the same Wooster address.</p>"
   },
   {
    "h2": "Does a Wayne County sale let the new owner file a fresh value complaint?",
-   "html": "<p>Usually, yes. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5715.19\">R.C. 5715.19</a> bars a second complaint on the same parcel within the interim period, but it makes room when the property sold at arm's length, lost value to casualty, gained a substantial improvement or saw occupancy move by 15 percent after the earlier tax lien date. A sale can therefore reopen the door for a parcel the seller already contested.</p>\n<p>The window itself is January 1 through March 31 of the year after the tax year in dispute, and the Auditor lists January 1, 2027 to March 31, 2027 for tax year 2026. Complaints must be signed and notarized, and Auditor staff can usually notarize in person. The Board of Revision holds the second half bill until it rules, so a buyer should still pay the first half on time.</p>"
+   "html": "<p>Usually, yes. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5715.19\">R.C. 5715.19</a> generally bars a second complaint on one parcel inside an interim period. Exceptions follow an arm's length sale, a casualty loss, a substantial improvement or a 15 percent occupancy change after the earlier lien date. A sale can therefore reopen the door for a parcel the seller already contested.</p>\n<p>Filing opens each January 1, and for tax year 2026 the Auditor lists January 1 to March 31, 2027. Signatures must be notarized, which Auditor staff can usually do in person. The second half bill is held until the Board rules, and the first half stays payable on time.</p>"
   },
   {
    "h2": "What do Wayne County taxes look like after the deed is recorded?",
-   "html": "<p>The Auditor taxes each parcel on 35 percent of market value, then applies the district rate and a reduction factor. Owner-occupied homes can receive a further credit on the dwelling and up to one acre, and the Auditor's forms library carries that application as form DTE 105C.</p>\n<p>County levies support the general fund, children services, the County Care Center, Medway Drug Enforcement and the developmental disabilities board, and townships, cities, schools, libraries and fire districts add their own. The Treasurer's site charts every district's rate.</p>"
+   "html": "<p>Assessed value is 35 percent of market value, multiplied by the district rate and trimmed by a reduction factor. The owner-occupied credit has its own application, form DTE 105C, in the Auditor's library.</p>\n<p>Rates differ by district, and the Treasurer's website charts them all.</p>"
+  },
+  {
+   "h2": "Which online tools can a Wayne County seller use before recording?",
+   "html": "<ul>\n<li>Auditor: a parcel search and map, a conveyance calculator, a tax estimator, a levy estimator, sales reports and a delinquency report, plus downloadable forms.</li>\n<li>Treasurer: payment through Autoagent online or at 1-844-615-1900, and monthly or semi-annual ACH direct debit for parcels that owe current taxes.</li>\n<li>Recorder: the county's page lists the office address and phone, so a call to 330-287-5460 settles questions about what a particular paper needs.</li>\n</ul>\n<p>Run the sales report and tax estimator first. They show what nearby parcels sold for and what the levies on your district would produce, which helps when you write the value into the statement.</p>"
+  },
+  {
+   "h2": "How has Wayne County grown, according to the Census Bureau?",
+   "html": "<p>The county counted 114,520 people in 2010 and 116,894 in 2020, and its July 2025 estimate of 116,758 sits slightly below the 2020 base. Land area is 554.79 square miles and density was 210.7 people per square mile in 2020, up from 206.4 in 2010. Median age was 39.0 at the 2020 count, with 24.0 percent of residents under 18 and 18.6 percent 65 or older.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Which Wooster office records a deed for a Wayne County house?",
-   "a": "The Recorder's Office on the first floor of the Administration Building, 330-287-5460. Deeds go to the Auditor for endorsement first."
+   "q": "Where in Wooster do I file a Wayne County deed?",
+   "a": "With the Recorder, 330-287-5460, in the Administration Building. Get the Auditor's endorsement first."
   },
   {
    "q": "What recording fees does the Auditor's page list for Wayne County?",
-   "a": "$34.00 for two pages, $8.00 per added page, $4.00 per marginal notation, $2.00 per copy and a $20.00 standardization guideline fee. Ask the Recorder about the optional state preservation surcharge."
+   "a": "The printed list is $34.00 for two pages, $8.00 per added page, $4.00 per marginal notation, $2.00 per copy and a $20.00 standardization fee. A preservation surcharge of up to $5 is optional under state law."
   },
   {
    "q": "What does the Auditor take at the Wayne County conveyance step?",
-   "a": "Four dollars per $1,000 of sale price with the price rounded up to the next $100, plus fifty cents per parcel. The grantor pays the conveyance charge."
+   "a": "The Auditor prints $4.00 per $1,000 of price and $0.50 per parcel. The grantor owes the conveyance charge."
   },
   {
    "q": "Is the Auditor's stop before or after the Recorder in Wayne County?",
