@@ -1,65 +1,89 @@
 {
-  "slug": "north-carolina-transfer-on-death-deed",
-  "sections": [
-    {
-      "h2": "Does North Carolina allow a transfer on death deed?",
-      "html": "<p>The wills chapter of the North Carolina General Statutes contains no transfer on death deed. Chapter 31 on the legislature's website ends with Article 11, and that article covers electronic storage of attested wills by an attorney, not deeds that pass land at death.</p><p>The idea has been put to the General Assembly. Senate Bill 160 in the 2023 session proposed a new Article 11 in Chapter 31, the Uniform Real Property Transfer on Death Act, with sections numbered 31-65 through 31-82. The bill lookup shows its last action as a referral to the Judiciary committee on February 27, 2023. A bill that stays in committee does not become law, and the 2025 session law that did add an Article 11 dealt with electronic wills.</p><p>Because laws change, check the legislature's bill lookup or ask a North Carolina attorney before relying on any deed that claims to pass a house at death without probate. A form copied from another state does not create that right here.</p>"
-    },
-    {
-      "h2": "What did the 2023 bill say a transfer on death deed would do?",
-      "html": "<p>It would have let an owner name a beneficiary by recorded deed, with the land passing at death and no gift made during life. The legislature's bill summary lists the main features, which are useful because they show what North Carolina owners do not have today.</p><ul><li>The deed stays revocable during the owner's life, even if the document says otherwise.</li><li>It is treated as nontestamentary, and the owner needs the same capacity required to make a will.</li><li>It must be recorded to be valid, and no consideration or delivery to the beneficiary is needed.</li><li>The beneficiary takes the land subject to liens and interests that exist at the owner's death.</li><li>Liability for statutory allowances and estate claims could reach the property if the probate estate fell short.</li></ul><p>None of this is in force. The summary is useful for one reason: it shows that property owners here still rely on wills, trusts and joint ownership to avoid or shorten probate. Read <a href='https://webservices.ncleg.gov/BillDigests/2023/S160'>the bill summary</a> if you want the full proposal.</p>"
-    },
-    {
-      "h2": "How does real estate pass at death in North Carolina without that deed?",
-      "html": "<p>It passes under a will, or to heirs by intestacy, and the clerk of superior court in the county of the owner's home handles probate. A duly probated will is what passes title to real and personal property under G.S. 31-39, and that section also sets a deadline: the will must be probated or offered for probate within two years of death, or before the clerk approves the personal representative's final account if that is earlier, for it to bind lien creditors or buyers from the heirs.</p><p>Wills must follow Chapter 31. An adult of sound mind, 18 or older, may make one (G.S. 31-1). An attested will is signed by the maker and two competent witnesses. A holographic will is written entirely in the maker's own handwriting and signed. A will can also devise property to a trustee of a trust set up before death, as G.S. 31-47 describes. Anyone can leave the original with the clerk of superior court for safekeeping, and G.S. 31-11 keeps it private until the owner dies.</p><p>A will that crosses a county line needs one more step. If it is probated in one county and land lies in another, a certified copy of the will and of the certificate of probate has to be filed with the clerk in the county where the land sits, within the same two-year window.</p>"
-    },
-    {
-      "h2": "Which options are available instead, and how do they compare?",
-      "html": "<p>Each option below comes from a statute or court page and trades speed against formality. The table lists what the legislature's pages say about each one.</p><table><caption>North Carolina routes for passing a house at death, drawn from the General Statutes</caption><thead><tr><th>Route</th><th>What the statute says</th><th>Where to look</th></tr></thead><tbody><tr><td>Attested or holographic will</td><td>Valid only if it meets Chapter 31; probate is needed to pass title</td><td>G.S. 31-3.2 to 31-3.4, 31-39</td></tr><tr><td>Will self-proved</td><td>Acknowledgment by the maker and affidavits of witnesses before an officer, attached to the will</td><td>G.S. 31-11.6</td></tr><tr><td>Devise to a trust</td><td>A will may leave property to the trustee of a trust created before death</td><td>G.S. 31-47</td></tr><tr><td>Small estate affidavit</td><td>In an intestate estate, personal property up to $20,000, filed with the clerk 30 or more days after death, when no personal representative petition is pending</td><td>G.S. 28A-25-1</td></tr></tbody></table><p>The small estate affidavit covers personal property. It is not a way to move a house, so do not assume it helps when real estate is the main asset.</p>"
-    },
-    {
-      "h2": "What can go wrong when a house passes through probate?",
-      "html": "<p>The biggest delay for a buyer is title that is not settled yet. A caveat challenging the will can be filed within three years after probate (G.S. 31-32), and while one is pending the clerk's order bars distributions to beneficiaries. A title company will ask whether one has been filed.</p><ul><li>No personal representative yet: ask the clerk who holds authority to sign a deed for the estate.</li><li>Heirs disagree: ask the clerk and a title company which signatures the closing requires.</li><li>Liens and taxes: each recorded lien and any unpaid property tax needs a payoff figure.</li><li>Records in another county: a will probated elsewhere has to be filed where the land lies.</li></ul><p>North Carolina repealed its own estate tax for people who die on or after January 1, 2013, so there is no state estate tax return to file. Federal rules are a separate question for the estate's lawyer or accountant.</p>"
-    },
-    {
-      "h2": "How is the deed recorded and what does it cost?",
-      "html": "<p>Any deed from an estate or an heir is recorded with the register of deeds in the county where the land lies. G.S. 47-18 says a conveyance has no force against lien creditors or purchasers for value until it is registered there, and priority follows the order of registration.</p><p>The register collects the statewide fees from G.S. 161-10: $26 for the first 15 pages of an ordinary instrument and $4 for each added page, with $64 for the first 35 pages of a deed of trust or mortgage. G.S. 105-228.30 puts the excise tax at one dollar for each $500 of value or fraction of $500, and the transferor pays it before recording. Ask the register of deeds for the current fee sheet before you send a deed in.</p>"
-    },
-    {
-      "h2": "Can an inherited house be sold quickly in North Carolina?",
-      "html": "<p>It can be, once someone has authority to sign and the title is clear enough to close. Heirs who want to avoid repairs and showings can ask Cash Home Buyers for an as-is offer, and the deed still needs the same recording steps described above. Start with the clerk's office to confirm who the personal representative is, then gather the will, the letters and any payoff statements for liens or property tax.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Is a transfer on death deed valid in North Carolina?",
-      "a": "No North Carolina statute on the legislature's site authorizes one. A 2023 Senate bill proposed it and was referred to committee on February 27, 2023, and Chapter 31 does not contain the proposed article. Ask a North Carolina attorney whether the law has changed."
-    },
-    {
-      "q": "How can I leave my house to one person and avoid probate in North Carolina?",
-      "a": "The statutes do not offer a recorded beneficiary deed. A will passes title after probate, and G.S. 31-47 lets a will leave property to the trustee of a trust created before death. A lawyer can explain which structure fits your family."
-    },
-    {
-      "q": "How long does a will have to be probated?",
-      "a": "A will has to be probated or offered for probate within two years of death, or before the clerk approves the final account if that comes sooner, to be effective against lien creditors and buyers from the heirs. G.S. 31-39 sets that rule."
-    },
-    {
-      "q": "Does the small estate affidavit cover real estate?",
-      "a": "No, it covers personal property of up to $20,000 in an intestate estate (more for a surviving spouse who is the sole heir) under G.S. 28A-25-1. The affidavit goes to the clerk of superior court in the county where the person lived, no sooner than 30 days after death."
-    },
-    {
-      "q": "Does North Carolina charge an estate tax?",
-      "a": "No. G.S. 105-32.1 through 105-32.8 were repealed for estates of people who die on or after January 1, 2013. Federal estate rules are separate."
-    }
-  ],
-  "sources": [
-    {"title": "North Carolina General Statutes Chapter 31, Wills", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31.html"},
-    {"title": "Senate Bill 160 (2023-2024 Session), bill lookup", "url": "https://www.ncleg.gov/BillLookUp/2023/S160"},
-    {"title": "Bill Summaries: S160 (2023-2024 Session), Legislative Reporting Service", "url": "https://webservices.ncleg.gov/BillDigests/2023/S160"},
-    {"title": "G.S. 28A-25-1, Collection of personal property by affidavit", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_28A/GS_28A-25-1.html"},
-    {"title": "North Carolina estate tax repeal, Article 1A of Chapter 105", "url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_105/Article_1A.html"},
-    {"title": "G.S. 47-18, Conveyances and contracts to convey", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"},
-    {"title": "G.S. 161-10, Fees of register of deeds", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"},
-    {"title": "G.S. 105-228.30, Excise tax on conveyances", "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"}
-  ]
+ "slug": "north-carolina-transfer-on-death-deed",
+ "sections": [
+  {
+   "h2": "Does North Carolina allow a transfer on death deed?",
+   "html": "<p>The wills chapter of the North Carolina General Statutes contains no transfer on death deed. Chapter 31 on the legislature's website ends with Article 11, and that article covers electronic storage of attested wills by an attorney, not deeds that pass land at death.</p><p>The idea has been put to the General Assembly. Senate Bill 160 in the 2023 session proposed a new Article 11 in Chapter 31, the Uniform Real Property Transfer on Death Act, with sections numbered 31-65 through 31-82. The bill lookup shows its last action as a referral to the Judiciary committee on February 27, 2023. A bill that stays in committee does not become law, and the 2025 session law that did add an Article 11 dealt with electronic wills.</p><p>Because laws change, check the legislature's bill lookup or ask a North Carolina attorney before relying on any deed that claims to pass a house at death without probate. A form copied from another state does not create that right here.</p>"
+  },
+  {
+   "h2": "What did the 2023 bill say a transfer on death deed would do?",
+   "html": "<p>It would have let an owner name a beneficiary by recorded deed, with the land passing at death and no gift made during life. The legislature's bill summary lists the main features, which are useful because they show what North Carolina owners do not have today.</p><ul><li>The deed stays revocable during the owner's life, even if the document says otherwise.</li><li>It is treated as nontestamentary, and the owner needs the same capacity required to make a will.</li><li>It must be recorded to be valid, and no consideration or delivery to the beneficiary is needed.</li><li>The beneficiary takes the land subject to liens and interests that exist at the owner's death.</li><li>Liability for statutory allowances and estate claims could reach the property if the probate estate fell short.</li></ul><p>None of this is in force. The summary is useful for one reason: it shows that property owners here still rely on wills, trusts and joint ownership to avoid or shorten probate. Read <a href='https://webservices.ncleg.gov/BillDigests/2023/S160'>the bill summary</a> if you want the full proposal.</p>"
+  },
+  {
+   "h2": "How does real estate pass at death in North Carolina without that deed?",
+   "html": "<p>It passes under a will or to heirs by intestacy, and probate is handled by the clerk of superior court where the owner lived. A duly probated will is what passes title to real and personal property under G.S. 31-39, and that section also sets a deadline: the will must be probated or offered for probate within two years of death, or before the clerk approves the personal representative's final account if that is earlier, for it to bind lien creditors or buyers from the heirs.</p><p>Wills must follow Chapter 31. An adult of sound mind, 18 or older, may make one (G.S. 31-1). An attested will is signed by the maker and two competent witnesses. A holographic will is written entirely in the maker's own handwriting and signed. A will can also devise property to a trustee of a trust set up before death, as G.S. 31-47 describes. Anyone can leave the original with the clerk of superior court for safekeeping, and G.S. 31-11 keeps it private until the owner dies.</p><p>Land in a second county adds a step. Certified copies of the will and of the probate certificate must reach the clerk of that other county inside the same two-year window.</p>"
+  },
+  {
+   "h2": "Which options are available instead, and how do they compare?",
+   "html": "<p>Each option below comes from a statute or court page and trades speed against formality. The table lists what the legislature's pages say about each one.</p><table><caption>North Carolina routes for passing a house at death, drawn from the General Statutes</caption><thead><tr><th>Route</th><th>What the statute says</th><th>Where to look</th></tr></thead><tbody><tr><td>Attested or holographic will</td><td>Valid only if it meets Chapter 31; probate is needed to pass title</td><td>G.S. 31-3.2 to 31-3.4, 31-39</td></tr><tr><td>Will self-proved</td><td>Acknowledgment by the maker and affidavits of witnesses before an officer, attached to the will</td><td>G.S. 31-11.6</td></tr><tr><td>Devise to a trust</td><td>A will may leave property to the trustee of a trust created before death</td><td>G.S. 31-47</td></tr><tr><td>Small estate affidavit</td><td>In an intestate estate, personal property up to $20,000, filed with the clerk 30 or more days after death, when no personal representative petition is pending</td><td>G.S. 28A-25-1</td></tr></tbody></table><p>The small estate affidavit covers personal property. It is not a way to move a house, so do not assume it helps when real estate is the main asset.</p>"
+  },
+  {
+   "h2": "What can go wrong when a house passes through probate?",
+   "html": "<p>The biggest delay for a buyer is title that is not settled yet. A caveat challenging the will can be filed within three years after probate (G.S. 31-32), and while one is pending the clerk's order bars distributions to beneficiaries. A title company will ask whether one has been filed.</p><ul><li>No personal representative yet: ask the clerk who holds authority to sign a deed for the estate.</li><li>Heirs disagree: ask the clerk and a title company which signatures the closing requires.</li><li>Liens and taxes: each recorded lien and any unpaid property tax needs a payoff figure.</li><li>Records in another county: a will probated elsewhere has to be filed where the land lies.</li></ul><p>The state's own estate tax was repealed for deaths from January 1, 2013 forward, so no state estate return is part of the picture. Federal rules are a separate question for the estate's lawyer or accountant.</p>"
+  },
+  {
+   "h2": "What happens at the register of deeds after an heir or estate signs a deed?",
+   "html": "<p>A deed from an estate or an heir goes to the register of deeds in the county where the parcel sits. G.S. 47-18 withholds protection from a conveyance against creditors and later buyers until it is registered, and ranks competing filings by the time each was registered.</p><p>Statewide fees under G.S. 161-10 start at $26 for a short deed, and the transferor owes the seller's deed tax of $1 per $500 under G.S. 105-228.30 before filing. A fee sheet from the register's office will give the page counts and any recent change.</p>"
+  },
+  {
+   "h2": "Can an inherited house be sold quickly in North Carolina?",
+   "html": "<p>It can be, once someone has authority to sign and the title is clear enough to close. Heirs who would rather skip repairs and showings can ask Cash Home Buyers for an as-is offer. First confirm with the clerk who serves as personal representative, then gather the will, the letters and any payoff statements for liens or property tax.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is a transfer on death deed valid in North Carolina?",
+   "a": "No North Carolina statute on the legislature's site authorizes one. A 2023 Senate bill proposed it and was referred to committee on February 27, 2023, and Chapter 31 does not contain the proposed article. Ask a North Carolina attorney whether the law has changed."
+  },
+  {
+   "q": "How can I leave my house to one person and avoid probate in North Carolina?",
+   "a": "The statutes do not offer a recorded beneficiary deed. A will passes title after probate, and G.S. 31-47 lets a will leave property to the trustee of a trust created before death. A lawyer can explain which structure fits your family."
+  },
+  {
+   "q": "How long does a will have to be probated?",
+   "a": "A will has to be probated or offered for probate within two years of death, or before the clerk approves the final account if that comes sooner, to be effective against lien creditors and buyers from the heirs. G.S. 31-39 sets that rule."
+  },
+  {
+   "q": "Does the small estate affidavit cover real estate?",
+   "a": "No, it covers personal property of up to $20,000 in an intestate estate (more for a surviving spouse who is the sole heir) under G.S. 28A-25-1. The affidavit goes to the clerk of superior court in the county where the person lived, no sooner than 30 days after death."
+  },
+  {
+   "q": "Does North Carolina charge an estate tax?",
+   "a": "No. G.S. 105-32.1 through 105-32.8 were repealed for estates of people who die on or after January 1, 2013. Federal estate rules are separate."
+  }
+ ],
+ "sources": [
+  {
+   "title": "North Carolina General Statutes Chapter 31, Wills",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_31.html"
+  },
+  {
+   "title": "Senate Bill 160 (2023-2024 Session), bill lookup",
+   "url": "https://www.ncleg.gov/BillLookUp/2023/S160"
+  },
+  {
+   "title": "Bill Summaries: S160 (2023-2024 Session), Legislative Reporting Service",
+   "url": "https://webservices.ncleg.gov/BillDigests/2023/S160"
+  },
+  {
+   "title": "G.S. 28A-25-1, Collection of personal property by affidavit",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_28A/GS_28A-25-1.html"
+  },
+  {
+   "title": "North Carolina estate tax repeal, Article 1A of Chapter 105",
+   "url": "https://ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_105/Article_1A.html"
+  },
+  {
+   "title": "G.S. 47-18, Conveyances and contracts to convey",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"
+  },
+  {
+   "title": "G.S. 161-10, Fees of register of deeds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"
+  },
+  {
+   "title": "G.S. 105-228.30, Excise tax on conveyances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"
+  }
+ ]
 }
