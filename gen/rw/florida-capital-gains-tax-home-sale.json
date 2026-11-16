@@ -1,0 +1,85 @@
+{
+ "slug": "florida-capital-gains-tax-home-sale",
+ "sections": [
+  {
+   "h2": "How much of a Florida home sale gain can be excluded from tax?",
+   "html": "<p>You can exclude up to $250,000 of gain on the sale of your main home, or up to $500,000 if you file a joint return with your spouse, when you meet the ownership and use tests. That is a federal rule, explained on IRS Topic 701, and it applies to a house in Tampa the same way it applies to one in Tulsa.</p><p>Florida is where the property sits, so the Florida pieces are the deed, the recording and the county records, not a separate state gain calculation. This page covers the federal exclusion first and then the Florida paperwork that goes with the sale.</p>"
+  },
+  {
+   "h2": "What are the ownership and use tests?",
+   "html": "<p>You must have owned the home and lived in it as your residence for at least 24 months, which can be non-consecutive, during the 5 years before the sale date. The IRS says the two tests can be met in different 2-year periods, but both must fall within that same 5-year window.</p><ul><li>Ownership test: you or your spouse owned the home at least 24 months out of the last 5 years.</li><li>Use test: you and your spouse each used it as a residence at least 24 months out of the last 5 years, for a joint return.</li><li>Look-back: generally no exclusion if you excluded gain from another home sale during the two years before this sale.</li></ul><p>For a married couple filing jointly, one spouse can meet the ownership test but both must meet the use test. Publication 523 holds the full eligibility rules, the reduced exclusions and the exceptions to the two-year rule, so open it before you decide a partial year is enough.</p>"
+  },
+  {
+   "h2": "What if your gain is larger than the exclusion?",
+   "html": "<p>The part above the exclusion is a capital gain, and the tax rate depends on how long you held the home and on your taxable income. Gain on an asset held more than one year is long-term. Gain on an asset held one year or less is short-term and is taxed as ordinary income at graduated rates, per IRS Topic 409.</p><p>A loss on a personal home is not deductible, per the same IRS topic, so a seller who sells below cost cannot use the loss against other income. Capital losses on investment property are limited to $3,000 a year against other income ($1,500 if married filing separately), with the rest carried forward.</p><p>Your gain is the amount realized from the sale minus your adjusted basis. Basis is generally what you paid, and the IRS says it goes up with the cost of improvements that add to the home's value and goes down with items like depreciation and insurance reimbursements for casualty losses. Keep the closing statement from your purchase and receipts for roofs, additions and similar work, since a clean paper trail makes the gain figure easy to defend if the IRS asks.</p><p>If you inherited the home or received it as a gift, your basis follows different rules, which the IRS points to in Publication 551. A Florida heir who sells a parent's house should check that publication before filing.</p>"
+  },
+  {
+   "h2": "What are the long-term capital gains rates?",
+   "html": "<p>For taxable years beginning in 2025, the IRS prints rates of 0%, 15% and 20% on most net capital gain, set by taxable income bands. The table below uses the single and married-filing-jointly bands exactly as Topic 409 prints them. Later tax years may carry different thresholds, so check the IRS page for the year you sell.</p><table><caption>Long-term capital gains rate bands printed by the IRS for 2025</caption><thead><tr><th>Rate</th><th>Single</th><th>Married filing jointly</th></tr></thead><tbody><tr><td>0%</td><td>Taxable income up to $48,350</td><td>Taxable income up to $96,700</td></tr><tr><td>15%</td><td>Over $48,350 up to $533,400</td><td>Over $96,700 up to $600,050</td></tr><tr><td>20%</td><td>Above the 15% band</td><td>Above the 15% band</td></tr></tbody></table><p>The IRS also lists a 25% maximum rate on the unrecaptured section 1250 portion of gain from real property, which matters if you took depreciation on a home office or a rental unit. Individuals with significant investment income may owe the net investment income tax, covered on IRS Topic 559.</p>"
+  },
+  {
+   "h2": "Do you have to report a home sale that is fully excluded?",
+   "html": "<p>Yes, if you receive Form 1099-S, Proceeds From Real Estate Transactions, you must report the sale even when the whole gain is excludable. You also report it when you cannot exclude all of the gain. The IRS points filers to Form 8949 and Schedule D of Form 1040 for the reporting.</p><p>The closing agent or title company usually sends the 1099-S. If you expect no form, ask the Florida title agent handling your closing whether one will be issued. A seller who gets a taxable gain may also need to make estimated tax payments, which the IRS explains in Publication 505.</p>"
+  },
+  {
+   "h2": "What special timing rules help military and installment sellers?",
+   "html": "<p>Members of the Uniformed Services, the Foreign Service or the intelligence community on qualified official extended duty can elect to suspend the 5-year test period for up to 10 years. Extended duty means more than 90 days or an indefinite period at a station at least 50 miles from the main home, or living in government housing under orders. Florida has many military households, so this rule can matter to a seller leaving a base area.</p><p>If you sell under a contract that spreads the price over later years, that is an installment sale, and the IRS says to report it under the installment method unless you elect out. The exclusion remains available even when you use the installment method for the rest of the gain. Publication 537 and Form 6252 cover the details.</p>"
+  },
+  {
+   "h2": "What Florida closing steps come with the sale?",
+   "html": "<p>The deed carries Florida documentary stamp tax, set at 70 cents per $100 of consideration in all counties except Miami-Dade, according to the Department of Revenue. Miami-Dade prints 60 cents per $100 plus a surtax that is not due on a document transferring only a single-family dwelling. All parties to the deed are liable even if the contract names one payer.</p><p>The clerk of the circuit court records the deed and collects the tax at recording. Florida buyers also receive a property tax disclosure that says the seller's current taxes should not be relied on as the buyer's future bill, under section 689.261 of the Florida Statutes. A change of ownership resets a homestead property to just value the next January 1, which affects what the buyer owes but not your gain calculation.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Florida tax capital gains on a home sale?",
+   "a": "The exclusion is a federal rule. The IRS exclusion of $250,000 or $500,000 applies to a Florida main home when you meet the ownership and use tests. Ask the Florida Department of Revenue or a tax professional about any state-level question."
+  },
+  {
+   "q": "How long must I live in the house to qualify?",
+   "a": "At least 24 months out of the 5 years before the sale, and you must also have owned it for 24 months in that window. The months do not need to be in a row, and the tests can be met in different 2-year periods within the 5 years."
+  },
+  {
+   "q": "Can I use the exclusion twice in a short time?",
+   "a": "Generally not. The IRS says you are usually not eligible if you excluded the gain from the sale of another home during the two years before this sale. Publication 523 lists exceptions."
+  },
+  {
+   "q": "Do I need to report the sale if I owe no tax?",
+   "a": "Yes, if you receive a Form 1099-S. The IRS says you must report the sale even if the gain is excludable. You also report the sale if you cannot exclude the full gain."
+  },
+  {
+   "q": "What counts as my basis in the home?",
+   "a": "Basis is generally your cost, including the purchase price and certain closing costs, plus improvements that add value, less items like depreciation. Inherited or gifted homes follow different rules in IRS Publication 551."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "Florida DOR Documentary Stamp Tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Statutes 689.261",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.261.html"
+  },
+  {
+   "title": "Florida DOR Property Tax Taxpayer Information",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  },
+  {
+   "title": "Florida DOR Save Our Homes (pt112)",
+   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  }
+ ]
+}

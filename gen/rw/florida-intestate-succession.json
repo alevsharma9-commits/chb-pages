@@ -1,0 +1,97 @@
+{
+ "slug": "florida-intestate-succession",
+ "sections": [
+  {
+   "h2": "Who inherits a Florida house when there is no will?",
+   "html": "<p>The owner's spouse and descendants come first, then parents, then siblings, then more distant kin, following the order in Chapter 732 of the Florida Statutes. The path depends on who survives, and a house that qualifies as homestead follows an extra set of rules.</p><p>Intestate means the owner died without a valid will, or with a will that does not cover the property. In that case the Probate Code decides who takes title. Nobody can sell the house until a court names a personal representative and that person has authority to sign a deed, so the order of heirs matters mainly for knowing who gets the sale proceeds and who must agree.</p>"
+  },
+  {
+   "h2": "How much of the estate does a surviving spouse take?",
+   "html": "<p>It depends on the children. Section 732.102 gives the spouse all of the intestate estate in some family setups and only half in others.</p><ul><li>No surviving descendants of the decedent: the spouse takes the entire intestate estate.</li><li>Every descendant of the decedent is also a descendant of the spouse, and the spouse has no other descendants: the spouse takes everything.</li><li>The decedent had at least one descendant who is not the spouse's descendant: the spouse takes one-half.</li><li>All of the decedent's descendants are shared with the spouse, but the spouse has other descendants from outside the marriage: the spouse takes one-half.</li></ul><p>Blended families are where disputes start. A second spouse with their own children from an earlier relationship cuts the surviving spouse's share to half, even when every child of the decedent is also the spouse's child.</p>"
+  },
+  {
+   "h2": "Who inherits after the spouse's share, or when there is no spouse?",
+   "html": "<p>Section 732.103 sets a ladder, and each step applies only if the one above it is empty. Whatever the spouse does not take, or the whole estate when there is no spouse, passes down this list.</p><ol><li>The decedent's descendants.</li><li>The father and mother equally, or the survivor of them.</li><li>Brothers and sisters, with the descendants of any who died.</li><li>Grandparents and then aunts, uncles and their descendants, split between the paternal and maternal sides, half to each.</li><li>Kindred of the last deceased spouse, as if that spouse had survived and then died without a will.</li></ol><p>When one side of the family has no living kin, the estate goes to the other side. The statute's last clause, written for descendants of Holocaust victims, applies only to escheated property and stopped applying to proceedings filed after December 31, 2004.</p>"
+  },
+  {
+   "h2": "What happens to the family home when the owner leaves a spouse and children?",
+   "html": "<p>The spouse gets a life estate and the children get the remainder, unless the spouse elects a different split. Section 732.401 covers homestead property the owner did not leave by a valid devise.</p><p>The default is a life estate for the surviving spouse with a vested remainder to the decedent's descendants alive at death, divided per stirpes. A life tenant can live in the house but cannot hand the whole title to a buyer alone, which is why these homes often stall at sale time.</p><p>The spouse may instead elect an undivided one-half interest as a tenant in common, with the other half going to the descendants. The election must be made within 6 months after death and during the spouse's lifetime, is irrevocable once made, and is made by recording a sworn notice of election in the county where the home sits. If the spouse is incapacitated, an attorney in fact or guardian needs court approval first, and the petition must also be filed within the 6 months.</p><p>The section does not apply to property the decedent held as tenants by the entireties or in joint tenancy with right of survivorship, because those pass to the surviving co-owner.</p>"
+  },
+  {
+   "h2": "How do heirs actually sell an inherited house?",
+   "html": "<p>They open a probate estate, get a personal representative appointed, and sell through that representative, or, for small estates, use a shorter court procedure.</p><p>Summary administration under section 735.201 is available when the non-exempt estate does not exceed $150,000 or the owner died more than 2 years ago. Where only exempt property and a limited amount of other personal property remain, section 735.301 allows a court to authorize a transfer without full administration. A house is real property and rarely fits that last route, so ask the probate court clerk or a Florida probate attorney which procedure fits your file.</p><p>Creditors have a limited window. Under section 733.702 a claim is barred unless filed by the later of 3 months after the first publication of the notice to creditors or 30 days after service on a creditor who must be served. Buyers and title companies look for that clock and for a recorded order or letters of administration before they close.</p><table><thead><tr><th>Survivors</th><th>Statute</th><th>Who takes the estate</th></tr></thead><tbody><tr><td>Spouse and no descendants</td><td>732.102(1)</td><td>Spouse takes all</td></tr><tr><td>Spouse and descendants who are also the spouse's</td><td>732.102(2)</td><td>Spouse takes all</td></tr><tr><td>Spouse and a descendant who is not the spouse's</td><td>732.102(3)</td><td>Spouse one-half, rest to descendants</td></tr><tr><td>No spouse, descendants alive</td><td>732.103(1)</td><td>Descendants</td></tr><tr><td>No spouse or descendants</td><td>732.103(2)</td><td>Parents, then siblings</td></tr></tbody></table><p>Source: Florida Statutes 732.102 and 732.103, 2026 edition.</p>"
+  },
+  {
+   "h2": "What tax and deed costs come up when heirs sell?",
+   "html": "<p>A personal representative's deed under a probated will is listed by the Department of Revenue as not subject to documentary stamp tax, but a later sale deed to a buyer is taxable at the statutory rate.</p><p>Section 201.02 sets the deed tax at 70 cents on each $100 of consideration, and the Department of Revenue says every party to the document is liable regardless of who agrees to pay. Miami-Dade County uses a different rate structure, described on the department's doc stamp page. The department also states there is no specific exemption for transfers made for estate planning, so a quitclaim among heirs can be taxable.</p><p>The clerk charges recording fees under section 28.24: $5.00 for the first page and $4.00 for each added page, plus the trust fund and technology charges listed there. Florida has no estate tax for people who died after December 31, 2004, and personal representatives no longer file Forms DR-312 or DR-313.</p><p>On the property tax side, a sale or transfer of title resets the assessment to just value the next January 1, with limited exceptions such as certain transfers upon death. Heirs who rent the home lose the homestead exemption, so confirm status with the county property appraiser.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does a surviving spouse always inherit the whole house in Florida?",
+   "a": "No. The spouse takes everything only when the decedent has no descendants or when all descendants are shared with the spouse. If a descendant is not the spouse's, section 732.102 gives the spouse one-half. For a homestead with a spouse and descendants, section 732.401 usually gives the spouse a life estate instead of full title."
+  },
+  {
+   "q": "Can a surviving spouse choose half of the homestead instead of a life estate?",
+   "a": "Yes. The spouse may elect an undivided one-half interest as a tenant in common within 6 months after death and during the spouse's lifetime. The election is irrevocable and is recorded as a sworn notice in the county where the home is located."
+  },
+  {
+   "q": "Who inherits if there is no spouse and no children?",
+   "a": "The parents take equally, or the survivor of them. If neither survives, the estate goes to siblings and the descendants of deceased siblings, then to grandparent and aunt and uncle lines split between the paternal and maternal sides."
+  },
+  {
+   "q": "Is summary administration available for a house?",
+   "a": "It can be, when the non-exempt estate does not exceed $150,000 or the owner has been dead more than 2 years under section 735.201. Whether a particular house qualifies depends on the estate's value and the court's order, so check with the probate clerk or an attorney."
+  },
+  {
+   "q": "Does Florida charge estate tax on an inherited house?",
+   "a": "No. Florida has no estate tax for people who died after December 31, 2004, and personal representatives no longer file Form DR-312 or DR-313. Documentary stamp tax can still apply to deeds, and the Department of Revenue lists a personal representative's deed under a probated will as not taxable."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Fla. Stat. 732.102 Spouse's share of intestate estate",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0732/Sections/0732.102.html"
+  },
+  {
+   "title": "Fla. Stat. 732.103 Share of other heirs",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0732/Sections/0732.103.html"
+  },
+  {
+   "title": "Fla. Stat. 732.401 Descent of homestead",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0732/Sections/0732.401.html"
+  },
+  {
+   "title": "Fla. Stat. 735.201 Summary administration",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.201.html"
+  },
+  {
+   "title": "Fla. Stat. 735.301 Disposition without administration",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.301.html"
+  },
+  {
+   "title": "Fla. Stat. 733.702 Limitations on claims",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0733/Sections/0733.702.html"
+  },
+  {
+   "title": "Fla. Stat. 201.02 Documentary stamp tax on deeds",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
+  },
+  {
+   "title": "Fla. Stat. 28.24 Clerk charges",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
+  },
+  {
+   "title": "Florida Department of Revenue documentary stamp tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue estate tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/pages/estate_tax.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue Save Our Homes (pt112)",
+   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  }
+ ]
+}

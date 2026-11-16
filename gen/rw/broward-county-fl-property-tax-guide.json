@@ -1,7 +1,7 @@
 {
  "sections": [
   {
-   "h2": "Who bills and who values property in Broward County?",
+   "h2": "Which Broward offices value and bill property?",
    "html": "<p>The Broward County Property Appraiser (BCPA) values property and approves exemptions. The Broward County Tax Collector sends the bills and collects payment.</p><p>BCPA says plainly that it neither sends tax bills nor sets or collects taxes. The tax collector can be reached at (954) 357-4829 or revenue@browardtax.org, a contact BCPA prints on its home page. Deeds are recorded through the county's Official Records system, and BCPA asks owners to use its FAQ page for questions about recording.</p>"
   },
   {
@@ -18,7 +18,7 @@
   },
   {
    "h2": "Can I keep my Broward homestead benefit if I move?",
-   "html": "<p>Portability lets a seller move part of the benefit to a new Florida homestead. Establish the new one within three years of January 1 of the year the old homestead was abandoned, and file Form DR-501T with the DR-501 by March 1.</p><p>BCPA runs a Portability Estimator on its site. Statute text caps the reduction at the lesser of $500,000 or the difference between just and assessed value on the old home, and a 2026 act amends the section for the 2027 roll, so confirm the rules with BCPA before you file.</p>"
+   "html": "<p>Portability lets a seller move part of the benefit to a new Florida homestead. Establish the new one within three years of January 1 of the abandonment year of the old homestead, and file Form DR-501T with the DR-501 by March 1.</p><p>BCPA runs a Portability Estimator on its site. Statute text caps the reduction at the lesser of $500,000 or the difference between just and assessed value on the old home, and a 2026 act amends the section for the 2027 roll, so confirm the rules with BCPA before you file.</p>"
   },
   {
    "h2": "What relief programs exist for Broward owners?",
@@ -26,19 +26,19 @@
   },
   {
    "h2": "What if a Broward owner falls behind on taxes?",
-   "html": "<p>Unpaid taxes turn delinquent April 1, and the tax collector sells certificates by June 1 to the bidder offering the lowest interest rate, in quarter-percent steps. A certificate holder may not demand payment for two years after April 1 of the issue year.</p><p>After that, a holder can apply for a tax deed with a $75 fee, and the clerk runs the auction (s. 197.542). The high bidder posts a deposit of 5 percent or $200, whichever is more, and pays in full within 24 hours excluding weekends and holidays. A homeowner who sells before then can ask the tax collector for a payoff figure.</p>"
+   "html": "<p>Unpaid taxes turn delinquent April 1, and the tax collector sells certificates by June 1 to the bidder offering the lowest interest rate, in quarter-percent steps. A certificate holder may not demand payment for two years after April 1 of the issue year.</p><p>After that, a holder can apply for a tax deed with a $75 fee, and the clerk runs the auction (s. 197.542). The high bidder posts a deposit of 5 percent or $200, whichever is more, and pays in full within 24 hours excluding weekends and holidays. A homeowner who sells before then can get a payoff number from the collector's office.</p>"
   },
   {
-   "h2": "How do I appeal a Broward assessment?",
+   "h2": "Where do I challenge a Broward value?",
    "html": "<p>BCPA has an Appeals and Petitions section, and its Property Owner Bill of Rights is on the home page. A formal value petition goes to the clerk within 25 days of the August notice. Exemption denials get 30 days after the letter was mailed.</p>"
   },
   {
    "h2": "What taxes apply when a Broward house is sold?",
-   "html": "<p>The real estate tax stays with the parcel until paid, and the deed carries documentary stamp tax at 70 cents per $100 of consideration under state law. All parties to the deed are liable for the stamp tax.</p><ul><li>Real property tax: billed by the Broward County Tax Collector each November.</li><li>Documentary stamp tax: paid at recording.</li><li>Tangible personal property: a Form DR-405 return is due to the appraiser by April 1, and BCPA has a Tangible Property section for landlords with furnishings.</li></ul>"
+   "html": "<p>The real estate tax stays with the parcel until paid, and the deed carries documentary stamp tax at a rate of $0.70 for every $100 of the price and debt transferred under state law. All parties to the deed are liable for the stamp tax.</p><ul><li>Real property tax: billed by the Broward County Tax Collector each November.</li><li>Documentary stamp tax: paid at recording.</li><li>Tangible personal property: a Form DR-405 return is due to the appraiser by April 1, and BCPA has a Tangible Property section for landlords with furnishings.</li></ul>"
   },
   {
    "h2": "What should a Broward heir know before selling an inherited house?",
-   "html": "<p>The homestead exemption ends when the owner no longer lives in the home as a permanent resident, so the next year's bill can differ. Contact BCPA at (954) 357-5579 to ask how an inherited transfer will be treated. Some transfers on death are exceptions to the change-of-ownership reset in the Save Our Homes rules.</p><p>Florida's estate tax does not apply to deaths after 2004. Summary administration is available when the non-exempt estate is $150,000 or less, or the owner died over two years earlier, and creditors must file within the statutory window (s. 733.702). A personal representative's deed under a probated will is not on the documentary stamp list of taxable deeds.</p>"
+   "html": "<p>The homestead exemption ends when the owner has stopped living there, so the next year's bill can differ. Contact BCPA at (954) 357-5579 to ask how an inherited transfer will be treated. Some transfers on death are exceptions to the change-of-ownership reset in the Save Our Homes rules.</p><p>Florida's estate tax does not apply to deaths after 2004. Summary administration is available when the non-exempt estate is $150,000 or less, or the owner died over two years earlier, and creditors must file within the statutory window (s. 733.702). A personal representative's deed under a probated will is not on the documentary stamp list of taxable deeds.</p>"
   },
   {
    "h2": "What does a Broward homeowner do about unwanted occupants or tax deed notices?",
@@ -47,7 +47,7 @@
  ],
  "faqs": [
   {
-   "q": "Who collects property tax in Broward County?",
+   "q": "Which office collects Broward tax?",
    "a": "The Broward County Tax Collector. BCPA says it does not send bills and directs questions to that office at (954) 357-4829."
   },
   {
@@ -60,7 +60,7 @@
   },
   {
    "q": "Does the Save Our Homes cap pass to a buyer in Broward?",
-   "a": "No. A change of ownership resets value to market on the next January 1, so a buyer should use BCPA's tax estimator."
+   "a": "No. A change of ownership resets value to market on the next first of January, so a buyer should use BCPA's tax estimator."
   },
   {
    "q": "What is the delinquency date in Broward County?",

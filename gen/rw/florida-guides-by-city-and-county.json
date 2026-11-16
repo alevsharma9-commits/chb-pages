@@ -1,0 +1,109 @@
+{
+ "slug": "florida-guides-by-city-and-county",
+ "sections": [
+  {
+   "h2": "How is Florida organized for property sellers?",
+   "html": "<p>Florida is divided into 67 counties, and almost every step of a home sale touches a county office. Each county elects a sheriff, tax collector, property appraiser, supervisor of elections and clerk of the circuit court to four year terms.</p>\n<p>The state sets the main rules, from assessment to documentary stamp tax, but the offices that apply them are local. A seller in one county pays the same state tax rate as a seller in the next, yet dates for hearings, forms and local exemptions can differ. Start with the county where the house sits.</p>\n<p>The guides under this directory cover property tax, probate, foreclosure, eviction and selling by city and county. Use this page as a map of what each county office does and where the state rules come from.</p>"
+  },
+  {
+   "h2": "Which county office does what?",
+   "html": "<p>Four of the county offices matter most to an owner who is about to sell.</p>\n<ul>\n<li>Property appraiser: values property at just value each January 1, mails the Notice of Proposed Property Taxes in August, and decides who qualifies for exemptions.</li>\n<li>Tax collector: mails the tax bills in November, takes payment, sells tax certificates and accepts tax deferral and installment applications.</li>\n<li>Clerk of the circuit court: records deeds, collects documentary stamp tax at recording, accepts value adjustment board petitions, and runs foreclosure and tax deed sales.</li>\n<li>Sheriff: serves eviction writs and, under section 82.036, removes people who are unlawfully occupying a home after a verified complaint.</li>\n</ul>\n<p>The first three are the offices a seller deals with at closing, and a title company normally orders the payoff and tax figures from them. The details on the property tax calendar come from the <a href=\"https://floridarevenue.com/property/Pages/Taxpayers.aspx\">Department of Revenue taxpayer page</a>.</p>"
+  },
+  {
+   "h2": "What is the property tax calendar in Florida?",
+   "html": "<p>The year starts January 1, the assessment date, and ends with bills in November and delinquency on April 1. A few dates inside that cycle decide whether an owner keeps a benefit.</p>\n<table>\n<caption>Florida property tax calendar, as printed by the Department of Revenue</caption>\n<thead><tr><th>When</th><th>What happens</th></tr></thead>\n<tbody>\n<tr><td>January 1</td><td>Assessment date at just value</td></tr>\n<tr><td>March 1</td><td>Deadline to file for exemptions and classifications</td></tr>\n<tr><td>August</td><td>Notice of Proposed Property Taxes mailed</td></tr>\n<tr><td>25 days after the notice</td><td>Petition on value filed with the clerk</td></tr>\n<tr><td>November</td><td>Tax bills sent, with a 4 percent early payment discount</td></tr>\n<tr><td>April 1</td><td>Unpaid taxes become delinquent</td></tr>\n<tr><td>By June 1</td><td>Tax certificates sold on unpaid items</td></tr>\n</tbody>\n</table>\n<p>The same page lists the discount as 3 percent in December, 2 percent in January and 1 percent in February.</p>"
+  },
+  {
+   "h2": "What homestead protections matter when selling?",
+   "html": "<p>The homestead exemption is worth up to $50,000 under section 196.031. The first $25,000 applies to all property taxes including school taxes, and the additional exemption of up to $25,000 applies to assessed value over $50,000 and only to non school taxes, according to the <a href=\"https://floridarevenue.com/property/Documents/pt113.pdf\">Department of Revenue guide</a>.</p>\n<p>Owners apply by March 1 with Form DR-501, and the home must be the permanent residence by January 1. Renting the home or leaving it as the permanent home ends the exemption.</p>\n<ul>\n<li>Save Our Homes limits yearly growth in assessed value to the lower of 3 percent or the change in CPI.</li>\n<li>A sale resets the property to just value the following January 1, with exceptions such as transfers between spouses.</li>\n<li>Portability moves the benefit to a new homestead if it is established within three years of January 1 of the year the old homestead was abandoned.</li>\n</ul>"
+  },
+  {
+   "h2": "What does it cost to transfer a Florida deed?",
+   "html": "<p>The documentary stamp tax on a deed is 70 cents on each $100 of consideration under section 201.02(1)(a). The Department of Revenue says all counties except Miami-Dade use that rate.</p>\n<p>Miami-Dade charges 60 cents per $100 plus a 45 cents per $100 surtax, and the surtax is not due on a document that transfers only a single family dwelling. Consideration includes money, discharge of an obligation and any mortgage or encumbrance, whether or not assumed.</p>\n<p>Clerk recording charges add to the bill. Section 28.24 sets $5.00 for the first page and $4.00 for each additional page, among other fees. All parties to the document are liable for the tax, and the clerk collects it at recording. Check the county clerk for the total before closing.</p>"
+  },
+  {
+   "h2": "Where do probate, foreclosure and eviction fit?",
+   "html": "<p>These topics have their own statewide rules, and each has a dedicated guide in this set.</p>\n<ul>\n<li>Probate: summary administration is available if the non exempt estate does not exceed $150,000 or the decedent has been dead more than two years (section 735.201). Florida has no estate tax for people who died after December 31, 2004.</li>\n<li>Foreclosure: a judicial process in which the clerk sells the home 20 to 35 days after final judgment, and the right to cure ends at the certificate of sale.</li>\n<li>Eviction: three day notice for unpaid rent, seven day notices for lease violations, and a sheriff writ with a 24 hour posting.</li>\n<li>Tax sales: delinquent taxes lead to tax certificates sold by the tax collector, and a certificate holder may apply for a tax deed after two years.</li>\n</ul>\n<p>Each rule sits in the Florida Statutes and is administered by a county office, so the county pages are where local dates and forms live.</p>"
+  },
+  {
+   "h2": "What happens when property taxes go unpaid?",
+   "html": "<p>Unpaid taxes become delinquent on April 1, and the tax collector sells tax certificates on unpaid items by June 1. The collector awards each certificate to the bidder who demands the lowest interest rate, in quarter percent steps.</p><p>A certificate holder may file a tax deed application after two years have passed since April 1 of the year of issuance. The collector then lists those to be noticed, including the titleholder, lienholders, mortgagees and contract for deed vendees, as set out in section 197.502. The clerk holds the auction, and the opening bid on homestead property includes one half of the latest assessed value on top of the amounts due.</p><p>An owner who is behind should call the tax collector early. Payment plans, installment prepayment (apply by May 1 of the assessment year) and the homestead deferral (Form DR-570 by March 31) are all handled there.</p>"
+  },
+  {
+   "h2": "How should a seller use these guides?",
+   "html": "<p>Begin with the situation: an inherited house, a rental with a tenant, a home behind on taxes, or a loan in foreclosure. Pick the state guide for that situation, then look up the county offices that handle it.</p>\n<p>When a deadline is involved, ask the office named in the statute for the exact date. The property appraiser confirms exemption filing dates, the tax collector confirms amounts due, and the clerk confirms recording costs and sale dates. A Florida attorney can advise on a specific case.</p>"
+  },
+  {
+   "h2": "Which relief programs reach older and veteran owners?",
+   "html": "<p>Florida lets counties and cities adopt additional benefits, so the local property appraiser is the one to ask what applies. The state guides describe the options in the statutes.</p><ul><li>Age 65 or older: a county or city ordinance may add a homestead exemption of up to $50,000 when household income is within the limit (section 196.075).</li><li>Veterans 65 or older with a permanent service connected disability may receive a homestead discount equal to the VA disability percentage (section 196.082).</li><li>Disabled former servicemembers with a rating of 10 percent or more may receive a $5,000 reduction in assessed value.</li></ul><p>None of these applies automatically. File with the property appraiser by March 1, and bring the proof the office asks for.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many counties does Florida have?",
+   "a": "Florida's statutes divide the state into 67 counties, and each elects a sheriff, tax collector, property appraiser, supervisor of elections and clerk of the circuit court."
+  },
+  {
+   "q": "When is the Florida homestead filing deadline?",
+   "a": "March 1 of the tax year. Owners file Form DR-501 with the county property appraiser and must have made the home their permanent residence by January 1."
+  },
+  {
+   "q": "What is the Florida deed tax rate?",
+   "a": "70 cents per $100 of consideration under section 201.02(1)(a). Miami-Dade uses 60 cents per $100 plus a 45 cents per $100 surtax that does not apply to a document transferring only a single family home."
+  },
+  {
+   "q": "When do Florida property taxes become delinquent?",
+   "a": "April 1. Tax certificates are then sold on unpaid items by June 1, and bills arrive in November with a 4 percent discount for paying that month."
+  },
+  {
+   "q": "Does Florida have an estate tax?",
+   "a": "No. The federal change eliminated it for people who died after December 31, 2004, and personal representatives do not need to file Form DR-312 or DR-313 since July 1, 2023."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Florida Department of Revenue, taxpayer property tax page",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue, homestead exemption guide",
+   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue, Save Our Homes guide",
+   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue, documentary stamp tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida Statutes s. 201.02",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
+  },
+  {
+   "title": "Florida Statutes s. 28.24",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
+  },
+  {
+   "title": "Florida Statutes s. 735.201",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0735/Sections/0735.201.html"
+  },
+  {
+   "title": "Florida Department of Revenue, estate tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/pages/estate_tax.aspx"
+  },
+  {
+   "title": "Florida Statutes s. 82.036",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0082/Sections/0082.036.html"
+  },
+  {
+   "title": "Florida Senate, county organization analysis",
+   "url": "https://flsenate.gov/Session/Bill/2023/1373/Analyses/h1373c.JDC.PDF"
+  },
+  {
+   "title": "Florida Statutes s. 197.502",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
+  }
+ ]
+}

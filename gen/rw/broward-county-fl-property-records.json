@@ -13,12 +13,12 @@
    "html": "<p>In Broward the recording office sits within the county's Records, Taxes and Treasury Division, with questions answered at 954-831-4000. Confirm the office and the amount due before you mail a deed.</p><p>The division also offers bulk data. It provides 10 continuous days of Official Records files at no charge, with images and index data, and it lists electronic recording vendors for firms that file many documents. A single homeowner rarely needs either, but a title company handling your Broward closing may use e-recording.</p>"
   },
   {
-   "h2": "What does it cost to record a deed in Broward County?",
+   "h2": "What does it cost to file a deed in Broward County?",
    "html": "<p>Florida sets the clerk charges by statute, and the table shows the lines in s. 28.24(13). Confirm the total with the Broward recording office, since other charges can be added.</p><table><caption>Statutory recording lines, Florida s. 28.24(13)</caption><thead><tr><th>Item</th><th>Charge</th></tr></thead><tbody><tr><td>First page (up to 14 by 8.5 inches)</td><td>$5.00</td></tr><tr><td>Each added page</td><td>$4.00</td></tr><tr><td>Each name past four</td><td>$1.00</td></tr><tr><td>Modernization trust fund, first page</td><td>$1.00</td></tr><tr><td>Modernization trust fund, added pages</td><td>$0.50</td></tr><tr><td>Technology charge per page</td><td>$4</td></tr></tbody></table>"
   },
   {
    "h2": "What is the documentary stamp tax on a Broward deed?",
-   "html": "<p>Broward uses the standard state rate of 70 cents per $100 of consideration. Miami-Dade next door has its own rates, and Broward does not share them.</p><p>Mortgages on the property count as consideration even if the buyer does not assume them. All parties to the deed owe the tax, no matter who agrees to pay it in the contract. Deeds are taxable whether or not they are recorded.</p><ul><li>Taxable examples: warranty, special warranty, quit claim and trustee's deeds, deeds in lieu of foreclosure and certificates of title.</li><li>Exempt examples: spousal homestead deeds where a mortgage is the only consideration, and divorce deeds for the marital home.</li><li>Lady bird deeds: a 2020 Department of Revenue advisement found one not subject to the tax on the facts presented, because no present beneficial interest passed.</li></ul>"
+   "html": "<p>Broward uses the standard state rate of a rate of $0.70 for every $100 of the price and debt transferred. Miami-Dade next door has its own rates, and Broward does not share them.</p><p>Mortgages on the property count as consideration even if the buyer does not assume them. All parties to the deed owe the tax, no matter who agrees to pay it in the contract. Deeds are taxable whether or not they are recorded.</p><ul><li>Taxable examples: warranty, special warranty, quit claim and trustee's deeds, deeds in lieu of foreclosure and certificates of title.</li><li>Exempt examples: spousal homestead deeds where a mortgage is the only consideration, and divorce deeds for the marital home.</li><li>Lady bird deeds: a 2020 Department of Revenue advisement found one not subject to the tax on the facts presented, because no present beneficial interest passed.</li></ul>"
   },
   {
    "h2": "How can I protect a Broward owner from deed fraud?",
@@ -26,19 +26,19 @@
   },
   {
    "h2": "What happens to property taxes after a Broward sale?",
-   "html": "<p>The appraiser states that a change of ownership resets assessed value to full market value, which can raise the new owner's taxes. A Save Our Homes cap that protected a long-time seller does not travel with the house.</p><p>The appraiser does not send bills or collect tax. Billing and collection belong to the Broward County Tax Collector, whose appraiser-listed contact is (954) 357-4829 and revenue@browardtax.org. Portability lets a seller carry part of the homestead benefit to a new Florida home if the new homestead is established within three years of January 1 of the year the old one was abandoned.</p>"
+   "html": "<p>The appraiser states that a change of ownership resets assessed value to full market value, which can raise the new owner's taxes. A Save Our Homes cap that protected a long-time seller does not travel with the house.</p><p>The appraiser does not send bills or collect tax. Billing and collection belong to the Broward County Tax Collector, whose appraiser-listed contact is (954) 357-4829 and revenue@browardtax.org. Portability lets a seller carry part of the homestead benefit to a new Florida home if the new homestead is established within three years of the first of January in the year the old one was abandoned.</p>"
   },
   {
    "h2": "How do liens and foreclosures show up in Broward records?",
-   "html": "<p>Search by party name and by parcel ID, because liens attach to the property and to the person. A foreclosure ends with a certificate of title, and the sale is confirmed when no objection arrives within 10 days after the certificate of sale (s. 45.031).</p><p>A tax deed buyer must apply after two years from April 1 of the certificate year, and the tax collector lists everyone to be notified, including mortgagees and contract-for-deed vendees (s. 197.502).</p>"
+   "html": "<p>Search by party name and by parcel ID, because liens attach to the property and to the person. A foreclosure ends with a certificate of title, and the sale is confirmed when no objection arrives ten days after that certificate (s. 45.031).</p><p>A tax deed buyer must apply after two years from April 1 of the certificate year, and the tax collector lists everyone to be notified, including mortgagees and contract-for-deed vendees (s. 197.502).</p>"
   },
   {
-   "h2": "How do I record a deed after a Broward house sale?",
+   "h2": "How is a Broward deed filed after closing?",
    "html": "<p>A title company can file the deed electronically through one of the vendors the county lists for electronic recording. A seller doing it by hand should call 954-831-4000 first.</p><p>Check three things before filing: the grantor name matches the last recorded deed, the legal description is copied exactly, and the two required witnesses signed (s. 689.01). The deed is taxable whether or not it is recorded, so skipping the filing does not avoid the stamp tax.</p><ul><li>Gather the parcel ID from the appraiser site.</li><li>Prepare the recording charges and stamp tax in the amounts the office quotes.</li><li>Keep the instrument number once it is recorded; the search supports instrument number lookups.</li></ul>"
   },
   {
    "h2": "How do records help with an inherited Broward house?",
-   "html": "<p>Search the decedent under every name variation and look for unreleased mortgages. A personal representative's deed under a probated will is not taxable for stamp tax, and Florida has had no estate tax for deaths after 2004.</p><p>Summary administration may fit an estate of $150,000 or less in non-exempt assets, or an owner dead more than two years (s. 735.201). Creditors must file by the later of three months after first notice or 30 days after service (s. 733.702). A title company will want these steps done before it insures the sale.</p>"
+   "html": "<p>Search the decedent under every name variation and look for unreleased mortgages. A personal representative's deed under a probated will is not taxable for stamp tax, and Florida has had no estate tax for deaths after 2004.</p><p>Summary administration may fit an estate of $150,000 or less in non-exempt assets, or an owner dead more than two years (s. 735.201). Creditors must file by the later of three months after first notice or 30 days after service (s. 733.702). Expect the title insurer to want these steps finished first.</p>"
   },
   {
    "h2": "What can a foreclosure mean for a Broward title search?",
@@ -56,7 +56,7 @@
   },
   {
    "q": "What is the Florida deed stamp rate in Broward?",
-   "a": "It is 70 cents per $100 of consideration under s. 201.02. All parties are liable for it, and the clerk or recorder collects it at filing."
+   "a": "It is a rate of $0.70 for every $100 of the price and debt transferred under s. 201.02. All parties are liable for it, and the clerk or recorder collects it at filing."
   },
   {
    "q": "Can I get a free alert if someone records a deed on my house?",
@@ -64,7 +64,7 @@
   },
   {
    "q": "Does my homestead cap transfer to the buyer?",
-   "a": "No. A change of ownership resets assessed value to just value the next January 1, per the Florida Department of Revenue. Exceptions cover things like transfers between spouses."
+   "a": "No. A change of ownership resets assessed value to just value the next first of January, per the Florida Department of Revenue. Exceptions cover things like transfers between spouses."
   }
  ],
  "sources": [
