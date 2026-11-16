@@ -11,7 +11,7 @@
   },
   {
    "h2": "Due dates and penalties",
-   "html": "<p>Hennepin splits the bill into a May 15 payment and an October 15 payment. If a date falls on a weekend or holiday, you have until the next business day. These match the state rule in Minnesota Statutes 279.01 for any parcel with more than $100 in tax.</p><p>Pay late and the charge starts the very next day: 2 percent for a homestead, 4 percent for everything else. It doubles on the first of the following month, and each month after that through December adds 1 percent more. The ceiling is 8 percent for a homestead and 12 percent for a nonhomestead parcel. The county credits a late payment to penalty before it credits tax.</p><p>There is one way out. You can ask for a penalty abatement on a late half once every ten years, but only after the whole tax is paid and only if no older year is unpaid on the parcel.</p>"
+   "html": "<p>Expect two bills a year in Hennepin: spring money by May 15, fall money by October 15. A deadline that lands on a weekend or holiday rolls forward one business day. Minnesota Statutes 279.01 sets this pattern for any parcel owing over $100.</p><p>A late half gets hit the next day with 2 percent if the home is a homestead and 4 percent if it is anything else. On the first of the next month that charge repeats at the same size, and every month after that through December adds 1 percent more. Homestead penalties stop at 8 percent, nonhomestead at 12 percent. The county credits a late payment to penalty before it credits tax.</p><p>There is one way out. You can ask for a penalty abatement on a late half once every ten years, but only after the whole tax is paid and only if no older year is unpaid on the parcel.</p>"
   },
   {
    "h2": "How to pay",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "How to appeal your valuation",
-   "html": "<p>Market value is fixed as of January 2, and the notice reaches your mailbox in March. Each property gets a physical walk-through on a five-year cycle. Today's value sets next year's tax, which makes a high-looking notice worth a close read.</p><p>Your first move is a call to the assessor whose number is on the notice, or a visit to an open book session if your city offers one. If you still disagree, write to or appear before the local board of appeal and equalization, and after that the county board, which meets in mid-June. To get on the county board's list, call 612-348-7050 or email countyvalueappeal@hennepin.us before the date shown on the notice. Court is the other path: Minnesota Tax Court, or a district court petition that Minnesota Statutes 278.01 requires by April 30 of the year the tax is payable.</p><table><caption>Hennepin County property tax calendar</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 2</td><td>Assessor sets market value and classification</td></tr><tr><td>March</td><td>Valuation notices and tax statements mailed</td></tr><tr><td>April to May</td><td>Calls, open book meetings and local boards</td></tr><tr><td>May 15</td><td>First half due</td></tr><tr><td>Mid June</td><td>County board of appeal and equalization</td></tr><tr><td>October 15</td><td>Second half due</td></tr><tr><td>Mid to late November</td><td>Proposed levies and notices for next year</td></tr><tr><td>November 25 and after</td><td>Truth-in-taxation meetings</td></tr></tbody></table>"
+   "html": "<p>Market value is fixed as of January 2, and the notice reaches your mailbox in March. Each property gets a physical walk-through on a five-year cycle. Today's value sets next year's tax, which makes a high-looking notice worth a close read.</p><p>Your first move is a call to the assessor whose number is on the notice, or a visit to an open book session if your city offers one. If you still disagree, write to or appear before the local board of appeal and equalization, and after that the county board, which meets in mid-June. To get on the county board's list, call 612-348-7050 or email countyvalueappeal@hennepin.us before the date shown on the notice. Court is the other path: Minnesota Tax Court, or a district court petition that Minnesota Statutes 278.01 requires by April 30 of the year the tax is payable.</p><table><caption>Yearly rhythm of a Hennepin tax bill</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 2</td><td>Value and classification fixed</td></tr><tr><td>March</td><td>Notices and tax statements go out</td></tr><tr><td>April to May</td><td>Assessor calls, open book sessions, local boards</td></tr><tr><td>May 15</td><td>First half due</td></tr><tr><td>Mid June</td><td>County board of appeal and equalization</td></tr><tr><td>October 15</td><td>Second half due</td></tr><tr><td>Mid to late November</td><td>Next year's proposed levies announced</td></tr><tr><td>November 25 and after</td><td>Truth-in-taxation hearings</td></tr></tbody></table>"
   },
   {
    "h2": "Which cities run their own assessor?",
@@ -41,11 +41,11 @@
  "faqs": [
   {
    "q": "When do I pay Hennepin County property tax?",
-   "a": "Two payments: May 15 and October 15. Weekends and holidays push the date to the next business day, and a check in the mail needs a postmark by then."
+   "a": "Spring and fall: May 15 and October 15. If either falls on a day off, you get the following business day. Mailed checks count when postmarked by the deadline."
   },
   {
    "q": "Is a sale possible with Hennepin County taxes still owed?",
-   "a": "Yes. The overdue amount just has to be settled first, because the deed will not be recorded while the auditor shows delinquent tax. In practice the payoff is taken from your sale proceeds at closing."
+   "a": "Yes, but the overdue tax gets cleared first, since the auditor will not release a deed while delinquent tax shows on the parcel. Most sellers simply have the payoff deducted from proceeds at closing."
   },
   {
    "q": "What is the first step to dispute a Hennepin County value?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "What does it cost to pay Hennepin County tax with a card?",
-   "a": "Online, Visa debit adds $2.95 and other electronic methods add 2.29%, all kept by the processor. E-check online is free. At the 6th floor counter a card carries 2.49%."
+   "a": "Paying online with Visa debit costs a $2.95 flat fee, other electronic methods cost 2.29%, and the processor keeps it. An online e-check costs nothing. Cards at the 6th floor counter run 2.49%."
   },
   {
    "q": "Where do I get answers about my Hennepin County tax bill?",
