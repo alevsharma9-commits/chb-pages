@@ -1,0 +1,125 @@
+{
+ "slug": "dallas-county-ia-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Dallas County market context",
+   "html": "<p>Dallas County sits just west of Des Moines, with Adel as seat and Waukee as the largest city. Growth here is fast: 66,135 residents in 2010, 99,678 in 2020, and an estimated 118,457 in 2025. Median home value is $355,600, 69.0 percent of homes are owner-occupied, and median household income is $102,379. Waukee alone climbed from 5,126 people in 2000 to 23,940 in 2020.</p><p>Watch for one wrinkle on addresses. West Des Moines is mostly in Polk County, so a West Des Moines mailing address can be billed by either county. The parcel record settles which one taxes your house.</p>"
+  },
+  {
+   "h2": "County offices and phone numbers",
+   "html": "<p>Most property offices share the Administration Building at 800 Court Street in Adel, and the county also has a location in Perry. The courthouse itself is listed at 801 Court Street.</p><ul><li><strong>Treasurer, Tax Division:</strong> 800 Court Street, Suite 111, first floor. Phone 515-993-5808, email propertytax@dallascountyiowa.gov.</li><li><strong>Assessor:</strong> 515-993-5802.</li><li><strong>Auditor:</strong> 515-993-6914. Builds levy rates out of local budgets.</li><li><strong>Recorder:</strong> 800 Court Street, Suite 130. Phone 515-993-5804, open Monday to Friday, 8:00 a.m. to 4:00 p.m., with an online record search and a transfer tax calculator.</li></ul>"
+  },
+  {
+   "h2": "Payment dates and penalties",
+   "html": "<p>Half the bill is due September 1 and goes delinquent after September 30. The other half is due March 1 and goes delinquent after March 31. Mailed statements go out in August.</p><p>Interest on late payments is 1.5 percent monthly, rounded to the dollar. For proof of mailing, Dallas County takes only a U.S. Postal Service postmark. A check date or a postage meter date will not do, so ask the post office to stamp the envelope while you wait.</p><table><caption>Dallas County property tax calendar</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>September 1</td><td>First half due</td></tr><tr><td>March 1</td><td>Second half due</td></tr><tr><td>Third Monday in June</td><td>Annual county tax sale</td></tr><tr><td>June 1</td><td>Senior and disabled credit applications due</td></tr><tr><td>September 30</td><td>Special assessment credit claim due</td></tr></tbody></table><p>Never receiving a statement is not an excuse. New owners should phone for one, and owners with a lender should confirm the lender holds the right parcel data.</p>"
+  },
+  {
+   "h2": "The June tax sale",
+   "html": "<p>The treasurer runs the yearly auction on the third Monday in June, though another date can be chosen if needed. The same office processes redemptions, issues tax sale deeds and handles suspensions.</p><p>A certificate holder may pay later delinquent taxes after November 15 and May 15 when a half remains unpaid. Owners and others with a recorded interest can redeem by paying the tax that was sold plus 2 percent for each month. If nobody redeems, the lien can end in a tax deed.</p>"
+  },
+  {
+   "h2": "Assessments and protests",
+   "html": "<p>Each parcel is valued as of January 1, and Iowa's cycle takes roughly 18 months to reach a bill. A January 2026 assessment, for instance, leads to bills in fall 2027 and spring 2028.</p><p>Protests go to the Board of Review from April 2 through April 30 under Iowa Code 441.37. You may argue unequal treatment against like property, a value over the legal amount, a wrong exemption or classification, a mistake, or fraud. The board cannot extend the deadline, though in federal disaster counties the window can shift to May 1 through June 5.</p><p>After a state equalization order, a second protest period runs October 9 to October 31, limited to arguing that the order pushed value past what Iowa Code 441.21 allows. Appeals go to the Property Assessment Appeal Board or to district court within 20 days after the board adjourns.</p>"
+  },
+  {
+   "h2": "Homestead exemption changes",
+   "html": "<p>Senate File 2472, signed May 18, 2026, trades the old homestead credit for an exemption worth 10 percent of taxable value, with a floor of $5,500 and a cap of $20,000, starting with the 2026 assessment year. It first appears on the September 2027 and March 2028 bills.</p><p>Current claimants need not refile, and the disabled veteran credit stays. A buyer applies in their own name. For eligibility questions, the Department of Revenue's property tax division answers at 515-281-3114.</p>"
+  },
+  {
+   "h2": "Taxes and recording at closing",
+   "html": "<p>Most sales credit the buyer with the seller's share of the current year's tax at the table, and the deed is recorded with the Recorder in Adel.</p><p>Transfer tax is 80 cents per $500 over the first $500. Each deed needs a declaration of value signed by a seller, a buyer or an agent, and the assessor holds it for three years from December 31 of the transfer year. The contract decides which side pays the tax.</p>"
+  },
+  {
+   "h2": "Steps before you list",
+   "html": "<p>Phone the Treasurer's Tax Division at 515-993-5808 and ask for the balance on each half. If either half is late, ask for the interest to your target closing date. Confirm the parcel number matches your deed, especially if your mailing address sounds like a different city. Ask the assessor at 515-993-5802 what credits are on the house, and note that a buyer must apply for their own. Use the Recorder's transfer tax calculator to see the tax before you set a price. With these answers, the title company can order a payoff, and the closing proceeds without a late surprise. If the house needs work and you would rather skip repairs, a cash sale as-is leaves these tax steps unchanged while shortening the rest of the timeline.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are Dallas County property taxes due?",
+   "a": "The first half is due September 1 and the second March 1. Interest of 1.5 percent a month applies after September 30 and March 31."
+  },
+  {
+   "q": "Where is the Dallas County Treasurer?",
+   "a": "The tax division is at 800 Court Street, Suite 111, Adel, on the first floor of the Administration Building. The phone is 515-993-5808."
+  },
+  {
+   "q": "When is the Dallas County tax sale?",
+   "a": "The third Monday in June, unless the treasurer sets a different date."
+  },
+  {
+   "q": "How do I protest my Dallas County assessment?",
+   "a": "File a written petition with the Board of Review between April 2 and April 30. If you disagree with the ruling, appeal to the Property Assessment Appeal Board or to district court."
+  },
+  {
+   "q": "Do Dallas County owners need to refile for the new homestead exemption?",
+   "a": "No, current credit claimants do not need to refile. New owners apply for their own."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Dallas County, Iowa (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Dallas_County,_Iowa"
+  },
+  {
+   "title": "Adel, Iowa (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Adel,_Iowa"
+  },
+  {
+   "title": "Waukee, Iowa (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Waukee,_Iowa"
+  },
+  {
+   "title": "Perry, Iowa (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Perry,_Iowa"
+  },
+  {
+   "title": "Census Bureau QuickFacts, Dallas County, Iowa",
+   "url": "https://www.census.gov/quickfacts/dallascountyiowa"
+  },
+  {
+   "title": "Dallas County, Property Tax",
+   "url": "https://www.dallascountyiowa.gov/231/Property-Tax"
+  },
+  {
+   "title": "Dallas County, Recorder",
+   "url": "https://www.dallascountyiowa.gov/199/Recorder"
+  },
+  {
+   "title": "Iowa State Association of Counties, Dallas County directory",
+   "url": "https://member-portal.iowacounties.org/countydirectory/directory/dallas"
+  },
+  {
+   "title": "Iowa Tax and Tags, Important dates",
+   "url": "https://www.iowataxandtags.org/property-tax/important-dates"
+  },
+  {
+   "title": "Iowa Tax and Tags, Tax sale",
+   "url": "https://www.iowataxandtags.org/property-tax/tax-sale/"
+  },
+  {
+   "title": "Iowa Code 441.37",
+   "url": "https://www.legis.iowa.gov/docs/code/2025/441.37.pdf"
+  },
+  {
+   "title": "Iowa Code 428A.1",
+   "url": "https://www.legis.iowa.gov/docs/code/428A.1.pdf"
+  },
+  {
+   "title": "Iowa Department of Revenue, Iowa property tax overview",
+   "url": "https://revenue.iowa.gov/taxes/tax-guidance/property-tax/iowa-property-tax-overview"
+  },
+  {
+   "title": "Iowa Department of Revenue, Homestead tax credit and exemption",
+   "url": "https://revenue.iowa.gov/taxes/tax-guidance/property-tax/homestead-tax-credit-and-exemption"
+  },
+  {
+   "title": "Iowa Department of Revenue, Equalization and assessment limitations",
+   "url": "https://revenue.iowa.gov/taxes/tax-guidance/property-tax/equalization-and-assessment-limitations"
+  },
+  {
+   "title": "Property Assessment Appeal Board, protest to local board of review",
+   "url": "https://paab.iowa.gov/how-do-i-protest-local-board-review"
+  }
+ ]
+}
