@@ -33,3 +33,4 @@
 - georgetown-tx-property-tax-guide: states $0.363167 as 2026 levy, adoption not confirmed on an official page (notice prints proposed/voter-approval rate). Verify or reword.
 - TX clerk fee conflicts: cameron-county-tx and hidalgo-county-tx pages quote a clerk-printed $35 first-page fee vs state manual $5; pages tell readers to confirm. Recheck against current clerk fee schedules.
 - north-carolina-closing-costs 84, north-carolina-eviction-process 85 (merged); old NC probate page said register of deeds acts as probate judge, new page says clerk of superior court: check other NC pages for the old claim.
+- merged below gate: lenoir-county-nc-property-tax-guide 84.
