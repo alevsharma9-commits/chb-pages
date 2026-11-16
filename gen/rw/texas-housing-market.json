@@ -1,0 +1,97 @@
+{
+ "slug": "texas-housing-market",
+ "sections": [
+  {
+   "h2": "What do official numbers say about the Texas housing market?",
+   "html": "<p>Two federal sources give a clear statewide picture: the Federal Housing Finance Agency (FHFA) house price index and Census Bureau QuickFacts. Neither predicts prices, and neither describes one street, so treat them as context for a sale and not as a valuation.</p><p>The Census Bureau estimates Texas had 31,709,821 residents on July 1, 2025, up 8.8% from the April 2020 estimates base. It counts 12,848,245 housing units for the same date.</p>"
+  },
+  {
+   "h2": "What does the FHFA price index show for Texas?",
+   "html": "<p>The FHFA index for Texas stood at 450.76 not seasonally adjusted and 444.25 seasonally adjusted in the second quarter of 2026, with the first quarter of 1991 set to 100. In plain terms, the index says repeat-sale prices in Texas are a little over four and a half times the 1991 starting level.</p><p>The index follows price changes in repeated transactions on mortgages that Fannie Mae and Freddie Mac bought or guaranteed. It does not report the price of any one house, so it can differ from what a particular neighborhood experienced, and it tracks repeat sales of the same properties over time. The recent quarters are below.</p><table><caption>FHFA purchase-only state series for Texas, index with 1991 Q1 = 100</caption><thead><tr><th>Quarter</th><th>Not seasonally adjusted</th><th>Seasonally adjusted</th></tr></thead><tbody><tr><td>2025 Q1</td><td>447.18</td><td>446.73</td></tr><tr><td>2025 Q2</td><td>448.84</td><td>442.24</td></tr><tr><td>2025 Q3</td><td>444.22</td><td>441.17</td></tr><tr><td>2025 Q4</td><td>439.98</td><td>441.96</td></tr><tr><td>2026 Q1</td><td>441.85</td><td>441.23</td></tr><tr><td>2026 Q2</td><td>450.76</td><td>444.25</td></tr></tbody></table><p>The seasonally adjusted column moves in a narrow band across these six quarters, between 441.17 and 446.73. Read the pattern as a plateau in the series, and ask a local agent or appraiser what your own area did.</p>"
+  },
+  {
+   "h2": "What does Census QuickFacts say about Texas homes and owners?",
+   "html": "<p>QuickFacts lists the owner-occupied housing unit rate at 62.6% for 2020 to 2024, and the median value of owner-occupied units at $283,800 for the same period. These are survey-based figures for the whole state.</p><ul><li>Median selected monthly owner costs, 2020 to 2024: $2,106 with a mortgage and $678 without one.</li><li>Median gross rent, 2020 to 2024: $1,403.</li><li>Households, 2020 to 2024: 10,992,816, at 2.69 persons per household.</li><li>Building permits issued in 2025: 210,217.</li><li>Median household income, 2020 to 2024 in 2024 dollars: $78,476.</li></ul><p>The gap between the $2,106 and $678 owner-cost medians shows how much of ownership cost is the mortgage. Property tax is part of owner costs on both lines, which is why the tax calendar matters to a seller.</p>"
+  },
+  {
+   "h2": "How fast is Texas growing, and what does that mean for housing?",
+   "html": "<p>Texas added about 2.56 million residents between the April 2020 estimates base of 29,149,498 and the July 2025 estimate of 31,709,821. The 2020 census count was 29,145,505, and the 2010 count was 25,145,561.</p><p>Housing supply follows people. Builders took out 210,217 building permits in 2025 according to QuickFacts, and the state counts 111.6 people per square mile as of 2020, against 96.3 in 2010. Over 261,000 square miles of land means growth is uneven: a metro suburb and a rural county can sit at opposite ends of the same statewide average.</p>"
+  },
+  {
+   "h2": "Who lives in Texas homes?",
+   "html": "<p>QuickFacts gives a few details that shape demand for houses.</p><ul><li>Persons under 18: 24.0% of the population; persons 65 and over: 14.9%.</li><li>Veterans, 2020 to 2024: 1,402,357.</li><li>Living in the same house one year earlier: 86.0% of residents aged one and older.</li><li>In the civilian labor force: 64.7% of residents aged 16 and over, with a mean commute of 26.7 minutes.</li><li>Persons in poverty: 13.4%.</li></ul><p>The 65-and-older share and the veteran count matter for sellers because both groups can qualify for homestead tax relief, which changes what a buyer inherits in carrying cost. Ask the appraisal district what exemptions are attached to a property before you quote its taxes to a buyer.</p>"
+  },
+  {
+   "h2": "Why do median values differ from what homes sell for?",
+   "html": "<p>The QuickFacts median is the owners' own estimate of value in a multi-year survey. It lags the market and covers every kind of owner-occupied home, from rural ranch houses to suburban new builds.</p><p>The FHFA series is built from transactions, but it is a relative index. It tells you how prices moved against 1991, not what a three-bedroom house is worth today. For a number you can negotiate with, a local comparable sales review or an appraisal does the work that statewide data cannot.</p>"
+  },
+  {
+   "h2": "How do property taxes fit into Texas home values?",
+   "html": "<p>Texas has no state property tax, so local units set rates, and the appraisal district values every property as of January 1 each year. Market value on that date, plus who owns the property, decides what is taxable and who owes.</p><ul><li>Notices of appraised value for single-family homesteads go out around April 1.</li><li>The deadline to protest with the appraisal review board is generally May 15, or 30 days after the notice is delivered if that is later.</li><li>Taxing units adopt rates by late September, and bills go out around October 1.</li><li>Taxes unpaid on February 1 are delinquent, with a six percent penalty and one percent interest added.</li></ul><p>A homeowner with a homestead exemption also has an appraisal cap of 10 percent a year on the homestead's appraised value, so a rising market does not translate one for one into a rising taxable value.</p>"
+  },
+  {
+   "h2": "What does it cost to record a deed after a Texas sale?",
+   "html": "<p>The county clerk in the county where the property sits records the deed. The 2023 county clerk manual from the Texas courts lists a $5.00 fee for the first page and $4.00 for each additional page, plus $0.25 for each name over five that must be indexed.</p><ul><li>Records management and preservation fee: not more than $10.</li><li>Records archive fee: not more than $10.</li><li>Records technology and infrastructure fee: $2.00.</li></ul><p>A conveyance can be recorded only if it is signed and acknowledged before an authorized officer such as a notary, or sworn before two subscribing witnesses. Fees can change, so ask the clerk of your county for the current schedule.</p>"
+  },
+  {
+   "h2": "What should a Texas seller take from the data?",
+   "html": "<p>Use the statewide figures for background and rely on local evidence for pricing. The 2026 quarterly index values show a steady series, and the Census medians describe an owner base that is mostly homeowners, but neither can say what a specific house will fetch or how long it will take to close.</p><p>Before listing or taking an offer, pull your latest appraisal notice, ask the county tax office for the payoff on the current year's taxes, and ask the county clerk about any recorded liens. A tax lien attaches on January 1, so taxes for the year are part of the closing math even when the bill has not been mailed yet.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the FHFA house price index for Texas?",
+   "a": "It was 450.76 not seasonally adjusted and 444.25 seasonally adjusted for the second quarter of 2026, with 1991 Q1 equal to 100. It tracks repeat-sale price changes, not any one home."
+  },
+  {
+   "q": "What is the median home value in Texas?",
+   "a": "The Census Bureau lists $283,800 as the median value of owner-occupied housing units for 2020 to 2024. That is a statewide survey figure and local medians differ."
+  },
+  {
+   "q": "What share of Texans own their homes?",
+   "a": "The owner-occupied housing unit rate is 62.6% for 2020 to 2024 in Census QuickFacts."
+  },
+  {
+   "q": "Can this data predict where Texas prices are heading?",
+   "a": "No. Both sources report history, and neither offers a forecast. Use local comparable sales for pricing a particular house."
+  },
+  {
+   "q": "When are Texas property tax bills due?",
+   "a": "Bills go out around October 1 and taxes unpaid on February 1 are delinquent, per the Comptroller. A bill mailed after January 10 can move the delinquency date later."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Census Bureau QuickFacts: Texas",
+   "url": "https://www.census.gov/quickfacts/fact/table/TX/PST045225"
+  },
+  {
+   "title": "FHFA House Price Index datasets",
+   "url": "https://www.fhfa.gov/data/hpi/datasets"
+  },
+  {
+   "title": "FHFA state HPI quarterly file (purchase-only)",
+   "url": "https://www.fhfa.gov/hpi/download/quarterly_datasets/hpi_po_state.txt"
+  },
+  {
+   "title": "Texas Courts: County clerk manual 2023",
+   "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"
+  },
+  {
+   "title": "Texas Comptroller: Property tax basics",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/basics.php"
+  },
+  {
+   "title": "Texas Comptroller: Property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  },
+  {
+   "title": "Texas Comptroller: Paying property taxes",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  },
+  {
+   "title": "Texas Comptroller: Appraisal and tax limitations",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/appraisal-tax-limitations.php"
+  }
+ ]
+}
