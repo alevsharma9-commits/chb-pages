@@ -3,57 +3,61 @@
  "sections": [
   {
    "h2": "Which offices handle your tax bill",
-   "html": "<p>Everything runs through the Redwood County Government Center at 403 South Mill Street in Redwood Falls. Valuation and classification belong to the Assessor, reached at 507-637-4008. Billing and collection belong to the Auditor-Treasurer at 507-637-4013. The Recorder files deeds at 507-637-4032.</p><p>Letters go to P.O. Box 130, Redwood Falls, MN 56283. Phone lines at the assessor's desk stay open weekdays until 4:30 p.m.</p>"
+   "html": "<p>The Redwood County Government Center, 403 South Mill Street in Redwood Falls, is the single stop. The Assessor (507-637-4008) decides value and class. The Auditor-Treasurer (507-637-4013) sends bills and takes the money. Deeds are filed with the Recorder at 507-637-4032.</p><p>Mail goes to P.O. Box 130, Redwood Falls, MN 56283, and the assessor's phone is staffed on weekdays until 4:30 p.m.</p>"
   },
   {
    "h2": "Redwood County housing market",
-   "html": "<p>Redwood County is rolling cropland in southwest Minnesota, and Redwood Falls is the county seat. Population is 15,265, which is 1.0% fewer than the 2020 base count. A typical owner-occupied house is valued at $158,200. Owners live in 78.4% of homes, and renters pay a median of $757 a month. There are 7,133 housing units, and only seven building permits were issued in 2025.</p><p>The 2020 census counted 10.8% of housing units vacant and 21.4% of occupied homes rented. At these prices, even a modest balance of back tax or penalty is a real line item on a closing statement.</p>"
+   "html": "<p>This is rolling cropland in southwest Minnesota with Redwood Falls as the seat. The county has 15,265 residents, 1.0% below the 2020 count, and 7,133 housing units. A typical owner-occupied house is worth $158,200. About 78.4% of homes are owner-lived, and median rent is $757 a month. Builders pulled just seven permits in 2025, so resale is most of the market.</p><p>The 2020 census found 10.8% of housing units vacant and 21.4% of occupied homes rented. When prices run this low, a small back-tax balance or penalty is a noticeable line on a closing statement.</p>"
   },
   {
    "h2": "Due dates",
-   "html": "<p>Real estate tax comes due in mid-May and mid-October. Agricultural land and manufactured homes owe the second half in mid-November, and in 2026 that date is Monday, November 16.</p><table><caption>Redwood County property tax due dates for 2026</caption><thead><tr><th>Property type</th><th>First half</th><th>Second half</th></tr></thead><tbody><tr><td>Real estate</td><td>Friday, May 15</td><td>Thursday, October 15</td></tr><tr><td>Agricultural real estate</td><td>Friday, May 15</td><td>Monday, November 16</td></tr><tr><td>Personal property</td><td>Friday, May 15</td><td>None</td></tr><tr><td>Manufactured home</td><td>Monday, August 31</td><td>Monday, November 16</td></tr></tbody></table><p>Late payment penalties come from Minnesota Statutes section 279.01 and differ for homestead and nonhomestead land. The county also bills $30 for any bounced check, failed electronic payment or reversed payment.</p>"
+   "html": "<p>Ordinary real estate pays in mid-May and mid-October. Farm land and manufactured homes pay their second half a month later, and for 2026 that falls on Monday, November 16.</p><table><caption>Redwood County property tax due dates for 2026</caption><thead><tr><th>Property type</th><th>First half</th><th>Second half</th></tr></thead><tbody><tr><td>Real estate</td><td>Friday, May 15</td><td>Thursday, October 15</td></tr><tr><td>Agricultural real estate</td><td>Friday, May 15</td><td>Monday, November 16</td></tr><tr><td>Personal property</td><td>Friday, May 15</td><td>None</td></tr><tr><td>Manufactured home</td><td>Monday, August 31</td><td>Monday, November 16</td></tr></tbody></table><p>Section 279.01 of Minnesota Statutes sets the late penalties, with separate rates for homestead and nonhomestead land. Any bounced check, failed electronic payment or reversed payment draws a $30 charge from the county.</p>"
   },
   {
-   "h2": "What payment options does the Auditor-Treasurer offer?",
-   "html": "<p>The county has an online payments page with a tax parcel lookup, and the Government Center accepts payments over the counter or through the post. A Direct Payment Plan pulls the amount from your checking or savings account, either twice a year or in one annual draft. Call 507-637-4013 to enroll.</p><p>Escrow customers should still read the statement. Before closing, request a payoff figure for the parcel from the same office, which also publishes the yearly delinquent tax list and notices of forfeited property sales and sales with unclaimed surplus.</p>"
+   "h2": "Payment options",
+   "html": "<p>Pay online through the county's payments page, which includes a parcel lookup, or bring a check or cash to the Government Center, or mail it. A Direct Payment Plan draws from checking or savings, either in two drafts or one yearly draft. Call 507-637-4013 to sign up.</p><p>If your lender pays from escrow, read the statement anyway. When a sale is coming, ask this same office for a payoff on the parcel. It also posts the yearly delinquent tax list and the notices for forfeited property sales and sales with unclaimed surplus.</p>"
   },
   {
    "h2": "How the assessor arrives at your value",
-   "html": "<p>Every parcel gets a classification based on how it is used and an estimated market value fixed as of January 2. Appraisers walk each property on a five year cycle under Minnesota Statutes section 273.01, and tax-exempt parcels on a six year cycle. A new addition can bring an earlier visit.</p><p>The annual notice in spring shows that value and class, and it sets the tax for the following year. Details that affect homestead treatment:</p><ul><li>On January 2 or December 1, the owner or a qualifying relative has to be living there.</li><li>The application deadline is December 31 of the assessment year, filed with the Assessor.</li><li>People who are blind or permanently disabled may apply for a separate class.</li><li>The disabled veterans' homestead exclusion form and special agricultural homestead forms come from the Assessor's office.</li></ul>"
+   "html": "<p>Each parcel is given a class that reflects its use, plus an estimated market value set as of January 2. Under Minnesota Statutes section 273.01 an appraiser visits each property every five years, and tax-exempt parcels every six. Adding a room or a garage can bring a visit sooner.</p><p>The annual notice in spring shows that value and class, and it sets the tax for the following year. Details that affect homestead treatment:</p><ul><li>On January 2 or December 1, the owner or a qualifying relative has to be living there.</li><li>File the application with the Assessor by December 31 of the assessment year.</li><li>People who are blind or permanently disabled may apply for a separate class.</li><li>The homestead exclusion form for disabled owners and the special agricultural homestead forms come from the Assessor's office.</li></ul>"
   },
   {
    "h2": "How to contest your valuation",
-   "html": "<p>Start by phoning the assessor about the notice. Failing that, the next stop is the local board of appeal and equalization for your city or township. The Assessor's office hosts those meetings each April. In most cases you must be heard locally before your case can reach the county board, which meets in June in the Commissioner's Room.</p><p>Bring evidence that points to a specific parcel, such as a recent sale of a similar house or photos of a defect. Beyond the boards, a petition to district court or Tax Court under section 278.01 is the last route, and it has an April 30 filing date.</p>"
+   "html": "<p>Begin with a call to the assessor about your notice. If that fails, take it to the local board of appeal and equalization for your city or township, which the Assessor's office hosts each April. Most owners have to be heard there before the county board will take the case. That board sits in June in the Commissioner's Room.</p><p>Bring proof about your own parcel: a comparable sale, an appraisal, or photos of a defect. Keep the discussion on the value and class of your parcel, since the boards cannot change the tax rate or the bill itself. A written summary of your points, handed to the clerk at the meeting, helps the members follow your case. If you plan to sell soon, an appraisal you paid for anyway can double as evidence. Beyond the boards, a petition to district court or Tax Court under section 278.01 is the last route, and it has an April 30 filing date.</p>"
   },
   {
-   "h2": "What if tax is unpaid when you sell?",
-   "html": "<p>Tax still open in early January turns delinquent under section 279.02, with an extra 2% added right away. The tax matters at closing for a second reason: the auditor must mark a deed with a no-delinquent-tax note before the Recorder accepts it under section 272.12. Probate distribution deeds and transfer on death deeds are among the listed exceptions.</p><p>In practice the title agent subtracts what you owe from your proceeds, so a quick call to the Auditor-Treasurer keeps surprises out of the closing statement. A cash sale follows the same rule, though it skips any lender escrow payoff.</p>"
+   "h2": "Selling with tax still owing",
+   "html": "<p>Any tax still open in early January is delinquent under section 279.02, and 2% is added at once. Closing brings a second issue. Under section 272.12 the auditor has to stamp the deed with a no-delinquent-tax note before the Recorder will take it, with exceptions that include probate distribution deeds and transfer on death deeds.</p><p>Usually the title agent deducts the balance from your proceeds. Phone the Auditor-Treasurer ahead of time so the figure on the closing statement holds no surprises. Cash sales follow the same rule and only skip the lender escrow payoff.</p>"
   },
   {
    "h2": "Recording tools to use before a sale",
-   "html": "<p>The Recorder offers three. LandShark is a web tool for searching land records and viewing document images, and an account needs a signed web portal agreement with an original wet signature plus a set-up fee. Land Notification emails you when anything is filed against your personal or business name, so a surprise lien shows up quickly. The eCRV tool is where the sale certificate gets filed, and paper certificates have not been accepted for sales since October 1, 2014.</p><p>After closing, the assessor drops homestead classification on the sold property for the next assessment year unless the buyer applies and qualifies, under section 272.115.</p>"
+   "html": "<p>The Recorder offers three. LandShark is a web tool for searching land records and viewing document images, and an account needs a signed web portal agreement with an original wet signature plus a set-up fee. Land Notification emails you when anything is filed against your personal or business name, so a surprise lien shows up quickly. Sign up before you list, because a lien you did not know about can stall a closing for weeks. The eCRV tool is where the sale certificate gets filed, and paper certificates have not been accepted for sales since October 1, 2014.</p><p>After closing, the assessor drops homestead classification on the sold property for the next assessment year unless the buyer applies and qualifies, under section 272.115.</p>"
+  },
+  {
+   "h2": "A seller's checklist",
+   "html": "<p>Taxes come up at several points in a sale. Go through this list before you take an offer.</p>\n<ol>\n<li>Find your parcel on the county's online payments page and note which halves are paid.</li>\n<li>Call the Auditor-Treasurer at 507-637-4013 for a payoff figure, and ask whether any special assessment is attached to the parcel.</li>\n<li>Check the class on your spring notice with the Assessor at 507-637-4008. If you never filed for homestead, the deadline is December 31 of the assessment year.</li>\n<li>Hand the payoff figure to your title agent so the amount is deducted at closing. Ask for the figure in writing and keep a copy with your closing papers.</li>\n<li>Make sure the sale certificate is filed electronically, since paper certificates are not taken.</li>\n<li>Tell the buyer that homestead status does not carry over. The new owner has to apply.</li>\n</ol>\n<p>A cash buyer makes the list shorter, since no lender escrow account needs settling. The tax still has to be clear and the sale certificate filed before the deed can be recorded.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the last Redwood County tax deadline of the year?",
-   "a": "The second half on agricultural property and manufactured homes, due mid-November. In 2026 that date is Monday, November 16. Standard real estate second halves come due October 15."
+   "a": "It is the second half on farm land and manufactured homes, due in mid-November. For 2026 the date is Monday, November 16. Standard real estate second halves are due October 15."
   },
   {
    "q": "Who can I call about a Redwood County home value I think is too high?",
-   "a": "Call the County Assessor at 507-637-4008. If the answer does not satisfy you, the next steps are the local board in April and the county board in June."
+   "a": "Ring the County Assessor at 507-637-4008. Still unhappy? Go to the local board in April, then the county board in June."
   },
   {
    "q": "Can a Redwood County house be sold with property tax still owing?",
-   "a": "Yes. The balance has to be cleared before the Recorder will file the deed, and it normally comes out of the seller's proceeds. Ask the Auditor-Treasurer at 507-637-4013 for the exact payoff."
+   "a": "Yes, as long as the balance is cleared before the Recorder files the deed. It usually comes out of the seller's proceeds. The Auditor-Treasurer at 507-637-4013 can give the exact payoff."
   },
   {
    "q": "What is the Redwood County homestead application deadline?",
-   "a": "December 31 of the assessment year. The home must be owned and occupied by the owner or a qualifying relative as of January 2 or December 1."
+   "a": "The deadline is December 31 of the assessment year. Either the owner or a qualifying relative must live in the home on January 2 or December 1."
   },
   {
    "q": "Will the buyer automatically get my Redwood County homestead status?",
-   "a": "No. After a transfer the assessor removes homestead for the following assessment year unless the new owner files an application and qualifies."
+   "a": "No. Once the deed transfers, the assessor takes homestead off for the next assessment year unless the new owner applies and qualifies."
   }
  ],
  "sources": [
