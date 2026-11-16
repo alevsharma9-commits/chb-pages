@@ -29,3 +29,4 @@
 - wayne-county-oh-property-tax-guide: conveyance rate $4 per $1,000 vs older $2 snippets; recheck.
 - Washington County OH recorder FAQ answers matched to guessed questions; recheck.
 - sell-my-house-fast-sandy-springs-ga: demographics taken from Wikipedia's Census-cited figures. Swap to QuickFacts or drop.
+- lady-bird-deed-texas: table rests on one State Law Library page; needs legal check before relying on it.
