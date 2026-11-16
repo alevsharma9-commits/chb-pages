@@ -70,3 +70,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * st-lucie-county-fl-property-tax-guide: homestead deferral Jan 31 (collector) vs Mar 31 (state), page defers to office.
 * suwannee-county-fl-property-tax-guide: appraiser lists $25,000 homestead only; collector pages dated 2018. tampa-fl-property-tax-guide: no 2026 millage figures.
 - Rework group 8: Cape Coral founding year and "400 miles of waterways" rest on search snippets of the city budget book (PDF would not open). Palm Beach County installment-plan dates come from pbctax.gov search snippets. Miami tax dates reuse the earlier draft's sources (Miami-Dade tax collector pages returned 404).
+- Rework group 6: sell-my-house-fast-panama-city-fl says Amendment 3 was on the Nov 3, 2026 ballot with no result; update once the result is confirmed (same as other FL Amendment 3 pages). Ellis TX and Suwannee tax-deed sentences rest on state notes, not fresh fetches.

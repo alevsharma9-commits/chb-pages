@@ -11,11 +11,11 @@
   },
   {
    "h2": "Which dates does the St. Johns County appraiser publish?",
-   "html": "<p>The important dates page runs through the year, and the dates change what a seller or buyer can claim.</p><ul><li>January 1: the status of the property sets its value for the assessment year, and ownership and residence on this day decide homestead eligibility.</li><li>January 1 to April 1: business equipment returns are filed.</li><li>March 1: filing closes for homestead, other personal exemptions, classified use, agricultural classification and organizational exemptions.</li><li>August and September: TRIM notices go out with proposed assessments, millage and hearing dates.</li><li>November: the tax collector mails bills.</li></ul><p>When March 1 lands on a weekend, the deadline moves to the next business day. For the 2026 year the appraiser's homestead page named March 2.</p>"
+   "html": "<p>The important dates page runs through the year, and the dates change what a seller or buyer can claim.</p><ul><li>January 1: the status of the property sets its value for the assessment year, and ownership and residence on this day decide homestead eligibility.</li><li>January 1 to April 1: business equipment returns are filed.</li><li>March 1: filing closes for homestead, other personal exemptions, classified use, agricultural classification and organizational exemptions.</li><li>August and September: TRIM notices go out with proposed assessments, millage and hearing dates.</li><li>November: the tax collector mails bills.</li></ul><p>A weekend March 1 pushes the cutoff to Monday, and the homestead page named March 2 for 2026.</p>"
   },
   {
    "h2": "What is the 2026 homestead figure in St. Johns County, and who qualifies?",
-   "html": "<p>The appraiser prints $51,411 for the 2026 tax year, now indexed to inflation. The first $25,000 reduces every levy including schools. The remaining $26,411 applies to assessed value between $50,000 and $75,000 and leaves school tax untouched.</p><p>To qualify, an owner must be a Florida permanent resident who holds title and lives in the home on January 1. Neither spouse may take a residency-based exemption in another state, and the office wants proof of that. Applicants bring a Florida license or ID showing the homestead address and Social Security numbers for both spouses, which are required for online filing. A noncitizen needs a Permanent Resident Card. If you owned a Florida home before, give its address or parcel number. A buyer who closes after January 1 cannot claim the exemption for that tax year.</p><p>Once approved, the owner need not reapply unless marital status, ownership or title changes. A late application for just cause can be filed through the end of the TRIM period, which usually falls late in August.</p>"
+   "html": "<p>The appraiser prints $51,411 for the 2026 tax year, now indexed to inflation. A first block of $25,000 applies to every levy, school bills among them. The remaining $26,411 applies to assessed value between $50,000 and $75,000 and leaves school tax untouched.</p><p>To qualify, an owner must be a Florida permanent resident who holds title and lives in the home on January 1. Neither spouse may take a residency-based exemption in another state, and the office wants proof of that. Applicants bring a Florida license or ID showing the homestead address and Social Security numbers for both spouses, which are required for online filing. A noncitizen needs a Permanent Resident Card. If you owned a Florida home before, give its address or parcel number. Closing after January 1 means that year's exemption is out of reach.</p><p>Once approved, the owner need not reapply unless marital status, ownership or title changes. A late application for just cause can be filed through the end of the TRIM period, which usually falls late in August.</p>"
   },
   {
    "h2": "Can a St. Johns County homeowner rent the house and keep homestead?",
@@ -31,11 +31,11 @@
   },
   {
    "h2": "How does a St. Johns County owner dispute a value?",
-   "html": "<p>Talk to the appraiser first, then petition the Value Adjustment Board if the two sides disagree. The TRIM notice goes out in mid-August, and the board petition is due within 25 days of the mailing; the exact deadline is printed at the top of the notice.</p><p>The Clerk of the Circuit Court and County Comptroller manages the process and posts the petition form, at 904-819-3600. The appraiser's site carries a Value Adjustment Board page and a Property Owner Bill of Rights. A denied exemption, classification or portability claim has its own 30 day window under state guidance, so a seller who thinks the assessment is too high should act before listing.</p>"
+   "html": "<p>Start with a conversation at the appraiser's office; if that fails, a petition goes to the Value Adjustment Board. The TRIM notice goes out in mid-August. A petition may be filed within 25 days of that mailing, and the date is printed at the top of the notice itself.</p><p>The Clerk of the Circuit Court and County Comptroller manages the process and posts the petition form, at 904-819-3600. The appraiser's site carries a Value Adjustment Board page and a Property Owner Bill of Rights. A denied exemption, classification or portability claim has its own 30 day window under state guidance, so a seller who thinks the assessment is too high should act before listing.</p>"
   },
   {
    "h2": "What do state rules add when a St. Johns County house sells?",
-   "html": "<p>Deed stamps cost seventy cents per $100 of price, every party on the deed is liable, and the clerk's first page fee is $5.00 with $4.00 for later pages. A mortgage that stays on the property counts toward the price.</p><p>Unpaid bills turn delinquent April 1, certificates are sold by June 1, and a holder may apply for a deed after two years, with half the latest assessed value added to the opening bid on homestead land. Ask the tax collector for a payoff, and ask the title company to search for certificates.</p>"
+   "html": "<p>Stamp tax is seventy cents on each hundred dollars of price and binds every party named on the deed. The clerk charges $5.00 for the first page and $4.00 for each after it. Debt that stays on the house is counted in the price.</p><p>Unpaid bills turn delinquent April 1, certificates are sold by June 1, and a holder may apply for a deed after two years, with half the latest assessed value added to the opening bid on homestead land. Get a payoff from the collector and have the title company search for certificates.</p>"
   }
  ],
  "faqs": [
@@ -57,7 +57,7 @@
   },
   {
    "q": "Who runs the Value Adjustment Board paperwork in St. Johns County?",
-   "a": "The Clerk of the Circuit Court and County Comptroller, 904-819-3600. The petition is due within 25 days of the TRIM mailing."
+   "a": "The circuit clerk and comptroller, at 904-819-3600. A petition is due 25 days after TRIM notices are mailed."
   }
  ],
  "sources": [

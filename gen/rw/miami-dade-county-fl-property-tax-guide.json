@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Just how large is the county behind these tax bills?",
-   "html": "<p>Large enough to work as several markets at once. QuickFacts lists these headline numbers:</p>\n<ul><li>Land area: 1,899.90 square miles.</li><li>Mid-2025 population estimate: 2,802,029.</li><li>Housing units: 1,125,274, of which 52.2 percent are lived in by their owners.</li><li>Typical owned home, 2020 to 2024: $463,000.</li><li>Household income in that span: $71,753, in 2024 dollars.</li></ul>\n<p>Nearly half of households rent, and the distance between home prices and paychecks explains why caps and exemptions get so much attention here.</p>"
+   "html": "<p>Large enough to work as several markets at once. QuickFacts lists these headline numbers:</p>\n<ul><li>Land area: 1,899.90 square miles.</li><li>Mid-2025 population estimate: 2,802,029.</li><li>Housing units: 1,125,274, with a 52.2 percent owner-occupancy rate.</li><li>Typical owned home, 2020 to 2024: $463,000.</li><li>Household income in that span: $71,753, in 2024 dollars.</li></ul>\n<p>Roughly half the housing stock is rented, and the distance between home prices and paychecks explains why caps and exemptions get so much attention here.</p>"
   },
   {
    "h2": "Who do I call first about a Miami-Dade tax question?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "When is the Miami-Dade bill due, and what does paying early save?",
-   "html": "<p>Bills land in November, and the best discount, 4 percent, belongs to that month alone. It steps down by a point each month to 1 percent in February, and anything unpaid on April 1 is delinquent. The tax collector promotes the November discount with a \"Save the Max\" campaign and takes payment online, at its 13 locations or at its mobile offices.</p>\n<ul><li>August: the proposed-tax notice previews the bill.</li>\n<li>Twenty-five days from that notice: the last chance for a value petition at the clerk's desk.</li>\n<li>Thirty days after a denial letter is mailed: the window to challenge an exemption denial.</li>\n<li>May 1: the cutoff for asking the collector for installments.</li></ul>"
+   "html": "<p>Bills land in November, and the best discount, 4 percent, belongs to that month alone. It steps down by a point each month through February, and anything unpaid on April 1 is delinquent. The tax collector promotes the November discount with a \"Save the Max\" campaign and takes payment online, at its 13 locations or at its mobile offices.</p>\n<ul><li>August: the proposed-tax notice previews the bill.</li>\n<li>Twenty-five days from that notice: the last chance for a value petition at the clerk's desk.</li>\n<li>Thirty days after a denial letter is mailed: the window to challenge an exemption denial.</li>\n<li>May 1: the cutoff for asking the collector for installments.</li></ul>"
   },
   {
    "h2": "What happens when a Miami-Dade bill goes unpaid?",
@@ -39,7 +39,7 @@
   },
   {
    "h2": "Which breaks can a Miami-Dade homeowner claim?",
-   "html": "<p>The base homestead exemption reaches $50,000 and is claimed with the appraiser by March 1. Other breaks target particular owners.</p>\n<ul><li>Seniors: an added amount of up to $50,000 where a local ordinance provides it and household income stays under the cap.</li>\n<li>Service-connected disability at 10 percent or higher: a $5,000 reduction.</li>\n<li>Older veterans with a permanent service-connected disability: a discount equal to the VA rating.</li>\n<li>Deferral: file Form DR-570 with the tax collector by March 31 to postpone the share of the bill above 5 percent of income, or 3 percent for permanent residents past 65.</li></ul>"
+   "html": "<p>The base homestead exemption reaches $50,000 and is claimed with the appraiser by March 1. Other breaks target particular owners.</p>\n<ul><li>Seniors: an extra exemption, as large as $50,000, where a local ordinance provides it and household income stays under the cap.</li>\n<li>Service-connected disability at 10 percent or higher: a $5,000 reduction.</li>\n<li>Older veterans with a permanent service-connected disability: a discount equal to the VA rating.</li>\n<li>Deferral: file Form DR-570 with the tax collector by March 31 to postpone the share of the bill above 5 percent of income, or 3 percent for permanent residents past 65.</li></ul>"
   },
   {
    "h2": "Can the appraiser's online tools save me a trip?",
@@ -47,7 +47,7 @@
   },
   {
    "h2": "What changes in the tax bill when a Miami-Dade house sells?",
-   "html": "<p>The title agent asks the collector for a payoff figure and settles the year's tax at the closing table, divided as the contract says. The buyer arrives with a reassessed value and needs a fresh exemption filing.</p>\n<p>Deed stamps here are set at 60 cents per $100, and the county adds a 45 cent surtax per $100 that state revenue officials exclude for a deed conveying only a single-family dwelling. Ask the closing agent which line fits your deed.</p>"
+   "html": "<p>The title agent obtains the collector's balance and settles the year's tax at the closing table, divided as the contract says. The buyer arrives with a reassessed value and needs a fresh exemption filing.</p>\n<p>Deed stamps here are set at 60 cents per $100, and the county adds a 45 cent surtax per $100 that state revenue officials exclude for a deed that conveys nothing but a single-family house. Ask the closing agent which line your deed falls under.</p>"
   }
  ],
  "faqs": [
