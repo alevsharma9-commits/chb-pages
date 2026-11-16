@@ -1,20 +1,20 @@
 {
  "sections": [
   {
-   "h2": "What is Pembroke Pines, and who buys homes here?",
+   "h2": "Who is Pembroke Pines, and who buys homes here?",
    "html": "<p>Pembroke Pines is a large city in southwest Broward County, and the city says it has over 170,000 residents. It sits near major highways and interstates, employment centers, parks and golf courses.</p><p>It was incorporated on January 16, 1960, when it was the Village of Pembroke Pines with about 1,500 residents. After Hurricane Andrew in 1992 the city's own history says it became the fastest growing city in the country, which is why so much housing dates from the 1990s and later.</p><p>Buyers here range from families drawn to its schools and parks to residents of the Century Village area. The city counts 41 arts and cultural facilities and describes its mission around raising a family.</p>"
   },
   {
-   "h2": "How did Pembroke Pines grow, and what does that mean for house age?",
+   "h2": "How did Pembroke Pines grow, and what does that say about house age?",
    "html": "<p>The area was open land and small communities, including the Pembroke Pines Country Club development, in the mid 20th century. Fire stations opened as the city expanded: Station 79 in 1981 in land annexed west of US 27 and Station 89 in 1986 at Century Village.</p><ul><li>Land west of US 27 was annexed by 1981, so house age varies by side of town.</li><li>Check roof, electrical and plumbing age on your own house.</li><li>Ask a title agent what recorded items exist on your lot.</li></ul><p>Knowing your home's age helps you decide whether a cash offer or listing fits. The city now serves residents from six fire stations and, in 2014, joined the Broward County Regional 911 system.</p>"
   },
   {
    "h2": "What does Florida charge to transfer a Pembroke Pines house?",
-   "html": "<p>Doc stamps on a deed are 70 cents per $100 of consideration in Broward County, as the revenue department lists every county except Miami-Dade. All parties to the document are liable.</p><table><caption>Taxable documents the state lists for real estate transfers</caption><thead><tr><th>Document</th><th>Taxed by DOR?</th></tr></thead><tbody><tr><td>Warranty deed</td><td>Yes</td></tr><tr><td>Quit claim deed</td><td>Yes</td></tr><tr><td>Deed in lieu of foreclosure</td><td>Yes</td></tr><tr><td>Personal representative deed under probated will</td><td>Not taxable</td></tr></tbody></table><p>The clerk of court collects the tax when recording. Ask your closing agent to apply the rate to your price in writing.</p>"
+   "html": "<p>Broward is not Miami-Dade, so the deed rate is 70 cents per $100 of consideration. Each party to the document is liable.</p><table><caption>Taxable documents the state lists for real estate transfers</caption><thead><tr><th>Document</th><th>Taxed by DOR?</th></tr></thead><tbody><tr><td>Warranty deed</td><td>Yes</td></tr><tr><td>Quit claim deed</td><td>Yes</td></tr><tr><td>Deed in lieu of foreclosure sale</td><td>Yes</td></tr><tr><td>Personal representative deed under probated will</td><td>Not taxable</td></tr></tbody></table><p>The clerk of court collects the tax when recording. Ask your closing agent to apply the rate to your price in writing.</p>"
   },
   {
    "h2": "How does the Broward County tax cycle affect a seller?",
-   "html": "<p>The Broward County Property Appraiser values your home as of January 1 and takes exemption applications through March 1. The office's site lists 954-357-6830 and weekday hours of 8 am to 5 pm.</p><ul><li>TRIM notices mail in August.</li><li>Bills go out in November with a 4 percent discount for paying that month.</li><li>Taxes go delinquent April 1.</li></ul><p>Your closing agent prorates the year between you and the buyer. Make sure the prorated amount uses the right exemption status.</p>"
+   "html": "<p>Broward's appraiser sets your value on January 1 and accepts exemption filings until March 1. The office's site lists 954-357-6830 and weekday hours of 8 am to 5 pm.</p><ul><li>TRIM notices mail in August.</li><li>Bills go out in November with a 4 percent discount for paying that month.</li><li>Taxes go delinquent April 1.</li></ul><p>Your closing agent splits the year's tax between you and the buyer, so confirm the split reflects your exemption status.</p>"
   },
   {
    "h2": "Does homestead or portability matter if I leave Pembroke Pines?",
@@ -46,7 +46,7 @@
   },
   {
    "h2": "What steps should I take to prepare a Pembroke Pines sale?",
-   "html": "<p>Start with paperwork. Collect your deed, the latest tax bill, any association documents, and permit records for roofs, windows or additions.</p><p>Then compare a listing, a for sale by owner path and a cash offer by what you net, not by headline price. Ask for the offer in writing and read it in full.</p>"
+   "html": "<p>Start with paperwork. Collect your deed, the latest tax bill, any association documents, and permit records for roofs, windows or additions.</p><p>Then weigh a listing, a private sale and a cash offer by your net proceeds. Insist on a written offer and read every line.</p>"
   }
  ],
  "faqs": [

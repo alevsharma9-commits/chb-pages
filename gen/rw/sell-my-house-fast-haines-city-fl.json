@@ -23,19 +23,19 @@
   },
   {
    "h2": "What is the yearly property tax calendar for a Haines City owner?",
-   "html": "<p>Value is fixed as of January 1. The Polk appraiser mails the Notice of Proposed Property Taxes, called the TRIM notice, in mid-August, and the state allows 25 days from that notice to file a value petition with the clerk. Tax bills follow in November.</p><ul><li>Early-payment discounts run 4 percent in November, 3 in December, 2 in January and 1 in February, as the state Revenue Department prints them.</li><li>An owner who wants to pay in installments applies to the tax collector by May 1 of the assessment year.</li><li>Non-homestead assessed value cannot rise more than 10 percent in a year.</li></ul><p>If you own a rental in Haines City, the 10 percent limit applies to that parcel and not to a homestead, which has its own cap tied to the lower of 3 percent or inflation.</p>"
+   "html": "<p>Value is fixed as of January 1. The Polk appraiser mails the Notice of Proposed Property Taxes, called the TRIM notice, in mid-August, and the state allows 25 days from that notice to file a value petition with the clerk. Tax bills follow in November, and early payment earns a discount that shrinks month by month until the gross bill is due.</p><p>An owner who wants to pay in installments applies to the tax collector by May 1 of the assessment year. If you own a rental in Haines City, assessed value on that parcel cannot rise more than 10 percent a year, while a homestead has its own cap tied to the lower of 3 percent or inflation.</p>"
   },
   {
    "h2": "How does a Haines City sale affect the tax cap and exemption?",
-   "html": "<p>A sale counts as a change of ownership, so the buyer's assessment resets to just value the next January 1. The seller's homestead exemption does not follow the house. If you buy another Florida home, the appraiser says you must file a new application, and portability needs the DR-501T form.</p><p>The tax year runs January through December and the bill arrives in November, so a closing in the first ten months of the year usually leaves the year's bill unpaid. Ask the Polk County Tax Collector for the current balance before closing, and ask the title agent how the split is shown.</p>"
+   "html": "<p>The buyer's assessment resets to just value the January after the sale, and the seller's exemption stays behind. A move to another Polk home needs a fresh application, and carrying over the cap benefit needs form DR-501T.</p><p>The bill for a given year arrives in November, so a spring sale leaves that year's bill unpaid. Ask the Polk County Tax Collector for the balance before closing.</p>"
   },
   {
    "h2": "What deed taxes and recording fees apply in Haines City?",
-   "html": "<p>Polk County uses the standard state deed tax of 70 cents per $100 of the price, paid through the Polk clerk at the time of recording. The buyer and the seller share legal liability for it, even if the contract puts it on one of them.</p><p>Page fees are set in section 28.24: $5.00 for the first and $4.00 for each after it, with extra per-page charges on top. A quit claim deed is still taxable, per the Revenue Department. A transfer between spouses of a homestead with only a mortgage as consideration is one of the listed exemptions.</p>"
+   "html": "<p>Polk County uses the standard state deed tax of 70 cents per $100 of the price, paid through the Polk clerk at recording. Page fees are set in section 28.24, with extra per-page charges on top. Ask your closing agent for the full figure on your own deed.</p>"
   },
   {
-   "h2": "Can you sell a Haines City house with tenants or a mortgage in default?",
-   "html": "<ul><li>Month-to-month tenant: Florida requires at least 30 days' notice before a monthly period ends.</li><li>Unpaid rent: a landlord serves a 3-day notice that excludes weekends and court holidays.</li><li>Foreclosure: the clerk sells at public auction 20 to 35 days after final judgment unless the plaintiff agrees to later, and the high bidder posts 5%.</li></ul><p>Each of these needs a close look at the paperwork. A closing agent or Florida attorney can tell you what a buyer must be told and which deadlines apply to you.</p>"
+   "h2": "What else does the Polk appraiser say about trusts, agreements for deed and exemption renewals?",
+   "html": "<p>If the house is held in a trust, the owner needs equitable title or a beneficial interest to qualify, and the appraiser may ask for a copy of the trust. Property bought under an agreement for deed can qualify too, provided the agreement is recorded with the Clerk of the Court. A plain purchase contract does not convey equitable title.</p><p>Once approved, exemptions renew each year without a new application, and only a denial triggers a letter. The appraiser also asks owners to report life events that change eligibility, and it publishes a list of ways owners lose an exemption. Mortgage servicers sometimes ask for proof of homestead. The appraiser does not write letters, and instead points owners to the parcel detail page, which can be printed or saved as a PDF.</p>"
   }
  ],
  "faqs": [
@@ -57,7 +57,7 @@
   },
   {
    "q": "Do I need to fix the house before selling?",
-   "a": "No repair is required to sell, though an open permit should be closed or disclosed. Ask the Building Division for the permit list first."
+   "a": "Repairs are not required to sell, but ask the Building Division what is open on the address first."
   }
  ],
  "sources": [

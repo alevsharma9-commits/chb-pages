@@ -63,3 +63,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * Rates: port-st-lucie-fl 4.8750 mills = approved at July workshop (not final). orlando-fl 0.00665 as printed. An agent edited gen/rw/overlap.py (env N); reverted.
 * sell-my-house-fast-altamonte-springs-fl history from 2009 county profile (dated). sell-my-house-fast-casselberry-fl and boynton-beach-fl thin city sources. sell-my-house-fast-cape-coral-fl rests on Lee appraiser dates + state notes only. pinellas pages cite Escambia page for Amendment 3.
 * sell-my-house-fast-apopka-fl uses FY2022-23 city profile (dated); boca-raton-fl uses 2020 comp plan.
+* sell-my-house-fast-gainesville-fl: rental ordinance described as 'being repealed' per city page (verify).
