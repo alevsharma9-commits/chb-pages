@@ -4,6 +4,9 @@ Your batch file is /home/claude/chb-pages/gen/rw/batches/<batch id>.txt, 4 lines
 
 {"slug": "...", "sections": [{"h2": "question-led heading", "html": "<p>..</p><ul>..</ul>"}], "faqs": [{"q": "...", "a": "..."}], "sources": [{"title": "...", "url": "https://..."}]}
 
+## State notes (read first, saves fetches)
+If /home/claude/chb-pages/gen/rw/state_notes/<st>.md exists (nc, fl, tx, ga), read it before researching. It holds statewide facts already read from official pages, each with its URL. Use those facts and cite those URLs in "sources" without opening the pages again. Spend your fetches only on facts specific to your city, county or topic. Rephrase every state-rule sentence in fresh wording on your page; never copy note text.
+
 ## Output rules
 - 1,300 to 1,800 words across sections + faqs (check with python3 /home/claude/chb-pages/gen/rw/_count.py if it accepts a file; otherwise count yourself).
 - Every H2 is a plain question. The first sentence under it answers it in one or two sentences. Paragraphs 2 to 4 sentences.
