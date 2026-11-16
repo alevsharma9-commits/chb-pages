@@ -7,7 +7,7 @@
   },
   {
    "h2": "What must a Clay County deed look like on the page?",
-   "html": "<p>The county publishes layout rules, and a deed that ignores them costs extra to file. The <a href=\"https://deeds.claync.us/real-estate-records\">real estate records page</a> spells them out.</p>\n<ul>\n<li>Sheets of 8.5 by 11 or 8.5 by 14 inches, with black print on white stock and nothing on the back.</li>\n<li>Three clear inches at the top of page one, with a quarter inch left blank along the remaining edges of that page and all edges of later pages.</li>\n<li>Nothing smaller than 9-point type. Blanks and corrections may be inked by hand.</li>\n<li>The document type, such as Deed, stated on page one beneath the blank band.</li>\n<li>The signer's signature, plus a notary's seal and acknowledgment.</li>\n<li>For a deed or deed of trust, add a \"Prepared By\" line naming the drafter, the grantee's mailing address and the excise tax noted on the deed itself.</li>\n</ul>\n<p>A paper that misses the mark still gets filed, but the clerk first collects a $25.00 non-standard document fee, which the county page ties to G.S. 161-10(a)(19). Fixing margins beforehand avoids it.</p>"
+   "html": "<p>The county publishes layout rules, and a deed that ignores them costs extra to file. The <a href=\"https://deeds.claync.us/real-estate-records\">real estate records page</a> spells them out.</p>\n<ul>\n<li>Sheets of 8.5 by 11 or 8.5 by 14 inches, with black print on white stock and nothing on the back.</li>\n<li>Leave three inches empty above the text on page one, with a quarter inch left blank along the remaining edges of that page and all edges of later pages.</li>\n<li>Nothing smaller than 9-point type. Blanks and corrections may be inked by hand.</li>\n<li>The document type, such as Deed, stated on page one beneath the empty band.</li>\n<li>The signer's signature, plus a notary's seal and acknowledgment.</li>\n<li>For deeds and loan documents, add a \"Prepared By\" line naming the drafter, the grantee's mailing address and the excise tax noted on the deed itself.</li>\n</ul>\n<p>A paper that misses the mark still gets filed, but the clerk first collects a $25.00 non-standard document fee, which the county page ties to G.S. 161-10(a)(19). Fixing margins beforehand avoids it.</p>"
   },
   {
    "h2": "What are the recording charges for a Clay County deed?",
@@ -15,7 +15,7 @@
   },
   {
    "h2": "Who pays excise tax on a Clay County house sale?",
-   "html": "<p>The seller does. The statute puts the burden on the grantor, who has to pay the register before the deed can be filed.</p>\n<p>Clay County's general fund keeps half. The other half, less refunds and the county's allowance, goes to the state each month. On a settlement statement it shows up under the seller's charges.</p>"
+   "html": "<p>The seller does. The grantor carries it, and the register will not file the deed until it is paid.</p>\n<p>Clay County's general fund keeps half. The other half, less refunds and the county's allowance, goes to the state each month. On a settlement statement it shows up under the seller's charges.</p>"
   },
   {
    "h2": "Why does the filing order matter to a Clay County seller?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "How large is the Clay County housing market?",
-   "html": "<p>It is small. The Census <a href=\"https://www.census.gov/quickfacts/fact/table/claycountynorthcarolina/PST045224\">QuickFacts page</a> shows 12,239 residents (July 2025 estimate) across 214.98 square miles of land area, with 7,868 housing units.</p>\n<p>Occupied homes are 81.2 percent owner-held, with a median value of $278,400 and median gross rent of $804 (2020 to 2024). Residents aged 65 or older are 37.4 percent of the population, median household income is $56,971, and the 5,081 households average 2.26 people. The county counts 644 veterans. With so many older owners, inherited houses are a real part of the local market, which is why the next section covers estates.</p>"
+   "html": "<p>It is small. The Census <a href=\"https://www.census.gov/quickfacts/fact/table/claycountynorthcarolina/PST045224\">QuickFacts page</a> shows 12,239 residents (July 2025 estimate) across 214.98 square miles of land area, with 7,868 housing units.</p>\n<p>Occupied homes are 81.2 percent owner-held, with a median value of $278,400 and median gross rent of $804 (2020 to 2024 survey years). People aged 65 and up make up 37.4 percent of residents, median household income is $56,971, and the 5,081 households average 2.26 people. The county counts 644 veterans. With so many older owners, inherited houses are a real part of the local market, which is why the next section covers estates.</p>"
   },
   {
    "h2": "How does an inherited Clay County house reach the register of deeds?",
@@ -35,7 +35,7 @@
   },
   {
    "h2": "How can a Clay County owner watch for a fraudulent filing?",
-   "html": "<p>The register's site links to online real estate records and to a fraud-alert notification service for the county. Once you sign up, a new filing under your name triggers a notice.</p>\n<p>Check before you list. A filing you never signed, or an old loan that was paid but never cancelled, can hold up a closing. Satisfactions are recorded free, so ask a lender to file one once a loan is paid.</p>"
+   "html": "<p>The register's site links to online real estate records and to a fraud-alert notification service for the county. Once you sign up, a new filing under your name triggers a notice.</p>\n<p>Check before you list. A filing you never signed, or an old loan paid off but never cancelled, can stall a closing. Satisfactions are recorded free, so ask a lender to file one once a loan is paid.</p>"
   }
  ],
  "faqs": [
