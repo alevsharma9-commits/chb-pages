@@ -48,3 +48,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * sell-my-house-fast-paris-tx: protest deadline conflict (Lamar CAD May 31/30 days vs state May 15); page defers to reader's notice.
 * texas-mechanics-lien-home rests on 2 sources; texas-community-property-home-sale 4 sources; texas-intestate-succession and landlord-tenant-selling-rented-house 5 sources. Royse City figures from FY2025 budget (dated).
 * texas-1031-exchange: no Texas-specific rules, 5 sources. sell-my-house-fast-weslaco-tx: building codes from 2017 listing (dated); TSHA history figures through 2000.
+* Thin sourcing (2-3 sources): texas-security-deposit-rules (2), texas-real-estate-commission (3). texas-squatters-rights-adverse-possession 3/5-year rows from 1999 opinion, 25-year period not opened. texas-tax-deed-sales lacks Tax Code ch. 33/34 steps. texas-small-estate-affidavit statute text unopened. tarrant-county-tx-property-records merged at 84.

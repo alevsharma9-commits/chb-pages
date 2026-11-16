@@ -11,7 +11,7 @@
   },
   {
    "h2": "Which property tax dates matter most to a seller?",
-   "html": "<p>Five recurring dates shape most closings, as the Comptroller's deadline calendar prints them.</p><table><caption>Five dates a Texas seller can circle</caption><thead><tr><th>When</th><th>Event</th></tr></thead><tbody><tr><td>January 1</td><td>Appraisal day: value, exemption status and the year's tax lien are locked in</td></tr><tr><td>April 1 or soon after</td><td>Value notices go to single-family homesteads</td></tr><tr><td>May 15</td><td>Protest deadline for most owners, or 30 days after the notice arrives if that is later</td></tr><tr><td>October 1</td><td>Bills go in the mail</td></tr><tr><td>February 1</td><td>Anything still unpaid is delinquent</td></tr></tbody></table><p>Owners may also split a bill, paying half by November 30 and the rest by June 30 of the following year.</p>"
+   "html": "<p>Five recurring dates shape most closings, as the Comptroller's deadline calendar prints them.</p><table><caption>Five dates a Texas seller can circle</caption><thead><tr><th>When</th><th>Event</th></tr></thead><tbody><tr><td>January 1</td><td>Appraisal day, when value, exemption status and the year's lien are fixed</td></tr><tr><td>April 1 or soon after</td><td>Value notices reach single-family homesteads</td></tr><tr><td>May 15</td><td>Protest cutoff for most owners (a later 30-day window applies if the notice came late)</td></tr><tr><td>October 1</td><td>Bills go in the mail</td></tr><tr><td>February 1</td><td>Anything still unpaid is delinquent</td></tr></tbody></table><p>Owners may also split a bill, paying half by November 30 and the rest by June 30 of the following year.</p>"
   },
   {
    "h2": "What does a late Texas tax bill cost?",
@@ -19,11 +19,11 @@
   },
   {
    "h2": "Where does the county clerk fit into a sale?",
-   "html": "<p>The clerk acts as the county recorder for deeds, deeds of trust, releases, liens and foreclosure notices, and also takes probate filings and small estate affidavits. A deed is recorded where the land lies, not where the owner lives.</p><p>Recording needs a signed and acknowledged instrument, and fees are set by statute and published by each clerk. Call the office for its current schedule before closing day.</p>"
+   "html": "<p>Think of the clerk as the county's keeper of title records: deeds, deeds of trust, releases, liens, foreclosure notices, plus probate filings and small estate affidavits. Filing happens in the land's county, whatever your home address.</p><p>A deed needs a signature and an acknowledgment before it can be filed, and the clerk publishes the fee schedule. Call ahead of closing.</p>"
   },
   {
    "h2": "How does Texas foreclosure shape a quick sale?",
-   "html": "<p>Typical Texas deeds of trust let the lender sell without a lawsuit. A borrower gets 20 days from the default notice to catch up, then the lender posts a sale notice no less than 21 days before a first-Tuesday auction.</p><p>Selling before the auction lets you pay the lender out of the price. After an auction the lender can sue for a shortfall within two years. The State Law Library foreclosure guide walks through each stage, and a housing counselor can help before a date is set.</p>"
+   "html": "<p>Typical Texas deeds of trust let the lender sell without a lawsuit. The borrower has 20 days from the default notice to reinstate; the lender then posts notice at least 21 days before an auction on a first Tuesday.</p><p>Selling before the auction lets you pay the lender out of the price. A deficiency suit after the auction must start within two years. The State Law Library foreclosure guide walks through each stage, and a housing counselor can help before a date is set.</p>"
   },
   {
    "h2": "What do eviction and squatter rules mean for owners?",
@@ -31,11 +31,15 @@
   },
   {
    "h2": "How do probate and inheritance affect a Texas house?",
-   "html": "<p>A will can go to probate up to four years after a death, generally in the decedent's home county. Estates with few moving parts can use a muniment of title, a small estate affidavit, or an affidavit of heirship.</p><p>Texas repealed its inheritance tax in 2015, so an heir mainly meets property tax and recording steps. Federal estate tax returns are required only above an IRS threshold that is $15,000,000 for deaths in 2026.</p>"
+   "html": "<p>Wills go to probate within four years of a death, usually where the person lived. Simple estates have lighter options, namely muniment of title, small estate affidavit and affidavit of heirship.</p><p>With the inheritance tax gone since 2015, heirs mostly face property tax and recording steps. Only very large estates meet the federal return threshold, listed by the IRS at $15,000,000 for 2026 deaths.</p>"
+  },
+  {
+   "h2": "How do Texas counties differ from one another for sellers?",
+   "html": "<p>Size is the biggest difference. A county with millions of residents runs large offices with online search, while a county of a few hundred people may keep records in a single courthouse room.</p><p>Expect variation in the following areas, and ask each office directly.</p><ul><li>Whether a local option homestead exemption has been adopted by the county, city or school district.</li><li>How the tax office takes payments and issues written payoffs.</li><li>Which days a clerk accepts documents for recording and what it charges.</li><li>Where foreclosure and tax sale notices are posted and sales held.</li></ul><p>The state statutes set the floor, and local decisions add to it.</p>"
   },
   {
    "h2": "What paperwork should a Texas seller gather first?",
-   "html": "<p>Gather these before you list, because a missing page can push back a closing.</p><ul><li>The latest notice of appraised value from the appraisal district.</li><li>The current tax statement and a payoff figure from the county tax office.</li><li>The recorded deed showing how you took title.</li><li>Proof of any exemption on the property, such as homestead, over-65 or disabled veteran status.</li><li>Any lien release, court order or affidavit that a past estate or loan left behind.</li></ul><p>If a document is missing, the county clerk can usually supply copies of anything recorded, and the appraisal district can confirm exemptions on file.</p>"
+   "html": "<p>A missing page can delay a closing, so collect these before listing.</p><ul><li>The latest notice of appraised value from the appraisal district.</li><li>This year's tax statement with a written payoff.</li><li>The recorded deed showing how you took title.</li><li>Evidence of each exemption now on the property.</li><li>Any lien release, court order or affidavit that a past estate or loan left behind.</li></ul><p>If a document is missing, the county clerk can usually supply copies of anything recorded, and the appraisal district can confirm exemptions on file.</p>"
   },
   {
    "h2": "Which Texas guides fit which situation?",
@@ -43,11 +47,11 @@
   },
   {
    "h2": "Why does Texas exempt so many homeowners from part of the tax?",
-   "html": "<p>Every school district must give homesteads a $140,000 exemption. Owners 65 or older or disabled receive $60,000 more, and a homestead's appraised value may rise no more than 10 percent a year. Disabled veterans get exemptions tied to a VA rating, up to a full exemption at 100 percent.</p><p>Those rules shape what a buyer inherits when a house changes hands. An exemption belongs to the owner who applied, so a buyer must file their own application, generally before May 1, and the seller's status does not simply transfer.</p>"
+   "html": "<p>Homesteads get a mandatory $140,000 school exemption, older or disabled owners get $60,000 on top, and appraised value on a homestead may grow 10 percent yearly at most. Disabled veterans get exemptions tied to a VA rating, up to a full exemption at 100 percent.</p><p>Those rules shape what a buyer inherits when a house changes hands. Exemptions attach to the person who applied. A buyer files a new application, generally before May 1; the seller's status does not carry over.</p>"
   },
   {
    "h2": "What happens if a Texas property goes to a tax sale?",
-   "html": "<p>Because a lien attaches each January 1, a court can order a delinquent property sold even after a change of owner. Sales are auctions run by a constable or the unit's agent, and the county clerk or tax office tells you where to find them.</p><p>Homestead, farm and mineral property can be bought back for two years after the purchaser's deed is filed, with a premium of 25 percent in year one and 50 percent in year two. Everything else gets about six months. Surplus sale money can be claimed by the former owner for two years.</p>"
+   "html": "<p>A yearly lien lets a court order a delinquent property sold, even after it changes hands. A constable or the unit's agent runs the auction; ask the county for notices.</p><p>Buy-back rights run two years for homestead, farm and mineral property, at a 25 percent premium in the first year and 50 percent in the second. Other land gets roughly 180 days. Money left after the sale is open to the former owner for two years.</p>"
   }
  ],
  "faqs": [
@@ -57,7 +61,7 @@
   },
   {
    "q": "Is there a state-level property tax in Texas?",
-   "a": "None. Every local taxing unit picks a rate, and values are fixed on January 1 by the appraisal district."
+   "a": "None. Rates come from local units, and the appraisal district fixes values on January 1."
   },
   {
    "q": "Who gives me a tax payoff figure?",
@@ -65,11 +69,11 @@
   },
   {
    "q": "Where is a deed recorded after a sale?",
-   "a": "At the clerk's office for the county that holds the land. The instrument needs a signature and an acknowledgment, and the clerk quotes current fees."
+   "a": "At the clerk in the land's county, after the deed is signed and acknowledged. Ask that office for current fees."
   },
   {
    "q": "Does Texas tax inheritances?",
-   "a": "No. The inheritance tax ended September 1, 2015. Federal estate tax returns are needed only above $15,000,000 for 2026 deaths."
+   "a": "No, it ended September 1, 2015. The federal return threshold for 2026 deaths is $15,000,000."
   }
  ],
  "sources": [
