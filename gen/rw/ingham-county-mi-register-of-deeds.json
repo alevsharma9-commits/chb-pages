@@ -2,36 +2,40 @@
  "slug": "ingham-county-mi-register-of-deeds",
  "sections": [
   {
-   "h2": "Why do Lansing sellers record deeds in Mason?",
-   "html": "<p>Mason holds the county seat, even though most of Lansing, the state capital, sits inside Ingham County. No other state capital in the country lacks the county seat. The recording desk is the Register of Deeds, 2nd Floor, 341 S. Jefferson Street, Mason, MI 48854. Mail goes to PO Box 195 at the same town, and the phone is 517-676-7216.</p><p>According to the <a href=\"https://rd.ingham.org/departments_and_officials/register_of_deeds/contact_us.php\">office contact page</a>, the front counter is staffed weekdays from 8 until 5. Older books live in the vault, which is open 8:30 to 4 by appointment only. A seller coming from East Lansing or Okemos should phone before making the drive.</p>"
+   "h2": "Why Lansing sellers record deeds in Mason",
+   "html": "<p>Mason holds the county seat, even though most of Lansing, the state capital, sits inside Ingham County. The recording desk is the Register of Deeds, 2nd Floor, 341 S. Jefferson Street, Mason, MI 48854. Mail goes to PO Box 195 at the same town, and the phone is 517-676-7216.</p><p>The front counter is staffed weekdays from 8 until 5. Older books live in the vault, which is open 8:30 to 4 by appointment only. A seller coming from East Lansing or Okemos should phone before making the drive.</p>"
   },
   {
-   "h2": "What will an Ingham County closing cost at the recording desk?",
-   "html": "<p>The <a href=\"https://rd.ingham.org/departments_and_officials/register_of_deeds/fees.php\">county fee schedule</a> sets $30.00 for any deed, mortgage, lis pendens, certified court paper or similar real estate instrument, however many pages it runs. Smaller charges stack up when several papers file on the same day.</p><ul><li>$3.00 for every liber and page or instrument number named in an assignment or discharge covering more than one instrument.</li><li>50 cents a page for a time-stamped copy, available only at the moment the original is submitted.</li><li>$1.00 a page for a copy of anything already recorded.</li><li>$5.00 per document plus $1.00 a page for a certified copy of the whole recorded document.</li></ul><p>Payment is expected at recording, following <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567\">MCL 600.2567</a>.</p>"
+   "h2": "Recording costs at the desk",
+   "html": "<p>The county fee schedule sets $30.00 for any deed, mortgage, lis pendens, certified court paper or similar real estate instrument, however many pages it runs. Smaller charges stack up when several papers file on the same day.</p><table><caption>Ingham County recording and copy charges</caption><thead><tr><th>Service</th><th>Charge</th></tr></thead><tbody><tr><td>Record a deed, mortgage or similar instrument</td><td>$30.00</td></tr><tr><td>Each liber and page or instrument number named in a multi-instrument assignment or discharge</td><td>$3.00</td></tr><tr><td>Time-stamped copy, only when the original is submitted</td><td>50 cents a page</td></tr><tr><td>Copy of a recorded document</td><td>$1.00 a page</td></tr><tr><td>Certified copy of a whole recorded document</td><td>$5.00 plus $1.00 a page</td></tr><tr><td>Treasurer's tax certificate, up to five parcel numbers</td><td>$5.00</td></tr></tbody></table><p>Payment is expected at recording, following <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567\">MCL 600.2567</a>.</p>"
   },
   {
-   "h2": "Does the Treasurer have to sign off before an Ingham County warranty deed is recorded?",
+   "h2": "Does the Treasurer have to sign off before a warranty deed is recorded?",
    "html": "<p>Yes. A tax certificate from the County Treasurer is a precondition for recording a warranty deed, covenant deed, land contract, or an assignment of land contract that carries a warranty clause. The same gate covers an affidavit fixing the legal description in one of those papers, and condominium master deeds, amendments that alter the legal description included.</p><p>The certificate is $5.00 for five parcel numbers and $0.20 for each one after that, citing MCL 211.135. A seller with a split or multi-parcel property should count the tax IDs first. Treasurer telephone: 517-676-7220. Ask for the certificate before the closing date, so it is already in hand when the title company sends the deed to Mason for recording.</p>"
   },
   {
-   "h2": "Who owes the transfer tax on an Ingham County sale, and how much?",
-   "html": "<p>The county's fee page puts the burden on the seller or grantor, payable when the instrument arrives for recording. The rates are $3.75 per $500 (state) and $0.55 per $500 (county). The deed shows total consideration on its face, or a Real Estate Transfer Tax Valuation Affidavit comes with it, and any claimed exemption has to be written on the instrument.</p><table><caption>Seller's transfer tax at Ingham County's median home value</caption><thead><tr><th>Step</th><th>Figure</th></tr></thead><tbody><tr><td>Median owner-occupied home (Census 2020 to 2024)</td><td>$198,800</td></tr><tr><td>Blocks of $500, rounding up</td><td>398</td></tr><tr><td>State charge, 398 x $3.75</td><td>$1,492.50</td></tr><tr><td>County charge, 398 x $0.55</td><td>$218.90</td></tr><tr><td>Seller's total</td><td>$1,711.40</td></tr></tbody></table><p>The page ties the county tax to MCL 207.501 through 207.513 and the state tax to MCL 207.521 through 207.537. In the table, $198,800 divided by $500 is 397.6, and the fraction rule lifts it to 398 blocks. Three odd cases from the same page:</p><ul><li>Land spanning two counties needs the price divided by parcel, and each county taxes its piece.</li><li>County tax applies to the price named in a foreclosure instrument.</li><li>A deed of easement or right of way is taxable as well.</li></ul><p>Exemptions sit in <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505\">MCL 207.505</a> and <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526\">MCL 207.526</a>.</p>"
+   "h2": "Transfer tax: who pays and how much",
+   "html": "<p>The county's fee page puts the burden on the seller or grantor, payable when the instrument arrives for recording. The rates are $3.75 per $500 (state) and $0.55 per $500 (county). Divide the price by $500, round any fraction up to the next block, and multiply by the combined rate. The deed shows total consideration on its face, or a Real Estate Transfer Tax Valuation Affidavit comes with it, and any claimed exemption has to be written on the instrument.</p><p>The county tax falls under MCL 207.501 through 207.513 and the state tax under MCL 207.521 through 207.537. Three odd cases come up:</p><ul><li>Land spanning two counties needs the price divided by parcel, and each county taxes its piece.</li><li>County tax applies to the price named in a foreclosure instrument.</li><li>A deed of easement or right of way is taxable as well.</li></ul><p>Exemptions sit in <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505\">MCL 207.505</a> and <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526\">MCL 207.526</a>.</p>"
   },
   {
-   "h2": "What does the Mason office look for when it reviews a deed?",
-   "html": "<p>The <a href=\"https://ingham.org/departments_and_officials/register_of_deeds/recording_requirements.php\">recording requirements page</a> warns that its list is only the common problems. Even so, it is a useful pre-flight check:</p><ul><li>Original ink signatures, typed or printed names beneath, black or dark blue.</li><li>An acknowledgment with the notary's signature, county and state of commission, expiration date and the place of signing.</li><li>A certified death certificate recorded as a separate document and cross-referenced when a survivor is named.</li><li>Court orders certified under the clerk's raised seal.</li><li>No correction fluid or tape.</li><li>A top margin of 2.5 inches on page one, and Social Security numbers cut to four digits or fewer.</li></ul><p>The underlying rules are in Michigan's recording act, <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-565-201\">MCL 565.201</a>, and neighboring sections.</p>"
+   "h2": "What the Mason office checks on a deed",
+   "html": "<p>The office's recording requirements list covers only the common problems, but it is a useful pre-flight check:</p><ul><li>Original ink signatures, typed or printed names beneath, black or dark blue.</li><li>An acknowledgment with the notary's signature, county and state of commission, expiration date and the place of signing.</li><li>A certified death certificate recorded as a separate document and cross-referenced when a survivor is named.</li><li>Court orders certified under the clerk's raised seal.</li><li>No correction fluid or tape.</li><li>A top margin of 2.5 inches on page one, and Social Security numbers cut to four digits or fewer.</li></ul><p>The underlying rules are in Michigan's recording act, <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-565-201\">MCL 565.201</a>, and neighboring sections.</p>"
   },
   {
-   "h2": "How far back do Ingham County's online records reach?",
-   "html": "<p>The index goes to 1956, and images start in 1960. Choose among three tools: Direct Search, a free index lookup that leaves out the latest seven days; Tapestry, at $8.95 a search with $1.00 per printed page; and Laredo, a subscription aimed at regular title searchers. County staff are still auditing indexed data for 1956 to 1981 for conversion errors, so that stretch is best checked in the vault by appointment. Laredo subscription questions go to 517-676-7294. Pre-1960 copies are $1.00 a page at the Mason office or by mail to Register of Deeds Copies, P.O. Box 195, Mason, MI 48854.</p>"
+   "h2": "How far back the online records reach",
+   "html": "<p>The index goes to 1956, and images start in 1960. Choose among three tools: Direct Search, a free index lookup that leaves out the latest seven days; Tapestry, at $8.95 a search with $1.00 per printed page; and Laredo, a subscription aimed at regular title searchers. For the years 1956 to 1981, check the vault by appointment, since county staff are still auditing indexed data from that stretch. Laredo subscription questions go to 517-676-7294. Pre-1960 copies are $1.00 a page at the Mason office or by mail to Register of Deeds Copies, P.O. Box 195, Mason, MI 48854.</p>"
   },
   {
-   "h2": "Which other offices does an Ingham County seller phone?",
-   "html": "<p>The county home page publishes direct lines for the offices a sale tends to touch. Gather paperwork from them ahead of the closing date.</p><ul><li>Treasurer, 517-676-7220: tax certificates and parcel tax status.</li><li>Register of Deeds, 517-676-7216: recording, copies, vault appointments.</li><li>Probate Court, 517-483-6300: estates, when an owner has died and the house passes through probate.</li><li>County Clerk, 517-676-7201: listed beside the Register of Deeds among the county's elected officials.</li><li>30th Judicial Circuit Court, 517-483-6500: judgments and orders that may need recording against the property.</li></ul><p>The courthouse is at 341 S. Jefferson, Mason, MI 48854, and the county's department list also shows an Equalization office for valuation questions.</p>"
+   "h2": "Which other offices an Ingham County seller phones",
+   "html": "<p>The county home page publishes direct lines for the offices a sale tends to touch. Gather paperwork from them ahead of the closing date.</p><ul><li>Treasurer, 517-676-7220: tax certificates and parcel tax status.</li><li>Register of Deeds, 517-676-7216: recording, copies, vault appointments.</li><li>Probate Court, 517-483-6300: estates, when an owner has died and the house passes through probate.</li><li>County Clerk, 517-676-7201: listed beside the Register of Deeds among the county's elected officials.</li><li>30th Judicial Circuit Court, 517-483-6500: judgments and orders that may need recording against the property.</li></ul><p>The courthouse is at 341 S. Jefferson, Mason, MI 48854, and the county also has an Equalization office for valuation questions.</p>"
   },
   {
-   "h2": "What is Ingham County like beyond the capital?",
-   "html": "<p>The Michigan Territorial Legislature created Ingham County on October 29, 1829, and Washtenaw County ran it until 1838. It takes its name from Samuel D. Ingham, a Treasury secretary under Andrew Jackson. Of 561 square miles, 556 are land, rolling at 800 to 1,000 feet. The Grand River bends along the west edge and the Red Cedar crosses the north. Michigan State University, Lansing Community College and the Lansing Lugnuts all call it home.</p><p>Municipalities include East Lansing and Lansing (each partly), Leslie, Mason and Williamston, plus the villages of Dansville, Stockbridge and Webberville. Haslett, Holt and Okemos are census-designated places. By Census Bureau figures the 2025 estimate is 289,709 people and 127,510 housing units, with 59.5 percent owner-occupied. Typical values: a $198,800 home, $1,084 rent and a $65,526 household income. Among adults 25 and over, 41.2 percent hold a bachelor's degree or higher. The county has grown steadily, from 2,498 residents in 1840 to 211,296 in 1960, 261,039 in 1970 and 284,900 in 2020, when the median age was 33.4 years and density ran 512 people per square mile.</p>"
+   "h2": "Selling with taxes owed",
+   "html": "<p>If the parcel has an unpaid balance, ask the Treasurer at 517-676-7220 for the amount before you list. The title company will pay it from your proceeds at closing, and the tax certificate for a warranty deed cannot be issued until the parcel's tax standing is settled. Sellers who want a quick sale without repairs or lender delays sometimes go the cash route, but the recording steps stay the same: certificate, transfer tax, and the $30.00 filing. Bring or send the original signed deed, and ask the title company which of you will deliver it so nothing is filed twice. If you are coming in person, phone 517-676-7216 first to confirm the counter is staffed and that the deed meets the format list above. A rejected deed means a second trip to Mason and a delayed closing, which is easy to avoid with a quick call to the office.</p>"
+  },
+  {
+   "h2": "The Ingham County market",
+   "html": "<p>Ingham County is home to Lansing, East Lansing, Mason and Michigan State University. The 2025 estimate is 289,709 people, with 59.5 percent of homes owner-occupied. A typical home is valued at $198,800 and typical rent is $1,084.</p>"
   }
  ],
  "faqs": [
@@ -41,7 +45,7 @@
   },
   {
    "q": "Who writes the check for transfer tax in Ingham County?",
-   "a": "The seller or grantor, per the county fee page. Payment comes due as the deed is presented, at $3.75 per $500 for the state and $0.55 per $500 for the county."
+   "a": "The seller or grantor, as the county fee page describes it. Payment comes due as the deed is presented, at $3.75 per $500 for the state and $0.55 per $500 for the county."
   },
   {
    "q": "Must I visit the Treasurer before my Ingham County deed is recorded?",
@@ -57,16 +61,49 @@
   }
  ],
  "sources": [
-  {"title": "Ingham County Register of Deeds fee schedule", "url": "https://rd.ingham.org/departments_and_officials/register_of_deeds/fees.php"},
-  {"title": "Ingham County Register of Deeds contact page", "url": "https://rd.ingham.org/departments_and_officials/register_of_deeds/contact_us.php"},
-  {"title": "Ingham County Register of Deeds recording requirements", "url": "https://ingham.org/departments_and_officials/register_of_deeds/recording_requirements.php"},
-  {"title": "Ingham County Register of Deeds records online", "url": "https://rd.ingham.org/departments_and_officials/register_of_deeds/records_on-line.php"},
-  {"title": "Ingham County home page", "url": "https://www.ingham.org/"},
-  {"title": "MCL 600.2567 Register of deeds fees", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"},
-  {"title": "MCL 207.505 County transfer tax exemptions", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"},
-  {"title": "MCL 207.526 State transfer tax exemptions", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"},
-  {"title": "MCL 565.201 Recording requirements", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-565-201"},
-  {"title": "Census QuickFacts: Houghton, Huron and Ingham Counties, Michigan", "url": "https://www.census.gov/quickfacts/fact/table/houghtoncountymichigan,huroncountymichigan,inghamcountymichigan/PST045224"},
-  {"title": "Ingham County, Michigan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ingham_County,_Michigan"}
+  {
+   "title": "Ingham County Register of Deeds fee schedule",
+   "url": "https://rd.ingham.org/departments_and_officials/register_of_deeds/fees.php"
+  },
+  {
+   "title": "Ingham County Register of Deeds contact page",
+   "url": "https://rd.ingham.org/departments_and_officials/register_of_deeds/contact_us.php"
+  },
+  {
+   "title": "Ingham County Register of Deeds recording requirements",
+   "url": "https://ingham.org/departments_and_officials/register_of_deeds/recording_requirements.php"
+  },
+  {
+   "title": "Ingham County Register of Deeds records online",
+   "url": "https://rd.ingham.org/departments_and_officials/register_of_deeds/records_on-line.php"
+  },
+  {
+   "title": "Ingham County home page",
+   "url": "https://www.ingham.org/"
+  },
+  {
+   "title": "MCL 600.2567 Register of deeds fees",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"
+  },
+  {
+   "title": "MCL 207.505 County transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"
+  },
+  {
+   "title": "MCL 207.526 State transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "MCL 565.201 Recording requirements",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-565-201"
+  },
+  {
+   "title": "Census QuickFacts: Houghton, Huron and Ingham Counties, Michigan",
+   "url": "https://www.census.gov/quickfacts/fact/table/houghtoncountymichigan,huroncountymichigan,inghamcountymichigan/PST045224"
+  },
+  {
+   "title": "Ingham County, Michigan (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Ingham_County,_Michigan"
+  }
  ]
 }

@@ -1,70 +1,101 @@
 {
-  "slug": "ionia-county-mi-register-of-deeds",
-  "sections": [
-    {
-      "h2": "Who files the deed after an Ionia County home sale?",
-      "html": "<p>The Ionia County Register of Deeds files it. That office keeps the land records for the whole county, and a sale becomes public only once the deed is stamped, indexed and filed there. Staff will not help you draft or repair paperwork, so the papers should arrive complete, drafted by a lawyer or the closing company.</p><p>Land area in Ionia County is roughly 571 square miles. The seat is the city of Ionia, and the county counts as part of the Grand Rapids-Kentwood metro area. Filing can happen at the counter, through the mail, or through an approved electronic provider. Counter filings are handed back on the spot. Mailed packets come back only if you include a self-addressed return envelope, and anything sent without one is held 90 days. For questions, call (616) 527-5320 or write deeds@ioniacounty.org.</p>"
-    },
-    {
-      "h2": "What will the Ionia County deed filing cost me?",
-      "html": "<p>Thirty dollars covers each document, however long. Payment can be cash, check or card, and card payments add a service fee that depends on the amount. One check can cover the filing charge and both transfer taxes.</p><table><caption>Ionia County Register of Deeds charges</caption><thead><tr><th>Item</th><th>Amount</th></tr></thead><tbody><tr><td>Filing a deed or mortgage</td><td>$30.00 per document</td></tr><tr><td>Document that assigns or discharges several instruments</td><td>$3.00 for each one past the first</td></tr><tr><td>Treasurer tax certification (warranty deeds, land contracts)</td><td>$5.00</td></tr><tr><td>Name lookup by staff</td><td>$5.00</td></tr><tr><td>Photocopies</td><td>$1.00 a page</td></tr><tr><td>Certifying a copy</td><td>$5.00 added</td></tr></tbody></table><p>Source: Ionia County Register of Deeds pages on fees and on searching and copies.</p>"
-    },
-    {
-      "h2": "How is transfer tax figured on an Ionia County sale?",
-      "html": "<p>Ionia County publishes two rates that apply to a deed conveying real estate for money. The state takes $3.75 for every $500 of price, counting any partial $500 as a full one, and the county takes $0.55 on the same basis. A $200,000 price therefore produces $1,500 state tax and $220 county tax, $1,720 combined. That is simple arithmetic on the posted rates; your closing agent will confirm the final number.</p><p>Any claimed exemption goes in writing on the deed itself. The two Michigan statutes do not match, and the gap matters for family transfers:</p><ul><li>MCL 207.526 (state tax) exempts a deed from a parent or grandparent to a child, stepchild or grandchild, along with foreclosure deeds and deeds in place of foreclosure.</li><li>MCL 207.505 (county tax) exempts instruments valued under $100, security instruments, leases, and court orders that name no price, and it omits the child and grandchild category.</li><li>Both statutes exempt a land contract until the full contract price has been paid and title passes.</li></ul><p>So a gift deed to a daughter can owe county tax while owing nothing to the state. Ask the office how your transfer is classified before you sign.</p>"
-    },
-    {
-      "h2": "Which sales need a treasurer certification first?",
-      "html": "<p>Warranty deeds, any deed with a covenant of warranty, land contracts, and assignments of land contracts must carry a Tax Certification from the Ionia County Treasurer. The $5 charge can sit on the same check as the filing charge. A quitclaim deed has no warranty covenant, so it usually avoids this step, and the Register of Deeds can say whether yours does.</p><p>If back taxes are owed on the parcel, raise it with your closing agent early, because the certification is part of the package that gets filed. Ask the County Treasurer what the office requires before it will issue one.</p>"
-    },
-    {
-      "h2": "Why would the office send my deed back?",
-      "html": "<p>Clerks check each document against Michigan's recording statute, MCL 565.201 and related sections. A deed that misses a rule comes back, and a closing can stall for days. The county's own checklist covers the usual trouble spots:</p><ul><li>Signatures are originals in dark ink, black or dark blue, with each name printed below.</li><li>The notary block repeats the same printed names, and the notary's name sits on the page that holds the notary signature.</li><li>The buyer's mailing address appears, as does the drafter's name and address as well.</li><li>Page one leaves a 2 1/2 inch blank band at the top, with half an inch clear on the remaining edges.</li><li>The first printed line names the one recordable event the paper covers.</li><li>Print is black, 10 point or larger, on white stock of at least 20 pound weight, in letter or legal size.</li><li>A deed to a surviving owner needs a certified death certificate recorded with it or earlier.</li><li>The full property value is stated on the deed, or a transfer tax valuation affidavit goes with it.</li></ul>"
-    },
-    {
-      "h2": "Can I look up Ionia County land records myself?",
-      "html": "<p>Yes. Public workstations in the office let you search by grantor or grantee for free, with copies at $1 a page. Searching those machines by legal description or parcel number runs $1 per minute. If you ask staff to find your last deed, the fee is $5 plus copies, and the lookup works by name rather than by property.</p><p>Remote searching comes in two forms. Tapestry charges $8.95 per search and suits a single visit. Laredo bills monthly and fits agents, investors and anyone searching often; call the office to open an account. If either service gives you trouble, the county asks that you contact the vendor's support team (Fidlar) first and the Ionia filing counter after that. A title company search digs deeper than either tool when you need the full ownership chain behind your house.</p>"
-    },
-    {
-      "h2": "How do Ionia County housing numbers compare for a seller?",
-      "html": "<p>Census QuickFacts puts the population at 66,557 in July 2025, slightly under the April 2020 count of 66,804. About 77.3 percent of households own, with a typical owned home worth $198,500 (2020 to 2024 survey years). Typical household income of $75,611 is the highest among the four Michigan counties researched alongside this one.</p><p>Commuters average 27.1 minutes each way to work, the longest of those four counties, which fits a county that feeds the Grand Rapids job market. Rent runs $884 a month at the median, and builders pulled only 100 permits in 2025. Resale houses supply most of what buyers see, and your listing joins that pool.</p>"
-    },
-    {
-      "h2": "Will the next property tax bill look different after I sell?",
-      "html": "<p>A transfer of ownership uncaps taxable value. Under Proposal A, the new figure takes effect in the calendar year after the transfer, so the buyer's bill can climb toward the assessed value. Michigan Treasury posts the Property Transfer Affidavit, Form 2766, which the buyer files with the local assessor. Ask the assessor for your city or township about the filing deadline.</p><p>Transfers listed in section 211.27a(7) of the General Property Tax Act do not uncap. Assessment is a local job in Michigan, handled by the city or township where the house stands, so the assessor there is the person to call about taxable value. Current bills come from that same local unit, and the County Treasurer takes over delinquent ones.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Does Ionia County bill by page count?",
-      "a": "No. Each document costs $30 to file. Documents that assign or discharge several instruments add $3 for each extra one."
-    },
-    {
-      "q": "May I email a deed to the Ionia County Register of Deeds?",
-      "a": "No. Email filings are refused. Electronic recording runs through accredited servicers named on the county page: Simplifile, Indecomm Global Services, EPN and CSC. Only a scanned original signed document is accepted."
-    },
-    {
-      "q": "Who covers transfer tax in Ionia County?",
-      "a": "Neither buyer nor seller is named on the county page. Payment comes with the deed at filing, so read your purchase agreement and watch the settlement statement for the amount."
-    },
-    {
-      "q": "Will paying off my mortgage give me a new deed?",
-      "a": "No. Your lender files a discharge of mortgage, which carries the same $30 filing charge, and your original deed remains the proof of ownership."
-    },
-    {
-      "q": "Is a quitclaim to a relative taxed in Ionia County?",
-      "a": "It may be taxed by the county. The state list exempts gifts to a child or grandchild, and the county list leaves them out. The deed has to state the exemption, so ask the office first."
-    }
-  ],
-  "sources": [
-    {"title": "Ionia County: Recording Documents, Fees, Requirements and E-Recording", "url": "https://ioniacounty.org/departments-officials/register-of-deeds/recording-documents-fees-requirements-e-recording"},
-    {"title": "Ionia County: Michigan Recording Requirements", "url": "https://ioniacounty.org/departments-officials/register-of-deeds/michigan-recording-requirements/"},
-    {"title": "Ionia County: Document Searching and Copies", "url": "https://ioniacounty.org/departments-officials/register-of-deeds/document-searching-and-copies"},
-    {"title": "MCL 207.526, State Real Estate Transfer Tax Act exemptions", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"},
-    {"title": "MCL 207.505, County Real Estate Transfer Tax exemptions", "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"},
-    {"title": "Michigan Treasury: Changes in Ownership and Uncapping of Property", "url": "https://michigan.gov/taxes/property/change-ownership"},
-    {"title": "Michigan Treasury: Property Transfer forms", "url": "https://www.michigan.gov/taxes/property/forms/instructions/property-transfer"},
-    {"title": "Census Bureau QuickFacts: Ionia, Iosco, Isabella and Jackson Counties, Michigan", "url": "https://www.census.gov/quickfacts/fact/table/ioniacountymichigan,ioscocountymichigan,isabellacountymichigan,jacksoncountymichigan/PST045224"},
-    {"title": "Ionia County, Michigan (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Ionia_County,_Michigan"}
-  ]
+ "slug": "ionia-county-mi-register-of-deeds",
+ "sections": [
+  {
+   "h2": "Who records your deed",
+   "html": "<p>The Register of Deeds handles it. This office holds the land records for all of Ionia County, and a sale becomes public only once the deed is stamped, indexed and filed there. Staff will not help you draft or repair paperwork, so the papers should arrive complete, drafted by a lawyer or the closing company.</p><p>The seat is the city of Ionia. Filing can happen at the counter, through the mail, or through an approved electronic provider. Counter filings are handed back on the spot. Mailed packets come back only if you include a self-addressed return envelope, and anything sent without one is held 90 days. For questions, call (616) 527-5320 or write deeds@ioniacounty.org.</p>"
+  },
+  {
+   "h2": "Filing costs",
+   "html": "<p>Thirty dollars pays for one document, however many pages it runs. The counter accepts cash, checks and cards, and a card adds a processing fee that varies with the amount. One check can cover the filing charge and both transfer taxes.</p><table><caption>Ionia County Register of Deeds charges</caption><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Filing a deed or mortgage</td><td>$30.00 per document</td></tr><tr><td>Document that assigns or discharges several instruments</td><td>$3.00 for each one past the first</td></tr><tr><td>Treasurer tax certification (warranty deeds, land contracts)</td><td>$5.00</td></tr><tr><td>Name lookup by staff</td><td>$5.00</td></tr><tr><td>Photocopies</td><td>$1.00 a page</td></tr><tr><td>Certifying a copy</td><td>$5.00 added</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Transfer tax on an Ionia sale",
+   "html": "<p>A deed that transfers real estate for money owes two taxes. For the state it is $3.75 on each $500 of the price, and for the county $0.55 on each $500, with any leftover amount under $500 counted as a whole block. Your closing agent will confirm the final number before you sign.</p><p>Any claimed exemption goes in writing on the deed itself. The two Michigan statutes differ, and the gap matters for family transfers:</p><ul><li>MCL 207.526 (state tax) exempts a deed from a parent or grandparent to a child, stepchild or grandchild, along with foreclosure deeds and deeds in place of foreclosure.</li><li>MCL 207.505 (county tax) exempts instruments valued under $100, security instruments, leases, and court orders that name no price, and it omits the child and grandchild category.</li><li>Both statutes exempt a land contract until the full contract price has been paid and title passes.</li></ul><p>So a gift deed to a daughter can owe county tax while owing nothing to the state. Ask the office how your transfer is classified before you sign.</p>"
+  },
+  {
+   "h2": "Treasurer certification",
+   "html": "<p>A Tax Certification from the Ionia County Treasurer has to accompany any warranty deed, any deed that contains a covenant of warranty, and any land contract or assignment of one. The $5 fee may be written into the check that pays the filing charge. A quitclaim deed has no warranty covenant, so it usually avoids this step, and you can ask the Register of Deeds whether yours qualifies.</p><p>If back taxes are owed on the parcel, raise it with your closing agent early, because the certification is part of the package that gets filed. Ask the County Treasurer what the office requires before it will issue one.</p>"
+  },
+  {
+   "h2": "Why the office might send your deed back",
+   "html": "<p>Recording clerks hold each paper up to the state recording law, MCL 565.201 and its neighbors. A deed that falls short goes back to you, and a closing can stall for days while it is redone. Expect clerks to look at these points from the county's checklist:</p><ul><li>Each signature must be an original, written in black or dark blue ink, and the signer's printed name goes underneath.</li><li>The notary block repeats those printed names, and the notary's name appears on the same page as the notary signature.</li><li>The buyer's mailing address is shown, along with the name and address of whoever drafted the deed.</li><li>Page one keeps a 2 1/2 inch blank band across the top, and half an inch is left clear on the other edges.</li><li>The first printed line says which single recordable event the paper covers.</li><li>The type is black and at least 10 point, set on white paper of 20 pound weight or heavier, letter or legal size.</li><li>When the grantor is a surviving owner, a certified death certificate is recorded first or together with the deed.</li><li>The full property value appears on the deed, or a transfer tax valuation affidavit is attached.</li></ul><p>Have the person who prepared the deed read through this list once more the day before closing.</p>"
+  },
+  {
+   "h2": "Looking up Ionia County land records",
+   "html": "<p>Public workstations in the office are free for grantor and grantee searches, and copies cost $1 a page. Searching those machines by legal description or parcel number runs $1 per minute. If you ask staff to find your last deed, the fee is $5 plus copies, and the lookup works by name rather than by property.</p><p>Remote searching comes in two forms. Tapestry charges $8.95 per search and suits a single visit. Laredo bills monthly and fits agents, investors and anyone searching often; call the office to open an account. If either service gives you trouble, contact the vendor's support team (Fidlar) first and the Ionia filing counter after that. A title company search digs deeper than either tool when you need the full ownership chain behind your house.</p>"
+  },
+  {
+   "h2": "Back taxes before closing",
+   "html": "<p>Old tax on the parcel surfaces the moment the title company asks the Treasurer for a certification. Call the County Treasurer for a payoff number before the sign goes up. It is paid out of your sale proceeds at closing, and the deed is not filed until the certification is in the package. A cash buyer can often close quickly, but the same certification, transfer tax and filing steps apply to the deed.</p>"
+  },
+  {
+   "h2": "Local market snapshot",
+   "html": "<p>Ionia County had 66,557 residents in July 2025, a little below the 66,804 counted in April 2020. About 77.3 percent of households own, with a typical owned home worth $198,500. Rent runs $884 a month at the median. The county feeds the Grand Rapids job market, and resale houses supply most of what buyers see, so your listing joins that pool.</p>"
+  },
+  {
+   "h2": "Property tax after you sell",
+   "html": "<p>A sale ends the cap on the house's taxable value. Under Proposal A the reset lands in the year following the sale, so the buyer's first full bill can rise toward the assessed value. Michigan Treasury posts the Property Transfer Affidavit, Form 2766, and it is the buyer who files that form with the local assessor. Ask the assessor for your city or township about the filing deadline.</p><p>Some transfers, listed in section 211.27a(7) of the General Property Tax Act, leave the cap in place. Assessment is a local job in Michigan, handled by the city or township where the house stands, so the assessor there is the person to call about taxable value. Current bills come from that same local unit, and the County Treasurer takes over delinquent ones.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Ionia County bill by page count?",
+   "a": "No. Each document costs $30 to file. Documents that assign or discharge several instruments add $3 for each extra one."
+  },
+  {
+   "q": "May I email a deed to the Ionia County Register of Deeds?",
+   "a": "No. Email filings are refused. Electronic recording runs through accredited servicers: Simplifile, Indecomm Global Services, EPN and CSC. Only a scanned original signed document is accepted."
+  },
+  {
+   "q": "Who covers transfer tax in Ionia County?",
+   "a": "Payment comes with the deed at filing, and who bears it depends on your purchase agreement. Read it, and watch the settlement statement for the amount."
+  },
+  {
+   "q": "Will paying off my mortgage give me a new deed?",
+   "a": "No. Your lender files a discharge of mortgage, which carries the same $30 filing charge, and your original deed remains the proof of ownership."
+  },
+  {
+   "q": "Is a quitclaim to a relative taxed in Ionia County?",
+   "a": "It may be taxed by the county. The state list exempts gifts to a child or grandchild, and the county list leaves them out. The deed has to state the exemption, so ask the office first."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ionia County: Recording Documents, Fees, Requirements and E-Recording",
+   "url": "https://ioniacounty.org/departments-officials/register-of-deeds/recording-documents-fees-requirements-e-recording"
+  },
+  {
+   "title": "Ionia County: Michigan Recording Requirements",
+   "url": "https://ioniacounty.org/departments-officials/register-of-deeds/michigan-recording-requirements/"
+  },
+  {
+   "title": "Ionia County: Document Searching and Copies",
+   "url": "https://ioniacounty.org/departments-officials/register-of-deeds/document-searching-and-copies"
+  },
+  {
+   "title": "MCL 207.526, State Real Estate Transfer Tax Act exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "MCL 207.505, County Real Estate Transfer Tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"
+  },
+  {
+   "title": "Michigan Treasury: Changes in Ownership and Uncapping of Property",
+   "url": "https://michigan.gov/taxes/property/change-ownership"
+  },
+  {
+   "title": "Michigan Treasury: Property Transfer forms",
+   "url": "https://www.michigan.gov/taxes/property/forms/instructions/property-transfer"
+  },
+  {
+   "title": "Census Bureau QuickFacts: Ionia, Iosco, Isabella and Jackson Counties, Michigan",
+   "url": "https://www.census.gov/quickfacts/fact/table/ioniacountymichigan,ioscocountymichigan,isabellacountymichigan,jacksoncountymichigan/PST045224"
+  },
+  {
+   "title": "Ionia County, Michigan (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Ionia_County,_Michigan"
+  }
+ ]
 }
