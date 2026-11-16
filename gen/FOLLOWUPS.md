@@ -76,3 +76,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 
 ## Stale-date sweep (before final publish)
 - cambridge-ma-property-tax-guide keeps FY2027 first-half bill due Nov 18, 2026 and abatement window closing Nov 18, 2026. Rewrite as recurring rule once those dates pass. Re-grep all polished pages for "2026" dates that have passed before the final push.
+- dakota-county-mn-property-tax-guide: 'November 15, moved to Monday, November 16 this year' for ag/manufactured-home second half. Stale after Nov 16, 2026; reword as 'November 15 (next business day when it falls on a weekend)'.

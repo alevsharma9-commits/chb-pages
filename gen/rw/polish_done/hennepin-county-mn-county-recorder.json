@@ -1,0 +1,77 @@
+{
+ "slug": "hennepin-county-mn-county-recorder",
+ "sections": [
+  {
+   "h2": "Where Hennepin County records a deed",
+   "html": "<p>The Hennepin County Recorder and Registrar of Titles records deeds, mortgages, assignments, releases and satisfactions. The office is on the 7th floor of the A-tower at the Government Center, 300 South 6th Street in Minneapolis. It also takes military separations and tax liens. Call 612-348-5139 or write to recordinginfo@hennepin.us.</p><p>About 45% of the land in this county is registered as Torrens, so the recorder handles a mix of abstract and Torrens parcels. That mix shapes how a sale gets recorded, and it is the first thing to learn about a house you are selling.</p>"
+  },
+  {
+   "h2": "Ways to get a document recorded",
+   "html": "<p>There are four routes, and different filers are steered to different ones.</p><ul><li>In person by appointment, offered between 8:30 a.m. and 3:30 p.m. each business day. A walk-in goes on a wait list and is helped when staff are free. Visitors clear security screening on the Skyway level first.</li><li>eRecording, the preferred method for title companies, lenders, law firms and other commercial filers. Documents are recorded within 1 to 3 days, and the original never leaves your hands.</li><li>Online through the Virtual Recorder site, open to the general public. You register, build a package, and pay by card or eCheck. Each order carries a $3 service fee and is reviewed for recordability before you pay, then recorded in 1 to 3 business days.</li><li>By mail to County Recorder/Registrar of Titles, Attn: Document recording, 300 S Sixth St, MC 074, Minneapolis, MN 55487. Originals are returned within 1 to 2 weeks of receipt.</li></ul><p>If a statutory deadline is close, call the office and ask which option fits.</p>"
+  },
+  {
+   "h2": "Recording fees",
+   "html": "<p>An abstract or Torrens document costs $46 to record, and one check made out to Hennepin County Recorder can cover both the recording fee and any tax. The fees come from Minnesota Statutes 357.18. These are the charges a seller or buyer is most likely to meet.</p><table><caption>Selected Hennepin County recorder fees</caption><thead><tr><th>Document or service</th><th>Fee</th></tr></thead><tbody><tr><td>Abstract or Torrens document</td><td>$46</td></tr><tr><td>Additional Torrens certificate</td><td>$20 each</td></tr><tr><td>Assignment or satisfaction (abstract)</td><td>$46, plus $10 for each reference over four</td></tr><tr><td>Well disclosure certificate</td><td>$54</td></tr><tr><td>Conservation fee on taxed instruments</td><td>$5</td></tr><tr><td>State tax lien release</td><td>$30</td></tr><tr><td>Extra copies at filing</td><td>$2</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Taxes and paperwork that go with a deed",
+   "html": "<p>A transfer deed needs more than a signature. The recording checklist calls for these items:</p><ul><li>State deed tax of .0034 of the net consideration, figured with the online deed tax calculator. For a transfer of $3,000 or less the tax is $1.70, and the deed should carry the words \"Total consideration for this transfer is $3,000 or less.\"</li><li>An electronic certificate of real estate value, or eCRV, with its number on the first page, for any deed over $3,000. Paper CRVs cause the package to be rejected.</li><li>A $5 agricultural conservation fee on any deed where state deed tax is due.</li><li>A \"Send Tax Statements to\" line with the name and address of every buyer.</li><li>A well statement, or a well disclosure certificate with its $54 fee.</li><li>Grantor marital status, a full legal description, a drafter name and address, and a notary block with seal and commission expiration.</li></ul><p>A mortgage carries mortgage registry tax at .0024 of the amount. A contract for deed needs a well statement and an eCRV but no deed tax.</p>"
+  },
+  {
+   "h2": "Does unpaid tax block recording?",
+   "html": "<p>Yes. Properties with delinquent taxes may not be transferred, under Minnesota Statutes 272.12. That section directs the auditor to check for delinquent tax, certify it, and mark the deed once it is paid or none is owed. The recorder cannot accept the deed without that mark, with exceptions the statute lists, such as deeds of distribution in probate and transfer on death deeds.</p><p>As a seller, get the tax payoff before the closing date so the title company can pay it from proceeds and the deed is not rejected. A cash buyer does not change this step: the auditor's check applies to every transfer. The property tax office at 612-348-3011 can quote what is owed on a parcel.</p>"
+  },
+  {
+   "h2": "Why a package gets rejected",
+   "html": "<p>Staff review a document only for the elements Minnesota law requires, so a package comes back when one is missing. Common reasons:</p><ul><li>No date or signature, or an incomplete legal description.</li><li>No drafted-by statement with the drafter's name and address.</li><li>A notary acknowledgment missing the date, a legible seal, the signature or the commission expiration date. An individual acknowledgment also needs the signer's name and marital status, and a corporate one the business name and the signer's title.</li><li>Strikeouts, line throughs, whiteout, correction tape or staple removal on the original.</li><li>No eCRV number on page one of a deed over $3,000.</li></ul><p>The office cannot supply forms, help fill them out or give legal advice. For that, try Law Help MN, the Volunteer Lawyers Network or the district court self-help centers. The Minnesota Department of Commerce offers free templates meant to cut rejections.</p>"
+  },
+  {
+   "h2": "Torrens or abstract",
+   "html": "<p>Torrens land has been registered by order of the District Court or the Examiner of Titles. It has a certificate of title listing the owner, the legal description and every lien, and a new certificate is issued at each sale, much like a car title. Abstract property has no certificate, so an attorney or title company has to produce a report of owners and liens.</p><p>The property information search shows which kind a parcel is. An owner can get a free electronic copy of a deed or certificate of title by emailing recordsrequest@hennepin.us with the address or property identification number. A Torrens owner can also call 612-348-5139 for a free copy.</p>"
+  },
+  {
+   "h2": "After closing",
+   "html": "<p>An attorney or title company normally does the recording, though a seller or buyer can do it. Once recorded, the county images and indexes the document, returns the original, and updates the taxpayer name and address from the deed. In most cases the document recorded first has priority.</p><p>Buyers can register the parcel with Property Watch, a free service that sends an email whenever a document is recorded against it. It does not prevent fraud, but it flags a recording nobody expected. If a joint owner has died, the survivor records an Affidavit of Survivorship with a certified death certificate. An owner who finds an old racial covenant in the chain of title can discharge it, and for abstract property there is no fee to record that disavowal.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How much does the Hennepin County recorder charge for a deed?",
+   "a": "$46 per abstract or Torrens document, plus a $5 conservation fee when state deed tax is paid, plus the deed tax itself. Checks go to Hennepin County Recorder, and one check can cover both fee and tax."
+  },
+  {
+   "q": "Can I record a deed online in Hennepin County without a title company?",
+   "a": "Yes. The public can use the Virtual Recorder site after registering. Orders carry a $3 service fee, are checked for recordability before payment, and are recorded within 1 to 3 business days of payment."
+  },
+  {
+   "q": "How long does Hennepin County take to record mailed documents?",
+   "a": "Originals mailed in are recorded and returned within 1 to 2 weeks of the county receiving them. eRecording from a vendor takes 1 to 3 days."
+  },
+  {
+   "q": "What is the Hennepin County deed tax rate?",
+   "a": "State deed tax is .0034 of net consideration, with a flat $1.70 when the price is $3,000 or less. Use the county's online calculator for the exact amount."
+  },
+  {
+   "q": "Where is the Hennepin County recorder's office?",
+   "a": "It is on the 7th floor of the A-tower at the Hennepin County Government Center, 300 South 6th Street, Minneapolis, MN 55487. Call 612-348-5139 or write recordinginfo@hennepin.us."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Hennepin County record land title documents",
+   "url": "https://www.hennepincounty.gov/services/property/record-land-title-documents"
+  },
+  {
+   "title": "Hennepin County resources for new homeowners",
+   "url": "https://www.hennepincounty.gov/services/property/resources-new-homeowners"
+  },
+  {
+   "title": "Minnesota Statutes 272.12",
+   "url": "https://www.revisor.mn.gov/statutes/cite/272.12"
+  },
+  {
+   "title": "Census QuickFacts",
+   "url": "https://www.census.gov/quickfacts/fact/table/goodhuecountyminnesota,hubbardcountyminnesota,hennepincountyminnesota/PST045224"
+  }
+ ]
+}

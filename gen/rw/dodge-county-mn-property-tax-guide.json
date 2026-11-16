@@ -1,71 +1,101 @@
 {
-  "slug": "dodge-county-mn-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which Dodge County offices deal with property tax?",
-      "html": "<p>Two desks at the Government Services Building in Mantorville handle most questions: Land Records (the assessor) for value and classification, and Finance for the tax bill and payments. Both sit at 721 Main Street North, Mantorville, MN 55955, and the county posts weekday hours from eight in the morning until four-thirty.</p><ul><li><strong>Assessor (Land Records):</strong> 507-635-6245, Dept. 102. Ask here about estimated market value, classification, homestead and the appeal steps.</li><li><strong>Finance:</strong> 507-635-6240, Dept. 45. Ask here about amounts due, duplicate statements, penalties and past-due balances.</li></ul><p>Dodge County runs its parcel and payment lookup through an online tax portal, so you can search by parcel number or street address before you call. Lost statements can be printed from the portal for years back to 2013, and Finance mails duplicates by phone request.</p>"
-    },
-    {
-      "h2": "Where does Dodge County sit, and who lives there?",
-      "html": "<p>Dodge County sits in southeastern Minnesota and belongs to the Rochester metropolitan area. Kasson is the largest city, while Mantorville holds the courthouse. The other cities are Blooming Prairie (shared with Steele County), Claremont, Dodge Center, Hayfield and West Concord.</p><p>The county was organized in 1855 and named for Henry Dodge. Its courthouse, built in 1865, is described as the oldest courthouse still in use in Minnesota, and Quarries around Mantorville once supplied cut stone, and Wasioja is known for its own stone. The land is about 24 miles long and 18 miles wide, rolling and fertile, with the South Branch of the Middle Fork of the Zumbro River crossing the upper middle.</p><p>The Census Bureau counted 20,867 residents in 2020 and estimated 21,376 for July 2025. QuickFacts lists 8,773 housing units, an owner-occupied rate of 86.6 percent, a median owner-occupied value of $287,700 and household income near $95,739 at the median for 2020 to 2024. Workers spend an average of 25.9 minutes getting to their jobs. With owners in nearly nine of ten occupied homes, a listing that arrives with an unpaid tax balance or an open classification question is easy for a buyer to spot.</p>"
-    },
-    {
-      "h2": "When are Dodge County property taxes due?",
-      "html": "<p>Residential real estate tax is split into two halves, due May 15 and October 15, and farm land gets until November 15 for the second half. Minnesota law (Minn. Stat. 279.01) sets those dates and the penalties, so the county cannot waive them on its own.</p><p>The county reminds owners that a mailed payment needs a postmark dated no later than the due date. Its suggestion is to walk the envelope into the post office and ask for a hand stamp. A homestead payment that misses its date picks up 2 percent, and non-homestead picks up 4 percent. After the first of the next month the penalty climbs again, and from then on it adds 1 percent each month through December, up to a cap of 8 percent for homestead and 12 percent for non-homestead property. The state also lets the treasurer abate a first late penalty when a payment was mailed and postmarked within one business day of the deadline.</p><table><caption>Dodge County property tax calendar. Sources: Dodge County Land Records important dates page; Minn. Stat. 279.01.</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>January 2</td><td>Assessment date; unpaid prior-year tax becomes delinquent</td></tr><tr><td>March 31</td><td>Last day Finance mails real estate tax statements</td></tr><tr><td>April 30</td><td>Last day to file a Minnesota Tax Court petition for the current tax</td></tr><tr><td>May 15</td><td>First half due</td></tr><tr><td>October 15</td><td>Second half due, including special assessments</td></tr><tr><td>November 15</td><td>Second half due on farm real property</td></tr><tr><td>December 1 and 15</td><td>Own and occupy by December 1, apply for homestead by December 15</td></tr></tbody></table>"
-    },
-    {
-      "h2": "How do I pay a Dodge County tax bill?",
-      "html": "<p>You can pay by mail, at the Administration window, in a drop box, or online. Checks and money orders go to Dodge County, and the stub from your statement should travel with the payment. Mail goes to Dodge County Finance, 721 Main Street North, Dept. 45, Mantorville, MN 55955.</p><ul><li><strong>In person:</strong> Administration window on the main floor, paid by cash, money order, cashier's check or personal check.</li><li><strong>Drop box:</strong> left of the west-facing main entrance. Write a note on the envelope if you want a receipt.</li><li><strong>Online:</strong> card payments carry a 2.75 percent fee, and an e-check costs $3.99 per transaction. Plan on one to two business days for posting.</li></ul><p>Finance sends no reminders. Only one statement per parcel goes out each year, and if you have not seen yours by April 10 the county asks you to call for a duplicate. Not receiving a statement does not remove the penalty.</p>"
-    },
-    {
-      "h2": "How do I contest a Dodge County valuation?",
-      "html": "<p>Start with an appraiser at the assessor's office as soon as your spring Notice of Valuation and Classification arrives, because the assessor can change a value only until the local board convenes. After that, relief comes only from a board or the Tax Court.</p><ol><li><strong>Local Board of Appeal and Equalization or open book meeting.</strong> Your city or township holds one in April or May, and the notice prints the date. Its reductions cannot lower the assessor's total for the district by more than one percent (Minn. Stat. 274.01).</li><li><strong>County Board of Appeal and Equalization.</strong> It meets in June. Only owners who appealed at the first level can be heard.</li><li><strong>Minnesota Tax Court.</strong> The petition is due April 30 of the year the tax is payable (Minn. Stat. 278.01). The Small Claims Division is final, while the Regular Division can be appealed further.</li></ol><p>The county says plainly that a bill being too high is not a reason to adjust value. Bring a recent appraisal, comparable sales or errors in the property record instead. Tax-level questions belong at the December Truth in Taxation meetings.</p>"
-    },
-    {
-      "h2": "How does homestead status work in Dodge County?",
-      "html": "<p>Homestead classification gives owner-occupied property a lower tax rate than similar non-homestead property. To get it, you present proof of ownership, complete an application and supply the Social Security numbers of all owners. You must also be a Minnesota resident and be listed as an owner on county tax records.</p><p>Timing matters for a buyer. A person who buys and moves in by December 1 and files by December 15 sees homestead rates in the following year's tax. A seller who rented the house out before listing may have changed the class, which is why Finance answers \"why did my classification change\" calls by sending people back to Land Records at 507-635-6245. Relatives of an owner can qualify too, as can certain trusts and life estates when the deed shows the interest.</p>"
-    },
-    {
-      "h2": "How does tax get cleared when a Dodge County house sells?",
-      "html": "<p>The first thing the auditor checks at transfer is whether delinquent tax is owed. Under Minn. Stat. 272.12, a deed is presented to the county auditor, who looks for delinquent taxes and certifies the land clear before the recorder may accept the deed.</p><p>That is why a title company will ask for the payoff figure before closing. If you buy after statements have been mailed, Dodge County sends the new owner a courtesy letter showing the tax for the year rather than a full statement, and it does this even when a lender escrows the payment. A seller on a contract for deed stays responsible for confirming that taxes were paid, although only the new contract holder receives the bill. Ask the title or closing agent how the current year is divided between buyer and seller, since that depends on the purchase agreement.</p>"
-    },
-    {
-      "h2": "What if back taxes are owed on a Dodge County property?",
-      "html": "<p>Call Finance at 507-635-6240 for the exact amount, which includes penalty and interest, or look the parcel up in the portal, where delinquent figures are kept current. Unpaid prior-year tax becomes delinquent on January 2.</p><p>Paying before listing usually simplifies the closing. If the amount is more than you can cover, ask Finance for the exact figure before the next January 2 so you know what the delinquency date will add.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Where do I send a Dodge County property tax payment?",
-      "a": "Mail it to Dodge County Finance, 721 Main Street North, Dept. 45, Mantorville, MN 55955, with the payment stub from your statement. The postmark must carry May 15 or October 15 or an earlier date, so the county suggests having the post office hand stamp it."
-    },
-    {
-      "q": "Is there a fee to pay Dodge County taxes online?",
-      "a": "Yes. Card payments carry a 2.75 percent fee and an e-check costs $3.99 per transaction, with several parcels allowed in one e-check transaction. Allow one to two business days for the payment to post."
-    },
-    {
-      "q": "By when must a Dodge County owner file an appeal?",
-      "a": "The local board or open book meeting comes first, in April or May, and the date is printed on your valuation notice. A Minnesota Tax Court petition has to be filed by April 30 in the tax-payable year."
-    },
-    {
-      "q": "I bought a Dodge County house after statements were mailed. Do I still owe the tax?",
-      "a": "Yes. You will receive a courtesy letter from the county instead of a statement, and the tax is still yours to pay by the due dates. Call Finance at 507-635-6240 with your parcel number or address for a copy."
-    },
-    {
-      "q": "Which office changes my homestead status in Dodge County?",
-      "a": "The assessor's office in Land Records, at 507-635-6245. File in person, by phone or by email, or download the form from the county website, and apply by December 15 after owning and living in the home by December 1."
-    }
-  ],
-  "sources": [
-    {"title": "Dodge County, MN: Property Tax Inquiry and Payments", "url": "https://co.dodge.mn.us/departments/adminstration/property_tax_inquiry.php"},
-    {"title": "Dodge County, MN: Value and Classification Appeals", "url": "https://co.dodge.mn.us/departments/land_records/appeals.php"},
-    {"title": "Dodge County, MN: Important Dates", "url": "https://co.dodge.mn.us/departments/land_records/important_dates.php"},
-    {"title": "Dodge County, MN: Homesteads", "url": "https://co.dodge.mn.us/departments/land_records/homesteads.php"},
-    {"title": "Minn. Stat. 279.01", "url": "https://www.revisor.mn.gov/statutes/cite/279.01"},
-    {"title": "Minn. Stat. 274.01", "url": "https://www.revisor.mn.gov/statutes/cite/274.01"},
-    {"title": "Minn. Stat. 278.01", "url": "https://www.revisor.mn.gov/statutes/cite/278.01"},
-    {"title": "Minn. Stat. 272.12", "url": "https://www.revisor.mn.gov/statutes/cite/272.12"},
-    {"title": "Census QuickFacts: Dodge County, Minnesota", "url": "https://www.census.gov/quickfacts/fact/table/dodgecountyminnesota"},
-    {"title": "Dodge County, Minnesota (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Dodge_County,_Minnesota"}
-  ]
+ "slug": "dodge-county-mn-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Which offices handle property tax",
+   "html": "<p>Two desks in the Government Services Building in Mantorville take most questions. Land Records (the assessor) covers value and classification. Finance covers the bill and payments. Both are at 721 Main Street North, Mantorville, MN 55955, with weekday hours from eight in the morning to four-thirty.</p><ul><li><strong>Assessor (Land Records):</strong> 507-635-6245, Dept. 102. Call about estimated market value, classification, homestead and appeal steps.</li><li><strong>Finance:</strong> 507-635-6240, Dept. 45. Call about amounts due, duplicate statements, penalties and past-due balances.</li></ul><p>The county runs its parcel and payment lookup through an online tax portal, so you can search by parcel number or street address before calling. Lost statements can be printed there for years back to 2013, and Finance will mail a duplicate if you ask by phone.</p>"
+  },
+  {
+   "h2": "Dodge County housing for sellers",
+   "html": "<p>Dodge County is in southeastern Minnesota, part of the Rochester metropolitan area. Kasson is the largest city and Mantorville holds the courthouse. Other cities include Blooming Prairie (shared with Steele County), Claremont, Dodge Center, Hayfield and West Concord.</p><p>About 21,376 people live here. The county has 8,773 housing units, and owners occupy 86.6 percent of occupied homes. The median owner-occupied value is $287,700 and median household income is near $95,739.</p><p>With owners in nearly nine of ten homes, a listing that arrives with an unpaid tax balance or an open classification question is easy for a buyer to spot. Sort out both first.</p>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>Residential real estate tax comes in two halves, due May 15 and October 15. Farm land has until November 15 for the second half. Minn. Stat. 279.01 sets those dates and the penalties, so the county cannot waive them by itself.</p><p>Mailed checks count on the postmark date, so the county advises handing the envelope across the post office counter to get it hand stamped. A homestead payment that misses its date picks up 2 percent, and non-homestead picks up 4 percent. The penalty jumps again at the start of the next month and then grows by 1 percent monthly through December, stopping at 8 percent for homestead and 12 percent for non-homestead property. The treasurer can also abate a first late penalty if the payment was mailed and postmarked within one business day of the deadline.</p><table><caption>Dodge County property tax calendar</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>January 2</td><td>Values are fixed; prior-year balances turn delinquent</td></tr><tr><td>March 31</td><td>Finance finishes mailing real estate statements</td></tr><tr><td>April 30</td><td>Tax Court petition cutoff for the current tax</td></tr><tr><td>May 15</td><td>First half due</td></tr><tr><td>October 15</td><td>Second half due, including special assessments</td></tr><tr><td>November 15</td><td>Second half due on farm real property</td></tr><tr><td>December 1 and 15</td><td>Live in the home by December 1, file for homestead by December 15</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Paying a Dodge County bill",
+   "html": "<p>Payment can go by mail, at the Administration window, in a drop box, or online. Write checks and money orders to Dodge County and enclose your statement stub. Mail goes to Dodge County Finance, 721 Main Street North, Dept. 45, Mantorville, MN 55955.</p><ul><li><strong>In person:</strong> the Administration window on the main floor accepts cash, money order, cashier's check or personal check.</li><li><strong>Drop box:</strong> to the left of the west-facing main entrance. Write a note on the envelope if you want a receipt.</li><li><strong>Online:</strong> card payments carry a 2.75 percent fee, and an e-check costs $3.99 per transaction. Posting takes one to two business days.</li></ul><p>Finance sends no reminders, and only one statement per parcel goes out each year. If yours has not shown up by April 10, call for a duplicate. A missing statement does not remove the penalty.</p>"
+  },
+  {
+   "h2": "How to contest a valuation",
+   "html": "<p>The day your spring Notice of Valuation and Classification shows up, get an appraiser at the assessor's on the phone. The assessor can change a value only until the local board convenes. After that, relief comes only from a board or the Tax Court.</p><ol><li><strong>Local Board of Appeal and Equalization or open book meeting.</strong> Your city or township holds one in April or May, with the date printed on the notice. Its reductions cannot lower the assessor's total for the district by more than one percent (Minn. Stat. 274.01).</li><li><strong>County Board of Appeal and Equalization.</strong> It meets in June, and only owners who appealed at the first level can be heard.</li><li><strong>Minnesota Tax Court.</strong> The petition is due April 30 of the year the tax is payable (Minn. Stat. 278.01). The Small Claims Division is final, while the Regular Division can be appealed further.</li></ol><p>Feeling that the bill is high does not justify a value change. Bring a recent appraisal, comparable sales or errors in the property record instead. Questions about tax levels belong at the December Truth in Taxation meetings.</p>"
+  },
+  {
+   "h2": "Homestead status",
+   "html": "<p>A homestead class means a lower rate for the owner's own home than for comparable non-homestead property. To get it, present proof of ownership, complete an application and supply the Social Security numbers of all owners. You must be a Minnesota resident and be listed as an owner on county tax records.</p><p>Timing matters for a buyer. A buyer who moves in by December 1 and files by December 15 sees homestead rates in the following year's tax. A seller who rented the house before listing may have changed the class, which is why Finance sends \"why did my classification change\" calls back to Land Records at 507-635-6245. Relatives of an owner can qualify, as can certain trusts and life estates when the deed shows the interest.</p>"
+  },
+  {
+   "h2": "Clearing the tax at a sale",
+   "html": "<p>At transfer, the auditor first checks whether delinquent tax is owed. Minn. Stat. 272.12 sends the deed to the county auditor first. The auditor searches for delinquent taxes and certifies the land clear, and only then can the recorder take the deed.</p><p>For this reason the closing agent wants a payoff number ahead of the signing. If a buyer takes over after statements have been mailed, Dodge County sends a courtesy letter showing that year's tax rather than a full statement, even when a lender escrows the payment. A seller on a contract for deed stays responsible for confirming taxes were paid, although only the new contract holder receives the bill. Ask the title or closing agent how the current year is divided between buyer and seller, since that depends on the purchase agreement.</p>"
+  },
+  {
+   "h2": "Back taxes",
+   "html": "<p>Call Finance at 507-635-6240 for the exact amount, which includes penalty and interest, or look the parcel up in the portal, where delinquent figures are kept current. Unpaid prior-year tax becomes delinquent on January 2.</p><p>Paying before you list usually simplifies the closing. If the amount is more than you can cover, get the exact figure from Finance before the next January 2 so you know what the delinquency date will add.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I send a Dodge County property tax payment?",
+   "a": "Mail it to Dodge County Finance, 721 Main Street North, Dept. 45, Mantorville, MN 55955, with the stub from your statement. The postmark must show May 15 or October 15 or earlier, so the county suggests a post office hand stamp."
+  },
+  {
+   "q": "Is there a fee to pay Dodge County taxes online?",
+   "a": "Yes. Card payments carry a 2.75 percent fee and an e-check costs $3.99 per transaction, with several parcels allowed in one e-check. Allow one to two business days to post."
+  },
+  {
+   "q": "By when must a Dodge County owner file an appeal?",
+   "a": "The local board or open book meeting comes first, in April or May, with the date on your valuation notice. A Minnesota Tax Court petition must be filed by April 30 of the year the tax is payable."
+  },
+  {
+   "q": "I bought a Dodge County house after statements were mailed. Do I still owe the tax?",
+   "a": "Yes. You will receive a courtesy letter instead of a statement, and the tax is still yours to pay by the due dates. Call Finance at 507-635-6240 with your parcel number or address for a copy."
+  },
+  {
+   "q": "Which office changes my homestead status in Dodge County?",
+   "a": "The assessor's office in Land Records, at 507-635-6245. File in person, by phone or by email, or download the form from the county website, and apply by December 15 after owning and living in the home by December 1."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Dodge County, MN: Property Tax Inquiry and Payments",
+   "url": "https://co.dodge.mn.us/departments/adminstration/property_tax_inquiry.php"
+  },
+  {
+   "title": "Dodge County, MN: Value and Classification Appeals",
+   "url": "https://co.dodge.mn.us/departments/land_records/appeals.php"
+  },
+  {
+   "title": "Dodge County, MN: Important Dates",
+   "url": "https://co.dodge.mn.us/departments/land_records/important_dates.php"
+  },
+  {
+   "title": "Dodge County, MN: Homesteads",
+   "url": "https://co.dodge.mn.us/departments/land_records/homesteads.php"
+  },
+  {
+   "title": "Minn. Stat. 279.01",
+   "url": "https://www.revisor.mn.gov/statutes/cite/279.01"
+  },
+  {
+   "title": "Minn. Stat. 274.01",
+   "url": "https://www.revisor.mn.gov/statutes/cite/274.01"
+  },
+  {
+   "title": "Minn. Stat. 278.01",
+   "url": "https://www.revisor.mn.gov/statutes/cite/278.01"
+  },
+  {
+   "title": "Minn. Stat. 272.12",
+   "url": "https://www.revisor.mn.gov/statutes/cite/272.12"
+  },
+  {
+   "title": "Census QuickFacts: Dodge County, Minnesota",
+   "url": "https://www.census.gov/quickfacts/fact/table/dodgecountyminnesota"
+  },
+  {
+   "title": "Dodge County, Minnesota (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Dodge_County,_Minnesota"
+  }
+ ]
 }
