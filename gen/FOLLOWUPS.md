@@ -31,3 +31,4 @@
 - sell-my-house-fast-sandy-springs-ga: demographics taken from Wikipedia's Census-cited figures. Swap to QuickFacts or drop.
 - lady-bird-deed-texas: table rests on one State Law Library page; needs legal check before relying on it.
 - georgetown-tx-property-tax-guide: states $0.363167 as 2026 levy, adoption not confirmed on an official page (notice prints proposed/voter-approval rate). Verify or reword.
+- TX clerk fee conflicts: cameron-county-tx and hidalgo-county-tx pages quote a clerk-printed $35 first-page fee vs state manual $5; pages tell readers to confirm. Recheck against current clerk fee schedules.
