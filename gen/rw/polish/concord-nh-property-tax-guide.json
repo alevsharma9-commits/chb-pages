@@ -3,19 +3,19 @@
  "sections": [
   {
    "h2": "Concord at a glance",
-   "html": "<p>Concord is the capital of New Hampshire and the seat of Merrimack County, about 16 miles north of Manchester and 66 miles north of Boston. Property tax here is a city, county and school matter, so first learn which part of the city your house is in. The villages are Penacook, Concord Heights, East Concord and West Concord, and downtown has its own North End and South End neighborhoods.</p><p>Penacook is served by the Merrimack Valley School District rather than the Concord School District, so the district depends on where the house sits. Homes near the Merrimack River and its tributaries should be checked against the FEMA flood map. Winters test roofs, heating systems and insulation every year.</p>"
+   "html": "<p>Concord is New Hampshire's capital and the Merrimack County seat, roughly 16 miles north of Manchester and 66 miles north of Boston. Your tax depends on the city, the county and the school district, so start by finding out which part of Concord the house is in. The villages are Penacook, Concord Heights, East Concord and West Concord, and downtown has a North End and a South End.</p><p>Penacook falls in the Merrimack Valley School District instead of the Concord School District. Houses near the Merrimack River and its tributaries should be checked on the FEMA flood map. Winter tests roofs, heating systems and insulation each year, so a seller with an old furnace will hear about it from buyers.</p>"
   },
   {
    "h2": "Due dates and penalties",
-   "html": "<p>Concord bills twice a year and collects in four installments. The July and October bills are estimates, each 25 percent of the prior year's total bill. The January and March payments are final and are adjusted for the earlier estimates.</p><table><thead><tr><th>Installment</th><th>Due date</th><th>Type</th></tr></thead><tbody><tr><td>First</td><td>July 1</td><td>Estimate</td></tr><tr><td>Second</td><td>October 1</td><td>Estimate</td></tr><tr><td>Third</td><td>January 2</td><td>Final, adjusted</td></tr><tr><td>Fourth</td><td>March 31</td><td>Final, adjusted</td></tr></tbody></table><p>The July and October bills are mailed together around June 1, and the January and March bills go out around December 1. Bills are based on the April 1 assessment under RSA 76:2. State law requires 8 percent interest on late balances, prorated daily, and the city cannot waive it.</p><p>The Tax Collector is at 41 Green Street, 603-225-8540. Hours are Monday, Tuesday, Wednesday and Friday 8:00 AM to 4:30 PM, and Thursday 8:00 AM to 6:00 PM. You can pay online, by phone, in person, or by mail to the City of Concord Tax Office, PO Box 9582, Manchester, NH 03108. Send mailed payments 7 to 10 days before the due date.</p>"
+   "html": "<p>The city bills twice a year but collects in four installments. July and October are estimates, each 25 percent of the prior year's total bill. January and March are final and adjust for the earlier estimates.</p><table><thead><tr><th>Installment</th><th>Due date</th><th>Type</th></tr></thead><tbody><tr><td>First</td><td>July 1</td><td>Estimate</td></tr><tr><td>Second</td><td>October 1</td><td>Estimate</td></tr><tr><td>Third</td><td>January 2</td><td>Final, adjusted</td></tr><tr><td>Fourth</td><td>March 31</td><td>Final, adjusted</td></tr></tbody></table><p>Expect the July and October bills together around June 1, and the January and March bills around December 1. They rest on the April 1 assessment under RSA 76:2. Late balances accrue 8 percent interest, prorated daily, under state law, and the city has no power to waive it.</p><p>Visit the Tax Collector at 41 Green Street or call 603-225-8540. The office opens Monday, Tuesday, Wednesday and Friday from 8:00 AM to 4:30 PM, and Thursday from 8:00 AM to 6:00 PM. Payment works online, by phone, in person, or by mail to the City of Concord Tax Office, PO Box 9582, Manchester, NH 03108. Mail it 7 to 10 days early.</p>"
   },
   {
    "h2": "Concord's tax rate",
-   "html": "<p>The 2025 rate is $29.11 per $1,000 of assessed value. It breaks down as $10.18 for the city, $2.54 for the county, $1.58 for the state education tax and $14.81 for the local school district. The rate was set on November 19, 2025, on a valuation of $4,967,453,081 and a total commitment of $154,257,720.</p><p>Your own assessment decides your bill. The local school rate is the largest piece, and if your house is in Penacook or another part of the city, confirm your exact rate with the city assessor at 603-225-8550.</p>"
+   "html": "<p>Concord charges $29.11 per $1,000 of assessed value for 2025, split as $10.18 for the city, $2.54 for the county, $1.58 for the state education tax and $14.81 for the local school district. The rate was set on November 19, 2025, on a valuation of $4,967,453,081 and a total commitment of $154,257,720.</p><p>Your own assessment decides your bill. The local school rate is the largest piece, and if your house is in Penacook or another part of the city, confirm your exact rate with the city assessor at 603-225-8550.</p>"
   },
   {
    "h2": "The 2026 revaluation",
-   "html": "<p>Concord completed a citywide revaluation to bring assessments to full and true market value as of April 1, 2026. The New Hampshire Constitution requires values to be set anew at least once every five years, and the previous revaluation was in 2021. New assessments are finalized before the final 2026 tax bill in December 2026, and abatement applications are available in the Assessing office after December 1, 2026.</p><ul><li>Compare your new assessment with recent sales of similar houses.</li><li>File an abatement application if you think the value is wrong.</li><li>If you are selling, expect a buyer to underwrite the new value rather than your old one.</li></ul>"
+   "html": "<p>Concord completed a citywide revaluation to bring assessments to full and true market value as of April 1, 2026. The state constitution says values must be set anew at least every five years, and the one before this was in 2021. New assessments are finalized before the final 2026 tax bill in December 2026, and abatement applications are available in the Assessing office after December 1, 2026.</p><ul><li>Line up your new assessment against recent sales of similar houses.</li><li>If the number looks wrong, file an abatement application.</li><li>If you are selling, expect a buyer to underwrite the new value rather than your old one.</li></ul>"
   },
   {
    "h2": "How to appeal your assessment",
@@ -23,21 +23,29 @@
   },
   {
    "h2": "If property tax goes unpaid",
-   "html": "<p>Unpaid tax can become a tax lien and, eventually, a tax deed, but the process takes at least two years. Under RSA 80:76, the collector executes a deed to the lienholder after 2 years from the execution of the lien if the land is not redeemed. At least 30 days before the deed, the collector must notify the owner under RSA 80:77 and mortgage holders under RSA 80:77-a, by certified mail.</p><p>The title company pays unpaid tax from your proceeds, so a sale while the lien is still redeemable resolves it. Interest runs at 8 percent on late balances, so waiting makes the payoff larger.</p>"
+   "html": "<p>Unpaid tax can turn into a tax lien and eventually a tax deed, though the process takes at least two years. RSA 80:76 has the collector execute a deed to the lienholder two years after the lien if the land has not been redeemed. At least 30 days before that, the collector must notify the owner under RSA 80:77 and mortgage holders under RSA 80:77-a, by certified mail.</p><p>A sale that closes while the lien can still be redeemed clears it, since the title company pays the tax from your proceeds. Interest at 8 percent keeps adding to late balances, so a longer wait means a larger payoff.</p>"
   },
   {
    "h2": "Transfer tax when you sell",
-   "html": "<p>New Hampshire's real estate transfer tax is $0.75 per $100 of the price, and it is imposed on both buyer and seller. It is filed and paid online through Granite Tax Connect. For questions, call the Department of Revenue Administration at 603-230-5920. Your purchase and sale agreement says who bears the cost in practice, so read the closing costs line carefully.</p>"
+   "html": "<p>The state's real estate transfer tax is $0.75 per $100 of the price. Buyer and seller each owe it. Filing and payment happen online through Granite Tax Connect, and the Department of Revenue Administration answers questions at 603-230-5920. Who bears the cost in practice depends on your purchase and sale agreement, so read the closing costs line closely.</p>"
   },
   {
    "h2": "Selling a Concord house fast",
-   "html": "<p>A cash sale is the shortest path to closing, and a listing may fit a house in good condition. A cash buyer takes the house as-is, so a Concord property with deferred roof work, tenants or a tax balance can still sell.</p><ul><li>Get a payoff statement from your lender and a balance from the Tax Collector.</li><li>Find your 2026 assessment and compare it with your old one.</li><li>Request a written offer and check who pays each closing cost.</li></ul><p>We buy Concord houses as-is and do not charge commission or fees to the seller.</p>"
+   "html": "<p>Cash is the quickest route to a closing, while a listing can suit a house in good condition. A cash buyer takes the house as-is, which keeps a sale possible when there is deferred roof work, a tenant or a tax balance.</p><ul><li>Request a payoff statement from your lender and a balance from the Tax Collector.</li><li>Look up your 2026 assessment and compare it with the old one.</li><li>Ask for a written offer and see who pays each closing cost.</li></ul><p>We buy Concord houses as-is and do not charge commission or fees to the seller.</p>"
+  },
+  {
+   "h2": "Tax proration and closing day",
+   "html": "<p>Concord's tax year is built on the April 1 assessment, and the four installments mean that on any closing date part of the year may already be paid and part may not. Ask the Tax Collector which installments have been paid on your parcel, and ask the title company how it will divide the year between you and the buyer. If your July or October payment was an estimate, remember that the January and March bills adjust for it, so the final figure can differ from what you paid earlier.</p><p>Bring the parcel information, the last bill and your lender's payoff statement to the first conversation with the title company. A seller who knows these numbers can read an offer line by line and see what actually lands in the bank.</p><p>The Assessing office at 603-225-8550 can tell you whether your 2026 value was set, and whether an abatement application is already on file for the parcel. A buyer's lender will look at the new value, not the old one, so be ready to talk about it.</p>"
+  },
+  {
+   "h2": "What buyers will notice in Concord",
+   "html": "<p>Concord's villages and neighborhoods shape what buyers expect. A house in Penacook, near Penacook Lake, is a different pitch from one in Concord Heights or the North End. Say which school district applies, mention whether the house is near the Merrimack or the Soucook, and keep your heating and roof records handy. If the 2026 assessment moved your value up or down, expect the buyer to ask about it in the first conversation.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Concord property taxes due?",
-   "a": "Installments are due July 1, October 1, January 2 and March 31. July and October are estimates of 25 percent of the prior year's bill, and January and March are the final adjusted payments."
+   "a": "The four installments are due July 1, October 1, January 2 and March 31. July and October are estimates at 25 percent of last year's bill, and January and March are final adjusted payments."
   },
   {
    "q": "What is the Concord tax rate?",
@@ -45,7 +53,7 @@
   },
   {
    "q": "What is the interest on late Concord property tax?",
-   "a": "State law requires 8 percent interest, prorated daily, on balances past the due dates, and the city cannot waive it."
+   "a": "State law requires 8 percent interest, prorated daily, once a balance passes its due date. The city cannot waive it."
   },
   {
    "q": "What is the abatement deadline in Concord?",
@@ -53,7 +61,7 @@
   },
   {
    "q": "Who pays the New Hampshire transfer tax?",
-   "a": "Both buyer and seller. The rate is $0.75 per $100 of the price, filed and paid online through Granite Tax Connect."
+   "a": "Both of them. Each side pays $0.75 per $100 of the price, filed and paid online through Granite Tax Connect."
   }
  ],
  "sources": [
