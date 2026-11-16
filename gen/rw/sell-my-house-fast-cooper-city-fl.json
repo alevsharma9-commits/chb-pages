@@ -3,57 +3,65 @@
  "sections": [
   {
    "h2": "What is Cooper City like for a home seller?",
-   "html": "<p>Cooper City is a small Broward County city of 35,030 residents in the July 2025 Census estimate, up 1.9% from the April 2020 base and up from 28,547 in 2010. Its land area is 8.04 square miles, which works out to 4,279.8 people per square mile in 2020, and it has not changed in size since 2010.</p><p>The housing profile stands apart from its neighbors. A very large share of homes are lived in by their owners, and that shapes how a sale goes: fewer rentals, more family households and listings that draw buyers who plan to stay.</p>"
+   "html": "<p>Broward County's Cooper City held 28,547 people in 2010 and 34,401 in 2020, and the July 2025 estimate stands at 35,030, which is 1.9% above the 2020 base. The city covers 8.04 square miles of land, unchanged since 2010, so the extra people live on the same ground and the density reached 4,279.8 per square mile.</p><p>Owners live in 85.9% of its housing. A listing here usually reaches families planning to stay, and rented houses are the exception.</p>"
   },
   {
    "h2": "How high are home values and incomes in Cooper City?",
-   "html": "<p>The Census puts the median value of an owner-occupied Cooper City home at $620,900 for 2020 to 2024, and 85.9% of housing is owner-occupied. Median household income is $132,319, and 53.5% of adults 25 or older hold a bachelor's degree or higher.</p><ul><li>Households: 11,103, averaging 3.11 people.</li><li>Residents under 18: 25.4%; 65 or older: 16.0%.</li><li>Median owner costs with a mortgage: $3,091; without: $989.</li><li>Median gross rent: $2,648.</li><li>Mean commute: 27.9 minutes.</li><li>Broadband subscriptions: 98.0% of households.</li></ul><p>With a median value above $600,000, even small percentage changes in price move a seller's proceeds by a large sum, so compare offers by net amount rather than headline price.</p>"
+   "html": "<p>A typical owner-occupied Cooper City home was valued at $620,900 for 2020 through 2024. Household income at the midpoint is $132,319, and 53.5% of adults 25 and up hold a bachelor's degree.</p><ul><li>Households: 11,103, averaging 3.11 people.</li><li>Under 18: 25.4% of residents; 65 or older: 16.0%.</li><li>Monthly owner costs: $3,091 with a mortgage, $989 without.</li><li>Gross rent at the midpoint: $2,648.</li><li>Time getting to work: 27.9 minutes.</li><li>Households with broadband: 98.0%.</li></ul><p>On a value above $600,000, a one percent swing in price is thousands of dollars, so judge offers by what you net at closing.</p>"
   },
   {
    "h2": "What does the Cooper City data look like in one table?",
-   "html": "<table><caption>Cooper City, FL at a glance (U.S. Census Bureau QuickFacts)</caption><thead><tr><th>Measure</th><th>Cooper City</th></tr></thead><tbody><tr><td>Population, July 1, 2025 estimate</td><td>35,030</td></tr><tr><td>Owner-occupied housing rate, 2020-2024</td><td>85.9%</td></tr><tr><td>Median value of owner-occupied units, 2020-2024</td><td>$620,900</td></tr><tr><td>Median gross rent, 2020-2024</td><td>$2,648</td></tr><tr><td>Median household income, 2020-2024</td><td>$132,319</td></tr><tr><td>Persons per household, 2020-2024</td><td>3.11</td></tr></tbody></table><p>Large households and a high owner rate mean many sellers here are families moving up or relocating, and those owners often have significant equity in the house.</p>"
+   "html": "<table><caption>Cooper City population and housing, Census QuickFacts</caption><thead><tr><th>Item</th><th>Cooper City</th></tr></thead><tbody><tr><td>Estimated residents, July 2025</td><td>35,030</td></tr><tr><td>Owner-lived-in share of housing, 2020-2024</td><td>85.9%</td></tr><tr><td>Typical owner home value, 2020-2024</td><td>$620,900</td></tr><tr><td>Midpoint gross rent, 2020-2024</td><td>$2,648</td></tr><tr><td>Midpoint household income, 2020-2024</td><td>$132,319</td></tr><tr><td>People per household, 2020-2024</td><td>3.11</td></tr></tbody></table><p>With bigger households and a high owner rate, the house you list is likely to be viewed by families.</p>"
+  },
+  {
+   "h2": "What does the Cooper City economy look like in Census data?",
+   "html": "<p>QuickFacts reports 2022 receipts by sector. Retail sales were $446,667 thousand, which works out to $13,096 per resident, a low figure that reflects a city where most land is residential. Health care and social assistance took in $105,214 thousand, accommodation and food services $66,990 thousand, and transportation and warehousing $20,184 thousand.</p><p>For a seller the point is simple: most Cooper City households earn their living outside the city, and the labor force participation rate is 67.8% among people 16 and older. The mean commute of 27.9 minutes sets a reasonable radius for the buyers who will tour your house.</p>"
   },
   {
    "h2": "Is it worth a cash offer on a Cooper City house with this much equity?",
-   "html": "<p>It can be, when speed or condition matters more than the last dollar. Owners with a mortgage pay a median $3,091 a month, and those without pay $989, so a paid-off house has low carrying costs, and a sale driven by repairs or a move can still make sense. The trade-off is price: a cash buyer needs room for repairs and risk.</p><p>Get a written offer, then compare it with a listing estimate after commission, repairs and carrying costs. The better choice is the higher net, adjusted for how quickly you need to close.</p>"
+   "html": "<p>It can, when speed or condition matters more than the last dollar. Owners with a mortgage carry a median $3,091 a month and owners without one $989, so a paid-off house costs little to hold, and a sale driven by repairs or a move can still make sense. The trade-off is price, since a cash buyer builds in room for repairs and risk.</p><p>Get a written offer, then compare it with a listing estimate after commission, repairs and carrying costs. Pick the higher net, adjusted for how soon you need to close.</p>"
+  },
+  {
+   "h2": "What should a Cooper City landlord know before selling a rented house?",
+   "html": "<p>Read the lease, then the notice rules. A tenant behind on rent gets 3 days of written notice with weekends and court holidays left out. A monthly tenancy ends with at least 30 days of notice, a yearly tenancy with 60 days and a weekly one with 7.</p><ul><li>A tenant who raises any defense besides payment must deposit the rent owed with the court within 5 days or lose the defense.</li><li>After a landlord wins, the clerk issues a writ and the sheriff posts 24 hours' notice before putting the landlord back in possession.</li><li>Accepting partial rent after a notice has special steps, including a receipt that shows the balance.</li></ul><p>With rent at $2,648 at the midpoint, a rented Cooper City house carries real income, which matters when you compare an investor's offer with a sale to a family buyer.</p>"
   },
   {
    "h2": "Where do I confirm permits and rules for a Cooper City property?",
-   "html": "<p>Start with the city's Community Development Department, which reviews permits and inspects structures for compliance with the Florida Building Code and the city's ordinances. Ask for a permit history at your address, since open or expired permits can stall a closing, and ask the code office about any open violation.</p><p>Short-term rental rules also exist at the city level. If you rent the home by the night, ask the city for the current registration requirements and tell buyers what they would need to continue.</p>"
+   "html": "<p>Start with Community Development, the department that reviews permits and inspects structures against the Florida Building Code and the city's ordinances. Ask for the permit history at your address, because open or expired permits can stall a closing, and ask the code office about any open violation.</p><p>If you rent the home by the night, ask the city for its current registration rules and tell buyers what they would need to continue.</p>"
   },
   {
    "h2": "What happens to my Cooper City homestead when I sell?",
-   "html": "<p>The exemption ends with the sale. Florida allows up to $50,000 for homestead: the first $25,000 applies to all taxes, and the additional $25,000 applies to value above $50,000 for non-school taxes only. The Save Our Homes cap limits yearly assessed-value growth to the lower of 3 percent or the CPI change, with the 2026 cap printed by the state at 2.7 percent.</p><p>A sale resets the property to just value the following January 1. If you buy another Florida home, portability can carry your accumulated benefit, up to $500,000 under the statute text, if you establish the new homestead within three years of January 1 of the year you gave up the old one and file by March 1. The statute page notes amendments that first apply to the 2027 tax roll.</p>"
+   "html": "<p>The exemption ends with the sale. Florida's homestead reduction is up to $50,000: the first $25,000 reaches every tax, and the extra $25,000 applies to value above $50,000 for non-school taxes only. Save Our Homes holds yearly growth in assessed value to the lower of 3 percent or the CPI change; the state's chart prints a 2026 cap of 2.7 percent.</p><p>The parcel returns to just value the following January 1. A move to another Florida home can carry some of the saved value, up to $500,000 in the statute text, if the new homestead is established within three years of January 1 of the year you gave up the old one and the portability form is filed by March 1. The statute page flags amendments that first reach the 2027 tax roll.</p>"
   },
   {
    "h2": "How do documentary stamps and recording charges work on a Cooper City deed?",
-   "html": "<p>Broward follows the standard 70 cents per $100 of consideration. Consideration includes any mortgage or encumbrance on the property, whether or not the buyer assumes it, so a deed on a financed house is taxed on more than the cash that changes hands. All parties are liable, and the clerk collects the tax when the deed is recorded.</p><p>Recording fees are separate: $5.00 for the first page and $4.00 for each additional page, with added trust fund and technology charges. Quitclaim deeds, deeds in lieu of foreclosure and contracts for deed are also taxable documents.</p>"
+   "html": "<p>Broward uses the statewide deed tax of 70 cents per $100 of consideration. Consideration counts any mortgage or encumbrance on the property, assumed or not, so a financed house is taxed on more than the cash that changes hands. The clerk collects at recording, and all signers are liable.</p><p>Recording fees are separate: $5.00 for the first page and $4.00 for each added page, plus trust fund and technology charges. Quitclaim deeds, deeds in lieu of foreclosure and contracts for deed are taxable documents as well.</p>"
   },
   {
    "h2": "What do Florida's foreclosure and probate rules mean for a Cooper City seller?",
-   "html": "<p>A lender's foreclosure sale happens 20 to 35 days after final judgment, longer if the plaintiff agrees, and the high bidder deposits 5 percent. Objections to the bid are due within 10 days of the certificate of sale. If you sell first, the loan is paid from proceeds and the case can end.</p><p>For a house passing through an estate, summary administration is possible for a non-exempt estate of $150,000 or less or after two years from death. Creditor claims are cut off after the later of three months from first publication or 30 days after service. There is no Florida estate tax for people who died after 2004.</p>"
+   "html": "<p>After a final judgment in foreclosure, the auction takes place 20 to 35 days out unless the plaintiff consents to longer, and the high bidder deposits 5 percent. Objections to the bid are due within 10 days of the certificate of sale. Sell first and the payoff comes from the proceeds, which can end the case.</p><p>When a house passes through an estate, summary administration is open to a non-exempt estate of $150,000 or less, or to any estate more than two years after the death. Claims by creditors end after the later of three months from first publication or 30 days after service. Deaths after 2004 carry no Florida estate tax.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How fast can I sell a Cooper City house for cash?",
-   "a": "Often in a few weeks, since there is no mortgage underwriting. Title work, payoffs and any association approval can add time."
+   "a": "Often within a few weeks, because there is no loan to underwrite. Title work, payoffs and any association approval can add time."
   },
   {
-   "q": "Does Cooper City require an inspection to sell?",
-   "a": "No sale inspection is required by the state. Buyers usually order their own. Ask the Community Development Department about open permits at your address."
+   "q": "Must a Cooper City seller get an inspection?",
+   "a": "The state does not require one to sell, and buyers usually order their own. Ask Community Development about open permits at your address."
   },
   {
-   "q": "Who pays Broward doc stamps in Cooper City?",
-   "a": "All parties are liable by statute, and contracts usually assign payment to the seller. The rate is 70 cents per $100 of consideration."
+   "q": "Who pays the Broward deed tax in Cooper City?",
+   "a": "All signers are liable by statute, and contracts usually put it on the seller. The deed tax is 70 cents per $100 of consideration."
   },
   {
    "q": "Can I keep my Save Our Homes benefit if I move within Florida?",
-   "a": "Possibly. Portability allows a transfer up to $500,000 when you set up a new homestead within three years of January 1 of the year you gave up the old one."
+   "a": "Possibly. Portability can carry up to $500,000 of the benefit if you establish the new homestead within three years of January 1 of the year you gave up the old one."
   },
   {
-   "q": "When are Broward property taxes due?",
-   "a": "Bills are sent in November with a 4 percent discount that month, 3 percent in December, 2 percent in January and 1 percent in February. Unpaid taxes are delinquent on April 1."
+   "q": "When are Broward tax bills due in Cooper City?",
+   "a": "Bills are mailed in November. Paying that month earns 4 percent off, then 3 percent in December, 2 percent in January and 1 percent in February, and April 1 is the delinquency date."
   }
  ],
  "sources": [
@@ -108,6 +116,22 @@
   {
    "title": "Florida DOR, estate tax",
    "url": "https://floridarevenue.com/taxes/taxesfees/pages/estate_tax.aspx"
+  },
+  {
+   "title": "Florida Statutes s. 83.60",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.60.html"
+  },
+  {
+   "title": "Florida Statutes s. 83.62",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.62.html"
+  },
+  {
+   "title": "Florida Statutes s. 83.56",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.56.html"
+  },
+  {
+   "title": "Florida Statutes s. 83.57",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
   }
  ]
 }

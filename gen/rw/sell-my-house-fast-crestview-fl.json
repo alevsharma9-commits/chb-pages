@@ -3,61 +3,73 @@
  "sections": [
   {
    "h2": "What makes selling a house in Crestview different from South Florida?",
-   "html": "<p>Crestview is an Okaloosa County city, and its owner-occupied homes are valued modestly. Census QuickFacts puts the median value of owner-occupied homes at $277,900 for 2020-2024, against $332,700 for the United States on the same series.</p><p>Growth is the local story. The city counted 20,978 people in 2010, 27,134 in the 2020 census, and an estimated 31,193 on July 1, 2025, a 13.8 percent rise from the 2020 estimates base. A median household income of $65,480 shapes what local buyers can pay.</p>"
+   "html": "<p>Crestview is an Okaloosa County city, and its owner-occupied homes are valued modestly. Census prices the typical owned home at $277,900 for 2020-2024, below the $332,700 national figure in the same series.</p><p>Growth is the local story. Headcounts climbed from 20,978 in 2010 to 27,134 in 2020, and the 2025 estimate of 31,193 is 13.8 percent above the 2020 estimates base. Household income in the middle of the pack is $65,480, which shapes what local buyers can pay.</p>"
   },
   {
-   "h2": "What do the Census figures show for Crestview housing?",
-   "html": "<p>Crestview covers 16.58 square miles of land, with about 1,636.8 residents per square mile in 2020, a much lower density than the South Florida cities. Owners occupy 61.3 percent of housing units.</p><table><caption>Crestview housing and household figures, QuickFacts 2020-2024</caption><thead><tr><th>Measure</th><th>Figure</th></tr></thead><tbody><tr><td>Median value, owner-occupied units</td><td>$277,900</td></tr><tr><td>Median owner costs with a mortgage</td><td>$1,673</td></tr><tr><td>Median owner costs without a mortgage</td><td>$502</td></tr><tr><td>Median gross rent</td><td>$1,366</td></tr><tr><td>Households</td><td>10,893</td></tr><tr><td>Persons per household</td><td>2.55</td></tr><tr><td>Veterans</td><td>4,184</td></tr></tbody></table><p>The count of 4,184 veterans in a city of about 31,000 matters for sellers, because several Florida veteran exemptions apply to the house.</p>"
+   "h2": "What does Crestview housing look like in the Census data?",
+   "html": "<p>The city spreads over 16.58 square miles and in 2020 it held roughly 1,636.8 people for each square mile. Owners live in 61.3 percent of its homes.</p><table><caption>Crestview in figures, QuickFacts 2020-2024</caption><thead><tr><th>Measure</th><th>Figure</th></tr></thead><tbody><tr><td>Typical owned-home value</td><td>$277,900</td></tr><tr><td>Owner monthly cost, with loan</td><td>$1,673</td></tr><tr><td>Owner monthly cost, no loan</td><td>$502</td></tr><tr><td>Typical rent</td><td>$1,366</td></tr><tr><td>Number of households</td><td>10,893</td></tr><tr><td>Average household size</td><td>2.55</td></tr><tr><td>Resident veterans</td><td>4,184</td></tr></tbody></table><p>With 4,184 veterans among about 31,000 residents, several Florida veteran exemptions are likely to touch local sales.</p>"
   },
   {
    "h2": "Who lives in Crestview and where do they work?",
-   "html": "<p>The population is young. Census lists 28.3 percent under 18 and 11.2 percent 65 or older, and 8.0 percent under 5.</p><ul><li>57.4 percent of residents 16 and older are in the civilian labor force.</li><li>The mean commute is 30.4 minutes, longer than the 26.4 minute national figure.</li><li>Census counts 2022 retail sales of $931,900 thousand and health care and social assistance receipts of $308,563 thousand.</li></ul><p>Bachelor's degree attainment is 22.6 percent, and 92.1 percent of adults 25 and older hold a high school diploma or higher.</p>"
+   "html": "<p>The population skews young: 28.3 percent are under 18, 8.0 percent are under 5, and 11.2 percent are 65 or older.</p><ul><li>Civilian labor force participation sits at 57.4 percent for ages 16 and up.</li><li>The commute averages 30.4 minutes against 26.4 nationally.</li><li>Local retail sales totaled $931,900 thousand in 2022, and health care receipts were $308,563 thousand.</li></ul><p>Census puts bachelor's attainment at 22.6 percent, while 92.1 percent finished high school.</p>"
   },
   {
    "h2": "Which Okaloosa County offices handle a Crestview sale?",
-   "html": "<p>Property records and values sit with the Okaloosa County property appraiser, bills come from the county tax collector, and deeds are recorded by the Okaloosa clerk of the circuit court. Florida gives every county the same five elected offices: sheriff, tax collector, property appraiser, supervisor of elections and clerk.</p><p>The appraiser values property each January 1 and decides exemption eligibility. The tax collector mails bills in November, takes deferral and installment applications, and sells tax certificates. The clerk collects documentary stamp tax at recording. Ask each office directly for forms, hours and current fees for your parcel.</p>"
+   "html": "<p>Three Okaloosa County offices matter: the property appraiser (values), the tax collector (bills) and the circuit court clerk (deed recording). Each is one of five elected county posts that also include the sheriff and the supervisor of elections.</p><p>The appraiser sets January 1 values and rules on exemptions. The collector handles bills, deferrals, installments and certificate sales, and the clerk takes deed tax at recording. Ask each office for forms, hours and current fees on your parcel.</p>"
   },
   {
    "h2": "What taxes apply when a Crestview home is sold?",
-   "html": "<p>Okaloosa County uses the statewide deed rate of 70 cents per $100 of consideration, per the Department of Revenue, and the base rate appears in <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html\">s. 201.02</a>. Every party on the document is liable no matter which side agrees to pay.</p><ul><li>Recording at the clerk costs $5.00 for the first page and $4.00 for each added page, before trust fund and technology charges.</li><li>A fourth or later name on an instrument adds $1.00 each.</li><li>The deed needs two witnesses.</li></ul><p>A quitclaim deed is taxable as well, and a transfer between spouses may qualify for an exemption when the only consideration is a mortgage on the homestead.</p>"
+   "html": "<p>Okaloosa falls under the standard 70 cents per $100 deed rate on the Revenue Department's page, and the rate is written into <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html\">s. 201.02</a>. All parties on the document are liable whichever one agrees to pay.</p><ul><li>Filing a deed costs $5.00 for page one and $4.00 per further page, plus add-on charges.</li><li>Each name beyond four adds $1.00.</li><li>Two witnesses must sign the deed.</li></ul><p>Quitclaim deeds are taxable too. A spousal transfer of a homestead where the only consideration is a mortgage may be exempt.</p>"
   },
   {
    "h2": "How do homestead rules affect Crestview sellers and buyers?",
-   "html": "<p>A Crestview homeowner with a homestead exemption pays tax on a value reduced by up to $50,000, and the first $25,000 applies to school taxes too. The exemption ends when the house is sold, rented out, or no longer your permanent home.</p><p>Save Our Homes limits yearly increases to the lower of 3 percent or CPI. In a fast-growing city like Crestview, values can run ahead of that cap, so the buyer's first bill after a sale can jump. Non-homestead property has a separate 10 percent annual limit. A sale, foreclosure or transfer of title counts as a change of ownership and resets the property to just value the next January 1.</p>"
+   "html": "<p>Homestead lowers a Crestview owner's taxable value by up to $50,000, with $25,000 of it reaching school taxes. It ends on sale, on renting out the house, or when the house stops being the permanent home.</p><p>The Save Our Homes cap is the smaller of 3 percent or CPI. With the city adding people quickly, market values may outrun it, so a buyer's first bill can jump. Property without homestead has a 10 percent yearly limit. Any sale or foreclosure resets just value the next January 1.</p>"
   },
   {
    "h2": "What if a Crestview house is tenant-occupied, inherited or behind on payments?",
-   "html": "<p>Each case has fixed Florida steps worth knowing before you set a closing date.</p><ul><li>Tenants: three days for nonpayment, seven days to cure or vacate for lease violations, and 30 days' notice to end a month-to-month tenancy.</li><li>Estates: summary administration for non-exempt estates of $150,000 or less, and a creditor claim period of three months after first publication of notice.</li><li>Foreclosure: a sale 20 to 35 days after judgment, a 5 percent bid deposit, and 10 days to object.</li></ul><p>Unauthorized occupants are different from tenants. The owner may file a sworn complaint with the sheriff to have them removed, but false statements expose the owner to damages equal to triple the fair market rent.</p>"
+   "html": "<p>Florida attaches fixed steps to each case.</p><ul><li>Tenants: 3 days for unpaid rent, 7 days on lease violations, 30 days to end a monthly tenancy.</li><li>Estates: shortened administration at $150,000 or less, and creditors have three months after first notice.</li><li>Foreclosure: auction within 20 to 35 days, 5 percent deposit, 10 days to object.</li></ul><p>People with no lease are treated differently. An owner may file a sworn sheriff complaint to remove them, though a false statement risks damages of triple the fair market rent.</p>"
   },
   {
    "h2": "What does the Florida tax calendar look like for a Crestview owner?",
-   "html": "<p>The tax year follows a fixed yearly pattern that applies in Okaloosa County as it does everywhere in Florida.</p><ul><li>January 1: the assessment date.</li><li>March 1: filing deadline for exemptions and classifications.</li><li>August: the property appraiser mails the Notice of Proposed Property Taxes.</li><li>Within 25 days of that notice: the window to file a value petition with the clerk.</li><li>November: bills go out, with a 4 percent discount for paying that month, 3 percent in December, 2 percent in January and 1 percent in February.</li><li>April 1: unpaid taxes become delinquent.</li></ul><p>If you are selling near the end of a year, ask your closing agent how the bill is split, because the tax for the whole year arrives after most sales close.</p>"
+   "html": "<p>Okaloosa County follows the statewide yearly pattern.</p><ul><li>January 1: the assessment date.</li><li>March 1: exemption filing closes.</li><li>August: proposed-tax notices go out.</li><li>25 days after that notice: last day to petition on value.</li><li>November: bills arrive; early payment earns 4 percent off in November, falling to 1 percent by February.</li><li>April 1: late.</li></ul><p>Ask your closing agent how the yearly bill will be split.</p>"
   },
   {
    "h2": "What happens if Crestview property taxes go unpaid?",
-   "html": "<p>The tax collector sells a certificate on each unpaid account by June 1, awarding it to the bidder who accepts the lowest interest rate in quarter-percent steps. A certificate holder cannot contact the owner to demand payment until two years after April 1 of the year of issuance, and may apply for a tax deed after that period with a $75 application fee.</p><p>On homestead property the opening bid at a tax deed sale includes one-half of the latest assessed value on top of the amounts due. The high bidder at the clerk's auction pays a nonrefundable deposit of 5 percent of the bid or $200, whichever is greater. Selling the house and paying the taxes at closing ends the problem sooner than waiting for an auction.</p>"
+   "html": "<p>Unpaid accounts are sold as certificates by June 1 to whoever bids the lowest interest. The holder must wait two years from April 1 of the issue year before pressing the owner or applying for a deed, and the application costs $75.</p><p>For a homestead, the opening bid at a tax deed sale adds half the assessed value to what is owed. The winning bidder pays a nonrefundable deposit of 5 percent or $200, whichever is more. Selling and paying at closing resolves things sooner.</p>"
   },
   {
    "h2": "Can a Crestview owner use a life estate deed or transfer to family?",
-   "html": "<p>Florida treats a transfer of title as a change of ownership for assessment unless an exception applies, such as a transfer between spouses. A quitclaim deed and a contract for deed are both taxable documents under the Department of Revenue list.</p><p>A so-called lady bird deed was addressed in a 2020 Department of Revenue advisement, which said that the deed on the facts presented transfers no present beneficial interest and so carries no doc stamp tax. That advisement turned on its facts, so have a Florida attorney review any such deed before relying on it.</p>"
+   "html": "<p>Moving title to relatives usually counts as a change of ownership unless an exception such as a spousal transfer applies. The Revenue Department also lists quitclaim deeds and contracts for deed as taxable.</p><p>A so-called lady bird deed was addressed in a 2020 Department of Revenue advisement, which said that the deed on the facts presented transfers no present beneficial interest and so carries no doc stamp tax. That advisement turned on its facts, so have a Florida attorney review any such deed before relying on it.</p>"
+  },
+  {
+   "h2": "How does Crestview compare with national figures?",
+   "html": "<p>On the same 2020-2024 Census series, Crestview home values and incomes both run below the national numbers.</p><ul><li>Typical rent: $1,366 here against $1,413 nationally.</li><li>Typical household income: $65,480 against $80,734.</li><li>Poverty rate: 11.2 percent against 10.2 percent.</li><li>Residents under 65 without health insurance: 12.7 percent against 9.6 percent.</li></ul><p>Per capita income in the city is $31,018, and retail sales per person were $32,958 in 2022. A buyer here is often watching the monthly payment closely, which makes a clear estimate of taxes and insurance useful when you negotiate.</p>"
+  },
+  {
+   "h2": "What does the community look like beyond housing?",
+   "html": "<p>Census describes a city with 60.5 percent White alone, 20.4 percent Black alone, 3.0 percent Asian alone and 10.8 percent Hispanic or Latino residents. Foreign-born residents are 5.1 percent, and 9.3 percent of residents aged five and over speak another language at home.</p><p>Few people move within a year: 80.0 percent stayed put. Computers are in 96.7 percent of households and broadband in 93.0 percent, so online listings and electronic document signing are practical here. Persons with a disability under 65 are 12.4 percent of that age group, which matters when a seller or buyer asks about accessible features.</p>"
+  },
+  {
+   "h2": "What should a Crestview seller line up before listing?",
+   "html": "<ul><li>A payoff figure from your lender and a list of any liens on the parcel.</li><li>The current homestead status, since an exemption you hold ends when the house changes hands.</li><li>Receipts for any permits, so a buyer's lender does not stall on them. Contact the City of Crestview for permit history at your address.</li><li>A plan for the deed: two witnesses, recording at the Okaloosa clerk, and the stamp tax at 70 cents per $100 shared among the parties.</li><li>A written answer from the tax collector on whether a deferral or installment plan exists on your account.</li></ul><p>With a younger-than-average population and an average commute of 30.4 minutes, a tidy file of records makes it easier for a buyer to commit.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the median home value in Crestview?",
-   "a": "Census QuickFacts lists $277,900 for owner-occupied housing units in Crestview for 2020-2024."
+   "q": "What does a Crestview home typically cost?",
+   "a": "$277,900 for 2020-2024, per Census."
   },
   {
    "q": "How fast is Crestview growing?",
-   "a": "Census estimates 31,193 residents in July 2025, up 13.8 percent from the April 2020 estimates base."
+   "a": "Fast. The July 2025 estimate of 31,193 is 13.8 percent above the 2020 base."
   },
   {
    "q": "Do I pay documentary stamp tax when I sell in Crestview?",
-   "a": "The deed is taxable at 70 cents per $100 in Okaloosa County, and every party to it is liable. Who actually pays is a matter of the sales contract."
+   "a": "Yes, the deed tax is 70 cents per $100 and all parties are liable. The sales contract decides who pays."
   },
   {
    "q": "Who can tell me my current property tax bill?",
-   "a": "The Okaloosa County tax collector sends the bill each November, and the property appraiser can explain the value and exemptions behind it."
+   "a": "The Okaloosa tax collector bills each November, and the appraiser explains the value behind it."
   },
   {
    "q": "Can an heir sell a house before probate ends?",
