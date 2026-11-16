@@ -3,7 +3,11 @@
  "sections": [
   {
    "h2": "Where to pay",
-   "html": "<p>Safford is where you pay. The County Treasurer collects for all nineteen taxing authorities in the county from the General Services Building, 921 Thatcher Blvd.</p><ul><li>In person: cash, checks, and credit or debit cards are taken at the counter.</li><li>By mail: P.O. Box 747, Safford, AZ 85548.</li><li>Drop box: in the east parking lot of the General Services Building.</li><li>Online: Point and Pay adds a convenience fee of 2.45 percent for credit cards (minimum $2.00), $1.50 for an electronic check, or $3.95 for a debit card.</li></ul><p>Call the Treasurer at 928-428-3440 to confirm an amount due, and the Assessor at 928-428-2828 for valuation questions. The Treasurer's online tax search refreshes hourly on business days and shows balances and lien redemption amounts.</p>"
+   "html": "<p>Safford is where you pay. The County Treasurer collects for all nineteen taxing authorities in the county from the General Services Building, 921 Thatcher Blvd.</p><ul><li>At the counter: staff accept cash, checks, and credit or debit cards.</li><li>Through the mail: send payment to P.O. Box 747, Safford, AZ 85548.</li><li>Drop box: look for it in the east parking lot outside the General Services Building.</li><li>Online: Point and Pay adds a convenience fee of 2.45 percent for credit cards (minimum $2.00), $1.50 for an electronic check, or $3.95 for a debit card.</li></ul><p>Phone 928-428-3440 for the Treasurer when you want an amount confirmed, and 928-428-2828 for the Assessor with value questions. The online tax search updates every hour on business days and displays balances along with lien redemption amounts.</p>"
+  },
+  {
+   "h2": "Choosing how to pay",
+   "html": "<p>Convenience costs money here. Paying through Point and Pay is quick, but each method carries its own fee, while the counter, the mail and the drop box in the east parking lot cost nothing extra. Whichever route you pick, keep the receipt or confirmation number for your closing file. A seller who is paying off a balance just before closing should still ask the Treasurer for the exact figure first, because a payment that falls short leaves interest on the remainder.</p>"
   },
   {
    "h2": "Due dates and interest",
@@ -39,7 +43,7 @@
   },
   {
    "h2": "Graham County in brief",
-   "html": "<p>Part of the San Carlos Apache Indian Reservation lies in Graham County, whose seat and largest city is Safford. Thatcher and Pima are the other towns. About 40,157 people live here, in 14,645 housing units. A typical owner-occupied home was valued at $212,000 for 2020 through 2024, owners live in 73.1 percent of homes, and median household income was $67,325.</p>"
+   "html": "<p>Graham County's seat and biggest city is Safford, and a portion of the San Carlos Apache Indian Reservation sits within its borders. Thatcher and Pima are the other towns. About 40,157 people live here, in 14,645 housing units. A typical owner-occupied home was valued at $212,000 for 2020 through 2024, owners live in 73.1 percent of homes, and median household income was $67,325.</p>"
   }
  ],
  "faqs": [
