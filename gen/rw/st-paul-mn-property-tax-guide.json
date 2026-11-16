@@ -1,69 +1,105 @@
 {
-  "slug": "st-paul-mn-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which county sends the St. Paul property tax bill?",
-      "html": "<p>Ramsey County does. Its Assessor values every St. Paul parcel, and its Property Tax Services unit mails the statements and takes the money. The capital city was incorporated on March 4, 1854, covers 51.97 square miles of land plus 4.13 of water on the Mississippi, and held 306,684 people in July 2025 according to Census QuickFacts, a 1.5% dip from the April 2020 base.</p>\n<p>County property offices share the Plato Building at 90 Plato Blvd. West, Saint Paul, MN 55107, with front-desk service on weekdays between 8 a.m. and 4:30 p.m. Direct lines worth saving:</p>\n<ul>\n<li>Property Tax Services, 651-266-2222: statements, payments, penalties</li>\n<li>County Assessor, 651-266-2131: value and classification</li>\n<li>Homestead Unit, 651-266-2040: applications and ITIN filing</li>\n<li>Delinquent taxes, 651-266-2002: balances, interest, plans</li>\n<li>Recorder's Office, 651-266-2050: deeds and other recorded real estate documents</li>\n</ul>"
-    },
-    {
-      "h2": "How does St. Paul housing compare with the rest of Minnesota?",
-      "html": "<p>Owners and renters split the city almost evenly. QuickFacts shows owners in 52.9% of occupied homes across 2020 to 2024, spread over 125,249 households averaging 2.37 people.</p>\n<ul>\n<li>A typical owned home was valued at $294,500, and owners with a mortgage spent $1,911 monthly.</li>\n<li>Rent in the middle of the market ran $1,281 a month.</li>\n<li>Households earned $73,394 in the middle, and 43.8% of adults held a bachelor's degree or more.</li>\n<li>Workers traveled 21.1 minutes each way, and 83.7% of residents had lived at the same address the year before.</li>\n<li>Land density in 2020 was 5,994 people per square mile.</li>\n</ul>\n<p>Your bill hinges on classification. Ramsey County posts separate calculators for homestead against non-homestead houses, duplexes and triplexes, commercial buildings and apartments of four or more units, so check which category your parcel falls into before estimating a tax figure.</p>"
-    },
-    {
-      "h2": "On which dates must St. Paul owners pay property tax?",
-      "html": "<p>Two installments, May 15 and October 15, cover real property, and a due date that falls on a weekend slides to Monday. Anyone with an escrow account at a mortgage company can skip the paperwork, since the lender pays. A bill of $100 or less must be settled whole with the first installment.</p>\n<table>\n<caption>When each kind of Ramsey County bill is due (county Pay Property Tax page)</caption>\n<thead><tr><th>Type</th><th>First installment</th><th>Second installment</th></tr></thead>\n<tbody>\n<tr><td>Real property</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Agricultural</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Leased government-owned personal property</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Other personal property</td><td>May 15, total due</td><td>None</td></tr>\n<tr><td>Manufactured homes</td><td>August 31</td><td>November 15</td></tr>\n</tbody>\n</table>\n<p>Each property gets two mailings a year. Mid-March brings the tax statement together with the value notice that drives next year's tax. In November the proposed tax notice follows, listing next year's proposed amounts and the meetings where levies and budgets are discussed. Owners may switch to electronic delivery through eNoticesOnline.</p>"
-    },
-    {
-      "h2": "What does a late St. Paul payment cost?",
-      "html": "<p>Penalty starts the day after a due date, grows month by month, and is applied to penalty before tax when you pay. For a homestead or cabin, the 2026 first half picks up 2% on May 16, 4% on June 1, 5% on July 1 and 8% by October 1, then 10% on January 2, 2027. Non-homestead property climbs through 4%, 8%, 9% and 12% to 14% on those same dates.</p>\n<p>A missed second half begins on October 16 at 2% for a homestead and 4% for a non-homestead, ending January 2 at 7% and 11%. Owing both halves on October 16 means 5% for a homestead and 8% otherwise.</p>\n<p>The county offers two ways to soften a penalty:</p>\n<ul>\n<li>One-time waiver: once per parcel in any 10-year span, for the first half or the second but not both. A first-half request must arrive from May 16 through October 15, and a second-half request from October 16 through December 20, with payment and the signed form. A waiver is refused if the payment bounced, if delinquent tax or a confession of judgment sits on the parcel, or if the waiver was already used in the past decade.</li>\n<li>Hardship abatement: ask the County Auditor/Treasurer at 651-266-2222. The county grants these mainly for exceptional hardship such as a hospital stay.</li>\n</ul>\n<p>Returned checks cost $30, and partial payments are accepted.</p>"
-    },
-    {
-      "h2": "What can I do if I think my St. Paul value is wrong?",
-      "html": "<p>Phone the Assessor at 651-266-2131 before anything else. The county warns that you will not reach an appraiser on the spot: you describe the concern, and an appraiser calls back within three days. Mail or email a recent appraisal or a sale of your own property to back a claim of overvaluation or a wrong class.</p>\n<p>State law requires a physical review of each parcel at least once every five years, and Ramsey County appraisers walk nearly 32,000 properties a year without advance notice. An interactive map on the county site shows when your area is due.</p>\n<p>Homestead status lowers the bill, and the Homestead page lists what a seller or buyer should know:</p>\n<ul>\n<li>The state exclusion trims taxable value only on homes valued below $517,200.</li>\n<li>Homestead also counts toward the state Property Tax Refund.</li>\n<li>A buyer must own and occupy the home by December 31 and apply by that date to qualify for the current assessment year.</li>\n<li>An ITIN may replace a Social Security number on the filing.</li>\n</ul>"
-    },
-    {
-      "h2": "How does Ramsey County treat delinquent St. Paul tax?",
-      "html": "<p>A bill becomes delinquent on January 1 of the next year. From then, interest accrues at 10% a year, rising monthly, and a $25 fee covers publication and notice. Owners then have three years to pay in full and redeem, or they can enter a payment plan called a Confession of Judgment.</p>\n<p>If redemption lapses without payment, forfeiture begins, and the county notifies the owner in stages:</p>\n<ul>\n<li>A courtesy letter in the first week of April</li>\n<li>A parcel list in the county's newspaper for two weeks in May</li>\n<li>The same list posted at the Property Records and Property Tax Services offices</li>\n<li>Delivery of the notice by the sheriff to an occupant, or a posting at vacant and land-only property</li>\n<li>A certified letter in June</li>\n</ul>\n<p>Payments are applied to penalties first, then interest, fees and finally tax. A parcel may be paid after the list is printed, so call the delinquent line before assuming it is still on it.</p>"
-    },
-    {
-      "h2": "What should a St. Paul seller ask for before closing?",
-      "html": "<p>Ask Property Tax Services for the parcel's exact balance, because the first half may be settled while the second is open, or both may be owed. Also ask where the account sits on the penalty schedule, since the rate steps up on June 1, July 1, October 16 and other dates.</p>\n<p>Deeds and similar papers are recorded through the Recorder's Office, which keeps the county's official real estate records. It does not help fill out legal forms. A recorded document is permanent and cannot be removed or altered, so have a title company or attorney review the deed before it is filed.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Which agency collects St. Paul's property tax?",
-      "a": "Ramsey County Property Tax Services, in the Plato Building at 90 Plato Blvd. West. Reach it at 651-266-2222 on weekdays between 8 a.m. and 4:30 p.m."
-    },
-    {
-      "q": "When do St. Paul real property installments fall due?",
-      "a": "May 15 and October 15. A weekend date moves to the next business day, and manufactured homes use August 31 and November 15 instead."
-    },
-    {
-      "q": "Is there a way to avoid a late St. Paul property tax penalty?",
-      "a": "A one-time waiver exists, usable once per parcel every 10 years for one installment. Submit the signed form with your payment before the county's deadline for that half."
-    },
-    {
-      "q": "Who reviews a disputed St. Paul property value?",
-      "a": "The County Assessor, at 651-266-2131. An appraiser returns your call within three days, and a recent appraisal or sale of the home can be sent as support."
-    },
-    {
-      "q": "What redemption window applies to delinquent tax on a St. Paul home?",
-      "a": "Three years to pay everything owed, with payment plans available. The delinquent line, 651-266-2002, can give the current balance and interest."
-    }
-  ],
-  "sources": [
-    {"title": "Ramsey County Property & Home", "url": "https://www.ramseycountymn.gov/residents/property-home"},
-    {"title": "Ramsey County Pay Property Tax", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/pay-property-tax"},
-    {"title": "Ramsey County Delinquent Tax Information", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/delinquent-tax-information"},
-    {"title": "Ramsey County Homestead", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/homestead"},
-    {"title": "Ramsey County Property Tax Notices", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/property-tax-notices"},
-    {"title": "Ramsey County Tax Calculators and Rates", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/tax-calculators-rates"},
-    {"title": "Ramsey County Property Value", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/property-value"},
-    {"title": "Ramsey County Appealing Your Value", "url": "https://ramseycountymn.gov/residents/property-home/taxes-values/property-value/appealing-your-value"},
-    {"title": "Ramsey County Annual Property Inspection Map", "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/property-value/annual-property-inspection-map"},
-    {"title": "Ramsey County Recorder's Office", "url": "https://www.ramseycountymn.gov/residents/property-home/records/recorders-office"},
-    {"title": "Census QuickFacts, St. Paul city", "url": "https://www.census.gov/quickfacts/fact/table/stpaulcityminnesota/PST045225"},
-    {"title": "Wikipedia, Saint Paul, Minnesota", "url": "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"}
-  ]
+ "slug": "st-paul-mn-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Ramsey County offices for St. Paul owners",
+   "html": "<p>Ramsey County sends the St. Paul property tax bill. Its Assessor values every parcel, and its Property Tax Services unit mails the statements and takes the money. The county offices share the Plato Building at 90 Plato Blvd. West, Saint Paul, MN 55107, with front-desk service on weekdays between 8 a.m. and 4:30 p.m. Direct lines worth saving:</p>\n<ul>\n<li>Property Tax Services, 651-266-2222: statements, payments, penalties</li>\n<li>County Assessor, 651-266-2131: value and classification</li>\n<li>Homestead Unit, 651-266-2040: applications and ITIN filing</li>\n<li>Delinquent taxes, 651-266-2002: balances, interest, plans</li>\n<li>Recorder's Office, 651-266-2050: deeds and other recorded real estate documents</li>\n</ul>\n<p>Keep the parcel number from your statement in front of you when you call. Each of these offices looks up records by that number.</p>"
+  },
+  {
+   "h2": "Housing and classification in St. Paul",
+   "html": "<p>Owners and renters split the city almost evenly. Owners live in 52.9% of occupied homes, a typical owned home is valued at $294,500, and middle-market rent runs $1,281 a month. Owners with a mortgage spend $1,911 monthly.</p>\n<p>Your bill hinges on classification. Ramsey County posts separate calculators for homestead and non-homestead houses, duplexes and triplexes, commercial buildings, and apartments of four or more units. Work out which category your parcel falls into before you estimate a tax figure for a buyer.</p>"
+  },
+  {
+   "h2": "Due dates",
+   "html": "<p>Two installments, May 15 and October 15, cover real property, and a due date that falls on a weekend slides to Monday. Anyone with an escrow account at a mortgage company can skip the paperwork, since the lender pays. A bill of $100 or less must be settled whole with the first installment. October 15 has already passed this year, so a seller listing now should confirm the second half was paid.</p>\n<table>\n<caption>When each kind of Ramsey County bill is due</caption>\n<thead><tr><th>Type</th><th>First installment</th><th>Second installment</th></tr></thead>\n<tbody>\n<tr><td>Real property</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Agricultural</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Leased government-owned personal property</td><td>May 15</td><td>October 15</td></tr>\n<tr><td>Other personal property</td><td>May 15, total due</td><td>None</td></tr>\n<tr><td>Manufactured homes</td><td>August 31</td><td>November 15</td></tr>\n</tbody>\n</table>\n<p>Each property gets two mailings a year. Mid-March brings the tax statement together with the value notice that drives next year's tax. In November the proposed tax notice follows, listing next year's proposed amounts and the meetings where levies and budgets are discussed. Owners may switch to electronic delivery through eNoticesOnline.</p>"
+  },
+  {
+   "h2": "What a late payment costs",
+   "html": "<p>Penalty starts the day after a due date, grows month by month, and is applied to penalty before tax when you pay. For a homestead or cabin, a late first half picks up 2% on May 16, 4% on June 1, 5% on July 1 and 8% by October 1, then 10% on January 2 of the next year. Non-homestead property climbs through 4%, 8%, 9% and 12% to 14% on those same dates.</p>\n<p>A missed second half begins on October 16 at 2% for a homestead and 4% for a non-homestead, ending January 2 at 7% and 11%. Owing both halves on October 16 means 5% for a homestead and 8% otherwise.</p>\n<p>The county offers two ways to soften a penalty:</p>\n<ul>\n<li>One-time waiver: once per parcel in any 10-year span, for the first half or the second but not both. A first-half request must arrive from May 16 through October 15, and a second-half request from October 16 through December 20, with payment and the signed form. A waiver is refused if the payment bounced, if delinquent tax or a confession of judgment sits on the parcel, or if the waiver was already used in the past decade.</li>\n<li>Hardship abatement: ask the County Auditor/Treasurer at 651-266-2222. The county grants these mainly for exceptional hardship such as a hospital stay.</li>\n</ul>\n<p>Returned checks cost $30, and partial payments are accepted.</p>"
+  },
+  {
+   "h2": "What can I do if I think my St. Paul value is wrong?",
+   "html": "<p>Phone the Assessor at 651-266-2131 before anything else. You will not reach an appraiser on the spot: you describe the concern, and an appraiser calls back within three days. Mail or email a recent appraisal or a sale of your own property to back a claim of overvaluation or a wrong class.</p>\n<p>State law requires a physical review of each parcel at least once every five years, and Ramsey County appraisers walk nearly 32,000 properties a year without advance notice. An interactive map on the county site shows when your area is due.</p>\n<h3>Homestead status</h3>\n<p>Homestead status lowers the bill, so a seller and a buyer should both know the rules:</p>\n<ul>\n<li>The state exclusion trims taxable value only on homes valued below $517,200.</li>\n<li>Homestead also counts toward the state Property Tax Refund.</li>\n<li>A buyer must own and occupy the home by December 31 and apply by that date to qualify for the current assessment year.</li>\n<li>An ITIN may replace a Social Security number on the filing.</li>\n</ul>"
+  },
+  {
+   "h2": "Delinquent tax and forfeiture",
+   "html": "<p>A bill becomes delinquent on January 1 of the next year. From then, interest accrues at 10% a year, rising monthly, and a $25 fee covers publication and notice. Owners then have three years to pay in full and redeem, or they can enter a payment plan called a Confession of Judgment.</p>\n<p>If redemption lapses without payment, forfeiture begins, and the county notifies the owner in stages:</p>\n<ul>\n<li>A courtesy letter in the first week of April</li>\n<li>A parcel list in the county's newspaper for two weeks in May</li>\n<li>The same list posted at the Property Records and Property Tax Services offices</li>\n<li>Delivery of the notice by the sheriff to an occupant, or a posting at vacant and land-only property</li>\n<li>A certified letter in June</li>\n</ul>\n<p>Payments are applied to penalties first, then interest, fees and finally tax. A parcel may be paid after the list is printed, so call the delinquent line before assuming it is still on it.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed or open",
+   "html": "<p>Ask Property Tax Services for the parcel's exact balance, because the first half may be settled while the second is open, or both may be owed. Also ask where the account sits on the penalty schedule, since the rate steps up on June 1, July 1, October 16 and other dates. A cash buyer or a title company will want the same figure, so request it early in the listing period.</p>\n<p>Deeds and similar papers are recorded through the Recorder's Office, which keeps the county's official real estate records. It does not help fill out legal forms. A recorded document is permanent and cannot be removed or altered, so have a title company or attorney review the deed before it is filed.</p>\n<p>If the home sells for cash, the closing can move fast. The tax payoff, any penalty and any special items still have to be cleared at the table, which is why the balance request comes first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which agency collects St. Paul's property tax?",
+   "a": "Ramsey County Property Tax Services, in the Plato Building at 90 Plato Blvd. West. Reach it at 651-266-2222 on weekdays between 8 a.m. and 4:30 p.m."
+  },
+  {
+   "q": "When do St. Paul real property installments fall due?",
+   "a": "May 15 and October 15. A weekend date moves to the next business day, and manufactured homes use August 31 and November 15 instead."
+  },
+  {
+   "q": "Is there a way to avoid a late St. Paul property tax penalty?",
+   "a": "A one-time waiver exists, usable once per parcel every 10 years for one installment. Submit the signed form with your payment before the deadline for that half."
+  },
+  {
+   "q": "Who reviews a disputed St. Paul property value?",
+   "a": "The County Assessor, at 651-266-2131. An appraiser returns your call within three days, and a recent appraisal or sale of the home can be sent as support."
+  },
+  {
+   "q": "What redemption window applies to delinquent tax on a St. Paul home?",
+   "a": "Three years to pay everything owed, with payment plans available. The delinquent line, 651-266-2002, can give the current balance and interest."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ramsey County Property & Home",
+   "url": "https://www.ramseycountymn.gov/residents/property-home"
+  },
+  {
+   "title": "Ramsey County Pay Property Tax",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/pay-property-tax"
+  },
+  {
+   "title": "Ramsey County Delinquent Tax Information",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/delinquent-tax-information"
+  },
+  {
+   "title": "Ramsey County Homestead",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/homestead"
+  },
+  {
+   "title": "Ramsey County Property Tax Notices",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/property-tax-notices"
+  },
+  {
+   "title": "Ramsey County Tax Calculators and Rates",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/tax-calculators-rates"
+  },
+  {
+   "title": "Ramsey County Property Value",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/property-value"
+  },
+  {
+   "title": "Ramsey County Appealing Your Value",
+   "url": "https://ramseycountymn.gov/residents/property-home/taxes-values/property-value/appealing-your-value"
+  },
+  {
+   "title": "Ramsey County Annual Property Inspection Map",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/taxes-values/property-value/annual-property-inspection-map"
+  },
+  {
+   "title": "Ramsey County Recorder's Office",
+   "url": "https://www.ramseycountymn.gov/residents/property-home/records/recorders-office"
+  },
+  {
+   "title": "Census QuickFacts, St. Paul city",
+   "url": "https://www.census.gov/quickfacts/fact/table/stpaulcityminnesota/PST045225"
+  },
+  {
+   "title": "Wikipedia, Saint Paul, Minnesota",
+   "url": "https://en.wikipedia.org/wiki/Saint_Paul,_Minnesota"
+  }
+ ]
 }
