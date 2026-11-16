@@ -1,23 +1,89 @@
-{"slug":"texas-property-tax-protest","sections":[
-{"h2":"What is the deadline to protest a Texas property appraisal?","html":"<p>In most cases it is May 15 or 30 days after the appraisal district's notice, whichever is later. The Comptroller's protest page gives this rule and notes in one place that the 30 days run from the date the district mails the notice.</p><p>The district must send a notice of appraised value by May 1, or April 1 for a residence homestead, or soon after, when the value is higher than last year. That notice explains how to file and mentions the informal conference option. Read it the day it arrives and note the mailing date.</p>"},
-{"h2":"How do you file a Texas protest?","html":"<p>File Form 50-132, Property Owner's Notice of Protest, with the appraisal review board (ARB). The Comptroller also says the form is optional, because a written notice that names the property, the owner and some dissatisfaction with a district decision is enough.</p><ul><li>Use Form 50-162 if you want an agent to represent you at the hearing.</li><li>Lessees who must reimburse the owner's taxes may protest if the owner does not.</li><li>Off-shore workers and full-time military members may be entitled to file late.</li></ul><p>Keep a copy and proof of the filing date, since the deadline controls whether you get a hearing.</p>"},
-{"h2":"What can a Texas owner protest?","html":"<p>You can protest the appraised value or any district action about your property. The Comptroller lists value, exemptions, special appraisal qualification and the circuit breaker limitation as hearing subjects.</p><p>Many owners ask whether the tax bill itself can be protested. It cannot, because the ARB does not set rates. The Comptroller says neither the ARB nor the appraisal district sets your taxes, and the ARB cannot consider your personal finances. Its job is to certify value based on what the market dictates.</p>"},
-{"h2":"What happens between filing and the ARB hearing?","html":"<p>You may ask for an informal conference with the appraisal district, and many protests end there. If not, the case goes to a formal hearing.</p><p>The ARB must send notice of the hearing date, time, place and subject at least 15 days in advance. At least 14 days before, the district must send the Comptroller's Taxpayer Assistance Pamphlet, the adopted ARB procedures and a statement that you can request copies of the evidence the district will use. You can attend in person, by phone or videoconference, or file a written affidavit. Counties above 120,000 people deliver electronic notices and reminders when you give an email address or number.</p>"},
-{"h2":"What evidence helps at a Texas ARB hearing?","html":"<p>Bring proof of value, since saying the district is wrong is not enough. The Comptroller names the types of material that help.</p><ul><li>Photographs of your property and comparable ones.</li><li>Repair receipts or estimates.</li><li>Sales price records, such as listings or closing statements.</li><li>Median level of appraisal calculations, for an equal and uniform protest.</li><li>Affidavits, engineering reports, surveys and deed records.</li></ul><p>You choose whether to present before or after the district representative. Both sides may present evidence, question witnesses and state an opinion of value. Stay on the facts about value. The ARB's decision binds only for the tax year in question.</p>"},
-{"h2":"What if you miss the protest deadline?","html":"<p>A late protest can still get a hearing if you show good cause before the ARB approves the appraisal records. The Comptroller warns that missing good cause, or filing after approval, can end the right to protest.</p><p>Other late routes exist for narrower problems, and each requires you to avoid letting the tax go delinquent.</p><ul><li>Failure to receive a notice the district was required to send.</li><li>A motion for correction when a residence homestead was valued at least one-fourth too high.</li><li>A motion for correction when other property was valued at least one-third too high.</li><li>A clerical error, duplicate appraisal or ownership error, which can reach back through the current year and five earlier years.</li><li>A joint motion with the chief appraiser, which the ARB approves if both agree.</li></ul>"},
-{"h2":"Where can you appeal after the ARB rules?","html":"<p>You have three main paths, set out in the table from the Comptroller's protest page. The ARB's written order arrives by email or certified mail.</p><table><caption>Appeal options after an ARB order, from the Comptroller's protest page</caption><thead><tr><th>Option</th><th>Deadline from the order</th><th>Notes</th></tr></thead><tbody><tr><td>State district court</td><td>Petition within 60 days of receiving the order</td><td>County where the property sits; consult an attorney first</td></tr><tr><td>Regular binding arbitration</td><td>Request to the Comptroller within 60 days of notice</td><td>Homestead at any value, or property of $5 million or less; deposit required</td></tr><tr><td>State Office of Administrative Hearings</td><td>Notice to chief appraiser within 30 days; $1,500 deposit within 90 days</td><td>ARB value over $1 million; value or unequal appraisal only; not industrial property</td></tr></tbody></table><p>In every case, pay at least the undisputed tax before the delinquency date. A court may excuse prepayment after a hearing if you file an oath of inability to pay.</p>"},
-{"h2":"Does a protest matter if you plan to sell the house?","html":"<p>It can, because the appraised value drives the bill that is prorated at closing and a lower value for the year lowers the amount owed. If the ARB rules in your favor, the chief appraiser notifies the taxing units, and the units send any refund when taxes were already paid.</p><p>Special ARB panels hear commercial, utility, industrial and multifamily property valued at or above a threshold. The Comptroller lists $62,883,169 for 2026. Single-family owners will not reach that level.</p>"}
-],
-"faqs":[
-{"q":"When is the Texas protest deadline?","a":"May 15 or 30 days after the appraisal district's notice, whichever is later. The Comptroller says the 30 days run from the mailing date."},
-{"q":"Do I need a lawyer to protest in Texas?","a":"No. You can file a simple written notice and appear yourself, and Form 50-162 lets you name an agent if you prefer. The Comptroller advises talking to an attorney before a district court petition."},
-{"q":"Can I protest my tax rate?","a":"No. The ARB hears value and related district actions, and it does not set rates. Taxing units adopt rates after notice and hearing."},
-{"q":"What if I miss the protest date?","a":"Ask the ARB for a late hearing and show good cause, before it approves the appraisal records. Some narrower correction motions also exist, as long as taxes are not delinquent."},
-{"q":"How long do I have to appeal an ARB order?","a":"Within 60 days of receiving the order for district court or regular binding arbitration, and within 30 days for the SOAH notice if the ARB value is over $1 million."}
-],
-"sources":[
-{"title":"Texas Comptroller: Appraisal Protests and Appeals","url":"https://comptroller.texas.gov/taxes/property-tax/protests/"},
-{"title":"Texas Comptroller: Property Tax Basics","url":"https://comptroller.texas.gov/taxes/property-tax/basics.php"},
-{"title":"Texas Comptroller: Property Tax Deadlines","url":"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"},
-{"title":"Texas Comptroller: Paying Property Taxes","url":"https://comptroller.texas.gov/taxes/property-tax/pay"}
-]}
+{
+ "slug": "texas-property-tax-protest",
+ "sections": [
+  {
+   "h2": "What is the deadline to protest a Texas property appraisal?",
+   "html": "<p>In most cases it is May 15 or 30 days after the appraisal district's notice, whichever is later. The Comptroller's protest page gives this rule and notes in one place that the 30 days run from the date the district mails the notice.</p><p>The district must send a notice of appraised value by May 1, or April 1 for a residence homestead, or soon after, when the value is higher than last year. That notice explains how to file and mentions the informal conference option. Read it the day it arrives and note the mailing date.</p>"
+  },
+  {
+   "h2": "How do you file a Texas protest?",
+   "html": "<p>File Form 50-132, Property Owner's Notice of Protest, with the appraisal review board (ARB). The Comptroller also says the form is optional, because a written notice that names the property, the owner and some dissatisfaction with a district decision is enough.</p><ul><li>Use Form 50-162 if you want an agent to represent you at the hearing.</li><li>Lessees who must reimburse the owner's taxes may protest if the owner does not.</li><li>Off-shore workers and full-time military members may be entitled to file late.</li></ul><p>Keep a copy and proof of the filing date, since the deadline controls whether you get a hearing.</p>"
+  },
+  {
+   "h2": "What can a Texas owner protest?",
+   "html": "<p>You can protest the appraised value or any district action about your property. The Comptroller lists value, exemptions, special appraisal qualification and the circuit breaker limitation as hearing subjects.</p><p>Many owners ask whether the tax bill itself can be protested. It cannot, because the ARB does not set rates. The Comptroller says neither the ARB nor the appraisal district sets your taxes, and the ARB cannot consider your personal finances. Its job is to certify value based on what the market dictates.</p>"
+  },
+  {
+   "h2": "How does the protest fit into the rest of the Texas tax calendar?",
+   "html": "<p>The protest season sits between the spring notices and the summer roll. The Comptroller's calendar has the ARB beginning to hear protests around May 15, approving the appraisal records by July 20 and the chief appraiser certifying the roll to each taxing unit by July 25. The ARB may hold off approval if more than 5 percent of total appraised value is still under protest.</p><p>Taxing units then adopt rates by about the end of September, and bills follow on October 1. A successful protest changes the value that those rates are applied to. It does not change the rate.</p><ul><li>Spring: value notice arrives and the protest window opens.</li><li>Late spring and summer: informal conferences and ARB hearings.</li><li>July: records approved and roll certified.</li><li>October: bills mailed, with the tax due by the following January 31.</li></ul>"
+  },
+  {
+   "h2": "What happens between filing and the ARB hearing?",
+   "html": "<p>You may ask for an informal conference with the appraisal district, and many protests end there. If not, the case goes to a formal hearing.</p><p>The ARB must send notice of the hearing date, time, place and subject at least 15 days in advance. At least 14 days before, the district must send the Comptroller's Taxpayer Assistance Pamphlet, the adopted ARB procedures and a statement that you can request copies of the evidence the district will use. You can attend in person, by phone or videoconference, or file a written affidavit. Counties above 120,000 people deliver electronic notices and reminders when you give an email address or number.</p>"
+  },
+  {
+   "h2": "What evidence helps at a Texas ARB hearing?",
+   "html": "<p>Bring proof of value, since saying the district is wrong is not enough. The Comptroller names the types of material that help.</p><ul><li>Photographs of your property and comparable ones.</li><li>Repair receipts or estimates.</li><li>Sales price records, such as listings or closing statements.</li><li>Median level of appraisal calculations, for an equal and uniform protest.</li><li>Affidavits, engineering reports, surveys and deed records.</li></ul><p>You choose whether to present before or after the district representative. Both sides may present evidence, question witnesses and state an opinion of value. Stay on the facts about value. The ARB's decision binds only for the tax year in question.</p>"
+  },
+  {
+   "h2": "What if you miss the protest deadline?",
+   "html": "<p>A late protest can still get a hearing if you show good cause before the ARB approves the appraisal records. The Comptroller warns that missing good cause, or filing after approval, can end the right to protest.</p><p>Other late routes exist for narrower problems, and each requires you to avoid letting the tax go delinquent.</p><ul><li>Failure to receive a notice the district was required to send.</li><li>A motion for correction when a residence homestead was valued at least one-fourth too high.</li><li>A motion for correction when other property was valued at least one-third too high.</li><li>A clerical error, duplicate appraisal or ownership error, which can reach back through the current year and five earlier years.</li><li>A joint motion with the chief appraiser, which the ARB approves if both agree.</li></ul>"
+  },
+  {
+   "h2": "What is limited binding arbitration, and how is it different from an appeal?",
+   "html": "<p>It is a narrow tool for process problems. After filing a protest, an owner who believes the ARB or the chief appraiser skipped a procedural requirement can ask the Comptroller's office for limited binding arbitration to compel compliance. It does not reopen the value itself.</p><p>The Comptroller runs a separate web page for the process. Owners who simply disagree with the value should stay with the hearing and the appeal routes in the table below.</p>"
+  },
+  {
+   "h2": "Who can speak for you at the hearing?",
+   "html": "<p>Owners and lessees may name someone to represent them. The Comptroller's page points to Form 50-162, Appointment of Agent for Property Tax Matters, for that purpose. An agent can attend, present evidence and question the district's witness on your behalf.</p><p>The hearing is not a place to argue about the size of your bill or your income. The Comptroller says the ARB may weigh general economic and environmental influences on value but not an owner's personal finances. The Comptroller's office also cannot advise on or step into a matter under protest, so questions about a live case go to the appraisal district or the ARB.</p><p>After the hearing, the ARB sends a written order by email or certified mail. Keep it, because every appeal deadline runs from receiving it.</p>"
+  },
+  {
+   "h2": "Where can you appeal after the ARB rules?",
+   "html": "<p>You have three main paths, set out in the table from the Comptroller's protest page. The ARB's written order arrives by email or certified mail.</p><table><caption>Appeal options after an ARB order, from the Comptroller's protest page</caption><thead><tr><th>Option</th><th>Deadline from the order</th><th>Notes</th></tr></thead><tbody><tr><td>State district court</td><td>Petition within 60 days of receiving the order</td><td>County where the property sits; consult an attorney first</td></tr><tr><td>Regular binding arbitration</td><td>Request to the Comptroller within 60 days of notice</td><td>Homestead at any value, or property of $5 million or less; deposit required</td></tr><tr><td>State Office of Administrative Hearings</td><td>Notice to chief appraiser within 30 days; $1,500 deposit within 90 days</td><td>ARB value over $1 million; value or unequal appraisal only; not industrial property</td></tr></tbody></table><p>In every case, pay at least the undisputed tax before the delinquency date. A court may excuse prepayment after a hearing if you file an oath of inability to pay.</p>"
+  },
+  {
+   "h2": "Does a protest matter if you plan to sell the house?",
+   "html": "<p>It can, because the appraised value drives the bill that is prorated at closing and a lower value for the year lowers the amount owed. If the ARB rules in your favor, the chief appraiser notifies the taxing units, and the units send any refund when taxes were already paid.</p><p>Special ARB panels hear commercial, utility, industrial and multifamily property valued at or above a threshold. The Comptroller lists $62,883,169 for 2026. Single-family owners will not reach that level.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is the Texas protest deadline?",
+   "a": "May 15 or 30 days after the appraisal district's notice, whichever is later. The Comptroller says the 30 days run from the mailing date."
+  },
+  {
+   "q": "Do I need a lawyer to protest in Texas?",
+   "a": "No. You can file a simple written notice and appear yourself, and Form 50-162 lets you name an agent if you prefer. The Comptroller advises talking to an attorney before a district court petition."
+  },
+  {
+   "q": "Can I protest my tax rate?",
+   "a": "No. The ARB hears value and related district actions, and it does not set rates. Taxing units adopt rates after notice and hearing."
+  },
+  {
+   "q": "What if I miss the protest date?",
+   "a": "Ask the ARB for a late hearing and show good cause, before it approves the appraisal records. Some narrower correction motions also exist, as long as taxes are not delinquent."
+  },
+  {
+   "q": "How long do I have to appeal an ARB order?",
+   "a": "Within 60 days of receiving the order for district court or regular binding arbitration, and within 30 days for the SOAH notice if the ARB value is over $1 million."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas Comptroller: Appraisal Protests and Appeals",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/protests/"
+  },
+  {
+   "title": "Texas Comptroller: Property Tax Basics",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/basics.php"
+  },
+  {
+   "title": "Texas Comptroller: Property Tax Deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  },
+  {
+   "title": "Texas Comptroller: Paying Property Taxes",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  }
+ ]
+}
