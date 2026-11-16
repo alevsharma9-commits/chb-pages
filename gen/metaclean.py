@@ -3,7 +3,7 @@
 import json, glob, re, os, sys
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + '/..')
 sys.path.insert(0, 'gen/rw'); os.environ['METAFIX_IMPORT'] = '1'
-META = re.compile(r"(?:(?<=[>.!?\"])|^)\s*[^<>.!?\"]*?\b(?:we|this page|this guide|our (?:check|review|research)|pages we opened)\b[^<>.!?\"]{0,60}?\b(?:could not|couldn't|did not|didn't|do not have|cannot|can't|were unable|was unable|does not|doesn't|confirmed|verified|checked|found no|have not|haven't)\b(?!\s+(?:charge|buy|need|ask|require))[^<>\"]*?[.!?](?=\s|<|\"|$)", re.I)
+META = re.compile(r"(?:(?<=[>.!?\"])|^)\s*[^<>.!?\"]*?\b(?:we|this page|this guide|our (?:check|review|research)|pages we opened)\b[^<>.!?\"]{0,60}?\b(?:could not|couldn't|did not|didn't|do not have|cannot|can't|were unable|was unable|does not|doesn't|confirmed|verified|checked|found no|have not|haven't|do not state|do not name|make no claim|are not stating|are not naming)\b(?!\s+(?:charge|buy|need|ask|require))[^<>\"]*?[.!?](?=\s|<|\"|$)", re.I)
 SAFE = re.compile(r"\bwe (?:buy|pay|close|cover|charge|make|handle|can|will|also|do not charge|don't charge)\b|what we can and cannot do", re.I)
 def clean(s):
     s = META.sub(lambda m: m.group(0) if SAFE.search(m.group(0)) else '', s)

@@ -3,7 +3,7 @@
 # Readers do not need them. Also drops "sourced" from headings ("X at a glance: sourced numbers").
 import json, glob, re, os
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-META = re.compile(r"(?:(?<=[>.!?])|^)\s*[^<>.!?]*?\b(?:we|this page|this guide|our (?:check|review|research))\b[^<>.!?]{0,60}?\b(?:could not|couldn't|did not|didn't|do not have|cannot|can't|were unable|was unable|does not|doesn't|confirmed|verified|checked|found no|have not|haven't)\b(?!\s+(?:charge|buy|need|ask|require))[^<>]*?[.!?](?=\s|<|$)", re.I)
+META = re.compile(r"(?:(?<=[>.!?])|^)\s*[^<>.!?]*?\b(?:we|this page|this guide|our (?:check|review|research))\b[^<>.!?]{0,60}?\b(?:could not|couldn't|did not|didn't|do not have|cannot|can't|were unable|was unable|does not|doesn't|confirmed|verified|checked|found no|have not|haven't|do not state|do not name|make no claim|are not stating|are not naming)\b(?!\s+(?:charge|buy|need|ask|require))[^<>]*?[.!?](?=\s|<|$)", re.I)
 SAFE = re.compile(r"\bwe (?:buy|pay|close|cover|charge|make|handle|can|will|also|do not charge|don't charge)\b", re.I)
 def clean(s):
     def rep(m):
