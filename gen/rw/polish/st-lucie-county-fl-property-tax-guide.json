@@ -1,0 +1,93 @@
+{
+ "slug": "st-lucie-county-fl-property-tax-guide",
+ "sections": [
+  {
+   "h2": "St. Lucie County at a glance",
+   "html": "<p>St. Lucie County counted 277,789 residents in 2010, 329,226 in 2020 and an estimated 402,449 by mid-2025. About 78.6 percent of homes are owner occupied, there are 137,453 households, and 24.9 percent of residents are 65 or older, so age-linked tax breaks reach many sellers here. Building permits totaled 4,008 in 2025, and 89.6 percent of residents lived in the same house a year earlier, which tells you most owners stay put once they buy.</p>"
+  },
+  {
+   "h2": "Which office answers which tax question",
+   "html": "<p>The property appraiser's office, at 772-462-1000, splits its work across four departments: appraisal, mapping, tax roll and tangible property. It values parcels, tracks ownership changes, keeps boundary maps and grants exemptions. It does not set a rate. Elected county and city officials, the school board and districts for fire, roads, port, airport and water management do that.</p><p>The tax collector mails bills at the start of November and collects payment. Call 772-462-1650 for equipment tax questions. The Clerk of the Court records deeds and answers copy requests at 772-462-6900. The appraiser's real estate search shows a record card, a TRIM button and a map for each parcel, which is the fastest way to see what the county has on file before you list.</p>"
+  },
+  {
+   "h2": "Reading your TRIM notice",
+   "html": "<p>Page one of the mid-August notice compares three scenarios, color coded. The orange column holds last year's values and budgets, for comparison only. The blue column shows this year's tax if every taxing body raised the same dollars it did before. The green column shows the tax at each body's proposed rate, which can still shift after public hearings.</p><p>Page two lists market value for both years, then assessed value, exemptions and taxable value per taxing authority. A gray band reports reductions such as the agricultural classification, the 3 percent or 10 percent cap and any portability benefit. The notice also prints the Value Adjustment Board deadline. It is an estimate and not a bill.</p>"
+  },
+  {
+   "h2": "From market value to taxable value",
+   "html": "<p>Five links turn a sale price into a tax figure.</p><ul><li>Just market value: the price signal from sales before the January 1 assessment date.</li><li>Cap: a 3 percent limit on homestead growth and a 10 percent limit for other property.</li><li>Assessed value: just value minus the cap.</li><li>Exemptions: reductions for which the owner applied and qualified.</li><li>Taxable value: assessed value minus exemptions, which is the number each millage rate multiplies.</li></ul><p>Some bill lines sit outside that chain. Non ad valorem charges pay for services like lighting, landscaping, security and trash, and they do not track the value of the home.</p>"
+  },
+  {
+   "h2": "Why a bill jumps after a purchase",
+   "html": "<p>The previous owner's protections do not travel with the house. Each January 1 the property is reassessed, and a new owner receives market value with the old exemptions and capped amount erased. A neighbor's lower bill usually comes from a cap built up over years of homestead or from an extra exemption the neighbor holds.</p><p>The cap begins to accrue only after the first year of homestead, and only when market value is rising. If you are listing, warn buyers that the tax figure on a listing can understate what the next owner pays.</p>"
+  },
+  {
+   "h2": "Homestead and the cap when a deed changes",
+   "html": "<p>Homestead cannot be handed over. A new application is needed whenever title changes or a new home is established. Adding a name to the deed normally leaves the exemption alone but can cost part of the cap, depending on the tenancy.</p><table><caption>Adding an owner to the deed</caption><thead><tr><th>How title is held</th><th>New owner files homestead?</th><th>What happens to the cap</th></tr></thead><tbody><tr><td>Joint tenants with survivorship</td><td>Yes</td><td>Resets to market value and restarts the next year</td></tr><tr><td>Joint tenants</td><td>No</td><td>Left unchanged</td></tr><tr><td>Tenants in common</td><td>No</td><td>Shrinks to the original owner's share; the other share is assessed at market, then under the 10 percent limit</td></tr></tbody></table><p>Inheritance follows the same logic. An heir generally cannot keep the decedent's exemption or cap, which end with the year. Two exceptions let a cap continue: a surviving spouse who files for homestead, and a legally or naturally dependent person living in the house at the death who then files. Placing a home in a trust requires the beneficial interest language of s. 196.041 on the deed or in the trust pages, and the appraiser asks for the trust if the deed lacks it.</p>"
+  },
+  {
+   "h2": "Carrying your cap to a new house",
+   "html": "<p>Portability moves the accumulated gap between market and assessed value, up to $500,000, to a new Florida homestead. You need a homestead exemption on the old property in at least one of the three preceding tax years, and a new homestead established by January 1 within three tax years of abandoning the old one.</p><p>File with the new homestead application by March 1, at either office location or online. A former spouse sharing the old home must file the DR-501TS share designation first. A larger new house transfers the full amount, while a smaller one carries it over in proportion.</p>"
+  },
+  {
+   "h2": "Payment dates and delinquency",
+   "html": "<p>The collector gives a 2 percent discount in January for real estate and equipment tax. November through February runs the usual 4, 3, 2 and 1 percent scale. For homestead tax deferral, call the collector for the current filing deadline.</p><p>An unpaid bill turns delinquent April 1, certificates are sold by June 1, and a holder may seek a deed two years after April 1 of the issue year. A title company will ask for a certificate search, so order one early. If a bill is open when you sell, the closing agent pays it from your proceeds, whether the buyer pays cash or uses a loan.</p>"
+  },
+  {
+   "h2": "Equipment tax when a business changes hands",
+   "html": "<p>The tax follows the equipment, so buyer and seller should check balances before closing. Call the collector on 772-462-1650 to learn whether tangible personal property tax is unpaid, and ask the closing agent to prorate.</p><p>Returns are due April 1. Late filers pay 5 percent for each month or part of a month, a missing return draws 25 percent, and unreported assets can add 15 percent. There is no minimum value, and a landlord must report furniture and appliances supplied in a rental. A thirty day extension can be requested online before April 1 with written reasons. When a business closes, the owner files a final return and an account status change form.</p>"
+  },
+  {
+   "h2": "Agricultural land after a sale",
+   "html": "<p>An agricultural classification does not transfer with the land, and applications are taken between January 1 and March 1. The classification lowers value, but it is not an exemption.</p><p>Use on January 1 controls the outcome, and the appraiser inspects. Evidence includes care of the land, income and expense records, a Schedule F or C, receipts for feed, seed or fertilizer, business plans and insurance. Land used mainly for residential, development or investment purposes is not eligible, and agricultural zoning does not create the classification. Owners must report any change in use or acreage or risk losing it.</p>"
+  },
+  {
+   "h2": "Amendment 3 and look-alike mail",
+   "html": "<p>A proposed constitutional amendment, labeled Amendment 3 (CS/HJR 1F), appeared on the November 2026 general election ballot and needed at least 60 percent approval to take effect January 1, 2027. Call the appraiser for what it means for your homestead.</p><p>Watch for mail that looks like a bill. Letters from a county records office or property site are solicitations and not amounts due, and those companies have no tie to the county. A real deed copy comes from the clerk or from the parcel's record card.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is the TRIM notice a bill in St. Lucie County?",
+   "a": "No. It is an estimate built from proposed rates, January 1 value and exemptions. The tax collector sends the actual bill at the beginning of November."
+  },
+  {
+   "q": "What is the usual homestead filing window in St. Lucie County?",
+   "a": "January 1 through March 1. The appraiser also allows pre-filing for the following year at any time, and portability is filed alongside the homestead application."
+  },
+  {
+   "q": "Can a St. Lucie County heir keep a parent's capped value?",
+   "a": "Generally no. A surviving spouse who files for homestead, or a dependent living in the house at the death who files, may keep it."
+  },
+  {
+   "q": "Who handles deed copies in St. Lucie County?",
+   "a": "The Clerk of the Court, at 772-462-6900, or the parcel's record card on the appraiser's site. Mailed offers for copies are solicitations."
+  },
+  {
+   "q": "Does St. Lucie County have an early payment discount in January?",
+   "a": "Yes, 2 percent. Call the collector for the current homestead tax deferral deadline."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Census QuickFacts, St. Lucie County, Florida",
+   "url": "https://www.census.gov/quickfacts/stluciecountyflorida"
+  },
+  {
+   "title": "St. Lucie County Property Appraiser, About TRIM Notices",
+   "url": "https://www.paslc.gov/212/Learn-More-About-TRIM-Notices"
+  },
+  {
+   "title": "St. Lucie County Property Appraiser, FAQ",
+   "url": "https://www.paslc.gov/FAQ.aspx"
+  },
+  {
+   "title": "St. Lucie County Tax Collector, Discounts and Deadlines by Month",
+   "url": "https://www.tcslc.com/203/Tax-Discounts-Deadlines-By-Month"
+  },
+  {
+   "title": "Florida DOR Property Tax Oversight, Taxpayers",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  }
+ ]
+}
