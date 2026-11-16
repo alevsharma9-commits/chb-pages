@@ -11,7 +11,7 @@
   },
   {
    "h2": "Does Franklin County require tax certification before a deed is recorded?",
-   "html": "<p>Yes. A deed moving real property is turned away unless the Tax Collector first certifies that no delinquent ad valorem or other administered tax is a lien on it. The county has applied this rule since April 1, 2015.</p><p>The Collections Department stamps deeds free of charge on weekdays between 8 am and 5 pm, excluding county holidays. Walk the deed in before recording, or mail it to the Franklin County Tax Collector, P.O. Box 503, Louisburg, NC 27549, Attention: Tax Certification. The eRecording system forwards deeds to the tax office on its own. Electronic recordings that need the stamp must reach the tax department by 4:30 pm, so a closing that wraps up late should send its package early.</p><p>For a seller with back taxes, this is where the problem surfaces. The deed waits until the balance is cleared or the closing agent pays it out of the proceeds.</p>"
+   "html": "<p>Yes. A deed moving real property is turned away unless the Tax Collector first certifies that no delinquent ad valorem or other administered tax is a lien on it. The county has applied this rule since April 1, 2015.</p><p>The Collections Department stamps deeds free of charge on weekdays between 8 am and 5 pm, excluding county holidays. There are three ways to get it done.</p><ul><li>Walk the deed in to Collections before recording.</li><li>Mail it to the Franklin County Tax Collector, P.O. Box 503, Louisburg, NC 27549, Attention: Tax Certification.</li><li>Use eRecording, which forwards deeds to the tax office on its own.</li></ul><p>Electronic recordings that need the stamp must reach the tax department by 4:30 pm, so a closing that wraps up late should send its package early.</p><p>For a seller with back taxes, this is where the problem surfaces. The deed waits until the balance is cleared or the closing agent pays it out of the proceeds.</p>"
   },
   {
    "h2": "Can I record a Franklin County deed electronically?",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "What will a Franklin County closing pay at the Register of Deeds?",
-   "html": "<p>Two charges apply at the counter: a page-based recording fee and a tax tied to the sale price.</p><p>For the recording fee, the state tier is $26 for a general instrument through page 15, with $4 added for every page after that. A deed of trust is $64 through page 35. Recording the release of a paid-off loan is free. A certified copy starts at $5, and a document that does not meet the standard format costs $25 more.</p><p>The deed tax is $1 for every $500 of price or value, counting any leftover fraction as a full $500. The party giving up the property pays it at the register of deeds window ahead of recording, and the proceeds are divided between the county and state revenue. Your settlement statement will carry the final number.</p>"
+   "html": "<p>Two charges apply at the counter: a page-based recording fee and a tax tied to the sale price.</p><p>For the recording fee, the state tier is $26 for a general instrument through page 15, with $4 added for every page after that. A deed of trust is $64 through page 35. Recording the release of a paid-off loan is free. A certified copy starts at $5, and a document that does not meet the standard format costs $25 more.</p><p>The deed tax comes to a dollar for each $500 of price or value, and a leftover fraction counts as another $500. The party giving up the property pays it at the register of deeds window ahead of recording, and the proceeds are divided between the county and state revenue. Your settlement statement will carry the final number.</p>"
   },
   {
    "h2": "Who handles each step when I sell in Franklin County?",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "How do Franklin County tax bills affect a seller?",
-   "html": "<p>Franklin County real estate tax is due September 1 for the current tax year, and bills for 2026 become delinquent on January 6, 2027. The county mails bills in late July to early August, and money received before September 1 can earn a discount.</p><p>When a house sells after the bill arrives, the county tells the former owner to hand the bill to the buyer unless the former owner will pay it. Agreements between buyers, sellers and attorneys are not the tax office's concern, and because tax is a lien on real estate, the buyer wants everything settled at closing. A mortgage company that escrows tax still causes the bill to be mailed to the owner, and the county suggests checking in the second week of September that the lender paid. The county also bills a Solid Waste Availability Fee for each electrical connection, set each year in the budget ordinance, and it does not depend on full-time residence.</p>"
+   "html": "<p>Real estate tax in the county is due each September 1, and the 2026 bills turn delinquent on January 6, 2027. The county mails bills in late July to early August, and money received before September 1 can earn a discount.</p><p>When a house sells after the bill arrives, the county tells the former owner to hand the bill to the buyer unless the former owner will pay it. Agreements between buyers, sellers and attorneys are not the tax office's concern, and because tax is a lien on real estate, the buyer wants everything settled at closing. A mortgage company that escrows tax still causes the bill to be mailed to the owner, and the county suggests checking in the second week of September that the lender paid. A Solid Waste Availability Fee is also billed per electrical connection. The commissioners set it each year, and part-time use of the home does not exempt you.</p>"
   },
   {
    "h2": "What is the process to dispute a Franklin County assessed value?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Who pays the North Carolina deed excise tax?",
-   "a": "The seller, as transferor, settles it with the register of deeds ahead of recording. The rate is one dollar per $500 of value. The settlement statement shows the amount."
+   "a": "The seller pays it when the deed is brought in for recording. The rate is one dollar per $500 of value. The settlement statement shows the amount."
   }
  ],
  "sources": [
