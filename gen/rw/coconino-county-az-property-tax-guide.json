@@ -2,62 +2,70 @@
  "slug": "coconino-county-az-property-tax-guide",
  "sections": [
   {
-   "h2": "How large is Coconino County and what does it include?",
-   "html": "<p>Coconino County covers 18,661 square miles in north-central Arizona, which makes it the largest county in the state and the second largest in the contiguous United States after San Bernardino County, California. It has more land than nine U.S. states.</p><p>Flagstaff is the county seat and the largest city. The county was created in 1891 after residents of the northern part of Yavapai County, tired of traveling to Prescott for county business, petitioned for their own jurisdiction. It takes in Grand Canyon National Park, the Flagstaff metropolitan area, and parts of the Navajo, Hualapai, Hopi, Havasupai and Kaibab reservations, which together account for 7,142 square miles.</p><p>One office pair, the Coconino County Assessor and Treasurer, handles property valuation and tax collection across all of it.</p>"
+   "h2": "Coconino County at a glance",
+   "html": "<p>No Arizona county is bigger than Coconino, which stretches across 18,661 square miles with Flagstaff as its hub. Census takers in 2020 found 145,101 residents and 69,108 housing units. Vacancy was high at 25.7%, roughly 41 percent of occupied homes were rentals, and the median age was 32.5 years.</p><p>With that profile, plenty of sellers are landlords. Owners of a Flagstaff or Page rental should assemble the tax balance, the tenant file and any repair list ahead of closing. If the house has been a short-term rental, ask the city or county whether its license transfers to a buyer. Tribal reservation land makes up 7,142 square miles here, so have a title company check early on any parcel that touches it. Sedona sits mostly in Yavapai County, so confirm which county bills a Sedona address before you call an office.</p>"
   },
   {
-   "h2": "What does Coconino County look like in Census numbers?",
-   "html": "<p>The 2020 census counted 145,101 people in Coconino County, and the Census Bureau's 2025 estimate is 144,368. The housing count stands out because a quarter of the units were vacant.</p><table><thead><tr><th>Measure</th><th>Figure</th><th>Source year</th></tr></thead><tbody><tr><td>Population</td><td>145,101</td><td>2020 census</td></tr><tr><td>Housing units</td><td>69,108, of which 25.7% vacant</td><td>2020 census</td></tr><tr><td>Owner-occupied share</td><td>59.2% of occupied units</td><td>2020 census</td></tr><tr><td>Renter-occupied share</td><td>40.8% of occupied units</td><td>2020 census</td></tr><tr><td>Homeowner vacancy rate</td><td>1.4%</td><td>2020 census</td></tr><tr><td>Median age</td><td>32.5 years</td><td>2020 census</td></tr><tr><td>Highest point</td><td>Humphreys Peak, 12,637 feet</td><td>County article</td></tr></tbody></table><p>With about 41 percent of occupied homes rented and a median age of 32.5, Coconino County has a younger, more renter-heavy mix than many Arizona counties, and a quarter of its housing units were vacant on census day. A landlord in Flagstaff or Page selling a rental will want the tax balance, the tenant file and any repair list in hand before a closing.</p>"
+   "h2": "Paying the Treasurer",
+   "html": "<p>The Treasurer's office is at 110 E. Cherry Avenue in Flagstaff and keeps weekday hours from 8 a.m. to 5 p.m. The Assessor sets the value, and the Treasurer handles bills and payments. Ways to reach or pay the office:</p><ul><li>Phone: (928) 679-8188 or (877) 500-1818.</li><li>Email: treasurer@coconino.az.gov.</li><li>Automated payment line: 877-884-8060. Give your tax account or parcel number.</li><li>Online: enter an account or parcel number in the <a href=\"https://eagleassessor.coconino.az.gov/treasurer/web/\">Treasurer's portal</a>, pick first half, second half or full payment, and finish on a third-party payment page.</li></ul><p>Keep your account or parcel number nearby for any of these methods. Your bill shows it.</p>"
   },
   {
-   "h2": "What drives the Coconino County economy?",
-   "html": "<p>Education, health care, a manufacturer, and tourism sit at the top. A 2017 list of the county's largest employers put Northern Arizona University first at 3,500 workers, followed by W. L. Gore and Associates at 3,060 and Flagstaff Medical Center at 2,180, with the Flagstaff Unified School District at 1,590 and Aramark at 1,310.</p><p>The Bureau of Economic Analysis counted 87,159 jobs in the county in 2019. Accommodation and food services was the biggest sector at 14,472 jobs, or 16.6 percent, roughly double the national share of 7.5 percent. Health care and social assistance came next at 9,901 jobs, and state government held 8,078, about triple the national share.</p><p>For a seller, that mix means house demand and rental demand can follow the university calendar and the visitor season. If a house has been used as a short-term rental, ask the city or county whether any license carries over to a new owner.</p>"
+   "h2": "Due dates and delinquency",
+   "html": "<p>A year's tax is split in two. October 1 brings the first half and March 1 the second. Late status begins just after 5:00 p.m. on November 1 for the first half and May 1 for the second, per A.R.S. 42-18052, and a tiny bill of $100 or less is collected whole on October 1.</p><table><thead><tr><th>Payment</th><th>Due date</th><th>Counts as late</th></tr></thead><tbody><tr><td>First half</td><td>October 1</td><td>November 1, once 5:00 p.m. passes</td></tr><tr><td>Second half</td><td>March 1</td><td>May 1, once 5:00 p.m. passes</td></tr><tr><td>Bill of $100 or less</td><td>October 1, whole amount</td><td>December 31, once 5:00 p.m. passes</td></tr></tbody></table><p>An open first half is already building interest. The next section covers how to stop that.</p>"
   },
   {
-   "h2": "How do you get around Coconino County, and why does it matter for a sale?",
-   "html": "<p>Flagstaff is a highway junction where Interstate 40 runs east and west and Interstate 17 runs south to Phoenix. U.S. 89 and 180 lead north toward the Grand Canyon.</p><ul><li>Flagstaff Pulliam Airport, four miles south of downtown, is served by two commercial airlines.</li><li>Grand Canyon National Park Airport is in Tusayan.</li><li>Amtrak's Southwest Chief stops in Flagstaff.</li><li>The Mountain Line runs buses around Flagstaff.</li><li>The Grand Canyon Railway links Williams with the South Rim.</li></ul><p>An owner living in another state can get to Flagstaff by air, which helps with signing and walk-throughs. Parts of the county are reservation land, so ask a title company early about any parcel that might sit on or near it.</p>"
+   "h2": "What late payment costs",
+   "html": "<p>Once a bill is delinquent, interest accrues at 16 percent a year, simple, and a part-month counts as a full month (A.R.S. 42-18053). You can cut it off by paying the whole year before December 31 of the tax year. A delinquency caused by a county mistake carries no interest at all.</p><p>An owner who has just paid off a mortgage and then falls behind can ask for a one-time interest waiver, which needs approval from the county board of supervisors.</p>"
   },
   {
-   "h2": "Which Coconino County communities and school districts might a seller deal with?",
-   "html": "<p>Flagstaff had 65,870 people in the 2010 census, ahead of Sedona at 10,031, Tuba City at 8,611, Page at 7,247 and Williams at 3,023. Fredonia and Tusayan are the county's two incorporated towns.</p><p>Sedona sits mostly in Yavapai County, so confirm which county bills a Sedona address before you call an office. The county's K-12 districts are Ash Fork, Flagstaff, Fredonia-Moccasin, Grand Canyon, Page, Sedona-Oak Creek, Tuba City and Williams, plus the Chevelon Butte and Maine Consolidated elementary districts. Two charter schools, Flagstaff Arts and Leadership Academy and Northland Preparatory Academy, also operate here.</p><p>Higher education includes Northern Arizona University, Coconino County Community College and a Din\u00e9 College center in Tuba City.</p>"
+   "h2": "Timing a listing around the tax calendar",
+   "html": "<p>Sellers sometimes list in spring without realizing how the bill calendar shapes the closing. The lien for the year begins January 1. The notice of value lands before March 1 and starts your appeal clock. The second half falls due March 1 and the late date follows in May. The next bill cycle begins October 1 with the first half.</p><p>A closing in the middle of those dates means one half may be paid and the other not. Your title company will sort out how the current year's tax is split between you and the buyer, but you can make their job easier by knowing which half is open before you sign. If you are selling a rental, remember that a tenant's rent payments do not change who owes the county.</p>"
   },
   {
-   "h2": "When do Coconino County property tax payments come due?",
-   "html": "<p>Half of the year's tax is due October 1 and half on March 1, and unpaid halves become delinquent after 5:00 p.m. on November 1 and May 1, respectively, under A.R.S. 42-18052. Bills of $100 or less are due in one piece on October 1 and delinquent after December 31 at 5:00 p.m.</p><p>The Coconino County Treasurer's office is at 110 E. Cherry Avenue in Flagstaff and keeps hours of 8 a.m. to 5 p.m., Monday through Friday. Contact options published on its tax portal:</p><ul><li>Phone: (928) 679-8188 or (877) 500-1818.</li><li>Email: treasurer@coconino.az.gov.</li><li>Automated payment line: 877-884-8060, where you give your tax account or parcel number.</li><li>Online: enter an account or parcel number in the <a href=\"https://eagleassessor.coconino.az.gov/treasurer/web/\">Treasurer's portal</a>, choose the first half, second half or full payment link, and finish at a third-party payment page.</li></ul>"
+   "h2": "Papers to keep for your title company",
+   "html": "<p>Hold on to anything that shows what you have paid: bill stubs, online payment confirmations and any letter from the Treasurer or Assessor. Add your latest notice of value and the parcel number. If you are selling a house you inherited, add proof that you are the person now responsible for the tax, because notices may still be mailed to the previous owner. Handing this folder to escrow at the start saves days of back and forth later.</p>"
   },
   {
-   "h2": "What does it cost to pay late in Coconino County?",
-   "html": "<p>Unpaid tax carries 16 percent simple interest per year after it turns delinquent, with partial months rounded up to whole months (A.R.S. 42-18053). Paying the full year's tax by December 31 of the tax year stops the interest, and interest is not collected where the county's own error caused the delinquency.</p><p>An owner who has just paid off a mortgage and then falls behind on taxes can ask for a one-time interest waiver, which needs the county board of supervisors' approval.</p>"
+   "h2": "Selling a rental or a vacant house",
+   "html": "<p>Many Coconino County houses are not lived in year-round, and rentals turn over often. When a house is empty or tenants have come and gone, bills can pile up at an old mailing address. Update the tax statement address with the county, look through any mail that reached the property, and ask the Treasurer whether more than one year is open. Showing the buyer a clean payoff letter makes the closing smoother than discovering an old balance at the table.</p>"
   },
   {
-   "h2": "How does the lien work if you sell a Coconino County house?",
-   "html": "<p>Property tax is a lien on the property that attaches on January 1 of the tax year, and it ranks ahead of nearly all other liens (A.R.S. 42-17153). It stays until the tax is paid in full, until a tax sale purchaser takes title, or until a certificate of removal and abatement issues.</p><p>When a Coconino County owner signs a contract, the escrow officer asks the Treasurer for the balance. The amount due, with interest if any, is deducted from the seller's proceeds. A payoff is a standard line on a settlement statement.</p>"
+   "h2": "Questions to ask the Treasurer",
+   "html": "<p>A short phone call answers most of what you need. Ask for the balance owed today, the balance on the date you expect to close, and whether any earlier year is still open. Ask how a payoff is delivered to escrow, and whether the office wants a written request from the title company. Jot down the date of the call and the name of whoever helped you, then pass the figures to your escrow officer.</p><p>If anything seems off, such as a payment you made that is not showing, bring your receipt or confirmation. A county mistake is one of the few reasons interest is not collected, and it is much easier to sort out before closing than after.</p>"
   },
   {
-   "h2": "How do you challenge a Coconino County valuation?",
-   "html": "<p>Start with the assessor's annual notice of value, which Arizona law requires to be mailed before March 1 (A.R.S. 42-15101). Then file a petition for review within 60 days of the mailing date, counting the postmark as the filing date (A.R.S. 42-16051).</p><p>The petition needs the owner's opinion of the full cash value and a stated method, such as at least one comparable property or the recent sale of the home. The assessor can amend a notice within 60 days of mailing if a data error affected a group of properties, and after that the roll can change only through the appeal process.</p><p>Confirm your own dates with the Assessor's Office, since the notice date can differ by year.</p>"
+   "h2": "How the lien works when you sell",
+   "html": "<p>Every January 1 the year's tax attaches to the property and ranks ahead of nearly all other liens (A.R.S. 42-17153). Only three events release it: payment in full, a tax sale buyer taking title, or a certificate of removal and abatement.</p><p>After a contract is signed, the escrow officer requests the balance from the Treasurer. The amount, plus interest if any, is deducted from what you receive, and payoff lines like this are routine on settlement statements.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>Owing tax does not stop a sale from going through. Work through it in this order:</p><ol><li>Phone the Treasurer with your parcel number and ask for what is owed.</li><li>Learn which pieces are open, whether one half, both, or an older year.</li><li>Pass the number to your title company so it is baked into the closing figures.</li><li>Sign at escrow. The county gets paid from your proceeds and the lien is cleared.</li></ol><p>A cash purchase adds no lender timeline on top of this, so the tax payoff is often the only item on the schedule that depends on a county office.</p><p>Fast closings work best when the figures are ready early. A buyer who pays cash and skips an appraisal can sign within days, which only helps if you already know what the Treasurer will want. Ask for the payoff as soon as you have a signed contract, and again a few days before the closing date in case the amount has changed.</p>"
+  },
+  {
+   "h2": "How to challenge your valuation",
+   "html": "<p>The yearly notice of value is your starting point, and state law has the assessor mail it before March 1 (A.R.S. 42-15101). If you disagree with it, you have 60 days from the mailing date to file a petition for review, and a postmark is accepted as the filing date (A.R.S. 42-16051).</p><p>In the petition you give your own view of full cash value and explain how you got there. A comparable property works, and so does the recent sale of your house. Separately, when a data error touched a group of properties, the assessor may amend notices within 60 days of mailing. Past that point the roll changes only through an appeal.</p><p>Call the Assessor's Office to confirm the dates on your own notice, because the mailing date shifts from year to year.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Where do I pay Coconino County property tax?",
-   "a": "You can pay online through the Treasurer's portal, by calling the automated line at 877-884-8060, or at the Treasurer's office at 110 E. Cherry Avenue in Flagstaff. Have your account number or parcel number ready."
+   "q": "Where can I pay Coconino County property tax?",
+   "a": "Use the Treasurer's online portal, the automated phone line at 877-884-8060, or the counter at 110 E. Cherry Avenue in Flagstaff. Your account or parcel number is the one thing every method asks for."
   },
   {
-   "q": "What are the Coconino County Treasurer's hours?",
-   "a": "The Treasurer's tax portal lists hours of 8 a.m. to 5 p.m., Monday through Friday. Call (928) 679-8188 or (877) 500-1818 to confirm before you visit."
+   "q": "When is the Treasurer's office open?",
+   "a": "Monday through Friday, 8 a.m. to 5 p.m. A quick call to (928) 679-8188 or (877) 500-1818 confirms it before you drive over."
   },
   {
-   "q": "How much interest applies to late Coconino County taxes?",
-   "a": "Delinquent taxes bear 16 percent simple interest per year under Arizona law. Interest is waived if the full year is paid by December 31 or the delinquency was caused by a county error."
+   "q": "What interest do late Coconino County taxes carry?",
+   "a": "Sixteen percent a year, simple. It is not collected if the full year is paid by December 31 or if a county error caused the delinquency."
   },
   {
-   "q": "Is Coconino County the largest county in Arizona?",
-   "a": "Yes. At 18,661 square miles, Coconino County is the largest county in Arizona and the second largest in the contiguous United States."
+   "q": "How long do I have to dispute the assessor's value?",
+   "a": "Two months, in practice: the window is sixty days from the mailing date of the notice, and your postmark is your filing date."
   },
   {
-   "q": "Can I sell a Coconino County house if the tax bill is unpaid?",
-   "a": "Yes. The bill is a lien that has to be paid at closing, and the amount comes out of the seller's proceeds. The title company will get the balance from the Treasurer."
+   "q": "Can I close on a Coconino County house with an unpaid tax bill?",
+   "a": "Yes. Because the bill is a lien, escrow settles it at closing out of your proceeds after getting the balance from the Treasurer."
   }
  ],
  "sources": [

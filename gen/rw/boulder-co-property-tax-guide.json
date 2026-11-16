@@ -2,58 +2,46 @@
  "slug": "boulder-co-property-tax-guide",
  "sections": [
   {
-   "h2": "Where is Boulder, and who bills property tax there?",
-   "html": "<p>Boulder is the county seat of Boulder County, set at the base of the Rocky Mountain foothills about 25 miles northwest of Denver. The Boulder County Treasurer bills and collects the tax, and the Boulder County Assessor sets the value.</p><p>The city does not run a separate property tax office. A Boulder homeowner gets one bill that adds up the levies of every taxing body on the parcel, such as the school district and local governments. The Treasurer's office is at 1325 Pearl St. in Boulder, and its phone is 303-441-3520.</p><p>The city has about 26 square miles of land and a 2025 Census estimate of 105,689 residents, down slightly from 108,250 in the 2020 count. Denver International Airport is roughly 33 miles east-southeast.</p>"
+   "h2": "Who bills property tax in Boulder",
+   "html": "<p>Boulder lies against the Rocky Mountain foothills roughly 25 miles northwest of Denver and serves as the Boulder County seat. The city runs no property tax office. The Boulder County Treasurer bills and collects, and the Boulder County Assessor sets the value. Homeowners receive a single bill that totals the levies from each taxing body covering the parcel, including the school district and local governments.</p><p>The Treasurer's office is at 1325 Pearl St. in Boulder, and the phone is 303-441-3520.</p><p>On the housing side, the city had 105,689 residents in a 2025 estimate, down slightly from 108,250 in 2020. Only 47.2% of homes are owner-occupied, the median home value is $1,039,500 and median gross rent is $2,018. With values that high, the tax bill is large in dollars even when the rate is modest, and a missed payment grows quickly because the penalty is a percentage of the bill. Small percentages add up fast on a bill this size, so it pays to know the date before the month turns.</p>"
   },
   {
-   "h2": "What does Boulder's history mean for a house there today?",
-   "html": "<p>Boulder began as a gold camp. Prospectors led by Thomas Aikins reached Boulder Canyon in late 1858, gold turned up along Boulder Creek in early 1859, and the town was incorporated on November 4, 1871.</p><p>The Colorado General Assembly chose Boulder for the University of Colorado in 1861, and the campus opened on September 5, 1877. Colorado became a state on August 1, 1876.</p><p>Older houses can carry deferred repairs. A buyer who pays cash and takes the house as-is can skip the repair negotiations that often stall a conventional sale.</p>"
+   "h2": "Older homes and as-is sales",
+   "html": "<p>Boulder started as a gold camp when prospectors arrived in late 1858, and the town was incorporated in 1871, so plenty of houses are old and some carry deferred repairs. Selling as-is to a cash buyer avoids the repair haggling that so often stalls a financed sale. Water is the other issue buyers raise. The September 2013 floods put 9.08 inches of rain on Boulder in a single day, and Boulder County had 262 homes destroyed and nearly 300 damaged. Ask your title company and insurer about flood history for any parcel near a creek, and keep your repair records.</p>"
   },
   {
-   "h2": "What do Census figures say about Boulder housing?",
-   "html": "<p>The Census Bureau shows that fewer than half of Boulder homes are owner-occupied,. These are the QuickFacts numbers for the city.</p><table><thead><tr><th>Measure</th><th>Boulder city</th></tr></thead><tbody><tr><td>Population, 2020 Census</td><td>108,250</td></tr><tr><td>Population estimate, July 1, 2025</td><td>105,689</td></tr><tr><td>Owner-occupied housing rate, 2020-2024</td><td>47.2%</td></tr><tr><td>Median value of owner-occupied homes, 2020-2024</td><td>$1,039,500</td></tr><tr><td>Median gross rent, 2020-2024</td><td>$2,018</td></tr><tr><td>Households, 2020-2024</td><td>44,432</td></tr><tr><td>Persons per household</td><td>2.12</td></tr><tr><td>Median household income, 2020-2024</td><td>$87,493</td></tr></tbody></table><p>A median home value above $1 million means the tax bill is large in dollars even when the rate is modest. It also means a missed payment grows quickly, because the penalty is a percentage of the bill.</p>"
+   "h2": "Due dates and late interest",
+   "html": "<p>You can pay in two halves, due about March 2 and June 15, or in one full payment due April 30. Paying early earns no discount. Late interest is a percentage that depends on the month paid.</p><table><thead><tr><th>Month paid</th><th>First half</th><th>Full payment</th><th>Second half</th></tr></thead><tbody><tr><td>March</td><td>1%</td><td>Not late</td><td>Not late</td></tr><tr><td>April</td><td>2%</td><td>Not late</td><td>Not late</td></tr><tr><td>May</td><td>3%</td><td>1%</td><td>Not late</td></tr><tr><td>June 1 to 15</td><td>4%</td><td>2%</td><td>Not late</td></tr><tr><td>June 16 to 30</td><td>4%</td><td>2%</td><td>1%</td></tr><tr><td>July</td><td>5%</td><td>3%</td><td>2%</td></tr><tr><td>August</td><td>6%</td><td>4%</td><td>3%</td></tr></tbody></table><p>For September through December, phone the Treasurer for the current amount. Certified funds are required for delinquent payments and for anything paid after September 1. The postmark date is what counts on a mailed check.</p>"
   },
   {
-   "h2": "Who are the major employers around Boulder?",
-   "html": "<p>The University of Colorado Boulder is the largest employer, followed by Ball Corporation. Wikipedia's 2022 employer list for the Boulder area gives these headcounts.</p><ul><li>University of Colorado Boulder: 6,200</li><li>Ball Corporation: 4,800</li><li>Boulder Valley School District: 3,832</li><li>St. Vrain Valley School District: 3,570</li><li>Boulder Community Health: 2,360</li></ul><p>The same source puts the metro area's 2022 economic output at $35.608 billion. Employers this large mean Boulder houses are often sold by people relocating for work.</p>"
+   "h2": "How the bill is figured",
+   "html": "<p>Each taxing body multiplies its mill levy by your assessed value, which is the actual value of the home times an assessment rate. A mill equals $1 of tax for each $1,000 of assessed value.</p><ul><li>Residential, school districts: 7.05% in 2025 and 2026.</li><li>Residential, local government: 6.25% in 2025 and 6.8% in 2026.</li><li>In 2026, local government math starts by taking 10% off the first $700,000 of actual value.</li></ul><p>Your own bill depends on the districts that cover your address, and the Treasurer's lookup shows the real figure. Before listing, pull the latest bill so you can tell buyers what the taxes run.</p>"
   },
   {
-   "h2": "How does Boulder's weather affect a house?",
-   "html": "<p>Boulder gets cold winters with chinook winds, warm summers with afternoon thunderstorms, and heavy water events now and then. Snowfall averages roughly 88 inches a season by the article's text, and annual precipitation is about 21.2 inches.</p><p>About 30 days a year reach 90 degrees or more. The record high is 104 degrees and the record low is minus 33. Roofs and heating systems carry real load here.</p><p>The September 2013 floods are the best-known example of water risk. Boulder recorded 9.08 inches of rain on September 12 alone, and Boulder Creek ran above 5,000 cubic feet per second against a normal 150 to 200. Boulder County had 262 homes destroyed and nearly 300 damaged. Ask the title company and your insurer about flood history on any parcel near a creek.</p>"
+   "h2": "How to appeal your assessment",
+   "html": "<p>File with the Assessor from May 1 to June 8. The county enforces that window strictly. Filing options are email, mail, fax, the online portal, a drop box in Boulder, Lafayette or Longmont, and the counter at 1325 Pearl St.</p><p>Back your appeal with comparable sales and any errors on the property record. Sales from July 1, 2022 to June 30, 2024 are the comparison window this cycle. A Notice of Determination follows from the Assessor by August 15, and a written appeal to the Board of Equalization is then possible on or before September 15.</p><p>The tax itself is outside the Assessor's reach. City councils, school boards and special districts set the levies, so an appeal can only challenge value.</p>"
   },
   {
-   "h2": "What do open space and transit mean for Boulder neighborhoods?",
-   "html": "<p>Boulder's greenbelt limits where new houses can go, which keeps existing ones in demand. The city's open space program traces back to 1899, and voters approved a dedicated open space sales tax in 1967. The Open Space and Mountain Parks department manages about 8,000 acres of forest west of town.</p><p>The Regional Transportation District runs the bus service, including the HOP, SKIP, JUMP and Flatiron Flyer routes, and US 36 links the city to Denver. Boulder has no rail line today. The proposed Northwest Rail Line would reach it only by 2044, funding permitting.</p>"
+   "h2": "Selling with taxes owed",
+   "html": "<p>Boulder County sells liens on unpaid real property tax at an annual auction held in November, and liens sold in 2026 earn 13% a year. A list of advertised properties is posted by the Treasurer and refreshed every Friday. Mobile home taxes are not auctioned and are struck off to the county.</p><p>Each year's tax lien attaches January 1, which makes that year's tax a live item at closing. Anything you owe is paid by the title company out of your proceeds. Request a payoff early, so an unexpected figure does not push back the closing.</p>"
   },
   {
-   "h2": "When is Boulder property tax due, and what does a late payment cost?",
-   "html": "<p>For 2026 the Boulder County Treasurer lists two ways to pay: two half payments due March 2 and June 15, or one full payment due April 30. The county says there are no discounts for early payment.</p><p>Late interest is a percentage that depends on the month paid.</p><table><thead><tr><th>Month paid</th><th>First half</th><th>Full payment</th><th>Second half</th></tr></thead><tbody><tr><td>March</td><td>1%</td><td>Not late</td><td>Not late</td></tr><tr><td>April</td><td>2%</td><td>Not late</td><td>Not late</td></tr><tr><td>May</td><td>3%</td><td>1%</td><td>Not late</td></tr><tr><td>June 1 to 15</td><td>4%</td><td>2%</td><td>Not late</td></tr><tr><td>June 16 to 30</td><td>4%</td><td>2%</td><td>1%</td></tr><tr><td>July</td><td>5%</td><td>3%</td><td>2%</td></tr><tr><td>August</td><td>6%</td><td>4%</td><td>3%</td></tr></tbody></table><p>For September through December, the county says to contact the office. Delinquent payments must be in certified funds, and so must any payment made after September 1. A mailed payment counts on its postmark date.</p>"
+   "h2": "Selling a rental",
+   "html": "<p>Every Boulder rental needs a city license, and a sale resets the paperwork. A new owner needs a rental inspection and a new license application.</p><ul><li>The rental license fee is $190, and inspections are done by private inspectors who set their own prices.</li><li>Long-term rentals must hold SmartRegs energy certification before the license application is submitted.</li><li>Owners who live outside Boulder County must name a local agent who can reach the property within 60 minutes.</li><li>Short-term rentals must be the owner's principal residence and last no more than 29 days, and the license is no longer valid if the property is sold.</li></ul><p>A buyer who purchases a rental as-is takes on the licensing step, so a cash buyer is a practical fit for landlords who want out. If tenants are in place, gather the leases before you list, and tell the tenants early about showings. Landlords often find the timing the hardest part: a lease end, a failed inspection or a missing energy certificate can each stretch a sale by weeks, whereas an as-is buyer takes those items on after closing.</p>"
   },
   {
-   "h2": "How is the tax figured, and what rates apply?",
-   "html": "<p>Boulder County bills assessed value times the mill levy, and assessed value is actual value times an assessment rate. One mill is $1 of tax per $1,000 of assessed value.</p><p>The county's calculator page lists these rates for the next two cycles.</p><ul><li>Residential, school districts: 7.05% in 2025 and 2026.</li><li>Residential, local government: 6.25% in 2025 and 6.8% in 2026.</li><li>For 2026, the local government calculation first subtracts 10% of the first $700,000 of actual value.</li></ul><p>The county's worked example is an $800,000 home with a school levy of 30 mills and a local levy of 65 mills. It comes to $4,942 for 2025 and $4,919 for 2026, before senior exemptions. Your own bill depends on the districts that cover your address, so use the Treasurer's lookup.</p>"
+   "h2": "Preparing a Boulder house for sale",
+   "html": "<p>Start with paperwork. Pull your most recent tax bill, your notice of valuation and any appeal records, and gather the repair history for the roof, the heating system and any flood or water work. Because bills here are large, buyers pay attention to what the yearly tax runs, and a clear answer helps you hold your price.</p><p>Next, confirm what is owed. A call to the Treasurer gets you the current balance, and the county's property list shows whether the parcel is advertised for the lien sale. If the house is a rental, confirm the license status and the inspection date, since both reset at sale.</p><p>Finally, decide how you want to sell. A traditional listing means showings, buyer inspections and a lender's schedule. A cash sale skips the showings and the loan approval, and closes when you pick the date. Either way, the deed is recorded in Boulder County, and the title company settles the tax payoff from your proceeds.</p>"
   },
   {
-   "h2": "How do you appeal a Boulder property value?",
-   "html": "<p>You file with the Assessor between May 1 and June 8, and the county says deadlines are strictly enforced. Filing options are email, mail, fax, an online portal, a drop box in Boulder, Lafayette or Longmont, or in person at 1325 Pearl St.</p><p>Bring comparable sales and any record errors. The comparison period for the current cycle is July 1, 2022 to June 30, 2024. The Assessor mails a Notice of Determination by August 15, and you can then appeal in writing to the Board of Equalization on or before September 15.</p><p>You cannot appeal the tax itself through the Assessor, since levies are set by budgeting bodies such as city councils, school boards and special districts.</p>"
-  },
-  {
-   "h2": "What if you owe tax and the lien goes to sale?",
-   "html": "<p>Boulder County sells liens on unpaid real property tax at an annual auction. The county's page lists the 2026 sale for November 13, and liens sold in 2026 carry 13% a year.</p><p>The Treasurer updates its list of advertised properties each Friday. Mobile home taxes are struck off to the county instead of being auctioned. Colorado's assessment calendar says the general tax lien attaches on January 1, so the year's tax is a live item at a closing.</p>"
-  },
-  {
-   "h2": "What do Boulder rental rules mean if you own a rental?",
-   "html": "<p>Every Boulder rental needs a city license, and a sale resets the paperwork. The city says a rental inspection and a new license application are needed when ownership changes.</p><ul><li>The rental license fee is $190, and inspections are done by private licensed inspectors who set their own prices.</li><li>Long-term rentals must hold SmartRegs energy certification before the license application is submitted.</li><li>Owners who live outside Boulder County must name a local agent who can reach the property within 60 minutes.</li><li>Short-term rentals must be the owner's principal residence, last no more than 29 days, and the license is no longer valid if the property is sold.</li></ul><p>A buyer who purchases a rental as-is takes on the licensing step, so a cash buyer is a practical fit for landlords who want out.</p>"
-  },
-  {
-   "h2": "What happens at closing when you sell a Boulder house?",
-   "html": "<p>The seller's side usually sees three items: the unpaid property tax, the county's documentary fee, and the recording fee. Colorado's documentary fee is one cent per $100 of consideration over $500, set by C.R.S. 39-13-102 and collected by the county clerk and recorder.</p><p>Boulder County's recording fee is $43 per document as of July 1, 2025, and its clerk's office is at 1750 33rd St., Suite 201. If you owe back tax, the title company pays it from your proceeds and shows the figure on the settlement statement. Ask for that figure early so a surprise does not delay the closing.</p>"
+   "h2": "Closing costs on the seller's side",
+   "html": "<p>On the seller's side you will see three charges: any unpaid property tax, the county's documentary fee and the recording fee. The state sets the documentary fee at one cent per $100 of consideration above $500 (C.R.S. 39-13-102), and the county clerk and recorder collects it.</p><p>Recording a document in Boulder County costs $43 as of July 1, 2025. The clerk's office is at 1750 33rd St., Suite 201. Before signing, have your title company explain each line of the settlement statement. Questions worth asking: what tax figure was used, whether any interest was added, and who will record the deed and on what day. Those three answers cover most of the surprises sellers report.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "When is Boulder property tax due in 2026?",
-   "a": "The Boulder County Treasurer lists March 2 and June 15 for two half payments, or April 30 for one full payment. Late interest starts the day after each due date and climbs each month."
+   "q": "When is Boulder property tax due?",
+   "a": "Two half payments are due around March 2 and June 15, or one full payment is due April 30. Late interest starts the day after each due date and climbs each month."
   },
   {
    "q": "Does the City of Boulder collect property tax?",
@@ -61,15 +49,15 @@
   },
   {
    "q": "Can I sell my Boulder house if I owe property tax?",
-   "a": "Yes. The title company normally pays the balance from your sale proceeds at closing. Get a payoff figure from the Treasurer at 303-441-3520 before you set a closing date."
+   "a": "Yes. Your sale proceeds normally cover the balance at closing. Call the Treasurer, 303-441-3520, for a payoff number before choosing a closing date."
   },
   {
    "q": "What is the last day to appeal my Boulder valuation?",
-   "a": "June 8 for the Assessor, with the postmark or submission due by 11:59 p.m. that day. A written Board of Equalization appeal follows on or before September 15 if you disagree with the determination."
+   "a": "The Assessor must receive it by 11:59 p.m. on June 8. If you disagree with the determination, a written Board of Equalization appeal is due by September 15."
   },
   {
    "q": "Do I need a rental license to sell a Boulder rental?",
-   "a": "You do not need one to sell, but the next owner must apply for a new license and pass an inspection. A short-term rental license ends when the property is sold."
+   "a": "Not to sell. The next owner, though, must pass an inspection and apply for a new license, and a short-term rental license ends at sale."
   }
  ],
  "sources": [

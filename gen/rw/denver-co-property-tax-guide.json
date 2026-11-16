@@ -2,70 +2,62 @@
  "slug": "denver-co-property-tax-guide",
  "sections": [
   {
-   "h2": "What kind of place is Denver for property tax purposes?",
-   "html": "<p>Denver is a consolidated city and county, so one government handles what a city and a county handle elsewhere. According to <a href=\"https://en.wikipedia.org/wiki/Denver\">Wikipedia</a>, it consolidated as the City and County of Denver on December 1, 1902, and it is described as the only U.S. state capital that is a consolidated city-county.</p><p>Adams, Arapahoe and Jefferson counties surround it. The city covers about 154.7 square miles, sits at an official elevation of 5,280 feet, and was platted on November 17, 1858 at the meeting of Cherry Creek and the South Platte River. The 2020 census counted 715,522 residents, and the page gives a 2025 estimate of 740,613.</p><p>For a seller, the consolidation means one set of offices. The Assessor values your house, the Treasury Division bills the tax, and the Clerk and Recorder files your deed, all inside the same city government.</p>"
+   "h2": "Denver as a tax jurisdiction",
+   "html": "<p>Since December 1, 1902 Denver has been both a city and a county. Where other places have a city hall and a separate courthouse, here a single government does both jobs. About 715,522 people lived in its 78 official neighborhoods at the 2020 count, with Adams, Arapahoe and Jefferson counties around the edges.</p><p>For a seller that means fewer stops. One city government employs the Assessor who prices your house, the Treasury staff who bill it and the Recorder who files the deed. Hail is the weather problem people bring up, because Denver sits tenth among U.S. cities of 50,000 or more for hailstorm exposure. Expect buyers to ask how old the roof is.</p>"
   },
   {
-   "h2": "Which Denver neighborhoods and employers shape the housing market?",
-   "html": "<p>Denver has 78 official neighborhoods, and the Wikipedia article lists the City and County of Denver, Denver Public Schools, the State of Colorado, Denver Health and United Airlines as top 2023 employers.</p><table><thead><tr><th>Employer</th><th>2023 employees</th></tr></thead><tbody><tr><td>City and County of Denver</td><td>13,584</td></tr><tr><td>Denver Public Schools</td><td>12,693</td></tr><tr><td>State of Colorado</td><td>10,686</td></tr><tr><td>Denver Health and Hospital Authority</td><td>9,502</td></tr><tr><td>United Airlines</td><td>7,230</td></tr></tbody></table><p>Government, energy and mining, telecommunications and logistics are the sectors the article names.</p>"
+   "h2": "How the Denver tax bill is calculated",
+   "html": "<p>Take actual value, subtract a value reduction, multiply by an assessment rate, then multiply by the mill levy. The Assessor's FAQ gives these 2024 inputs:</p><table><thead><tr><th>Property type</th><th>Value reduction per parcel</th><th>Assessment rate</th></tr></thead><tbody><tr><td>Residential</td><td>$55,000</td><td>6.7%</td></tr><tr><td>Commercial improved</td><td>$30,000</td><td>27.9%</td></tr><tr><td>All other</td><td>$0</td><td>27.9%</td></tr></tbody></table><p>Denver's combined general mill levy for 2024 came to 79.202 mills, or 0.079202 as a decimal. Taxing authorities settle on levies every December and neither levies nor rates stay put, so rely on your own bill for current numbers.</p><p>Real property gets a fresh appraisal in odd-numbered years only. A house is priced by the market approach, which looks at sales in the two years that ended the previous June 30.</p>"
   },
   {
-   "h2": "What does Denver weather mean for a house?",
-   "html": "<p>Hail is the main weather risk the sources point to. Wikipedia says Denver ranks tenth among U.S. cities of 50,000 or more for hailstorm exposure and has had three of the ten costliest hailstorms in the country.</p><p>The climate is cool and semi-arid with about 3,100 hours of sunshine a year and roughly 49 to 53 inches of snow. For owners, that points to roof age and condition as a recurring question. Roof age and condition are worth knowing before you talk to any buyer.</p>"
+   "h2": "Due dates and the yearly calendar",
+   "html": "<p>You have two ways to pay: halves on the last day of February and June 15, or a single payment by April 30. Treasury's calendar covers the rest of the year:</p><ul><li>January: yearly tax statements go in the mail.</li><li>April 1: last day to apply for a deferral.</li><li>April 15: personal property declarations.</li><li>April 30: full payment, plus the cutoff for the elderly and disabled refund application.</li><li>May through August: notices go to delinquent accounts.</li><li>July 1: later delinquencies open up for tax lien buyers to endorse.</li><li>July 15: senior and disabled veteran exemption applications.</li><li>September and October: delinquent taxes appear in a newspaper notice.</li><li>October: the real estate tax lien auction.</li></ul><p>For an exact payoff on a delinquent account, including penalty and interest, call Treasury.</p>"
   },
   {
-   "h2": "How is Denver property tax figured?",
-   "html": "<p>Taxes equal actual value minus a value reduction, times an assessment rate, times the mill levy. The <a href=\"https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Finance/Our-Divisions/Assessors-Office/Assessment-FAQ\">Denver Assessor FAQ</a> gives the 2024 figures in the table.</p><table><thead><tr><th>Property type</th><th>Value reduction per parcel</th><th>Assessment rate</th></tr></thead><tbody><tr><td>Residential</td><td>$55,000</td><td>6.7%</td></tr><tr><td>Commercial improved</td><td>$30,000</td><td>27.9%</td></tr><tr><td>All other</td><td>$0</td><td>27.9%</td></tr></tbody></table><p>Denver's combined general mill levy for 2024 was 79.202 mills, or 0.079202. Taxing authorities set levies in December, and levies and rates change from year to year, so treat these as 2024 numbers and look at your own bill.</p><p>Real property is reappraised every two years, in odd-numbered years. Residential values come from the market approach, using sales in the 24 months ending June 30 of the prior year.</p>"
+   "h2": "Protesting your Denver valuation",
+   "html": "<p>Mark June 8 on the calendar every year. If it falls on a weekend or holiday you get the next business day. Your Notice of Valuation explains how to submit in writing, in person or online.</p><p>A good protest names your parcel or schedule number, gives a phone number you will answer in the daytime, and states plainly why the value is off. Back it up with sales of comparable houses or evidence of problems like a bad foundation or failing roof. Lose, and you can still take it to the State Board of Assessment Appeals, to District Court, or to binding arbitration.</p><p>Skipped a protest in the past? You may reach back up to two earlier years with a petition to the Board of County Commissioners for abatement or refund of taxes.</p>"
   },
   {
-   "h2": "When is Denver property tax due?",
-   "html": "<p>Half is due on the last day of February and half on June 15, or the whole amount by April 30. The Treasury's <a href=\"https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Finance/Our-Divisions/Treasury/Property-Taxes/Property-Tax-Calendar\">property tax calendar</a> lays out the year.</p><ul><li>January: annual tax statements are mailed.</li><li>April 1: deferral applications are due.</li><li>April 30: full payment due, and the elderly and disabled refund application deadline.</li><li>May through August: delinquency notices are mailed.</li><li>July 1: later delinquencies become available for tax lien buyers to endorse.</li><li>September and October: delinquent taxes are advertised in the local newspaper.</li><li>October: the real estate tax lien auction is held.</li></ul><p>Denver also lists July 15 as the application date for senior and disabled veteran exemptions, and an April 15 date for personal property declarations. The calendar does not list penalty or interest rates, so ask Treasury for the payoff on any delinquent account.</p>"
+   "h2": "Deferral for seniors and active military",
+   "html": "<p>Through the county treasurer, Colorado allows certain owners to put off paying. The application window is January 1 to April 1, and eligible groups are owners 65 or older and active-duty military.</p><p>A senior applicant must reach 65 by December 31, occupy the house, be current on earlier taxes, owe no more than 75 percent of actual value in liens and mortgages, and carry no reverse mortgage. Active-duty applicants meet another test: liens, mortgages and deferrals combined must stay below 100 percent of actual value with a VA-guaranteed loan, or 90 percent without.</p><p>What you defer is really a loan, recorded behind your mortgage as a junior lien and accruing interest from May 1. Sign a sale contract and repayment comes due within 90 days. Request the payoff figure early so your title company can fold it into closing.</p>"
   },
   {
-   "h2": "How do you protest a Denver property value?",
-   "html": "<p>The protest deadline is June 8 each year, or the next business day if June 8 falls on a weekend or holiday. You can file in writing, in person or online with the instructions on your Notice of Valuation.</p><p>Include your reasons, evidence such as sales of similar homes or condition problems, your parcel or schedule number and a daytime phone number. If you disagree with the decision, you can go to the State Board of Assessment Appeals, to District Court, or to binding arbitration.</p><p>The Assessor also says you may protest up to two prior years' values that you did not protest at the time, using a Board of County Commissioners petition for abatement or refund of taxes.</p>"
+   "h2": "Storm drain and sewer liens",
+   "html": "<p>Storm drain and sanitary sewer service are billed on their own statements, and an unpaid one can cling to the property alongside regular tax. Storm drain bills arrive in February, April, June and August; sewer bills in March, May, July and September.</p><p>Title searchers will spot any unpaid service lien and list it as a payoff. Get the balance from Treasury before you put the house up. For other city questions, dial 3-1-1, or (720) 913-1311 from outside Denver.</p>"
   },
   {
-   "h2": "Can seniors or active military defer Denver property tax?",
-   "html": "<p>Colorado runs a deferral program through the county treasurer, and applications run January 1 to April 1. The state treasury says it covers owners 65 or older and active-duty military who meet its rules.</p><p>For seniors, the page requires age 65 by December 31 of the year, residence at the property, prior taxes paid, liens and mortgages of no more than 75 percent of actual value, and no reverse mortgage. The deferral is a loan recorded as a junior lien, with interest running from May 1. A sale or contract of sale makes repayment due 90 days later.</p><p>Anyone selling a Denver house with a deferral on it should ask for the payoff early, so the title company can include it at closing. Active-duty military applicants have a different test: liens, mortgages and deferrals together must stay under 100 percent of actual value for VA-guaranteed loans, or 90 percent otherwise.</p>"
+   "h2": "The October lien auction",
+   "html": "<p>Taxes that stay unpaid through summer are advertised in September and October, and the real estate tax lien auction follows in October. Buyers at the auction are paying your tax in return for a claim, which then has to be cleared before a clean sale. Delinquency notices start in May, so the sooner you deal with a balance, the fewer steps remain.</p><p>If a notice arrives for an account you believe is paid, gather your payment dates and the parcel ID and contact Treasury quickly. A wrong notice left alone can still drift toward the sale list.</p>"
   },
   {
-   "h2": "What happens if you sell a Denver house with property tax due?",
-   "html": "<p>The title company asks Treasury for the amount owed and pays it from your proceeds at closing. You do not have to find the money first.</p><p>The sooner the account is current, the fewer steps remain. An account that moved toward the October lien sale needs the lien buyer's payoff in addition to the tax. In that case, a title officer who knows Denver's process saves time.</p><p>If you owe back tax on a Denver house, are behind on payments or inherited it, we can send you a written cash offer for the house as it stands. You decide whether it works.</p>"
+   "h2": "What to gather before you list",
+   "html": "<p>Pull together your latest tax statement, your Notice of Valuation and any deferral paperwork. Note whether you protested this year and whether a protest is still open. If your mortgage includes escrow, ask the lender for its payment history so the title officer can match it against what Treasury shows.</p><p>Sellers who inherited a house should also locate any storm drain or sewer statements, since those are separate from the main bill and easy to miss. Ask the title company early which of the three items, tax, service lien or deferral, show a balance, so no payoff surprises you at the closing table. Seniors and disabled owners who claimed an exemption should confirm it is still in place, because the July 15 application date comes around every year and a lapse can raise the next bill.</p>"
   },
   {
-   "h2": "How do you get to and around Denver?",
-   "html": "<p>Denver International Airport is about 20 miles from downtown and serves as the city's official weather station. Wikipedia also notes that a commuter railway system began operating in the metro area in 2015.</p><p>The metro area has about 3.1 million residents, and its 2023 gross domestic product was $311.9 billion, the 18th largest among U.S. metro economies. Denver Public Schools alone employed about 12,700 people in 2023.</p>"
-  },
-  {
-   "h2": "What are Denver service liens for storm drain and sewer?",
-   "html": "<p>Denver mails separate lien statements for storm drain and sanitary sewer service, and these can show up on a property alongside regular tax. The Treasury calendar says storm drain statements go out in February, April, June and August, and sanitary sewer statements in March, May, July and September.</p><p>If a seller has an unpaid service lien, the title company will find it in its search and list it as a payoff. Ask Treasury about the balance early.</p><p>For general city questions, Denver lists 3-1-1, or (720) 913-1311 from outside the city, as its main number.</p>"
+   "h2": "Selling with taxes owed",
+   "html": "<p>A tax balance is not a barrier to selling. Treasury gives the title company a figure, and the money is taken from your sale proceeds, so nothing comes out of pocket beforehand. Typical order of events:</p><ol><li>The current balance is pulled, along with any earlier years still open.</li><li>The title search surfaces service liens, a deferral lien and anything sold at the October auction.</li><li>Each one turns into a payoff line on the settlement statement.</li><li>Treasury is paid when the sale closes.</li></ol><p>Once a lien has been sold, the buyer's payoff is owed on top of the tax, which is where an experienced Denver title officer earns their fee. If you think a delinquent notice is wrong, write to propertytaxinfo@denvergov.org with your parcel ID, address and payment dates.</p><p>Behind on tax, or inherited a Denver house you don't want? We can send a written cash offer for it in its current condition. A cash sale skips the repairs and showings, and the decision stays with you.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When is Denver property tax due?",
-   "a": "The first half is due the last day of February, the second half June 15, and full payment April 30. Dates falling on a weekend or holiday move to the next business day."
+   "a": "Either split it between the last day of February and June 15, or pay it all by April 30. A weekend or holiday pushes the date to the next business day."
   },
   {
    "q": "What is the Denver property tax protest deadline?",
-   "a": "June 8 each year, or the next business day. You can file in writing, in person or online per the Notice of Valuation."
+   "a": "June 8, or the next business day if that is a weekend or holiday. Your Notice of Valuation explains how to file."
   },
   {
    "q": "What was Denver's mill levy in 2024?",
-   "a": "The Assessor's FAQ gives a combined general mill levy of 79.202 mills for 2024. Levies are set each December, so use the figure on your current bill."
+   "a": "Denver's combined general levy came to 79.202 mills. Because levies change each December, check your current bill."
   },
   {
    "q": "How often does Denver reappraise homes?",
-   "a": "Every two years, in odd-numbered years. Residential values use only the market approach, based on sales in the 24 months ending June 30 of the prior year."
-  },
-  {
-   "q": "Does Denver run a tax lien sale?",
-   "a": "Yes. Delinquent taxes are advertised in September and October, and the real estate tax lien auction is held in October, per the Treasury calendar."
+   "a": "In odd-numbered years only. Values reflect sales from the two years ending the previous June 30."
   },
   {
    "q": "Does selling a Denver house trigger the property tax deferral repayment?",
-   "a": "Yes. A sale or contract of sale makes repayment due 90 days afterward under Colorado's deferral program."
+   "a": "Yes. Under the state program, a sale or contract of sale starts a 90 day clock for repayment."
   }
  ],
  "sources": [

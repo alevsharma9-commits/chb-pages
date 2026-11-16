@@ -2,70 +2,62 @@
  "slug": "jefferson-county-al-property-tax-guide",
  "sections": [
   {
-   "h2": "What should a Jefferson County homeowner know about the county itself?",
-   "html": "<p>Jefferson County is the most populous county in Alabama and the central county of the Birmingham-Hoover metro area. It had 674,721 residents in 2020, and the Census estimate for 2025 is 665,742.</p><p>The county stretches over roughly 1,124 square miles of ridge and valley country, which makes it the fifth largest in Alabama by land area. It was established in 1819, and its first seats were Carrollsville and then Elyton, which served until 1873. The county's long history of iron, coal and limestone mining and steelmaking explains why so many neighborhoods began as company or industrial towns.</p><table><thead><tr><th>Fact</th><th>Detail</th></tr></thead><tbody><tr><td>County seat</td><td>Birmingham</td></tr><tr><td>Established</td><td>December 13, 1819</td></tr><tr><td>Total area</td><td>1,124 square miles</td></tr><tr><td>Highest point</td><td>Shades Mountain, 1,150 feet</td></tr><tr><td>Governing body</td><td>Five-member county commission</td></tr></tbody></table>"
+   "h2": "About Jefferson County",
+   "html": "<p>Alabama's largest county by population is Jefferson, hub of the Birmingham-Hoover metro area, home to 665,742 people by the 2025 estimate. Birmingham is the seat. Its cities range from Bessemer and Hoover to Homewood, Vestavia Hills, Mountain Brook, Trussville and Gardendale, with Hueytown, Pleasant Grove, Center Point and Fultondale among the others, and many small communities sit outside any city.</p><p>Mining and steelmaking shaped the map. Many neighborhoods started as company towns, and Ensley, North Birmingham, Woodlawn and Elyton were absorbed into Birmingham. Housing in those areas skews old, and family-held homes there often sell after a death rather than through a normal listing.</p><p>Watch the county lines. Birmingham, Hoover, Vestavia Hills, Helena, Leeds and Trussville each reach partly across the line, and so do Sumiton and Warrior. Whichever county holds the parcel sends the bill, regardless of the city on your envelope.</p>"
   },
   {
-   "h2": "Which cities and areas make up Jefferson County?",
-   "html": "<p>The county holds dozens of municipalities and unincorporated communities. The larger cities include Birmingham, Bessemer, Hoover, Homewood, Vestavia Hills, Mountain Brook, Trussville, Gardendale, Hueytown, Pleasant Grove, Center Point and Fultondale.</p><p>Some of them straddle county lines. Birmingham, Hoover, Vestavia Hills, Helena, Leeds and Trussville each reach partly into another county, and Sumiton and Warrior do the same. If your house is in one of those places, the county that bills the tax depends on where the parcel sits, not on the city name in the mailing address.</p><p>Several former towns, including Ensley, North Birmingham, Woodlawn and Elyton, are now Birmingham neighborhoods. Their housing stock is often older, and long-owned family homes there change hands through estates more often than newer subdivisions do.</p>"
+   "h2": "Property tax dates",
+   "html": "<p>One statewide calendar governs every Alabama county, Jefferson included. Payment is expected by October 1, and nonpayment becomes delinquency when the year ends.</p><table><thead><tr><th>When</th><th>Step in the cycle</th></tr></thead><tbody><tr><td>October 1</td><td>Tax due</td></tr><tr><td>January 1</td><td>Tax delinquent</td></tr><tr><td>February</td><td>Delinquent accounts sent to probate court</td></tr><tr><td>March</td><td>Probate court meets</td></tr><tr><td>April</td><td>Parcels advertised for sale</td></tr><tr><td>May</td><td>Tax sale</td></tr></tbody></table><p>Each bill pays for the tax year that finished the previous September 30, so a fall payment looks backward. A sale in the middle of the year means the closer divides that year's tax between seller and buyer.</p>"
   },
   {
-   "h2": "What are the Jefferson County property tax dates?",
-   "html": "<p>The Alabama Department of Revenue states that property taxes are due October 1 and delinquent after December 31. That schedule applies in Jefferson County as it does across the state.</p><p>The state timetable that follows runs like this:</p><ul><li>October 1: taxes due.</li><li>January 1: taxes delinquent.</li><li>February: delinquent accounts turned over to the probate court.</li><li>March: the probate court meets.</li><li>April: parcels advertised for sale.</li><li>May: tax sale.</li></ul><p>A bill covers the previous tax year, so a payment made in the fall is for the year that ended the prior September 30, according to how the neighboring Lauderdale County office explains the cycle. If you sell in the middle of the year, the closing agent splits the tax between buyer and seller.</p>"
+   "h2": "How Alabama values a house",
+   "html": "<p>Three classes apply. Class I, utilities, is assessed at 30 percent. Class II, a catch-all for other property, is 20 percent. Class III is 10 percent and covers farmland, timber and a single-family home where the owner lives.</p><p>Appraised value times the class rate yields assessed value, and exemptions come off that figure. A home you live in gets the 10 percent rate, while a rental or second home may be assessed higher than the primary residence next door. Landlords selling a Jefferson County rental are sometimes surprised by this.</p><p>You usually must apply for an exemption, and amounts differ from one county to the next. Ask Jefferson County what fits your situation rather than trusting a figure from another county.</p>"
   },
   {
-   "h2": "How does Alabama classify and value a Jefferson County house?",
-   "html": "<p>Alabama taxes property by class. As published by the Lauderdale County revenue office, Class I is utility property at 30 percent, Class II is all other property at 20 percent, and Class III is agricultural, timber and owner-occupied single-family property at 10 percent.</p><p>Appraised value times the class percentage gives assessed value, and the bill is based on assessed value less any exemptions. Because an owner-occupied house sits in the 10 percent class, a rental or second home can carry a heavier assessment than the house next door that is lived in. That difference surprises landlords who sell a Jefferson County rental.</p><p>Exemptions generally require an application, and the dollar amounts are set county by county, so confirm yours with the Jefferson County offices before you rely on a number from another county's page.</p>"
+   "h2": "Which office does what?",
+   "html": "<p>Most questions land at one of two desks. Values and appeals belong to the tax assessor. Bills and payments belong to the tax collector. Should a bill never come, call the collector: the state does not make the county get one to you in advance, so the duty stays with you.</p><p>The probate court is its own office. It records your deed once a house sells, and delinquent accounts pass into its hands under the state schedule. Rates are fixed through the statutory process, not by local home rule, and Jefferson County has no calendar of its own.</p><p>On any call, keep the parcel number handy and say whether your question concerns value, a bill or a payoff. Each question belongs to a different desk, and starting at the right one saves a transfer and a second call.</p>"
   },
   {
-   "h2": "Who handles Jefferson County property tax questions?",
-   "html": "<p>Jefferson County splits the work between a tax assessor, who sets values and hears appeals, and a tax collector, who sends bills and takes payments.</p><p>If you do not receive a bill, contact the collector's office. Madison County's published guidance says Alabama law does not require a bill before taxes turn delinquent, so the burden stays with the owner.</p><p>The probate court is a separate office. It records the deed after a sale, and it also takes custody of delinquent accounts under the state timetable.</p>"
+   "h2": "Taxes when the house sells",
+   "html": "<p>The first notice after a sale may still name the previous owner. Under state practice the notice stays with whoever was on record the prior October 1, together with that owner's exemptions. Liability goes with the property, though, so the current owner owes the tax whatever the paper says.</p><p>At the closing table, sellers should check three things:</p><ul><li>This year's tax has been paid or divided.</li><li>Earlier delinquent tax comes out of the proceeds.</li><li>You keep the payoff statement.</li></ul><p>For a purchase made before October 1, the buyer has until December 31 to record the deed, get the property assessed in their name and claim exemptions.</p>"
   },
   {
-   "h2": "What happens to the tax bill when a Jefferson County house is sold?",
-   "html": "<p>The first bill after a sale often shows the previous owner. Lauderdale County explains that the state requires the notice to remain in the name on record the prior October 1, with any exemptions that owner held.</p><p>That does not move the responsibility. A buyer owes tax on property they own regardless of whose name is printed on the notice. For sellers, this means two checks at closing:</p><ul><li>Confirm the current year's tax is paid or prorated.</li><li>Make sure any delinquent prior-year tax is paid off from the proceeds.</li><li>Keep a copy of the payoff statement.</li></ul><p>Lauderdale's guidance also tells new owners to record the deed, assess the property into their name and claim exemptions before December 31 for purchases made before October 1.</p>"
+   "h2": "Selling with taxes owed",
+   "html": "<p>An unpaid account keeps traveling toward the May sale, picking up penalties, interest and advertising costs each month. The balance only grows.</p><p>Selling before the auction is usually simpler, because the title company can deduct the tax from your proceeds. Should the debt exceed what the house would net, tell the title company the numbers at the outset.</p><p>Get a written payoff from the collector and pass it to the closer. Lenders will not fund while the lien stands, and cash buyers want the same figure on the settlement sheet.</p>"
   },
   {
-   "h2": "What happens when Jefferson County property tax goes delinquent?",
-   "html": "<p>The account moves along the state timetable toward a May sale. Penalties, interest and advertising costs are added along the way, so the amount owed grows each month.</p><p>Selling before the sale date is usually the cleaner route. A title company can pay the tax from your proceeds at closing. If the debt is larger than the equity in the house, bring the numbers to the title company early so you know what the closing statement will show.</p>"
+   "h2": "Where Jefferson County sellers get stuck",
+   "html": "<ul><li>Estate sales in older Birmingham neighborhoods with several heirs.</li><li>Rental houses with a higher tax class and deferred repairs.</li><li>Houses whose delinquent tax is heading for the spring sale.</li><li>Parcels near a county line where the billing office is not obvious.</li><li>Out-of-state owners who have never seen a bill.</li></ul><p>Owners living elsewhere can start with the parcel number and ask the collector where bills have been going. With an estate, work out who holds title before anyone signs a contract, since the deed must be in order for a closing to happen.</p><p>Cash Home Buyers makes written offers on Jefferson County houses in their current condition. A local title company runs the closing and pays unpaid tax from the sale proceeds. Because no lender is involved, there is no appraisal to wait on and no repair list to negotiate.</p>"
   },
   {
-   "h2": "Does the county's finance history affect homeowners today?",
-   "html": "<p>The county declared bankruptcy in 2011 after sewer rates climbed more than 300 percent over 15 years and risky bond swaps led to about $4 billion in debt. Wikipedia describes it as the largest municipal bankruptcy in the country at the time.</p><p>The county has limited home rule. It can set zoning, maintain sewers and highways and handle trash disposal, and it can enforce taxation other than property taxes. Property tax rates still come from the statutory process, which is why the same October 1 and December 31 dates apply in Jefferson County as in Lauderdale.</p>"
+   "h2": "How a cash sale works from offer to closing",
+   "html": "<p>The steps are short. You describe the house and the parcel, a written offer follows, and you choose the closing date. A local title company then searches the record for liens, including any tax that is owed, and prepares the settlement statement.</p><p>Because tax is settled at the closing table, an old balance does not have to be paid in advance out of your own pocket. The title company subtracts it from the sale price and sends the rest to you. If the search turns up a surprise, such as a missing heir on a deed, you hear about it early and can fix it before the closing date instead of on the day.</p>"
   },
   {
-   "h2": "How do roads and rail shape Jefferson County neighborhoods?",
-   "html": "<p>Five interstates cross the county: I-20, I-22, I-59, I-65 and I-459, and Wikipedia lists future I-222 and I-422 as well. U.S. Routes 11, 31, 78, 280 and 411 add the older corridors.</p><p>Amtrak's Crescent stops in Birmingham, freight rail is run by BNSF, CSX and Norfolk Southern, and Birmingham-Shuttlesworth International Airport handles air service.</p>"
-  },
-  {
-   "h2": "What do Jefferson County sellers usually face?",
-   "html": "<ul><li>Estate sales in older Birmingham neighborhoods with several heirs.</li><li>Rental houses with a higher tax class and deferred repairs.</li><li>Houses with delinquent tax moving toward the spring sale.</li><li>Parcels near a county line where the billing office is not obvious.</li><li>Owners who live out of state and have not seen a bill.</li></ul><p>Cash Home Buyers makes written offers on Jefferson County houses in their current condition, with closing run by a local title company that pays unpaid tax from the sale proceeds.</p>"
+   "h2": "What to gather before you list",
+   "html": "<p>A small folder helps. Pull your latest tax notice or receipt, the parcel number, the recorded deed and any exemption paperwork you filed. After a death, add the documents showing who holds title now.</p><p>Next, phone the tax collector and ask whether anything is owed for this year or earlier. If your address is in a city that crosses a county line, ask which county bills the parcel. Armed with those answers, a title company can estimate what you would net without guessing.</p><p>Write down the names and dates of every call. If a figure later turns out different, you will have a record of who quoted it.</p><p>Also ask your mortgage servicer whether the lender pays the tax from escrow. If it does, the servicer's records will show what was paid and when, which makes the closing math easier.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "When is Jefferson County, Alabama property tax due?",
-   "a": "Property taxes are due October 1 and delinquent after December 31, according to the Alabama Department of Revenue."
+   "q": "When is Jefferson County property tax due?",
+   "a": "October 1 is the due date. The account becomes delinquent after December 31."
   },
   {
    "q": "What is the Alabama property tax timetable?",
-   "a": "The state timetable is October 1 due, January 1 delinquent, February turned over to probate court, March probate court meets, April advertised for sale and May tax sale."
+   "a": "Delinquency starts January 1. Accounts go to probate court in February, the court meets in March, parcels are advertised in April, and the sale takes place in May."
   },
   {
    "q": "What property classes does Alabama use?",
-   "a": "Class I is utilities at 30 percent, Class II is all other property at 20 percent, and Class III is agricultural, timber and owner-occupied single-family property at 10 percent, as published by Lauderdale County."
+   "a": "Utilities are Class I at 30 percent. Everything else is Class II at 20 percent. Class III covers agricultural land, timber and owner-occupied single-family homes at 10 percent."
   },
   {
    "q": "Why is my Jefferson County tax bill in the previous owner's name?",
-   "a": "Alabama keeps the notice in the name on record the previous October 1. The new owner is still responsible for the tax, so confirm it is paid."
+   "a": "The notice stays under the name on record the previous October 1. You still owe the tax as the new owner, so check that it has been paid."
   },
   {
    "q": "Can I sell a Jefferson County house with unpaid property tax?",
-   "a": "Yes. The tax is paid from the sale proceeds at closing, and the title company gets the payoff figure from the tax office."
-  },
-  {
-   "q": "Which county bills my tax if my city is in two counties?",
-   "a": "The county where the parcel sits bills it. Birmingham, Hoover, Vestavia Hills, Helena, Leeds and Trussville all reach into another county, so check the parcel record."
+   "a": "Yes. The title company gets a payoff figure from the tax office and pays it from your proceeds at closing. If your city crosses a county line, the county where the parcel sits is the one that bills."
   }
  ],
  "sources": [
