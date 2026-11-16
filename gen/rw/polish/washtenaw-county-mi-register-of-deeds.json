@@ -7,11 +7,11 @@
   },
   {
    "h2": "Can a deed be filed electronically?",
-   "html": "<p>Yes. Electronic filings come in through vendors approved by the Register of Deeds, a route lenders and title agents rely on. An owner who signs outside a title closing usually files on paper, mailing it or visiting the counter in Ann Arbor.</p><p>Read the recording requirements page before you send anything, since a paper with layout defects comes back unrecorded. The fee schedule page lists what the county charges for each service.</p><ul><li>Keep the original signed deed in hand until the county accepts it.</li><li>Ask which payment types the office takes for your kind of filing.</li><li>Request your recorded deed before listing, so the buyer's title agent has the legal description early.</li></ul>"
+   "html": "<p>Yes. Approved vendors carry electronic filings to the Register of Deeds, and lenders and title agents depend on that route. An owner who signs outside a title closing typically files on paper, by mail or at the Ann Arbor counter.</p><p>Before sending a deed, read the recording requirements page, because a paper with layout defects is returned unrecorded. The fee schedule page shows the county's price for each service.</p><ul><li>Keep the original signed deed in hand until the county accepts it.</li><li>Ask which payment types the office takes for your kind of filing.</li><li>Request your recorded deed before listing, so the buyer's title agent has the legal description early.</li></ul>"
   },
   {
    "h2": "Recording fees and transfer tax rates",
-   "html": "<p>Michigan statutes supply the baseline figures for any register of deeds, and the county applies them. Each charge below is paired with its section, and you can read the text at the <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567\">Michigan Legislature site</a>.</p><table><caption>Statutory charges on a Washtenaw County deed filing</caption><thead><tr><th>Charge</th><th>Rate</th><th>Section</th></tr></thead><tbody><tr><td>Placing a paper in the land records</td><td>$30.00 whatever its length</td><td>600.2567(1)(a)</td></tr><tr><td>Extra instrument within one discharge or assignment</td><td>$3.00 each</td><td>600.2567(1)(b)</td></tr><tr><td>Record copies</td><td>$1.00 per sheet</td><td>600.2567(1)(c)</td></tr><tr><td>Certifying a recorded paper</td><td>$5.00</td><td>600.2567(1)(d)</td></tr><tr><td>County share of transfer tax</td><td>55 cents per $500 or part of $500 where the county has fewer than 2,000,000 people</td><td>207.504</td></tr><tr><td>State share of transfer tax</td><td>$3.75 per $500 or part of $500</td><td>207.525</td></tr></tbody></table>"
+   "html": "<p>State law sets the starting figures for every Michigan register of deeds, and Washtenaw applies them. The table pairs each charge with its section number. The statute text is on the <a href=\"https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567\">Michigan Legislature site</a>.</p><table><caption>Statutory charges on a Washtenaw County deed filing</caption><thead><tr><th>Charge</th><th>Rate</th><th>Section</th></tr></thead><tbody><tr><td>Placing a paper in the land records</td><td>$30.00 whatever its length</td><td>600.2567(1)(a)</td></tr><tr><td>Extra instrument within one discharge or assignment</td><td>$3.00 each</td><td>600.2567(1)(b)</td></tr><tr><td>Record copies</td><td>$1.00 per sheet</td><td>600.2567(1)(c)</td></tr><tr><td>Certifying a recorded paper</td><td>$5.00</td><td>600.2567(1)(d)</td></tr><tr><td>County share of transfer tax</td><td>55 cents per $500 or part of $500 where the county has fewer than 2,000,000 people</td><td>207.504</td></tr><tr><td>State share of transfer tax</td><td>$3.75 per $500 or part of $500</td><td>207.525</td></tr></tbody></table>"
   },
   {
    "h2": "Who pays transfer tax, and what avoids it",
@@ -37,19 +37,19 @@
  "faqs": [
   {
    "q": "Does Washtenaw County take electronic deed filings?",
-   "a": "Yes. Lenders and title companies commonly file through eRecording vendors that the Register of Deeds has approved."
+   "a": "Yes, through eRecording vendors the Register of Deeds has approved. Lenders and title companies use that route most often."
   },
   {
    "q": "Who is responsible for transfer tax in a Washtenaw County sale?",
-   "a": "The seller. Michigan sets 55 cents for the county plus $3.75 for the state on each $500 of value, and the county treasurer must receive payment within 15 days after the deed is delivered."
+   "a": "The seller owes it. Counting both levels, that is 55 cents for the county and $3.75 for the state on each $500 of value, and the county treasurer wants payment within 15 days of the deed being delivered."
   },
   {
    "q": "Does my Washtenaw County deed have to name a transfer tax exemption?",
-   "a": "Yes. The tax is collected unless the instrument is exempt and the exemption appears on the face of the deed, so write out the statutory reason before signing."
+   "a": "Yes. The county collects unless the deed is exempt and says why on its face, so spell out the statutory reason before you sign."
   },
   {
    "q": "What tax paperwork goes with a Washtenaw County warranty deed?",
-   "a": "Certificates from the county treasurer showing no tax liens or titles and five prior years of paid taxes. A quitclaim deed with no warranty covenants is excused."
+   "a": "A county treasurer's certificate that shows no tax liens or titles and five earlier years of paid tax. A quitclaim deed without warranty covenants does not need one."
   },
   {
    "q": "Where can I confirm the Washtenaw County recording fee?",
