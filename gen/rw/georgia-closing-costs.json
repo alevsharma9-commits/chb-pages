@@ -7,11 +7,11 @@
 },
 {
 "h2": "What is the formula for the Georgia transfer tax?",
-"html": "<p>The state revenue agency bases the tax on the sale price: $1 covers the first $1,000 or any fraction of it, and each further $100 or fraction adds 10 cents. The authority is O.C.G.A. 48-6-1 through 48-6-10.</p><p>Liability falls on whoever signs the deed or benefits from it, and the agency's page names the seller as the liable party. The same page notes that contracts often shift the bill to the buyer. If your contract says nothing, the statute leaves it with you, which makes that clause worth reading before you sign.</p><p>The clerks' cooperative authority stresses that this is an excise tax on moving title and is separate from the yearly property tax. Paying it settles nothing about your county tax bill.</p>"
+"html": "<p>The state revenue agency bases the tax on the sale price: $1 covers the first $1,000 or any fraction of it, and each further $100 or fraction adds 10 cents. The authority is O.C.G.A. 48-6-1 through 48-6-10.</p><p>The tax is owed by the person who executes the deed or the one it benefits, and the agency names the seller as liable. The same page notes that contracts often shift the bill to the buyer. If your contract says nothing, the statute leaves it with you, which makes that clause worth reading before you sign.</p><p>The clerks' cooperative authority stresses that this is an excise tax on moving title and is separate from the yearly property tax. Paying it settles nothing about your county tax bill.</p>"
 },
 {
 "h2": "How does the PT-61 form fit into a Georgia closing?",
-"html": "<p>The PT-61 declares the transfer for tax purposes, and a single form goes with each applicable deed. The filer completes it in the clerks' authority PT-61 eFiling portal, prints a copy, and takes that copy to the Clerk of Superior Court along with the deed documents.</p><p>A deed will not be recorded until the transfer tax is paid. After payment, the clerk or a deputy attaches a certification that the tax was paid. Whoever handles your closing normally prepares the form from settlement figures, so your job is to supply accurate sale and parcel details.</p><p>For help with the electronic process, the revenue agency lists customer support at (800) 304-5174, or (404) 327-9760 for local callers. Exemption and taxability questions go to the Clerk of Superior Court for the county where the house stands.</p>"
+"html": "<p>The PT-61 declares the transfer for tax purposes, and a single form goes with each applicable deed. The filer completes it in the clerks' authority PT-61 eFiling portal, prints a copy, and takes that copy to the Clerk of Superior Court along with the deed documents.</p><p>Recording waits on payment of the transfer tax. Once it is paid, a certification of payment is attached by the clerk or a deputy. Whoever handles your closing normally prepares the form from settlement figures, so your job is to supply accurate sale and parcel details.</p><p>For help with the electronic process, the revenue agency lists customer support at (800) 304-5174, or (404) 327-9760 for local callers. For a taxability or exemption question, call the superior court clerk's office serving the house.</p>"
 },
 {
 "h2": "Where does the transfer tax money go after the clerk collects it?",
@@ -19,11 +19,11 @@
 },
 {
 "h2": "Who pays the property tax at a Georgia closing?",
-"html": "<p>The person who held title on January 1 answers for that whole year's bill. The state notes that the rule holds even if the sale happens the next day, and that Georgia provides no refund of tax to partial-year owners.</p><p>The contract therefore decides how the year gets divided. Most counties set the due date at December 20, though some pick a different one, and taxpayers have 60 days after billing to pay. As one example of a different schedule, Fulton County made most 2026 bills due October 15, with the City of Atlanta's share due September 30.</p><p>Steps to take before closing:</p><ul><li>Ask the county tax commissioner whether the current bill is paid, partly paid or still coming.</li><li>Ask your settlement agent how the contract splits the year.</li><li>Check that no county tax lien sits on the clerk's general execution docket, where such liens are filed.</li></ul>"
+"html": "<p>The person who held title on January 1 answers for that whole year's bill. The state notes that the rule holds even if the sale happens the next day, and that Georgia provides no refund of tax to partial-year owners.</p><p>The contract therefore decides how the year gets divided. Most counties set the due date at December 20, though some pick a different one, and taxpayers have 60 days after billing to pay. As one example of a different schedule, Fulton County made most 2026 bills due October 15, with the City of Atlanta's share due September 30.</p><p>Steps to take before closing:</p><ul><li>Ask the tax commissioner of your county what the current bill stands at.</li><li>Ask your settlement agent how the contract splits the year.</li><li>Check that no county tax lien sits on the clerk's general execution docket, where such liens are filed.</li></ul>"
 },
 {
 "h2": "Does the intangible recording tax land on the seller?",
-"html": "<p>It attaches to a new long-term note secured by real estate, so it follows the buyer's financing. The rate is $1.50 per $500 of the note, or part of $500, up to a maximum of $25,000 on one note.</p><p>The lender has 90 days to record the security instrument, and the lender may pass the tax along to the borrower. In most counties the Clerk of Superior Court collects it, and a short list of smaller counties uses the tax commissioner or tax collector instead. The buyer's lender is the party that records the new security instrument.</p>"
+"html": "<p>It attaches to a new long-term note secured by real estate, so it follows the buyer's financing. The rate is $1.50 per $500 of the note, or part of $500, up to a maximum of $25,000 on one note.</p><p>The lender has 90 days to record the security instrument, and the lender may pass the tax along to the borrower. Clerks of Superior Court collect it in most places. A list of 24 smaller counties, last updated July 2015, has the tax commissioner or tax collector doing it. The buyer's lender is the party that records the new security instrument.</p>"
 },
 {
 "h2": "When does Georgia withhold from a nonresident seller?",
@@ -45,7 +45,7 @@
 },
 {
 "q": "Can a seller get back property tax after leaving mid-year?",
-"a": "No. The state says the January 1 owner is responsible for the whole year and that no refund goes to partial-year owners. Any split with the buyer happens through the contract."
+"a": "No. Under the state's reading, ownership on January 1 fixes responsibility for the year, and a part-year owner is not refunded. Any split with the buyer happens through the contract."
 },
 {
 "q": "Who files the PT-61 in Georgia?",
@@ -53,7 +53,7 @@
 },
 {
 "q": "Where do I ask about a transfer tax exemption?",
-"a": "Contact the Clerk of Superior Court in the county where the property lies. The state sends taxability and exemption questions there, and the clerk certifies payment before the deed is recorded."
+"a": "Start with the superior court clerk in the property's county. The state sends taxability and exemption questions there, and the clerk certifies payment before the deed is recorded."
 }
 ],
 "sources": [
