@@ -2,59 +2,79 @@
  "slug": "pinellas-county-fl-property-tax-guide",
  "sections": [
   {
-   "h2": "Which Pinellas office mails the property tax bill?",
-   "html": "<p>The county tax collector mails and collects it, and the county property appraiser values the parcel and rules on exemptions. Their sites are <a href=\"https://pinellastaxcollector.gov\">pinellastaxcollector.gov</a> and <a href=\"https://www.pcpao.gov\">pcpao.gov</a>.</p><p>The collector's home page says 2026 taxes paid in November earn a 4 percent discount, and it points to online payment and a network of kiosks. The appraiser's page counts 437,624 real property parcels and 57,476 tangible personal property accounts, a big roll for one of Florida's smallest counties by land.</p><p>With 24 municipalities, a Pinellas parcel may sit in a city or in unincorporated land. The bill stacks the county, the school board and whatever city or special district covers the lot, so check your own parcel before guessing at a total.</p>"
+   "h2": "Why is Pinellas an unusual place to hold a property tax bill?",
+   "html": "<p>Pinellas is small and crowded. The county reports 3,425 residents per square mile over 280 square miles, the densest in Florida, with only Union County smaller in land area. It runs 38 miles long, 15 miles at its widest and carries 588 miles of coastline, with 24 municipalities inside.</p>\n<p>The property appraiser's roll shows what that density looks like on paper: 437,624 real property parcels, of which 408,947 are residential. Counting units rather than parcels, the office lists 241,442 single-family homes, 103,445 condos, 22,112 townhomes or PUD units, 44,323 manufactured homes and 101,180 multifamily rentals. A seller in a condo tower and one in a Largo manufactured home community deal with the same two offices, yet face very different assessments.</p>"
   },
   {
-   "h2": "What is the yearly Pinellas tax calendar?",
-   "html": "<p>Pinellas follows the one calendar the state sets for every county. The table shows the steps as the Department of Revenue prints them.</p><table><caption>Pinellas tax steps, taken from the state revenue department's list</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Assessment date for all property</td></tr><tr><td>March 1</td><td>Last day to file for exemptions or classifications</td></tr><tr><td>April 1</td><td>Tangible personal property returns on Form DR-405</td></tr><tr><td>August</td><td>TRIM notice of proposed taxes mailed</td></tr><tr><td>25 days after that notice</td><td>Value challenge petition due</td></tr><tr><td>November</td><td>Bills sent, with a 4% early discount</td></tr><tr><td>December through February</td><td>Discount steps down to 3%, 2%, then 1%</td></tr><tr><td>April 1 after billing</td><td>Unpaid tax is delinquent</td></tr><tr><td>By June 1</td><td>Certificates sold on unpaid items</td></tr></tbody></table><p>The August notice is the owner's one chance to react to a proposed value and proposed rates before bills exist, so read it when it arrives. Public budget hearings follow in September and October, and final budgets and millage rates are adopted in October and November. A denied exemption has its own clock of 30 days from the letter's mailing, and petitions go to the clerk.</p>"
+   "h2": "How large is the 2026 roll, and where does the money go?",
+   "html": "<p>The tax collector's own release for 2026 counts 495,057 accounts worth more than $2.75 billion. Collections are divided among 56 local taxing authorities, including the school board, the county commission, cities and libraries.</p>\n<p>Three kinds of charges can appear on one notice. Ad valorem tax follows value. Tangible personal property tax covers furniture and equipment in businesses and rentals. Non-ad valorem assessments are fixed amounts for things like storm water, street lighting, fire and rescue and solid waste, and they do not depend on value.</p>\n<p>The appraiser keeps ownership and mailing addresses, and the collector says it does not maintain them. If no bill arrives in November, the collector asks owners to phone 727-464-7777 or search its database, because an unreceived notice does not excuse payment.</p>"
   },
   {
-   "h2": "What can reduce a Pinellas tax bill?",
-   "html": "<p>Filing for homestead if you live in the home does the most, and a value challenge helps if the August notice looks off. Both have fixed deadlines.</p><ul><li>Homestead: $25,000 off every levy, plus up to $25,000 off non-school levies on assessed value above $50,000. File Form DR-501 after making the house your permanent home by January 1.</li><li>Save Our Homes: yearly growth in a homestead's assessed value stops at 3 percent or the CPI change, whichever is smaller. The state's chart shows 2.7 percent for 2026.</li><li>Other property: assessed value may rise no more than 10 percent a year.</li><li>Extras for older owners and veterans: cities or counties can add senior exemptions, and a veteran with a service-connected disability may get a $5,000 reduction. The appraiser can say which ones cover your address.</li></ul><p>If a big bill is a cash problem, the collector can set up an installment plan for owners who apply by May 1 of the tax year. A homestead owner can also file Form DR-570 by March 31 to defer part of the tax.</p>"
+   "h2": "What are the 2026 discount cutoffs for each payment method?",
+   "html": "<p>The cutoff depends on how you pay. Online payments run until 11:55 pm Eastern on the last discount day, while counter and drop box payments stop at closing time, and mailed checks need a postmark from that month.</p>\n<table>\n<caption>2026 Pinellas discount cutoffs for counter or drop box payment</caption>\n<thead><tr><th>Amount month</th><th>Counter or drop box cutoff</th><th>Discount</th></tr></thead>\n<tbody>\n<tr><td>November</td><td>Close of business November 30</td><td>4%</td></tr>\n<tr><td>December</td><td>Close of business December 31</td><td>3%</td></tr>\n<tr><td>January</td><td>Close of business February 2</td><td>2%</td></tr>\n<tr><td>February</td><td>Close of business March 1</td><td>1%</td></tr>\n<tr><td>March</td><td>Close of business March 31</td><td>None</td></tr>\n</tbody>\n</table>\n<p>Source: <a href=\"https://pinellastaxcollector.gov/property-tax/property-taxes-in-pinellas-county\">Pinellas County Tax Collector, property taxes</a>. If a discount month ends on a weekend or holiday, paying online or in person the next business day keeps the discount.</p>"
   },
   {
-   "h2": "What did Amendment 3 change for Pinellas owners?",
-   "html": "<p>Voters approved Amendment 3 on November 3, 2026, and homestead exemption changes begin with the 2027 tax year. The Escambia tax collector's notice says it leaves 2026 bills alone, and the Pinellas appraiser's home page says its website is being updated for the amendment.</p><p>The 2026 bill reflects January 1, 2026 values and exemptions and follows the normal schedule. Before you quote next year's taxes to a buyer, check the appraiser's updated pages on the new exemption amounts.</p>"
+   "h2": "Which payment routes does the Pinellas collector accept?",
+   "html": "<ul>\n<li>Online eChecks carry no fee but are not accepted for delinquent bills. Credit and debit cards add a 2.5 percent vendor fee.</li>\n<li>Checks by mail are addressed to P.O. Box 31149, Tampa, FL 33631-3149. The collector warns that USPS now postmarks at a regional processing facility, so a late drop in a local box may miss a deadline.</li>\n<li>Drop boxes sit outside select offices, and payment at an office needs no appointment.</li>\n<li>Multiple checks must travel in one envelope, and an unpaid check is handled through a recovery partner that may re-present it with a fee.</li>\n</ul>\n<p>Online payment shows as paid at once on the collector's system, though a bank can take up to five business days to reflect it. Bills were mailed starting October 30 for 2026, with online payment opening November 1 and counter and mail payment opening November 2.</p>"
   },
   {
-   "h2": "What should a Pinellas owner know about the county itself?",
-   "html": "<p>The county's fast facts page calls Pinellas Florida's densest county, with 3,425 residents per square mile across 280 square miles. It runs 38 miles north to south and 15 miles at its widest, with 588 miles of coastline and 35 miles of beaches. The 2020 Census counted 959,107 people.</p><p>St. Petersburg is the biggest city, and Clearwater holds the county seat. The county reports about 4,500 miles of paved road and more than 400 bridges. The Gandy Causeway of 1924 was the first span over Tampa Bay, and the Sunshine Skyway followed in 1954 to join Pinellas to Manatee County.</p><p>The appraiser's roll shows what people live in: 241,442 single family units, 103,445 condo units, 22,112 townhome or PUD units, 44,323 manufactured home units and 101,180 multifamily rental units. A condo owner and a single family owner can face quite different bills.</p><p>The appraiser's courthouse office is at 315 Court Street, 2nd Floor, Clearwater, open 8AM to 5PM Monday to Friday, phone (727) 464-3207. North County, Mid County and South County offices also exist, and Mid County shares space with the Tax Collector at 13025 Starkey Rd in Largo.</p>"
+   "h2": "Can Pinellas owners pay in four installments?",
+   "html": "<p>Yes. The plan serves owners with an estimated bill above $100 and carries a discount of roughly 3.5 percent overall. Applications for the 2027 plan open November 1, 2026 and run through April 30, 2027.</p>\n<ul>\n<li>June 30: one quarter of last year's total, discounted 6 percent.</li>\n<li>September 30: another quarter, discounted 4.5 percent.</li>\n<li>December 31: a quarter plus half of any adjustment, discounted 3 percent.</li>\n<li>March 31: a quarter plus the other half of the adjustment, with no discount.</li>\n</ul>\n<p>A missed June payment can be made by July 31 without the discount, and missing July 31 removes the account. A late second or third payment rolls into the next one and loses its discount. Once enrolled, you do not reapply each year provided the first payment arrives.</p>"
   },
   {
-   "h2": "How did Pinellas become a separate county?",
-   "html": "<p>Pinellas became Florida's 48th county on January 1, 1912, after a local referendum to split from Hillsborough County. The name comes from the Spanish Punta Pinal, point of pines, a description tied to the area's first European visit by Panfilo de Narvaez in 1528.</p><p>Tarpon Springs was the first city incorporated, in 1887. In 1914, Tony Jannus flew the world's first scheduled airline flight from St. Petersburg to Tampa. Today the county names financial services, life science and medical technology, tourism, manufacturing, defense, aviation and information technology as key sectors.</p><p>The county parks department also maintains more than 20,000 acres of parks and preserves, and the county lists 117 miles of recreational trails. For an owner, that history explains why Pinellas has so many small cities with their own boundaries. Selling a house in Dunedin, Largo, Pinellas Park or St. Petersburg runs through the same county tax collector and appraiser, but city lines decide which local levies apply.</p>"
+   "h2": "What are partial payments and deferrals in Pinellas?",
+   "html": "<p>A partial payment plan lets owners pay current-year tax in pieces of at least $100, but only until March 31, and the early payment discounts are forfeited. Delinquent bills are not eligible. The 2026 application stays open through March 31, 2027, and a balance unpaid by May 31 goes to a certificate sale.</p>\n<p>Deferral suits homestead holders, since it rests on the prior year's household income. The collector stresses that deferral creates a lien and that deferred tax accrues interest every month. The 2026 application deadline is March 31, 2027, and the office answers at 727-464-3409.</p>"
   },
   {
-   "h2": "What if I sell with tax still owed in Pinellas?",
-   "html": "<p>The unpaid amount comes out of closing proceeds, so ask the collector early for what is owed. Delinquency starts April 1, after which a certificate can be sold on the debt.</p><p>Bidders for certificates offer lower and lower interest rates in quarter point steps. The holder cannot press the owner for payment until two years after April 1 of the issue year, and may then apply for a tax deed at a $75 application fee. At the clerk's auction the certificate holder's bid accrues 1.5 percent monthly.</p><ul><li>A homestead with under $250 delinquent goes to the county, not to auction.</li><li>The opening bid on a homestead adds half of the latest assessed value.</li><li>Notice before a tax deed sale goes to the titleholder, mortgagees and contract for deed buyers.</li></ul><p>Selling before a deed application is cleaner, since the buyer's closing agent clears the certificate at the table. A sale also resets the assessment, so your old bill will not predict the buyer's.</p>"
+   "h2": "What did the vote on Amendment 3 mean for Pinellas bills?",
+   "html": "<p>The collector's release said Amendment 3 would not change 2026 bills, and that any change would begin with the 2027 tax year. Afterward, the Pinellas Property Appraiser's home page reported updating its website for the amendment's passage. For a buyer's estimate, check the appraiser's updated exemption pages before quoting next year's taxes.</p>"
+  },
+  {
+   "h2": "Where are the Pinellas appraiser's offices?",
+   "html": "<p>The county courthouse office is at 315 Court Street, 2nd Floor, Clearwater. North County is at Northside Square, 29269 US Hwy 19 North, Clearwater. Mid County shares space with the tax collector at 13025 Starkey Rd, Largo, and South County is at 2500 34th Street North, 2nd Floor, St. Petersburg. The main line is (727) 464-3207, answered on weekdays.</p>"
+  },
+  {
+   "h2": "What should a seller do if tax is still due in Pinellas?",
+   "html": "<p>Ask the collector for a payoff so the closing agent can settle it from proceeds. Delinquency begins April 1, and the collector lists its 2027 certificate sale for Friday, May 28, 2027, with online payments of 2026 taxes accepted until 5:00 pm on May 27. The title agent clears any certificate. The buyer's reassessment will not follow your old bill, and a homestead sale ends the cap, though portability may help your next home.</p>"
+  },
+  {
+   "h2": "How did Pinellas become its own county, and what is it like now?",
+   "html": "<p>A local referendum separated Pinellas from Hillsborough County, and it became the state's 48th county on January 1, 1912. The name is Spanish, Punta Pinal, or point of pines, a fair description when Panfilo de Narvaez arrived in 1528. Tarpon Springs was the first city incorporated, in 1887. Clearwater is the seat, and St. Petersburg is the largest city, with 258,201 residents as of 2021.</p>\n<p>Getting around meant bridges. The Gandy Causeway of 1924 was the first span across Tampa Bay and cut the St. Petersburg to Tampa trip from 43 miles to 19. The Sunshine Skyway opened in 1954 and tied Pinellas to Manatee County. The county today reports roughly 4,500 miles of paved road, more than 400 bridges and 35 miles of beaches.</p>\n<p>St. Petersburg bills itself the Sunshine City, with an average of 361 sunny days a year according to the county. Key employers fall into financial services, life science and medical technology, tourism, manufacturing, defense, aviation and information technology. A flight from St. Petersburg to Tampa in 1914 is recorded as the world's first scheduled airline service.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Which office handles the Pinellas bill?",
-   "a": "The tax collector's office. The appraiser sets values and exemptions, and the collector issues the bill and takes the money."
+   "a": "The tax collector mails and collects it. The property appraiser sets value and keeps the mailing address."
   },
   {
-   "q": "What early discount applies in Pinellas?",
-   "a": "Four percent in November, then 3, 2 and 1 percent in December, January and February. The collector's home page advertises the 4 percent November discount for 2026 taxes."
+   "q": "What is the 2026 Pinellas November discount?",
+   "a": "It is 4 percent. December is 3, January 2 and February 1, with no discount in March."
   },
   {
-   "q": "When does Pinellas tax turn delinquent?",
-   "a": "On April 1 following the November billing. Tax certificates on unpaid items are sold by June 1."
+   "q": "What do Pinellas installments save?",
+   "a": "The collector says about 3.5 percent overall, with discounts of 6, 4.5 and 3 percent on the first three quarters."
   },
   {
-   "q": "What is the route for disputing a Pinellas value?",
-   "a": "The clerk takes petitions for 25 days after the August proposed tax notice. If an exemption is denied, the value adjustment board accepts a petition for 30 days after the letter goes out."
+   "q": "Can I make partial payments in Pinellas?",
+   "a": "Yes, in amounts of at least $100 before April 1, but early payment discounts are lost."
   },
   {
    "q": "Does Amendment 3 touch the 2026 Pinellas bill?",
-   "a": "No. The Escambia tax collector's notice says the 2026 bill is unchanged and homestead changes begin with the 2027 tax year. Confirm details for your parcel with the Pinellas appraiser."
+   "a": "No. The collector said any change would begin with the 2027 tax year."
   }
  ],
  "sources": [
   {
-   "title": "Pinellas County Tax Collector",
+   "title": "Pinellas County Tax Collector, property taxes",
+   "url": "https://pinellastaxcollector.gov/property-tax/property-taxes-in-pinellas-county"
+  },
+  {
+   "title": "Pinellas County Tax Collector, 2026 bills release",
+   "url": "https://pinellastaxcollector.gov/news/2026-propertytaxbills"
+  },
+  {
+   "title": "Pinellas County Tax Collector, home",
    "url": "https://pinellastaxcollector.gov"
   },
   {
@@ -62,48 +82,20 @@
    "url": "https://www.pcpao.gov"
   },
   {
-   "title": "Fast Facts About Pinellas County",
+   "title": "Pinellas County, fast facts",
    "url": "https://pinellas.gov/about-pinellas-facts"
   },
   {
-   "title": "Florida DOR taxpayer property tax calendar",
+   "title": "Florida DOR, taxpayer information",
    "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
   },
   {
-   "title": "Florida DOR homestead guide",
+   "title": "Florida DOR, homestead guide",
    "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
   },
   {
-   "title": "Florida DOR Save Our Homes guide",
+   "title": "Florida DOR, Save Our Homes guide",
    "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
-  },
-  {
-   "title": "Florida DOR Save Our Homes chart",
-   "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
-  },
-  {
-   "title": "Florida DOR senior exemptions guide",
-   "url": "https://floridarevenue.com/property/Documents/pt110.pdf"
-  },
-  {
-   "title": "Florida DOR veteran exemptions guide",
-   "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
-  },
-  {
-   "title": "Escambia tax collector Amendment 3 page",
-   "url": "https://escambiataxcollector.com/amendment-3-changes"
-  },
-  {
-   "title": "Florida Statutes 197.432",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&Search_String=&URL=0100-0199/0197/Sections/0197.432.html"
-  },
-  {
-   "title": "Florida Statutes 197.502",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
-  },
-  {
-   "title": "Florida Statutes 197.542",
-   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html"
   }
  ]
 }
