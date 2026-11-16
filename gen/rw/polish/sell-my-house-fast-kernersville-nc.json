@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "Starting a Kernersville sale",
-   "html": "<p>Kernersville is a Forsyth County town of 29,128 people by the July 2025 estimate, up from 26,449 at the 2020 count and 23,123 in 2010. The town has filled in steadily, and owners here usually compare an agent listing, a private sale and a cash bid for the house as it sits. Repairs, timing and the equity left after the mortgage decide which one wins.</p>"
+   "html": "<p>Kernersville is a Forsyth County town of 29,128 people by the July 2025 estimate, up from 26,449 at the 2020 count and 23,123 in 2010. Most owners here are choosing among three things: hiring an agent, selling alone, or accepting a cash bid on the house in its current state. Repairs, timing and the equity left after the mortgage decide which one wins.</p>"
   },
   {
    "h2": "Kernersville housing profile",
-   "html": "<p>Owners live in 60.5% of Kernersville homes, which leaves a sizable renter population. The midpoint value of an owned house is $290,700. Midpoint monthly rent is $1,082, midpoint household income is $71,918, and the town counts 12,630 households averaging 2.19 people. The average commute is 22.6 minutes. Typical monthly outlay is $1,653 with a mortgage and $566 without one.</p><p>Seniors account for 17.6% of residents and children under 18 for 22.4%. Age, size and repairs can put your house well above or below the midpoint, so check recent nearby sales before you set a price.</p><p>Older streets bring character and often aging systems that a buyer will inspect. Newer subdivisions may carry association rules worth reading before you list. The town also provides public safety, trash collection, street repair, stormwater management and building inspections, which buyers weigh alongside the house.</p>"
+   "html": "<p>Owners live in 60.5% of Kernersville homes, which leaves a sizable renter population. A typical owned house has a midpoint value of $290,700. Midpoint monthly rent is $1,082, midpoint household income is $71,918, and the town counts 12,630 households averaging 2.19 people. Workers average a 22.6 minute commute. Typical monthly outlay is $1,653 with a mortgage and $566 without one.</p><p>Seniors account for 17.6% of residents and children under 18 for 22.4%. Age, size and repairs can put your house well above or below the midpoint, so check recent nearby sales before you set a price.</p><p>Older streets bring character and often aging systems that a buyer will inspect. Newer subdivisions may carry association rules worth reading before you list. The town also provides public safety, trash collection, street repair, stormwater management and building inspections, which buyers weigh alongside the house.</p>"
   },
   {
    "h2": "Forsyth County reappraisal",
@@ -15,23 +15,27 @@
   },
   {
    "h2": "Property tax due dates and the closing split",
-   "html": "<table><caption>Forsyth County property tax payment schedule</caption><thead><tr><th>Date</th><th>What applies</th></tr></thead><tbody><tr><td>September 1</td><td>Bill is due</td></tr><tr><td>Before January 6</td><td>No interest</td></tr><tr><td>Starting January 6</td><td>2% charge</td></tr><tr><td>Each month from February 1</td><td>Three-quarters of a percent added</td></tr></tbody></table><p>Taxes owed on the parcel follow the land until someone pays them. The closing office normally settles the balance from your proceeds and splits the current year between you and the buyer. Contracts vary, so confirm the proration method before signing.</p><p>Seniors and disabled owners may also cut the taxable value. One program removes the larger of $25,000 and half the appraised value for homeowners at least 65, or with a total and permanent disability, when prior-year income does not top $38,800 for tax year 2026. You file with the county assessor.</p>"
+   "html": "<table><caption>Forsyth County property tax payment schedule</caption><thead><tr><th>Date</th><th>What applies</th></tr></thead><tbody><tr><td>September 1</td><td>Bill is due</td></tr><tr><td>Before January 6</td><td>No interest</td></tr><tr><td>Starting January 6</td><td>2% charge</td></tr><tr><td>Each month from February 1</td><td>Three-quarters of a percent added</td></tr></tbody></table><p>Taxes owed on the parcel follow the land until someone pays them. Your title office typically pays off any balance from the sale money, then divides this year's bill by days owned. Contracts vary, so confirm the proration method before signing.</p><p>Seniors and disabled owners may also cut the taxable value. A state exclusion can take $25,000 or half the appraised value off the taxable amount, whichever is bigger. To qualify, an owner must be 65 or older or totally and permanently disabled, and last year's income can be no higher than $38,800 for tax year 2026. The county assessor handles applications, and a buyer must apply separately.</p>"
   },
   {
    "h2": "Selling a Kernersville rental with a tenant",
-   "html": "<p>Yes, and the lease stays in force through the sale. Anyone buying to occupy the home needs the tenancy ended by notice or court order, which takes time.</p><p>State law ties the notice to the kind of tenancy: seven days for month to month, two days for week to week, and a month before the end of a yearly term. If rent is unpaid, the lease ends when the tenant ignores a 10 day demand for what is owed. Magistrates in small claims court hear these cases, and dates usually land 10 to 15 days after filing.</p><p>At a $1,082 midpoint rent, a tenant-occupied house can look like a ready-made investment. An investor may buy it with the tenant in place, which spares you the wait to clear the unit before closing.</p>"
+   "html": "<p>Yes. The lease carries on after the sale. Someone who wants to move in has to end the tenancy first, by notice or by court order, and neither is instant.</p><p>State law ties the notice to the kind of tenancy: seven days for month to month, two days for week to week, and a month before the end of a yearly term. If rent is unpaid, the lease ends when the tenant ignores a 10 day demand for what is owed. Magistrates in small claims court hear these cases, and dates usually land 10 to 15 days after filing.</p><p>At a $1,082 midpoint rent, a tenant-occupied house can look like a ready-made investment. Some investors prefer to buy with the tenant in place, which lets you close without waiting for the unit to empty.</p>"
   },
   {
    "h2": "If your Kernersville mortgage is behind",
-   "html": "<p>A lender in North Carolina must go through a clerk of court hearing before a power-of-sale foreclosure can proceed, so a delinquent owner often has weeks to explore a sale. The notice of hearing must reach the owner at least 10 days beforehand, and the clerk of court hears the matter where the property is located.</p><ul><li>The clerk looks at the debt, the default, the lender's right to foreclose and whether notice was proper.</li><li>Residents who appeal to a judge within 10 days put up a bond equal to 1% of principal unless it is reduced.</li><li>After the auction, a higher bid of at least 5% over the last price, with a $750 floor, restarts a 10-day period.</li></ul><p>A payoff figure from your servicer and a title search tell you whether a sale can cover the loan. If equity is thin, ask about a short timeline and compare offers promptly.</p>"
+   "html": "<p>A lender in North Carolina must go through a clerk of court hearing before a power-of-sale foreclosure can proceed, so a delinquent owner often has weeks to explore a sale. You are entitled to at least 10 days notice of the hearing, held before the clerk of court in the property's county.</p><ul><li>The clerk looks at the debt, the default, the lender's right to foreclose and whether notice was proper.</li><li>If a resident owner appeals to a judge inside 10 days, a bond of 1% of principal is required unless it is lowered.</li><li>After the auction, a higher bid of at least 5% over the last price, with a $750 floor, restarts a 10-day period.</li></ul><p>A payoff figure from your servicer and a title search tell you whether a sale can cover the loan. If equity is thin, ask about a short timeline and compare offers promptly.</p>"
   },
   {
    "h2": "Recording fees at the Forsyth County Register of Deeds",
-   "html": "<p>Your deed goes on file at the Forsyth County Register of Deeds, where the General Statutes set a uniform per-document charge, with extra pages billed separately. Loan instruments carry a higher base fee, and filing a satisfaction of a paid-off loan is free.</p><p>Priority follows the order of filing, so a deed recorded first generally prevails over a competing claim recorded later. The firm handling your closing files the paperwork and itemizes every charge on the settlement statement, which you should compare with your contract. Sellers pay the deed stamp tax at filing.</p>"
+   "html": "<p>Your deed goes on file at the Forsyth County Register of Deeds, where the General Statutes set a uniform per-document charge, with extra pages billed separately. Mortgage paperwork costs more at the base level, and recording a satisfaction for a paid-off loan costs nothing.</p><p>Priority follows the order of filing, so a deed recorded first generally prevails over a competing claim recorded later. The firm handling your closing files the paperwork and itemizes every charge on the settlement statement, which you should compare with your contract. Sellers pay the deed stamp tax at filing. Ask for the total in writing a few days ahead, and bring your photo ID and loan details so the firm can finish the payoff paperwork without delay.</p>"
+  },
+  {
+   "h2": "From offer to closing in Kernersville",
+   "html": "<ol><li>Locate your deed and your most recent Forsyth County tax bill.</li><li>Request a payoff figure from your servicer and write down any unpaid tax.</li><li>Compare offers in writing, looking at what each leaves you after repairs and fees.</li><li>The closing firm runs the title search, prepares the settlement statement and files the deed with the Register of Deeds.</li><li>Review each line against your contract, sign, and receive what remains after the payoff and tax.</li></ol><p>Cash removes the buyer's loan approval from the process, so it can close faster than a listing. If you are selling an estate house or a rental, tell the buyer early, because who may sign the deed or when the tenant leaves can change the timeline. Settle the handover date and the condition of the house in the contract so there are no disputes after closing.</p>"
   },
   {
    "h2": "Which way of selling suits you?",
-   "html": "<p>Weigh each route on cost, speed and certainty, since every one gives something up.</p><ul><li>An agent reaches the most shoppers, at the price of commissions, showings and repair haggling.</li><li>Going private saves the commission and puts pricing and paperwork on you.</li><li>Cash purchasers accept the house with its flaws, which suits big repairs, an estate house or a tight deadline.</li></ul><p>Whatever you choose, request a payoff letter, find your deed and get offers in writing.</p>"
+   "html": "<p>Weigh each route on cost, speed and certainty, since every one gives something up.</p><ul><li>An agent reaches the most shoppers, at the price of commissions, showings and repair haggling.</li><li>Selling on your own saves the commission, yet pricing and paperwork fall to you.</li><li>Cash purchasers accept the house with its flaws, which suits big repairs, an estate house or a tight deadline.</li></ul><p>Whatever you choose, request a payoff letter, find your deed and get offers in writing.</p>"
   }
  ],
  "faqs": [
@@ -41,15 +45,15 @@
   },
   {
    "q": "How frequently does Forsyth reappraise?",
-   "a": "Usually every four years since 1988. The most recent reappraisal took effect January 1, 2025, and followed the one from 2021."
+   "a": "About every four years since 1988. The latest one took effect January 1, 2025, after the 2021 cycle."
   },
   {
    "q": "Do I still owe tax if I sell during the year?",
-   "a": "Yes, for the months you owned the house. The bill comes due September 1, and your closing office usually splits it with the buyer as your contract directs."
+   "a": "Yes, for the days you owned the house. The bill comes due September 1, and your closing office usually splits it with the buyer as your contract directs."
   },
   {
    "q": "Can an older Kernersville owner lower the tax?",
-   "a": "Possibly. The state exclusion for older or disabled owners removes the larger of $25,000 and half the appraised value when income is within the $38,800 limit for 2026. File with the county assessor."
+   "a": "Possibly. A 65-plus or disabled owner with income up to $38,800 for 2026 can shield $25,000 or half the appraised value, whichever is greater. The county assessor takes the application."
   },
   {
    "q": "What is a Kernersville home worth on average?",
