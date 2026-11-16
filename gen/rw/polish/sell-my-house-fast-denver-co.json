@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "Denver housing at a glance",
-   "html": "<p>Colorado's capital sits in the South Platte valley on the plains side of the Front Range. Its 2020 census population was 715,522, and the July 1, 2025 estimate is 740,613. Denver is also a county, merged since 1902, which means a single government handles assessing, taxing and recording. Sellers deal with fewer offices than they would in most of the state.</p><p>Renters outnumber owners. Only 48.8% of homes are owner-occupied across 335,428 households (2020 to 2024). The median owner-occupied value is $616,000 and median gross rent is $1,831. Many sales here involve a landlord, an heir or someone who bought a rental and wants out. As for the median, it describes the city as a whole. A particular house can price well away from it, depending on condition, neighborhood and lot.</p>"
+   "html": "<p>Colorado's capital sits in the South Platte valley on the plains side of the Front Range. Census takers found 715,522 people in 2020, and the estimate for July 1, 2025 is 740,613. Denver is also a county, merged since 1902, which means a single government handles assessing, taxing and recording. A seller usually needs fewer phone calls than elsewhere in Colorado.</p><p>Renters outnumber owners. Only 48.8% of homes are owner-occupied across 335,428 households (2020 to 2024). The median owner-occupied value is $616,000 and median gross rent is $1,831. A good share of sales involve a landlord, an heir or an investor who wants out. The median covers the entire city. A particular house can price well away from it, depending on condition, neighborhood and lot.</p>"
   },
   {
    "h2": "Hail and your roof",
-   "html": "<p>For Denver roofs, hail is the weather problem that costs the most. Denver is 10th among U.S. cities of 50,000 or more for hail proneness, and three of the ten costliest hailstorms in the country struck here. Snowfall averages 53.5 inches a year, July highs average 89.9 degrees, and the record of 105 degrees was set June 28, 2018.</p><p>A beaten-up roof, split siding or an insurance claim that was never repaired can stall a conventional sale, since a buyer's lender and inspector examine roofs closely. Be ready for these questions:</p><ul><li>Did anyone file a claim for the hail damage, and was the work done, or was it left?</li><li>How old is the roof, and will a new owner's insurer cover it?</li><li>Have sun and freeze-thaw cycles marked the stucco, deck or paint?</li></ul><p>Documents help. A buyer paying cash can also take the house with the damage included.</p>"
+   "html": "<p>For Denver roofs, hail is the weather problem that costs the most. Among American cities with 50,000 or more people, Denver ranks 10th for hail proneness, and three of the ten costliest hailstorms on record in the country struck here. Snowfall averages 53.5 inches a year, July highs average 89.9 degrees, and the record of 105 degrees was set June 28, 2018.</p><p>A beaten-up roof, split siding or a claim that never led to repairs can stall a mortgage-financed sale, because the lender and the inspector both study roofs. Be ready for these questions:</p><ul><li>Did anyone file a claim for the hail damage, and was the work done, or was it left?</li><li>How old is the roof, and will a new owner's insurer cover it?</li><li>Have sun and freeze-thaw cycles marked the stucco, deck or paint?</li></ul><p>Paperwork helps. Someone paying cash may also accept the damage as part of the deal.</p>"
   },
   {
    "h2": "Property tax due dates",
@@ -15,7 +15,7 @@
   },
   {
    "h2": "Taxes at closing",
-   "html": "<p>Closing agents typically split the current year's taxes between seller and buyer. Treasury also produces a Certificate of Taxes Due for Real Property, the paper a title company relies on to see what a parcel owes. Prior-year balances have to be paid before the transfer can be clean. On appeals and assessment timing, the <a href=\"https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Finance/Our-Divisions/Treasury/Property-Taxes\">Denver Treasury property tax page</a> is the place to start.</p>"
+   "html": "<p>On closing day the current year's tax gets divided by the closing agent, one share for you and one for the buyer. Treasury also issues a Certificate of Taxes Due for Real Property, which the title company uses to learn what a parcel owes. Any earlier year still open must be paid for the transfer to be clean. On appeals and assessment timing, the <a href=\"https://denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Department-of-Finance/Our-Divisions/Treasury/Property-Taxes\">Denver Treasury property tax page</a> is the place to start.</p>"
   },
   {
    "h2": "The state fee on a Denver deed",
@@ -23,15 +23,23 @@
   },
   {
    "h2": "Short-term rental rules",
-   "html": "<p>Every short-term rental in Denver needs a license, and it must be the host's own primary residence. The business license number goes in each ad, and violators risk fines or losing the license.</p><p>That bites if you own a second Denver property that was running as an Airbnb. With the primary-residence rule, a house its owner does not live in cannot lawfully operate as a short-term rental. It may need to be sold or switched to a long-term lease, and a buyer counting on nightly income may offer less. Read the city's rental, zoning and licensing pages for your address before you list or take an offer.</p>"
+   "html": "<p>In Denver, a short-term rental needs a license and has to be the host's own primary residence. The business license number goes in each ad, and violators risk fines or losing the license.</p><p>That bites if you own a second Denver property that was running as an Airbnb. With the primary-residence rule, a house its owner does not live in cannot lawfully operate as a short-term rental. Such a house may have to be sold or leased long term, and a buyer who was counting on nightly income may offer less. Read the city's rental, zoning and licensing pages for your address before you list or take an offer.</p>"
   },
   {
    "h2": "Landlords, heirs and life changes",
    "html": "<p>Jobs in government, hospitals, schools and aviation keep demand strong near downtown. They offer no protection against a layoff, a divorce or an inherited house nobody wants to run. Events like those, more than the market, push Denver owners toward quick sales.</p><p>Inherited a house? Collect the documents showing who has authority to sign, and ask the title company what it needs before it books a closing. Own a rental with a tenant in place? Learn early whether a buyer will take it occupied. Cash buyers often do.</p>"
   },
   {
+   "h2": "Deciding what to fix first",
+   "html": "<p>Before spending a dollar, price out the one repair a buyer will notice from the street. In Denver that is usually the roof. If a claim was paid and the work never done, expect a buyer's insurer to ask about it, and expect the number on any offer to reflect that. If the claim was settled and the roof replaced, keep the receipts and permit records in one folder.</p><p>Cosmetic work rarely pays back on a house that is being sold quickly. Clean it out, mow, and let the buyer decide what they would change. The goal is a clear picture of what the house needs, so the offers you receive are comparable.</p>"
+  },
+  {
+   "h2": "Paperwork to gather",
+   "html": "<p>Pull four items together: the latest tax statement from the property search tool, any loan payoff details, your lease and rent roll if a tenant lives there, and any city rental license if the house ran as a short-term rental. Having them ready means the title company can start its search the same day you accept an offer, and nobody has to wait on a missing page.</p>"
+  },
+  {
    "h2": "Three ways to sell a Denver house",
-   "html": "<p>Owners usually pick between an agent listing, a sale on their own and a cash purchase, and each swaps price for time and effort.</p><ul><li>Agent listing: often the best price for a house in good shape, though you wait through showings, repair requests after the inspection and the buyer's loan approval.</li><li>Sale on your own: you keep the commission and take on the pricing, disclosures and paperwork.</li><li>Cash sale: the buyer takes the house as it stands, so no repair list exists and you can frequently choose the closing day.</li></ul><p>Cash fits deferred maintenance, hail damage, a tenant in place or an estate that must be settled. A listing fits a clean house and a roomy calendar. Compare both before you decide. Our cash offer comes with no obligation.</p>"
+   "html": "<p>Owners usually pick between an agent listing, a sale on their own and a cash purchase, and each swaps price for time and effort.</p><ul><li>Agent listing: often the best price for a house in good shape, though you wait through showings, repair requests after the inspection and the buyer's loan approval.</li><li>Sale on your own: the commission stays in your pocket, and the pricing, disclosures and forms become your job.</li><li>Cash sale: the buyer accepts the house in its current state, which means no repair list and, often, a closing day of your choosing.</li></ul><p>Cash fits deferred maintenance, hail damage, a tenant in place or an estate that must be settled. A listing fits a clean house and a roomy calendar. Compare both before you decide. Our cash offer comes with no obligation.</p>"
   },
   {
    "h2": "Steps in a Denver cash sale",
@@ -41,23 +49,23 @@
  "faqs": [
   {
    "q": "How much is the median home worth in Denver?",
-   "a": "The 2020 to 2024 median value of owner-occupied homes is $616,000. Individual houses vary widely with condition, neighborhood and lot size, so use it as a citywide benchmark."
+   "a": "Census data for 2020 to 2024 puts the middle of the owner-occupied market at $616,000. Any single house can sit far from that figure, so read it as a citywide benchmark."
   },
   {
    "q": "When are Denver property taxes due?",
-   "a": "Pay in two installments, on the last day of February and June 15, or make one payment by April 30. A deadline on a weekend or holiday moves to the next business day."
+   "a": "You can pay half by the last day of February and half by June 15, or pay everything by April 30. Weekend and holiday deadlines roll forward a business day."
   },
   {
    "q": "Can I sell a Denver house that was used as a short-term rental?",
-   "a": "Yes. Denver requires a license and a primary-residence host, so a house that lacked either may raise compliance questions from a buyer. A cash buyer can purchase it as it stands, though you should settle any city fines or unpaid taxes."
+   "a": "Yes. Denver requires both a license and a host who lives there, so a house missing either may draw questions from a buyer. A cash buyer can take it as it stands, but settle any city fines or unpaid taxes."
   },
   {
    "q": "Does hail damage stop me from selling a house in Denver?",
-   "a": "No. Denver is among the most hail-prone large cities, so buyers expect to see it. A damaged roof can lower the price or complicate financing, which is why many owners consider an as-is cash sale."
+   "a": "No. Hail is so common here that buyers expect it. A damaged roof can pull the price down or complicate financing, so plenty of owners with roof damage look at an as-is sale."
   },
   {
    "q": "What is the state documentary fee in Colorado?",
-   "a": "It is $0.01 per $100 of consideration on a deed over $500, as county recording pages describe it. Look for it on the settlement statement."
+   "a": "One cent for every $100 of consideration on a deed above $500. County recording pages describe it that way, and you will see it listed at closing."
   }
  ],
  "sources": [

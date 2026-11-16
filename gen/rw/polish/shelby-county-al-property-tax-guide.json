@@ -2,58 +2,62 @@
  "slug": "shelby-county-al-property-tax-guide",
  "sections": [
   {
-   "h2": "How the tax bill is figured",
-   "html": "<p>Your Shelby County property tax equals the assessed value of the parcel multiplied by the millage rates of every taxing body that covers it. A mill is one tenth of one cent. The rates differ by city, school district and any special district, so the county tax office is the place to get the millage for your parcel.</p><p>A bill goes up in two ways: a taxing authority raises its millage, or the appraised value rises through a court-ordered reappraisal or a market increase. Alabama counties now reappraise every year, reviewing one quarter of the county annually, so each parcel is looked at over a four-year cycle.</p>"
+   "h2": "What goes into a Shelby County tax bill",
+   "html": "<p>Two things set what you pay: the assessed value of your parcel and the millage rates of every body that taxes it. A mill equals a tenth of a cent. Rates vary with the city, school district and any special district you live in, and the county tax office can quote the exact millage for a specific parcel.</p><p>Your bill rises if a taxing body lifts its rate. It also rises if the appraised value grows, whether from a court-ordered reappraisal or from a hot market. Every Alabama county now reappraises annually, working through a quarter of the county each year, so a given parcel gets a fresh look about every four years.</p>"
   },
   {
    "h2": "Due dates and penalties",
-   "html": "<p>Alabama property taxes are due October 1 and become delinquent after December 31. If a bill goes unpaid, the process moves along a set schedule.</p><table>\n<thead><tr><th>Date</th><th>What happens to the tax bill</th></tr></thead>\n<tbody>\n<tr><td>October 1</td><td>Taxes due</td></tr>\n<tr><td>December 31</td><td>Last day to pay before delinquency; last day to report improvements made by October 1</td></tr>\n<tr><td>January 1</td><td>Unpaid taxes delinquent</td></tr>\n<tr><td>February</td><td>Turned over to probate court</td></tr>\n<tr><td>March</td><td>Probate court meets</td></tr>\n<tr><td>April</td><td>Property advertised for sale</td></tr>\n<tr><td>May</td><td>Tax sale</td></tr>\n</tbody>\n</table><p>Counties do not have to mail notices. The bill is a courtesy, and you owe the tax whether or not one arrives, so call the office if you have not seen one by fall.</p>"
+   "html": "<p>Payment is due on October 1. A bill still open after December 31 is delinquent, and a fixed collection calendar then takes over.</p><table>\n<thead><tr><th>Date</th><th>What happens to the tax bill</th></tr></thead>\n<tbody>\n<tr><td>October 1</td><td>Taxes due</td></tr>\n<tr><td>December 31</td><td>Last day to pay before delinquency; last day to report improvements made by October 1</td></tr>\n<tr><td>January 1</td><td>Unpaid taxes delinquent</td></tr>\n<tr><td>February</td><td>Turned over to probate court</td></tr>\n<tr><td>March</td><td>Probate court meets</td></tr>\n<tr><td>April</td><td>Property advertised for sale</td></tr>\n<tr><td>May</td><td>Tax sale</td></tr>\n</tbody>\n</table><p>Nobody is required to mail you a notice. The bill is a courtesy, and the tax is owed even if nothing arrives. If you have not seen yours by autumn, phone the office.</p>"
   },
   {
    "h2": "Changes you must report",
-   "html": "<p>By December 31, visit the county revenue office and sign a new assessment for any improvement or removal made on or before October 1 of that year. Reportable work includes new structures and additions, pools, remodeling, an added bath or fireplace, a patio, deck, carport or garage.</p><p>Normal upkeep does not count. Re-roofing, minor repairs and painting need no reassessment. Selling soon? Keep a record of any work that fits the first list, because an unreported addition can surface later as a corrected assessment.</p>"
+   "html": "<p>Any improvement or removal made on or before October 1 has to be reported by December 31. Go to the county revenue office and sign a new assessment. The list covers new buildings and additions, pools, remodeling, an extra bath or fireplace, a patio, a deck, a carport and a garage.</p><p>Ordinary upkeep needs no report. That means re-roofing, small repairs and painting. If you plan to sell, keep a record of work that falls on the reportable list. An addition that nobody reported can show up later as a corrected assessment, and buyers dislike that surprise.</p>"
   },
   {
    "h2": "Homestead exemption",
-   "html": "<p>Alabama defines a homestead as a single-family, owner-occupied dwelling and its land, up to 160 acres, lived in as the primary residence on the first day of the tax year. Owners over 65, permanently and totally disabled owners and blind owners are exempt from the state portion of the tax, though county taxes may still be due.</p><p>File for an exemption at the county office, and ask that office for Shelby's own exemption amounts. The exemption follows the owner who lives in the home on the first day of the tax year, so a buyer who moves in applies for their own.</p>"
+   "html": "<p>A homestead under Alabama law is a single-family house you occupy as your primary residence, along with its land up to 160 acres, as of the first day of the tax year. The state share is waived for owners over 65, owners who are permanently and totally disabled and blind owners, while county taxes may still apply.</p><p>You claim the exemption at the county office, which can also tell you Shelby's own amounts. It follows whoever lives in the home on the first day of the tax year, so a buyer who moves in needs to apply separately.</p>"
   },
   {
-   "h2": "Buying or selling a house",
-   "html": "<p>For a purchase, the state's steps are short: record the deed at the probate office, then assess the property at the county revenue office and bring the deed. Make sure the year's taxes are paid, and expect that the bill may still carry the previous owner's name. The new owner is responsible for taxes on property they own whatever name is on the bill.</p><p>As a seller, make sure the closing statement says who pays the current year's tax. Report an address change to the county office in writing as well. If you think your assessment is wrong, ask the county tax office for the appeal form and the filing deadline before you list the house.</p>"
+   "h2": "Property tax when you buy or sell",
+   "html": "<p>The state suggests this order for a purchase. Record the deed at the probate office, then take the deed to the county revenue office to have the property assessed. Check that the year's taxes are paid. The bill may still show the prior owner, but the person who owns the property is the one responsible for its tax.</p><p>Sellers should confirm that the closing statement says who pays the current year's tax. Also send a written address change to the county. If you think the assessment is too high, ask the county tax office for the appeal form and deadline before listing, so the question is settled before buyers see the number.</p>"
   },
   {
    "h2": "Selling with taxes owed",
-   "html": "<p>You can still sell. The clock keeps running, though. A bill unpaid by December 31 turns delinquent on January 1 and moves toward the probate court and a possible May tax sale, so the sooner you learn about a balance, the more choices you have.</p><p>If a balance is due at closing, the contract and the closing agent can arrange payment out of the sale proceeds. A cash sale can close on a short schedule, which helps near a deadline, and a firm date is set after the title is reviewed.</p><ul><li>Ask the county tax office for the payoff on every year that shows a balance.</li><li>Check whether any improvement was left unreported.</li><li>Keep proof of any exemption you held in case the office asks.</li></ul><p>The steps at closing are the same whether the buyer pays cash or uses a loan. The title company confirms who owns the house and what is owed, collects the payoffs from your proceeds and records the deed at the probate office. You sign, and what remains is paid to you.</p>"
+   "html": "<p>A tax balance will not prevent a sale, yet the collection calendar keeps moving. A bill left unpaid after December 31 becomes delinquent January 1 and heads toward the probate court and possibly a May tax sale. The earlier you learn about a balance, the more options you keep.</p><p>When something is owed at closing, the contract and the closing agent can direct payment from the sale proceeds. A cash sale can close quickly, which helps when a date is near, and a firm date follows the title review.</p><ul><li>Ask the county tax office what each year with a balance would cost to clear.</li><li>Check whether any improvement went unreported.</li><li>Keep proof of any exemption you held in case the office asks.</li></ul><p>The closing works the same for a cash buyer and a financed one. A title company verifies ownership and what is owed, pays the lender and the county from your proceeds, records the deed at the probate office and sends you the balance.</p>"
   },
   {
-   "h2": "Documents to gather before you sell",
-   "html": "<p>Collect the deed, your most recent tax bill, any mortgage statement and a photo ID. If you made improvements, find the permits and dates. If you held a homestead exemption, find the confirmation. If the owner has died, bring the estate paperwork showing who can sign.</p><p>With these in hand, the title company can give you a clear payoff and a firm closing date much sooner.</p>"
+   "h2": "Documents to gather",
+   "html": "<p>Set out the deed, the newest tax bill, any mortgage statement and a photo ID. For improvements, find the permits and dates. For a homestead exemption, find the confirmation. If the owner has died, bring the estate paperwork showing who may sign.</p><p>Having these on hand lets a title company give you a clear payoff and a firm closing date much sooner. It also keeps you from scrambling when the closer asks for a document on the day you plan to sign.</p><p>If the property is jointly owned, make sure every owner can sign or can authorize someone else in writing. One missing signature can stop a closing, and finding that out early costs far less than finding it out at the table.</p>"
   },
   {
-   "h2": "Geography and towns",
-   "html": "<p>Shelby County is in central Alabama, covers 810 square miles and has Columbiana as its seat. Alabaster is the largest city. The county had 223,024 residents in 2020, with a 2025 estimate of 238,552.</p><p>Its incorporated places include Alabaster, Calera, Chelsea, Columbiana, Helena, Montevallo, Pelham, Westover, Harpersville, Indian Springs Village, Wilsonville and Wilton. Birmingham, Hoover, Leeds, Vestavia Hills and Vincent have parts inside the county but extend into neighboring ones, so confirm which county's records cover your parcel.</p><p>Interstate 65 and U.S. 31 run north to south, and U.S. 231 and U.S. 280 cross the east. Commercial flights use Birmingham-Shuttlesworth International Airport in neighboring Jefferson County, and the Shelby County Airport handles general aviation.</p>"
+   "h2": "Questions for the county office",
+   "html": "<p>A short call or visit saves trouble later. Ask what the parcel's current balance is and whether prior years are open. Ask which taxing bodies and special districts apply to the address. Ask whether any exemption is on file, and what changes when ownership transfers. Write down the answers with the date and the name of the department, so the closing agent can rely on them.</p><p>If your parcel sits near a city line, confirm which city's millage applies.</p>"
+  },
+  {
+   "h2": "Where Shelby County is",
+   "html": "<p>Shelby County occupies 810 square miles of central Alabama. Columbiana is the seat and Alabaster is the biggest city. The 2020 census counted 223,024 residents, and the 2025 estimate is 238,552.</p><p>Incorporated places include Alabaster, Calera, Chelsea, Columbiana, Helena, Montevallo, Pelham, Westover, Harpersville, Indian Springs Village, Wilsonville and Wilton. Parts of Birmingham, Hoover, Leeds, Vestavia Hills and Vincent lie inside the county while the cities extend into neighboring ones, so check which county's records cover your parcel.</p><p>Interstate 65 and U.S. 31 run north to south, while U.S. 231 and U.S. 280 cross the east. Airline passengers use Birmingham-Shuttlesworth International Airport across the line in Jefferson County, and the Shelby County Airport serves general aviation.</p>"
   },
   {
    "h2": "Schools and local landmarks",
-   "html": "<p>Four public systems serve the county: Shelby County Schools, Alabaster City Schools, Pelham City Schools and Hoover City Schools. Private schools include Briarwood Christian School and Indian Springs School. The district depends on the address, so check with the school systems before you tell a buyer.</p><p>Buyers recognize Oak Mountain State Park, Oak Mountain Amphitheatre, Cahaba River Wildlife Management Area, the Aldrich Coal Mine Museum, the Heart of Dixie Railroad Museum, Shelby Iron Works Park and American Village. A cash sale does not change the property tax steps. The buyer takes the house as is, taxes are settled at closing as the contract says, and the new owner reports the deed to the probate office.</p>"
+   "html": "<p>Four public systems operate in the county: Shelby County Schools, Alabaster City Schools, Pelham City Schools and Hoover City Schools. Briarwood Christian School and Indian Springs School are among the private choices. Which district applies depends on the address, so ask the school systems before quoting one to a buyer.</p><p>Buyers know Oak Mountain State Park, Oak Mountain Amphitheatre, Cahaba River Wildlife Management Area, the Aldrich Coal Mine Museum, the Heart of Dixie Railroad Museum, Shelby Iron Works Park and American Village. Selling for cash leaves the tax steps unchanged. The buyer takes the house as is, taxes are settled at closing under the contract, and the new owner reports the deed to the probate office.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Shelby County property taxes due?",
-   "a": "October 1, and they become delinquent after December 31. Unpaid taxes can go to a tax sale the following May."
+   "a": "They are due October 1 and become delinquent after December 31. A bill that stays unpaid can go to a tax sale in May."
   },
   {
-   "q": "Do I still owe tax if I never got a bill?",
-   "a": "Yes. Counties are not required to mail notices, so the tax is owed regardless."
+   "q": "Do I owe tax if no bill came?",
+   "a": "Yes. Counties need not mail notices, so the tax is owed either way."
   },
   {
-   "q": "What work on my Shelby County house has to be reported?",
-   "a": "New structures, additions, pools, remodeling, added baths or fireplaces, patios, decks, carports and garages. Re-roofing, painting and minor repairs do not need a reassessment. The deadline is December 31 for work done on or before October 1."
+   "q": "Which changes to my Shelby County house must I report?",
+   "a": "New structures, additions, pools, remodeling, added baths or fireplaces, patios, decks, carports and garages. Re-roofing, painting and minor repairs need no reassessment. Report by December 31 any work finished by October 1."
   },
   {
-   "q": "Who pays the tax when a Shelby County house sells mid-year?",
-   "a": "The new owner answers for taxes on property they own, even if the bill carries the old owner's name. The sale contract sets how the year is divided between buyer and seller."
+   "q": "Who pays the tax if a Shelby County house sells mid-year?",
+   "a": "The new owner is responsible for tax on property they own, even when the bill lists the old owner. The sale contract sets how the year is split between buyer and seller."
   },
   {
    "q": "How do I appeal a Shelby County assessment?",
