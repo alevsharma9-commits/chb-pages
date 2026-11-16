@@ -47,3 +47,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 * Merged below 85%: texas-eviction-notice 84.
 * sell-my-house-fast-paris-tx: protest deadline conflict (Lamar CAD May 31/30 days vs state May 15); page defers to reader's notice.
 * texas-mechanics-lien-home rests on 2 sources; texas-community-property-home-sale 4 sources; texas-intestate-succession and landlord-tenant-selling-rented-house 5 sources. Royse City figures from FY2025 budget (dated).
+* texas-1031-exchange: no Texas-specific rules, 5 sources. sell-my-house-fast-weslaco-tx: building codes from 2017 listing (dated); TSHA history figures through 2000.

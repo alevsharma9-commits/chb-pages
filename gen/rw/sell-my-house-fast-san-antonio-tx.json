@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What makes San Antonio different from a small town sale?",
-   "html": "<p>San Antonio sits at the head of the San Antonio River in Bexar County, and its reach across the region is shaped by three interstates and two loops.</p><p>The Texas State Historical Association points to Interstate 10 running east and west, Interstates 35 and 37 running north and south, plus Loop 410, State Loop 1604, the international airport and daily Amtrak service. The Handbook describes about three centuries of history, starting with a presidio, a town and five Franciscan missions strung along the river, and notes that San Antonio was the biggest city in Texas through the later 1800s. Nicknames such as Alamo City, River City and Military City, U.S.A. reflect that story. Size is the practical lesson for a seller, because blocks inside and outside the loops can differ enormously in age, price and commute.</p><ul><li>Compare recent sales within a mile or two of your house, not citywide numbers.</li><li>Note whether your house lies inside Loop 410, between the loops or beyond 1604.</li><li>Look at flood maps if the lot is close to the river or a creek.</li></ul>"
+   "html": "<p>San Antonio sits at the head of the San Antonio River in Bexar County, and its reach across the region is shaped by three interstates and two loops.</p><p>The Texas State Historical Association points to Interstate 10 running east and west, Interstates 35 and 37 running north and south, plus Loop 410, State Loop 1604, the international airport and daily Amtrak service. The Handbook describes about three centuries of history, starting with a presidio, a town and five Franciscan missions strung along the river, and notes that San Antonio was the biggest city in Texas through the later 1800s. Nicknames such as Alamo City, River City and Military City, U.S.A. reflect that story. The Handbook also lists the international airport and Stinson Airport among the facilities serving the city. Size is the practical lesson for a seller, because blocks inside and outside the loops can differ enormously in age, price and commute.</p><ul><li>Compare recent sales within a mile or two of your house, not citywide numbers.</li><li>Note whether your house lies inside Loop 410, between the loops or beyond 1604.</li><li>Look at flood maps if the lot is close to the river or a creek.</li></ul>"
   },
   {
    "h2": "Which way of selling fits a San Antonio house?",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "Who appraises and bills property tax in San Antonio?",
-   "html": "<p>Two offices touch your bill: BCAD sets the value and the Bexar County Tax Assessor-Collector takes the money.</p><p>BCAD's front page states that it takes no tax payments and refers payment questions to the assessor-collector. A banner there says 2026 notices went to new owners and to owners whose value rose $1,000 or more, and adds that a protest needs no notice. The valuation date is January 1 statewide, bills arrive in October and the payment deadline is January 31. Every taxing unit on your lot sets a rate of its own.</p>"
+   "html": "<p>Two offices touch your bill: BCAD decides the value, and the Bexar County Tax Assessor-Collector collects.</p><p>BCAD's front page states that it takes no tax payments and refers payment questions to the assessor-collector. A banner there says 2026 notices went to new owners and to owners whose value rose $1,000 or more, and adds that a protest needs no notice. The valuation date is January 1 statewide, bills arrive in October and the payment deadline is January 31. Every taxing unit on your lot sets a rate of its own.</p>"
   },
   {
    "h2": "Which dates should a San Antonio owner keep in mind?",
@@ -31,7 +31,15 @@
   },
   {
    "h2": "How is a San Antonio deed recorded?",
-   "html": "<p>Deeds for Bexar County land go to the county clerk, and a notary or similar officer must attest the signature first.</p><p>The clerk manual puts the first page at $5.00 and later pages at $4.00, plus other records fees. The title company usually files.</p>"
+   "html": "<p>Deeds for Bexar County land are filed with the clerk, and a notary or similar officer must attest the signature first.</p><p>The clerk manual puts the first page at $5.00 and later pages at $4.00, plus other records fees. The title company usually files.</p>"
+  },
+  {
+   "h2": "What can a Bexar County heir do with an inherited house?",
+   "html": "<p>Heirs have several routes to clear title, and the right one depends on what the owner left behind and what the house owes.</p><p>With a will, the executor or an heir files it for probate, which Texas permits for four years after death. If no administration is needed, a muniment of title order and the will go on record with the county clerk. Without a will, a small estate affidavit may work for modest estates. A deed that names a beneficiary and was recorded before the owner's death moves the house outside probate, and a Lady Bird deed lets the owner keep selling rights while alive. Expect the closer to ask for whichever paper applies.</p><ul><li>Get certified copies of the death certificate.</li><li>Find the last recorded deed for the parcel.</li><li>Ask the appraisal district about the homestead exemption before the next tax year.</li></ul>"
+  },
+  {
+   "h2": "How does a Texas foreclosure reach a San Antonio house?",
+   "html": "<p>Most Texas mortgages allow a sale without a court case, which makes the timeline short.</p><p>Federal rules generally hold a servicer back until a home loan is more than 120 days behind. A default notice then opens a 20 day period to bring the loan current, and the sale notice must be sent, posted at the courthouse and filed with the clerk at least 21 days before the auction. The auction itself takes place on a first Tuesday, with the first Wednesday used if that Tuesday is January 1 or July 4. Selling before that date can preserve equity and spare you a foreclosure on your record.</p>"
   }
  ],
  "faqs": [
@@ -41,7 +49,7 @@
   },
   {
    "q": "Do I need a notice to protest my value in San Antonio?",
-   "a": "No. The Bexar Central Appraisal District says you do not need a notice to submit a protest. The usual cutoff is May 15, or 30 days after the notice reaches you when that is later."
+   "a": "No. The Bexar Central Appraisal District says you do not need a notice to submit a protest. Check your notice for the cutoff, which most years falls in mid May."
   },
   {
    "q": "What homestead exemption do school districts give?",
@@ -49,7 +57,7 @@
   },
   {
    "q": "What happens to the lien when a San Antonio house sells?",
-   "a": "It remains on the house, so any old tax comes out of the seller's proceeds at closing."
+   "a": "It remains on the house, so any old tax is deducted at closing."
   },
   {
    "q": "When do foreclosure auctions occur near San Antonio?",
@@ -92,6 +100,18 @@
   {
    "title": "State Law Library: the foreclosure sale",
    "url": "https://guides.sll.texas.gov/foreclosure/the-sale"
+  },
+  {
+   "title": "State Law Library: probate and deeds",
+   "url": "https://guides.sll.texas.gov/wills-and-directives/transfer-property-after-death"
+  },
+  {
+   "title": "State Law Library: foreclosure before the sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/before-the-sale"
+  },
+  {
+   "title": "Texas Attorney General: foreclosure sale guidance",
+   "url": "https://texasattorneygeneral.gov/news/releases/informal-guidance-concerning-foreclosure-sales"
   },
   {
    "title": "County Clerk Manual 2023",

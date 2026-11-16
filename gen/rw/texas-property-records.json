@@ -1,27 +1,101 @@
-{"slug":"texas-property-records","sections":[
-{"h2":"Which office holds the land records for a house in Texas?","html":"<p>The clerk of the county that contains the house keeps them. In Texas the county clerk doubles as the recorder, and the courts' clerk manual lists that role next to two others: secretary to the commissioners court and filer of probate matters.</p><p>A seller living in Dallas with a house in another county therefore deals with the second county's clerk. The Comptroller counts 254 counties, and each runs its own index. Some post searchable images online and others expect a visit, so call the clerk's office before planning a trip.</p>"},
-{"h2":"What kinds of papers end up in the Texas deed records?","html":"<p>Ownership transfers and the paper that surrounds them. The 2023 clerk manual names several deed types: general warranty, special warranty, quitclaim, trustee's, sheriff's and tax deeds. It adds affidavits, releases of deeds of trust, leases, contracts of sale and powers of attorney.</p><ul><li>Deeds that pass ownership from one party to another.</li><li>Deeds of trust that secure a loan, and the releases that end them.</li><li>Notices of a lender's auction, filed by the clerk ahead of the sale.</li><li>State tax lien notices from the Comptroller, which the clerk enters in a state tax lien book.</li><li>Court papers that carry title after a death.</li></ul><p>A title search reads all of these in order, which is why a house with a messy record can take longer to close.</p>"},
-{"h2":"What must a deed have before the clerk will record it?","html":"<p>Signature plus acknowledgment, or a sworn statement before two witnesses who sign too. The manual cites Property Code section 12.001(b) and lists notaries, clerks and county court judges among those who can take an acknowledgment.</p><p>A deed missing that step may be refused. A missing mailing address for the buyer can add a charge. Compare names on the new deed with the name on the last recorded deed, because small differences, such as a dropped middle initial, lead to questions at closing. Title companies and attorneys normally draft the deed so such points get checked first.</p>"},
-{"h2":"What do clerks charge to record a deed?","html":"<p>The base amounts are set by statute and printed in the manual, with county add-ons on top. The table shows the figures from the 2023 edition.</p><table><caption>Clerk charges listed in the Texas courts' 2023 county clerk manual</caption><thead><tr><th>Charge</th><th>Amount printed</th></tr></thead><tbody><tr><td>First page of an instrument</td><td>$5.00</td></tr><tr><td>Each added page, part of a page or attachment</td><td>$4.00</td></tr><tr><td>Each name beyond five that must be indexed</td><td>$0.25</td></tr><tr><td>Records management and preservation</td><td>No more than $10</td></tr><tr><td>Records archive</td><td>No more than $10</td></tr><tr><td>Records technology and infrastructure</td><td>$2.00</td></tr><tr><td>Filing a foreclosure sale notice</td><td>$2.00 per notice</td></tr></tbody></table><p>A commissioners court may direct the clerk to waive real property recording fees for buyers using certain federal or state grant programs. Current schedules sit on the clerk's website or at the counter.</p>"},
-{"h2":"Is there a state transfer tax on Texas deeds?","html":"<p>None appears in the clerk manual or the Comptroller pages, which describe recording charges only. Confirm the full cost list for your closing with the clerk or a title company.</p><p>Property tax is a different cost. A lien for each year's tax arises on January 1 and the person who owned the house that day remains liable even after a sale, as the Comptroller's payment page explains. A closing therefore divides the year's tax between the parties, and a title search checks earlier years for unpaid amounts.</p>"},
-{"h2":"How do liens and sale deeds show up in the records?","html":"<p>Mortgages appear as recorded deeds of trust, and payoff leads to a recorded release. When a lender never filed that release, the old deed of trust can still appear in a search and may need clearing before a sale.</p><p>Tax matters leave other marks. The yearly property tax lien arises without any filing, while a state tax lien is a recorded notice. Deeds from tax sales are filed with the clerk too, and the filing date starts the redemption clock. A Texas Supreme Court opinion read for this guide describes homestead, agricultural and mineral property as redeemable for two years from the filing of the purchaser's deed, with a 25 percent premium in the first year and 50 percent in the second, plus the other costs the opinion lists. Other property follows a shorter 180-day window.</p><ul><li>Deeds of trust and releases.</li><li>State tax lien notices.</li><li>Tax foreclosure deeds and sheriff's deeds.</li><li>Any judgment or contractor claim that the clerk has indexed.</li></ul>"},
-{"h2":"What shows up in the records after a death or a foreclosure?","html":"<p>After a death, the paper depends on the route taken. The State Law Library pairs an administered estate with an executor's or administrator's deed, a muniment with the court order and will, and a transfer on death deed with an affidavit of death and death certificate. The clerk cannot add heirs to an earlier deed.</p><p>A foreclosure leaves its own trail. The lender's notice of sale goes on the courthouse door and into the clerk's files at least 21 days ahead. The commissioners court designates the sale area and records it. Sales run between 10 a.m. and 4 p.m. on the first Tuesday of the month, per the Attorney General's informal guidance, and the buyer's trustee deed is recorded afterward like any other deed.</p>"},
-{"h2":"How can a seller review the record before listing?","html":"<p>Pull the latest deed and any open deed of trust, then ask a title company or the clerk for a search. Finding a defect early leaves time to fix it.</p><ul><li>Check that the owner's name on the deed matches the name on the listing.</li><li>Locate the deed of trust and confirm the payoff or release.</li><li>Ask whether any state tax lien notice is on file.</li><li>Look up the appraisal district record for owner of record and exemptions.</li><li>For an inherited house, confirm the probate paper is recorded in the right county.</li></ul><p>These steps cost little and often save weeks at the closing table.</p>"}
-],
-"faqs":[
-{"q":"Who maintains Texas land records?","a":"The clerk of the county where the land lies. That clerk acts as recorder for deeds, deeds of trust, releases, liens and foreclosure notices."},
-{"q":"What is the clerk's charge for recording a deed?","a":"The 2023 manual prints $5.00 for page one and $4.00 for every added page, with further capped or fixed charges. The clerk's current schedule gives the total."},
-{"q":"What must a Texas deed carry to be recorded?","a":"A signature with an acknowledgment, or a sworn statement before two witnesses. A notary or other authorized officer can take the acknowledgment."},
-{"q":"Can a clerk add heirs to an old deed?","a":"No. A new instrument, such as an executor's deed, muniment order or affidavit of death, has to be recorded."},
-{"q":"Where do foreclosure notices go?","a":"Onto the courthouse door and into the clerk's files at least 21 days before the sale. The manual lists a $2.00 fee per notice."}
-],
-"sources":[
-{"title":"Texas Courts: County Clerk Manual 2023","url":"https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"},
-{"title":"Texas Comptroller: Local Government Counties","url":"https://comptroller.texas.gov/transparency/local/counties.php"},
-{"title":"Texas Comptroller: Paying Property Taxes","url":"https://comptroller.texas.gov/taxes/property-tax/pay"},
-{"title":"Texas Comptroller: Property Tax Deadlines","url":"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"},
-{"title":"Texas State Law Library: Property Deeds After a Death","url":"https://guides.sll.texas.gov/probate/property-deeds"},
-{"title":"Texas State Law Library: Foreclosure Before the Sale","url":"https://guides.sll.texas.gov/foreclosure/before-the-sale"},
-{"title":"Texas Attorney General: Foreclosure Sales Guidance","url":"https://texasattorneygeneral.gov/news/releases/informal-guidance-concerning-foreclosure-sales"},
-{"title":"Texas Supreme Court opinion on tax sale redemption","url":"https://txcourts.gov/media/1444020/160874.pdf"}
-]}
+{
+ "slug": "texas-property-records",
+ "sections": [
+  {
+   "h2": "Which office holds the land records for a house in Texas?",
+   "html": "<p>The clerk for the county that contains the house keeps them. In Texas the county clerk doubles as the recorder, and the courts' clerk manual lists that role next to two others: secretary to the commissioners court and filer of probate matters.</p><p>A seller living in Dallas with a house in another county therefore deals with the second county's clerk. The Comptroller counts 254 counties, and each runs its own index. Some post searchable images online and others expect a visit, so call the clerk's office before planning a trip.</p>"
+  },
+  {
+   "h2": "What kinds of papers end up in the Texas deed records?",
+   "html": "<p>Ownership transfers and the paper that surrounds them. The 2023 clerk manual names several deed types: general warranty, special warranty, quitclaim, trustee's, sheriff's and tax deeds. It adds affidavits, releases of deeds of trust, leases, contracts of sale and powers of attorney.</p><ul><li>Deeds that pass ownership from one party to another.</li><li>Deeds of trust that secure a loan, and the releases that end them.</li><li>Notices of a lender's auction, filed by the clerk ahead of the sale.</li><li>State tax lien notices from the Comptroller, which the clerk enters in a state tax lien book.</li><li>Court papers that carry title after a death.</li></ul><p>A title search reads all of these in order, which is why a house with a messy record can take longer to close.</p>"
+  },
+  {
+   "h2": "What must a deed have before the clerk will record it?",
+   "html": "<p>Signature plus acknowledgment, or a sworn statement before two witnesses who sign too. The manual cites Property Code section 12.001(b) and lists notaries, clerks and county court judges among those who can take an acknowledgment.</p><p>A deed missing that step may be refused. A missing mailing address for the buyer can add a charge. Compare names on the new deed with the name on the last recorded deed, because small differences, such as a dropped middle initial, lead to questions at closing. Title companies and attorneys normally draft the deed so such points get checked first.</p>"
+  },
+  {
+   "h2": "What do clerks charge to record a deed?",
+   "html": "<p>The base amounts are set by statute and printed in the manual, with county add-ons on top. The table shows the figures from the 2023 edition.</p><table><caption>Clerk charges listed in the Texas courts' 2023 county clerk manual</caption><thead><tr><th>Charge</th><th>Amount printed</th></tr></thead><tbody><tr><td>First page of an instrument</td><td>$5.00</td></tr><tr><td>Each added page, part of a page or attachment</td><td>$4.00</td></tr><tr><td>Each name beyond five that must be indexed</td><td>$0.25</td></tr><tr><td>Records management and preservation</td><td>No more than $10</td></tr><tr><td>Records archive</td><td>No more than $10</td></tr><tr><td>Records technology and infrastructure</td><td>$2.00</td></tr><tr><td>Filing a foreclosure sale notice</td><td>$2.00 per notice</td></tr></tbody></table><p>A commissioners court may direct the clerk to waive real property recording fees for buyers using certain federal or state grant programs. Current schedules sit on the clerk's website or at the counter.</p>"
+  },
+  {
+   "h2": "Is there a state transfer tax on Texas deeds?",
+   "html": "<p>None appears in the clerk manual or the Comptroller pages, which describe recording charges only. Confirm the full cost list for your closing with the clerk or a title company.</p><p>Property tax is a different cost. Each year's tax lien arises at the new year, and the person who owned the house then remains liable even after a sale, as the Comptroller's payment page explains. A closing therefore divides the year's tax between the parties, and a title search checks earlier years for unpaid amounts.</p>"
+  },
+  {
+   "h2": "How do liens and sale deeds show up in the records?",
+   "html": "<p>Mortgages appear as recorded deeds of trust, and payoff leads to a recorded release. When a lender never filed that release, the old deed of trust can still appear in a search and may need clearing before a sale.</p><p>Tax matters leave other marks. The yearly property tax lien arises without any filing, while a state tax lien is a recorded notice. Deeds from tax sales are filed with the clerk too, and the filing date starts the redemption clock. A Texas Supreme Court opinion read for this guide describes homestead, agricultural and mineral property as redeemable for two years from the filing of the purchaser's deed, with a 25 percent premium in the first year and 50 percent in the second, plus the other costs the opinion lists. Other property follows a shorter 180-day window.</p><ul><li>Deeds of trust and releases.</li><li>State tax lien notices.</li><li>Tax foreclosure deeds and sheriff's deeds.</li><li>Any judgment or contractor claim that the clerk has indexed.</li></ul>"
+  },
+  {
+   "h2": "What shows up in the records after a death or a foreclosure?",
+   "html": "<p>After a death, the paper depends on the route taken. The State Law Library pairs an administered estate with an executor's or administrator's deed, a muniment with the court order and will, and a transfer on death deed with an affidavit of death and death certificate. The clerk cannot add heirs to an earlier deed.</p><p>A foreclosure leaves its own trail. The lender's notice of sale goes on the courthouse door and into the clerk's files at least 21 days ahead. The commissioners court designates the sale area and records it. The Attorney General's informal guidance puts sales between 10 a.m. and 4 p.m., normally on the month's first Tuesday, and the buyer's trustee deed is recorded afterward like any other deed.</p>"
+  },
+  {
+   "h2": "What can a former owner reclaim after a tax or lender sale?",
+   "html": "<p>A former owner may have money coming. After a property tax foreclosure, the State Law Library says the former owner has two years from the sale to claim excess proceeds. After a lender's sale, extra funds go to junior lienholders first and then the former owner.</p><p>The same guide says a borrower can face a deficiency suit, which must be filed within two years of the sale, and may ask for a fair market value offset. Redemption after a lender's sale exists only for certain kinds, such as owners' association assessment liens. Recorded deeds show the sale date, so the dates in the clerk's records are the starting point for every one of these deadlines.</p><p>Someone still living in a house after a sale may face an eviction case, which is a court matter and not a records question. The buyer's deed in the land records is the proof the buyer would show.</p>"
+  },
+  {
+   "h2": "How can a seller review the record before listing?",
+   "html": "<p>Pull the latest deed and any open deed of trust, then ask a title company or the clerk for a search. Finding a defect early leaves time to fix it.</p><ul><li>Check that the owner's name on the deed matches the name on the listing.</li><li>Locate the deed of trust and confirm the payoff or release.</li><li>Ask whether any state tax lien notice is on file.</li><li>Look up the appraisal district record for owner of record and exemptions.</li><li>For an inherited house, confirm the probate paper is recorded in the right county.</li></ul><p>These steps cost little and often save weeks at the closing table.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who maintains Texas land records?",
+   "a": "The county clerk for the land's location, who serves as recorder of deeds, deeds of trust, releases, liens and foreclosure notices."
+  },
+  {
+   "q": "How much does a clerk charge for a deed filing?",
+   "a": "The 2023 manual prints $5.00 for page one and $4.00 for every added page, with further capped or fixed charges. The clerk's current schedule gives the total."
+  },
+  {
+   "q": "What must a Texas deed carry to be recorded?",
+   "a": "A signature with an acknowledgment, or a sworn statement before two witnesses. A notary or other authorized officer can take the acknowledgment."
+  },
+  {
+   "q": "Can a clerk add heirs to an old deed?",
+   "a": "No. A new instrument, such as an executor's deed, muniment order or affidavit of death, has to be recorded."
+  },
+  {
+   "q": "Where do foreclosure notices go?",
+   "a": "Onto the courthouse door and into the clerk's files at least 21 days before the sale. The manual lists a $2.00 fee per notice."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas Courts: County Clerk Manual 2023",
+   "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"
+  },
+  {
+   "title": "Texas Comptroller: Local Government Counties",
+   "url": "https://comptroller.texas.gov/transparency/local/counties.php"
+  },
+  {
+   "title": "Texas Comptroller: Paying Property Taxes",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  },
+  {
+   "title": "Texas Comptroller: Property Tax Deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  },
+  {
+   "title": "Texas State Law Library: Property Deeds After a Death",
+   "url": "https://guides.sll.texas.gov/probate/property-deeds"
+  },
+  {
+   "title": "Texas State Law Library: Foreclosure Before the Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/before-the-sale"
+  },
+  {
+   "title": "Texas Attorney General: Foreclosure Sales Guidance",
+   "url": "https://texasattorneygeneral.gov/news/releases/informal-guidance-concerning-foreclosure-sales"
+  },
+  {
+   "title": "Texas Supreme Court opinion on tax sale redemption",
+   "url": "https://txcourts.gov/media/1444020/160874.pdf"
+  },
+  {
+   "title": "Texas State Law Library: Foreclosure After the Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/after-the-sale"
+  }
+ ]
+}

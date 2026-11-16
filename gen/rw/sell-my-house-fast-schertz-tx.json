@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "What are your choices when selling a house in Schertz?",
-   "html": "<p>Schertz owners can hire an agent, try a sale by owner, or take cash from a buyer who accepts the house as it stands. The right pick depends on repairs, deadlines and how much price you will trade for speed.</p><p>Schertz sits on the Bexar and Guadalupe county line, and the city later spread into Comal County. A single street can therefore fall under more than one county office, so confirm which county holds your parcel before you sign anything.</p><p>Ask every buyer for a written offer, then compare it with an agent's estimate of your net after commission and fix up costs.</p>"
+   "html": "<p>Three paths are open in Schertz: a listing with an agent, a do it yourself sale, or a cash purchase of the house in present condition. Repairs, deadlines and your tolerance for a lower price decide between them.</p><p>Schertz sits on the Bexar and Guadalupe county line, and the city later spread into Comal County. A single street can therefore fall under more than one county office, so confirm which county holds your parcel before you sign anything.</p><p>Collect each offer in writing and measure it against what an agent expects you would keep after commission and fix up costs.</p>"
   },
   {
    "h2": "How did Schertz grow from a rail stop into a suburb?",
@@ -27,11 +27,11 @@
   },
   {
    "h2": "How do Texas homestead breaks apply to a Schertz house?",
-   "html": "<p>Property value is fixed on January 1, and each year's tax lien starts the same day. These figures are as the Comptroller prints them:</p><table><caption>Homestead relief that can apply to a Schertz house (Texas Comptroller)</caption><thead><tr><th>Benefit</th><th>Who gets it</th><th>As printed</th></tr></thead><tbody><tr><td>School homestead exemption</td><td>Owner living in the home</td><td>$140,000</td></tr><tr><td>Extra school exemption</td><td>Age 65 or more, or disabled</td><td>$60,000</td></tr><tr><td>Appraisal cap</td><td>Homestead owner</td><td>10 percent a year</td></tr><tr><td>School tax ceiling</td><td>Age 65 or more, or disabled</td><td>Total annual school tax cannot rise</td></tr></tbody></table><p>Bills arrive around October 1, and January 31 is the usual last day to pay. Whatever is still owed at closing comes out of your proceeds, so ask the county for a payoff figure early.</p>"
+   "html": "<p>Property value is fixed on January 1, and each year's tax lien starts the same day. These figures are as the Comptroller prints them:</p><table><caption>Homestead relief that can apply to a Schertz house (Texas Comptroller)</caption><thead><tr><th>Benefit</th><th>Who gets it</th><th>As printed</th></tr></thead><tbody><tr><td>School homestead exemption</td><td>Owner living in the home</td><td>$140,000</td></tr><tr><td>Extra school exemption</td><td>Age 65 or more, or disabled</td><td>$60,000</td></tr><tr><td>Appraisal cap</td><td>Homestead owner</td><td>10 percent a year</td></tr><tr><td>School tax ceiling</td><td>Age 65 or more, or disabled</td><td>Total annual school tax cannot rise</td></tr></tbody></table><p>Bills arrive around October 1, and January 31 is the usual last day to pay. Any balance left at closing is subtracted from what you receive, which is why an early payoff figure from the county helps.</p>"
   },
   {
    "h2": "What if you are behind on the mortgage or the taxes in Schertz?",
-   "html": "<p>A Texas lender cannot hold a foreclosure sale until a notice of sale goes out, and the auction falls on a first Tuesday. Selling privately beforehand can keep the equity that a foreclosure might hand to junior lien holders first.</p><p>Unpaid taxes pile on costs. Penalty and interest begin February 1 and the penalty reaches 12 percent on July 1. Some collectors allow installment plans for a residence homestead, so call the tax office early.</p>"
+   "html": "<p>A Texas lender cannot hold a foreclosure sale until a notice of sale goes out, and the auction falls on a first Tuesday. Selling privately beforehand can keep the equity that a foreclosure might hand to junior lien holders first.</p><p>Unpaid taxes pile on costs. Charges start February 1, and the penalty climbs to 12 percent by July 1. Some collectors allow installment plans for a residence homestead, so call the tax office early.</p>"
   },
   {
    "h2": "Can you sell a Schertz house that has a tenant?",
@@ -39,7 +39,7 @@
   },
   {
    "h2": "How are deeds and probate houses handled in Schertz?",
-   "html": "<p>The county clerk files the deed, once a notary or other authorized officer has witnessed the signature. Because Schertz crosses county lines, confirm which clerk before you visit.</p><p>Inherited houses follow the estate's route:</p><ul><li>A will that went through probate leads to an executor's deed or a court order.</li><li>A muniment of title can pass a house when the estate owes only real estate liens.</li><li>An affidavit of heirship is sworn and filed with the clerk, yet no law makes a buyer or title company accept it.</li></ul><p>A title company can say which route fits before you list.</p>"
+   "html": "<p>The county clerk files the deed, once a notary or other authorized officer has witnessed the signature. Because Schertz crosses county lines, confirm which clerk before you visit.</p><p>Inherited houses follow the estate's route:</p><ul><li>A will that went through probate leads to an executor's deed or a court order.</li><li>A muniment of title can pass a house when the estate owes only real estate liens.</li><li>An heirship affidavit is a sworn statement placed with the clerk, but a buyer or title company can decline it.</li></ul><p>A title company can say which route fits before you list.</p>"
   }
  ],
  "faqs": [
@@ -61,7 +61,7 @@
   },
   {
    "q": "Must a Schertz house be repaired before a cash sale?",
-   "a": "Often no. Cash buyers commonly accept the house in its current state, and you can compare that offer with an agent's estimate after repairs and commission."
+   "a": "Often no. Cash buyers frequently take houses in present condition. Weigh that offer against an agent's projection after repairs and commission."
   }
  ],
  "sources": [

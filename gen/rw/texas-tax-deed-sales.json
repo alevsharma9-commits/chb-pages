@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "How does a Texas property go to a tax sale?",
-   "html": "<p>A tax lien attaches to every Texas property on January 1 to secure that year's taxes, and an unpaid bill can lead to a lawsuit and a foreclosure auction. The sale is a tax foreclosure auction, and the winning bidder receives a deed afterward.</p><p>The ladder runs in order: delinquency notices, an optional installment plan, then a suit by the taxing unit, with court costs added to the bill. Taxes become delinquent on February 1 in most cases. The Comptroller explains that the collector adds a 6 percent penalty plus 1 percent interest at once; the penalty reaches 12 percent by July 1, while interest keeps accruing monthly. Attorneys the unit hires may tack on as much as 20 percent more.</p>"
+   "html": "<p>Each year's taxes are secured by a lien that arises on the first day of January, and a bill left unpaid can end in a suit and then an auction of the property. The sale is a tax foreclosure auction, and the winning bidder receives a deed afterward.</p><p>The ladder runs in order: delinquency notices, an optional installment plan, then a suit by the taxing unit, with court costs added to the bill. Once a bill goes delinquent the Comptroller says the cost climbs: an initial penalty and interest charge is added, the penalty grows each month until July, and interest has no ceiling. Collection attorneys hired by the unit can add a further charge.</p>"
   },
   {
    "h2": "Who runs the sale and where is it held?",
-   "html": "<p>Tax foreclosure sales are auctions, typically run by the constable or an agent the taxing unit hires. There is no statewide list of upcoming sales.</p><p>The State Law Library tells buyers and owners to check the county clerk or county tax office websites for sale notices. Because each taxing unit and county handles notices its own way, call the tax office that bills the property instead of trusting a general list. The lien survives a change of ownership, so a buyer at an ordinary sale who skips the tax check can end up with the liability.</p>"
+   "html": "<p>Tax foreclosure sales are auctions, typically run by the constable or an agent the taxing unit hires.</p><p>The State Law Library tells buyers and owners to check the county clerk or county tax office websites for sale notices. Because each taxing unit and county handles notices its own way, call the tax office that bills the property instead of trusting a general list. The lien survives a change of ownership, so a buyer at an ordinary sale who skips the tax check can end up with the liability.</p>"
   },
   {
    "h2": "Can the former owner get the property back after a Texas tax sale?",
@@ -19,11 +19,11 @@
   },
   {
    "h2": "What should a buyer check before bidding at a tax sale?",
-   "html": "<p>A buyer should confirm what the deed will and will not do, because the redemption right can reopen the deal after the sale.</p><ul><li>Find out from the tax office which units' taxes the sale covers.</li><li>Check whether the property is a homestead, farmland or has a mineral interest, since these have the longer redemption period.</li><li>Review the county records for other liens. The comptroller files state tax liens with the county clerk, who records them in the state tax lien book.</li><li>Plan for the possibility of an occupant. A buyer facing an occupant may need an eviction case.</li></ul><p>The county clerk is the county recorder, so the clerk's office is also where the deed will be recorded afterward.</p>"
+   "html": "<p>A buyer should confirm what the deed will and will not do, because the redemption right can reopen the deal after the sale.</p><ul><li>Find out from the tax office which units' taxes the sale covers.</li><li>Check whether the property is a homestead, farmland or has a mineral interest, since these have the longer redemption period.</li><li>Review the county records for other liens. The comptroller files state tax liens with the county clerk, who records them in the state tax lien book.</li><li>Plan for the possibility of an occupant. If someone is living there, expect to need a court case to get possession.</li></ul><p>The county clerk is the county recorder, so the clerk's office is also where the deed will be recorded afterward.</p>"
   },
   {
    "h2": "How can an owner avoid a tax sale in Texas?",
-   "html": "<p>Pay before the delinquency date or work out a payment plan. Some collectors allow installment plans up to 36 months, and one is required on a residence homestead.</p><p>Penalty and interest can be waived in many cases if payment comes within 21 days after the owner learns of the delinquency and the waiver is requested in writing before the 181st day after the delinquency date. Older or disabled homeowners can split delinquent tax into four installments, and veterans with a disability rating may qualify for an exemption. If you are behind and thinking of selling, a sale that pays the tax at closing ends the lien problem before a lawsuit begins.</p>"
+   "html": "<p>Pay before the delinquency date or work out a payment plan. Plans on delinquent bills can run as long as 36 months with some collectors, and a homestead owner is entitled to one.</p><p>Penalty and interest waivers exist for many cases, but they require quick payment and a written request, so ask the collector for the exact deadlines on your bill. Older or disabled homeowners can split delinquent tax into four installments, and veterans with a disability rating may qualify for an exemption. If you are behind and thinking of selling, a sale that pays the tax at closing ends the lien problem before a lawsuit begins.</p>"
   },
   {
    "h2": "Does a tax sale affect a seller trying to sell a house?",
@@ -31,33 +31,37 @@
   },
   {
    "h2": "What does the Texas property tax calendar mean for a seller?",
-   "html": "<p>Values are fixed on January 1, bills are mailed near October 1, and a split payment lets an owner pay half in November and the balance in June.</p><p>Most owners need to pay by January 31, because taxes unpaid on February 1 are delinquent. A bill mailed after January 10 pushes delinquency later, to the first of a month that leaves at least 21 days. For appraisals, the deadline to protest with the appraisal review board is generally May 15, or the 30th day after delivery of the appraisal notice if that comes later. After the board, an owner can appeal to district court, binding arbitration, or the state's administrative hearings office when the board value tops $1,000,000.</p><ul><li>Residence homestead values may rise no more than 10 percent per year under Section 23.23, starting the year after the exemption is first qualified.</li><li>Section 11.26 can freeze school tax for an older or disabled homeowner.</li><li>Appealing owners usually must pay the undisputed amount before the delinquency date.</li></ul>"
+   "html": "<p>Values are fixed on January 1, bills are mailed near October 1, and a split payment lets an owner pay half in November and the balance in June.</p><p>Most owners need to pay by January 31, because taxes unpaid on February 1 are delinquent. Late-mailed bills get a later delinquency date. An owner who disagrees with the appraised value takes that dispute to the appraisal review board, generally by mid-May. After the board, an owner can appeal to district court, binding arbitration, or the state's administrative hearings office when the board value tops $1,000,000.</p><ul><li>Section 23.23 caps yearly increases in a homestead's appraised value at 10 percent.</li><li>Section 11.26 can freeze school tax for an older or disabled homeowner.</li><li>An owner who appeals should still pay the amount not in dispute on time.</li></ul>"
   },
   {
    "h2": "What help exists for owners who are behind on taxes?",
-   "html": "<p>Ask the county tax assessor-collector about installment plans, waivers and exemptions before a suit is filed. Many taxing units contract with the assessor-collector, so one office often handles the bill for several units.</p><p>The Comptroller notes that those homeowners can pay delinquent amounts in installments, with a 6 percent charge on the late installment and monthly interest. Disabled veterans may qualify for exemptions from $5,000 to $12,000 depending on their disability rating, and a 100 percent disabled veteran can receive a total exemption on the residence homestead. The Section 11.22 application window can stretch up to five years after the delinquency date.</p>"
+   "html": "<p>Ask the county tax assessor-collector about installment plans, waivers and exemptions before a suit is filed. Many taxing units contract with the assessor-collector, so one office often handles the bill for several units.</p><p>The Comptroller notes that those homeowners can pay delinquent amounts in installments, with a 6 percent charge on the late installment and monthly interest. Disabled veterans should ask the appraisal district about the exemption that matches their VA rating.</p>"
+  },
+  {
+   "h2": "What should an owner do after receiving a notice of tax suit or sale?",
+   "html": "<p>Act on it the same week. Call the tax office named on the notice, ask for the full payoff with court costs included, and ask whether the collector offers a payment plan for the delinquent years. Collection ladders in Texas move from notices to a plan to a lawsuit, and each step adds expense, so the cheapest moment to resolve a debt is the earliest one.</p><ul><li>Write down the cause number and the court named on any suit papers.</li><li>Ask the clerk of that court how an excess proceeds claim would be filed.</li><li>Keep copies of every payment receipt, since the owner of record remains answerable for the year's tax.</li><li>If you plan to sell, give the title company the tax office's payoff letter right away.</li></ul><p>Heirs and family members sometimes learn about a delinquent bill only after the owner has died. In that situation the first job is to sort out who holds title, because the person who can negotiate with the tax office is the owner or someone authorized to act for the estate.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Is there a redemption period after a Texas tax sale?",
-   "a": "Yes. Homestead, agricultural and mineral interest property has two years from the filing of the purchaser's deed, while other property has until the 180th day."
+   "a": "Yes. Homestead, farm and mineral property carries a two-year window. Other property gets roughly half a year."
   },
   {
    "q": "What premium does a redeeming owner pay?",
-   "a": "On homestead, agricultural or mineral interest property it is 25 percent in the first year and 50 percent in the second. For other property it cannot exceed 25 percent."
+   "a": "For the two-year category, the premium is 25 percent if the owner redeems in year one and 50 percent in year two. Other property carries a premium of no more than 25 percent."
   },
   {
    "q": "When does the right to claim leftover sale money end?",
-   "a": "Two years from the date of the sale. Claims go through the court that ordered the sale under Tax Code Sections 34.03 and 34.04."
+   "a": "Two years after the sale. Claims go through the court that ordered the sale under Tax Code Sections 34.03 and 34.04."
   },
   {
    "q": "When do Texas property taxes become delinquent?",
-   "a": "In most cases unpaid taxes are delinquent on February 1 after the bill year, and a penalty and interest begin that day."
+   "a": "Usually on February 1 following the bill year, when penalty and interest start to run."
   },
   {
    "q": "Where do I find tax sale listings?",
-   "a": "There is no statewide list. Check the county clerk and county tax office websites, or call the tax office that bills the property."
+   "a": "No single statewide list exists. Check the county clerk and county tax office websites, or call the tax office that bills the property."
   }
  ],
  "sources": [
