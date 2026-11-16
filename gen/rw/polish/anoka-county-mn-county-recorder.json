@@ -1,0 +1,85 @@
+{
+ "slug": "anoka-county-mn-county-recorder",
+ "sections": [
+  {
+   "h2": "Recorder's office and what it does",
+   "html": "<p>The Anoka County Recorder and Registrar of Titles, part of Property Records &amp; Taxation, files deeds, mortgages and satisfactions and keeps the permanent archive of recorded real property documents. The office is at 2100 3rd Avenue, Anoka, MN 55303. Call 763-323-5400 with questions before you send a document, since a rejected filing costs you days at closing and sometimes a second round of fees.</p><p>Minnesota Statute 481.02 bars county staff from giving legal advice, helping prepare documents or performing abstracting. Staff send people who need help to a real estate attorney or a title company, and the county takes no liability for documents people complete themselves. The <a href=\"https://www.anokacountymn.gov/4265/Land-Records-Recording\">Land Records &amp; Recording page</a> has the details.</p>"
+  },
+  {
+   "h2": "Abstract and Torrens property",
+   "html": "<p>Minnesota has two land record systems, and Anoka County uses both. Abstract property is the common kind, and most property here falls into it. When Abstract property sells, a thorough title search should look for any document that mentions the parcel.</p><p>Torrens property has a Certificate of Title that gives conclusive proof of ownership, with some exceptions, and it pulls the record into one document. Owners may convert property from Abstract to Torrens through land registration. If you do not know which system applies to your house, ask the recorder before the deed is drafted, because Torrens transfers carry their own certificate fees.</p>"
+  },
+  {
+   "h2": "What a deed must include to be recorded",
+   "html": "<p>The county publishes a checklist on its recording requirements page. Go through it before you send anything.</p><ul><li>The original document, dated and signed</li><li>A complete acknowledgment with the date, notary signature, legible seal and commission expiration date</li><li>Names and marital status of the people signing, and corporate details if a business signs</li><li>A complete legal description, with any exhibits noted and attached</li><li>A \"Drafted by\" line with name and address</li><li>Filing fees, with no white-out or white-out tape on any document</li><li>A \"Send tax statements to\" line naming the buyer</li><li>Payment in full of delinquent taxes, and of current-year taxes if the parcel is being split</li></ul><p>Transfer deeds, including contracts for deed, also need a well disclosure. That can be a completed Well Disclosure Certificate with a $54 fee, or one of two sentences on the deed: either the seller knows of no wells, or the well status has not changed since the last filed certificate.</p>"
+  },
+  {
+   "h2": "Recording fees and deed tax",
+   "html": "<p>These fees took effect July 1, 2025. Deed tax is the large item, and <a href=\"https://www.revisor.mn.gov/statutes/cite/287.21\">Minnesota Statute 287.21</a> sets it.</p><table><caption>Selected Anoka County recording charges</caption><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Recording fee for an Abstract document</td><td>$46.00</td></tr><tr><td>State deed tax on consideration above $3,000</td><td>0.33% of net consideration</td></tr><tr><td>State deed tax at $3,000 or less</td><td>$1.65</td></tr><tr><td>Agricultural conservation fee</td><td>$5.00</td></tr><tr><td>Well certificate</td><td>$54.00</td></tr><tr><td>Mortgage registration tax</td><td>0.23% of debt secured</td></tr><tr><td>Certified copy of a document</td><td>$10.00</td></tr><tr><td>Interested party fee, per parcel</td><td>$15.00</td></tr></tbody></table><p>The deed tax is due when the deed is presented for recording. Torrens filings have a separate fee list, such as $46 for a new Certificate of Title.</p><p>Mortgage paperwork has its own math. The mortgage registration tax is the amount of debt secured times 0.0023, plus the $5 conservation fee, and a mortgage paid in another county still owes the $5 in Anoka County. Satisfactions and assignments that cite four documents or fewer cost $46, with $10 more for each document cited beyond the fourth.</p>"
+  },
+  {
+   "h2": "Certificate of real estate value",
+   "html": "<p>You need one for sales above $3,000, with a few exceptions. <a href=\"https://www.revisor.mn.gov/statutes/cite/272.115\">Minnesota Statute 272.115</a> requires the grantor, grantee or their agent to file a certificate of value when the deed is presented for recording. Anoka County wants the completed electronic certificate, called an eCRV, and its number on the transfer document.</p><p>The certificate lists the sale price, the property's classification and the financing terms. It carries the Social Security or employer number of each party, which the statute treats as private data. A filed certificate also keeps the buyer eligible for homestead status, since the statute bars homestead treatment for a sold property when none was filed. The assessor removes homestead status for the following year after a sale unless the buyer applies and qualifies.</p>"
+  },
+  {
+   "h2": "How to submit a deed",
+   "html": "<p>There are three routes.</p><ul><li>eRecording, which title companies, lenders and law firms use, through CSC eRecording Solutions, ePN, Indecomm and Simplifile.</li><li>Mail, with the documents and fees sent to Anoka County Property Records &amp; Taxation at 2100 3rd Avenue, Anoka, MN 55303.</li><li>In person at the same address, paying by cash, check, debit or credit card, or Apple Pay.</li></ul><p>If a title company is handling your closing, ask whether it will e-record the deed. If you are filing on your own, such as a transfer between relatives, send the signed original, the eCRV number, the well disclosure and a payment covering the deed tax and fees.</p><p>Plan the order of steps. Get the deed drafted by an attorney or title company, sign it in front of a notary, file the eCRV, attach the well disclosure, and then present everything with payment. The recorded deed becomes the permanent record, and certified copies cost $10.00 each if your lender or buyer asks for one. If any delinquent tax is owed on the parcel, it has to be paid before the deed can be recorded, so call the office early in the week of your closing.</p><p>Before you file, walk through the checklist above one more time. A missing notary seal or a blank \"Send tax statements to\" line is the usual reason a deed comes back, and a cash sale gets no shortcut here: the same paperwork and fees apply.</p>"
+  },
+  {
+   "h2": "Local context",
+   "html": "<p>The county counts 381,605 residents across twenty cities, among them Blaine, Coon Rapids, Fridley and Andover. A deed for a house in any of those cities lands at this single county office, so there is no city-level recording desk to look for. About 90.7% of residents lived at the same address a year earlier, and owner-occupied median value is $346,500. The southeastern tip that was once Manomin County joined Anoka County in 1869, so very old deeds in that corner can carry unfamiliar place names.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the recording fee for a deed in Anoka County?",
+   "a": "It is $46.00 for an Abstract document under the schedule effective July 1, 2025. The state deed tax, the $5 agricultural conservation fee and a $54 well certificate fee come on top when they apply."
+  },
+  {
+   "q": "How much is the deed tax on an Anoka County sale?",
+   "a": "It is 0.33% of net consideration when the price is above $3,000, and $1.65 when the price is $3,000 or less. The $5 conservation fee is added. The tax is due when the deed is presented for recording."
+  },
+  {
+   "q": "Does an Anoka County deed need well information?",
+   "a": "Yes, every transfer deed and contract for deed does. Attach a Well Disclosure Certificate with its $54 fee, or put a qualifying statement on the deed that the seller knows of no wells or that the wells are unchanged."
+  },
+  {
+   "q": "Can I record an Anoka County deed online?",
+   "a": "Yes, through eRecording submitters such as CSC eRecording Solutions, ePN, Indecomm or Simplifile. These services are meant for title companies, lenders and law firms, so an individual seller normally relies on the closing agent."
+  },
+  {
+   "q": "Will the Anoka County Recorder help me draft a deed?",
+   "a": "No. The county gives no legal advice and does not help prepare documents or do abstracting. It recommends a real estate attorney or title company."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Anoka County Land Records & Recording",
+   "url": "https://www.anokacountymn.gov/4265/Land-Records-Recording"
+  },
+  {
+   "title": "Anoka County Recording Fees",
+   "url": "https://anokacountymn.gov/4270/Fees"
+  },
+  {
+   "title": "Anoka County Document Recording Requirements",
+   "url": "https://anokacountymn.gov/4268/Document-Recording-Requirements-and-Form"
+  },
+  {
+   "title": "Minnesota Statutes 287.21",
+   "url": "https://www.revisor.mn.gov/statutes/cite/287.21"
+  },
+  {
+   "title": "Minnesota Statutes 272.115",
+   "url": "https://www.revisor.mn.gov/statutes/cite/272.115"
+  },
+  {
+   "title": "Census Bureau QuickFacts",
+   "url": "https://www.census.gov/quickfacts/fact/table/aitkincountyminnesota,anokacountyminnesota,beckercountyminnesota/PST045224"
+  },
+  {
+   "title": "Anoka County, Minnesota (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Anoka_County,_Minnesota"
+  }
+ ]
+}
