@@ -1,0 +1,89 @@
+{
+ "slug": "indiana-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Indiana tax on a house sale gain",
+   "html": "<p>Indiana has no separate capital gains tax on a house. Gain is taxed as ordinary income through the individual adjusted gross income tax, which starts from your federal adjusted gross income (as defined in Section 62 of the Internal Revenue Code) and then applies Indiana's own additions and subtractions. If a taxable gain lands on your federal return, it flows into the state figure.</p>\n<p>The state rate is 2.95 percent for 2026 and 2.90 percent for 2027. A single rate covers your whole income, gain included.</p>\n<p>Counties add their own income tax on top. Howard County, for instance, is at 0.0235, or 2.35 percent, for periods beginning on or after October 1, 2026. Your county is set by where you lived on January 1, and county rates can be adjusted in January and October. The IT-40 booklet lists the current rate for every county.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>For most sellers, the federal exclusion decides whether any gain reaches the state calculation at all. You can exclude up to $250,000 of gain on the sale of your main home, or $500,000 on a joint return with a spouse.</p>\n<p>The tests in IRS Topic 701 are specific:</p>\n<ul>\n<li>You or your spouse owned the home for at least 24 months of the last 5 years.</li>\n<li>The home was your residence for at least 24 months of the last 5 years, and both spouses must meet this test on a joint return.</li>\n<li>Both tests are measured over the 5 years ending on the sale date, though the two 24-month periods can fall in different stretches.</li>\n<li>You cannot use the exclusion if you excluded gain from another home sale within the previous two years.</li>\n</ul>\n<p>If you receive a Form 1099-S, report the sale even when the whole gain is excludable. When the exclusion does not cover everything, Schedule D and Form 8949 come into play. A person on qualified official extended duty can elect to suspend the five-year period for up to ten years.</p>"
+  },
+  {
+   "h2": "Federal tax on gain above the exclusion",
+   "html": "<p>A gain on property held more than one year is long term and is taxed at 0, 15 or 20 percent depending on taxable income. Gain on property held one year or less is short term and taxed as ordinary income. These are the 2025 thresholds, and they change each year, so check the current ones before you file.</p>\n<table><thead><tr><th>Filing status</th><th>0 percent up to</th><th>15 percent up to</th></tr></thead><tbody>\n<tr><td>Single</td><td>$48,350</td><td>$533,400</td></tr>\n<tr><td>Married filing jointly</td><td>$96,700</td><td>$600,050</td></tr>\n<tr><td>Head of household</td><td>$64,750</td><td>$566,700</td></tr>\n</tbody></table>\n<p>Income above the 15 percent range is taxed at 20 percent. Unrecaptured section 1250 gain has a 25 percent maximum rate, and people with large investment income may owe the net investment income tax. A loss on the sale of a personal home is not deductible.</p>"
+  },
+  {
+   "h2": "Which Indiana adjustments matter to a seller?",
+   "html": "<p>The most useful one is a subtraction for property taxes paid on a principal residence, up to $2,500 ($1,250 for separate filers). It sits in the statute's list of subtractions from federal income, next to Social Security benefits and certain military income.</p>\n<p>The statute also lists additions, such as state income taxes deducted on the federal return and certain bonus depreciation and Section 179 amounts. An owner who depreciated a rental house should go through that list with a preparer.</p>\n<p>Dollar limits can change between legislative sessions, so confirm the figure in the current Indiana tax booklet before you rely on it.</p>"
+  },
+  {
+   "h2": "Selling an inherited house",
+   "html": "<p>Gain on an inherited house is measured from a stepped-up starting value, which usually means far less taxable gain than the original purchase price would suggest. The basis is the fair market value at the date of death, or the value on the alternate valuation date if the estate's personal representative elects that.</p>\n<p>One exception: if you or your spouse gave appreciated property to the decedent within a year before death, your basis is the decedent's adjusted basis just before death. Keep the appraisal or the estate's valuation, since it becomes your cost figure when you report the sale.</p>\n<p>Indiana repealed its own inheritance tax, and probate decides who can sign the deed, so see the estate tax and probate pages on this site for those steps.</p>"
+  },
+  {
+   "h2": "Rental and investment houses",
+   "html": "<p>The home sale exclusion covers a main home, so a rental usually produces a taxable gain. Gain that counts as unrecaptured section 1250 gain is taxed at a maximum of 25 percent federally.</p>\n<p>Indiana then applies its rate to the federal income figure after the state's own modifications. Your total bill depends on your federal bracket, your county rate and whether you qualify for the exclusion.</p>\n<p>If a tenant lives in the house, your selling options and notice duties are separate questions, covered on the Indiana eviction process page.</p>"
+  },
+  {
+   "h2": "What to gather before you ask a preparer to run the numbers",
+   "html": "<p>A preparer can estimate the tax quickly when the paperwork is in hand. Bring these items:</p>\n<ul>\n<li>The purchase closing statement and receipts for capital improvements</li>\n<li>The dates you moved in and moved out, to test the 24-month rules</li>\n<li>Any prior home sale where you used the exclusion</li>\n<li>The date of death and valuation, if you inherited</li>\n<li>Records of depreciation, if the house was ever a rental</li>\n<li>Your county of residence on January 1</li>\n</ul>\n<p>A sale that closes quickly for cash does not change any of these rules. The tax depends on your basis, how long you lived there and where you lived on January 1, so the paperwork matters more than the buyer.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Indiana tax rate on gain from selling a house?",
+   "a": "Indiana taxes the gain through its individual adjusted gross income tax at 2.95 percent for 2026 and 2.90 percent for 2027. Your county adds its own income tax on top."
+  },
+  {
+   "q": "Does Indiana tax the portion of gain the federal exclusion covers?",
+   "a": "Indiana starts from federal adjusted gross income, so gain you exclude federally does not appear in that starting figure. State modifications can still change the result, so a preparer should look over your return."
+  },
+  {
+   "q": "How much gain can I exclude when I sell my main home?",
+   "a": "Up to $250,000, or $500,000 on a joint return, if you meet the ownership and residence tests for 24 of the 60 months before the sale. You also cannot have used the exclusion within the past two years."
+  },
+  {
+   "q": "Is an inherited house taxed on the original purchase price?",
+   "a": "No. The basis is generally the fair market value at the date of death, so gain is measured from that value. A gift of appreciated property to the decedent within one year of death is an exception."
+  },
+  {
+   "q": "Do I report the sale if the gain is excludable?",
+   "a": "Yes, if you receive a Form 1099-S. Schedule D and Form 8949 are used when you cannot exclude all of the gain."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Indiana DOR: Income Tax Rates, Fees and Penalties",
+   "url": "https://www.in.gov/dor/resources/tax-rates-and-reports/rates-fees-and-penalties/"
+  },
+  {
+   "title": "Indiana DOR Departmental Notice #1",
+   "url": "https://www.in.gov/dor/files/dn01.pdf"
+  },
+  {
+   "title": "Indiana Code 6-3-1-3.5 (Justia)",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-3/chapter-1/section-6-3-1-3-5"
+  },
+  {
+   "title": "IRS Topic 701, Sale of Your Home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital Gains and Losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "Indiana (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Indiana"
+  },
+  {
+   "title": "DLGF Memo: Legislation Affecting Local Income Taxes",
+   "url": "https://www.in.gov/dlgf/files/2026-memos/Legislation-Affecting-Local-Income-Taxes.pdf"
+  }
+ ]
+}

@@ -3,11 +3,11 @@
  "sections": [
   {
    "h2": "Florida housing at a glance",
-   "html": "<p>Florida had 10,789,047 housing units on July 1, 2025, and an estimated 23,462,518 residents. The median owner-reported home value is $359,000 for 2020 to 2024. Population has grown 8.9 percent since April 2020, and 178,297 building permits were recorded for 2025, so new supply keeps arriving.</p><p>Owners live in 67.6 percent of homes, which means renters hold about a third. Most people stay where they are: 86.3 percent of residents aged one and older lived at the same address a year earlier. A seller therefore finds buyers among new arrivals as often as among neighbors moving up.</p><p>People 65 and older are 22.8 percent of the population, and many hold homestead benefits that change what a buyer or heir pays after a sale.</p>"
+   "html": "<p>Roughly 23,462,518 people share 10,789,047 housing units in Florida (July 1, 2025). Population is up 8.9 percent since April 2020. Builders pulled 178,297 permits in 2025, so new supply keeps coming, while the middle owner-reported home value sits at $359,000.</p><p>Of all homes, 67.6 percent have their owner living inside, so renters occupy about a third. Most people stay where they are: 86.3 percent of residents aged one and older lived at the same address a year earlier. A seller therefore finds buyers among new arrivals as often as among neighbors moving up.</p><p>People 65 and older are 22.8 percent of the population, and many hold homestead benefits that change what a buyer or heir pays after a sale.</p>"
   },
   {
    "h2": "Monthly housing costs",
-   "html": "<p>Owners with a mortgage spend a median $1,959 a month, and owners with no mortgage spend $673. Renters pay $1,669 in median gross rent. Each number is from the 2020 to 2024 estimates.</p><p>Subtract the second owner number from the first and you see what the loan itself adds. A paid-off house still costs money for taxes, insurance and upkeep. An heir holding a free-and-clear property pays less each month but faces vacancy risk, repairs and the autumn tax bill.</p><table><thead><tr><th>Measure</th><th>Florida figure</th></tr></thead><tbody><tr><td>Median owner-reported home value, 2020-2024</td><td>$359,000</td></tr><tr><td>Share of units lived in by owners, 2020-2024</td><td>67.6%</td></tr><tr><td>Median gross rent, 2020-2024</td><td>$1,669</td></tr><tr><td>Monthly owner cost, with a mortgage</td><td>$1,959</td></tr><tr><td>Monthly owner cost, no mortgage</td><td>$673</td></tr><tr><td>Housing units, July 1, 2025</td><td>10,789,047</td></tr><tr><td>Building permits, 2025</td><td>178,297</td></tr></tbody></table><p>A median of owners' estimates differs from any recorded sale price.</p>"
+   "html": "<p>Owners with a mortgage spend a median $1,959 a month, and owners with no mortgage spend $673. Renters pay $1,669 in median gross rent. Each number is from the 2020 to 2024 estimates.</p><p>Subtract the second owner number from the first and you see what the loan itself adds. A paid-off house still costs money for taxes, insurance and upkeep. An heir holding a free-and-clear property pays less each month but faces vacancy risk, repairs and the autumn tax bill.</p><table><thead><tr><th>Housing situation</th><th>Median figure, 2020-2024</th></tr></thead><tbody><tr><td>Home value (owners' own estimate)</td><td>$359,000</td></tr><tr><td>Renting a home</td><td>$1,669</td></tr><tr><td>Owning with a loan</td><td>$1,959</td></tr><tr><td>Owning outright</td><td>$673</td></tr></tbody></table><p>A median of owners' estimates differs from any recorded sale price.</p>"
   },
   {
    "h2": "Transfer tax and recording charges",
@@ -34,30 +34,38 @@
    "html": "<p>Write your questions down before you call, because each office answers only its own slice.</p><ul><li>Appraiser: what are the current assessed and just values, and is every exemption still active?</li><li>Tax collector: are any taxes, deferrals or installment plans open against the parcel?</li><li>Clerk: how will the deed be recorded, and what stamp tax and recording charges will apply?</li></ul><p>Answers vary by county, and a house in a high-growth county may be assessed very differently from a similar one inland. Treat the statewide figures above as background, then swap in county and city numbers when you set a price or plan repairs.</p><p>Closing agents can estimate settlement figures once they see the contract. Ask for a draft statement early rather than the week of closing.</p>"
   },
   {
-   "h2": "Steps from listing to closing",
-   "html": "<p>Most Florida sales move in the same order. First comes a signed contract. Next the title company searches public records for liens, unpaid taxes and anyone else who has to sign. At closing the deed is signed, and the clerk records it afterward. The stamp tax is paid on that deed, and the November property tax bill is divided between buyer and seller as the contract directs.</p><p>Before listing, pull together your latest tax bill, your exemption record and any deferral or installment papers. A surprise in any of those can delay a closing by days. When the buyer pays cash there is no lender appraisal or underwriting, which leaves the title search and the payoff of any tax owed as the main timing items.</p><p>Ask the closing agent for a draft settlement statement as soon as the contract is signed, and compare each line against the office that sets it: the clerk for recording, the tax collector for property tax, the state for stamp tax.</p>"
+   "h2": "Reading the numbers as a seller",
+   "html": "<p>Statewide figures tell you how the market feels, not what your house will bring. A $359,000 median sits beside a $74,568 median household income, so many buyers stretch to qualify, and that pushes some of them toward financing contingencies that cash buyers do not need. Renters paying $1,669 a month may decide ownership is within reach, but only if the carrying costs of an owned home stay predictable.</p><p>For that reason the tax side of the sale deserves early attention. A buyer will look at the recent bill and then ask what it becomes after reassessment. If your homestead cap has held your bill low for years, say so plainly in the listing conversation, and let the buyer's agent run the new numbers.</p>"
+  },
+  {
+   "h2": "Timeline for a typical tax year",
+   "html": "<p>January 1 fixes assessed value and homestead status. March 1 is the filing cutoff for exemptions. The August notice shows proposed taxes and starts the petition window. Bills arrive in November with the 4 percent discount, which falls each month until February. April 1 is the delinquency date, and certificates go to auction by June 1.</p><p>Sellers who list in spring or summer are selling inside a tax year whose value was set the previous January. Plan the proration with that in mind.</p>"
+  },
+  {
+   "h2": "From contract to closing",
+   "html": "<p>A contract comes first. The title company then combs the public record for liens, unpaid taxes and any other person whose signature the deed needs. You sign at the table, the clerk files the deed afterward, and stamp tax is paid on it. Your contract decides how the November tax bill gets divided.</p><p>Before you list, collect the latest bill, your exemption record and any deferral or installment papers. A surprise in one of them can add days. With a cash buyer there is no lender appraisal or underwriting, so the title search and any tax payoff set the pace.</p><p>As soon as the contract is signed, ask the closing agent for a draft settlement statement. Match each line to the office behind it: clerk, tax collector or state.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the median home value in Florida?",
-   "a": "$359,000 for 2020 to 2024. That figure is based on what owners estimate their homes are worth, so it is not a recorded sale price."
+   "a": "The median owner-reported value is $359,000 across 2020 to 2024. Owners estimated it themselves, so treat it as a rough guide and not a recorded sale price."
   },
   {
    "q": "What share of Florida homes are owner-occupied?",
-   "a": "67.6 percent for 2020 to 2024. The state has 8,752,810 households averaging 2.51 people."
+   "a": "Owners occupy 67.6 percent of homes in the 2020 to 2024 data. Households number 8,752,810 and average 2.51 people."
   },
   {
    "q": "What does a Florida renter pay?",
-   "a": "A median gross rent of $1,669 for 2020 to 2024. Owner costs are $1,959 a month with a mortgage and $673 without."
+   "a": "Median gross rent is $1,669 in the 2020 to 2024 data. Owners with a mortgage pay a median $1,959 monthly, against $673 for owners without one."
   },
   {
    "q": "How many homes does Florida have?",
-   "a": "10,789,047 housing units on July 1, 2025, for a population estimated at 23,462,518."
+   "a": "The count was 10,789,047 housing units as of July 1, 2025, with an estimated 23,462,518 people living in the state."
   },
   {
    "q": "Do Florida sellers face a deed tax?",
-   "a": "Yes, documentary stamp tax at 70 cents per $100 of consideration in most counties. Miami-Dade charges 60 cents plus a 45 cent surtax that a single-family dwelling transfer avoids. All parties to the document are liable."
+   "a": "Yes. Documentary stamp tax is 70 cents for each $100 of consideration in most counties. Miami-Dade charges 60 cents and adds a 45 cent surtax, which a transfer of only a single-family home avoids. Every party to the document is liable."
   }
  ],
  "sources": [

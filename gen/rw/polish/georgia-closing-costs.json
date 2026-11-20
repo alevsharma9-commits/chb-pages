@@ -1,0 +1,93 @@
+{
+ "slug": "georgia-closing-costs",
+ "sections": [
+  {
+   "h2": "Closing charges Georgia sets on a seller",
+   "html": "<p>One charge comes from the state itself: the real estate transfer tax. Attorney fees, your mortgage payoff and any agent commission come from your contract and your lender, so they differ from deal to deal.</p><p>Four items have official rules you can read before closing day: the transfer tax, the PT-61 form that travels with the deed, the property tax for the year, and withholding when the seller lives outside Georgia. The table further down lines them up.</p><p>Ask for a draft settlement statement a few days ahead and check each line against the contract. Buyer and seller can agree to shift some of these costs, so the contract wording matters.</p>"
+  },
+  {
+   "h2": "How the Georgia transfer tax is figured",
+   "html": "<p>The tax rides on the sale price: $1 covers the first $1,000 or any fraction of it, and each further $100 or fraction adds 10 cents. The authority is O.C.G.A. 48-6-1 through 48-6-10.</p><p>Whoever executes the deed, or the person it benefits, owes the tax, and the Department of Revenue names the seller as liable. Contracts often shift the bill to the buyer. If yours is silent, the cost stays with you, so read that clause before you sign.</p><p>This is an excise tax on moving title. It is separate from the yearly property tax, and paying it settles nothing about your county tax bill.</p>"
+  },
+  {
+   "h2": "The PT-61 form",
+   "html": "<p>The PT-61 declares the transfer for tax purposes, and one form goes with each applicable deed. The filer completes it in the clerks' authority PT-61 eFiling portal, prints a copy, and takes that copy to the Clerk of Superior Court with the deed documents.</p><p>Recording waits on payment of the transfer tax. Once it is paid, the clerk or a deputy attaches a certification of payment. The firm handling your closing normally prepares the form from settlement figures, so your part is supplying accurate sale and parcel details.</p><p>For help with the electronic process, call customer support at (800) 304-5174, or (404) 327-9760 for local callers. For a taxability or exemption question, call the superior court clerk's office serving the house.</p>"
+  },
+  {
+   "h2": "Where the transfer tax goes",
+   "html": "<p>The clerk splits the money among the state, the county and the municipalities, and reports the totals each year on a form called FA-RETT, due March 1. That report is the clerk's duty and changes nothing about what you owe at closing.</p><p>The practical point is the certification attached to your deed, which records that the tax was paid. Before the documents leave the table, ask your settlement agent to confirm that the PT-61 is filed and the tax paid.</p>"
+  },
+  {
+   "h2": "Property tax at a Georgia closing",
+   "html": "<p>The person who held title on January 1 answers for that whole year's bill, even if the sale happens the next day. Georgia gives no refund of tax to partial-year owners.</p><p>The contract therefore decides how the year gets divided. Most counties set the due date at December 20, though some pick a different one, and taxpayers have 60 days after billing to pay. Fulton County, for instance, uses an earlier schedule, with the City of Atlanta's share due even sooner, so ask your own county.</p><p>Before closing:</p><ul><li>Ask the county tax commissioner what the current bill stands at.</li><li>Ask your settlement agent how the contract splits the year.</li><li>Check that no county tax lien sits on the clerk's general execution docket, where such liens are filed.</li></ul>"
+  },
+  {
+   "h2": "Does the intangible recording tax land on the seller?",
+   "html": "<p>It attaches to a new long-term note secured by real estate, so it follows the buyer's financing. The rate is $1.50 per $500 of the note, or part of $500, up to a maximum of $25,000 on one note.</p><p>The lender has 90 days to record the security instrument and may pass the tax along to the borrower. Clerks of Superior Court collect it in most places. In a list of 24 smaller counties, the tax commissioner or tax collector does the collecting instead. If you pay off your loan with the sale, none of this touches you.</p>"
+  },
+  {
+   "h2": "Withholding for a nonresident seller",
+   "html": "<p>O.C.G.A. 48-7-128 makes the buyer withhold 3% of the price when the seller lives out of state, or 3% of the gain when the seller gives a sworn gain affidavit. Payment goes in by the end of the month after closing.</p><p>Exemptions include a principal residence under federal rules, prices below $20,000, and a transfer to a mortgagee in foreclosure with no added payment. Form IT-AFF3, the exemption certificate, is optional but helps the file. The state treats the charge as income tax withholding.</p><table><caption>Georgia seller closing items at a glance</caption><thead><tr><th>Closing item</th><th>Rule</th><th>Who handles it</th></tr></thead><tbody><tr><td>Transfer tax</td><td>$1 per first $1,000, plus 10 cents per additional $100</td><td>Seller by default; contract may shift it</td></tr><tr><td>PT-61 declaration</td><td>One form per applicable deed, filed online</td><td>Closing office with the Clerk of Superior Court</td></tr><tr><td>Property tax</td><td>Owner on January 1 owes the year; no partial-year refund</td><td>Contract proration and county tax commissioner</td></tr><tr><td>Intangible recording tax</td><td>$1.50 per $500 of the note, $25,000 cap</td><td>Lender, passed to borrower</td></tr><tr><td>Nonresident withholding</td><td>3% of price or of sworn gain</td><td>Buyer withholds and remits</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Closing records to keep",
+   "html": "<p>Hold on to the final settlement statement, the recorded deed information and any withholding statement the buyer gives you. A nonresident seller attaches the buyer's withholding return, or the equivalent document, to the Georgia income tax return to claim credit.</p><p>If a Form 1099-S arrives, the sale is reportable even when the gain is excludable, and the settlement statement is what you check its figures against.</p><ul><li>Final settlement statement showing price, payoff and every charge.</li><li>The PT-61 copy and the clerk's certificate that transfer tax was paid, when provided.</li><li>Property tax bill and payment proof for the year of sale.</li><li>Any Form G-2RP or similar statement of Georgia tax withheld.</li></ul>"
+  },
+  {
+   "h2": "What happens on closing day",
+   "html": "<p>Expect a short sequence. You sign the deed, the closing office checks the settlement statement line by line, your mortgage is paid off from the proceeds, and the transfer tax is paid so the clerk can certify it before recording. Whatever is left is wired or handed to you as net proceeds.</p><p>A cash buyer with no lender removes the loan documents and the intangible tax from the picture, so the day is shorter. The transfer tax, the PT-61 and the property tax split still apply, so the same questions to your settlement agent are worth asking.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who bears the transfer tax on a Georgia sale?",
+   "a": "The seller by default, unless the contract moves it to the buyer, which is common. Read that clause before signing, since silence leaves the cost with the seller."
+  },
+  {
+   "q": "What is the Georgia transfer tax rate?",
+   "a": "Georgia charges $1 on the first $1,000 and 10 cents on each additional $100, with fractions counted in full. The statutes run from O.C.G.A. 48-6-1 through 48-6-10, and your settlement statement shows the dollar figure."
+  },
+  {
+   "q": "Can a seller get back property tax after leaving mid-year?",
+   "a": "No. Ownership on January 1 fixes responsibility for the year, and a part-year owner is not refunded. Any split with the buyer happens through the contract."
+  },
+  {
+   "q": "Who files the PT-61 in Georgia?",
+   "a": "The filer completes it online through the clerks' authority portal, and one form goes with each applicable deed. Ask your settlement agent who is preparing it and that it reaches the clerk with the deed."
+  },
+  {
+   "q": "Where do I ask about a transfer tax exemption?",
+   "a": "Start with the superior court clerk in the property's county. Taxability and exemption questions go there, and the clerk certifies payment before the deed is recorded."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Georgia DOR, Real Estate Transfer Tax",
+   "url": "https://dor.georgia.gov/real-estate-transfer-tax"
+  },
+  {
+   "title": "GSCCCA, PT-61 eFiling",
+   "url": "https://gsccca.org/learn/efiling-information/pt-61"
+  },
+  {
+   "title": "Georgia DOR, Intangible Recording Tax",
+   "url": "https://dor.georgia.gov/intangible-recording-tax"
+  },
+  {
+   "title": "Georgia DOR, Property Tax FAQ",
+   "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
+  },
+  {
+   "title": "Georgia DOR, Withholding Requirements for Sales or Transfers of Real Property by Nonresidents",
+   "url": "https://dor.georgia.gov/document/document/sales-or-transfers-real-property-archive-web-content/download"
+  },
+  {
+   "title": "Fulton County Issues Property Tax Bills",
+   "url": "https://fultoncountyga.gov/News/2026/08/14/Fulton-County-Issues-Property-Tax-Bills"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  }
+ ]
+}
