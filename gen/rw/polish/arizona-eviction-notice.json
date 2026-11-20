@@ -1,0 +1,101 @@
+{
+ "slug": "arizona-eviction-notice",
+ "sections": [
+  {
+   "h2": "Which notice fits which problem",
+   "html": "<p>An Arizona landlord's notice depends on why the tenancy is ending: unpaid rent, a lease breach, a health and safety breach, an irreparable breach, or the end of a periodic tenancy. Each carries its own number of days, and picking the wrong one can sink the case.</p>\n<table><thead><tr><th>Situation</th><th>Notice period</th></tr></thead><tbody><tr><td>Unpaid rent</td><td>5 days after written notice</td></tr><tr><td>Material lease breach</td><td>Ends no sooner than 10 days after receipt if not fixed in 10 days</td></tr><tr><td>Health and safety breach under 33-1341</td><td>Ends no sooner than 5 days after receipt if not fixed in 5 days</td></tr><tr><td>Material and irreparable breach</td><td>Immediate termination notice</td></tr><tr><td>Month-to-month tenancy</td><td>30 days before the rental date</td></tr><tr><td>Week-to-week tenancy</td><td>10 days before the termination date</td></tr></tbody></table>\n<p>In <a href='https://www.azleg.gov/ars/33/01368.htm'>A.R.S. 33-1368</a>, days means calendar days, so weekends count. The month-to-month and week-to-week rules sit in A.R.S. 33-1375.</p>"
+  },
+  {
+   "h2": "What a five-day nonpayment notice must say",
+   "html": "<p>The notice has to be in writing, say that rent is unpaid, and state that the landlord intends to end the rental agreement if the rent isn't paid within five days. That's the wording 33-1368(B) calls for.</p>\n<p>The landlord can't file the eviction case until after the last day of the notice. If the tenant never got a proper termination notice and a chance to pay the rent and late fees, or if the notice wasn't properly served, the court must dismiss the action.</p>\n<p>No particular form is required. <a href='https://www.azleg.gov/ars/12/01175.htm'>A.R.S. 12-1175(D)</a> bars a state agency or an individual court from adopting or enforcing a rule that makes a mandatory or technical form necessary for notices or pleadings in these cases, so long as the notice meets the statutory content requirements.</p>"
+  },
+  {
+   "h2": "How a notice is delivered and when it counts as received",
+   "html": "<p><a href='https://www.azleg.gov/ars/33/01313.htm'>A.R.S. 33-1313</a> treats a notice as received when it's handed to the tenant or sent by registered or certified mail to the place the tenant designates, or to the last known residence if none is designated.</p>\n<p>For mail, the tenant is deemed to have received it on the day it actually arrives or five days after mailing, whichever comes first. The 5-day and 10-day periods in 33-1368 count from receipt, so mailing adds days to the timeline.</p>\n<p>Landlords who want a clean record usually deliver by hand and keep proof, or use certified mail and keep the receipt.</p>"
+  },
+  {
+   "h2": "Ten-day and five-day lease breach notices",
+   "html": "<p>These notices give the tenant a chance to fix the problem, and if it's fixed in time the lease continues. The 10-day notice must describe the acts and omissions that make up the breach and state that the agreement ends on a date at least ten days after receipt if the breach isn't remedied within ten days.</p>\n<p>A few details from the statute:</p>\n<ul><li>Material falsification on the rental application can be a breach, for example untrue information about occupants, pets, income or employment.</li><li>Falsification about criminal records, prior evictions or current criminal activity can't be cured under that section.</li><li>A five-day health and safety notice must be cured within five days. If repair or payment of damages fixes the breach before the date in the notice, the agreement doesn't end.</li><li>If the same or a similar health and safety problem returns during the lease after a cure, the landlord may file a special detainer action ten days after delivering written notice of the second noncompliance.</li></ul>"
+  },
+  {
+   "h2": "When a landlord can terminate immediately",
+   "html": "<p>Immediate termination is reserved for a breach that is both material and irreparable and that happens on the premises. The statute gives examples and says the list isn't exhaustive:</p>\n<ul><li>Illegal discharge of a weapon</li><li>Homicide, prostitution, or criminal street gang activity</li><li>Unlawful manufacturing, selling, using or storing of a controlled substance</li><li>Threatening or intimidating, or assault</li><li>Acts found to be a nuisance, or breaches that endanger the health, safety and welfare of the landlord, agent or another tenant, or involve imminent or actual serious property damage</li></ul>\n<p>After filing under <a href='https://www.azleg.gov/ars/33/01377.htm'>A.R.S. 33-1377</a>, the trial date and return date must be set no later than the third day after filing. If the court finds the breach occurred by a preponderance of the evidence, it must order restitution not less than 12 nor more than 24 hours later.</p>"
+  },
+  {
+   "h2": "Ending a month-to-month tenancy before a sale",
+   "html": "<p>A month-to-month tenancy ends with written notice at least 30 days before the periodic rental date named in the notice. Either side may give it. A week-to-week tenancy needs written notice at least ten days before it ends.</p>\n<p>If a tenant stays after the term or after termination without the landlord's consent, the landlord may sue for possession. When the holdover is willful and not in good faith, the landlord can also recover up to two months of periodic rent or twice the actual damages, whichever is greater.</p>\n<p>Written consent from the landlord to a continued stay changes the picture, so put any arrangement for a tenant to remain after a sale in writing.</p>"
+  },
+  {
+   "h2": "How accepting rent can weaken a notice",
+   "html": "<p>Taking rent after a default can waive the right to terminate for that breach. <a href='https://www.azleg.gov/ars/33/01371.htm'>A.R.S. 33-1371</a> provides that, apart from listed exceptions, accepting rent or any part of it while aware of a default waives the right to terminate for that breach.</p>\n<p>A landlord needn't accept partial payment. One who does keeps the right to proceed only if the tenant agrees to the terms in a contemporaneous writing that includes a date when the balance is due. A housing assistance payment is treated differently: accepting it isn't accepting a partial payment and doesn't waive termination.</p>"
+  },
+  {
+   "h2": "Showing the house to buyers",
+   "html": "<p>A landlord must give at least two days' notice of intent to enter and may enter only at reasonable times, except in an emergency or when notice is impracticable. That rule is in <a href='https://www.azleg.gov/ars/33/01343.htm'>A.R.S. 33-1343</a>.</p>\n<p>The same statute says a tenant may not unreasonably withhold consent for the landlord to enter to show the unit to prospective or actual purchasers. The landlord can't abuse access or use it to harass the tenant, and has no other right of entry except by court order, abandonment rules, or surrender of the premises.</p>\n<p>If you plan to sell a rented house, schedule showings around those two days and keep a written record of each notice.</p>"
+  },
+  {
+   "h2": "Retaliation is not a valid reason",
+   "html": "<p>A landlord may not retaliate by raising rent, cutting services or threatening a possession action because the tenant made certain complaints. <a href='https://www.azleg.gov/ars/33/01381.htm'>A.R.S. 33-1381</a> lists complaints to a housing or building code agency about a health and safety violation, complaints to the landlord under 33-1324, and joining a tenants' union.</p>\n<p>A complaint within six months before the alleged retaliation creates a presumption of retaliation. The landlord can still bring an action if the tenant is in default on rent or if the code violation was caused mainly by the tenant's lack of reasonable care.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days is an eviction notice in Arizona?",
+   "a": "It depends on the reason: five days for unpaid rent after written notice, ten days for a curable lease breach, five days for a health and safety breach, and an immediate notice for a material and irreparable breach. A month-to-month tenancy needs 30 days."
+  },
+  {
+   "q": "Do weekends count toward the five-day notice?",
+   "a": "Yes. For A.R.S. 33-1368, days means calendar days."
+  },
+  {
+   "q": "Can a landlord evict without a written notice?",
+   "a": "For nonpayment and lease breaches the statute calls for written notice. The case must be dismissed if the tenant wasn't given a proper notice and a chance to pay."
+  },
+  {
+   "q": "Does a landlord have to use a particular form?",
+   "a": "No. A.R.S. 12-1175(D) bars courts and state agencies from requiring a mandatory or technical form, as long as the notice meets the statutory content requirements."
+  },
+  {
+   "q": "Can a landlord show the house to buyers while it is tenant-occupied?",
+   "a": "Yes, with at least two days' notice at reasonable times, and the tenant may not unreasonably withhold consent. Emergencies and impracticable situations are excepted."
+  }
+ ],
+ "sources": [
+  {
+   "title": "A.R.S. 33-1368 Noncompliance with rental agreement by tenant",
+   "url": "https://www.azleg.gov/ars/33/01368.htm"
+  },
+  {
+   "title": "A.R.S. 33-1375 Periodic tenancy; hold-over remedies",
+   "url": "https://www.azleg.gov/ars/33/01375.htm"
+  },
+  {
+   "title": "A.R.S. 33-1377 Special detainer actions",
+   "url": "https://www.azleg.gov/ars/33/01377.htm"
+  },
+  {
+   "title": "A.R.S. 33-1313 Notice",
+   "url": "https://www.azleg.gov/ars/33/01313.htm"
+  },
+  {
+   "title": "A.R.S. 12-1175 Complaint and answer",
+   "url": "https://www.azleg.gov/ars/12/01175.htm"
+  },
+  {
+   "title": "A.R.S. 33-1371 Acceptance of partial payments",
+   "url": "https://www.azleg.gov/ars/33/01371.htm"
+  },
+  {
+   "title": "A.R.S. 33-1343 Access",
+   "url": "https://www.azleg.gov/ars/33/01343.htm"
+  },
+  {
+   "title": "A.R.S. 33-1381 Retaliatory conduct prohibited",
+   "url": "https://www.azleg.gov/ars/33/01381.htm"
+  },
+  {
+   "title": "Arizona Courts: Non-Payment of Rent information sheet",
+   "url": "https://www.azcourts.gov/legalinfohub/Legal-Info-Sheets/Landlord/Tenant-Disputes-amp-Eviction/Non-Payment-of-Rent"
+  }
+ ]
+}

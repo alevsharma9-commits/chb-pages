@@ -1,0 +1,81 @@
+{
+ "slug": "alabama-eviction-process",
+ "sections": [
+  {
+   "h2": "Where an eviction case is filed",
+   "html": "<p>Either the district court or the circuit court can hear it, depending on their established jurisdictions, and the case belongs in the county where the rented property sits. Under Section 35-9A-461(b) of the Alabama Code, eviction actions get scheduling precedence over every other civil case.</p><p>The Alabama Rules of Civil Procedure and the Rules of Appellate Procedure apply, except where the Uniform Residential Landlord and Tenant Act changes them. Put simply, an Alabama eviction is an ordinary civil case on a faster track.</p><p>The county line matters to an owner of a rented house. A property in Madison County is heard in Madison County, and one in Mobile County is heard there, even if the landlord lives elsewhere.</p>"
+  },
+  {
+   "h2": "Steps from notice to writ",
+   "html": "<p>The usual path runs from a written termination notice to a lawsuit, then a judgment, then a writ of possession. The statute sets no single calendar for the whole sequence, so the timing below covers only the steps it addresses.</p><table><thead><tr><th>Step</th><th>Timing or rule</th></tr></thead><tbody><tr><td>Termination notice, unpaid rent</td><td>Lease ends if rent and late fees go unpaid seven business days after receipt</td></tr><tr><td>Termination notice, other breach</td><td>Termination date at least seven business days after receipt, unless cured</td></tr><tr><td>Lawsuit filed</td><td>District or circuit court in the property county, with scheduling precedence</td></tr><tr><td>Appeal window</td><td>Seven days after entry of the district court eviction judgment</td></tr><tr><td>Writ of possession</td><td>Issues on the landlord's application, after a seven day automatic stay</td></tr></tbody></table><p>Notice periods count business days, so weekends and holidays stretch them. The relevant sections are 35-9A-421 for the notices and 35-9A-461 for the court steps.</p>"
+  },
+  {
+   "h2": "Serving the tenant with the lawsuit",
+   "html": "<p>Service follows the civil rules, with a fallback built into the landlord and tenant statute. If a sheriff, constable or process server cannot reach the defendant in person, Section 35-9A-461(c) offers two alternatives.</p><ul><li>Hand the papers to any person who is sui juris, meaning legally able to act, and lives on the premises.</li><li>If a reasonable effort finds no one living there, post a copy on the door.</li></ul><p>Posting triggers a mailing step. On the day of posting, or by the close of the next business day, the notice of filing goes out by first class mail to the premises' mailing address, or to the defendant's last known address if the premises has none. Service by posting is complete on the mailing date, and the return filed in the case should record both the posting and the mailing.</p>"
+  },
+  {
+   "h2": "Appealing an eviction judgment",
+   "html": "<p>The deadline is seven days after judgment is entered. Any party can take a district court eviction judgment to the circuit court inside that window, and the statute sets the deadline despite the general appeal rule in Section 12-12-70(a).</p><p>A timely post-judgment motion under the civil rules suspends the clock. The full appeal time then runs from the date the order on that motion is entered, or from the date the motion is denied by operation of law under Rule 59.1.</p><p>Once either side appeals, the clerk sets the case for trial as a preferred case, to be heard within 60 days of the appeal being filed.</p>"
+  },
+  {
+   "h2": "Does an appeal stop the eviction?",
+   "html": "<p>Only if the tenant pays rent into court. Under Section 35-9A-461(d), an appeal to circuit court or an appellate court does not block a writ of restitution or possession unless the tenant pays the circuit court clerk all rent properly payable under the lease since the date the action was filed.</p><p>The tenant must then pay each new installment to the clerk as it falls due while the appeal is pending. If the parties disagree on the amount, the court decides what is properly payable.</p><ul><li>A missed payment lets the court issue the writ on motion and place the landlord in full possession.</li><li>When the appeal ends, the court directs the clerk what to do with the money paid in.</li><li>If the landlord took possession and the judgment is later reversed, the circuit court may issue a writ restoring the tenant, but not against a third party.</li></ul>"
+  },
+  {
+   "h2": "After the judge rules for the landlord",
+   "html": "<p>A writ of possession issues once the landlord applies for it, subject to a seven day automatic stay. Section 35-9A-461(e) applies that seven day period regardless of Rule 62 of the Alabama Rules of Civil Procedure.</p><p>A tenant who is removed under the writ and re-enters without just cause can be held in contempt, and successive writs may issue as needed to carry out the judgment.</p><p>An owner planning a sale around a tenant's departure should treat the seven day stay and a possible appeal as the first two moving parts. Then ask the court clerk or an attorney how the writ is handled locally.</p>"
+  },
+  {
+   "h2": "Other rules that shape an eviction",
+   "html": "<p>Four sections of the landlord and tenant act come up often, and each is short.</p><ul><li>Holdover (35-9A-441(c)): a tenant who stays past the term or termination without consent can be sued for possession. A willful holdover not in good faith can also cost up to three months' periodic rent or actual damages, whichever is greater, plus reasonable attorney fees.</li><li>Month-to-month notice (35-9A-441(b)): either side may end the tenancy by written notice at least 30 days before the periodic rental date named in it.</li><li>Retaliation (35-9A-501): a landlord may not raise rent, cut services or sue for possession because the tenant complained to a code agency, complained about maintenance, or joined a tenants' group. Suing over unpaid rent or other material lease violations remains allowed.</li><li>Security deposits (35-9A-201): deposit money may cover accrued rent and damages, with an itemized written notice and any balance delivered 60 days after the tenancy ends and possession is delivered.</li></ul><p>Section 35-9A-201 also caps most deposits at one month's periodic rent, with exceptions for pets, changes to the premises and increased liability risks.</p>"
+  },
+  {
+   "h2": "Selling a rented house during an eviction",
+   "html": "<p>Owners do it, and the practical question is whether a buyer will take the house with the tenant, or the court case, still in place. Some buyers insist on a vacant home. We can look at an as-is house while the process is under way.</p><p>Know four facts before you agree to anything: whether a termination notice has been delivered, whether a suit is filed, whether a judgment has been entered, and whether any appeal money has been paid into circuit court. Those answers tell a buyer how much time and risk remain.</p><p>We buy houses as they stand, rentals with tenant trouble included. Tell our team where your case is, and we can talk timing without asking you to fix, clean or list anything first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which court hears an eviction case in Alabama?",
+   "a": "The district or circuit court, depending on jurisdiction, in the county where the property is. Section 35-9A-461(b) gives evictions scheduling precedence over other civil cases."
+  },
+  {
+   "q": "How many days does a tenant have to appeal an Alabama eviction?",
+   "a": "Seven days from entry of the district court judgment. A timely post-judgment motion suspends that period until the court rules on it."
+  },
+  {
+   "q": "Does an appeal keep the tenant in the house?",
+   "a": "Not by itself. The writ can still issue unless the tenant pays the circuit court clerk the rent due since filing and keeps paying as each installment comes due."
+  },
+  {
+   "q": "What is the automatic stay on a writ of possession?",
+   "a": "Seven days. After a judgment for the landlord and an application for the writ, Section 35-9A-461(e) sets that stay in place of the general one in Rule 62."
+  },
+  {
+   "q": "How is a tenant served if the sheriff cannot find them?",
+   "a": "Papers can go to a person living on the premises, or be posted on the door if nobody is found. First class mail follows the same day or by the close of the next business day."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Alabama Code 35-9A-461, Landlord's Action for Eviction (Justia)",
+   "url": "https://law.justia.com/codes/alabama/title-35/chapter-9a/article-4/division-4/section-35-9a-461/"
+  },
+  {
+   "title": "Alabama Code 35-9A-421, Noncompliance with Rental Agreement; Failure to Pay Rent (Justia)",
+   "url": "https://law.justia.com/codes/alabama/title-35/chapter-9a/article-4/division-2/section-35-9a-421/"
+  },
+  {
+   "title": "Alabama Code 35-9A-441, Periodic Tenancy; Holdover Remedies (Justia)",
+   "url": "https://law.justia.com/codes/alabama/title-35/chapter-9a/article-4/division-3/section-35-9a-441/"
+  },
+  {
+   "title": "Alabama Code 35-9A-501, Retaliatory Conduct Prohibited (Justia)",
+   "url": "https://law.justia.com/codes/alabama/title-35/chapter-9a/article-5/section-35-9a-501/"
+  },
+  {
+   "title": "Alabama Code 35-9A-201, Security Deposits; Prepaid Rent (Justia)",
+   "url": "https://law.justia.com/codes/alabama/title-35/chapter-9a/article-2/section-35-9a-201/"
+  }
+ ]
+}
