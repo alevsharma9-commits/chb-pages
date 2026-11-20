@@ -1,89 +1,93 @@
 {
-"slug": "georgia-estate-tax",
-"sections": [
-{
-"h2": "Is there any Georgia estate or inheritance tax left?",
-"html": "<p>No. Georgia collects neither, and the Department of Revenue's estate tax FAQ opens with the statute that ended it.</p><p>O.C.G.A. 48-12-1 took effect July 1, 2014. Its first subsection says that from that date no estate taxes are levied by the state and no state estate tax returns are required. The FAQ also states flatly that Georgia has no inheritance tax, a term some people use for the estate tax.</p><p>A family selling an inherited Georgia house therefore faces no state charge on the estate itself before the property is sold or passed to heirs. What remains is tied to the sale, to the property, and to federal law.</p>"
-},
-{
-"h2": "What happened to the old Georgia estate tax?",
-"html": "<p>It lives on only for estates of people who died before January 1, 2005. The Department explains that the tax was built on the federal credit for state death taxes shown on Form 706.</p><p>Congress phased that credit down for deaths in 2002, 2003 and 2004, then replaced it with a deduction for deaths in 2005 and after. Because Georgia's tax rode on the credit, an estate with a date of death after December 31, 2004 owes nothing to the state in any year when federal law allows no state death tax credit.</p><p>For the older estates, the FAQ gives these mechanics:</p><ul><li>The estate pays the tax before assets reach heirs, and the heirs do not pay it.</li><li>Georgia has no form of its own: the filer sends a copy of the federal return with payment, due 9 months after the date of death.</li><li>Interest for months starting on or after July 1, 2016 runs at the Federal Reserve prime rate plus 3 percent a year.</li><li>The Department can grant extra time to pay on the same terms as IRC section 6161, but it does not offer the installment option for family farms and closely held businesses under section 6166.</li><li>The Department issues a certificate of payment, and it does not issue a closing letter of its own.</li></ul><p>Files for those estates go to the Estate Tax Section at 2595 Century Parkway NE, Atlanta 30345-3173.</p>"
-},
-{
-"h2": "How did the old tax treat property in more than one state?",
-"html": "<p>The Department's FAQ answers this with a proportion. For the estate of a nonresident who owned Georgia property, the gross value of the Georgia property is divided by the total federal gross estate, and that percentage is multiplied by the total allowable state death tax credit to reach the Georgia tax. A worksheet or cover letter shows the computation.</p><p>For a Georgia resident whose estate also owed tax to other states, the same idea runs in reverse: the value taxable elsewhere over the federal gross estate gives the share by which the Georgia tax is reduced. No deductions are used when prorating the credit, although the estate still gets indirect benefit from the marital deduction and mortgage deductions through the federal credit.</p><ul><li>Extension to file: attach payment to a copy of the federal extension request, marked as the Georgia copy, when tax is estimated to be due.</li><li>Amended federal return: send Georgia a copy, and a refund claim is held until the IRS settles the change.</li><li>Refund of an estimate: attach a letter to the Georgia copy of the return when filing.</li></ul><p>These rules only matter for deaths before 2005. If the date of death is unclear, check it against the 2005 cutoff before assuming anything, and write to the Estate Tax Section.</p>"
-},
-{
-"h2": "Could the federal estate tax apply to a Georgia house?",
-"html": "<p>Only for estates large enough to cross the IRS threshold. For deaths in 2026 the IRS table lists $15,000,000, and smaller estates generally skip the return unless a spouse's portability election is wanted.</p><p>A Georgia house enters the calculation at its fair market value on the date of death, alongside everything else the person owned. Debts, administration costs and property left to a surviving spouse or a qualified charity can be deducted.</p><table><caption>Federal estate tax filing threshold by year of death, as printed on the IRS estate tax page</caption><thead><tr><th>Year of death</th><th>Return required if amount exceeds</th></tr></thead><tbody><tr><td>2023</td><td>$12,920,000</td></tr><tr><td>2024</td><td>$13,610,000</td></tr><tr><td>2025</td><td>$13,990,000</td></tr><tr><td>2026</td><td>$15,000,000</td></tr></tbody></table>"
-},
-{
-"h2": "What tax questions come up when an heir sells the house?",
-"html": "<p>Three of them recur: income, gain, and the annual property bill. Georgia's lack of an estate tax removes a fourth.</p><ul><li>Income: the Department tells heirs to ask the IRS whether anything inherited counts as income.</li><li>Gain: profit is the sale price minus adjusted basis, and the IRS sends owners of inherited property to its basis publications.</li><li>Home exclusion: the $250,000 or $500,000 exclusion requires 24 months of ownership and use inside the five-year window, which an heir who never lived there may lack.</li><li>Property tax: the January 1 owner is on the hook for the year.</li></ul><p>A brokerage that asks for a Georgia tax waiver before moving inherited stock can be told the Department says Georgia has no inheritance or estate tax waiver requirements.</p>"
-},
-{
-"h2": "Who owes the property tax bill on an inherited house?",
-"html": "<p>The owner of record on January 1 carries the year, and the state offers no refund for a partial year. If the owner died partway through the year, the estate or the selling heir still has to resolve that bill.</p><p>Counties pick their own due dates. The usual date is December 20, with 60 days after billing to pay, but Fulton County, for one, set October 15, 2026 for most of its 2026 bills.</p><p>Before you list, call the county tax commissioner for the balance on the parcel. Ask too whether anything has been filed against the property on the clerk's general execution docket, since county tax liens are recorded there.</p>"
-},
-{
-"h2": "Do out-of-state heirs face withholding on a Georgia sale?",
-"html": "<p>Often they do. Under O.C.G.A. 48-7-128 a nonresident seller has 3% of the price withheld, or 3% of the gain after signing the Form IT-AFF2 affidavit.</p><p>The exemptions include prices under $20,000 and cases where the tax would be below $600 with a signed gain affidavit. Co-owners are tested one at a time, so a resident heir and a nonresident heir are treated separately and only the nonresident share is affected. The buyer files by the end of the month after closing and gives the seller a statement for the Georgia return.</p><p>Have your settlement agent confirm each heir's residency before the closing statement is drawn up.</p>"
-}
-],
-"faqs": [
-{
-"q": "Does Georgia tax inheritances?",
-"a": "No. The Department of Revenue states that Georgia has no inheritance tax, and O.C.G.A. 48-12-1 bars state estate taxes and state estate tax returns from July 1, 2014."
-},
-{
-"q": "When did Georgia stop collecting an estate tax?",
-"a": "The statute took effect July 1, 2014. The Department adds that the old tax reached only deaths before January 1, 2005, because the federal credit it relied on turned into a deduction afterward."
-},
-{
-"q": "Is a tax waiver needed to move inherited stock out of a Georgia decedent's name?",
-"a": "No. The Department says Georgia has no inheritance or estate tax waiver requirements. A brokerage that asks for one can be pointed to the Department's FAQ."
-},
-{
-"q": "Do I file a federal estate tax return for a Georgia estate?",
-"a": "Only for large estates. The IRS lists $15,000,000 for deaths in 2026, counted on the gross estate plus adjusted taxable gifts and the specific gift tax exemption. A return can also be filed to elect portability for a surviving spouse."
-},
-{
-"q": "Who pays property tax if the owner died during the year?",
-"a": "The bill follows ownership on January 1, and Georgia allows no refund to partial-year owners. The estate or the selling heir should get the balance from the county tax commissioner and settle it with the closing."
-}
-],
-"sources": [
-{
-"title": "Georgia DOR, Estate Tax FAQ",
-"url": "https://dor.georgia.gov/estate-tax-faq"
-},
-{
-"title": "IRS, Estate tax",
-"url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
-},
-{
-"title": "IRS Topic 409, Capital gains and losses",
-"url": "https://www.irs.gov/taxtopics/tc409"
-},
-{
-"title": "IRS Topic 701, Sale of your home",
-"url": "https://www.irs.gov/taxtopics/tc701"
-},
-{
-"title": "IRS Topic 703, Basis of assets",
-"url": "https://www.irs.gov/taxtopics/tc703"
-},
-{
-"title": "Georgia DOR, Property Tax FAQ",
-"url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
-},
-{
-"title": "Georgia DOR, Withholding Requirements for Sales or Transfers of Real Property by Nonresidents",
-"url": "https://dor.georgia.gov/document/document/sales-or-transfers-real-property-archive-web-content/download"
-},
-{
-"title": "Fulton County Issues Property Tax Bills",
-"url": "https://fultoncountyga.gov/News/2026/08/14/Fulton-County-Issues-Property-Tax-Bills"
-}
-]
+ "slug": "georgia-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Georgia have an estate or inheritance tax?",
+   "html": "<p>No. Georgia collects neither. O.C.G.A. 48-12-1 took effect July 1, 2014, and from that date the state levies no estate taxes and requires no state estate tax returns. The Department of Revenue also confirms Georgia has no inheritance tax, a term some people use for the estate tax.</p><p>A family selling an inherited Georgia house therefore faces no state charge on the estate itself before the property is sold or passed to heirs. What remains is tied to the sale, to the property, and to federal law.</p>"
+  },
+  {
+   "h2": "What happened to the old Georgia estate tax",
+   "html": "<p>It survives only for estates of people who died before January 1, 2005. That tax was built on the federal credit for state death taxes shown on Form 706.</p><p>Congress phased the credit down for deaths in 2002, 2003 and 2004, then replaced it with a deduction for deaths in 2005 and after. Georgia's tax rode on the credit, so an estate with a date of death after December 31, 2004 owes the state nothing.</p><p>For the older estates the mechanics were these:</p><ul><li>The estate pays the tax before assets reach heirs, and the heirs do not pay it.</li><li>Georgia has no form of its own. The filer sends a copy of the federal return with payment, due 9 months after the date of death.</li><li>Interest for months starting on or after July 1, 2016 runs at the Federal Reserve prime rate plus 3 percent a year.</li><li>Extra time to pay can be granted on the same terms as IRC section 6161, but the installment option for family farms and closely held businesses under section 6166 is not offered.</li><li>The Department issues a certificate of payment but no closing letter of its own.</li></ul><p>Files for those estates go to the Estate Tax Section at 2595 Century Parkway NE, Atlanta 30345-3173.</p>"
+  },
+  {
+   "h2": "Property in more than one state under the old tax",
+   "html": "<p>The old tax used a proportion. For a nonresident who owned Georgia property, the gross value of the Georgia property was divided by the total federal gross estate, and that percentage was multiplied by the total allowable state death tax credit. A worksheet or cover letter showed the computation.</p><p>For a Georgia resident whose estate also owed tax to other states, the idea ran in reverse: the value taxable elsewhere over the federal gross estate gave the share by which the Georgia tax was reduced. No deductions were used when prorating the credit, though the estate still got indirect benefit from the marital deduction and mortgage deductions through the federal credit.</p><ul><li>Extension to file: attach payment to a copy of the federal extension request, marked as the Georgia copy, when tax is estimated to be due.</li><li>Amended federal return: send Georgia a copy, and a refund claim is held until the IRS settles the change.</li><li>Refund of an estimate: attach a letter to the Georgia copy of the return when filing.</li></ul><p>These rules matter only for deaths before 2005. If the date of death is in doubt, check it against the 2005 cutoff first and write to the Estate Tax Section.</p>"
+  },
+  {
+   "h2": "Could the federal estate tax reach a Georgia house?",
+   "html": "<p>Only for estates large enough to cross the federal threshold. For deaths in 2026 that figure is $15,000,000, and smaller estates generally skip the return unless a spouse's portability election is wanted.</p><p>A Georgia house enters the calculation at fair market value on the date of death, alongside everything else the person owned. Debts, administration costs and property left to a surviving spouse or a qualified charity can be deducted.</p><table><caption>Federal estate tax filing threshold by year of death</caption><thead><tr><th>Year of death</th><th>Return required if amount exceeds</th></tr></thead><tbody><tr><td>2023</td><td>$12,920,000</td></tr><tr><td>2024</td><td>$13,610,000</td></tr><tr><td>2025</td><td>$13,990,000</td></tr><tr><td>2026</td><td>$15,000,000</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Tax questions when an heir sells",
+   "html": "<p>Three questions recur: income, gain, and the annual property bill. Georgia's lack of an estate tax removes a fourth.</p><ul><li>Income: ask the IRS whether anything inherited counts as income.</li><li>Gain: profit is the sale price minus adjusted basis, and the IRS sends owners of inherited property to its basis publications.</li><li>Home exclusion: the $250,000 or $500,000 exclusion requires 24 months of ownership and use inside the five-year window, which an heir who never lived there may lack.</li><li>Property tax: the January 1 owner is on the hook for the year.</li></ul><p>If a brokerage asks for a Georgia tax waiver before moving inherited stock, point it to the Department's position that Georgia has no inheritance or estate tax waiver requirements.</p>"
+  },
+  {
+   "h2": "Property tax on an inherited house",
+   "html": "<p>The owner of record on January 1 carries the year, and the state offers no refund for a partial year. If the owner died partway through, the estate or the selling heir still has to settle that bill.</p><p>Counties pick their own due dates. December 20 is the usual date, with 60 days after billing to pay, but some counties, Fulton among them, bill earlier in the fall.</p><p>Before you list, call the county tax commissioner for the balance on the parcel. Ask too whether anything has been filed against the property on the clerk's general execution docket, since county tax liens are recorded there.</p>"
+  },
+  {
+   "h2": "Withholding for out-of-state heirs",
+   "html": "<p>Often it applies. Under O.C.G.A. 48-7-128 a nonresident seller has 3% of the price withheld, or 3% of the gain after signing the Form IT-AFF2 affidavit.</p><p>Exemptions include prices under $20,000 and cases where the tax would be below $600 with a signed gain affidavit. Co-owners are tested one at a time, so a resident heir and a nonresident heir are treated separately and only the nonresident share is affected. The buyer files by the end of the month after closing and gives the seller a statement for the Georgia return.</p><p>Have your settlement agent confirm each heir's residency before the closing statement is drawn up.</p>"
+  },
+  {
+   "h2": "Steps for selling an inherited Georgia house",
+   "html": "<p>With no state estate tax to clear, the sale mostly comes down to authority and paperwork.</p><ul><li>Confirm who has the legal power to sign for the estate or who holds title as heir.</li><li>Get the county tax balance and check the execution docket for liens.</li><li>Gather the date-of-death value and any improvement records, since they feed the gain calculation.</li><li>Ask each heir about residency so the closing office knows whether withholding applies.</li><li>Request a draft settlement statement before closing day and compare it with the contract.</li></ul><p>Heirs who want a quick sale for cash can skip repairs, showings and a lender's appraisal, but the title work, the property tax settlement and any withholding rules stay the same. A tax preparer can help with basis before you set a price.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Georgia tax inheritances?",
+   "a": "No. Georgia has no inheritance tax, and O.C.G.A. 48-12-1 bars state estate taxes and state estate tax returns from July 1, 2014."
+  },
+  {
+   "q": "When did Georgia stop collecting an estate tax?",
+   "a": "The statute took effect July 1, 2014. The old tax reached only deaths before January 1, 2005, because the federal credit it relied on turned into a deduction afterward."
+  },
+  {
+   "q": "Is a tax waiver needed to move inherited stock out of a Georgia decedent's name?",
+   "a": "No. Georgia has no inheritance or estate tax waiver requirements, and a brokerage that asks for one can be pointed to the Department of Revenue's FAQ."
+  },
+  {
+   "q": "Do I file a federal estate tax return for a Georgia estate?",
+   "a": "Only for large estates. The IRS lists $15,000,000 for deaths in 2026, counted on the gross estate plus adjusted taxable gifts and the specific gift tax exemption. A return can also be filed to elect portability for a surviving spouse."
+  },
+  {
+   "q": "Who pays property tax if the owner died during the year?",
+   "a": "The bill follows ownership on January 1, and Georgia allows no refund to partial-year owners. The estate or the selling heir should get the balance from the county tax commissioner and settle it with the closing."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Georgia DOR, Estate Tax FAQ",
+   "url": "https://dor.georgia.gov/estate-tax-faq"
+  },
+  {
+   "title": "IRS, Estate tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "Georgia DOR, Property Tax FAQ",
+   "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
+  },
+  {
+   "title": "Georgia DOR, Withholding Requirements for Sales or Transfers of Real Property by Nonresidents",
+   "url": "https://dor.georgia.gov/document/document/sales-or-transfers-real-property-archive-web-content/download"
+  },
+  {
+   "title": "Fulton County Issues Property Tax Bills",
+   "url": "https://fultoncountyga.gov/News/2026/08/14/Fulton-County-Issues-Property-Tax-Bills"
+  }
+ ]
 }

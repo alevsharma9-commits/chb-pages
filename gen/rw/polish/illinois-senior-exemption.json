@@ -1,0 +1,85 @@
+{
+ "slug": "illinois-senior-exemption",
+ "sections": [
+  {
+   "h2": "Senior property tax breaks in Illinois",
+   "html": "<p>Illinois offers three programs for homeowners 65 and older, and they can be combined: a flat cut in assessed value, an assessment freeze for lower income households, and a deferral that postpones the bill itself. The Department of Revenue describes all three in its PIO-74 exemption guide, and the rules sit in the Property Tax Code and in 320 ILCS 30.</p><ul><li>Senior Citizens Homestead Exemption, 35 ILCS 200/15-170</li><li>Low-Income Senior Citizens Assessment Freeze Homestead Exemption, 35 ILCS 200/15-172, often called the senior freeze</li><li>Senior Citizens Real Estate Tax Deferral Program, 320 ILCS 30</li></ul><p>The county assessor, called the chief county assessment officer in the statutes, handles the first two. The deferral runs through the county collector.</p>"
+  },
+  {
+   "h2": "How much the senior homestead exemption takes off",
+   "html": "<p>For taxable years 2023 and after, it cuts equalized assessed value by up to $8,000 in Cook County and in counties next to a county of 3,000,000 or more people, and by up to $5,000 in every other county. Section 15-170 grants it for a home occupied by a person 65 or older who owes the real estate taxes and either is an owner of record or holds a legal or equitable interest shown in a written instrument.</p><p>A person who turns 65 during the assessment year can apply that same year. A home first occupied by an eligible person after January 1 gets a pro rata exemption: the county amount divided by 365 and multiplied by the days of qualifying occupancy. In Cook County the senior exemption renews automatically once granted. The dollar saving depends on the local tax rate shown on your second installment bill.</p>"
+  },
+  {
+   "h2": "Senior freeze income limit",
+   "html": "<p>The limit is $75,000 of household income for taxable year 2026, rising to $77,000 for 2027 and $79,000 for 2028 and later (35 ILCS 200/15-172). Household income is the combined income of the applicant, the spouse and everyone using the home as a principal residence, measured for the calendar year before the taxable year. Military benefits are excluded from \"income\" under the statute.</p><table><caption>Maximum household income for the Illinois senior freeze, by taxable year</caption><thead><tr><th>Taxable year</th><th>Income limit</th></tr></thead><tbody><tr><td>2018 through 2025</td><td>$65,000</td></tr><tr><td>2026 (payable 2027)</td><td>$75,000</td></tr><tr><td>2027 (payable 2028)</td><td>$77,000</td></tr><tr><td>2028 and after</td><td>$79,000</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What the senior freeze locks in",
+   "html": "<p>The freeze holds the home's equalized assessed value at a base year level. The base year is the taxable year before the first year the applicant qualifies and applies. If the assessed value later falls below the base, the lower year becomes the new base. Each year's exemption amount is the current EAV minus the base amount.</p><p>The bill can still rise when tax rates go up or when improvements raise the home's value. The freeze covers the valuation, not the bill. In Cook County you must file for the freeze every year.</p><p>A homeowner can also be presumed to meet the income limit by enrolling in one of these programs:</p><ul><li>Aid to the Aged, Blind or Disabled</li><li>The Supplemental Nutrition Assistance Program</li><li>The Low Income Home Energy Assistance Program</li><li>The Benefit Access program</li><li>The Senior Citizens Real Estate Tax Deferral Program</li></ul>"
+  },
+  {
+   "h2": "How and when seniors apply",
+   "html": "<p>The freeze needs a new Form PTAX-340 every year, filed with the chief county assessment office along with an affidavit of household income, age, marital status and who lived in the home on January 1. In counties under 3,000,000 people the filing date is July 1 of each taxable year, and a county may pass an ordinance choosing a different date. In Cook County the chief county assessment officer announces the application period, and late applications after the normal period are processed as certificates of error.</p><p>For the basic senior exemption, filing rules vary by county. Some require Form PTAX-324 at first and Form PTAX-329 as an annual certificate. Call your county assessor to learn which form applies and when the window closes.</p><p>A few other rules matter for families:</p><ul><li>A surviving spouse under 65 can receive the freeze for the year before and the year of the death if all other qualifications are met.</li><li>Married people living apart may claim the exemption for only one residence.</li><li>In counties under 3,000,000 people, a physician's statement can extend a missed deadline by up to 3 months.</li></ul>"
+  },
+  {
+   "h2": "Exemptions when the home is sold or the owner dies",
+   "html": "<p>Each exemption is tied to a qualifying person living in the home, so a buyer applies on the buyer's own eligibility. In Cook County, if a parent who lived in the home on January 1 passes away, the property still qualifies for that year. The son or daughter submits the application with a death certificate, identification and any letters of office or power of attorney paperwork.</p><p>A homeowner moving to assisted living keeps the freeze in later years when the spouse still occupies the home, or when the home sits unoccupied but still belongs to the qualified person. Section 15-170 carries the same language for the basic exemption.</p>"
+  },
+  {
+   "h2": "How the senior tax deferral works",
+   "html": "<p>The deferral lets a person 65 or older postpone all or part of the real estate taxes and special assessments on the principal residence. Think of it as a loan against the property's market value: the state pays the taxes and later recovers the money, plus annual interest set by the Senior Citizens Real Estate Tax Deferral Act. Repayment comes when the property is sold or transferred, within one year of the taxpayer's death, or 90 days after the property stops qualifying.</p><p>The deferred amount, with interest and lien fees, can't go past 80 percent of the taxpayer's equity in the property. Under 320 ILCS 30/4, the collector records a statement with the county recorder that becomes a lien on the real estate for the deferred taxes plus accrued interest. Applications use Forms IL-1017 and IL-1018, available from the county treasurer's or collector's office. Call that office for the income limit and filing deadline.</p>"
+  },
+  {
+   "h2": "Selling a home with a deferral",
+   "html": "<p>For a seller, the lien matters at closing because the deferral comes due on sale. Get a payoff figure from the county office before you list, so you know how much of the sale price goes toward it. The title company will collect the payoff from your proceeds and the lien is released once it is paid.</p><p>Exemptions don't follow the house to the buyer, so expect the tax bill to look different after the sale. A cash buyer can often close quickly, but the deferral payoff still has to be settled at the table.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the senior freeze income limit in Illinois?",
+   "a": "$75,000 of household income for taxable year 2026, which is payable in 2027. The limit moves to $77,000 for 2027 and $79,000 for 2028 and after."
+  },
+  {
+   "q": "Do I have to reapply for the senior exemption every year in Cook County?",
+   "a": "No for the basic Senior Exemption, which renews automatically once granted. Yes for the Senior Freeze, which must be filed every year."
+  },
+  {
+   "q": "How old do I have to be for the Illinois senior exemption?",
+   "a": "You must be 65 or older during the taxable year. Under section 15-170, a person who will turn 65 during the assessment year can apply that year."
+  },
+  {
+   "q": "Does the senior freeze stop my property tax bill from rising?",
+   "a": "No. It holds the equalized assessed value at the base amount. The bill can still go up if tax rates rise or if improvements added to the home increase its value."
+  },
+  {
+   "q": "When must a senior tax deferral be repaid in Illinois?",
+   "a": "When the property is sold or transferred, within one year of the taxpayer's death, or 90 days after the property ceases to qualify for the program."
+  }
+ ],
+ "sources": [
+  {
+   "title": "35 ILCS 200/15-170, Senior citizens homestead exemption",
+   "url": "https://ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"
+  },
+  {
+   "title": "35 ILCS 200/15-172, Senior freeze",
+   "url": "https://ilga.gov/documents/legislation/ilcs/documents/003502000K15-172.htm"
+  },
+  {
+   "title": "320 ILCS 30/4",
+   "url": "https://ilga.gov/legislation/ilcs/fulltext.asp?DocName=032000300K4"
+  },
+  {
+   "title": "Illinois Department of Revenue, PIO-74",
+   "url": "https://tax.illinois.gov/localgovernments/property/taxrelief.html"
+  },
+  {
+   "title": "Cook County Assessor, Senior Exemption",
+   "url": "https://cookcountyassessoril.gov/senior-citizen-exemption"
+  },
+  {
+   "title": "Cook County Assessor, Senior Freeze Exemption",
+   "url": "https://cookcountyassessoril.gov/senior-freeze-exemption"
+  }
+ ]
+}

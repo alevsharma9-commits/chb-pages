@@ -1,0 +1,101 @@
+{
+ "slug": "kentucky-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who handles a Kentucky property tax bill",
+   "html": "<p>Four local offices each take one stage. The property valuation administrator (PVA) sets a value on every parcel. The sheriff mails and collects the fall bills. The county clerk inherits whatever stays unpaid, and the county attorney chases those leftovers.</p><p>The PVA's target is fair cash value, meaning the price a fair voluntary sale would bring. Every parcel must be walked or physically reviewed at least once in four years, and new construction goes on the roll each year. Farm acreage can carry an agricultural value instead. Coal, oil and gas and utility property are valued by the state Office of Property Valuation rather than the PVA.</p>"
+  },
+  {
+   "h2": "How to contest your assessment",
+   "html": "<p>Start by asking the PVA or a deputy for a conference. Conferences can be held by phone if you ask. If that leaves you unsatisfied, file a short written petition at the clerk's office giving your reasons, the parcel and the value you think is right.</p><p>Public inspection of the roll starts the first Monday in May and lasts 13 days. Your petition is due by the close of the next workday after that window ends. When a PVA asks and the state agrees, the cutoff can slide by up to 25 days. If you skip the local board or miss your own hearing, the later state appeal is off the table.</p><ul><li>The local board of assessment appeals sits between 25 and 35 days after the roll closes and holds a public hearing on each protest.</li><li>Evidence decides the outcome: sales listings, construction costs, insurance policies, mortgages or loans. A protest with no supporting facts must be denied.</li><li>You have the right to record the hearing on audio.</li><li>A paid representative has to fit a role named in the statute, among them lawyer, CPA, tax consultant, real estate broker or appraiser, or be your employee, and needs your written authorization.</li></ul><p>Filing does not pause collection. Under KRS 133.120(9) you pay on the figure you claimed in the petition, and if the final value ends up higher you owe the difference plus interest. Bills are sometimes printed before an appeal wraps up. In that case your claimed value is used and a supplemental bill follows for anything the board adds.</p>"
+  },
+  {
+   "h2": "If you lose at the county board",
+   "html": "<p>The next stop is the state tax appeals board under KRS 49.220. A petition has to arrive within 30 days of the mailing date on the county board's decision, and the state board hears the matter fresh rather than reviewing a record.</p><p>The county board owes you a written explanation whenever it changes a value, and it must inspect the parcel in person if you or the PVA ask. KRS 133.120 was amended in 2026, so read the current wording before you file.</p>"
+  },
+  {
+   "h2": "The Kentucky tax calendar",
+   "html": "<p>This is the standard schedule. Counties that mail bills after November 1 shift to a version with a 30 day window per stage.</p><table><caption>Standard Kentucky real property schedule</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>Jan. 1</td><td>Valuation snapshot date</td></tr><tr><td>Jan. 1 to Mar. 1</td><td>Owners may list real property</td></tr><tr><td>Early May (first Monday)</td><td>Roll on display for 13 days</td></tr><tr><td>Oct. 1 to Nov. 1</td><td>Early payers save 2%</td></tr><tr><td>Nov. 2 to Dec. 31</td><td>Face amount due</td></tr><tr><td>All of January</td><td>5% added</td></tr><tr><td>Feb. 1 to Apr. 15</td><td>21% added</td></tr><tr><td>End of day Apr. 15</td><td>Unpaid bills leave the sheriff for the clerk</td></tr></tbody></table><p>You do not have to re-list land and buildings every year if the prior roll already described them fully and correctly and nothing major has changed.</p>"
+  },
+  {
+   "h2": "Who sets the tax rate?",
+   "html": "<p>Each taxing body picks its own rate, but House Bill 44 limits the choices. A body can roll its rate back to the compensating level, which keeps income from existing property flat. Or it can choose a rate that raises that income by no more than 4 percent after a public hearing. A rate above the 4 percent line opens the door to a petition and a recall vote. Rates are quoted in cents for each $100 of value.</p><p>On the state side, the Department of Revenue announced a 2025 real property rate of 10.6 cents on each $100 of assessed value, down from 10.9 the year before. The statute caps state revenue growth from existing property at 4 percent. Cities, school districts, counties and special districts add their own rates on top, so the full rate depends on where the parcel sits.</p>"
+  },
+  {
+   "h2": "What happens when a bill goes unpaid",
+   "html": "<p>After April 15 the bill becomes a certificate of delinquency that acts as a lien. Charges then build up in stages.</p><ul><li>Interest runs 1 percent monthly.</li><li>A clerk fee of 10 percent and an attorney fee of 20 percent are added. The attorney's share is waived if the owner pays within five business days of the clerk getting the list.</li><li>The county attorney sends notices, the first by May 15 and a second by June 15, along with payment plan offers.</li><li>Sales of the certificates to private buyers begin in mid-July and may run to late October, with most done by the end of August.</li></ul><p>What gets sold is the lien. The owner keeps the house but owes the buyer, who adds its own fees on top.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed or due",
+   "html": "<p>Learn the balance before the listing goes live. The sheriff can tell you the amount on the current bill, and the clerk can say whether a certificate of delinquency sits against the parcel. Counties must post their delinquent lists on a county website and in the newspaper at least 30 days before a sale.</p><p>The seller also pays the real estate transfer tax, $0.50 on every $500 of declared value, which the clerk collects at recording. A foreclosure transfer or a surrender in lieu of foreclosure falls outside it. If the property carries a homestead exemption, report the transfer to the PVA. Organizations with a Section 170 exemption, such as churches or libraries, use Revenue Form 62A023.</p><p>At closing, a title company will look for any open delinquency and pay it from your proceeds. A cash buyer buying as-is works the same way: the unpaid balance comes out of the price, so knowing the number early keeps the closing on schedule.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When does a Kentucky property tax bill arrive and when is it due?",
+   "a": "Sheriffs mail bills in the fall, with collection starting October 1 or November 1 depending on the county. Payment with a 2 percent discount runs through November 1, and face value is accepted through December 31."
+  },
+  {
+   "q": "Until what day can I protest my valuation?",
+   "a": "The petition is due one workday after the 13 day inspection window ends. That window starts on the first Monday in May, and a PVA conference has to happen before you file."
+  },
+  {
+   "q": "What penalties hit a late Kentucky bill?",
+   "a": "January adds 5 percent, and February 1 through April 15 carries 21 percent. Afterward the bill goes to the clerk, with 1 percent monthly interest and extra fees."
+  },
+  {
+   "q": "Can the county sell my home over unpaid tax?",
+   "a": "What the clerk sells is the lien, in the form of a certificate of delinquency. Your house stays yours, but you then owe the investor who bought the certificate."
+  },
+  {
+   "q": "Who fixes the state real property rate?",
+   "a": "The Department of Revenue sets it each year by July 1 under KRS 132.020. For 2025 it came to 10.6 cents on each $100 of assessed value."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kentucky DOR: Residential, Farm and Commercial Property",
+   "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/Pages/default.aspx"
+  },
+  {
+   "title": "Kentucky DOR: The Property Tax Calendar",
+   "url": "https://revenue.ky.gov/Property/Pages/ThePropertyTaxCalendar.aspx"
+  },
+  {
+   "title": "Kentucky DOR: Property Tax Rates",
+   "url": "https://revenue.ky.gov/Property/Pages/PropertyTaxRates.aspx"
+  },
+  {
+   "title": "Kentucky DOR: The Collection Process for Property Tax Bills",
+   "url": "https://revenue.ky.gov/Property/Pages/TheCollectionProcessforPropertyTaxBills.aspx"
+  },
+  {
+   "title": "Kentucky DOR: Delinquent Property Tax",
+   "url": "https://revenue.ky.gov/Property/Pages/Delinquent-Property-Tax.aspx"
+  },
+  {
+   "title": "Kentucky DOR: What Officials are Involved",
+   "url": "https://revenue.ky.gov/Property/Pages/WhatOfficialsareInvolved.aspx"
+  },
+  {
+   "title": "Kentucky DOR: 2025 State Real Property Tax Rate",
+   "url": "https://revenue.ky.gov/Property/Pages/2025-State-Real-Property-Tax-Rate-Drops-to-10.6-cents.aspx"
+  },
+  {
+   "title": "Kentucky DOR: Property Tax Exemptions",
+   "url": "https://revenue.ky.gov/Property/Pages/Property-Tax-Exemptions.aspx"
+  },
+  {
+   "title": "KRS 133.120 Appeal procedure",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58035"
+  },
+  {
+   "title": "KRS 49.220 Board of Tax Appeals",
+   "url": "https://apps.legislature.ky.gov/law/Statutes/statute.aspx?id=51470"
+  },
+  {
+   "title": "KRS 142.050 Real estate transfer tax",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"
+  }
+ ]
+}
