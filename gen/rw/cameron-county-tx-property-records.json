@@ -1,72 +1,109 @@
 {
-  "slug": "cameron-county-tx-property-records",
-  "sections": [
-    {
-      "h2": "Where do I search Cameron County property records?",
-      "html": "<p>Start with the Official Public Records search linked from the <a href=\"https://www.cameroncountytx.gov/county-clerk/\">Cameron County Clerk's page</a>, then call the Brownsville main office at (956) 544-0815 about anything the search does not show. The clerk's Recordings Division files and keeps real property records, personal property records, notices of trustee sales and public notices. Records that no law or court order restricts are open through the Public Records Search.</p><p>The clerk's <a href=\"https://www.cameroncountytx.gov/county-clerk/public-access-portals-county-clerk/\">public access portals page</a> lists separate databases for foreclosure sales, official records, official records from 1848 to 1912, and judicial records. A very old instrument belongs in the 1848 to 1912 portal, so check there before you decide a record is missing.</p>"
-    },
-    {
-      "h2": "Which Cameron County Clerk office should I visit?",
-      "html": "<p>Go to the Brownsville main office at 835 East Levee Street, 3rd Floor, for deeds and liens. The clerk lists four more locations, and the one nearest your house may save a trip.</p><table><caption>Cameron County Clerk locations, as listed on the clerk's own page</caption><thead><tr><th>Location</th><th>Address</th><th>Phone</th></tr></thead><tbody><tr><td>Brownsville main office</td><td>835 East Levee St., 3rd Floor, Brownsville 78520</td><td>(956) 544-0815</td></tr><tr><td>Cameron County Courthouse</td><td>974 E. Harrison St., 2nd Floor, Brownsville 78520</td><td>(956) 544-0867</td></tr><tr><td>San Benito office</td><td>1390 W. Expressway 83, San Benito 78586</td><td>(956) 247-3509</td></tr><tr><td>Harlingen branch</td><td>3302 W. Wilson Road, Harlingen 78552</td><td>(956) 406-6081</td></tr><tr><td>La Feria annex</td><td>200 Industrial Way, La Feria 78559</td><td>(956) 887-6009</td></tr></tbody></table><ul><li>Recording hours on the land records page run from 8 in the morning to 4 in the afternoon on weekdays.</li><li>The La Feria annex is open on Tuesdays and Thursdays only, from 8 until 4:30.</li><li>Older civil, probate and deed volumes are stored at the records management facility in the San Benito annex building.</li></ul>"
-    },
-    {
-      "h2": "How do I record a deed in Cameron County?",
-      "html": "<p>Bring the original deed with original signatures, because the clerk will not record a copy. File it at the Brownsville office or any satellite office, or mail it to the Filing and Recording Department, P.O. Box 2178, Brownsville, TX 78522.</p><p>The clerk says recordings are completed as they arrive. Once a document is cashiered, given an instrument number and scanned, the original goes back to the filer. Electronic filing runs through the e-recording companies the clerk names, and the page limits it to groups such as Texas attorneys, banks, credit unions and title insurance companies or agents.</p><p>Two state rules decide whether the clerk can accept your deed. It has to be acknowledged before a notary or another authorized officer, or sworn before two witnesses, under Property Code 12.001(b). And a missing grantee mailing address can add a $25 charge, according to the <a href=\"https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf\">Texas county clerk manual</a>.</p><p>On price, the clerk's land records page prints $35 for the first page and $4 for each added page, in its paragraph on recording a release of lien. The state manual lists a $5 first page and $4 for each added page as the base recording fee, before add-on records fees. Ask the clerk which total applies to your deed before you mail a check, and make it payable to the Cameron County Clerk.</p>"
-    },
-    {
-      "h2": "How do I get a copy of a recorded deed or check for liens?",
-      "html": "<p>Use the Official Public Records Search, choose Property Records, and pull a plain or certified copy there. You can also email officialpublicrecords@co.cameron.tx.us. For a certified copy by mail, write to the County Clerk's Office, P.O. Box 2178, Brownsville, TX 78522-2178. The printed charge is $1 per page, $5 per certification and $5 per search.</p><p>Liens recorded against a property show up in the same search. The clerk states that its office does not guarantee a clear title and is not responsible for encumbrances, and it points owners to title companies and attorneys. For a sale, the title company will look for:</p><ul><li>Deeds of trust and the releases that should follow a payoff</li><li>Tax liens and judgments filed against the owner</li><li>Probate filings when an owner has died</li><li>Gaps in the chain of deeds, such as a missing heir's signature</li></ul>"
-    },
-    {
-      "h2": "Does the Cameron Appraisal District keep deeds or tax bills?",
-      "html": "<p>No. The <a href=\"https://www.cameroncad.org/\">Cameron Appraisal District</a> sets values and administers exemptions, and its own site sends deed copy and subdivision plat requests to the county clerk. It also says it does not collect taxes or hold tax amounts.</p><p>The district notes that people often mistake it for the Cameron County Tax Office, which sits across U.S. Highway 83 at 1390 W Expressway 83 in San Benito. The district opens at 7:30 and closes at 5:30 from Monday through Thursday, and keeps 8 to 5 on Fridays. Property Search and Map Search are linked from its home page.</p><p>The <a href=\"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php\">Texas Comptroller calendar</a> fixes value and ownership as of January 1. Owners can protest by May 15 or the 30th day after the appraisal notice, whichever is later, and the <a href=\"https://comptroller.texas.gov/taxes/property-tax/pay\">payment page</a> says a bill unpaid on February 1 turns delinquent. School districts must give a $140,000 homestead exemption, and the application goes to the appraisal district.</p>"
-    },
-    {
-      "h2": "What if a Cameron County owner died and the title is unclear?",
-      "html": "<p>A probate filing usually clears it. The clerk's Probate Department, at 974 East Harrison Street, 2nd Floor, Brownsville, handles probate of a will and issuance of letters testamentary, probate of a will as a muniment of title, letters of administration and determination of heirship.</p><p>The department also describes a small estate affidavit. By the clerk's description it applies when there is no will, the estate is under $75,000 and no real estate is involved. A house therefore needs one of the other routes. Call (956) 544-0826 for forms, and ask the clerk for the 2026 probate fee schedule that the department page links.</p>"
-    },
-    {
-      "h2": "What do the Census figures say about Cameron County housing?",
-      "html": "<p>The county covers a large area and holds a few hundred thousand people. These figures come from <a href=\"https://www.census.gov/quickfacts/fact/table/cameroncountytexas/PST045224\">Census QuickFacts</a>:</p><ul><li>Population: 433,946 in the July 2025 estimate, up from 421,017 at the 2020 census</li><li>Land area: 891.71 square miles, about 472 people per square mile in 2020</li><li>Housing units: 166,569 in July 2025, with 2,702 building permits in 2025</li><li>Owner-occupied rate: 65.2%, and 138,433 households</li><li>Home value reported by owners, middle figure: $136,500 (2020 to 2024)</li><li>Middle gross rent: $912, and middle household income: $52,601</li></ul><p>These are county-wide medians. A house in Brownsville, Harlingen or San Benito can sit far above or below them, so use the figures as background only.</p>"
-    },
-    {
-      "h2": "When and where are Cameron County foreclosure sales held?",
-      "html": "<p>The clerk's page says the sale runs on the first Tuesday of every month between 10:00 a.m. and 4:00 p.m., on the west side of the Cameron County Courthouse or at another spot the Commissioners Court designates. The sale is open to the public for bidding, and the notices are filed with the clerk's Recordings Division.</p><p>The same page prints redemption periods: two years for agricultural-use or homestead property and six months for all other property, counted from the date the deed is recorded. Questions about tax certificates go to the Tax Assessor-Collector at 956-544-0800. If your house has a notice of sale on file, tell a title company early, because it affects what can still be recorded and sold.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Where is the Cameron County Clerk's main office?",
-      "a": "It is at 835 East Levee Street, 3rd Floor, Brownsville, TX 78520, and the phone is (956) 544-0815. The clerk also lists offices in San Benito, Harlingen and La Feria, plus a courthouse location at 974 E. Harrison Street."
-    },
-    {
-      "q": "Will the Cameron County Clerk record a photocopy of my deed?",
-      "a": "No. The clerk's land records page says the original documents with original signatures are required and that the office will not record a copy. After scanning, the original is returned to the filer."
-    },
-    {
-      "q": "What does a certified copy of a deed cost in Cameron County?",
-      "a": "By mail, the clerk prints $1 per page, $5 per certification and $5 per search. Plain and certified copies can also be requested through the Official Public Records Search under Property Records."
-    },
-    {
-      "q": "Can the Cameron Appraisal District give me a copy of my deed?",
-      "a": "No. The district's site says it does not give out copies of deeds or subdivision plats and refers those requests to the Cameron County Clerk's office. Call the clerk at (956) 544-0815."
-    },
-    {
-      "q": "How can I tell if my Cameron County house is facing a foreclosure sale?",
-      "a": "Search the clerk's foreclosure sales portal and the Official Public Records for a notice of trustee sale. Sales take place on the first Tuesday of each month, so a notice on file points to the next first Tuesday. A title company can confirm the status."
-    }
-  ],
-  "sources": [
-    {"title": "Cameron County Clerk", "url": "https://www.cameroncountytx.gov/county-clerk/"},
-    {"title": "Cameron County Clerk Real Property / Land Records", "url": "https://www.cameroncountytx.gov/county-clerk/cameron-county-clerk-real-property-land-records/"},
-    {"title": "Cameron County Clerk Public Access Portals", "url": "https://www.cameroncountytx.gov/county-clerk/public-access-portals-county-clerk/"},
-    {"title": "Cameron County Clerk Probate Department", "url": "https://www.cameroncountytx.gov/county-clerk/cameron-county-clerk-probate-department/"},
-    {"title": "Cameron County Clerk Records Management", "url": "https://www.cameroncountytx.gov/county-clerk/cameron-county-clerk-records-management/"},
-    {"title": "Cameron Appraisal District", "url": "https://www.cameroncad.org/"},
-    {"title": "Census QuickFacts: Cameron County, Texas", "url": "https://www.census.gov/quickfacts/fact/table/cameroncountytexas/PST045224"},
-    {"title": "Texas County Clerk Manual 2023 edition", "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"},
-    {"title": "Texas Comptroller: Property tax deadlines", "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"},
-    {"title": "Texas Comptroller: Paying property taxes", "url": "https://comptroller.texas.gov/taxes/property-tax/pay"},
-    {"title": "Texas Comptroller: Property tax exemptions", "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"}
-  ]
+ "slug": "cameron-county-tx-property-records",
+ "sections": [
+  {
+   "h2": "Searching Cameron County property records",
+   "html": "<p>Start with the Official Public Records search linked from the <a href=\"https://www.cameroncountytx.gov/county-clerk/\">Cameron County Clerk's page</a>. If the search does not show what you need, call the Brownsville main office at (956) 544-0815. Recordings Division staff file and store real property records, personal property records, trustee sale notices and public notices. Whatever is not sealed by law or court order can be viewed in the search.</p><p>The clerk's <a href=\"https://www.cameroncountytx.gov/county-clerk/public-access-portals-county-clerk/\">public access portals page</a> lists separate databases for foreclosure sales, official records, official records from 1848 to 1912, and judicial records. A very old instrument belongs in the 1848 to 1912 portal, so look there before you decide a record is missing.</p>"
+  },
+  {
+   "h2": "Clerk office locations",
+   "html": "<p>Go to the Brownsville main office at 835 East Levee Street, 3rd Floor, for deeds and liens. Four more locations exist, and the one nearest your house may save you a trip.</p><table><caption>Cameron County Clerk locations</caption><thead><tr><th>Location</th><th>Address</th><th>Phone</th></tr></thead><tbody><tr><td>Brownsville main office</td><td>835 East Levee St., 3rd Floor, Brownsville 78520</td><td>(956) 544-0815</td></tr><tr><td>Cameron County Courthouse</td><td>974 E. Harrison St., 2nd Floor, Brownsville 78520</td><td>(956) 544-0867</td></tr><tr><td>San Benito office</td><td>1390 W. Expressway 83, San Benito 78586</td><td>(956) 247-3509</td></tr><tr><td>Harlingen branch</td><td>3302 W. Wilson Road, Harlingen 78552</td><td>(956) 406-6081</td></tr><tr><td>La Feria annex</td><td>200 Industrial Way, La Feria 78559</td><td>(956) 887-6009</td></tr></tbody></table><ul><li>Recording desks take filings 8 a.m. to 4 p.m., Monday through Friday.</li><li>The La Feria annex is open Tuesdays and Thursdays only, from 8 until 4:30.</li><li>Older civil, probate and deed volumes are stored at the records management facility in the San Benito annex building.</li></ul>"
+  },
+  {
+   "h2": "How to record a deed",
+   "html": "<p>Bring the deed itself, signed in ink. A photocopy gets turned away. File it at the Brownsville office or any satellite office, or mail it to the Filing and Recording Department, P.O. Box 2178, Brownsville, TX 78522.</p><p>Recordings are completed as they arrive. After staff take payment, assign an instrument number and scan the pages, you get the original back. Electronic filing runs through the e-recording companies the clerk names, and it is limited to groups such as Texas attorneys, banks, credit unions and title insurance companies or agents. A homeowner selling alone files on paper or lets the title company handle it.</p><p>Two state rules decide whether the clerk can accept your deed. A notary or other authorized officer must witness the acknowledgment, or two witnesses must swear to it (Property Code 12.001(b)). Leaving the buyer's mailing address off the deed can add a $25 charge.</p><p>A release of lien is priced at $35 for page one and $4 for each page after. The state base recording fee is $5 for the first page and $4 for each added page, with add-on records fees on top. Phone the clerk for your deed's exact total before mailing a check payable to the Cameron County Clerk.</p>"
+  },
+  {
+   "h2": "Copies of a recorded deed and lien checks",
+   "html": "<p>Use the Official Public Records Search, choose Property Records, and pull a plain or certified copy there. You can also email officialpublicrecords@co.cameron.tx.us. For a certified copy by mail, write to the County Clerk's Office, P.O. Box 2178, Brownsville, TX 78522-2178. The charge is $1 per page, $5 per certification and $5 per search.</p><p>Liens recorded against a property show up in the same search. The clerk does not guarantee a clear title and is not responsible for encumbrances, so owners are pointed to title companies and attorneys. Before closing, the title company searches for:</p><ul><li>Deeds of trust and the releases that should follow a payoff</li><li>Tax liens and judgments filed against the owner</li><li>Probate filings when an owner has died</li><li>Gaps in the chain of deeds, such as a missing heir's signature</li></ul>"
+  },
+  {
+   "h2": "Appraisal district versus tax office",
+   "html": "<p>The <a href=\"https://www.cameroncad.org/\">Cameron Appraisal District</a> sets values and administers exemptions. It does not keep deeds, collect taxes or hold tax amounts. Deed copy and subdivision plat requests go to the county clerk.</p><p>Owners often mistake the district for the Cameron County Tax Office, which sits across U.S. Highway 83 at 1390 W Expressway 83 in San Benito. The district opens at 7:30 and closes at 5:30 from Monday through Thursday, and keeps 8 to 5 on Fridays. Property Search and Map Search are linked from its home page.</p><p>Value and ownership are locked in on January 1. Owners can protest by May 15 or the 30th day after the appraisal notice, whichever is later. A bill unpaid on February 1 turns delinquent. Homeowners apply to the appraisal district for the school homestead exemption, which is $140,000.</p>"
+  },
+  {
+   "h2": "If an owner died and the title is unclear",
+   "html": "<p>A probate filing usually clears it. The clerk's Probate Department, at 974 East Harrison Street, 2nd Floor, Brownsville, handles probate of a will and issuance of letters testamentary, probate of a will as a muniment of title, letters of administration and determination of heirship.</p><p>The department also describes a small estate affidavit. It applies when there is no will, the estate is under $75,000 and no real estate is involved. A house therefore needs one of the other routes. Call (956) 544-0826 for forms, and ask for the current probate fee schedule.</p>"
+  },
+  {
+   "h2": "Cameron County housing at a glance",
+   "html": "<p>Cameron County holds about 433,946 people in the July 2025 estimate, up from 421,017 at the 2020 census. It has 166,569 housing units and 65.2% of households own their home. The middle owner-reported home value is $136,500 (2020 to 2024), and middle gross rent is $912.</p><p>The county's 138,433 households give a sense of the pool of owners and renters. These are county-wide medians. A house in Brownsville, Harlingen or San Benito can sit far above or below them, so treat them as background only.</p>"
+  },
+  {
+   "h2": "A records checklist before you list",
+   "html": "<p>Pull together a short folder before a buyer's title company asks. Order a certified copy of your current deed, and write down its instrument number. Search for any deed of trust on the house and confirm a recorded release exists for every loan you have paid off. Look for judgments or tax liens under your name. If a prior owner or spouse has died, ask the Probate Department what filing is still missing.</p><p>Then call the Brownsville office and ask what its current wait is for recording. Giving your title company that information early keeps the closing date realistic, and it avoids a surprise when the original deed needs to travel between offices.</p>"
+  },
+  {
+   "h2": "Foreclosure sales",
+   "html": "<p>Trustee sales take place the first Tuesday of each month, any time from 10:00 a.m. to 4:00 p.m., on the west side of the Cameron County Courthouse or at another spot the Commissioners Court designates. Anyone can bid, and notices are filed with the Recordings Division.</p><p>After a sale, the former owner of agricultural-use or homestead property has two years to redeem, and six months applies to everything else. The clock starts when the deed is recorded. Questions about tax certificates go to the Tax Assessor-Collector at 956-544-0800. If your house has a notice of sale on file, tell a title company early, because it affects what can still be recorded and sold.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where is the Cameron County Clerk's main office?",
+   "a": "It is at 835 East Levee Street, 3rd Floor, Brownsville, TX 78520, and the phone is (956) 544-0815. The clerk also has offices in San Benito, Harlingen and La Feria, plus a courthouse location at 974 E. Harrison Street."
+  },
+  {
+   "q": "Will the clerk record a photocopy of my deed?",
+   "a": "No. Original documents with original signatures are required. After scanning, the original is returned to the filer."
+  },
+  {
+   "q": "What does a certified copy of a deed cost?",
+   "a": "By mail, it is $1 per page, $5 per certification and $5 per search. You can also request plain and certified copies through the Official Public Records Search under Property Records."
+  },
+  {
+   "q": "Can the appraisal district give me a copy of my deed?",
+   "a": "No. The district refers deed and plat requests to the Cameron County Clerk. Call the clerk at (956) 544-0815."
+  },
+  {
+   "q": "How can I tell if my house is facing a foreclosure sale?",
+   "a": "Search the clerk's foreclosure sales portal and the Official Public Records for a notice of trustee sale. A notice on file points to the next first Tuesday. A title company can confirm the status."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Cameron County Clerk",
+   "url": "https://www.cameroncountytx.gov/county-clerk/"
+  },
+  {
+   "title": "Cameron County Clerk Real Property / Land Records",
+   "url": "https://www.cameroncountytx.gov/county-clerk/cameron-county-clerk-real-property-land-records/"
+  },
+  {
+   "title": "Cameron County Clerk Public Access Portals",
+   "url": "https://www.cameroncountytx.gov/county-clerk/public-access-portals-county-clerk/"
+  },
+  {
+   "title": "Cameron County Clerk Probate Department",
+   "url": "https://www.cameroncountytx.gov/county-clerk/cameron-county-clerk-probate-department/"
+  },
+  {
+   "title": "Cameron County Clerk Records Management",
+   "url": "https://www.cameroncountytx.gov/county-clerk/cameron-county-clerk-records-management/"
+  },
+  {
+   "title": "Cameron Appraisal District",
+   "url": "https://www.cameroncad.org/"
+  },
+  {
+   "title": "Census QuickFacts: Cameron County, Texas",
+   "url": "https://www.census.gov/quickfacts/fact/table/cameroncountytexas/PST045224"
+  },
+  {
+   "title": "Texas County Clerk Manual 2023 edition",
+   "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"
+  },
+  {
+   "title": "Texas Comptroller: Property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  },
+  {
+   "title": "Texas Comptroller: Paying property taxes",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  },
+  {
+   "title": "Texas Comptroller: Property tax exemptions",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"
+  }
+ ]
 }
