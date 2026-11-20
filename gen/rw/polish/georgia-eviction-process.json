@@ -1,0 +1,85 @@
+{
+ "slug": "georgia-eviction-process",
+ "sections": [
+  {
+   "h2": "What the Georgia eviction process is called",
+   "html": "<p>Georgia calls it a dispossessory proceeding. The landlord starts it by filing a sworn affidavit, sometimes called the eviction warrant, asking the court to return the property and award unpaid rent. Without that filing and a court order, a landlord has no legal way to remove a tenant.</p><p>Most of these cases are filed in magistrate court, which can be easier to use and may move faster. They can also go to state or superior court, or to some municipal courts, and a few magistrate courts take filings online. The case belongs in the county where the rental house sits.</p>"
+  },
+  {
+   "h2": "What the landlord's affidavit must contain",
+   "html": "<p>The affidavit must be made under oath and carry the items below. A landlord who leaves one out gives the tenant an easy argument that the case is defective.</p><ul><li>The landlord's name and the tenant's name</li><li>The reason the tenant is being removed</li><li>A statement that possession was demanded and refused, plus the three day rent notice where rent is the issue</li><li>The amount of rent or other money claimed, if any</li></ul><p>Attaching the lease or proof of past payments is a common way to show how the amount was reached.</p>"
+  },
+  {
+   "h2": "How the court papers reach the tenant",
+   "html": "<p>The summons can be served three ways: handed to the tenant, left with a competent adult who lives in the unit, or tack and mail. Tack and mail is the most common, and it is allowed only when nobody was home when the sheriff tried personal delivery. The postmark date on the envelope should match the day the copy went on the door. If it does not, the tenant may be able to argue the service was insufficient.</p><p>Service method matters for money. When service was by tack and mail and the tenant never answers or appears, the court may still order the tenant to leave but cannot award rent or other damages to the landlord. In most counties the sheriff handles service, though in some places a county marshal delivers the warrant.</p>"
+  },
+  {
+   "h2": "Steps and timing from filing to move-out",
+   "html": "<table><caption>Stages of a Georgia dispossessory case</caption><thead><tr><th>Stage</th><th>What happens</th><th>Timing</th></tr></thead><tbody><tr><td>Filing</td><td>Landlord swears out the affidavit in the county of the rental</td><td>After demand is refused</td></tr><tr><td>Service</td><td>Sheriff or marshal delivers or tacks and mails the summons</td><td>Date of service starts the clock</td></tr><tr><td>Answer</td><td>Tenant states defenses and counterclaims, orally or in writing</td><td>Seven days from service</td></tr><tr><td>Rent into court</td><td>Court may order rent paid in if no decision is reached</td><td>After two weeks without a ruling</td></tr><tr><td>Hearing</td><td>Held when a valid defense is raised</td><td>Usually within seven days</td></tr><tr><td>Writ of possession</td><td>Landlord requests it after a win; sheriff supervises removal</td><td>Tenant moves after seven days</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What a tenant should put in the answer",
+   "html": "<p>Every defense and every counterclaim, because anything left out becomes hard to raise later. A tenant can write the answer or tell it to the clerk. An answer on file stands as an answer until a judge decides otherwise, even when it has no legal defense in it.</p><p>Typical defenses include a landlord who lost the property to foreclosure and no longer owns it, a rent payment dropped off as the landlord instructed, and a termination that did not follow the lease. Public housing and subsidy tenants may have a right to an informal hearing first. A counterclaim might cover unmade repairs that damaged belongings. The answer must be truthful, since a knowingly false statement in a court filing can be a crime.</p>"
+  },
+  {
+   "h2": "Is there any way back after a missed answer?",
+   "html": "<p>Rarely. A tenant served by tack and mail who misses the deadline usually cannot count on more time, even after an emergency such as a hospital stay. A tenant who truly never learned of the papers can ask the court for permission to answer late or file a motion to set aside the judgment, explaining why no answer was filed and why the landlord should not be allowed to evict.</p><p>If a judge grants that order, the tenant should hand a copy to the landlord and keep one inside the rental in case the sheriff arrives. Paying rent can also avoid a judgment, but only through the tender defense inside the seven day window. Even after a dismissal a landlord may file again later, so a won case does not end the dispute for good.</p>"
+  },
+  {
+   "h2": "When the rented house is sold or foreclosed",
+   "html": "<p>A foreclosure ends the old landlord and tenant relationship, and the new owner can bring an eviction or create a fresh lease. If a new owner demands or accepts rent while an eviction is under way, that can create a tenancy at will. The federal Protecting Tenants at Foreclosure Act lets a tenant stay at least 90 days or through the rest of the lease, whichever is longer, with only 90 days if the buyer will live there.</p><p>For the borrower, a foreclosure sale means the former owner no longer owns the home, and the buyer can file for eviction if the owner stays after a demand. The judge's ruling gives seven days to move, and the buyer may offer cash for keys, which usually means leaving the house empty and broom clean by an agreed date.</p>"
+  },
+  {
+   "h2": "Selling a tenant-occupied house in Georgia",
+   "html": "<p>The seller handles the tenant's deposit and, if a case is open, checks its status with the clerk before closing. The old owner must pass the security deposit to the buyer or return it to the tenant, and a tenant can sue when neither happens. Ask a Georgia attorney whether the lease binds a buyer.</p><p>The seller also owes the state transfer tax unless the contract says otherwise. The tax is $1 for the first $1,000 and 10 cents for each additional $100 or fractional part, paid before the deed is recorded.</p>"
+  },
+  {
+   "h2": "Preparing for a sale while a case is open",
+   "html": "<p>A pending dispossessory case does not stop you from selling, but it shapes who will buy and when you can close. Pull the case number and status from the magistrate court clerk, gather the lease and payment records, and tell any buyer up front whether the tenant will be in place at closing.</p><p>Buyers who plan to occupy the house or renovate usually want it empty, which can mean waiting for a writ of possession and the move-out that follows. A cash buyer who takes the house as is may be willing to close with the tenant there, or to pay cash for keys. Either way, put the possession date and the deposit handling in writing before the contract is signed.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is a dispossessory warrant in Georgia?",
+   "a": "It is the court paper a landlord files to start an eviction. The sworn affidavit, also called the warrant, asks the court to return the property to the landlord and award any unpaid rent. A landlord who does not get one cannot lawfully remove a tenant."
+  },
+  {
+   "q": "How soon after service must a tenant answer an eviction?",
+   "a": "Within seven days of actual service, and the next business day when the seventh day is a Saturday, Sunday or holiday. The answer can be written or spoken to the clerk. A tenant who does not answer risks losing without a hearing."
+  },
+  {
+   "q": "Can a landlord collect rent when the tenant is served by tack and mail?",
+   "a": "Not through a default. If the tenant never answers or appears after tack and mail service, the court can order the tenant out but cannot award rent or other money damages."
+  },
+  {
+   "q": "Who removes the tenant after the landlord wins?",
+   "a": "Generally the sheriff supervises the removal after a writ of possession is issued, and the landlord pays the cost. The tenant's belongings go on part of the landlord's land unless the landlord and officer agree on another spot. A tenant can still be removed after a judgment even if the tenant pays."
+  },
+  {
+   "q": "Does a foreclosure sale end a lease on a Georgia rental?",
+   "a": "It ends the old landlord and tenant relationship, so the new owner can seek eviction or start a new arrangement. The federal Protecting Tenants at Foreclosure Act can give a tenant at least 90 days or the rest of the lease. Ask the county magistrate court clerk or legal aid how it applies to a specific case."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Georgia Landlord-Tenant Handbook, Georgia Department of Community Affairs (revised 8-29-24)",
+   "url": "https://dca.georgia.gov/document/manuals/georgia-landlord-tenant-handbook-english/download"
+  },
+  {
+   "title": "Landlord/Tenant, Georgia Courts self-help resources",
+   "url": "https://georgiacourts.gov/a2j/self-help-resources/landlord-tenant/"
+  },
+  {
+   "title": "Facing Foreclosure? Atlanta Legal Aid Society flyer on GeorgiaLegalAid.org",
+   "url": "https://www.georgialegalaid.org/resource/facing-foreclosure"
+  },
+  {
+   "title": "PT-61 eFiling Help, Georgia Superior Court Clerks' Cooperative Authority",
+   "url": "https://apps.gsccca.org/help/pt61_importantinformation.asp"
+  },
+  {
+   "title": "U.S. Census Bureau QuickFacts: Georgia",
+   "url": "https://www.census.gov/quickfacts/fact/table/GA/PST045224"
+  }
+ ]
+}

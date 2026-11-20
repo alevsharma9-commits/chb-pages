@@ -1,0 +1,81 @@
+{
+ "slug": "iowa-sheriff-sale",
+ "sections": [
+  {
+   "h2": "How an Iowa sheriff sale works",
+   "html": "<p>A sheriff sale is a public auction of property after a court has ordered it sold to pay a debt. The county sheriff runs it. For a home loan, the road to the auction goes through district court, because Iowa mortgages are foreclosed by a court action in equity, with one narrow exception for a voluntary agreement (<a href=\"https://www.legis.iowa.gov/docs/code/2026/654.html\">Iowa Code chapter 654</a>).</p><p>The court enters judgment for the full amount due and orders the property sold as needed to satisfy it. The sale then happens under a special execution. Whether the former owner gets a redemption period afterward depends on which kind of foreclosure the lender chose.</p><p>Other creditors can end up at a sheriff sale too, since Iowa enforces money judgments by execution against real estate. Chapter 626 sets the notice and auction rules for both situations.</p>"
+  },
+  {
+   "h2": "Notices required before a lender can sell",
+   "html": "<p>Before a lender files, Iowa requires specific notices, and they differ by property type. A skipped notice is often the first thing an owner's attorney checks.</p><ul><li>One- and two-family residences: a written notice of the right to cure, giving thirty days from the notice to bring the loan current, with no acceleration until that time runs out (section 654.2D). There is no cure right if a proper notice went out for a default within the previous 365 days.</li><li>Farmland: a notice of right to cure and a 45-day wait before enforcement (section 654.2A). For farm debt of $20,000 or more, a mediation release is generally needed first (sections 654.2C and 654A.11).</li><li>Owner-occupied homes: the lender must tell the owner about counseling and mediation on a form the attorney general prescribes. To qualify for attorney fees, the lender must also give a fourteen-day demand for payment of the accelerated balance (section 654.4B).</li></ul><p>If the court finds the counseling notice was never served and the owner asks for counseling or mediation, the sale can be delayed, though never beyond sixty days (section 654.4B).</p>"
+  },
+  {
+   "h2": "Notice of the sale itself",
+   "html": "<p>Real estate sold by a sheriff needs four weeks of notice, posted and published. The main timing rules:</p><ul><li>Notice period: four weeks before the sale (626.74).</li><li>Posting: at least three public places in the county, one of them the courthouse (626.75).</li><li>Newspaper: first publication at least four weeks before the sale (626.75).</li><li>Occupying debtor: written notice served at least twenty days before the sale (626.78).</li><li>Auction hours: between 9:00 a.m. and 4:00 p.m. (626.80).</li><li>Junior creditor request: proof of service filed at least ten days before the sale (654.15A).</li></ul><p>A sheriff who sells without the required notice forfeits $100 to the defendant plus actual damages, but the sale itself stands (section 626.77). A sale made without the twenty-day notice to an occupying debtor can be set aside on motion within ninety days (section 626.79). The statutes are on the <a href=\"https://www.legis.iowa.gov/docs/code/2026/626.html\">Iowa Legislature site</a>.</p>"
+  },
+  {
+   "h2": "How does the auction itself work?",
+   "html": "<p>The sheriff sells at public auction between 9:00 a.m. and 4:00 p.m., and the notice must carry the start time and place. The statute names no single location, so the notice is where to look.</p><p>Sealed written bids are allowed. The sheriff receipts them, keeps them sealed until the auction begins, then opens and announces them. If a winning written bidder does not pay in certified funds as the notice directs, the bid is canceled and the sheriff certifies the next highest bidder, within 24 hours for an electronic transfer or 48 hours otherwise (section 626.80).</p><p>The sale can be postponed when there are no bidders, when the offer is grossly inadequate, when the judgment creditor asks, or when the parties agree. Without a written agreement, no more than two adjournments of up to sixty days each are allowed (section 626.81).</p><p>Two more details help owners. A debtor can deliver a signed plan of division before 9:00 a.m. on the sale day so that only the land needed to cover the debt is sold (section 626.84). And money left after the debt and costs goes to the debtor, unless another execution or valid lien claims it (section 626.82).</p>"
+  },
+  {
+   "h2": "Redemption after the sale",
+   "html": "<p>The default is one year from the day of sale, and the owner keeps possession in the meantime. The first six months belong to the debtor alone (section 628.3). If the debtor does not redeem, a mortgagee or qualifying creditor may redeem within nine months of the sale (section 628.5).</p><p>Shorter periods apply in several situations. Compare the table with your court papers.</p><table><thead><tr><th>Situation</th><th>Redemption period</th><th>Section</th></tr></thead><tbody><tr><td>Standard sale</td><td>One year; debtor alone for six months</td><td>628.3</td></tr><tr><td>Mortgage under 10 acres, if the mortgage provides and the lender waives a deficiency</td><td>Six months, or three months if not agricultural</td><td>628.26</td></tr><tr><td>Under 10 acres, abandoned, mortgage provides, deficiency waived</td><td>Sixty days</td><td>628.27</td></tr><tr><td>Non-agricultural, non-residential property</td><td>180 days; 90 days with a deficiency waiver</td><td>628.28</td></tr><tr><td>Former one- or two-family residence the debtor no longer occupies</td><td>30 days, or 60 with junior creditors</td><td>628.28</td></tr><tr><td>Foreclosure without redemption elected by the plaintiff</td><td>None after the sale</td><td>654.23</td></tr></tbody></table><p>Redeeming a sold home frees it from liability for any unpaid judgment balance (section 628.3). The periods differ a lot, so the dates in the decree and the sheriff's certificate control.</p>"
+  },
+  {
+   "h2": "Foreclosure without redemption",
+   "html": "<p>On property not used for agriculture, the plaintiff can elect to skip the post-sale redemption period (sections 654.20 through 654.23). The petition must carry a required notice on its first page.</p><p>The owner can respond by filing a demand to delay the sale before judgment. The sale then comes two months after judgment, six months for a one- or two-family residence, or three months if the petition waives a deficiency judgment (section 654.21). With no demand, the sale is held promptly after judgment.</p><p>Once the sale happens, the mortgagor has no right to redeem, and junior lienholders lose theirs as well. When someone other than the mortgagee buys, junior liens are extinguished (section 654.23). For a one- or two-family residence with no deficiency waiver and no demand for delay, the plaintiff cannot seek a deficiency judgment (section 654.26).</p>"
+  },
+  {
+   "h2": "What happens to the people living in the house?",
+   "html": "<p>The owner stays through the redemption period. Once it ends and a deed issues, a court order can remove the former owner. A defendant who stays after a foreclosure or execution sale faces forcible entry and detainer, unless that person claims paramount title (section 648.1).</p><ul><li>Written notice to quit: three days before suing (section 648.3).</li><li>Hearing: set no later than 8 days from filing, or 15 if the plaintiff asks or agrees to a later date (section 648.5).</li><li>Removal: the execution issues within 3 days of judgment and can be carried out only in the daytime (sections 648.20 and 648.22).</li></ul><p>Those steps run on short clocks, so an owner who wants to choose how the house changes hands has the most room before the sale date.</p>"
+  },
+  {
+   "h2": "Selling before the sheriff sale",
+   "html": "<p>An owner can generally sell to a buyer at any point before the auction, as long as the sale pays what the judgment and liens require. A closing before the auction can end the case without a sheriff's deed.</p><p>Iowa law offers a few related paths. During a pending foreclosure, the plaintiff may ask the court to approve a commercially reasonable sale free of liens, with net proceeds held in escrow (section 654.17A). Before a sheriff's deed is recorded, the judgment creditor may rescind the foreclosure by filing a notice and a $50 fee (section 654.17). A voluntary nonjudicial foreclosure under section 654.18 takes a written agreement from both sides, and the mortgagor gets a five-business-day right to cancel.</p><p>The seller of an Iowa house owes the state transfer tax, 80 cents for each $500 of value above the first $500 (sections 428A.1 and 428A.3).</p><p>If you want to sell, gather the judgment or decree, the sheriff's notice, your loan payoff figure and a list of every lien. Cash Home Buyers can look at an Iowa house as-is while a foreclosure is pending, and you decide whether the numbers work. Talk with an Iowa attorney about your own case first, since the dates in your decree are what count.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who runs an Iowa sheriff sale?",
+   "a": "The sheriff of the county where the property sits. The sale follows a court judgment, and the notice sets the date, start time and place."
+  },
+  {
+   "q": "How many weeks of notice does Iowa require for a sheriff sale?",
+   "a": "Four weeks. The notice goes up in at least three public places in the county, including the courthouse, and is published in a newspaper with the first run at least four weeks before the sale."
+  },
+  {
+   "q": "Can the owner stay in the house after the sheriff sale?",
+   "a": "Usually yes, during the redemption period. The period can be as short as 30 days in some cases, and there is none when the plaintiff elected foreclosure without redemption."
+  },
+  {
+   "q": "Is there a deficiency judgment after an Iowa foreclosure?",
+   "a": "Sometimes. If the sale falls short, a general execution may issue against the mortgagor unless the parties agreed otherwise. A one- or two-family residence with no deficiency waiver and no demand for delay is protected (sections 654.6 and 654.26)."
+  },
+  {
+   "q": "Can a sheriff sale be postponed?",
+   "a": "Yes. The sheriff can postpone for no bidders, a grossly inadequate offer, or a request from the judgment creditor. Without written agreement, the limit is two adjournments of up to sixty days each."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Iowa Code chapter 654, Foreclosure of Real Estate Mortgages",
+   "url": "https://www.legis.iowa.gov/docs/code/2026/654.html"
+  },
+  {
+   "title": "Iowa Code chapter 626, Execution",
+   "url": "https://www.legis.iowa.gov/docs/code/2026/626.html"
+  },
+  {
+   "title": "Iowa Code chapter 628, Redemption",
+   "url": "https://www.legis.iowa.gov/docs/code/2024/628.pdf"
+  },
+  {
+   "title": "Iowa Code chapter 648, Forcible Entry and Detainer",
+   "url": "https://www.legis.iowa.gov/docs/code/2026/648.html"
+  },
+  {
+   "title": "Iowa Code chapter 428A, Real Estate Transfer Tax",
+   "url": "https://www.legis.iowa.gov/docs/code/2026/428A.html"
+  }
+ ]
+}

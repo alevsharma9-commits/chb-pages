@@ -1,62 +1,77 @@
 {
-  "slug": "georgia-quitclaim-deed",
-  "sections": [
-    {
-      "h2": "What does a Georgia quitclaim deed actually transfer?",
-      "html": "<p>A Georgia quitclaim deed passes whatever interest the signer holds in the property and promises nothing about it. The Georgia Department of Revenue puts it plainly in its deed course material: if the grantor holds fee simple title, the grantee receives fee simple title, and if the grantor holds nothing, the grantee receives nothing.</p><p>That is the whole difference from a warranty deed. A warranty deed carries a covenant that the grantor really owns the land, which is why <a href=\"https://georgia.gov/transfer-property-quit-claim-deed\">Georgia.gov</a> calls warranty and limited warranty deeds usually the most reliable, though harder to negotiate. A quitclaim deed is easier to get from a seller, and the same page tells anyone accepting one to get protection such as title insurance first.</p><p>Because nothing is guaranteed, the deed is a tool for specific jobs rather than a general way to sell a house at full market confidence.</p>"
-    },
-    {
-      "h2": "When do Georgia owners use a quitclaim deed?",
-      "html": "<p>Owners reach for a quitclaim deed when the title is murky or when no sale price is involved. The Department of Revenue course text lists the common uses.</p><ul><li>Settling the affairs of a deceased owner when the quality of title is uncertain.</li><li>Resolving a boundary dispute where the property line is not clear.</li><li>Moving a spouse's interest to the other spouse, which transfers whatever interest the signer had.</li><li>Cancelling a security deed after a loan is paid, especially when the original security deed is lost.</li><li>Moving title after an involuntary sale, such as a sale on a judgment or a tax lien.</li></ul><p>That last use is built into the tax sale statutes. When property is redeemed after a tax sale, O.C.G.A. 48-4-44 requires the tax sale purchaser to give the owner a quitclaim deed naming who paid the redemption money. Our <a href=\"/georgia-tax-sale/\">Georgia tax sale guide</a> covers how that redemption works.</p>"
-    },
-    {
-      "h2": "What makes a quitclaim deed valid and recordable in Georgia?",
-      "html": "<p>A deed to land must be an original, written, and signed by the maker. O.C.G.A. 44-5-30 adds that it must be attested by an officer and by one other witness, and delivered to the buyer or the buyer's representative. The Department of Revenue course text summarizes this as two witnesses, one of whom is a notary public.</p><p>No special form is required. Under 44-5-33, a deed that makes the transaction clear is not defeated by a want of form, so a quitclaim deed can be short. The deed still needs consideration, with one exception: the same course text notes that a deed of gift does not require valuable consideration.</p><p>Recording adds a few mechanical rules under 44-2-14. The instrument must be an original that is attested or acknowledged as the law requires, and the name and mailing address of the natural person to receive it back must be printed or typed at the top of the first page. Skipping that return address does not by itself erase the filing, but clerks expect it.</p><p>A deed is recorded with the Clerk of Superior Court in the county where the land sits. Ask that clerk for current recording fees and any local formatting preferences.</p>"
-    },
-    {
-      "h2": "How does transfer tax work on a quitclaim deed?",
-      "html": "<p>Georgia will not record a deed until the real estate transfer tax has been paid. The Department of Revenue says the clerk, or a deputy, then attaches a certification that the tax was paid. The Georgia Superior Court Clerks' Cooperative Authority adds that this tax is an excise tax and not a property tax.</p><p>The Department of Revenue prints the rate as $1 for the first $1,000 or fractional part of $1,000, plus 10 cents for each additional $100 or fractional part of $100, based on the sale price. The person who executes the deed, or the person for whose benefit it is executed, owes the tax. The seller is liable, though contracts often shift the cost to the buyer.</p><p>Georgia law also requires the PT-61 declaration. The Authority runs a free online filing system with no account needed: you complete the form on its site, print a reference copy, and file it with the clerk along with the deed. No signatures are needed on the electronic form.</p><ul><li>A PT-61 is required whenever ownership changes, even when no money moves, such as removing a name from a deed.</li><li>The Authority lists four categories that need no PT-61: security deeds, releases of security interest, leases other than a lease for years, and affidavits that do not transfer property.</li><li>Other exemptions from paying the tax still require the form to be filed.</li><li>A property that crosses county lines needs a deed and a PT-61 in each county, with the value pro-rated.</li><li>A transfer-on-death deed needs no PT-61 when recorded, but one is required after the owner dies and the beneficiary files an affidavit accepting the property.</li></ul><p>For questions about what is taxable or exempt, the Department of Revenue says to ask the Clerk of Superior Court in your county.</p>"
-    },
-    {
-      "h2": "What are the steps from signing to recording?",
-      "html": "<p>The sequence below follows the statutes and agency pages already cited. Each step is the owner's job unless a closing attorney handles it.</p><table><caption>Georgia quitclaim deed steps and the official source for each</caption><thead><tr><th>Step</th><th>What happens</th><th>Source</th></tr></thead><tbody><tr><td>1. Prepare the deed</td><td>Original, written, signed by the grantor; return address at top of page one</td><td>O.C.G.A. 44-5-30 and 44-2-14 in the Department of Revenue course text</td></tr><tr><td>2. Witness it</td><td>Attested by an officer plus one other witness</td><td>O.C.G.A. 44-5-30</td></tr><tr><td>3. Complete the PT-61</td><td>Filed online with the Clerks' Authority, then a reference copy is printed</td><td>Clerks' Authority PT-61 help pages</td></tr><tr><td>4. Pay transfer tax</td><td>Paid before recording; clerk certifies payment on the deed</td><td>Department of Revenue transfer tax page</td></tr><tr><td>5. Record the deed</td><td>Filed with the Clerk of Superior Court in the county of the land</td><td>Department of Revenue transfer tax page</td></tr></tbody></table>"
-    },
-    {
-      "h2": "Does a seven year rule make a quitclaim deed enough to own the house?",
-      "html": "<p>No. Georgia.gov states that in the past a quitclaim deed gave full ownership after seven years of uncontested use, even when the person who gave you the deed was not the real owner, and that this is no longer so simple. More documentation than the deed alone is needed to be recognized as the owner.</p><p>The seven year period still appears in the law of prescription. The Department of Revenue course text explains that O.C.G.A. 44-5-164 allows title by prescription after seven years when the possessor holds a flawed written document, called color of title, and possession was public, continuous, exclusive, peaceable, and not merely permissive. Without color of title, 44-5-163 requires twenty years. Our <a href=\"/georgia-squatters-rights-adverse-possession/\">Georgia adverse possession guide</a> goes deeper on those periods.</p><p>For a seller, the practical point is that a quitclaim deed from a doubtful source does not cure a title problem on its own. A buyer or title insurer will look at the chain of title behind it.</p>"
-    },
-    {
-      "h2": "How does a quitclaim deed fit into selling a Georgia house?",
-      "html": "<p>A quitclaim deed can move title between family members or clear a name before a sale, but a buyer receives no promise from it. Title insurance, which Georgia.gov recommends, is how buyers cover that gap, and insurers will examine the records behind the deed.</p><p>If you inherited a home with several heirs, or you are removing a former spouse from title, a quitclaim deed signed by that person may be the missing piece before you can list or sell. Each person with an interest usually has to sign for the buyer to receive the whole property. A Georgia real estate attorney can tell you whether a quitclaim deed, a warranty deed, or a court process fits your situation, and Georgia.gov points to the State Bar of Georgia for finding one.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Where do I record a quitclaim deed in Georgia?",
-      "a": "With the Clerk of Superior Court in the county where the land is located. Bring the original deed and the PT-61 reference copy, and have the transfer tax paid so the clerk can certify it."
-    },
-    {
-      "q": "Is a PT-61 form required if I am only adding or removing a name?",
-      "a": "Yes. The Clerks' Authority says a PT-61 is required whenever ownership is changed, even without a payment, except for security deeds, releases of security interest, leases other than leases for years, and affidavits. Ask the clerk whether the tax itself is exempt."
-    },
-    {
-      "q": "Does a quitclaim deed protect the person who receives it?",
-      "a": "No. It gives the grantee only what the grantor owns, with no warranty. Georgia.gov recommends title insurance and says a real estate attorney can help before you accept one."
-    },
-    {
-      "q": "Who pays the Georgia real estate transfer tax?",
-      "a": "The seller is liable under the Department of Revenue's description, but a sales contract can assign the cost to the buyer. On a gift or family transfer, ask the Clerk of Superior Court whether an exemption applies."
-    },
-    {
-      "q": "Can I use a quitclaim deed to get my house back after a tax sale?",
-      "a": "If you redeem the property after a tax sale, the purchaser must give you a quitclaim deed under O.C.G.A. 48-4-44. It should name the person who paid the redemption money, and it is recorded with the county clerk."
-    }
-  ],
-  "sources": [
-    {"title": "Transfer Property with a Quit Claim Deed, Georgia.gov", "url": "https://georgia.gov/transfer-property-quit-claim-deed"},
-    {"title": "Real Estate Transfer Tax, Georgia Department of Revenue", "url": "https://dor.georgia.gov/real-estate-transfer-tax"},
-    {"title": "PT-61 eFiling, Georgia Superior Court Clerks' Cooperative Authority", "url": "https://gsccca.org/learn/efiling-information/pt-61"},
-    {"title": "PT-61 eFiling FAQ, Georgia Superior Court Clerks' Cooperative Authority", "url": "https://apps.gsccca.org/help/pt61_faq.asp"},
-    {"title": "Deed Fundamentals course text, Georgia Department of Revenue", "url": "https://dor.georgia.gov/document/document/deed-fundamentals/download"}
-  ]
+ "slug": "georgia-quitclaim-deed",
+ "sections": [
+  {
+   "h2": "What a quitclaim deed transfers",
+   "html": "<p>A Georgia quitclaim deed passes whatever interest the signer holds in the property and promises nothing about it. If the grantor holds fee simple title, the grantee receives fee simple title. If the grantor holds nothing, the grantee receives nothing.</p><p>That is the whole difference from a warranty deed, which carries a covenant that the grantor really owns the land. Warranty and limited warranty deeds are usually the most reliable, though harder to negotiate. A quitclaim deed is easier to get from a seller, and anyone accepting one should get protection such as title insurance first.</p><p>Because nothing is guaranteed, the deed is a tool for specific jobs rather than a general way to sell a house with full market confidence.</p>"
+  },
+  {
+   "h2": "When owners use a quitclaim deed",
+   "html": "<p>Owners reach for a quitclaim deed when the title is murky or when no sale price is involved. Common uses:</p><ul><li>Settling the affairs of a deceased owner when the quality of title is uncertain.</li><li>Resolving a boundary dispute where the property line is not clear.</li><li>Moving a spouse's interest to the other spouse, which transfers whatever interest the signer had.</li><li>Cancelling a security deed after a loan is paid, especially when the original security deed is lost.</li><li>Moving title after an involuntary sale, such as a sale on a judgment or a tax lien.</li></ul><p>That last use is built into the tax sale statutes. When property is redeemed after a tax sale, O.C.G.A. 48-4-44 requires the tax sale purchaser to give the owner a quitclaim deed naming who paid the redemption money. Our <a href=\"/georgia-tax-sale/\">Georgia tax sale guide</a> covers how that redemption works.</p>"
+  },
+  {
+   "h2": "What makes the deed valid and recordable",
+   "html": "<p>A deed to land must be an original, written, and signed by the maker. O.C.G.A. 44-5-30 adds that it must be attested by an officer and by one other witness, and delivered to the buyer or the buyer's representative. In practice that means two witnesses, one of whom is a notary public.</p><p>No special form is required. Under 44-5-33, a deed that makes the transaction clear is not defeated by a want of form, so a quitclaim deed can be short. The deed still needs consideration, with one exception: a deed of gift does not require valuable consideration.</p><p>Recording adds a few mechanical rules under 44-2-14. The instrument must be an original that is attested or acknowledged as the law requires, and the name and mailing address of the natural person to receive it back must be printed or typed at the top of the first page. Skipping that return address does not by itself erase the filing, but clerks expect it.</p><p>A deed is recorded with the Clerk of Superior Court in the county where the land sits. Ask that clerk for current recording fees and any local formatting preferences.</p>"
+  },
+  {
+   "h2": "Transfer tax on a quitclaim deed",
+   "html": "<p>Georgia will not record a deed until the real estate transfer tax has been paid. The clerk, or a deputy, then attaches a certification that the tax was paid. It is an excise tax, not a property tax.</p><p>The rate is $1 for the first $1,000 or fractional part of $1,000, plus 10 cents for each additional $100 or fractional part of $100, based on the sale price. The person who executes the deed, or the person for whose benefit it is executed, owes the tax. The seller is liable, though contracts often shift the cost to the buyer.</p><p>Georgia law also requires the PT-61 declaration. A free online filing system needs no account: you complete the form on its site, print a reference copy, and file it with the clerk along with the deed. No signatures are needed on the electronic form.</p><ul><li>A PT-61 is required whenever ownership changes, even when no money moves, such as removing a name from a deed.</li><li>Four categories need no PT-61: security deeds, releases of security interest, leases other than a lease for years, and affidavits that do not transfer property.</li><li>Other exemptions from paying the tax still require the form to be filed.</li><li>A property that crosses county lines needs a deed and a PT-61 in each county, with the value pro-rated.</li><li>A transfer-on-death deed needs no PT-61 when recorded, but one is required after the owner dies and the beneficiary files an affidavit accepting the property.</li></ul><p>For questions about what is taxable or exempt, ask the Clerk of Superior Court in your county.</p>"
+  },
+  {
+   "h2": "Steps from signing to recording",
+   "html": "<p>Each step is the owner's job unless a closing attorney handles it.</p><table><caption>Quitclaim deed steps in order</caption><thead><tr><th>Step</th><th>What happens</th></tr></thead><tbody><tr><td>1. Prepare the deed</td><td>Original, written, signed by the grantor; return address at top of page one</td></tr><tr><td>2. Witness it</td><td>Attested by an officer plus one other witness</td></tr><tr><td>3. Complete the PT-61</td><td>Filed online, then a reference copy is printed</td></tr><tr><td>4. Pay transfer tax</td><td>Paid before recording; clerk certifies payment on the deed</td></tr><tr><td>5. Record the deed</td><td>Filed with the Clerk of Superior Court in the county of the land</td></tr></tbody></table><p>Bring the original deed, the PT-61 reference copy and a way to pay the tax to the clerk's office.</p>"
+  },
+  {
+   "h2": "The seven year question",
+   "html": "<p>Seven years of uncontested use no longer turns a quitclaim deed into full ownership. In the past it did, even when the person who gave you the deed was not the real owner, and that is no longer so simple. More documentation than the deed alone is needed to be recognized as the owner.</p><p>The seven year period still appears in the law of prescription. O.C.G.A. 44-5-164 allows title by prescription after seven years when the possessor holds a flawed written document, called color of title, and possession was public, continuous, exclusive, peaceable, and not merely permissive. Without color of title, 44-5-163 requires twenty years. Our <a href=\"/georgia-squatters-rights-adverse-possession/\">Georgia adverse possession guide</a> goes deeper on those periods.</p><p>For a seller, the practical point is that a quitclaim deed from a doubtful source does not cure a title problem on its own. A buyer or title insurer will look at the chain of title behind it.</p>"
+  },
+  {
+   "h2": "Quitclaim deeds and selling a house",
+   "html": "<p>A quitclaim deed can move title between family members or clear a name before a sale, but a buyer receives no promise from it. Title insurance is how buyers cover that gap, and insurers will examine the records behind the deed.</p><p>If you inherited a home with several heirs, or you are removing a former spouse from title, a quitclaim deed signed by that person may be the missing piece before you can list or sell. Each person with an interest usually has to sign for the buyer to receive the whole property. A Georgia real estate attorney can tell you whether a quitclaim deed, a warranty deed, or a court process fits your situation, and the State Bar of Georgia can help you find one.</p><p>A cash buyer still wants clear title, so expect the same questions about who signed and who recorded.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I record a quitclaim deed in Georgia?",
+   "a": "With the Clerk of Superior Court in the county where the land is located. Bring the original deed and the PT-61 reference copy, and have the transfer tax paid so the clerk can certify it."
+  },
+  {
+   "q": "Is a PT-61 form required if I am only adding or removing a name?",
+   "a": "Yes. It is required whenever ownership changes, even without a payment, except for security deeds, releases of security interest, leases other than leases for years, and affidavits. Ask the clerk whether the tax itself is exempt."
+  },
+  {
+   "q": "Does a quitclaim deed protect the person who receives it?",
+   "a": "No. It gives the grantee only what the grantor owns, with no warranty. Title insurance is recommended, and a real estate attorney can help before you accept one."
+  },
+  {
+   "q": "Who pays the Georgia real estate transfer tax?",
+   "a": "The seller is liable, but a sales contract can assign the cost to the buyer. On a gift or family transfer, ask the Clerk of Superior Court whether an exemption applies."
+  },
+  {
+   "q": "Can I use a quitclaim deed to get my house back after a tax sale?",
+   "a": "If you redeem the property after a tax sale, the purchaser must give you a quitclaim deed under O.C.G.A. 48-4-44. It should name the person who paid the redemption money, and it is recorded with the county clerk."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Transfer Property with a Quit Claim Deed, Georgia.gov",
+   "url": "https://georgia.gov/transfer-property-quit-claim-deed"
+  },
+  {
+   "title": "Real Estate Transfer Tax, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/real-estate-transfer-tax"
+  },
+  {
+   "title": "PT-61 eFiling, Georgia Superior Court Clerks' Cooperative Authority",
+   "url": "https://gsccca.org/learn/efiling-information/pt-61"
+  },
+  {
+   "title": "PT-61 eFiling FAQ, Georgia Superior Court Clerks' Cooperative Authority",
+   "url": "https://apps.gsccca.org/help/pt61_faq.asp"
+  },
+  {
+   "title": "Deed Fundamentals course text, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/document/document/deed-fundamentals/download"
+  }
+ ]
 }
