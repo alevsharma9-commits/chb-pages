@@ -1,68 +1,101 @@
 {
-  "slug": "new-mexico-property-tax-guide",
-  "sections": [
-    {
-      "h2": "How is property tax run in New Mexico?",
-      "html": "<p>New Mexico property tax is a county-level system overseen by the state Taxation and Revenue Department. The county assessor sets the value, the county treasurer collects the tax, and the Property Tax Division at the state department supports the counties and runs the collection process for long-delinquent accounts.</p><p>The state has 33 counties, and delinquent auctions are not held in all of them each year. The constitution caps the percentage of value that tax rates apply to at thirty-three and one-third percent, so the net taxable value on your notice is a fraction of market value. A separate limit in the Property Tax Code slows annual increases on homes, described below.</p><p>For a seller, three dates and one lien do most of the work: the notice of valuation in spring, the two tax installments, the January 1 lien date and the closing statement that settles what is owed.</p>"
-    },
-    {
-      "h2": "What dates and numbers matter most?",
-      "html": "<p>Most New Mexico homeowners need only a handful of figures, and each one below comes from the statute or agency page named.</p><table><thead><tr><th>Item</th><th>Rule</th><th>Source</th></tr></thead><tbody><tr><td>Notice of valuation</td><td>Mailed by the assessor around April 1</td><td>NMSA 7-38-20</td></tr><tr><td>Protest petition</td><td>Filed with the assessor, generally thirty days after the notice is mailed</td><td>NMSA 7-38-24</td></tr><tr><td>Tax installments</td><td>November 10 and April 10, in two equal installments for bills of $10 or more</td><td>NMSA 7-38-38</td></tr><tr><td>Interest on unpaid tax</td><td>One percent a month, starting thirty days after the due date</td><td>NMSA 7-38-49</td></tr><tr><td>Tax lien</td><td>Attaches to real property from January 1 of the tax year</td><td>NMSA 7-38-48</td></tr><tr><td>Residential value limit</td><td>Higher of 103 percent of prior year value or 106.1 percent of value two years back</td><td>NMSA 7-36-21.2</td></tr><tr><td>Head of family exemption</td><td>Up to $2,000 of taxable value</td><td>NMSA 7-37-4</td></tr><tr><td>Veteran exemption</td><td>$10,000, adjusted annually for inflation</td><td>NM TRD release, Aug. 2026</td></tr></tbody></table><p>Interest does not run on interest or on penalties, and it accrues even while a protest is pending. If the protest succeeds, interest is computed on the unpaid tax finally found due.</p>"
-    },
-    {
-      "h2": "How does the cap on increases work, and what resets it?",
-      "html": "<p>A home's taxable value cannot rise in a year by more than the higher of 103 percent of the prior year's value or 106.1 percent of the value two years earlier. The cap protects a long-time owner from sudden jumps in the market.</p><p>The cap does not apply in the first tax year a property is valued, to physical improvements (other than solar installations), to a change in use or zoning, or in the tax year after a change of ownership. After a sale, the county values the house at its current and correct value under <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/\">Section 7-36-21.2</a>.</p><p>Some transfers are not a change of ownership. The list includes transfers between spouses, to a revocable trust for the owner, spouse or child, and to a child who lives in the home as a principal residence. A transfer between a person and an LLC they own is a change of ownership, according to a 2019 Court of Appeals decision.</p><p>The takeaway for sellers is that your tax bill and the buyer's bill can differ. An estimate of carrying costs should use the reset value, not your old bill.</p>"
-    },
-    {
-      "h2": "Which exemptions can lower a New Mexico tax bill?",
-      "html": "<p>The head of family exemption takes up to $2,000 off taxable value for qualifying residents, and the veteran exemption now takes $10,000. Both are deducted from taxable value to reach net taxable value.</p><ul><li><strong>Head of family:</strong> available to a married person, widow or widower, a head of household supporting a related person, a single person or a condominium association member who pays tax through the association. Only one person in a household qualifies, and the exemption can be claimed in only one county per year.</li><li><strong>Veteran:</strong> the standard exemption rose from $4,000 to $10,000, and the state reported it saved 65,720 veterans an estimated $19 million in 2025. Veterans get a certificate of eligibility from the Department of Veterans' Services and file it with the county assessor.</li><li><strong>Disabled veteran:</strong> from 2026, partially disabled veterans can receive a prorated exemption by disability rating, and 7,096 did from March through June 2026.</li><li><strong>Valuation freeze:</strong> a single-family home owned and occupied by someone 65 or older, or disabled, with prior-year modified gross income at or under $35,000 as adjusted for inflation, is limited to its assessed value in the year the owner qualifies.</li></ul><p>Under <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-17/\">Section 7-38-17</a>, exemptions must be claimed within thirty days after the notice of valuation is mailed and then continue automatically if nothing changes. A change in eligibility or ownership must be reported to the assessor by the last day of February of the following year. A knowing false claim is a misdemeanor.</p>"
-    },
-    {
-      "h2": "How do you protest a valuation?",
-      "html": "<p>File a written petition with the county assessor, generally within thirty days after the notice of valuation is mailed. The petition must give your name, the property description, why you think the value is wrong and what you believe is correct.</p><p>The assessor may offer an informal conference first, and the Taxation and Revenue Department encourages one because many protests are resolved there. If not, a three-member county valuation protests board hears the case. The board is independent of the assessor and includes two county residents appointed by the commission and an appraisal officer from the state Property Tax Division.</p><ul><li>The assessor schedules the hearing and mails notice at least fifteen days before it, though discovery requests can take thirty days to answer, so start preparing early.</li><li>The assessor's value is presumed correct, and the owner carries the burden of presenting evidence to overcome that presumption.</li><li>Testimony is under oath and a verbatim record is made.</li><li>The board issues a written order within thirty days of the hearing, and all protests are to be decided within 180 days of filing.</li><li>An appeal goes to district court within thirty days of the board's order.</li></ul><p>A second route exists after payment. An owner who pays the tax before the delinquency date can protest value, classification or a denied exemption by filing a claim for refund in district court under <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-39/\">Section 7-38-39</a>.</p>"
-    },
-    {
-      "h2": "What happens when property tax goes unpaid?",
-      "html": "<p>Unpaid tax accrues interest at one percent a month from thirty days after the due date, and the lien stays on the property until it is paid. The lien is a first lien and paramount to any other interest, perfected or not. It arises by operation of law and does not depend on a recorded notice.</p><p>The state's Delinquent Property Tax Bureau pursues collection at the end of the third full year of delinquency. Sales are held annually as title research is completed, usually at the county courthouse, and the state does not hold sales in all 33 counties each year. The department's auction page listed a sale in San Miguel County on November 19, 2026.</p><p>Several rules from the department's FAQ affect owners facing a sale.</p><ul><li>The minimum bid is the total of taxes, penalty, interest and costs due.</li><li>The state issues a tax deed equivalent to a quitclaim deed, sold as is with no warranty of title.</li><li>The sale extinguishes the tax lien only. No other liens are extinguished.</li><li>New Mexico has no right of redemption for former owners, only a two-year period to challenge the sale in court under Section 7-38-70.</li><li>A 120-day federal IRS redemption period may apply if the federal government holds a lien.</li><li>County treasurers can seize and sell a mobile home for delinquent tax under Section 7-38-53.</li></ul><p>Because there is no redemption right, selling before the auction is the main way for an owner to keep any equity.</p>"
-    },
-    {
-      "h2": "How do you sell a New Mexico house with tax due?",
-      "html": "<p>Sellers can pay back tax from the sale proceeds at closing, because the tax is a first lien that stays on the property until it is paid. The practical steps are short.</p><ul><li>Ask the county treasurer for the current balance, including interest, before you list.</li><li>Check whether a head of family or veteran exemption was ever claimed, because exemptions must be claimed within thirty days after the notice of valuation is mailed.</li><li>Tell the assessor by the end of February after you sell if you lose an exemption.</li><li>Confirm there is no pending protest you want to preserve, and remember interest runs during a protest.</li><li>Ask the title company for a payoff figure that includes the November and April installments for the year of closing.</li></ul><p>Cash Home Buyers buys New Mexico houses as they are, including homes with back taxes owed, and the closing statement handles the payoff. We are not a tax advisor, so confirm balances with the treasurer and the Property Tax Division at (505) 827-0883.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "When are New Mexico property taxes due?",
-      "a": "In two equal installments, November 10 and April 10, for bills of $10 or more. Interest of one percent a month begins thirty days after each due date if the installment is not paid."
-    },
-    {
-      "q": "How long do I have to protest my New Mexico property valuation?",
-      "a": "Generally thirty days after the assessor mails the notice of valuation. The petition goes to the county assessor, who schedules a hearing before the county valuation protests board."
-    },
-    {
-      "q": "Does New Mexico cap how much my property tax value can rise?",
-      "a": "Yes, for residential property. The value cannot exceed the higher of 103 percent of the prior year or 106.1 percent of the value two years earlier. The cap resets after a change of ownership."
-    },
-    {
-      "q": "Can I get my house back after a New Mexico tax auction?",
-      "a": "The state says it has no right of redemption for former owners. A former owner has two years to challenge the sale in court under Section 7-38-70, and a 120-day federal redemption period applies if the IRS holds a lien."
-    },
-    {
-      "q": "What is the New Mexico veteran property tax exemption?",
-      "a": "The standard exemption for veterans who own property rose from $4,000 to $10,000, adjusted annually for inflation. Veterans get a certificate of eligibility from the Department of Veterans' Services and file it with the county assessor."
-    }
-  ],
-  "sources": [
-    {"title": "NM TRD: Delinquent Property Tax Auctions", "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/"},
-    {"title": "NM TRD: Information Pamphlet for Property Valuation Protests (2024)", "url": "https://www.tax.newmexico.gov/businesses/wp-content/uploads/sites/4/2024/04/2024-Protest-Pamphlet.pdf"},
-    {"title": "NM TRD: New Mexico Veterans Benefit from Expanded Property Tax Exemptions (Aug. 13, 2026)", "url": "https://www.tax.newmexico.gov//wp-content/uploads/2026/08/20260813_New-Mexico-Veterans-Benefit-from-Expanded-Property-Tax-Exemptions.pdf"},
-    {"title": "NMSA 7-38-38 Payment of property taxes; installment due dates (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-38/"},
-    {"title": "NMSA 7-38-39 Protesting values; claim for refund (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-39/"},
-    {"title": "NMSA 7-38-48 Property taxes are a lien from January 1 (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-48/"},
-    {"title": "NMSA 7-38-49 Unpaid property taxes; interest (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-49/"},
-    {"title": "NMSA 7-38-17 Claiming exemptions (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-17/"},
-    {"title": "NMSA 7-37-4 Head-of-family exemption (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-37/section-7-37-4/"},
-    {"title": "NMSA 7-36-21.2 Limitation on increases in valuation of residential property (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/"},
-    {"title": "NMSA 7-36-21.3 Valuation limit for owners 65 or older or disabled (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-3/"}
-  ]
+ "slug": "new-mexico-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How property tax works in New Mexico",
+   "html": "<p>Counties run property tax in New Mexico, with oversight from the state Taxation and Revenue Department. Your county assessor decides the value and your county treasurer collects the money. The department's Property Tax Division backs up the counties and handles collection on accounts that stay delinquent for years.</p><p>Of the state's 33 counties, only some hold delinquent auctions in a given year. Rates apply to no more than thirty-three and one-third percent of value under the constitution, so the net taxable value on your notice is only a fraction of market value. The Property Tax Code adds a separate limit on yearly increases for homes, covered below.</p><p>A seller mostly deals with four moments: the spring notice of valuation, the two installments, the January 1 lien date and the closing statement that settles the balance.</p>"
+  },
+  {
+   "h2": "Due dates and amounts",
+   "html": "<p>A handful of figures cover most homeowners.</p><table><caption>Property tax dates, limits and exemptions</caption><thead><tr><th>Topic</th><th>Rule</th><th>Statute</th></tr></thead><tbody><tr><td>Notice of valuation</td><td>Mailed by the assessor around April 1</td><td>NMSA 7-38-20</td></tr><tr><td>Protest petition</td><td>Filed with the assessor, generally thirty days after the notice is mailed</td><td>NMSA 7-38-24</td></tr><tr><td>Tax installments</td><td>November 10 and April 10, in two equal installments for bills of $10 or more</td><td>NMSA 7-38-38</td></tr><tr><td>Interest on unpaid tax</td><td>One percent a month, starting thirty days after the due date</td><td>NMSA 7-38-49</td></tr><tr><td>Tax lien</td><td>Attaches to real property from January 1 of the tax year</td><td>NMSA 7-38-48</td></tr><tr><td>Residential value limit</td><td>Higher of 103 percent of prior year value or 106.1 percent of value two years back</td><td>NMSA 7-36-21.2</td></tr><tr><td>Head of family exemption</td><td>Up to $2,000 of taxable value</td><td>NMSA 7-37-4</td></tr><tr><td>Veteran exemption</td><td>$10,000, adjusted annually for inflation</td><td>State announcement, Aug. 2026</td></tr></tbody></table><p>Interest doesn't run on interest or on penalties, and it accrues even while a protest is pending. If the protest succeeds, interest is computed on the unpaid tax finally found due.</p>"
+  },
+  {
+   "h2": "The cap on increases and what resets it",
+   "html": "<p>In any one year, a home's taxable value is held to the greater of 103 percent of last year's value or 106.1 percent of the value two years back. Long-time owners are shielded from sudden market jumps this way.</p><p>The limit stops applying for a property's first valued year, for physical improvements (solar installations excepted), for a change in use or zoning, and for the year following a change of ownership. After a sale the county sets the house at current and correct value, as described in <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/\">Section 7-36-21.2</a>.</p><p>Certain transfers don't count as a change of ownership: between spouses, into a revocable trust for the owner, spouse or child, and to a child who lives there as a principal residence. Moving a house between a person and their own LLC does count, per a 2019 Court of Appeals decision.</p><p>Your bill and the buyer's can look very different, so base the buyer's carrying costs on the reset value.</p>"
+  },
+  {
+   "h2": "Exemptions that lower a tax bill",
+   "html": "<p>Head of family takes up to $2,000 off taxable value for qualifying residents, and the veteran exemption now takes $10,000. Each comes off taxable value on the way to net taxable value.</p><ul><li><strong>Head of family:</strong> open to a married person, a widow or widower, a head of household supporting a relative, a single person, or a condo association member who pays tax through the association. One person per household qualifies, and you can claim it in only one county each year.</li><li><strong>Veteran:</strong> the standard amount rose from $4,000 to $10,000. A qualifying veteran obtains a certificate of eligibility from the state department of veteran services and files it with the county assessor.</li><li><strong>Disabled veteran:</strong> from 2026, a partially disabled veteran can receive a prorated exemption based on disability rating.</li><li><strong>Valuation freeze:</strong> a single-family home that an owner aged 65 or older, or disabled, lives in stays at its assessed value from the year the owner qualifies, provided prior-year modified gross income is $35,000 or less as adjusted for inflation.</li></ul><p>Under <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-17/\">Section 7-38-17</a>, you claim an exemption within thirty days of the mailed notice of valuation, and it then renews itself while nothing changes. Report any change in eligibility or ownership to the assessor by the end of the next February. Knowingly filing a false claim is a misdemeanor.</p>"
+  },
+  {
+   "h2": "How to protest a valuation",
+   "html": "<p>Send a written petition to the county assessor, usually within thirty days of the date the valuation notice was mailed. State your name, describe the property, explain why the value looks wrong and give the value you think is right.</p><p>An informal conference with the assessor may come first, and many protests end there. Otherwise a three-member county valuation protests board takes the case. It works apart from the assessor and seats two county residents named by the commission plus an appraisal officer from the state Property Tax Division.</p><ul><li>The assessor sets the hearing and mails notice at least fifteen days ahead. Discovery requests can take thirty days to answer, so prepare early.</li><li>The assessor's number starts out presumed correct, and you carry the burden of presenting evidence against it.</li><li>Witnesses testify under oath and the hearing is recorded word for word.</li><li>A written order follows within thirty days of the hearing, and every protest is supposed to be decided within 180 days of filing.</li><li>Appeal to district court within thirty days of the order.</li></ul><p>There's a second route after you pay. An owner who pays before the delinquency date can contest value, classification or a denied exemption through a refund claim in district court, under <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-39/\">Section 7-38-39</a>.</p>"
+  },
+  {
+   "h2": "What happens when property tax goes unpaid?",
+   "html": "<p>Interest on unpaid tax runs at one percent a month once thirty days pass after the due date, and the lien remains until the bill is paid. It ranks ahead of every other interest, perfected or not, and exists by operation of law with no recorded notice needed.</p><p>The state's Delinquent Property Tax Bureau steps in after the third full year of delinquency. Title research is finished first, then sales happen each year, typically at the county courthouse, and not every one of the 33 counties has a sale annually.</p><p>Rules worth knowing if an auction is coming:</p><ul><li>The opening bid equals taxes, penalty, interest and costs owed.</li><li>The buyer gets a tax deed that works like a quitclaim deed: as is, with no title warranty.</li><li>Only the tax lien is wiped out. Other liens survive.</li><li>Former owners get no redemption right in New Mexico, just two years to challenge the sale in court under Section 7-38-70.</li><li>If the IRS holds a lien, a 120-day federal redemption period may apply.</li><li>Under Section 7-38-53, a county treasurer can seize and sell a mobile home over delinquent tax.</li></ul><p>Since nothing can be redeemed afterward, selling ahead of the auction is the main way to keep equity.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>Back tax can come out of your sale proceeds at closing, since the first lien stays with the property until paid. Steps:</p><ul><li>Get the current balance with interest from the county treasurer before listing.</li><li>See whether a head of family or veteran exemption was ever claimed. The window is thirty days from the mailed notice of valuation.</li><li>If a sale ends an exemption, tell the assessor by the end of the following February.</li><li>Decide whether to keep any pending protest alive, remembering that interest runs while it's pending.</li><li>Have the title company quote a payoff covering the November and April installments for the closing year.</li></ul><p>Cash Home Buyers purchases New Mexico houses as they are, back taxes included, and the payoff is handled on the closing statement. We aren't tax advisors, so confirm balances with the treasurer or call the Property Tax Division at (505) 827-0883.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are New Mexico property taxes due?",
+   "a": "Two equal installments on November 10 and April 10 for bills of $10 or more. An unpaid installment starts earning one percent monthly interest thirty days after its due date."
+  },
+  {
+   "q": "How long do I have to protest my New Mexico property valuation?",
+   "a": "Generally thirty days from the mailing of the notice of valuation. You petition the county assessor, who sets a hearing before the county valuation protests board."
+  },
+  {
+   "q": "Does New Mexico cap how much my property tax value can rise?",
+   "a": "Yes, on residential property. Value can't climb past the greater of 103 percent of last year or 106.1 percent of two years back, and the cap resets when ownership changes."
+  },
+  {
+   "q": "Can I get my house back after a New Mexico tax auction?",
+   "a": "No, there's no redemption right. You have two years to challenge the sale in court under Section 7-38-70, and a 120-day federal period applies if the IRS holds a lien."
+  },
+  {
+   "q": "What is the New Mexico veteran property tax exemption?",
+   "a": "The standard exemption for a veteran who owns property rose from $4,000 to $10,000 and adjusts yearly for inflation. Get a certificate of eligibility from the state department of veteran services and file it with the county assessor."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NM TRD: Delinquent Property Tax Auctions",
+   "url": "https://www.tax.newmexico.gov/businesses/property-tax-overview/delinquent-property-tax-auctions/"
+  },
+  {
+   "title": "NM TRD: Information Pamphlet for Property Valuation Protests (2024)",
+   "url": "https://www.tax.newmexico.gov/businesses/wp-content/uploads/sites/4/2024/04/2024-Protest-Pamphlet.pdf"
+  },
+  {
+   "title": "NM TRD: New Mexico Veterans Benefit from Expanded Property Tax Exemptions (Aug. 13, 2026)",
+   "url": "https://www.tax.newmexico.gov//wp-content/uploads/2026/08/20260813_New-Mexico-Veterans-Benefit-from-Expanded-Property-Tax-Exemptions.pdf"
+  },
+  {
+   "title": "NMSA 7-38-38 Payment of property taxes; installment due dates (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-38/"
+  },
+  {
+   "title": "NMSA 7-38-39 Protesting values; claim for refund (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-39/"
+  },
+  {
+   "title": "NMSA 7-38-48 Property taxes are a lien from January 1 (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-48/"
+  },
+  {
+   "title": "NMSA 7-38-49 Unpaid property taxes; interest (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-49/"
+  },
+  {
+   "title": "NMSA 7-38-17 Claiming exemptions (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-17/"
+  },
+  {
+   "title": "NMSA 7-37-4 Head-of-family exemption (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-37/section-7-37-4/"
+  },
+  {
+   "title": "NMSA 7-36-21.2 Limitation on increases in valuation of residential property (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/"
+  },
+  {
+   "title": "NMSA 7-36-21.3 Valuation limit for owners 65 or older or disabled (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-3/"
+  }
+ ]
 }

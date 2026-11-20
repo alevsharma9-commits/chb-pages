@@ -1,71 +1,101 @@
 {
-  "slug": "new-mexico-probate-process",
-  "sections": [
-    {
-      "h2": "How does probate work in New Mexico?",
-      "html": "<p>New Mexico runs probate under the Uniform Probate Code, Chapter 45 of the state statutes, and cases are filed with the county probate court where the person lived at death. The state court system includes 33 county probate courts alongside 34 district courts, according to the New Mexico Courts website.</p><p>The court guide for people without a lawyer says a probate can be filed anywhere from 5 days to 3 years after death, with a filing cost of $30. When there is a will, the court appoints the person named in it as personal representative, also called the executor. The document that gives that authority is called Letters Testamentary. With no will, the same authority comes in Letters of Administration.</p><p>For someone inheriting a house, the main question is who has authority to sign a deed. The answer depends on how the house was titled and whether a court has appointed anyone.</p>"
-    },
-    {
-      "h2": "Which situations skip probate for a house?",
-      "html": "<p>Probate is not needed for real estate held in joint tenancy or with a recorded Transfer on Death Deed, according to the court guide. A surviving spouse can also transfer a community property home titled only in the deceased spouse's name by affidavit, filed six months after the death.</p><p>The small estate shortcut usually does not help with a house. A small estate is one worth less than $50,000 that does not include real property, and the successor can collect property using an Affidavit of Successor in Interest once 30 days have passed and no probate has been filed. Land, a house or a farm takes the estate outside that rule.</p><table><thead><tr><th>Situation</th><th>Probate needed?</th><th>Detail</th></tr></thead><tbody><tr><td>Estate under $50,000, no real property</td><td>No</td><td>Affidavit of Successor in Interest after 30 days, signed and notarized</td></tr><tr><td>Home held in joint tenancy</td><td>No</td><td>Per the NM Courts guide</td></tr><tr><td>Home with a recorded Transfer on Death Deed</td><td>No</td><td>Per the NM Courts guide</td></tr><tr><td>Community property home in deceased spouse's name only</td><td>No, with affidavit</td><td>Surviving spouse files six months after death</td></tr><tr><td>Home in the decedent's sole name</td><td>Usually yes</td><td>Personal representative may need to sign a Personal Representative's deed</td></tr></tbody></table>"
-    },
-    {
-      "h2": "Who can act as personal representative?",
-      "html": "<p>New Mexico sets a priority order for appointment in <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-2/section-45-3-203/\">Section 45-3-203</a>. The person named in a probated will comes first, followed by the surviving spouse who is also a devisee, other devisees, the surviving spouse, other heirs, and, forty-five days after death, any creditor.</p><p>Someone with priority can nominate another qualified person by a signed writing filed with the court, and anyone of age can renounce. A person under the age of majority or found unsuitable in formal proceedings cannot serve. An objection to an appointment can be made only in formal proceedings.</p><p>This matters for a sale when several siblings share an inherited house. If they disagree about who serves, the court can step in, and nobody should sign a contract until the appointment is settled.</p>"
-    },
-    {
-      "h2": "What does a personal representative do?",
-      "html": "<p>The personal representative gathers and inventories assets, notifies heirs, pays debts as far as estate funds allow, distributes the rest under the will or intestacy law and closes the case. The court guide says a case must stay open at least three months before it can be closed, by a sworn statement that the duties are complete.</p><p>The representative may not use estate funds for personal benefit but is entitled to fair compensation for time spent. Estate money can pay costs such as postage, filing fees and copies. The guide recommends keeping a written record of tasks and time.</p><ul><li>Obtain Letters Testamentary or Letters of Administration before dealing with the house.</li><li>Locate the deed, mortgage statements and property tax bills.</li><li>Keep the property insured and the taxes current while the estate is open.</li><li>Keep a written log of work and expenses for the court and the heirs.</li></ul>"
-    },
-    {
-      "h2": "Who owns the house while probate is open?",
-      "html": "<p>Under <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-101/\">Section 45-3-101</a>, a person's separate property and share of community property devolves at death to the people named in the will, or to heirs if there is no will. Appellate decisions noted under the statute say real estate passes directly to heirs or devisees and not to the executor.</p><p>That ownership is still subject to administration, creditor rights and allowances. The surviving spouse's half of community property stays open to administration until the time to present claims has run, and after that only to the extent needed to pay community claims.</p><p>If the estate includes real property, the court guide says the representative may need to execute a Personal Representative's deed to move the property out of the decedent's name. The guide warns that deeds are tricky to draft and suggests hiring an attorney for that step.</p>"
-    },
-    {
-      "h2": "How do creditor claims affect a sale?",
-      "html": "<p>A personal representative may publish a notice to creditors once a week for three successive weeks in a newspaper of general circulation in the county. Creditors then have four months from the first publication to present claims or be barred, under <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-8/section-45-3-801/\">Section 45-3-801</a>.</p><p>Known creditors can also receive written notice by mail or other delivery, and their deadline is the later of four months after publication or sixty days after the notice is delivered. The statute says the representative is not liable to anyone for giving or failing to give this notice, but a 1977 decision cited in the annotations held that publication of the hearing on a final account was not enough notice for known tort claimants.</p><p>For heirs planning to sell, this gives a rough timeline, since the claims window runs at least four months from the first publication.</p>"
-    },
-    {
-      "h2": "Can a personal representative sell the house?",
-      "html": "<p>Yes, unless the will or a court order restricts it. <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-7/section-45-3-715/\">Section 45-3-715</a> authorizes a representative acting reasonably for the benefit of interested persons to dispose of an asset, including land in New Mexico, for cash or on credit, at public or private sale.</p><p>The same section lets the representative make ordinary or extraordinary repairs, insure the assets, pay taxes and assessments and enter leases that extend past the period of administration. If part of the price is on credit, security is required for the unpaid balance unless the district court waives it for good cause.</p><ul><li>A cash sale avoids the credit and security question altogether.</li><li>A sale as is can save the estate the cost of repairs, which the statute allows but does not require.</li><li>The estate can pay property taxes and insurance while the house is on the market.</li><li>If heirs disagree, a formal proceeding gives the court a role in resolving it.</li></ul><p>Cash Home Buyers buys inherited houses in New Mexico as they are. We are not attorneys, and the personal representative should confirm authority with the estate's lawyer before accepting any offer.</p>"
-    },
-    {
-      "h2": "What are the time limits and tax issues?",
-      "html": "<p>Most informal or formal probate proceedings cannot start more than three years after death, though <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-108/\">Section 45-3-108</a> lists exceptions. One allows a later appointment if no proceedings have happened in the three years, but the representative then has limited rights to possess estate assets and claims other than administration expenses cannot be presented.</p><p>Property tax keeps running during probate. Taxes on real property are a lien from January 1 of the tax year, first in priority, under <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-48/\">Section 7-38-48</a>. Installments are due November 10 and April 10, and unpaid tax draws interest of one percent a month starting thirty days after the due date.</p><p>The assessed value of a house is capped at three percent annual growth, but a change of ownership resets it. The definition of change of ownership in <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/\">Section 7-36-21.2</a> excludes some transfers, including a transfer to a child who lives in the home as a principal residence. A sale to an outside buyer is a change of ownership, so the buyer's bill can differ from the one the estate paid.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Do I need probate to sell an inherited house in New Mexico?",
-      "a": "Usually yes if the house was in the decedent's sole name. Probate is not needed when the home was held in joint tenancy or had a recorded Transfer on Death Deed, and a surviving spouse can use an affidavit for a community property home six months after death."
-    },
-    {
-      "q": "What is the New Mexico small estate limit?",
-      "a": "A small estate is worth less than $50,000 and has no real property. A house takes the estate outside the small estate procedure, so an Affidavit of Successor in Interest will not transfer it."
-    },
-    {
-      "q": "How long does probate take in New Mexico?",
-      "a": "A case must stay open at least three months before it can be closed. Creditors have four months from first publication of the notice to present claims, so many estates run longer than three months."
-    },
-    {
-      "q": "How much does it cost to open probate in New Mexico?",
-      "a": "The court guide lists a filing cost of $30. Attorney fees, publication costs and the personal representative's compensation are separate expenses the estate may pay."
-    },
-    {
-      "q": "What is the deadline to open a New Mexico probate?",
-      "a": "A probate can be filed between 5 days and 3 years after death. After three years, only limited proceedings are allowed under Section 45-3-108."
-    }
-  ],
-  "sources": [
-    {"title": "NM Courts: Probate (self-represented litigant guide, PDF)", "url": "https://nmcourts.gov/wp-content/uploads/2024/01/SRL_Probate.pdf"},
-    {"title": "NM Courts website: judicial branch description (33 county probate courts, 34 district courts)", "url": "https://nmcourts.gov/self-help-center/probate/"},
-    {"title": "NMSA 45-3-203 Priority among persons seeking appointment (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-2/section-45-3-203/"},
-    {"title": "NMSA 45-3-101 Devolution of estate at death (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-101/"},
-    {"title": "NMSA 45-3-801 Notice to creditors (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-8/section-45-3-801/"},
-    {"title": "NMSA 45-3-715 Transactions authorized for personal representatives (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-7/section-45-3-715/"},
-    {"title": "NMSA 45-3-108 Probate time limits (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-108/"},
-    {"title": "NMSA 7-38-48 Property taxes are a lien from January 1 (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-48/"},
-    {"title": "NMSA 7-38-38 Payment of property taxes; installment due dates (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-38/"},
-    {"title": "NMSA 7-36-21.2 Limitation on increases in valuation of residential property (Justia, 2025)", "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/"}
-  ]
+ "slug": "new-mexico-probate-process",
+ "sections": [
+  {
+   "h2": "How probate works in New Mexico",
+   "html": "<p>Probate here follows the Uniform Probate Code (Chapter 45 of the state statutes). You file in the county probate court for the place the person called home at death. Statewide there are 33 county probate courts next to 34 district courts.</p><p>Filing is open from 5 days to 3 years after death, at a cost of $30. If the person left a will, the court names whoever the will picks as personal representative (the executor), and the paper proving that power is Letters Testamentary. Without a will, the same power arrives as Letters of Administration.</p><p>Inherited a house? Start by asking who is allowed to sign the deed. That turns on how title was held and on whether a court has named anyone yet.</p>"
+  },
+  {
+   "h2": "Houses that skip probate",
+   "html": "<p>Real estate held in joint tenancy, or covered by a recorded Transfer on Death Deed, moves without probate. A widowed spouse can also move a community property home that was titled solely to the late spouse, using an affidavit filed six months after the death.</p><p>The small estate shortcut rarely fits a house. It covers estates under $50,000 with no real property, where the successor collects assets by Affidavit of Successor in Interest after 30 days if nobody has opened a probate. Land, a house or a farm puts the estate outside that rule.</p><table><caption>Whether probate is needed, by situation</caption><thead><tr><th>Situation</th><th>Probate needed?</th><th>What happens instead</th></tr></thead><tbody><tr><td>Estate under $50,000, no real property</td><td>No</td><td>Affidavit of Successor in Interest after 30 days, signed and notarized</td></tr><tr><td>Home held in joint tenancy</td><td>No</td><td>Surviving owner takes title</td></tr><tr><td>Home with a recorded Transfer on Death Deed</td><td>No</td><td>Named beneficiary takes title</td></tr><tr><td>Community property home in deceased spouse's name only</td><td>No, with affidavit</td><td>Surviving spouse files six months after death</td></tr><tr><td>Home in the decedent's sole name</td><td>Usually yes</td><td>The personal representative may have to sign a deed as representative</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Who can act as personal representative?",
+   "html": "<p>New Mexico sets a priority order for appointment in <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-2/section-45-3-203/\">Section 45-3-203</a>. Order of priority: the nominee in a probated will, then a spouse who is also a devisee, other devisees, the spouse, other heirs, and finally, once forty-five days pass after death, a creditor.</p><p>A person with priority may hand the role to another qualified person by filing a signed writing, and any adult may decline it. Minors can't serve, and neither can anyone a formal proceeding finds unsuitable. Objecting to an appointment requires a formal proceeding.</p><p>Siblings who inherit together sometimes disagree about who should serve, and that stalls everything. The court can decide, and no one should sign a sale contract before the appointment is final.</p>"
+  },
+  {
+   "h2": "What a personal representative does",
+   "html": "<p>The representative collects and lists the assets, tells the heirs, pays debts as far as estate money reaches, hands out what is left under the will or intestacy law, and closes the case. Closing takes a sworn statement that the work is done, and the case must stay open at least three months first.</p><p>The representative may not use estate funds for personal benefit but is entitled to fair compensation for time spent. Estate money can pay costs such as postage, filing fees and copies. Write down tasks and hours as you go.</p><ul><li>Get your Letters Testamentary or Letters of Administration before touching the house.</li><li>Locate the deed, mortgage statements and property tax bills.</li><li>Insure the property and pay its taxes for as long as the estate is open.</li><li>Log work and expenses so the court and heirs can see them.</li></ul>"
+  },
+  {
+   "h2": "Who owns the house during probate?",
+   "html": "<p>Under <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-101/\">Section 45-3-101</a>, at death, separate property and the decedent's share of community property go to those the will names, or to the heirs when there is no will. Case law on that statute holds that real estate goes straight to heirs or devisees rather than to the executor.</p><p>That ownership remains subject to administration, creditors and family allowances. A surviving spouse's half of community property is reachable by the estate until the claims period ends, and afterward only as needed to pay community debts.</p><p>When real property is in the estate, a Personal Representative's deed may be needed to take it out of the decedent's name. Drafting that deed is tricky, so use an attorney.</p>"
+  },
+  {
+   "h2": "Creditor claims and your sale timeline",
+   "html": "<p>The representative can run a creditor notice once a week for three weeks in a general circulation newspaper in the county. Anyone owed money has four months from the first printing to file a claim or lose it, under <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-8/section-45-3-801/\">Section 45-3-801</a>.</p><p>Creditors the estate knows about can be notified directly, and their cutoff is whichever comes later: four months after publication or sixty days after delivery of the notice. The representative faces no liability for giving or skipping this notice, yet a 1977 decision found that publicizing the hearing on a final account did not reach known tort claimants.</p><p>Heirs planning a sale can use the claims period as a rough clock, since it lasts at least four months from first publication.</p>"
+  },
+  {
+   "h2": "Can a personal representative sell the house?",
+   "html": "<p>Yes, as long as the will or a court order doesn't forbid it. <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-7/section-45-3-715/\">Section 45-3-715</a> lets a representative who acts reasonably for the benefit of interested persons sell any asset, land in New Mexico included, for cash or on credit, publicly or privately.</p><p>It also covers repairs of any size, insurance, taxes and assessments, and leases that outlast the administration. When part of the price is financed, the unpaid balance must be secured unless the district court waives that for good cause.</p><ul><li>A cash sale sidesteps the financing and security issue.</li><li>Selling as is saves the estate repair costs, which the law permits but doesn't demand.</li><li>Estate funds can cover taxes and insurance during the listing.</li><li>If the heirs disagree, a formal proceeding lets the court settle it.</li></ul><p>Cash Home Buyers buys inherited houses in New Mexico as they are. We are not attorneys, and the personal representative should confirm authority with the estate's lawyer before accepting any offer.</p>"
+  },
+  {
+   "h2": "Time limits and property tax during probate",
+   "html": "<p>Most probate proceedings, formal or informal, can't begin later than three years after death, with exceptions in <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-108/\">Section 45-3-108</a> One exception allows a late appointment when nothing was filed in the three years, but then the representative's right to hold estate assets is limited and only administration expenses can be claimed.</p><p>Property tax keeps running during probate. Real property tax is a first-priority lien from January 1 of the tax year (<a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-48/\">Section 7-38-48</a>). The bill is due in installments on November 10 and April 10, and late tax collects one percent monthly interest beginning thirty days past due.</p><p>Annual growth in a home's assessed value is capped at three percent, and a change of ownership resets the cap. The definition of that term in <a href=\"https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/\">Section 7-36-21.2</a> leaves out certain transfers, such as one to a child who makes the house a principal residence. Selling to an outside buyer does count, so the buyer's bill may not match the estate's.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need probate to sell an inherited house in New Mexico?",
+   "a": "Usually, when the decedent held the house alone. Joint tenancy and a recorded Transfer on Death Deed avoid probate, and a surviving spouse can use an affidavit for a community property home after six months."
+  },
+  {
+   "q": "What is the New Mexico small estate limit?",
+   "a": "Under $50,000 with no real property. Owning a house puts the estate outside that procedure, so an Affidavit of Successor in Interest can't move it."
+  },
+  {
+   "q": "How long does probate take in New Mexico?",
+   "a": "At minimum three months before closing. Creditors get four months from first publication to file claims, so plenty of estates run longer."
+  },
+  {
+   "q": "How much does it cost to open probate in New Mexico?",
+   "a": "Filing costs $30. Lawyer fees, newspaper notice costs and the representative's pay are separate expenses the estate may owe."
+  },
+  {
+   "q": "What is the deadline to open a New Mexico probate?",
+   "a": "You can file from 5 days to 3 years after death. Past three years, only limited proceedings remain, under Section 45-3-108."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NM Courts: Probate (self-represented litigant guide, PDF)",
+   "url": "https://nmcourts.gov/wp-content/uploads/2024/01/SRL_Probate.pdf"
+  },
+  {
+   "title": "NM Courts website: judicial branch description (33 county probate courts, 34 district courts)",
+   "url": "https://nmcourts.gov/self-help-center/probate/"
+  },
+  {
+   "title": "NMSA 45-3-203 Priority among persons seeking appointment (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-2/section-45-3-203/"
+  },
+  {
+   "title": "NMSA 45-3-101 Devolution of estate at death (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-101/"
+  },
+  {
+   "title": "NMSA 45-3-801 Notice to creditors (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-8/section-45-3-801/"
+  },
+  {
+   "title": "NMSA 45-3-715 Transactions authorized for personal representatives (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-7/section-45-3-715/"
+  },
+  {
+   "title": "NMSA 45-3-108 Probate time limits (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-3/part-1/section-45-3-108/"
+  },
+  {
+   "title": "NMSA 7-38-48 Property taxes are a lien from January 1 (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-48/"
+  },
+  {
+   "title": "NMSA 7-38-38 Payment of property taxes; installment due dates (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-38/section-7-38-38/"
+  },
+  {
+   "title": "NMSA 7-36-21.2 Limitation on increases in valuation of residential property (Justia, 2025)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-7/article-36/section-7-36-21-2/"
+  }
+ ]
 }

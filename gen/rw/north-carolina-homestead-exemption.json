@@ -2,65 +2,65 @@
  "slug": "north-carolina-homestead-exemption",
  "sections": [
   {
-   "h2": "What does the North Carolina homestead exclusion do?",
-   "html": "<p>It takes part of a qualifying owner's home value off the tax rolls. Under the elderly or disabled exclusion, the amount removed is whichever is bigger: a fixed $25,000, or one half of what the county appraises the residence at.</p><p>North Carolina runs three owner-relief programs, and one form covers them all. Form AV-9 goes to your county tax assessor, since the Department of Revenue does not take it. An owner can collect from just one program at a time, so the choice matters.</p>"
+   "h2": "What the homestead exclusion does",
+   "html": "<p>North Carolina takes part of a qualifying owner's home value off the tax rolls. For the elderly or disabled exclusion, the amount removed is the larger of two figures: a fixed $25,000, or one half of the county's appraised value of the residence.</p><p>The state runs three owner-relief programs, and one form covers them all. Form AV-9 goes to your county tax assessor, since the Department of Revenue does not take it. An owner can draw on only one program at a time, so pick the one that saves the most.</p>"
   },
   {
-   "h2": "Who qualifies for the elderly or disabled exclusion in North Carolina?",
-   "html": "<p>You qualify when, on the January 1 before the tax year, you live in North Carolina, are at least 65 years old or has a total and permanent disability, and had prior-year income at or under the cap. The rule sits in Chapter 105, section 277.1 of the General Statutes.</p><ul><li>NCDOR's 2026 form prints the income cap as $38,800, up from $37,900 for 2025. It tracks the Social Security cost-of-living percentage.</li><li>Income counts money from every source, with gifts or inheritances from a spouse, parent, grandparent or descendant left out. Spouses who share a home combine their incomes.</li><li>A protected residence is the dwelling plus its lot up to one acre and related improvements. Houses, apartments in multi-family buildings and manufactured homes all fit.</li><li>Disability must be certified by a physician licensed in this state or by a government agency.</li><li>A couple gets the whole exclusion even if only one spouse meets the test.</li></ul>"
+   "h2": "Who qualifies for the elderly or disabled exclusion?",
+   "html": "<p>Three things must be true on the January 1 before the tax year: you live in North Carolina, you are at least 65 or totally and permanently disabled, and your prior-year income was at or under the cap. The rule is in Chapter 105, section 277.1 of the General Statutes.</p><ul><li>The 2026 form sets the income cap at $38,800, up from $37,900 for 2025. It follows the Social Security cost-of-living percentage.</li><li>Every kind of income counts, with one carve-out: gifts or inheritances that came from a spouse, parent, grandparent or descendant. Spouses who share a home combine their incomes.</li><li>A protected residence is the dwelling plus its lot up to one acre and related improvements. Houses, apartments in multi-family buildings and manufactured homes all fit.</li><li>The disability needs certification from a physician who practices in this state or from a government agency.</li><li>A couple gets the whole exclusion even if only one spouse meets the test.</li></ul>"
   },
   {
-   "h2": "How is the disabled veteran exclusion different in North Carolina?",
-   "html": "<p>It takes $45,000 off the appraised figure, and NCDOR's own form says the program has no age or income limit. Its statute is section 277.1C.</p><p>The veteran must live in this state, hold an honorable or under-honorable-conditions discharge, and either draw benefits under 38 U.S.C. 2101 or hold a VA certification of permanent and total service-connected disability. An unmarried surviving spouse can claim it as well. Start with a Veterans Service Officer on Form NCDVA-9, then file that form at the assessor's office.</p>"
+   "h2": "Disabled veteran exclusion",
+   "html": "<p>This one takes $45,000 off the appraised figure, and the state's own form says it has no age or income limit. Its statute is section 277.1C.</p><p>The owner must live in North Carolina, hold an honorable or under-honorable-conditions discharge, and either draw benefits under 38 U.S.C. 2101 or hold a VA certification of permanent and total service-connected disability. An unmarried surviving spouse can claim it too. Begin with a county veteran service officer, who helps complete Form NCDVA-9. Then file it at the assessor's office.</p>"
   },
   {
-   "h2": "What is the North Carolina circuit breaker deferral?",
-   "html": "<p>It sets a ceiling on the tax bill as a slice of household income and postpones the rest. The ceiling is 4.0% of income for owners at or below the cap, and 5.0% for owners above the cap but within 150% of it.</p><p>NCDOR's 2026 form prints those two thresholds as $38,800 and $58,200. Applicants must be at least 65 or has a total and permanent disability, live in this state, and have spent five years owning and occupying the house as their permanent residence. Filing is yearly, not once.</p><p>The postponed tax becomes a lien. When a disqualifying event hits, whether a transfer, the owner's death or moving out, the deferred taxes of the previous three fiscal years come due.</p>"
+   "h2": "Circuit breaker deferral",
+   "html": "<p>The circuit breaker caps the tax bill at a share of household income and postpones the rest. Owners at or under the cap pay no more than 4.0% of income. Owners above it but within 150% of it pay no more than 5.0%.</p><p>The 2026 form puts those two thresholds at $38,800 and $58,200. Applicants must be at least 65 or have a total and permanent disability, live in this state, and have owned and occupied the house as their permanent residence for five years. You file every year, not once.</p><p>The postponed tax becomes a lien. If something disqualifies the owner, such as a transfer, a death or a move out, the deferred taxes for the previous three fiscal years become payable.</p>"
   },
   {
-   "h2": "How do the three North Carolina relief programs compare?",
-   "html": "<table><caption>Source: sections 105-277.1, 105-277.1B and 105-277.1C, plus NCDOR's 2026 Form AV-9</caption><thead><tr><th>Program</th><th>What it does</th><th>Who it is for</th><th>Income test</th></tr></thead><tbody><tr><td>Elderly or disabled exclusion</td><td>Cuts the bigger of $25,000 and half the appraisal</td><td>At least 65, or with a total and permanent disability</td><td>$38,800 for 2026</td></tr><tr><td>Disabled veteran exclusion</td><td>Takes $45,000 off the appraised figure</td><td>Qualifying disabled veteran or unmarried surviving spouse</td><td>None</td></tr><tr><td>Circuit breaker</td><td>Limits tax to 4.0% or 5.0% of income and defers the excess</td><td>At least 65, or disabled, with five years in the home</td><td>Up to $58,200 for 2026</td></tr></tbody></table>"
+   "h2": "Comparing the three programs",
+   "html": "<table><caption>North Carolina owner-relief programs, 2026 figures</caption><thead><tr><th>Program</th><th>What it does</th><th>Who it is for</th><th>Income test</th></tr></thead><tbody><tr><td>Elderly or disabled exclusion</td><td>Cuts the bigger of $25,000 and half the appraisal</td><td>At least 65, or with a total and permanent disability</td><td>$38,800 for 2026</td></tr><tr><td>Disabled veteran exclusion</td><td>Takes $45,000 off the appraised figure</td><td>Qualifying disabled veteran or unmarried surviving spouse</td><td>None</td></tr><tr><td>Circuit breaker</td><td>Limits tax to 4.0% or 5.0% of income and defers the excess</td><td>At least 65, or disabled, with five years in the home</td><td>Up to $58,200 for 2026</td></tr></tbody></table>"
   },
   {
-   "h2": "When and where do owners apply for North Carolina homestead relief?",
-   "html": "<p>Take Form AV-9 to the county tax assessor during the January listing window, which opens on the first working day of the year and closes January 31. A late application is still taken through the first of June.</p><p>One form serves all three programs, so pick the one that fits and ask the assessor whether you meet more than one test. The income cap resets every year, so use the form for the tax year you are claiming.</p>"
+   "h2": "When and where to apply",
+   "html": "<p>The place to file Form AV-9 is the county tax assessor, and the time is the January listing window. It opens on the first working day of the year and closes January 31. Late applications are still taken through the first of June.</p><p>One form serves all three programs, so ask the assessor whether you meet more than one test. Each year brings a new income cap, so pick up the form for the tax year you are claiming.</p>"
   },
   {
-   "h2": "What papers should a North Carolina applicant bring to the assessor?",
-   "html": "<p>Ask the assessor's office for its checklist, because each county handles intake itself. The statutes point to the evidence most files need.</p><ul><li>Proof of age, or the certificate of permanent and total disability.</li><li>Prior-year income records for the owner and for a spouse in the same home.</li><li>Proof the property is the owner's permanent residence, with acreage if the lot exceeds one acre.</li><li>For the circuit breaker, evidence of five years of ownership and occupancy.</li><li>For the veteran exclusion, the VA certification or benefits record and a completed Form NCDVA-9.</li></ul><p>Bringing everything on the first visit saves a second trip and keeps you inside the January window.</p>"
+   "h2": "What to bring to the assessor",
+   "html": "<p>Each county handles intake itself, so ask the assessor's office for its checklist before you go. Most files need the same evidence.</p><ul><li>Proof of age, or the certificate of permanent and total disability.</li><li>Prior-year income records for the owner and for a spouse in the same home.</li><li>Proof the property is the owner's permanent residence, with acreage if the lot exceeds one acre.</li><li>For the circuit breaker, evidence of five years of ownership and occupancy.</li><li>For the veteran exclusion, the VA certification or benefits record and a completed Form NCDVA-9.</li></ul><p>Arriving with every paper at the first visit saves a return trip and keeps you inside the January window. Make copies, and ask for a dated receipt when you hand the form in.</p>"
   },
   {
-   "h2": "How does the North Carolina income cap move from year to year?",
-   "html": "<p>NCDOR resets the number annually with the Social Security cost-of-living percentage. The 2026 form shows $38,800 against $37,900 for 2025, and its $58,200 upper circuit breaker line equals 150% of the 2026 cap.</p><p>An owner just over the line one year can land under it the next, so one denial does not decide later years. The circuit breaker requires a fresh application every year. Ask the assessor whether your county wants repeat filings for the other two programs.</p>"
+   "h2": "How the income cap changes each year",
+   "html": "<p>The state resets the number annually with the Social Security cost-of-living percentage. The 2026 form shows $38,800 against $37,900 for 2025, and its $58,200 upper circuit breaker line equals 150% of the 2026 cap.</p><p>An owner just over the line one year can land under it the next, so one denial does not decide later years. Circuit breaker relief ends unless you reapply annually. Ask the assessor whether your county wants repeat filings for the other two programs.</p>"
   },
   {
-   "h2": "Can an owner also appeal the appraised value in North Carolina?",
-   "html": "<p>Yes, and the appraisal matters because every program here is measured against it. The county commissioners normally sit as the review board, and its first meeting falls in spring, between early April and early May.</p><p>Ask for a hearing, in writing or in person, before the board adjourns. The board mails its decision within 30 days after adjournment, and an owner who disagrees may take the matter to the Property Tax Commission by written notice within 30 days after that mailing. Because the elderly or disabled version takes the bigger of a flat figure and half the value, a lower appraisal can change which side of that comparison controls. Call your assessor for the county's own appeal calendar and forms.</p>"
+   "h2": "Can you also appeal the appraised value?",
+   "html": "<p>Yes, and the appraisal matters because every program here is measured against it. In most counties the commissioners act as the review board. Its first meeting comes in spring, somewhere between early April and early May.</p><p>Request a hearing, by letter or in person, before the board wraps up its work. A decision is mailed within 30 days after adjournment. An owner who still disagrees can give written notice to the Property Tax Commission within 30 days after that mailing. The elderly or disabled version takes the bigger of a flat figure and half the value, so a lower appraisal can change which side of that comparison controls. Call your assessor for the county's own appeal calendar and forms.</p>"
   },
   {
-   "h2": "What happens to this relief when you sell a North Carolina home?",
-   "html": "<p>A sale is a transfer, and a transfer is one of the events that makes deferred circuit breaker tax payable. Ask the county tax collector for a written payoff before the closing date so the amount can be settled at the table.</p><ul><li>The seller owes the county deed excise tax at the register's office ahead of filing the deed: one dollar per five hundred of price, counting any partial five hundred.</li><li>Each year's bill falls due September 1, and anything unpaid picks up 2% interest on January 6.</li><li>Heirs who inherit from a circuit breaker owner may meet the deferred bill too, because the owner's death is a triggering event.</li></ul><p>Deferred tax is a lien, so clear it with the collector rather than leaving the buyer to find it. If you already receive any of the three benefits, mention that to your closing agent at the outset so the payoff request reaches the county early.</p>"
+   "h2": "Selling a home that receives this relief",
+   "html": "<p>A sale is a transfer, and a transfer is one of the events that makes deferred circuit breaker tax payable. Get a written payoff figure from the county tax collector ahead of closing, so the title agent can pay it from your proceeds.</p><ul><li>The seller also pays deed excise tax at the register's office before the deed is filed. The rate is one dollar for every five hundred of price, with any partial five hundred counted.</li><li>Each year's bill is due September 1, and anything unpaid picks up 2% interest on January 6.</li><li>Heirs who inherit from a circuit breaker owner may face the deferred bill too, because the owner's death is a triggering event.</li></ul><p>Deferred tax is a lien, so clear it with the collector rather than leaving the buyer to find it. If you already receive any of the three benefits, tell your closing agent at the outset so the payoff request reaches the county early. A cash sale with a flexible closing date gives you time to sort out the payoff without a lender's deadline pressing on you.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How large is the North Carolina homestead exclusion?",
-   "a": "The elderly or disabled version cuts the bigger of $25,000 and half the appraisal. The veteran version removes a flat $45,000."
+   "a": "The elderly or disabled version cuts the bigger of $25,000 and half the appraisal. The disabled veteran version removes a flat $45,000."
   },
   {
-   "q": "What is the 2026 income limit for the North Carolina exclusion?",
-   "a": "The 2026 NCDOR form prints $38,800. The same form lists $37,900 as the 2025 limit."
+   "q": "What is the 2026 income limit?",
+   "a": "It is $38,800 for 2026. For 2025 the limit was $37,900."
   },
   {
-   "q": "Where do I file the North Carolina homestead application?",
-   "a": "With your county tax assessor on Form AV-9. Veterans first complete Form NCDVA-9 with a Veterans Service Officer."
+   "q": "Where do I file the application?",
+   "a": "File with your county tax assessor on Form AV-9. A disabled veteran first completes Form NCDVA-9 with a county veteran service officer."
   },
   {
-   "q": "Can I get more than one North Carolina homestead program?",
+   "q": "Can I get more than one program?",
    "a": "No. The three programs are alternatives, and an owner draws on one of them."
   },
   {
-   "q": "What if I miss the January 31 filing date in North Carolina?",
+   "q": "What if I miss the January 31 filing date?",
    "a": "You still have time. Assessors must accept applications until June 1 of the tax year."
   }
  ],
