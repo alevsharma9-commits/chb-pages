@@ -1,0 +1,89 @@
+{
+ "slug": "wisconsin-closing-costs",
+ "sections": [
+  {
+   "h2": "Seller costs set by Wisconsin law",
+   "html": "<p>Wisconsin statutes assign three things to a seller: the real estate transfer fee, the cost of recording any document the seller must record, and delivery of a real estate condition report. Most other costs, including a listing agent's commission, title charges and the proration of the year's property tax, come from the contract and the settlement statement rather than from a statute.</p><p>Price the transfer fee first. <a href=\"https://docs.legis.wisconsin.gov/document/statutes/77.22\">Wis. Stat. 77.22</a> imposes it on the grantor, and the register of deeds collects it when the deed goes in for recording. Recording itself is a flat $30 under Wis. Stat. 59.43(2)(ag). Everything else is negotiable, so get a written estimate from the closing agent before you sign.</p>"
+  },
+  {
+   "h2": "The Wisconsin transfer fee",
+   "html": "<p>The fee is 30 cents for each $100 of value, and any fraction of $100 counts as a full $100.</p><p>Value has a precise meaning. Wis. Stat. 77.21(3) defines it, for any conveyance that isn't a gift, as the full actual consideration paid or to be paid, including the amount of any lien on the property. For a gift, a deed for nominal consideration or an exchange, it is the estimated price the property would bring on the open market between a willing seller and a willing buyer. On a land contract, value is the total principal the buyer agrees to pay the seller.</p>"
+  },
+  {
+   "h2": "Seller charges and deadlines at a glance",
+   "html": "<table><thead><tr><th>Charge or duty</th><th>Amount or deadline</th><th>Statute</th></tr></thead><tbody><tr><td>Real estate transfer fee</td><td>30 cents per $100 of value or fraction, charged to the grantor</td><td>Wis. Stat. 77.22(1)</td></tr><tr><td>Recording a deed</td><td>$30 per document</td><td>Wis. Stat. 59.43(2)(ag)</td></tr><tr><td>Copy of a recorded document</td><td>$2 first page, $1 each added page, $1 more to certify</td><td>Wis. Stat. 59.43(2)(b)</td></tr><tr><td>Real estate condition report to buyer</td><td>Within 10 days after contract acceptance</td><td>Wis. Stat. 709.02(1)</td></tr><tr><td>Mortgage payoff statement from lender</td><td>Within 7 business days after a written request on residential property</td><td>Wis. Stat. 708.15(3)</td></tr></tbody></table><p>Recording fees are payable in advance by whoever asks the register for the service.</p>"
+  },
+  {
+   "h2": "Exemptions from the transfer fee",
+   "html": "<p>A conveyance is exempt only if it fits a category in Wis. Stat. 77.25, and the exemption must be named on the face of the deed. These are the categories most likely to matter to someone selling or transferring a house:</p><ul><li>A transfer by will, descent or survivorship.</li><li>A deed under a foreclosure, or in lieu of foreclosure, to a mortgage holder or a land contract seller.</li><li>A sale for delinquent taxes or assessments.</li><li>A deed from a trustee to a beneficiary without actual consideration.</li><li>A deed that corrects or confirms a conveyance already recorded, given for nominal, inadequate or no consideration.</li><li>A deed that only gives or releases security for a debt that did not arise from a conveyance.</li><li>A conveyance under condemnation, or of real estate worth $1,000 or less.</li></ul><p>A deed from a land contract seller is also exempt when the proper fee was paid at the time the land contract was recorded. Statute 77.256 bars a city, village, town or county from charging its own fee on an exempt conveyance.</p>"
+  },
+  {
+   "h2": "The transfer return",
+   "html": "<p>The transfer return is the Department of Revenue form reporting the value, the fee and any exemption, and both grantor and grantee must sign it. The register of deeds can't accept the conveyance for recording without a completed return and the fee, unless the transfer falls under the narrow no-return rule in Wis. Stat. 77.255.</p><p>The form is now filed through My Tax Account. Filers need no username or password and can file, view or amend a return. Title companies and attorneys generally file it for a sale. If you sign a deed on your own, the department's <a href=\"https://www.revenue.wi.gov/Pages/RETr/home.aspx\">RETR page</a> has guides and the exemption list.</p><p>Under Wis. Stat. 77.24, 20 percent of the fee stays with the county and the rest goes to the state. The department may later examine a return and assess more fee, or refund an overpayment, if the value was misreported or an exemption was claimed wrongly.</p>"
+  },
+  {
+   "h2": "The real estate condition report",
+   "html": "<p>An owner selling a property with one to four dwelling units must give the buyer a completed condition report within 10 days after the buyer's offer is accepted. The report is a statutory form in Wis. Stat. 709.03 covering structural and mechanical systems, environmental matters, wells, septic systems and storage tanks, taxes and special assessments, permits, and land use.</p><p>A buyer who doesn't get the report in time may rescind the contract within two business days after the 10 days end and recovers any deposit. An owner who learns before acceptance of information that changes an answer must send an amended report or an amendment within 10 days of acceptance. The form is not a warranty and doesn't replace inspections.</p><p>Some sellers are excused. Court-appointed fiduciaries such as a personal representative who never lived in the property skip it, as does an owner of property never inhabited and any transfer exempt from the transfer fee. Chapter 709 reaches sales, exchanges and land contracts.</p>"
+  },
+  {
+   "h2": "Mortgage payoff at closing",
+   "html": "<p>Ask your lender in writing for a payoff statement. On a loan secured by residential property, the lender must send it within 7 business days. Under Wis. Stat. 708.15 the statement shows the payoff amount on its date and the information needed to compute it for the requested payoff date, such as the per diem interest, plus the payment cutoff time and where and how to pay.</p><p>The request can name a payoff date up to 30 days out, and an agent you authorize, such as the closing agent, may make it. On residential property a lender can't qualify the amount or say it may change before that date, which gives the closing agent a firm number. Ask early enough to fit your scheduled closing.</p>"
+  },
+  {
+   "h2": "Questions to ask the closing agent",
+   "html": "<p>Request an itemized estimate before closing and check every charge against the amounts above. These questions catch most surprises:</p><ul><li>What value is being reported on the transfer return, and does it include any lien being paid off?</li><li>Is any exemption being claimed, and under which subsection of Wis. Stat. 77.25?</li><li>What is the per diem on my mortgage, and through what payoff date is the statement good?</li><li>What is the balance on the property tax bill, and how is the current year prorated?</li><li>Which charges come from the contract, such as commission, title and repair credits, and which come from statute?</li><li>Has the condition report been delivered, and on what date?</li></ul><p>For the tax balance, ask the county treasurer or the municipal treasurer that bills the parcel. The property tax bill names the office that collects. If you sell for cash as-is, many of these lines shrink, though the transfer fee, recording and your payoff still apply.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who pays the real estate transfer fee in Wisconsin?",
+   "a": "The seller. Wis. Stat. 77.22 puts the fee on the grantor at 30 cents per $100 of value, and the register of deeds collects it when the deed is submitted for recording."
+  },
+  {
+   "q": "How much does it cost to record a deed in Wisconsin?",
+   "a": "The statutory recording fee is $30 per document under Wis. Stat. 59.43(2)(ag). Copies of recorded documents cost $2 for the first page and $1 for each added page, with $1 more to certify."
+  },
+  {
+   "q": "Is the transfer fee based on the sale price or the equity?",
+   "a": "The sale price, not the equity. On a sale, value is the full consideration paid or to be paid, including any lien, so your mortgage balance doesn't lower the amount the fee is measured on."
+  },
+  {
+   "q": "When must I give the buyer the condition report?",
+   "a": "Within 10 days after the buyer's offer is accepted. If the buyer doesn't get it in that window, the buyer has two more business days to rescind and recover any deposit."
+  },
+  {
+   "q": "How long does my lender have to send a payoff statement?",
+   "a": "Seven business days after it receives your written request, on a loan secured by residential property. The statement shows the payoff amount and the per diem interest."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wisconsin Statutes 77.21 to 77.26, real estate transfer fee",
+   "url": "https://docs.legis.wisconsin.gov/document/statutes/77.22"
+  },
+  {
+   "title": "Wisconsin Statutes 77.25, exemptions from fee",
+   "url": "https://docs.legis.wisconsin.gov/document/statutes/77.25"
+  },
+  {
+   "title": "Wisconsin Statutes 59.43, register of deeds fees and format",
+   "url": "https://docs.legis.wisconsin.gov/document/statutes/59.43(2)(ag)"
+  },
+  {
+   "title": "Wisconsin Statutes chapter 709, real estate condition report",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/709/02"
+  },
+  {
+   "title": "Wisconsin Statutes 708.15, mortgage satisfaction and payoff statement",
+   "url": "https://docs.legis.wisconsin.gov/document/statutes/708.15"
+  },
+  {
+   "title": "Wisconsin Department of Revenue: Real Estate Transfer Return",
+   "url": "https://www.revenue.wi.gov/Pages/RETr/home.aspx"
+  },
+  {
+   "title": "Wisconsin Department of Revenue: RETR now in My Tax Account (Jan 12, 2026)",
+   "url": "https://www.revenue.wi.gov/Pages/SLF/COTVC-News/2026-01-12.aspx"
+  }
+ ]
+}

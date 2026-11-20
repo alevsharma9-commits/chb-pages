@@ -1,0 +1,81 @@
+{
+ "slug": "wisconsin-landlord-tenant-law-tenant-rights",
+ "sections": [
+  {
+   "h2": "Laws that cover Wisconsin rentals",
+   "html": "<p>Two sets of rules carry most of the load: chapter 704 of the Wisconsin Statutes and chapter ATCP 134 of the Administrative Code. Chapter 704 deals with repairs, ending a tenancy, security deposits and what a transfer does to a lease. Chapter ATCP 134, run by the Department of Agriculture, Trade and Consumer Protection, governs residential rental practices.</p><p>ATCP 134 covers dwelling units statewide, with a short list of exclusions: institutional units, units occupied under a contract of sale, tourist or transient stays under 60 days, and government-owned and operated units. A tenant who loses money because of a violation can sue directly and recover twice the loss plus costs and attorney fees.</p><p>For someone selling a rental, these rules settle what the buyer takes on, how much time a tenant must get, and what has to be returned from a deposit.</p>"
+  },
+  {
+   "h2": "What a sale does to the lease",
+   "html": "<p>The lease normally survives. Wis. Stat. 704.09 allows a landlord's interest to be transferred unless the lease expressly limits that power, and a limit is read as covering voluntary transfers only unless it also names transfers by operation of law.</p><ul><li>Lease covenants that are not personal to the original parties can be enforced by or against the successor.</li><li>A successor answers in damages only for breaches during the successor's own ownership, unless the successor agrees to more by contract.</li><li>The seller remains responsible for lease obligations unless the lease or an express release says otherwise.</li><li>Remedies that existed between the original landlord and tenant carry over to or against a successor.</li></ul><p>So a cash buyer who takes a rented house steps into the lease. Hand over a copy of each lease and a ledger of rent and deposits.</p>"
+  },
+  {
+   "h2": "Notice before a tenancy ends",
+   "html": "<p>The length of notice depends on the tenancy type and the reason. The shortest common one is 5 days for unpaid rent, while a periodic tenancy needs 28 days in writing to end without cause.</p><table><thead><tr><th>Situation</th><th>Notice required</th></tr></thead><tbody><tr><td>Month-to-month or week-to-week, unpaid rent</td><td>Pay or vacate on a date at least 5 days after notice</td></tr><tr><td>Month-to-month tenant in default on rent</td><td>Vacate notice at least 14 days after giving</td></tr><tr><td>Lease of one year or less, unpaid rent</td><td>Pay or vacate at least 5 days after notice; 14 days if repeated within one year</td></tr><tr><td>Lease of one year or less, other breach</td><td>Remedy or vacate at least 5 days after notice</td></tr><tr><td>Lease of more than one year</td><td>At least 30 days to pay, repair or comply</td></tr><tr><td>Criminal activity threatening others</td><td>Vacate at least 5 days after notice, no chance to remedy</td></tr><tr><td>Periodic tenancy, no cause</td><td>At least 28 days in writing, ending at the end of a rental period</td></tr></tbody></table><p>Time counts from the day notice is given, and mail within the state is treated as given on the 2nd day after mailing. For a breach other than rent, a tenant complies by promptly taking reasonable steps to fix the problem.</p>"
+  },
+  {
+   "h2": "How an eviction works after the notice runs out",
+   "html": "<p>The landlord files an eviction action in court. A judgment is followed by a writ of restitution, which the sheriff carries out. Under Wis. Stat. 799.40, the person entitled to possession, or an agent authorized in writing, can start the case.</p><ul><li>Post office proof of certified mailing is enough to show a termination notice was properly given, and no affidavit of service can be demanded.</li><li>A landlord who takes past due rent after serving notice or filing does not lose the action on that ground.</li><li>If the court finds the plaintiff entitled to possession, it enters judgment and orders a writ of restitution to issue right away.</li><li>A writ cannot be carried out if the sheriff receives it more than 30 days after issue.</li><li>Where hardship is shown, the court can stay the writ for up to 30 days, conditioned on the tenant paying unpaid rent and the reasonable value of occupancy.</li></ul><p>Under s. 799.45(1) the sheriff may require a deposit toward removal costs, unless the landlord says the landlord will remove and store or dispose of the property.</p>"
+  },
+  {
+   "h2": "Belongings left behind",
+   "html": "<p>Wis. Stat. 704.05(5) lets a landlord presume that property left by a departed or evicted tenant is abandoned and dispose of it as the landlord chooses, unless the written agreement says otherwise.</p><ul><li>Prescription medication and prescription medical equipment must be held for 7 days, and returned promptly if the tenant asks before disposal.</li><li>A manufactured home, mobile home or titled vehicle calls for written notice of intent to dispose to the tenant and to any secured party the landlord knows about.</li><li>A landlord not planning to store belongings must say so in writing when the tenant signs or renews a lease.</li><li>The tenant or a secured party can get the property back before disposal by paying the landlord's expenses.</li></ul>"
+  },
+  {
+   "h2": "Repairs and landlord entry",
+   "html": "<p>A landlord has to keep the parts of the premises under the landlord's control in reasonable repair and make needed structural repairs. For residential tenancies the landlord must also meet the local housing code. These duties come from s. 704.07(2), and a lease clause waiving them is void.</p><p>If a residential unit becomes untenantable, or has a substantial violation that materially affects health or safety, the tenant may move out unless the landlord promptly repairs. A tenant who stays gets rent reduced by the amount of lost use, but cannot withhold all rent.</p><p>Entry is governed by ATCP 134.09(2): only to inspect, make repairs, or show the unit to prospective tenants or purchasers. The landlord gives at least 12 hours of advance notice and enters at reasonable times, unless the tenant agrees to shorter notice or is away and the landlord reasonably believes entry is needed to protect the premises. The landlord announces before entering. A seller planning showings should schedule around that notice window.</p>"
+  },
+  {
+   "h2": "Returning a security deposit",
+   "html": "<p>A residential landlord must deliver or mail the deposit, less lawful deductions, within 21 days after the tenancy ends. Wis. Stat. 704.28(4) counts the 21 days from the lease termination date if the tenant leaves then, from the start of a new tenant's term if the unit is re-rented early, or from the day the landlord learns the tenant has gone.</p><p>Standard deductions cover tenant damage, waste or neglect, unpaid rent, and certain unpaid utility charges. Other deductions require a separate written document titled \"Nonstandard Rental Provisions,\" identified to the tenant before signing. ATCP 134.06 also bars a landlord from falsifying a claim against a deposit.</p><p>When the house sells, the deposit ledger should go with the lease. Ask the buyer to acknowledge the deposit amounts in writing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days notice must a Wisconsin landlord give to end a month-to-month tenancy?",
+   "a": "At least 28 days in writing, ending at the end of a rental period, under Wis. Stat. 704.19. For unpaid rent, a month-to-month landlord can give a pay-or-vacate notice dated at least 5 days after it is given."
+  },
+  {
+   "q": "Does a tenant have to leave when the landlord sells?",
+   "a": "No. A sale does not end a lease on its own. Under Wis. Stat. 704.09 the landlord's interest passes to the buyer, and covenants not personal to the original parties bind the successor."
+  },
+  {
+   "q": "How long does a landlord have to return a security deposit?",
+   "a": "Within 21 days. Depending on the facts, s. 704.28(4) counts from the lease end, the start of a replacement tenancy, or the day the landlord learns the tenant moved out."
+  },
+  {
+   "q": "How much notice must a landlord give before entering a rental?",
+   "a": "At least 12 hours, at reasonable times, unless the tenant agrees to less. ATCP 134.09(2) limits entry to inspections, repairs and showings to prospective tenants or purchasers, with limited exceptions."
+  },
+  {
+   "q": "Can a tenant withhold all rent for bad conditions?",
+   "a": "No. Wis. Stat. 704.07(4) lets a tenant move out over untenantable conditions or cut rent in proportion to lost use. It does not allow full withholding while the tenant stays."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wis. Stat. 704.05, 704.07 and 704.09, Landlord and tenant",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704/07"
+  },
+  {
+   "title": "Wis. Stat. 704.17 and 704.19, Notices terminating tenancy",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704/17"
+  },
+  {
+   "title": "Wis. Stat. 704.28, Security deposits",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704/28"
+  },
+  {
+   "title": "Wis. Stat. 799.40 to 799.45, Eviction actions",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/40"
+  },
+  {
+   "title": "Wis. Admin. Code ch. ATCP 134, Residential rental practices",
+   "url": "https://docs.legis.wisconsin.gov/code/admin_code/atcp/090/134"
+  },
+  {
+   "title": "Wis. Admin. Code ATCP 134.09, Prohibited practices",
+   "url": "https://docs.legis.wisconsin.gov/code/admin_code/atcp/090/134/09"
+  }
+ ]
+}

@@ -1,66 +1,93 @@
 {
-  "slug": "washington-capital-gains-tax",
-  "sections": [
-    {
-      "h2": "Does Washington's capital gains tax apply when I sell my house?",
-      "html": "<p>No. Washington's capital gains excise tax does not apply to the sale of real estate that transfers by a deed or similar instrument recorded with the county. That exemption is written into <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.050\">RCW 82.87.050</a>, and the Department of Revenue lists real estate first among the assets the tax leaves alone.</p><p>The tax itself is set out in <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.040\">RCW 82.87.040</a>. It is a 7 percent excise on an individual's Washington capital gains, with an added 2.90 percent on the part of those gains above $1,000,000 starting January 1, 2025. Only individuals pay it. A seller of a Washington house who also sold stock or a business interest in the same year may still owe it on those other sales, but the house closing itself stays outside the chapter.</p>"
-    },
-    {
-      "h2": "What kinds of real estate sales fall under the exemption?",
-      "html": "<p>The exemption reaches a sale or exchange of real estate transferred by deed, real estate contract, judgment, or another instrument that moves title and is filed as a public record in the county where the land sits. An ordinary Washington house sale transfers title by deed, so it fits. A contract sale where you carry the financing for the buyer also fits, since a real estate contract is named in the statute.</p><p>The same section reaches into entities in a narrower way. If you own an interest in a privately held company and sell that interest, the exemption covers only the part of your gain that comes from real estate the company owns directly. Real estate the company does not own directly is left out of that calculation.</p><ul><li>Property that is depreciable under federal tax law is exempt under its own subsection.</li><li>Assets inside a 401(k), 403(b), IRA or similar retirement account are exempt.</li><li>Timber and timberland are exempt, as are some livestock and commercial fishing privileges.</li></ul>"
-    },
-    {
-      "h2": "What are the Washington capital gains rates and deductions for other assets?",
-      "html": "<p>The state subtracts a standard deduction before it applies the rate. <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.060\">RCW 82.87.060</a> sets it at $250,000 per individual, or $250,000 combined for spouses and domestic partners, and the amount is adjusted for inflation. The Department of Revenue reports $270,000 for 2024 and $278,000 for 2025.</p><p>Other deductions cover gain from selling a qualified family-owned small business and certain charitable gifts. A credit is available when another state or country taxed the same gain, limited to the smaller of the Washington tax on those assets or the tax paid elsewhere. Losses do not carry forward into later years under the Washington tax.</p><table><thead><tr><th>Item</th><th>Amount</th><th>Source</th></tr></thead><tbody><tr><td>Base rate on Washington capital gains</td><td>7%</td><td>RCW 82.87.040</td></tr><tr><td>Added rate on gains above $1,000,000</td><td>2.90% (from January 1, 2025)</td><td>RCW 82.87.040</td></tr><tr><td>Standard deduction, 2025</td><td>$278,000 per individual or couple</td><td>Department of Revenue</td></tr><tr><td>Real estate sold by recorded deed</td><td>Exempt</td><td>RCW 82.87.050</td></tr><tr><td>Credit for tax paid to another state</td><td>Lesser of the Washington tax or the other tax</td><td>RCW 82.87.100</td></tr></tbody></table>"
-    },
-    {
-      "h2": "What tax do I pay when I sell a house in Washington, then?",
-      "html": "<p>The state tax that applies to a Washington house sale is the real estate excise tax, usually called REET. The Department of Revenue says all sales of real property in the state are subject to it unless a specific exemption applies. The seller usually pays. If the seller does not, the buyer becomes responsible, and an unpaid tax can become a lien on the property.</p><p>REET is due to the county treasurer where the property sits on the date of sale, whatever date the deed gets recorded. The date of sale is the date the deed is notarized. Penalty and interest start if the tax is unpaid one month after that date. The affidavit, the deed and the payment go to the county treasurer.</p><p>The state portion is graduated. For sales beginning January 1, 2027, the Department of Revenue lists these tiers, with the local REET added on top:</p><ul><li>1.1 percent on the part of the price up to $551,000.</li><li>1.28 percent on the part from $551,000 to $1,551,000.</li><li>2.75 percent on the part from $1,551,000 to $3,051,000.</li><li>3.0 percent on the part above $3,051,000.</li></ul><p>Agricultural land and timberland stay at a flat 1.28 percent state rate. For a closing before January 1, 2027, ask the county treasurer which thresholds apply and what the local rate is in your city.</p>"
-    },
-    {
-      "h2": "Will I owe federal tax on the gain from my Washington house?",
-      "html": "<p>Possibly, though many sellers owe nothing. The IRS lets you exclude up to $250,000 of gain on the sale of your main home, or up to $500,000 on a joint return. To qualify you must meet an ownership test and a use test, which means owning and living in the home for at least 24 months of the 5 years before the sale. The two periods do not have to match, and generally you cannot use the exclusion if you excluded gain from another home sale in the prior two years.</p><p>Reporting is a separate matter. If you receive a Form 1099-S you must report the sale even when the whole gain is excludable, and you must also report it when you cannot exclude all of the gain. The sale goes on Form 8949 and Schedule D when required. IRS Publication 523 holds the worksheets.</p><p>Your gain is the sale price less your adjusted basis. Basis starts with what you paid and rises with improvements that add value. For a house you received by gift or inheritance, the IRS points to Publication 551 for how basis is set, so an inherited Washington house can have a very different basis than one you bought.</p>"
-    },
-    {
-      "h2": "When are Washington capital gains returns and payments due?",
-      "html": "<p>If you do owe the state tax on other assets, the return is due the same day as your federal income tax return. Everyone files electronically through My DOR, attaching a copy of the federal return. An extension is available only if you already have a federal extension and you request the state one through My DOR on or before April 15. An extension does not move the payment date.</p><p>Payment is typically due April 15, unless that falls on a weekend or holiday. Beginning with tax year 2026 you may prepay up to six months before the due date. Late returns and late payments carry penalties and interest. Paying less than 80 percent of the tax due counts as a substantial underpayment and adds its own penalty. If you request an extension or make a payment, a return must be filed even when no tax turns out to be due.</p>"
-    },
-    {
-      "h2": "How should a Washington seller plan around these taxes?",
-      "html": "<p>Start with the closing date. REET is calculated on the full selling price, so know the price tier before you accept an offer, and ask the county treasurer or your closing agent for the combined state and local figure. Keep the documents that support the price and any exemption you claim for at least four years, since all transactions are subject to audit by the Department of Revenue.</p><p>Next, separate the house from everything else you sold that year. A house sold by deed sits outside the capital gains excise tax. Stock, a business interest or other investments may not. Your tax preparer can total those and apply the standard deduction. Last, run the federal numbers: ownership dates, residence dates, improvements and any depreciation you claimed if part of the home was a rental.</p><p>If the house is inherited, behind on payments, or has repairs you cannot afford, the same taxes apply to the sale. Call the Department of Revenue, the county treasurer, or a tax professional before you sign anything with a price attached.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Is there a Washington capital gains tax on selling a primary residence?",
-      "a": "No. Real estate transferred by a recorded deed is exempt under RCW 82.87.050, so a house sale does not trigger the state capital gains excise tax. The real estate excise tax (REET) still applies to the sale, and federal rules on gain apply separately."
-    },
-    {
-      "q": "Who pays the real estate excise tax in Washington?",
-      "a": "The seller usually pays it. If the seller does not, the buyer becomes responsible, and unpaid tax can create a lien on the property. It is paid to the county treasurer where the property is located and is due on the date of sale."
-    },
-    {
-      "q": "How much of my home sale gain can I exclude on my federal return?",
-      "a": "Up to $250,000, or up to $500,000 on a joint return, if you meet the ownership and use tests. You need to have owned and lived in the home for at least 24 months of the 5 years before the sale."
-    },
-    {
-      "q": "What is the Washington capital gains tax rate?",
-      "a": "The rate is 7 percent of an individual's Washington capital gains, plus 2.90 percent on the portion above $1,000,000 beginning January 1, 2025. A standard deduction applies first, and the Department of Revenue reports $278,000 for 2025."
-    },
-    {
-      "q": "When is the real estate excise tax due on a Washington house sale?",
-      "a": "It is due on the date of sale, which is the date the deed is notarized, and it goes to the county treasurer. Penalty and interest begin if it is not paid within one month of that date."
-    }
-  ],
-  "sources": [
-    {"title": "RCW 82.87.040 Tax imposed, long-term capital assets", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.040"},
-    {"title": "RCW 82.87.050 Exemptions", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.050"},
-    {"title": "RCW 82.87.060 Deductions", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.060"},
-    {"title": "RCW 82.87.100 Allocation and credit", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.100"},
-    {"title": "Washington Department of Revenue, Capital gains tax", "url": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax"},
-    {"title": "Washington Department of Revenue, Real estate excise tax", "url": "https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax"},
-    {"title": "RCW 82.45.060 Tax on sale of property", "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.45.060"},
-    {"title": "IRS Topic 701, Sale of your home", "url": "https://www.irs.gov/taxtopics/tc701"},
-    {"title": "IRS Topic 703, Basis of assets", "url": "https://www.irs.gov/taxtopics/tc703"}
-  ]
+ "slug": "washington-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Selling a house and the capital gains tax",
+   "html": "<p>A house closing does not set off Washington's capital gains excise tax. <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.050\">RCW 82.87.050</a> exempts land and buildings that pass by deed, real estate contract, judgment or a similar instrument filed as a public record where the property is located. Real estate is the first asset on the state's exemption list.</p><p>The tax itself, found in <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.040\">RCW 82.87.040</a>, is 7 percent of an individual's Washington capital gains, plus another 2.90 percent on the portion above $1,000,000 from January 1, 2025. Only individuals pay it. If you also sold stock or a business interest in the same year, those sales can still be taxed. The house closing stays outside the chapter.</p>"
+  },
+  {
+   "h2": "Which real estate sales are exempt?",
+   "html": "<p>An ordinary house sale moves title by deed, so it fits the exemption. So does a sale where you carry the financing, because the statute names a real estate contract. If you hold an interest in a privately owned company and sell it, only the part of your gain that comes from real estate the company owns directly is exempt.</p><ul><li>Depreciable property under federal tax law has its own exemption.</li><li>Assets in a 401(k), 403(b), IRA or similar retirement account are exempt.</li><li>Timber, timberland, some livestock and commercial fishing privileges are exempt too.</li></ul>"
+  },
+  {
+   "h2": "Rates, deductions and credits for other assets",
+   "html": "<p>Before the rate applies, the state subtracts a standard deduction. <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.060\">RCW 82.87.060</a> sets it at $250,000 per individual, or $250,000 combined for spouses and domestic partners, adjusted for inflation. The adjusted figure is $270,000 for 2024 and $278,000 for 2025.</p><p>Gain from selling a qualified family-owned small business and certain charitable gifts can be deducted as well. If another state or country taxed the same gain, a credit applies, limited to the smaller of the Washington tax on those assets or the tax paid elsewhere. Losses do not carry forward into later years.</p><table><thead><tr><th>Tax feature</th><th>Amount or rule</th></tr></thead><tbody><tr><td>Base rate on Washington capital gains</td><td>7%</td></tr><tr><td>Added rate on gains above $1,000,000</td><td>2.90% from January 1, 2025</td></tr><tr><td>Standard deduction, 2025</td><td>$278,000 per individual or couple</td></tr><tr><td>House sold by recorded deed</td><td>Exempt</td></tr><tr><td>Credit when another state taxed the gain</td><td>Smaller of the Washington tax or the other tax</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Real estate excise tax (REET) when you sell",
+   "html": "<p>The Washington tax that does touch a home sale is REET, short for real estate excise tax. It applies to all real property sales unless a particular exemption fits. Sellers customarily cover it. When they skip it, the buyer picks up the obligation, and the debt may attach to the house as a lien.</p><p>Pay it to the treasurer in the county of the property. The clock starts on the date of sale, which means the notarization date of the deed, not the later recording date. One month past that date, penalty and interest begin. Send the treasurer the affidavit, the deed and the payment together.</p><p>The state portion is graduated. Sales beginning January 1, 2027 use these tiers:</p><ul><li>1.1 percent on the part of the price up to $551,000.</li><li>1.28 percent on the part from $551,000 to $1,551,000.</li><li>2.75 percent on the part from $1,551,000 to $3,051,000.</li><li>3.0 percent on the part above $3,051,000.</li></ul><p>Local REET is added on top. Farmland and timberland carry a flat 1.28 percent state rate. If you close before January 1, 2027, phone the treasurer's office for the thresholds in force and the local rate in your city.</p>"
+  },
+  {
+   "h2": "Federal tax on the gain",
+   "html": "<p>Plenty of sellers end up owing no federal tax at all. A single filer can shield up to $250,000 of profit on a main home, and joint filers up to $500,000. Two tests apply. You had to own the home, and also live in it, for at least 24 months out of the 5 years ahead of closing. Those months need not line up, and the shield is generally unavailable if you used it on another sale in the previous two years.</p><p>Reporting and owing are different questions. If the closing agent sends you a Form 1099-S, the sale goes on your return even when every dollar of gain is covered. The same goes when part of the gain is not covered. Use Form 8949 and Schedule D where required, with IRS Publication 523 for worksheets.</p><p>Your gain equals the sale price minus adjusted basis. Basis begins at your purchase cost and grows by value-adding improvements. A gifted or inherited home follows different basis rules, covered in Publication 551, so an inherited house may start from a figure far from what the family once paid.</p>"
+  },
+  {
+   "h2": "Return and payment dates for the state tax",
+   "html": "<p>When other assets do create a state bill, the return falls due on the same day as your federal income tax return, and filing is online through My DOR with the federal return attached. You can get more time to file only if a federal extension is already in hand and you ask the state for one in My DOR by April 15. More time to file never means more time to pay.</p><p>The payment deadline is usually April 15, moving to the next business day if that is a weekend or holiday. Starting with tax year 2026 you can prepay as early as six months before it is due. Late filing and late payment add penalties and interest, and paying under 80 percent of what you owe is a substantial underpayment that adds another penalty. Once you ask for an extension or send a payment, a return is required even if the tax comes to zero.</p>"
+  },
+  {
+   "h2": "Planning the sale around these taxes",
+   "html": "<p>Begin with the closing date. REET runs off the whole selling price, so work out your price tier before accepting an offer and get the combined state and local number from the treasurer or closing agent. Hold on to the paperwork supporting the price and any exemption for at least four years, since Revenue may audit any transaction.</p><p>Next, set the house apart from other things you sold during the year. A deeded house is outside the capital gains tax, but shares of stock or a business stake may be inside it. Your tax preparer can total those and apply the deduction. Finally, work through the federal side: purchase and move-in dates, improvements, and depreciation if you rented out part of the home.</p><p>Inherited homes, houses with missed payments and houses needing costly repairs are taxed the same way as any other. A cash sale can spare you showings and repair requests, yet the excise tax still comes due. Before signing a contract with a price on it, call the Department of Revenue, the treasurer or a tax professional.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Washington capital gains tax on selling a primary residence?",
+   "a": "No. RCW 82.87.050 exempts real estate that changes hands by recorded deed, so the state capital gains excise tax stays out of a house closing. REET is a separate tax that still applies, and federal gain rules run on their own track."
+  },
+  {
+   "q": "Who pays the real estate excise tax in Washington?",
+   "a": "Usually the seller. When the seller leaves it unpaid, the buyer is on the hook and a lien can follow. Payment goes to the treasurer in the property's county."
+  },
+  {
+   "q": "How much of my home sale gain can I exclude on my federal return?",
+   "a": "A single filer can exclude up to $250,000 and joint filers up to $500,000, provided the ownership and use tests are met. That means 24 months of owning and living there within the last 5 years."
+  },
+  {
+   "q": "What is the Washington capital gains tax rate?",
+   "a": "Seven percent of Washington capital gains for an individual, with 2.90 percent more on the slice over $1,000,000 starting January 1, 2025. The standard deduction comes off first and is $278,000 for 2025."
+  },
+  {
+   "q": "When is the real estate excise tax due on a Washington house sale?",
+   "a": "The sale date sets the due date, and that is the day the deed is notarized. Penalty and interest start once a month goes by with the tax unpaid."
+  }
+ ],
+ "sources": [
+  {
+   "title": "RCW 82.87.040 Tax imposed, long-term capital assets",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.040"
+  },
+  {
+   "title": "RCW 82.87.050 Exemptions",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.050"
+  },
+  {
+   "title": "RCW 82.87.060 Deductions",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.060"
+  },
+  {
+   "title": "RCW 82.87.100 Allocation and credit",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.87.100"
+  },
+  {
+   "title": "Washington Department of Revenue, Capital gains tax",
+   "url": "https://dor.wa.gov/taxes-rates/other-taxes/capital-gains-tax"
+  },
+  {
+   "title": "Washington Department of Revenue, Real estate excise tax",
+   "url": "https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax"
+  },
+  {
+   "title": "RCW 82.45.060 Tax on sale of property",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=82.45.060"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  }
+ ]
 }
