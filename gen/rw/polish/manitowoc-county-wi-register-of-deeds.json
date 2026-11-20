@@ -7,11 +7,11 @@
   },
   {
    "h2": "Who sells houses here",
-   "html": "<p>Manitowoc County counted 81,359 residents in 2020, with an estimate of 81,710 for July 2025. About 24.8 percent of residents are 65 or older, so many listings start with a family handling a parent's house. The county holds 38,298 housing units, 77.1 percent of them owner-occupied. The median owner-occupied home is worth $186,900, and median gross rent is $797 monthly.</p><p>With values in that range, a $30 recording charge and the state transfer fee barely register next to repairs and holding costs. The filing steps don't change whether the house is worth $90,000 or $400,000.</p>"
+   "html": "<p>Manitowoc County counted 81,359 residents in 2020, with an estimate of 81,710 for July 2025. About 24.8 percent of residents are 65 or older, so many listings start with a family handling a parent's house. The county holds 38,298 housing units, 77.1 percent of them owner-occupied. The median owner-occupied home is worth $186,900, and median gross rent is $797 monthly.</p><p>At these prices the recording charge and transfer fee are minor beside what you spend on repairs or carrying the house. The filing steps don't change whether the house is worth $90,000 or $400,000.</p>"
   },
   {
    "h2": "Recording fees",
-   "html": "<p>Each deed you record costs $30, paid up front. A copy of a recorded document runs $2 for page one and $1 for every page beyond it, and certifying a copy adds $1. State law fixes these base charges for all Wisconsin counties.</p><table><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Deed or mortgage recording</td><td>$30 per document</td></tr><tr><td>Copy of a filed document</td><td>$2 first page, $1 per added page</td></tr><tr><td>Certification of a copy</td><td>$1 extra</td></tr><tr><td>Subdivision or condominium plat</td><td>$50</td></tr><tr><td>State transfer fee on a sale</td><td>30 cents per $100 of value</td></tr></tbody></table><p>Search or special handling charges beyond these are set by the office, so ask the Register of Deeds for its current schedule.</p>"
+   "html": "<p>Each deed you record costs $30, paid up front. Pulling a copy of anything on file costs $2 for the first sheet and $1 for each sheet after, with a $1 surcharge if you want it certified. State law fixes these base charges for all Wisconsin counties.</p><table><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Deed or mortgage recording</td><td>$30 per document</td></tr><tr><td>Copy of a filed document</td><td>$2 first page, $1 per added page</td></tr><tr><td>Certification of a copy</td><td>$1 extra</td></tr><tr><td>Subdivision or condominium plat</td><td>$50</td></tr><tr><td>State transfer fee on a sale</td><td>30 cents per $100 of value</td></tr></tbody></table><p>Search and special handling charges are set by the office itself. Ask for the current schedule if you need either one.</p>"
   },
   {
    "h2": "How the state transfer fee works",
@@ -19,23 +19,23 @@
   },
   {
    "h2": "Deed format rules",
-   "html": "<p>Wis. Stat. 59.43(2m) lets the office bounce any instrument that departs from the standard layout. Here is what it looks for:</p><ul><li>The title goes on page one, somewhere from 0.5 inch to 6 inches down from the top.</li><li>Reserve a square 3 inches on each side in the page one top right corner, because the stamp goes there.</li><li>Paper copies need return information on page one. E-filed ones don't.</li><li>The sheets should be white, at least 20 pound stock, 8.5 inches wide and either 11 or 14 inches long.</li><li>Ink must be black, blue or red, and sheets can't be hinged or joined on the top or sides.</li><li>Say who drafted the instrument.</li><li>Write or type the names of the grantor, the grantee and any notary so they can be read.</li></ul><p>Black out nothing yourself; instead leave any Social Security number off the document entirely, because subsection (1m) bars recording one that shows it. A packet sent in as a single transaction can be returned whole if just one piece breaks the layout rules.</p>"
+   "html": "<p>Wis. Stat. 59.43(2m) lets the office bounce any instrument that departs from the standard layout. Here is what it looks for:</p><ul><li>The title goes on page one, somewhere from 0.5 inch to 6 inches down from the top.</li><li>Reserve a square 3 inches on each side in the page one top right corner, because the stamp goes there.</li><li>Paper copies need return information on page one. E-filed ones don't.</li><li>The sheets should be white, at least 20 pound stock, 8.5 inches wide and either 11 or 14 inches long.</li><li>Ink must be black, blue or red, and sheets can't be hinged or joined on the top or sides.</li><li>Say who drafted the instrument.</li><li>Write or type the names of the grantor, the grantee and any notary so they can be read.</li></ul><p>Keep Social Security numbers off the document entirely, because subsection (1m) bars recording one that shows it. A packet sent in as a single transaction can be returned whole if just one piece breaks the layout rules.</p>"
   },
   {
    "h2": "Can a deed be e-recorded here?",
-   "html": "<p>It can. The county names four approved vendors, and each runs its own enrollment: Simplifile (713-210-4323), Hopdox (385-501-5103), Indecomm (651-765-6400) and EPN (888-325-3365). When a title company or closing attorney manages your sale, they'll likely send the deed through one of those.</p><p>A Wisconsin Electronic Real Estate Transfer Return (ERETR) is required for every deed too. Save it before you press submit, then print the receipt. That receipt has to accompany the original deed at the counter, and closing the page without printing means starting the return over.</p>"
+   "html": "<p>It can. Four vendors are named by the county, and you enroll with each separately: Simplifile (713-210-4323), Hopdox (385-501-5103), Indecomm (651-765-6400) and EPN (888-325-3365). If a title company or closing attorney runs your sale, expect them to use one.</p><p>A Wisconsin Electronic Real Estate Transfer Return (ERETR) is required for every deed too. Save it before you press submit, then print the receipt. That receipt has to accompany the original deed at the counter, and closing the page without printing means starting the return over.</p>"
   },
   {
    "h2": "Deed fraud alerts",
-   "html": "<p>Ask the office for its free alert service. You get notice whenever a paper is recorded under your name or against your property, which lets you check that it's real. The county calls real estate fraud uncommon in Wisconsin, and enrollment is a single call to 920-683-4660.</p><p>Alerts earn their keep for absentee owners, for empty inherited houses, and for anyone mid-sale. After your own deed is filed, the alert keeps watch for later filings.</p>"
+   "html": "<p>The office runs a free alert service worth joining. A notice reaches you each time something is filed under your name or on your parcel, so you can verify it. The county calls real estate fraud uncommon in Wisconsin, and enrollment is a single call to 920-683-4660.</p><p>Alerts pay off for absentee owners, vacant inherited houses and anyone mid-sale. Once your own deed is filed, the same alert watches for anything recorded later, and that is useful peace of mind after closing.</p>"
   },
   {
    "h2": "Order of steps on a sale",
-   "html": "<p>A typical Manitowoc County closing runs in a fixed order. The seller signs a deed that meets the layout rules. Someone files the electronic transfer return, usually the closing agent, and prints the receipt. The deed and receipt then go to the counter or through an e-recording vendor, with the $30 fee and any transfer fee paid. Last, the register stamps the document and adds it to the permanent index. A buyer paying cash skips the lender's mortgage, so there is one less document to record, but the deed and return are still needed. Ask for a copy of the filed deed afterward, since certified copies cost only $1 extra.</p>"
+   "html": "<p>Closings here follow a set sequence. First the seller signs a deed laid out to the rules above. Someone files the electronic transfer return, usually the closing agent, and prints the receipt. The deed and receipt then go to the counter or through an e-recording vendor, with the $30 fee and any transfer fee paid. Last, the register stamps the document and adds it to the permanent index. A buyer paying cash skips the lender's mortgage, so there is one less document to record, but the deed and return are still needed. Ask for a copy of the filed deed afterward, since certified copies cost only $1 extra.</p>"
   },
   {
    "h2": "Checklist before you file",
-   "html": "<p>Run through a few things so you only make one trip. Compare the deed with the layout points above and confirm no Social Security number appears. Complete the electronic transfer return and print its receipt. Pack the $30 recording fee along with the transfer fee, unless the deed cites a 77.25 exemption. A title company closing your sale normally takes care of this; so does the closing agent for a cash buyer. If a detail on your document puzzles you, phone 920-683-4660 first.</p>"
+   "html": "<p>Run through a few things so you only make one trip. Compare the deed with the layout points above and confirm no Social Security number appears. Complete the electronic transfer return and print its receipt. Bring the $30 recording fee, and the transfer fee too unless the deed cites a 77.25 exemption. A title company closing your sale normally takes care of this; so does the closing agent for a cash buyer. If a detail on your document puzzles you, phone 920-683-4660 first.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +45,7 @@
   },
   {
    "q": "What does recording a deed cost here?",
-   "a": "Recording is $30 per document, paid in advance. A non-exempt sale also owes the state transfer fee of 30 cents per $100 of value. Copies are $2 for page one and $1 for each added page, plus $1 to certify."
+   "a": "Recording is $30 per document, paid in advance. A non-exempt sale also owes the state transfer fee of 30 cents per $100 of value. A copy is $2 for its first page and $1 per extra page, and $1 more certifies it."
   },
   {
    "q": "Is anything filed with the state before recording?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Can I use e-recording in Manitowoc County?",
-   "a": "Yes, through Simplifile, Hopdox, Indecomm or EPN, each of which has its own sign-up number. Your title company or closing attorney can tell you whether they'll file the deed that way."
+   "a": "Yes, through Simplifile, Hopdox, Indecomm or EPN. Each handles its own enrollment by phone. Whoever runs your closing can say if they will file the deed this way."
   }
  ],
  "sources": [
