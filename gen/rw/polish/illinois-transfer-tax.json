@@ -1,0 +1,93 @@
+{
+ "slug": "illinois-transfer-tax",
+ "sections": [
+  {
+   "h2": "The Illinois transfer tax on a home sale",
+   "html": "<p>The state levies a stamp of 50 cents on every $500 block, or part of a block, of the value written on the transfer declaration (35 ILCS 200/31-10). The tax applies to deeds, to beneficial interests in a land trust and to controlling interests in a real estate entity. Liability doesn't depend on recording, and a series of related transactions is treated as one transfer.</p><p>Counties may add a second layer and a few cities add a third. A seller's closing statement therefore shows the state stamp plus any county or municipal charge. Chicago is the best known city layer.</p><p>The statute leaves the split between the two sides to the sales agreement. Whatever your contract says about stamps controls, so read that paragraph with your closing attorney or title agent before signing.</p>"
+  },
+  {
+   "h2": "State, county and Chicago rates",
+   "html": "<p>Each layer counts value in blocks of $500, and the charge per block differs.</p><table><caption>Transfer tax layers in Illinois, per $500 of value or fraction</caption><thead><tr><th>Layer</th><th>Rate</th><th>Who sets it</th></tr></thead><tbody><tr><td>State of Illinois</td><td>50 cents</td><td>Property Tax Code, Article 31</td></tr><tr><td>County (optional)</td><td>25 cents</td><td>County board, if it adopts the tax</td></tr><tr><td>City of Chicago, City portion</td><td>$3.75</td><td>Municipal Code chapter 3-33</td></tr><tr><td>City of Chicago, CTA portion</td><td>$1.50</td><td>Municipal Code chapter 3-33</td></tr><tr><td>City of Chicago, combined</td><td>$5.25</td><td>Buyer generally owes $3.75, seller $1.50</td></tr></tbody></table><p>The county tax comes from 55 ILCS 5/5-1031. The recorder or registrar of titles collects it ahead of recording, and it sits on top of every other privilege tax imposed by the state or a municipality. Ask the county recorder whether your county has adopted it.</p>"
+  },
+  {
+   "h2": "Who collects the tax and when it is paid",
+   "html": "<p>The county recorder or registrar of titles collects the state tax. Under 35 ILCS 200/31-15, paper revenue stamps are being replaced, and counties now issue electronic stamps or another electronic mark. Each recorder files a return with the Department of Revenue and remits the money by the 10th of the following month.</p><p>A deed can't be accepted for recording until stamps in the right amount have been bought, unless the deed is exempt. The recorder may affix the stamp before or after recording at the grantee's request. Ask your closing agent how the stamps are ordered and paid from the settlement funds.</p><ul><li>The tax is computed from the value stated on the declaration, not from the assessed value on the tax bill.</li><li>The declaration goes to the recorder with the deed, or within 3 business days after the transfer, whichever comes first.</li><li>The Department of Revenue's MyDec system accepts the state forms and Chicago's Form 7551. Counties outside MyDec use fill-in PDF forms.</li></ul>"
+  },
+  {
+   "h2": "Transfers exempt from the state tax",
+   "html": "<p>Section 31-45 sets out the exempt instruments, and a few of them touch owners in financial trouble. Lenders who take a deed after foreclosure or through a deed-in-lieu pay no state stamp, and the same is true of tax deeds. Instruments given as security for a debt, instruments releasing that security and partition deeds are also on the list. For some exempt transfers a declaration must still go to the recorder.</p><ul><li>Transfers made for actual consideration below $100.</li><li>Corrective or confirming deeds that add no new consideration to an earlier recorded deed.</li><li>Transfers involving government bodies and qualifying charitable, religious or educational groups, where the declaration is still required.</li><li>True exchanges of real estate, with any boot paid in money taxable.</li><li>Principal residence purchases under the Home Ownership Made Easy Act, again with a declaration.</li></ul><p>Nothing is exempt automatically. The deed or the declaration must cite the exemption that fits, and the recorder can tell you how your county wants that notation worded.</p>"
+  },
+  {
+   "h2": "What Form PTAX-203 asks a seller to report",
+   "html": "<p>Illinois uses Form PTAX-203, its transfer declaration, on most sales. One seller and one buyer, or their agents, sign it. State assessment studies draw on the answers, so the form collects more than a price.</p><ul><li>The full actual consideration, excluding credits or refunds for repairs and improvements.</li><li>Personal property in the sale. An itemized list is required when personal property on a residence exceeds 5 percent of the price.</li><li>Whether the buyer plans to live there, and whether an agent, a sign or an ad was used to sell.</li><li>Special circumstances such as a court-ordered sale (including probate and foreclosure), a short sale, a bank-owned resale or a seller or buyer that is a financial institution.</li><li>The homestead exemption dollar amounts printed on the latest tax bill.</li></ul><p>Willfully falsifying or leaving out required information is a Class B misdemeanor for a first offense. A buyer who knowingly gives a false grantee identity in Cook County faces its own misdemeanor charge. Check the form for accuracy before signing, even when the title company prepares it.</p>"
+  },
+  {
+   "h2": "How the Chicago transfer tax works for a seller",
+   "html": "<p>Chicago taxes the transfer of title or a beneficial interest in real property in the city, whether or not the contract was signed in Chicago. For transfers on or after April 1, 2008, the rate is $3.75 per $500 for the City portion and $1.50 per $500 for the CTA portion, a combined $5.25. In general the buyer is responsible for $3.75 and the seller for $1.50.</p><p>Exemptions include transfers to lenders in foreclosure or in lieu of foreclosure, tax deeds, deeds securing debt, transfers under $500, and a court-ordered transfer of a primary residence between members of a couple in a divorce or legal separation. No transfer is exempt unless the declaration describes the facts and attaches support.</p><p>A refund of the CTA portion is available to a transferee who is 65 or older, occupies the home as a personal dwelling for at least a year, and bought at $250,000 or less. The buyer claims that refund through the Tax Division, so it doesn't change what a Chicago seller owes.</p>"
+  },
+  {
+   "h2": "Mortgages, probate and as-is sales",
+   "html": "<p>If the deed states that title passes subject to a mortgage, the balance still outstanding drops out of the taxable basis. The PTAX-203 has a separate line for that amount, which makes the deed wording important, and your closing attorney can say which wording fits.</p><p>A sale by an estate is stamped like any other sale. The form includes a court-ordered sale box that covers probate. A lender that takes title by foreclosure deed or deed in lieu pays no state stamp. The lender's later resale is an ordinary sale and is reported on the form's bank REO line.</p><p>Selling as is leaves the tax unchanged. The declared price is what was actually paid, and the instructions exclude amounts credited or refunded to the buyer for repairs, so keep any written repair credit in the closing file.</p>"
+  },
+  {
+   "h2": "Checklist before closing",
+   "html": "<p>Confirm the transfer tax line early so it holds no surprises when you sign.</p><ul><li>Call the recorder to learn whether the county levies its own tax and what proof of exemption the office takes.</li><li>Match each layer to the payer named in your sales agreement.</li><li>Read the draft PTAX-203 line by line, starting with price, personal property and the special-circumstance boxes.</li><li>For a Chicago address, ask for the Form 7551 total and each side's share.</li><li>File a copy of the signed declaration with your closing papers.</li></ul><p>The steps are the same for a direct as-is cash sale and for a listed sale: one declaration, one recorder, the same stamp.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Illinois state transfer tax rate?",
+   "a": "Fifty cents per $500 block, rounded up for any partial block, based on the value stated in the declaration (35 ILCS 200/31-10). Counties may add 25 cents per $500, and Chicago adds its own tax."
+  },
+  {
+   "q": "Who pays the transfer tax in Illinois?",
+   "a": "The statute leaves it to the sales agreement. In Chicago the buyer generally owes $3.75 of the $5.25 per $500 and the seller $1.50."
+  },
+  {
+   "q": "Does a foreclosure deed or tax deed owe transfer tax?",
+   "a": "Neither does. Both appear on the section 31-45 exemption list. Whether a declaration is needed depends on the exemption, so the recorder can confirm."
+  },
+  {
+   "q": "When is the declaration due?",
+   "a": "Hand it to the recorder with the deed, or within 3 business days of the transfer if that comes first. Without it, the deed is rejected unless an exemption applies."
+  },
+  {
+   "q": "How are the stamps issued now?",
+   "a": "Counties are replacing paper stamps with electronic ones. Ask the recorder what the recorded deed will show."
+  }
+ ],
+ "sources": [
+  {
+   "title": "35 ILCS 200/31-10",
+   "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/003502000K31-10.htm"
+  },
+  {
+   "title": "35 ILCS 200/31-15",
+   "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/003502000K31-15.htm"
+  },
+  {
+   "title": "35 ILCS 200/31-25",
+   "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/003502000K31-25.htm"
+  },
+  {
+   "title": "35 ILCS 200/31-45",
+   "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/003502000K31-45.htm"
+  },
+  {
+   "title": "55 ILCS 5/5-1031",
+   "url": "https://www.ilga.gov/Documents/legislation/ilcs/documents/005500050K5-1031.htm"
+  },
+  {
+   "title": "IDOR Real Estate Transfer Tax",
+   "url": "https://tax.illinois.gov/research/taxinformation/property/rett.html"
+  },
+  {
+   "title": "IDOR PTAX-203 instructions",
+   "url": "https://tax.illinois.gov/localgovernments/property/general-information/ptax-203_instructions.html"
+  },
+  {
+   "title": "Chicago Real Property Transfer Tax",
+   "url": "https://www.chicago.gov/city/en/depts/fin/supp_info/revenue/tax_list/real_property_transfertax.html"
+  }
+ ]
+}

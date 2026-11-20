@@ -1,0 +1,97 @@
+{
+ "slug": "louisiana-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How Louisiana property tax works",
+   "html": "<p>Property tax here is built locally. A parish assessor sets the value, voters in the parish approve the millage rates, and the parish sheriff usually collects the bill. The state constitution fixes the assessment percentages, and the Louisiana Tax Commission hears appeals that come up from local boards.</p><p>Louisiana has parishes where most states have counties, so the offices you deal with are the parish assessor and the parish sheriff, whether the house is in New Orleans, Baton Rouge or a small town. The East Baton Rouge Parish Sheriff's office is blunt about the split: the sheriff does not decide how much you owe. The assessed value comes from the assessor, and the millage comes from votes by residents of the parish.</p>"
+  },
+  {
+   "h2": "Assessment percentages",
+   "html": "<p>Land and residential improvements are assessed at 10% of fair market value, and other property at 15%. Article VII, section 18 of the Louisiana Constitution sets these levels, along with 25% for public service property other than land. The <a href=\"https://www.legis.la.gov/Legis/Law.aspx?d=206545\">full text of section 18</a> is on the legislature's site.</p><p>Property must be reappraised at least every four years. When a reappraisal raises the assessed value of a homestead-exempt house by more than 50% over the prior year, the added tax is phased in over four years. The phase-in ends when the property changes hands, so a buyer can face the full figure that a long-time owner never paid. The constitution also freezes the assessment level for qualifying owners, including those 65 or older, subject to an income limit.</p>"
+  },
+  {
+   "h2": "Figuring a tax bill",
+   "html": "<p>The formula is short. Take the fair market value, subtract any homestead exemption, apply the 10% level, then multiply by the total millage for your tax districts. Millage differs from parish to parish and even between districts inside a parish, so ask the assessor for the rates that apply to your address.</p><p>Because the homestead exemption is a fixed amount, each extra dollar of value above it is taxed in full. The East Baton Rouge sheriff adds a warning: the homestead exemption covers parish taxes only, so city taxes and fire or crime fees are still owed on the full amount.</p>"
+  },
+  {
+   "h2": "Homestead exemption",
+   "html": "<p>The homestead exemption removes parish property tax on the first $75,000 of a home's market value, which is $7,500 of assessed value. Owners apply with the parish assessor, and the home must be their primary residence.</p><ul><li>It applies to one home per owner.</li><li>In East Baton Rouge Parish the owner must own and occupy the residence by December 31 of the tax year.</li><li>It does not reduce city taxes or fire and crime district fees there.</li><li>A tax sale can cost the owner the exemption.</li></ul><p>The exemption belongs to an owner who lives in the home. A buyer who will not occupy it would not qualify, so your current bill may understate what the next owner pays. If a buyer asks about taxes, say so plainly.</p>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>Taxes for the year are due by December 31, and the roll normally reaches the collector by November 15. Sheriffs mail bills in the last week of November.</p><ul><li>After December 31 the taxes are delinquent, and interest runs at 1% per month.</li><li>The East Baton Rouge sheriff adds a collection fee if taxes are unpaid after January 31, followed by certified notice and advertising costs.</li><li>Under La. R.S. 47:2153 the tax collector sends certified mail by the first Monday of February, and the owner has 20 days to pay before the lien is auctioned.</li><li>Bidders may be required to put down a deposit of up to $1,000.</li></ul><p>Louisiana's newer process auctions a tax lien before it auctions the house. The winning bidder gets a recorded tax lien certificate. The owner keeps ownership and possession until a court judgment is executed, and meanwhile the lienholder may not evict the owner or collect rent. To release the lien, the owner pays the auction price, interest of up to 1% a month, a 5% penalty and costs, and can do so any time before an enforcement action is filed.</p><p>The older tax sale process lets the owner redeem within three years from recordation by paying a 5% penalty plus 1% interest a month. Parishes can differ on timing, so ask your sheriff's office which process applies.</p>"
+  },
+  {
+   "h2": "How to appeal your assessment",
+   "html": "<p>Start with the parish assessor and the board of review, and only then go to the Louisiana Tax Commission and district court. Each step has a short window.</p><table><thead><tr><th>Step</th><th>Deadline or rule</th></tr></thead><tbody><tr><td>Request a written notice of assessment</td><td>Ask no earlier than June 1; the assessor must receive it by June 15 (R.S. 47:1992)</td></tr><tr><td>Inspection of the roll</td><td>15 days between August 15 and September 15 in most parishes; July 15 to August 15 in Orleans</td></tr><tr><td>Board of review complaint</td><td>Give the board at least seven days' notice; the board may raise or lower the value</td></tr><tr><td>Appeal to the Tax Commission</td><td>Hearings begin within ten days of receiving the certified lists (R.S. 47:1989)</td></tr><tr><td>District court</td><td>File within thirty days of the commission's decision</td></tr></tbody></table><p>The assessor certifies the rolls to the board on or before October 1. The board must convene hearings on or before September 15 and certify its list to the Tax Commission by October 20. The commission may affirm, remand, reverse or modify an assessment. A taxpayer who sues pays the disputed amount under protest, and under R.S. 47:1998 the undisputed part is paid without protest. The statutes are on Justia: <a href=\"https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-1992/\">R.S. 47:1992</a> and <a href=\"https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-1989/\">R.S. 47:1989</a>.</p>"
+  },
+  {
+   "h2": "Selling a Louisiana house when taxes are owed",
+   "html": "<p>Taxes follow the property, and the sheriff does not split them between buyer and seller. Tax, interest, penalties and fees stay in effect until paid regardless of who owns the property, and a private agreement between buyer and seller does not bind the collector.</p><p>A sale after January 1 can leave the bill in the previous owner's name on the roll, because the assessor sets values as of January 1. Louisiana also lets an assessor add omitted property for up to three back years under R.S. 47:1966, so a house missing from the roll can produce a catch-up bill.</p><ul><li>Ask the sheriff's tax office for the account balance before listing or signing.</li><li>Settle the current year's bill at closing and put the split in writing.</li><li>Under R.S. 9:2721 the deed names the person responsible for property taxes and the address for notices, so get that detail right.</li><li>Confirm the homestead exemption status with the assessor.</li></ul><p>If back taxes are already piling up, we can look at the house as it stands and explain how the payoff would work at closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Louisiana homestead exemption?",
+   "a": "It removes parish property tax on the first $75,000 of a primary residence's value, which is $7,500 of assessed value. You apply through the parish assessor. City taxes and fire or crime fees in East Baton Rouge are not covered."
+  },
+  {
+   "q": "When are Louisiana property taxes due?",
+   "a": "Taxes are due by December 31 of the tax year. Bills are mailed in late November, and interest at 1% a month starts after December 31. A collection fee and advertising costs can follow after January 31."
+  },
+  {
+   "q": "What percent of value is a Louisiana home assessed at?",
+   "a": "Land and residential improvements are assessed at 10% of fair market value under Article VII, section 18 of the Louisiana Constitution. Other property is assessed at 15%. Reappraisal happens at least every four years."
+  },
+  {
+   "q": "Can I sell my Louisiana house with back taxes owed?",
+   "a": "Yes. The taxes are paid from the proceeds or by the buyer at closing, since they stay attached to the property. A recorded tax lien must be cleared before clean title passes, and the sheriff can give you a payoff figure."
+  },
+  {
+   "q": "How do I dispute my Louisiana assessment?",
+   "a": "Ask the assessor for the notice, then bring a complaint to the parish board of review during its hearing window. A board decision can be appealed to the Louisiana Tax Commission, and then to district court within thirty days of the commission's decision."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Louisiana Constitution Art. VII, Sec. 18 (legis.la.gov)",
+   "url": "https://www.legis.la.gov/Legis/Law.aspx?d=206545"
+  },
+  {
+   "title": "La. R.S. 47:1992 board of review (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-1992/"
+  },
+  {
+   "title": "La. R.S. 47:1989 Tax Commission appeals (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-1989/"
+  },
+  {
+   "title": "La. R.S. 47:2153 tax lien auction (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-47/rs-47-2153/"
+  },
+  {
+   "title": "La. R.S. 47:1966 omitted property (legis.la.gov)",
+   "url": "https://legis.la.gov/legis/LawPrint.aspx?d=101432"
+  },
+  {
+   "title": "La. R.S. 9:2721 (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-9/rs-9-2721/"
+  },
+  {
+   "title": "East Baton Rouge Parish Sheriff, tax payments FAQ",
+   "url": "https://www.ebrso.org/services/ebrso-tax-payments/"
+  },
+  {
+   "title": "St. James Parish Assessor, assessments",
+   "url": "https://www.stjamesassessor.com/assessments/"
+  },
+  {
+   "title": "East Baton Rouge Parish Assessor, general information",
+   "url": "https://www.ebrpa.org/general-information/"
+  },
+  {
+   "title": "Louisiana (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Louisiana"
+  }
+ ]
+}

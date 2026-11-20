@@ -1,0 +1,93 @@
+{
+ "slug": "kansas-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Kansas tax capital gains on a house sale?",
+   "html": "<p>Yes. Kansas starts from your federal adjusted gross income, so any gain the IRS counts flows into your Kansas return. K.S.A. 79-32,117 builds Kansas adjusted gross income from federal AGI with listed modifications, and one rate schedule then applies to taxable income. Kansas has no separate capital gains rate.</p><p>The first question is therefore the federal one: is any of the gain taxable at all? If the IRS lets you exclude it, the excluded amount never reaches your federal AGI, and so it never reaches your Kansas return.</p><p>Sellers often confuse sale price with gain. The tax is figured on the difference between what you realize from the sale and your adjusted basis. A loss on a personal home is not deductible (<a href=\"https://www.irs.gov/taxtopics/tc409\">IRS Topic 409</a>).</p>"
+  },
+  {
+   "h2": "Federal home sale exclusion",
+   "html": "<p>If the house was your main home, you can exclude up to $250,000 of gain, or $500,000 on a joint return, once you meet the ownership and use tests (<a href=\"https://www.irs.gov/taxtopics/tc701\">IRS Topic 701</a>).</p><ul><li><strong>Ownership test:</strong> you owned the home at least 24 months out of the 5 years before the sale.</li><li><strong>Use test:</strong> you lived in it as a residence at least 24 months of those same 5 years. The two periods can fall at different times.</li><li><strong>Joint returns:</strong> either spouse can meet the ownership test, but both must meet the use test.</li><li><strong>Repeat sales:</strong> you generally can't take the exclusion if you excluded gain on another home during the prior two years.</li><li><strong>Reporting:</strong> if you receive a Form 1099-S, report the sale even when the whole gain is excludable.</li></ul><p>People on qualified official extended duty in the Uniformed Services, the Foreign Service or the intelligence community can elect to suspend the five year test period for up to 10 years.</p>"
+  },
+  {
+   "h2": "Federal rates on gain you can't exclude",
+   "html": "<p>For 2025, most net long-term capital gain is taxed at no more than 15% for most people, with 0% and 20% bands on either side. A gain is long-term when you held the home for more than one year. One year or less makes it short-term, taxed as ordinary income.</p><table><thead><tr><th>Filing status (2025)</th><th>0% rate up to</th><th>15% rate up to</th></tr></thead><tbody><tr><td>Single</td><td>$48,350</td><td>$533,400</td></tr><tr><td>Married filing jointly</td><td>$96,700</td><td>$600,050</td></tr><tr><td>Head of household</td><td>$64,750</td><td>$566,700</td></tr></tbody></table><p>These are taxable income thresholds, and anything above the 15% ceiling is taxed at 20%. A maximum 25% rate applies to unrecaptured section 1250 gain from real property, which can matter if you depreciated a rental. Higher earners may also owe the net investment income tax.</p>"
+  },
+  {
+   "h2": "Kansas tax on the gain",
+   "html": "<p>Kansas uses a single schedule for taxable income. For tax year 2025, a single filer pays 5.2% on the first $23,000, then $1,196 plus 5.58% of the excess. Joint filers use $46,000 as the break point and $2,392 as the base. The 2025 standard deduction is $3,605 for single filers, $8,240 for joint filers, $4,120 for married filing separately and $6,180 for head of household.</p><p>Kansas has enacted further income tax rate cuts, so check the instruction booklet for the year you sell instead of relying on the 2025 figures.</p>"
+  },
+  {
+   "h2": "Adjusting your Kansas basis",
+   "html": "<p>Kansas allows a subtraction where your Kansas adjusted basis is higher than your federal basis, limited to the gain included in federal AGI (K.S.A. 79-32,117(c)(iii)).</p><p>Basis is generally what you paid. For an inherited house, <a href=\"https://www.irs.gov/publications/p551\">IRS Publication 551</a> sets basis at the fair market value on the date of the owner's death. An heir who sells soon after inheriting can end up with little or no gain, which is why a date-of-death appraisal is worth ordering. Our page on <a href=\"/kansas-estate-tax/\">Kansas estate and inheritance tax</a> covers the inheritance side.</p><p>If you sold under a contract that spreads payments across years, you made an installment sale. The IRS has you report it under the installment method unless you elect out. The home exclusion stays available either way.</p>"
+  },
+  {
+   "h2": "Living outside Kansas but owning a Kansas house",
+   "html": "<p>The gain is still a Kansas matter. K.S.A. 79-3276(a) allocates capital gains and losses from sales of Kansas real property to Kansas, and a nonresident owner is taxed on gains realized from the sale of property located in Kansas.</p><p>For estimated tax, a nonresident considers only Kansas-source income when testing the conditions. You must make payments if your expected Kansas tax after withholding and credits is $500 or more and your withholding may fall short of the smaller of 90% of this year's tax or 100% of last year's tax.</p><ul><li>Voucher dates each year: April 15, June 15, September 15 and January 15.</li><li>Payments go to Estimated Tax, Kansas Department of Revenue, PO Box 3506, Topeka, KS 66625-3506, or online through the Kansas payment portal.</li><li>The Department's taxpayer line is 785-368-8222.</li></ul>"
+  },
+  {
+   "h2": "Forms for reporting a Kansas house sale",
+   "html": "<p>On the federal side, you calculate the gain on Form 8949 and summarize it on Schedule D of Form 1040 when a report is required. A Form 1099-S from the closing agent triggers reporting even if the gain is fully excluded.</p><p>A loss on a personal home isn't deductible. If you hold other capital losses, the net amount you can use against income in a year is limited to $3,000 ($1,500 if married filing separately), with the excess carried forward. A taxable gain may also require federal estimated tax payments (see Publication 505).</p><p>Kansas starts from the federal return, so a mistake in the federal calculation repeats on the state return. Keep the closing disclosure, improvement receipts and exclusion worksheet together for as long as the return could be questioned.</p>"
+  },
+  {
+   "h2": "Planning before you accept an offer",
+   "html": "<p>Work out basis and exclusion before you accept any offer, because those two numbers decide whether a tax bill exists at all. A cash buyer doesn't change the arithmetic, since the rules turn on basis, ownership and use rather than who writes the check.</p><p>Gather the closing statement from your purchase, receipts for improvements, and any appraisal or tax records that help fix the date-of-death value of an inherited house. A tax professional can tell you whether a sale late in the year, or payments under an installment contract, change which tax year the gain lands in.</p><p>Also decide early who will prepare the return. If the sale is close to the five year edge of the ownership and use tests, a few weeks can change the result, so check your dates against the calendar before you sign a contract.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a special Kansas capital gains rate?",
+   "a": "No. Gain flows into Kansas adjusted gross income from federal AGI and is taxed on the standard schedule, which for 2025 is 5.2% and 5.58%."
+  },
+  {
+   "q": "Do I owe Kansas tax if I exclude the gain on my federal return?",
+   "a": "Generally no, because excluded gain is not part of federal AGI, where Kansas begins. You still report the sale if you receive a Form 1099-S."
+  },
+  {
+   "q": "How long must I live in the house to use the exclusion?",
+   "a": "You need to have owned it and used it as your main home for at least 24 months out of the 5 years before the sale. The two periods don't have to be the same 24 months."
+  },
+  {
+   "q": "Does a nonresident owe Kansas tax on a Kansas house sale?",
+   "a": "Yes. K.S.A. 79-3276(a) allocates gains from Kansas real property to Kansas, so nonresidents are taxed on them."
+  },
+  {
+   "q": "What is my basis if I inherited the house?",
+   "a": "Generally the fair market value on the date of the previous owner's death (IRS Publication 551). A few exceptions exist, so read the publication or ask a tax professional."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "Kansas Department of Revenue: 2025 K-40ES Estimated Tax",
+   "url": "https://www.ksrevenue.gov/pdf/k-40es25.pdf"
+  },
+  {
+   "title": "Kansas Department of Revenue: Notice 25-06",
+   "url": "https://www.ksrevenue.gov/taxnotices/notice25-06.pdf"
+  },
+  {
+   "title": "Kansas Department of Revenue: 2024 Partnership or S Corporation Booklet",
+   "url": "https://www.ksrevenue.gov/scorpbook24.html"
+  },
+  {
+   "title": "Kansas Statutes: 79-3276 (allocation of capital gains from real property)",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/079_000_0000_chapter/079_032_0000_article/079_032_0076_section/079_032_0076_k/"
+  },
+  {
+   "title": "Kansas Statutes: 79-32,110 (rate schedules)",
+   "url": "https://www.ksrevisor.gov/statutes/chapters/ch79/079_032_0110.html"
+  }
+ ]
+}

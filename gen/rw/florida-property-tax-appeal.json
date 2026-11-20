@@ -2,62 +2,66 @@
  "slug": "florida-property-tax-appeal",
  "sections": [
   {
-   "h2": "How do I appeal a property tax assessment in Florida?",
-   "html": "<p>You file a sworn petition with the clerk of the county's value adjustment board, known as the VAB, within 25 days of the date the property appraiser mailed the Notice of Proposed Property Taxes. That notice is the TRIM notice, mailed in August.</p><p>An informal talk with the appraiser's office is available first, but s. 194.011(2) says it is not a prerequisite to a petition. The 25-day clock keeps running while you talk, so a petition is the safer way to hold your place.</p>"
+   "h2": "How to appeal your assessment",
+   "html": "<p>You start by filing a sworn petition with the clerk of your county's value adjustment board, called the VAB. The petition is due within 25 days of the date the property appraiser mailed your Notice of Proposed Property Taxes. That notice is the TRIM notice, and it goes out in August.</p><p>You can talk with the appraiser's office first, but an informal conference is not required before a petition, and the 25-day clock keeps running while you talk. Filing the petition is the safer way to hold your place.</p>"
   },
   {
-   "h2": "What deadlines apply to a Florida value adjustment board petition?",
-   "html": "<p>Two deadlines matter, and they depend on what you dispute. Under s. 194.011(3)(d), valuation issues must be filed on or before the 25th day after the notice is mailed. Denials of an exemption, an agricultural or high-water recharge classification, a historic-property classification or a deferral get 30 days after the mailing of the notice that carries the denial.</p><ul><li>Valuation dispute: 25 days from the mailed TRIM notice.</li><li>Exemption, classification or deferral denial: 30 days from the denial notice.</li><li>VAB hearing evidence: lists and copies exchanged at least 15 days before the hearing.</li><li>VAB written decision: due within 20 calendar days after the board's last session.</li><li>Circuit court suit: 60 days from certification of the assessment, or from the board decision in the cases the statute describes.</li></ul>"
+   "h2": "Deadlines for a VAB petition",
+   "html": "<p>Which deadline you face depends on what you dispute. A valuation complaint must be filed on or before the 25th day after the notice is mailed. A denied exemption, a denied agricultural or high-water recharge classification, a denied historic-property classification or a denied deferral gets 30 days after the mailing of the notice that carries the denial.</p><ul><li>Valuation dispute: 25 days from the mailed TRIM notice.</li><li>Exemption, classification or deferral denial: 30 days from the denial notice.</li><li>Hearing evidence: lists and copies exchanged at least 15 days before the hearing.</li><li>Written board decision: due within 20 calendar days after the board's last session.</li><li>Circuit court suit: 60 days from certification of the assessment, or from the board decision in the cases the statute describes.</li></ul>"
   },
   {
-   "h2": "Who can file or represent me before the board?",
-   "html": "<p>The owner can file, or can authorize someone to file. The petition must be signed by the taxpayer or come with written authorization or a power of attorney, and an authorization is valid for only one assessment year. Section 194.034(1) also lists who may appear for a petitioner: an employee of the taxpayer, a Florida Bar attorney, a licensed real estate appraiser or broker, or a certified public accountant retained by the taxpayer, plus an unpaid person holding written authorization.</p><p>The petition must name the property by parcel number and state about how much time you expect to need. The property appraiser can also be represented by an attorney, and witnesses on both sides testify under oath if either party asks.</p>"
+   "h2": "Who can file or represent you",
+   "html": "<p>You can file as the owner, or you can authorize someone to file for you. The petition needs your signature or a written authorization or power of attorney, and an authorization covers only one assessment year. A person who appears for you can be an employee of yours, a Florida Bar attorney, a real estate appraiser or broker with a license, a certified public accountant you retain, or an unpaid person holding your written authorization.</p><p>The petition names the property by parcel number and says about how much time you expect to need. The property appraiser can use an attorney too, and witnesses on both sides testify under oath if either party asks.</p>"
   },
   {
-   "h2": "What happens at a Florida VAB hearing?",
-   "html": "<p>The board hears the petitioner and the property appraiser, and each side can cross-examine witnesses under Department of Revenue rules. At least 15 days before the hearing, you give the appraiser your list of evidence, copies of documents and a summary of witness testimony, and the appraiser must send you the same, including the property record card. If the appraiser misses that duty, the hearing is rescheduled.</p><p>The board may weigh assessments of comparable properties in similar areas. It may not consider evidence the appraiser asked you for in writing and that you withheld. A verbatim record is kept.</p>"
+   "h2": "What happens at the VAB hearing?",
+   "html": "<p>The board hears you and the property appraiser, and each side can cross-examine witnesses under Department of Revenue rules. At least 15 days before the hearing you hand the appraiser your list of evidence, copies of documents and a summary of witness testimony. The appraiser owes you the same, including the property record card. If the appraiser skips that duty, the hearing is rescheduled.</p><p>The board can look at assessments of comparable properties in similar areas. It cannot consider evidence the appraiser asked you for in writing and you held back. A verbatim record of the hearing is kept.</p>"
   },
   {
-   "h2": "What should I gather before filing a Florida value petition?",
-   "html": "<p>Collect the TRIM notice, the parcel number and the property record card, which the appraiser must hand you before the hearing. Evidence that tends to matter is evidence of comparable properties in the same neighborhood, since the board may weigh assessments among comparable properties in homogeneous areas.</p><ul><li>The mailing date printed on the TRIM notice, to count 25 days.</li><li>Photos or repair estimates if condition is the issue.</li><li>Recent sales of similar homes nearby.</li><li>A signed authorization if someone else files for you.</li></ul><p>Ask the VAB clerk in your county for the Department of Revenue petition form and the local filing method, because counties differ in how they accept filings.</p><p>The petition is sworn, uses the form the Department of Revenue prescribes, and goes to the VAB clerk, who acknowledges receipt and gives the appraiser a copy. A county officer may not refuse the department's form if you choose to use it (s. 194.011(3)). Keep your acknowledgment, since it proves you met the deadline.</p>"
+   "h2": "What to gather before you file",
+   "html": "<p>Pull together the TRIM notice, the parcel number and the property record card, which the appraiser must give you before the hearing. Comparable properties in your neighborhood carry the most weight, since the board can weigh assessments among comparable properties in similar areas.</p><ul><li>The mailing date printed on the TRIM notice, so you can count 25 days.</li><li>Photos or repair estimates if the home's condition is the issue.</li><li>Recent sales of similar homes nearby.</li><li>A signed authorization if someone else files for you.</li></ul><p>Ask the VAB clerk in your county for the Department of Revenue petition form and the local way to submit it, because counties differ. The petition is sworn and goes to the clerk, who acknowledges receipt and passes a copy to the appraiser. A county officer cannot turn away the department's form if you choose to use it. Keep your acknowledgment, since it proves you met the deadline.</p>"
   },
   {
-   "h2": "What does the board decide, and what comes next?",
-   "html": "<p>Except when a petition is withdrawn or the appraiser agrees, the board issues a written decision with findings of fact and conclusions of law, within 20 calendar days after its last session. The clerk mails notice of the result to you and the appraiser, or sends it electronically if you chose that on the petition.</p><table><caption>Florida appeal steps by statute</caption><thead><tr><th>Step</th><th>Rule as printed</th><th>Source</th></tr></thead><tbody><tr><td>File with VAB clerk</td><td>25 days after notice (value), 30 days after denial notice (exemption or classification)</td><td>s. 194.011(3)(d)</td></tr><tr><td>Exchange evidence</td><td>At least 15 days before hearing</td><td>s. 194.011(4)</td></tr><tr><td>Board decision</td><td>Within 20 calendar days after last session</td><td>s. 194.034(2)</td></tr><tr><td>Circuit court action</td><td>60 days after certification or board decision</td><td>s. 194.171(2)</td></tr></tbody></table><p>If you disagree with the board, circuit courts have original jurisdiction over property tax matters under s. 194.171, with venue in the county of the property in most cases.</p><p>Keep your copy of the decision, because the 60-day court limit can run from the board's ruling in some cases.</p>"
+   "h2": "The board's decision and what comes next",
+   "html": "<p>Unless the petition is withdrawn or the appraiser agrees with you, the board issues a written decision with findings of fact and conclusions of law within 20 calendar days after its last session. The clerk mails the result to you and the appraiser, or sends it electronically if you chose that on the petition.</p><table><caption>Florida appeal steps and their time limits</caption><thead><tr><th>Step</th><th>Time limit</th></tr></thead><tbody><tr><td>File with the VAB clerk</td><td>25 days after the notice for value, 30 days after a denial notice for an exemption or classification</td></tr><tr><td>Exchange evidence</td><td>At least 15 days before the hearing</td></tr><tr><td>Board decision</td><td>Within 20 calendar days after the last session</td></tr><tr><td>Circuit court action</td><td>60 days after certification or the board decision</td></tr></tbody></table><p>If you still disagree, circuit courts have original jurisdiction over property tax disputes, with venue in the property's county in most cases. Keep your copy of the decision, because the 60-day court limit can run from the board's ruling.</p>"
   },
   {
-   "h2": "What must I pay while contesting an assessment in court?",
-   "html": "<p>Before a court action, you must pay the collector at least the tax you admit in good faith to owe, and file the receipt with the complaint (s. 194.171(3)). Paying is not an admission that the tax was correct, and a timely suit suspends collection procedures until the case ends.</p><p>Taxes on the same property for later years, to the extent you admit them, must be paid before they become delinquent, or the court loses jurisdiction under s. 194.171(5). These requirements are jurisdictional, so a missed receipt can end the case.</p>"
+   "h2": "Paying while you contest in court",
+   "html": "<p>Before you sue, you must pay the tax collector at least the tax you admit in good faith that you owe, and file the receipt with your complaint. Paying does not concede that the tax was right, and a timely suit pauses collection until the case ends.</p><p>Taxes on the same property for later years, to the extent you admit them, have to be paid before they turn delinquent. If you miss that, the court loses jurisdiction. These payment rules are jurisdictional, so a missing receipt can end the case.</p>"
   },
   {
-   "h2": "Can neighbors or associations appeal together?",
-   "html": "<p>Sometimes. A condominium, cooperative or homeowners' association with board approval may file one joint petition for owners whose units the appraiser finds substantially similar in location, amenities, rooms, living area and condition. The association must notify owners first and give them at least 14 days to opt out in writing.</p><p>An owner of contiguous undeveloped parcels, or of several tangible personal property accounts, can also seek a joint petition if the appraiser finds them substantially similar. For tangible personal property, the assessment cannot be contested unless the required return was timely filed (s. 194.034(1)(j)).</p>"
+   "h2": "Joint appeals by neighbors or associations",
+   "html": "<p>Sometimes a group can file together. A condominium, cooperative or homeowners' association with board approval may file one joint petition for owners whose units the appraiser finds substantially similar in location, amenities, rooms, living area and condition. The association has to notify owners first and give them at least 14 days to opt out in writing.</p><p>An owner of contiguous undeveloped parcels, or of several tangible personal property accounts, can also seek a joint petition if the appraiser finds them substantially similar. A business personal property assessment cannot be contested unless the required return was filed on time.</p>"
   },
   {
-   "h2": "What about homestead portability disputes?",
-   "html": "<p>If you move a homestead and disagree with the assessment difference carried over, you petition in the county of the new home, and that board notifies the board of the old county, which reconvenes if needed (s. 194.011(6)). You cannot use that proceeding to change the old home's just, assessed or taxable value.</p><p>Portability itself requires establishing the new homestead within three years of January 1 of the year the old one was abandoned, with Form DR-501T filed with the DR-501 by March 1.</p>"
+   "h2": "Homestead portability disputes",
+   "html": "<p>If you moved a homestead and disagree with the assessment difference carried over, you petition in the county of the new home. That board notifies the board in the old county, which reconvenes if needed. You cannot use this proceeding to change the old home's just, assessed or taxable value.</p><p>Portability itself requires you to establish the new homestead within three years of January 1 of the year you abandoned the old one, with Form DR-501T filed alongside the DR-501 by March 1.</p>"
+  },
+  {
+   "h2": "If you plan to sell while the appeal is open",
+   "html": "<p>An open appeal does not stop you from selling, but tell the closing agent and the title company about it early. Ask the tax collector for the current balance and whether any part of the bill is under dispute. The price a buyer pays also resets the property to just value the following January 1, so a lower assessment this year may not follow the house to the next owner. A buyer paying cash for the home in its current condition can close without waiting on the board.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the deadline to appeal my Florida property value?",
-   "a": "File with the VAB clerk by the 25th day after the property appraiser mails the Notice of Proposed Property Taxes. A denial of an exemption, classification or deferral carries a 30-day window from the denial notice."
+   "a": "File with the VAB clerk by the 25th day after the property appraiser mails the Notice of Proposed Property Taxes. A denied exemption, classification or deferral carries a 30-day window from the denial notice."
   },
   {
    "q": "Do I need to meet with the property appraiser first?",
-   "a": "No. Section 194.011(2) lets you request an informal conference, but says it is not a prerequisite to administrative or judicial review. The petition deadline keeps running."
+   "a": "No. You can ask for an informal conference, but it is not a prerequisite to a petition or a lawsuit. The petition deadline keeps running while you talk."
   },
   {
    "q": "Can I hire someone to file for me?",
-   "a": "Yes. Section 194.034(1) lists attorneys, licensed appraisers and brokers, CPAs, employees of the taxpayer and persons with written authorization or a power of attorney. The authorization is good for one assessment year and one petitioner."
+   "a": "Yes. An attorney, a real estate appraiser or broker with a license, a CPA, an employee of yours or a person with written authorization or a power of attorney can act for you. The authorization is good for one assessment year and one petitioner."
   },
   {
    "q": "How long does the board have to decide?",
-   "a": "The board must issue its written decision within 20 calendar days after its last day in session under s. 194.032. The clerk then sends notice to you and the property appraiser."
+   "a": "The board must issue its written decision within 20 calendar days after its last day in session. The clerk then sends notice to you and the property appraiser."
   },
   {
    "q": "Can I sue in circuit court instead?",
-   "a": "You may contest an assessment under s. 194.171 whether or not you filed with the board, but you must pay the tax you admit owing first, and the action must come within 60 days of the dates the statute names."
+   "a": "You can contest an assessment in circuit court whether or not you filed with the board, but you must pay the tax you admit owing first. The suit must come within 60 days of the dates the statute names."
   }
  ],
  "sources": [

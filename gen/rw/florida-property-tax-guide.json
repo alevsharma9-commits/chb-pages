@@ -2,52 +2,52 @@
  "slug": "florida-property-tax-guide",
  "sections": [
   {
-   "h2": "What is the yearly rhythm of a Florida property tax bill?",
-   "html": "<p>Everything hangs on January 1, when each county's property appraiser fixes just value for every parcel. Exemption filings follow by March 1, the TRIM notice lands in August, and the tax collector sends the actual bill in November.</p><table><caption>Florida tax year in order, from the Department of Revenue's taxpayer page</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Parcels valued at just value</td></tr><tr><td>March 1</td><td>Last day to file for exemptions or special classifications</td></tr><tr><td>April 1</td><td>Business owners file the DR-405 for tangible personal property</td></tr><tr><td>August</td><td>TRIM notice (DR-474) goes out</td></tr><tr><td>Sept. to Nov.</td><td>Tentative and final budget and millage hearings</td></tr><tr><td>November</td><td>Bills (DR-528) mailed</td></tr></tbody></table><p>A challenge to value is filed within 25 days of the TRIM notice, and a denied exemption gets 30 days from the denial letter.</p>"
+   "h2": "The Florida property tax year",
+   "html": "<p>Each tax year in Florida starts from one fixed date: your county property appraiser sets just value on every parcel as of January 1. What follows is a predictable sequence, laid out below, ending with a bill from the tax collector.</p><table><caption>Dates to mark on your calendar</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Parcels valued at just value</td></tr><tr><td>March 1</td><td>Last day to file for exemptions or special classifications</td></tr><tr><td>April 1</td><td>Business owners file the DR-405 for tangible personal property</td></tr><tr><td>August</td><td>TRIM notice (DR-474) goes out</td></tr><tr><td>Sept. to Nov.</td><td>Tentative and final budget and millage hearings</td></tr><tr><td>November</td><td>Bills (DR-528) mailed</td></tr></tbody></table><p>Two clocks matter here. Disagree with the value and you have 25 days from the TRIM notice to petition; get an exemption denied and the window is 30 days from the denial letter.</p>"
   },
   {
-   "h2": "How much can Florida homeowners save by paying early?",
-   "html": "<p>The discount shrinks one point per month, as Revenue prints it: 4 percent for November, then 3, 2 and 1 for the next three months through February. A bill paid after that window carries no discount.</p><p>Paying nothing by April 1 makes the account delinquent, and the collector sells certificates on the leftover balance by June 1 (s. 197.343).</p>"
+   "h2": "Early payment discounts",
+   "html": "<p>Paying early saves money. November payers get 4 percent off, and the cut shrinks by a point with each passing month until it reaches 1 percent in February. After that you owe the full amount.</p><p>Once April 1 arrives with nothing paid, the account is delinquent. Certificates against the unpaid balance are sold by June 1, so waiting past April costs you control of the timeline.</p>"
   },
   {
-   "h2": "What does a Florida homestead exemption take off the assessment?",
-   "html": "<p>Up to $50,000, split in two layers under s. 196.031. The first $25,000 reduces value for every levy, school levies included. The second layer of up to $25,000 reaches only assessed value above $50,000 and skips school levies. Its dollar amount grows each January 1 with CPI when CPI is positive and holds flat when negative.</p><ul><li>You need to be living there as a permanent resident on January 1.</li><li>File Form DR-501 with the appraiser's office by March 1.</li><li>Renting out the home, moving out or leaving Florida ends the exemption.</li><li>Servicemembers may rent a homestead without losing it (s. 196.061).</li></ul>"
+   "h2": "Homestead exemption",
+   "html": "<p>Your assessment can shrink by up to $50,000 with a homestead exemption. Think of it as two slices. Slice one is $25,000 and counts against all levies, school taxes among them. Slice two is up to $25,000 more, but it only bites on assessed value past the $50,000 mark and school taxes ignore it. Slice two moves with CPI each January 1 when CPI is up, and holds steady when CPI is down.</p><ul><li>The home must be your permanent residence as of January 1.</li><li>Form DR-501 goes to the appraiser by March 1.</li><li>Renting the place, moving out or leaving the state ends the benefit.</li><li>Servicemembers may rent a homestead without losing it.</li></ul>"
   },
   {
-   "h2": "How does the Save Our Homes cap behave?",
-   "html": "<p>A homestead gets its first year at just value. After that, its assessed value may climb each year by only the smaller of 3 percent or inflation as measured by CPI (s. 193.155), and it can never exceed just value. Revenue keeps a cap chart, revised January 2026, so check it for the latest year.</p><p>Parcels without homestead have a looser brake of 10 percent per year. Both brakes end when ownership changes, a term that includes sales, foreclosures and any other shift of legal or beneficial title.</p>"
+   "h2": "Save Our Homes cap",
+   "html": "<p>Year one on a homestead is at full just value. After that the Save Our Homes cap limits growth: the yearly increase in assessed value is held to 3 percent or the CPI change, whichever is lower, and assessed value stays at or under just value. A cap chart revised January 2026 sits on the Department of Revenue site.</p><p>Non-homestead parcels have a 10 percent yearly limit instead. When ownership changes, both limits fall away. A sale, a foreclosure or any shift in legal or beneficial title counts as a change.</p>"
   },
   {
-   "h2": "Can the cap follow me when I buy another Florida home?",
-   "html": "<p>It can. Portability lets you carry the difference between just and assessed value to a new homestead, if that homestead is established within three years counted from January 1 of the year you gave up the old one. The statute reduces the new assessment by the lesser of $500,000 or that difference.</p><p>File DR-501T alongside DR-501 by March 1. The statute page flags chapter 2026-239 amendments that first apply to the 2027 roll, so call the appraiser about current limits.</p>"
+   "h2": "Portability: moving your cap",
+   "html": "<p>Buying another Florida home does not have to wipe out your cap savings. Whatever gap built up on the old home can lower the new home's assessment, to a maximum of $500,000. The catch is timing: the new homestead has to be in place within three years, counting from January 1 of the year the old homestead ended.</p><p>Send DR-501T along with DR-501 by March 1. Amendments passed recently start applying with the 2027 roll, so ring the appraiser to check the limits in force.</p>"
   },
   {
-   "h2": "How do I read my TRIM notice and November bill?",
-   "html": "<p>The August TRIM notice is a proposal, not a bill. It shows last year's and this year's values and the millage each taxing body proposes, along with the dates of its hearings. The November bill shows what was actually levied after those hearings.</p><ul><li>Compare just value, assessed value and taxable value, since a homestead's assessed value can sit below just value.</li><li>Check that your exemption appears. If it is missing, ask the appraiser before the 30-day window after a denial notice runs out.</li><li>Check each taxing body's line, such as county, school board and city, for a change from the prior year.</li><li>Note the 25-day petition limit if you think value is wrong.</li></ul><p>Call the tax collector for your parcel's payoff figure before any sale or refinance, since discounts change month by month.</p>"
+   "h2": "TRIM notice and November bill",
+   "html": "<p>Think of the August TRIM notice as a preview, never a demand for payment. You will see prior and current values, the millage each taxing body is asking for, and the hearing dates. November's bill shows the final numbers after the hearings.</p><ul><li>Compare three figures: just value, assessed value and taxable value. A homestead often shows assessed value under just value.</li><li>Find your exemption on the notice. When it is absent, see the appraiser quickly, because a denial notice starts a 30-day window.</li><li>Scan the line for each taxing body (county, school board, city) and compare it with last year's.</li><li>If you think value is off, you have 25 days from the notice to petition.</li></ul><p>When a sale or refinance is coming, request your parcel's payoff figure from the tax collector. The amount moves as the discount changes each month.</p>"
   },
   {
-   "h2": "Which older-owner and veteran benefits can lower a Florida bill?",
-   "html": "<p>These benefits mostly depend on local ordinance, so county and city of residence decide what you get.</p><ul><li>Age 65 and up: a local government may add up to $50,000 for owners within an income limit (s. 196.075(2)).</li><li>Older veterans with permanent service-connected disability: a discount tracking the VA rating (s. 196.082).</li><li>Honorably discharged ex-servicemembers with a rating of 10 percent or more: $5,000 off assessed value.</li><li>Deployed servicemembers: a proportional exemption through Form DR-501M.</li></ul><p>Homestead deferral is separate. Ask the tax collector about Form DR-570 before the March 31 filing date, and ask which income thresholds the office applies to your household.</p>"
+   "h2": "Benefits for older owners and servicemembers",
+   "html": "<p>Most of these benefits depend on local ordinance, so your county and city decide what you get.</p><ul><li>Age 65 or older: your local government may add up to $50,000 if household income falls under its cap.</li><li>Seniors with a permanent disability from service: a discount matching the VA rating.</li><li>Ex-servicemembers discharged honorably with a 10 percent or higher rating: $5,000 comes off assessed value.</li><li>Deployed servicemembers: a proportional exemption, filed on Form DR-501M.</li></ul><p>Deferral works separately. Before March 31, ask the tax collector about Form DR-570 and the income thresholds your household would face.</p>"
   },
   {
-   "h2": "Who decides the rate, and what limits it?",
-   "html": "<p>Each taxing body on your bill adopts millage at hearings in the fall. Tentative budget hearings come in September and October, and final ones in October and November. State law ties growth in a taxing body's property tax revenue to growth in Florida per capita personal income plus new construction, unless a super-majority, unanimous vote or referendum goes beyond that.</p><p>The August TRIM notice shows proposed millage, so it is the best moment to attend a hearing.</p>"
+   "h2": "Who sets the rate?",
+   "html": "<p>Every taxing body on your bill sets its millage at fall hearings. The tentative budget hearing falls in September or October, and the final one in October or November. State law ties growth in a taxing body's property tax revenue to growth in Florida per capita personal income plus new construction, unless a super-majority, unanimous vote or referendum goes beyond that.</p><p>The TRIM notice prints proposed millage, which makes August the time to plan on attending one.</p>"
   },
   {
-   "h2": "Can I pay in parts or push payment back?",
-   "html": "<p>Installment prepayment needs an application to the tax collector by May 1 of the assessment year (s. 197.222). Part payments before delinquency are the collector's call (s. 197.374).</p><p>Ask your collector which version your county runs. Installments and homestead deferral are different programs with different filing dates.</p>"
+   "h2": "Installments and deferral",
+   "html": "<p>Installment prepayment starts with an application filed at the tax collector's office on or before May 1 of the assessment year. Partial payments ahead of delinquency are the collector's call.</p><p>Ask which version your county runs. Installments and homestead deferral are different programs with different filing dates.</p>"
   },
   {
-   "h2": "What can a delinquent Florida account lead to?",
-   "html": "<p>After April 1 the collector offers a certificate to the bidder who takes the lowest interest rate, bid in quarter-point steps (s. 197.432). The holder must wait 2 years from April 1 of the issuance year before asking the owner for payment, and a tax deed application can follow (s. 197.502).</p><p>The clerk then runs the public auction under s. 197.542. Homestead parcels carry a higher opening bid than other property, since half the latest assessed value is added to the amounts due. Pay before a certificate exists if you can, because every step after that adds cost.</p>"
+   "h2": "What a delinquent account can lead to",
+   "html": "<p>Bidders compete on interest, and the collector gives each certificate to the lowest rate offered, in quarter-point increments. The certificate holder cannot press the owner for 2 years, measured from April 1 of the issuance year. A tax deed application may come after that.</p><p>The clerk then runs the public auction. Homestead parcels open higher than other property, because half of the latest assessed value gets added to what is owed. Pay before a certificate exists if you can, since every step after that adds cost.</p>"
   },
   {
-   "h2": "What should a Florida buyer or heir ask about taxes?",
-   "html": "<p>Do not assume the seller's bill predicts yours. A long-held homestead may sit well under just value because of the cap, and that gap disappears at transfer.</p><ul><li>What is the parcel's just value compared with its assessed value?</li><li>Is the current exemption tied to the seller's residence, and will it end at closing?</li><li>Are any tax certificates outstanding on the parcel?</li><li>Which taxing bodies levy on this address, and did any propose higher millage?</li></ul><p>The appraiser and tax collector answer these by phone or at the counter, and the answers help you set a budget before you make an offer or inherit a house.</p>"
+   "h2": "What buyers and heirs should check",
+   "html": "<p>Do not use a seller's bill as a forecast of yours. Someone who has owned a homestead for years may be assessed far below just value because of the cap, and that gap closes at transfer.</p><ul><li>What is the parcel's just value compared with its assessed value?</li><li>Is the current exemption tied to the seller's residence, and will it end at closing?</li><li>Are any tax certificates outstanding on the parcel?</li><li>Which taxing bodies levy on this address, and did any propose higher millage?</li></ul><p>Both offices will answer by phone or at the counter, and those answers let you budget before you offer on a house or take one over.</p>"
   },
   {
-   "h2": "What does a sale do to the next owner's bill?",
-   "html": "<p>Ask the title company how the year's tax is divided at the table, and get the balance from the collector, including any certificate. The property appraiser can say what becomes of your exemption.</p><p>The buyer should expect a first bill well above yours. A sale resets the parcel to just value on the following January 1.</p>"
+   "h2": "Selling before taxes are paid",
+   "html": "<p>At closing, the title company divides that year's taxes between you and the buyer. Beforehand, ask the collector for the current balance and for any certificate on the parcel. The appraiser can explain what your sale does to the exemption.</p><p>Plan on the next owner paying a good deal more than you did. The parcel returns to just value on the January 1 after the sale, no matter how the buyer pays. Back taxes come out of what you receive, so get that payoff amount in writing.</p>"
   }
  ],
  "faqs": [
@@ -61,11 +61,11 @@
   },
   {
    "q": "Which form claims a homestead exemption?",
-   "a": "Form DR-501, filed with the county property appraiser by March 1, for an owner who made the home a permanent residence by January 1."
+   "a": "Form DR-501, filed with the county property appraiser by March 1. You must have made the home your permanent residence by January 1."
   },
   {
    "q": "What is the annual growth limit on homestead value?",
-   "a": "The smaller of 3 percent or the CPI change. The Revenue chart shows 2.7 percent for 2026."
+   "a": "The smaller of 3 percent or the CPI change. The Department of Revenue chart shows 2.7 percent for 2026."
   },
   {
    "q": "How does deferral work for homestead owners?",
