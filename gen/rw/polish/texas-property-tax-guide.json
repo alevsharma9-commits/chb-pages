@@ -2,66 +2,66 @@
  "slug": "texas-property-tax-guide",
  "sections": [
   {
-   "h2": "Who taxes a Texas house and who sends the bill",
-   "html": "<p>The state itself levies no property tax. Instead the county, a school district, often a city and sometimes special districts each charge their own rate on the same home.</p><p>A separate appraisal district sets the value. Its chief appraiser values each parcel as of January 1 and handles exemption requests, and a review board hears disagreements. Many units contract with the county tax assessor-collector, who mails one combined bill in October.</p>"
+   "h2": "Who sends the bill",
+   "html": "<p>Texas has no state property tax. What you owe is the sum of separate levies from the county, your school district, usually a city, and sometimes a hospital, junior college or other special district, all applied to the same house.</p><p>Value comes from the local appraisal district, whose chief appraiser looks at every parcel as it stood on January 1 and also processes exemption requests. A review board settles disputes. In many places the county tax assessor-collector sends a single combined statement each October on behalf of all the units.</p>"
   },
   {
    "h2": "The Texas tax calendar",
-   "html": "<p>The year follows a fixed schedule. These ten dates matter most to a homeowner.</p><table><caption>Texas property tax dates for a homeowner</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>Jan. 1</td><td>Value, exemption status and the year's tax lien are fixed</td></tr><tr><td>Apr. 1 or soon after</td><td>Value notices go out for single-family homesteads</td></tr><tr><td>Apr. 30</td><td>Deadline for many exemption applications</td></tr><tr><td>May 1 or soon after</td><td>Value notices for other property</td></tr><tr><td>May 15</td><td>Protest deadline, unless 30 days after the notice is later</td></tr><tr><td>July 25</td><td>Chief appraiser certifies the roll</td></tr><tr><td>Sept. 29</td><td>Most units adopt rates by this date, or within 60 days of the roll if later</td></tr><tr><td>Oct. 1</td><td>Bills mailed</td></tr><tr><td>Nov. 30 and June 30</td><td>Halves of a split payment</td></tr><tr><td>Jan. 31</td><td>Final day without delinquency</td></tr></tbody></table><p>Bills arrive in October and are payable on receipt. Delinquency begins the following February 1.</p>"
+   "html": "<p>Ten dates cover most of what a homeowner needs to remember.</p><table><caption>Texas property tax dates for a homeowner</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>Jan. 1</td><td>Value, exemption status and the year's tax lien are fixed</td></tr><tr><td>Apr. 1 or soon after</td><td>Value notices go out for single-family homesteads</td></tr><tr><td>Apr. 30</td><td>Deadline for many exemption applications</td></tr><tr><td>May 1 or soon after</td><td>Value notices for other property</td></tr><tr><td>May 15</td><td>Protest deadline, unless 30 days after the notice is later</td></tr><tr><td>July 25</td><td>Chief appraiser certifies the roll</td></tr><tr><td>Sept. 29</td><td>Most units adopt rates by this date, or within 60 days of the roll if later</td></tr><tr><td>Oct. 1</td><td>Bills mailed</td></tr><tr><td>Nov. 30 and June 30</td><td>Halves of a split payment</td></tr><tr><td>Jan. 31</td><td>Final day without delinquency</td></tr></tbody></table><p>The bill shows up in October and is due when you get it. You have until the end of January before penalties begin.</p>"
   },
   {
-   "h2": "How a taxing unit sets its rate",
-   "html": "<p>Units follow a notice-and-hearing sequence called truth-in-taxation. Once the certified roll arrives, most units work out two benchmark rates before they vote.</p><p>The no-new-revenue rate would collect the same dollars from the same properties as last year. The voter-approval rate is the ceiling above which voters must approve. For most non-school units it lets operating revenue grow 3.5 percent over the prior year, plus room for debt service. Junior college and hospital districts and other special units get 8 percent. Going over the ceiling triggers an election on the next uniform election date.</p><ul><li>Units post both benchmark rates on their homepages.</li><li>Each notice names when the vote will happen.</li><li>Units other than very small ones hold a public hearing.</li></ul>"
+   "h2": "How rates get set",
+   "html": "<p>Before voting on a rate, most units calculate two benchmarks once they receive the certified roll. This process is called truth-in-taxation.</p><p>One benchmark is the no-new-revenue rate, which would bring in the same dollars from the same properties as last year. The other is the voter-approval rate, a ceiling that voters must clear if a unit wants to exceed it. Most non-school units may grow operating revenue 3.5 percent over the prior year under that ceiling, with extra room for debt service. Junior college districts, hospital districts and certain other special units are allowed 8 percent. A unit that goes over must put the question to voters on the next uniform election date.</p><ul><li>Both benchmark rates are posted on each unit's homepage.</li><li>Every notice gives the date of the vote.</li><li>All but very small units hold a public hearing.</li></ul>"
   },
   {
    "h2": "Renditions",
-   "html": "<p>Renditions concern business and other personal property more than homes. The rendition period starts January 2, and April 15 is the last day for most property types. The chief appraiser must extend to May 15 when asked in writing. A homeowner usually does not file one, but a landlord with equipment or a business owner with furnishings might.</p>"
+   "html": "<p>A rendition is a listing of business and other personal property, and it matters far less to a homeowner than to a business. The filing period opens January 2 and closes April 15 for most property types, though the chief appraiser must stretch that to May 15 if you ask in writing. A landlord with equipment or an owner with business furnishings may need to file. An ordinary homeowner generally does not.</p>"
   },
   {
-   "h2": "When unpaid property tax turns delinquent",
-   "html": "<p>Any balance still open after January ends is delinquent the next morning. That day the collector adds six percent in penalty and one percent in interest. The penalty then grows one percent a month until it reaches twelve percent in July, and interest keeps running monthly with no ceiling.</p><p>A unit with a collection lawyer under contract may add up to a fifth more. Bills must allow 21 days, so a bill mailed after January 10 pushes delinquency later. A bill dated January 15, for example, goes delinquent March 1.</p><p>Older or disabled homeowners can pay in four installments, the first due by February 1 and the rest on March 31, May 31 and July 31. A late installment draws a six percent penalty plus one percent monthly interest.</p><ul><li>A waiver of penalty and interest is possible when the owner pays within 21 days of learning about the delinquency and asks in writing before day 181.</li><li>Some collectors allow payment plans up to 36 months, and one is required for a residence homestead.</li><li>A homeowner past 65, or disabled, may pay a current bill in four installments.</li></ul>"
+   "h2": "Delinquency, penalties and payment plans",
+   "html": "<p>If anything is still owed when January ends, the account is delinquent the following day. Six percent penalty and one percent interest are added at once. After that the penalty rises by one percent each month until it hits twelve percent in July, while interest continues monthly with no cap.</p><p>When the unit has hired a collection lawyer, up to a fifth more can be tacked on. Because a bill must give you 21 days, one mailed after January 10 delays the delinquency date. A bill dated January 15, for example, goes delinquent March 1.</p><p>Homeowners who are older or disabled can split the bill in four, with the first piece due by February 1 and the others on March 31, May 31 and July 31. A late installment costs six percent plus one percent monthly interest.</p><ul><li>Penalty and interest can be waived if you pay within 21 days of learning about the delinquency and ask in writing before day 181.</li><li>Some collectors offer payment plans of up to 36 months, and a residence homestead is entitled to one.</li><li>The four-part option for a current bill is open to owners past 65 or disabled.</li></ul>"
   },
   {
-   "h2": "Exemptions that lower a home's taxable value",
-   "html": "<p>The residence homestead exemption is the largest. Every school district exempts $140,000 of homestead value, and any unit may adopt a local option cut of up to 20 percent, never below $5,000.</p><ul><li>Age 65 and up, or a qualifying disability, brings an added $60,000 school exemption.</li><li>A service-connected disability rating earns $5,000 to $12,000 off, and a homestead owned by someone rated 100 percent is fully exempt.</li><li>A surviving spouse 55 or older can in some cases keep a late spouse's over-65 benefit.</li></ul><p>The usual filing window closes at the end of April. A buyer who closes after the first of the year can claim the exemption right away for that year if the seller had not.</p>"
+   "h2": "Homestead and other exemptions",
+   "html": "<p>The homestead exemption takes the biggest bite out of taxable value. Each school district shields $140,000 of it, and any other unit can add a local cut of up to 20 percent, with a floor of $5,000.</p><ul><li>Owners 65 or older, or with a qualifying disability, get another $60,000 off the school bill.</li><li>A service-connected disability rating earns $5,000 to $12,000 off, and a homestead owned by someone rated 100 percent is fully exempt.</li><li>A surviving spouse who is at least 55 can sometimes keep the late spouse's over-65 benefit.</li></ul><p>Applications are generally due by the end of April. If you buy a house after January 1 and the seller never applied, you can still claim the exemption for that year.</p>"
   },
   {
-   "h2": "What happens if a delinquent account goes unpaid?",
-   "html": "<p>The collection path runs from delinquent notices to an optional payment plan to a lawsuit, with court costs added to the bill. A suit can end in an auction run by a constable or a hired agent. Auctions are posted locally, so check the county clerk and tax office websites.</p><p>What a former owner can recover depends on the property type. Homestead, agricultural and mineral property carry a two-year redemption period, and a former owner has two years to claim any excess sale proceeds. Heirs who inherit a house with delinquent years should call the tax office early, since the account may qualify for a plan.</p>"
+   "h2": "What happens if taxes are never paid",
+   "html": "<p>Expect delinquent notices first, then perhaps a payment plan, then a lawsuit with court costs piled onto the balance. The suit can end with an auction conducted by a constable or a contracted agent. Sales are announced locally, so watch the county clerk and tax office websites.</p><p>Rights after the sale depend on what kind of property it was. Homestead, agricultural and mineral land can be redeemed within two years, and the former owner also has two years to claim excess sale proceeds. If you inherit a house with unpaid years on it, call the tax office quickly, because a payment plan may still be available.</p>"
   },
   {
-   "h2": "Caps on homestead increases",
-   "html": "<p>Two limits apply. A homestead's appraised value may climb at most 10 percent a year once the exemption has been in place a year, except for new improvements.</p><p>An owner past 65 or disabled also gets a school tax ceiling fixed at the year of qualifying. If the owner moves within Texas, a proportional share of the ceiling can go along. Counties, cities and junior college districts can adopt their own ceiling, so ask each unit whether it has.</p>"
+   "h2": "Limits on how fast a homestead bill can grow",
+   "html": "<p>There are two protections. After a homestead exemption has been in place a year, the appraised value can rise no more than 10 percent annually, apart from new improvements.</p><p>People past 65 or disabled also get a school tax ceiling frozen at the year they qualified, and part of that ceiling can follow them to a new Texas home. Counties, cities and junior college districts may set up their own ceilings, so ask each one if it has.</p>"
   },
   {
-   "h2": "What if the appraisal looks too high?",
-   "html": "<p>A protest goes to the appraisal review board, usually by May 15 or a month after the notice, whichever date falls later. After the board decides, appeals can go to district court, regular binding arbitration, or the State Office of Administrative Hearings when the board's value exceeds $1,000,000.</p><p>An appeal needs at least the undisputed part of the tax paid before delinquency. Our separate protest guide covers the hearing itself.</p>"
+   "h2": "If the appraisal looks too high",
+   "html": "<p>Take it to the appraisal review board, normally by May 15 or one month after the notice if that is later. If the board's decision still leaves you unhappy, you can go to district court, request regular binding arbitration, or, when the board's value is above $1,000,000, use the State Office of Administrative Hearings.</p><p>Before any appeal, pay at least the undisputed part of the tax so the account does not go delinquent. Our separate protest guide walks through the hearing itself.</p>"
   },
   {
-   "h2": "Selling with taxes owed",
-   "html": "<p>The yearly lien stays with the house, so title companies insist that old years be cleared. Whoever held title at the start of the year remains answerable for that year's tax and may be sued even after selling.</p><p>The title company usually pays delinquent amounts out of the seller's proceeds and splits the current year between the parties. Ask the assessor-collector for a tax certificate listing every unit, and confirm what the title company will show on the settlement statement.</p><ul><li>Look for delinquent years, penalties and attorney fees.</li><li>Ask whether a payment plan exists on the account.</li><li>After closing, the buyer files for the homestead exemption in the buyer's name.</li></ul><p>A seller with back taxes who wants to skip repairs, showings and a lender's timeline can look at a cash sale, since the amounts owed come out of the proceeds at closing either way.</p>"
+   "h2": "Selling a house with taxes owed",
+   "html": "<p>Since the lien rides with the property, no title company will insure a sale until old years are paid. The owner on January 1 stays liable for that year's tax even after a sale and can be sued for it.</p><p>Closing usually works like this: the title company pays any delinquent amount from the seller's proceeds and divides the current year between buyer and seller. Request a tax certificate from the assessor-collector that lists every unit, then compare it with the settlement statement.</p><ul><li>Check for delinquent years, penalties and attorney fees.</li><li>Ask if the account is on a payment plan.</li><li>The buyer applies for the homestead exemption after closing.</li></ul><p>An owner with back taxes who does not want to deal with repairs, showings or a lender's timeline can consider a cash sale. The balance comes out of the proceeds at closing either way.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Does the state of Texas collect property tax?",
-   "a": "No. The state levies none, and local taxing units set rates and collect the money."
+   "q": "Does Texas collect a state property tax?",
+   "a": "No. The state levies none. Local taxing units set rates and collect the money."
   },
   {
-   "q": "When must Texas property tax be paid?",
-   "a": "Bills are mailed in October with payment due on arrival. Delinquency starts February 1 for anything open after January 31. Where a split payment is allowed, halves are due November 30 and June 30."
+   "q": "When is Texas property tax due?",
+   "a": "Bills go out in October and are payable on receipt. Anything unpaid after January 31 becomes delinquent on February 1. Where split payment is offered, the halves fall on November 30 and June 30."
   },
   {
-   "q": "What is the late charge on Texas property tax?",
-   "a": "Six percent penalty and one percent interest land on day one of delinquency. The penalty then climbs one percent a month to twelve percent in July."
+   "q": "How much is the late charge?",
+   "a": "On the first day of delinquency a six percent penalty and one percent interest apply. The penalty then grows one percent monthly until it reaches twelve percent in July."
   },
   {
-   "q": "How large is the Texas homestead exemption?",
-   "a": "School districts must exempt $140,000, with $60,000 extra for older or disabled owners. Other units may add local exemptions."
+   "q": "How big is the homestead exemption?",
+   "a": "School districts exempt $140,000, plus $60,000 more for owners who are older or disabled. Other taxing units may add local exemptions."
   },
   {
-   "q": "Can delinquent tax be paid out of a sale?",
-   "a": "Yes. Title companies usually settle it from the seller's proceeds, since the lien stays with the house."
+   "q": "Can back taxes come out of a sale?",
+   "a": "Yes. The title company normally pays them from the seller's proceeds, because the lien stays with the house."
   }
  ],
  "sources": [

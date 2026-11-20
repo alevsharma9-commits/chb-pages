@@ -1,0 +1,81 @@
+{
+ "slug": "washington-eviction-notice",
+ "sections": [
+  {
+   "h2": "How many days of notice before an eviction?",
+   "html": "<p>The reason decides the length. For unpaid rent on a residential tenancy, the landlord serves a written pay-or-vacate notice and waits 14 days. For a lease violation other than rent, the wait is 10 days. For waste, a nuisance or an unlawful business, it is three days. <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=59.12.030\">RCW 59.12.030</a> sets those periods, and the cause list in <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=59.18.650\">RCW 59.18.650</a> ties back to them.</p><p>A tenant is liable for unlawful detainer on a rent or lease default only after the notice sits unanswered for the whole period. The notice always comes before any court filing.</p>"
+  },
+  {
+   "h2": "Notice types and lengths",
+   "html": "<p>A Washington residential landlord generally cannot end a tenancy without one of the causes written into RCW 59.18.650, with narrow exceptions for certain fixed-term leases. These are the notice lengths that matter most to an owner trying to sell.</p><table><thead><tr><th>Reason for ending the tenancy</th><th>Written notice required</th></tr></thead><tbody><tr><td>Unpaid rent</td><td>14 days to pay or vacate</td></tr><tr><td>Lease or rule violation other than rent</td><td>10 days to fix it or vacate</td></tr><tr><td>Waste, nuisance or unlawful activity</td><td>3 days to quit</td></tr><tr><td>Owner or family moving in</td><td>90 days</td></tr><tr><td>Owner selling a single-family home</td><td>90 days</td></tr><tr><td>Home certified or condemned as unfit to live in</td><td>30 days</td></tr><tr><td>Tenant shares a kitchen or bath with the owner</td><td>20 days</td></tr><tr><td>Demolition, major rehab or change of use</td><td>120 days</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What the 14-day pay or vacate notice must contain",
+   "html": "<p>The form in <a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=59.18.057\">RCW 59.18.057</a> has to be followed substantially as written. It breaks out unpaid rent, utilities and other recurring charges month by month, shows the total due, and names the place where payment goes. It also tells the tenant to pay as the rental agreement directs or by a nonelectronic method such as a cashier's check or money order.</p><p>Any payment is applied first to the total on the notice, and the notice says so. It also points the tenant to help: the Attorney General's rental assistance website, the Eviction Defense Screening Line for qualifying low-income renters, the Northwest Justice Project CLEAR hotline, dispute resolution centers for low-cost mediation, and the right to a court interpreter.</p><ul><li>Itemize each month and each charge category on its own line.</li><li>Include a payment address and the owner or landlord name.</li><li>Date the notice so the days can be counted from service.</li></ul>"
+  },
+  {
+   "h2": "Serving the notice",
+   "html": "<p><a href=\"https://app.leg.wa.gov/rcw/default.aspx?cite=59.12.040\">RCW 59.12.040</a> permits three methods. One is handing the tenant a copy in person. A second applies when the tenant is out: leave a copy with a person of suitable age and discretion at the home and mail another copy to the residence. The third is for when the tenant's whereabouts are unknown or no suitable person can be found. Then the landlord posts the notice in a conspicuous place, hands a copy to anyone living there, and mails a copy.</p><p>Mail service is complete the day the copy goes into a Washington mailbox with postage paid, but five more days must go by before a case can be started on that notice. Every termination notice also has to state the date by which the tenant must leave or, where relevant, comply.</p><p>Causes under RCW 59.18.650 demand more. Those notices are served the same way and must lay out the facts the landlord knew at the time in enough detail for the tenant to prepare a response.</p>"
+  },
+  {
+   "h2": "Ending a tenancy because the house is being sold",
+   "html": "<p>It is allowed, but only on the terms of RCW 59.18.650(2)(e). A tenant who stays after the owner elects to sell a single-family residence can be removed if the landlord gave at least 90 days' advance written notice of the date possession ends. The owner is treated as electing to sell by making reasonable attempts within 30 days after the tenant moves out, at a minimum listing the home at a reasonable price with a realty agency or on the multiple listing service.</p><p>The law presumes, subject to rebuttal, that the owner never meant to sell when the home is not listed within 30 days of the move-out. The same presumption applies if, within 90 days after the move-out or the listing date, whichever is later, the owner takes the house off the market, rents it to someone new or otherwise shows no intent to sell.</p><p>A fixed-term lease cannot be cut short on this ground. Subsection (5) permits that only with the tenant's written consent and at least 60 days for the tenant to vacate.</p>"
+  },
+  {
+   "h2": "Penalty for removing a tenant illegally",
+   "html": "<p>A landlord who removes a tenant in violation of RCW 59.18.650 is liable for wrongful eviction. A winning tenant can recover the greater of economic and noneconomic damages or three times the monthly rent, plus reasonable attorneys' fees and court costs. This reaches any removal that breaks the section, so an owner who wants a vacant house for sale should follow every notice and court step.</p><p>An indigent tenant in an eviction case can also have a court-appointed attorney, depending on available funding.</p>"
+  },
+  {
+   "h2": "If a tenant will not leave a house that is for sale",
+   "html": "<p>Count the notice period from the service date, keep proof of how the notice was delivered, and file nothing in superior court until the period is over. Unlawful detainer for unpaid rent applies when the tenant neither pays nor leaves in time. A lease violation can be cured within 10 days of service.</p><p>Before you commit to a sale date, add up the timeline. The 90-day sale notice comes first, and a court case follows if the tenant stays. A signed move-out agreement is another route: for a fixed-term lease the statute allows an early end when the tenant consents in writing and gets at least 60 days to leave. A lawyer or the county superior court clerk can confirm local filing steps.</p><p>Keep a folder with each notice, the proof of service, the lease and the rent ledger. A buyer, a title company or a judge will want to see them, and they help a cash buyer price the house as is without waiting on the tenant's schedule.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long is a Washington eviction notice for unpaid rent?",
+   "a": "Fourteen days for a residential tenancy. The landlord serves a written pay-or-vacate notice, and if the tenant neither pays nor leaves within 14 days of service, an unlawful detainer case can be filed."
+  },
+  {
+   "q": "Can a Washington landlord evict without a reason?",
+   "a": "Generally no. RCW 59.18.650 bars eviction, refusal to continue a tenancy or ending a periodic tenancy except for listed causes. Narrow exceptions let a landlord end certain leases of six months or longer at their end with 60 days' written notice."
+  },
+  {
+   "q": "How much notice does a Washington landlord give to sell the house?",
+   "a": "At least 90 days in writing for a single-family residence, and the owner has to list the home within 30 days after the tenant moves out. Otherwise the law presumes the owner never meant to sell."
+  },
+  {
+   "q": "How must a Washington eviction notice be delivered?",
+   "a": "By handing it to the tenant, by leaving a copy with a suitable person and mailing another, or, when neither works, by posting it, giving a copy to a resident and mailing one. Mail service adds five days before a case can start."
+  },
+  {
+   "q": "What is the penalty for an illegal eviction in Washington?",
+   "a": "A winning tenant recovers the greater of actual damages or three times the monthly rent, plus attorneys' fees and court costs, under RCW 59.18.650(4)."
+  }
+ ],
+ "sources": [
+  {
+   "title": "RCW 59.12.030 Unlawful detainer defined",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=59.12.030"
+  },
+  {
+   "title": "RCW 59.12.040 Service of notice",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=59.12.040"
+  },
+  {
+   "title": "RCW 59.18.057 Notice form",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=59.18.057"
+  },
+  {
+   "title": "RCW 59.18.650 Eviction of tenant, cause, notice",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=59.18.650"
+  },
+  {
+   "title": "RCW 59.18.200 Month to month tenancy, end of tenancy",
+   "url": "https://app.leg.wa.gov/rcw/default.aspx?cite=59.18.200"
+  },
+  {
+   "title": "Washington Attorney General, Landlord-Tenant",
+   "url": "https://www.atg.wa.gov/landlord-tenant"
+  }
+ ]
+}
