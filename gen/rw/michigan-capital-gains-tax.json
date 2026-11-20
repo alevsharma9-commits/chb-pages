@@ -1,55 +1,58 @@
 {
- "slug": "michigan-capital-gains-tax",
  "sections": [
   {
-   "h2": "Is a home sale gain taxed by Michigan?",
-   "html": "<p>Yes. Michigan runs no separate capital gains schedule, so profit on a house lands in the same state income tax that reaches wages and other income. For the 2026 tax year the state rate is a flat 4.25 percent, which Michigan Treasury confirmed in an April 15, 2026 announcement after its yearly review of the rate.</p><p>The practical result for a Michigan seller is simple. Whatever part of your gain is taxable lands on your Michigan return at that one rate. Ask Treasury or a tax preparer how the federal exclusion carries onto the MI-1040 for your sale.</p><p>The rate is set by a formula in state law that Treasury, the Senate Fiscal Agency and the House Fiscal Agency run after each year's financial report is published. Treasury's 2026 notice says general fund revenue fell 1.56 percent in the fiscal year ended September 30, 2025 while inflation ran 2.70 percent, so no reduction was triggered. A court decision in 2024 held that any cut triggered by that formula lasts only one year.</p>"
+   "h2": "Michigan taxes a home sale gain like ordinary income",
+   "html": "<p>Michigan has no separate capital gains schedule. Profit on a house goes into the same state income tax that applies to wages and other income. For the 2026 tax year the state rate is a flat 4.25 percent, set by Michigan Treasury in an April 15, 2026 announcement after its yearly review.</p><p>So whatever part of your gain is taxable lands on your Michigan return at that single rate. Ask Treasury or a tax preparer how the federal exclusion carries onto the MI-1040 for your sale.</p><p>A formula in state law drives the rate. Treasury and the two legislative fiscal agencies run it after each year's financial report comes out. General fund revenue fell 1.56 percent in the fiscal year ended September 30, 2025 while inflation ran 2.70 percent, so no reduction was triggered. A 2024 court decision held that any cut the formula triggers lasts only one year.</p>"
   },
   {
-   "h2": "How much of a Michigan home sale gain can be excluded?",
-   "html": "<p>IRS Topic 701 allows a single seller to exclude as much as $250,000 of gain on a main home, and a married couple filing together as much as $500,000. Check this exclusion before you estimate any state tax.</p><p>Two tests apply, both measured over the five years that end on the closing date:</p><ul><li><strong>Ownership:</strong> you or your spouse held title for 24 months or more.</li><li><strong>Use:</strong> the house was your residence for 24 months or longer, and on a joint return each spouse must satisfy this one personally.</li><li><strong>Look-back limit:</strong> a sale in the prior two years that already used the exclusion usually blocks a second claim.</li></ul><p>The two 24-month periods may sit in different stretches of time. Each only has to land inside that single five-year window. IRS Publication 523 holds the full eligibility rules, the worksheets and the exceptions to the two-year rule.</p>"
+   "h2": "How much gain you can exclude",
+   "html": "<p>IRS Topic 701 lets a single seller exclude up to $250,000 of gain on a main home. A married couple filing together can exclude up to $500,000. Run this exclusion first, before you estimate any state tax.</p><p>Two tests apply, both measured over the five years ending on the closing date:</p><ul><li><strong>Ownership:</strong> you or your spouse held title for 24 months or more.</li><li><strong>Use:</strong> the house was your residence for 24 months or longer. On a joint return each spouse has to meet this one personally.</li><li><strong>Look-back limit:</strong> a sale in the prior two years that already used the exclusion usually blocks a second claim.</li></ul><p>The two 24-month periods don't have to be the same stretch. Each just has to fall inside that five-year window. IRS Publication 523 has the full rules, the worksheets and the exceptions to the two-year requirement.</p>"
   },
   {
-   "h2": "What should a Michigan seller report to the IRS and the state?",
-   "html": "<p>A Form 1099-S from the closing agent obliges you to put the sale on your return, even when the exclusion wipes out every dollar of gain. A gain above the exclusion also has to be reported.</p><ul><li>Use Schedule D and Form 8949 when the sale has to be reported.</li><li>A contract that pays you in later years makes the deal an installment sale, reported by the installment method unless you elect out. The exclusion stays available on those sales.</li><li>Uniformed Services, Foreign Service and intelligence community staff on qualified extended duty may pause the five-year clock for as long as a decade.</li></ul><p>On the Michigan side, Treasury's tax year 2025 guidance lists a senior interest, dividend and capital gain limit of $14,688 for single filers and $29,376 for joint filers. Whether you qualify depends on your age and filing details, so check the current MI-1040 instructions or ask Treasury before you rely on it for a home sale.</p>"
+   "h2": "What to report on your returns",
+   "html": "<p>If the closing agent files a Form 1099-S, you must put the sale on your return, even when the exclusion wipes out every dollar of gain. A gain above the exclusion has to be reported too.</p><ul><li>Use Schedule D and Form 8949 when the sale is reportable.</li><li>If the buyer pays you over several years, the deal is an installment sale and is reported by the installment method unless you elect out. The exclusion still applies.</li><li>Uniformed Services, Foreign Service and intelligence community staff on qualified extended duty can pause the five-year clock for as long as a decade.</li></ul><p>On the Michigan side, Treasury's tax year 2025 guidance sets a senior interest, dividend and capital gain limit of $14,688 for single filers and $29,376 for joint filers. Whether you qualify depends on your age and filing details, so read the current MI-1040 instructions or call Treasury before you count on it for a home sale.</p>"
   },
   {
-   "h2": "What are the key Michigan figures for a house sale gain?",
-   "html": "<p>This table collects the numbers that matter when a Michigan owner estimates tax on a sale. Figures come from the IRS and Michigan Treasury pages listed in the sources.</p><table><caption>Federal and Michigan figures for Michigan home sale gains, from IRS Topic 701 and Michigan Treasury</caption><thead><tr><th>Item</th><th>Figure</th><th>Source</th></tr></thead><tbody><tr><td>Michigan income tax rate, 2026 tax year</td><td>4.25%</td><td>Michigan Treasury, April 15, 2026</td></tr><tr><td>Federal exclusion, single filer</td><td>Up to $250,000</td><td>IRS Topic 701</td></tr><tr><td>Federal exclusion, joint return</td><td>Up to $500,000</td><td>IRS Topic 701</td></tr><tr><td>Ownership and use requirement</td><td>24 months each within 5 years</td><td>IRS Topic 701</td></tr><tr><td>Michigan senior interest, dividend and capital gain limit, tax year 2025</td><td>$14,688 single, $29,376 joint</td><td>Michigan Treasury, tax year 2025 guidance</td></tr><tr><td>Michigan personal exemption, tax year 2025</td><td>$5,800</td><td>Michigan Treasury, tax year 2025 guidance</td></tr></tbody></table>"
+   "h2": "Federal and Michigan numbers for a sale",
+   "html": "<table><caption>Figures that matter when estimating tax on a Michigan home sale</caption><thead><tr><th>Tax item</th><th>Amount</th><th>Applies to</th></tr></thead><tbody><tr><td>Michigan income tax rate, 2026 tax year</td><td>4.25%</td><td>All taxable gain</td></tr><tr><td>Federal exclusion, single filer</td><td>Up to $250,000</td><td>Main home gain</td></tr><tr><td>Federal exclusion, joint return</td><td>Up to $500,000</td><td>Main home gain</td></tr><tr><td>Ownership and use requirement</td><td>24 months each within 5 years</td><td>Main home exclusion</td></tr><tr><td>Senior interest, dividend and capital gain limit, tax year 2025</td><td>$14,688 single, $29,376 joint</td><td>Michigan return</td></tr><tr><td>Personal exemption, tax year 2025</td><td>$5,800</td><td>Michigan return</td></tr></tbody></table>"
   },
   {
-   "h2": "Do other Michigan taxes apply when the house sells?",
-   "html": "<p>Yes, though these charges attach to the deed and ignore your profit. Michigan layers a state deed tax (MCL 207.525) and a county deed tax (MCL 207.504) over the sale price, and both statutes name the seller as the party who owes them.</p><p>Deed tax follows the sale price, while income tax follows the gain. An owner who bought at $180,000 and sold at $230,000 pays deed tax on the full $230,000 even if the whole gain is excluded. Our <a href='/michigan-closing-costs/'>Michigan closing costs page</a> walks through the deed taxes and recording fee in detail.</p>"
+   "h2": "Deed taxes are separate from income tax",
+   "html": "<p>Michigan also charges a state deed tax (MCL 207.525) and a county deed tax (MCL 207.504). They attach to the deed and ignore your profit. Both statutes name the seller as the party who owes them.</p><p>Income tax follows the gain. Deed tax follows the sale price. If you bought at $180,000 and sold at $230,000, the deed tax is figured on the full price even when the whole gain is excluded. Our <a href='/michigan-closing-costs/'>Michigan closing costs page</a> covers the deed taxes and recording fee in detail.</p>"
   },
   {
-   "h2": "How long can a Michigan seller amend a return that missed a home sale?",
-   "html": "<p>A taxpayer has 4 years from the due date of the original return to file and claim a refund with Michigan Treasury, according to its tax year 2025 guidance. Treasury's example is that a 2021 return and any homestead property tax credit claim had to be filed on or before April 18, 2026.</p><p>That window works in both directions for a seller. If you sold in an earlier year, left the sale off a return and later learn part of the gain was excludable, you have a limited time to claim a refund. If you owe tax, do not wait for the window to close. Since November 12, 2025, Michigan Treasury eServices has handled free filing of the state return, online payments, refund status checks and replies to Treasury letters in one place.</p><p>The same guidance lists a Michigan homestead property tax credit with a maximum taxable value of $165,400 and a credit limit of $1,900 for tax year 2025. If you sold partway through a year, ask Treasury how that affects a credit claim.</p>"
+   "h2": "Amending a return that left out a home sale",
+   "html": "<p>A taxpayer has 4 years from the due date of the original return to file and claim a refund with Michigan Treasury. Treasury's own example: a 2021 return and any homestead property tax credit claim had to be filed on or before April 18, 2026.</p><p>That window cuts both ways. If you sold in an earlier year, left the sale off and later learned part of the gain was excludable, you have limited time to claim a refund. If you owe tax, don't wait for the window to close. Michigan Treasury eServices handles free filing of the state return, online payments, refund status checks and replies to Treasury letters in one place.</p><p>Treasury's tax year 2025 guidance also sets the Michigan homestead property tax credit at a maximum taxable value of $165,400 and a credit limit of $1,900. If you sold partway through a year, call Treasury about how that affects a claim.</p>"
   },
   {
-   "h2": "What if the Michigan house was inherited, rented out or owned for a short time?",
-   "html": "<p>The two-year tests decide most of these cases. A house you inherited and never lived in does not meet the use test, so the main home exclusion generally will not apply to its sale. A house you lived in for only part of the ownership period may still pass if you used it as your residence for 24 months inside the last five years.</p><p>For inherited property, the IRS requires that a recipient's basis in certain property from a decedent match the value finally determined for federal estate tax purposes. That rule comes from Internal Revenue Code sections 6035 and 1014(f) and applies when the estate had to file an estate tax return. Ask the estate's personal representative whether a Form 8971 statement was issued to you.</p><p>A seller who rented the property for part of the time should ask a tax preparer about depreciation and how the use test applies. Publication 523 covers those cases, and Michigan Treasury answers state filing questions.</p>"
+   "h2": "Inherited, rented or short-term homes",
+   "html": "<p>The two-year tests settle most of these cases. A house you inherited and never lived in fails the use test, so the main home exclusion generally won't apply to its sale. A house you lived in for only part of your ownership can still pass if you used it as your residence for 24 months inside the last five years.</p><p>For inherited property, a recipient's basis in certain property from a decedent has to match the value finally set for federal estate tax purposes. That rule comes from Internal Revenue Code sections 6035 and 1014(f) and applies when the estate had to file an estate tax return. Ask the estate's personal representative whether a Form 8971 statement was issued to you.</p><p>If you rented the property for part of the time, talk to a tax preparer about depreciation and how the use test applies. Publication 523 covers those cases, and Michigan Treasury answers state filing questions.</p>"
+  },
+  {
+   "h2": "Before you list: a short checklist",
+   "html": "<p>Gather these before you talk numbers with a buyer or a tax preparer. They decide whether you owe anything at all.</p><ul><li>The date you bought and the date you moved in, to count the 24-month ownership and use periods.</li><li>Your purchase price, closing statement and records of improvements, to work out your gain.</li><li>Whether either spouse already used the exclusion on a sale in the last two years.</li><li>Any Form 8971 statement if the house came from an estate.</li></ul><p>A cash sale does not change any of this. The tax rules follow your gain and your years in the house, not how the buyer pays or how fast the sale closes. What a cash sale does skip is the wait for a buyer's lender, so the closing statement and any 1099-S usually arrive sooner.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Does Michigan have a separate capital gains tax?",
-   "a": "No. A home sale gain is taxed at the state's single individual rate, fixed by Treasury at 4.25 percent for 2026. No extra state schedule exists for real estate gains."
+   "a": "No. A home sale gain is taxed at the state's single individual rate, set at 4.25 percent for 2026. No extra state schedule exists for real estate gains."
   },
   {
    "q": "Is the federal home sale exclusion honored in Michigan?",
-   "a": "This exclusion is a federal rule, and Michigan Treasury sets the state return. Read the current MI-1040 instructions or ask Treasury how an excluded gain is entered."
+   "a": "The exclusion is a federal rule and Michigan Treasury sets the state return. Read the current MI-1040 instructions or call Treasury to see how an excluded gain is entered."
   },
   {
    "q": "Do I owe Michigan tax after living in the house under two years?",
-   "a": "Possibly, since the federal exclusion wants 24 months of ownership and 24 months of use in the last five years. IRS Publication 523 lists exceptions to the two-year rule."
+   "a": "Possibly. The federal exclusion wants 24 months of ownership and 24 months of use in the last five years. IRS Publication 523 lists exceptions to the two-year rule."
   },
   {
    "q": "Will I receive a 1099-S after closing a Michigan sale?",
-   "a": "Often yes. Often. A recipient of that form must report the sale on a return, even if the gain is entirely excludable. Ask the closing agent whether one will be filed for yours."
+   "a": "Often, yes. A seller who receives that form must report the sale on a return, even if the gain is entirely excludable. Ask the closing agent whether one will be filed for yours."
   },
   {
    "q": "Does the buyer pay the Michigan transfer tax?",
-   "a": "The statute names the seller or grantor as liable. A purchase contract can move the cost, so read the closing statement before signing."
+   "a": "The statute names the seller as the one who owes it. A purchase contract can shift the cost, so read the closing statement before you sign."
   }
  ],
  "sources": [
@@ -81,5 +84,6 @@
    "title": "MCL 207.523",
    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-523"
   }
- ]
+ ],
+ "slug": "michigan-capital-gains-tax"
 }

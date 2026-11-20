@@ -1,0 +1,93 @@
+{
+ "slug": "nebraska-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How Nebraska property tax works",
+   "html": "<p>Property tax in Nebraska is handled county by county. Each of the state's 93 counties has an assessor who values property, and the Department of Revenue's Property Assessment Division oversees the work. Counties, cities, school districts, community colleges and other local bodies each levy their own tax, and the county treasurer mails the tax statements in December.</p><p>If you plan to sell, three things decide how the tax affects you: the day the tax becomes a lien, the days each half goes delinquent, and how the credits printed on the statement are handled at closing. The dates below cover all three.</p><table><thead><tr><th>Tax step</th><th>Date or rule</th></tr></thead><tbody><tr><td>Valuation notice mailed</td><td>On or before June 1, to the owner of record as of May 20, when the value changed from last year (77-1315)</td></tr><tr><td>Taxes due</td><td>December 31 after the levy; a first lien on the real property from that date (77-203)</td></tr><tr><td>First half delinquent</td><td>May 1, or April 1 in counties over 100,000 people (77-204)</td></tr><tr><td>Second half delinquent</td><td>September 1, or August 1 in counties over 100,000 people (77-204)</td></tr><tr><td>Tax sale</td><td>Unpaid property may be sold on or after the first Monday of March following delinquency (77-1801)</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Your valuation notice and the protest window",
+   "html": "<p>The county assessor has to mail a notice by June 1 for every taxable parcel whose assessed value changed from the year before. It goes to whoever owned the parcel on May 20. Under section 77-1315 the notice carries a \"KNOW YOUR RIGHTS\" statement in the largest type on the page. That statement tells the owner that a protest can be filed with the county clerk on or before June 30, and that the parcel's value will not be certified to the taxing subdivisions until August 20.</p><p>That gap between the notice and certification is your window to challenge the number before it turns into a bill. The notice also shows when the county board of equalization convenes and the filing dates. When the assessment roll is finished and the notices are out, the assessor publishes a certification in a local newspaper that includes the last day to file protests.</p><p>Because the notice follows the owner of record on May 20, a spring closing date decides who receives it. If you sell in April or May, tell the buyer to watch the mail, and forward anything you get after closing.</p>"
+  },
+  {
+   "h2": "Homes versus farmland",
+   "html": "<p>Most real property is valued at its actual value, but agricultural and horticultural land is its own class. Section 77-201 sets the agricultural rate at seventy-five percent of actual value, dropping to fifty percent for school district taxes that repay bonds voters approved on or after January 1, 2022. Land with special valuation is taxed at seventy-five percent of that special value, with the same fifty percent exception for those bonds. Property that qualifies for historic rehabilitation valuation follows a separate set of rules in sections 77-1385 to 77-1394.</p><p>This matters for a rural house on acreage. A parcel that mixes a dwelling with cropland or pasture can carry more than one valuation basis, so the tax bill will not track the sale price in a simple way. Ask the assessor which parts of the parcel are classed as agricultural before you compare your bill with a neighbor's.</p>"
+  },
+  {
+   "h2": "What credits show up on the statement?",
+   "html": "<p>Under LB 34, passed in the 2024 special session, the school district property tax credit is applied directly on the property tax statement. You no longer claim it on your income tax return. The credit for community college property taxes paid is different: it is still claimed on the Nebraska income tax return using Form PTC.</p><p>The credits appear as a reduction after the full taxes levied. Credit rates are certified each fall by executive order to the State Treasurer and county officials, so the amount on your statement can change from one year to the next.</p><p>The Department of Revenue also runs a Nebraska Property Tax Look-up Tool that shows the school district and community college taxes paid on a parcel. A seller can use it to confirm what was paid before the closing date.</p>"
+  },
+  {
+   "h2": "Who claims the credit when a house sells mid-year?",
+   "html": "<p>The person who paid the tax to the county treasurer claims the credit. The person who ends up bearing the cost through a closing adjustment does not. Tax counts as paid on the day the treasurer receives it.</p><p>The Department of Revenue's FAQ walks through a sale in which the seller paid all of one year's property taxes to the Douglas County Treasurer the following year. At closing the buyer reimbursed the seller for that earlier year's tax. The seller still claims the community college credit on that year's income tax return, because the money went to the treasurer before closing. The reimbursement on the closing statement does not shift the credit to the buyer.</p><p>In the same example the buyer paid part of the next year's taxes, but the treasurer did not receive that money until the year after. The buyer had paid none of the earlier year's tax to the treasurer, so the buyer had no credit to claim for it.</p><p>Keep the treasurer's receipt and the closing statement together in one folder when you prepare your return.</p>"
+  },
+  {
+   "h2": "Owner filings besides the real estate bill",
+   "html": "<p>Nebraska has other yearly filings that sellers and landlords sometimes trip over. A personal property return and schedule is due each year on or before May 1. A report of damaged property is due on or before July 15. The valuation protest deadline is June 30. Check the Department of Revenue's news page each year for notices about the homestead exemption.</p><p>The personal property return is a separate filing from the real property bill, so a landlord or small business owner should treat the two as separate tasks.</p><p>If a house has storm or fire damage, ask the county assessor whether the damaged property report applies and whether the value was adjusted. A buyer who takes a damaged house as-is will probably ask the same question.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>Taxes follow the lien, not the owner. Real property taxes are a first lien from December 31 of the levy year, so an unpaid bill stays with the house when title changes hands. The title company will check with the county treasurer on the status of each year before closing.</p><p>Before you accept an offer, gather these:</p><ul><li>The last two real estate tax statements and proof of the payment dates.</li><li>This year's valuation notice, and any protest you filed.</li><li>The homestead exemption approval letter, if you have one. The state pays that share to the treasurer.</li><li>A note of any delinquent amount and the date it went delinquent.</li></ul><p>If a bill is past due, the sale process under section 77-1801 can begin after the first Monday of March. The owner, an occupant or a lienholder keeps the right to redeem until the purchaser applies to the county treasurer for a tax deed. Paying a delinquent year out of the sale proceeds at closing clears it, so tell the buyer early about any unpaid year. A cash sale skips the lender's underwriting wait, which helps when a deadline is close.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are Nebraska property taxes due?",
+   "a": "Taxes are due December 31 following the levy. Half goes delinquent on May 1 and the other half on September 1, or April 1 and August 1 in counties with more than 100,000 people."
+  },
+  {
+   "q": "When does the county assessor mail valuation notices?",
+   "a": "On or before June 1, to the owner of record as of May 20, for parcels whose assessed value changed. The notice explains that a protest can be filed with the county clerk on or before June 30."
+  },
+  {
+   "q": "Is the school district credit on my tax bill or my income tax return?",
+   "a": "Since LB 34 in the 2024 special session, the school district credit is printed on the property tax statement. The community college credit is claimed with Form PTC on the Nebraska income tax return."
+  },
+  {
+   "q": "Can a seller still claim a credit after the house sells?",
+   "a": "Yes, if the seller paid the tax to the county treasurer. A buyer's reimbursement at closing does not change who may claim the credit for tax already paid to the treasurer."
+  },
+  {
+   "q": "Is farmland taxed the same as a house?",
+   "a": "No. Agricultural and horticultural land is a separate class valued at seventy-five percent of actual value under section 77-201, with fifty percent applied to school district taxes on certain bonds approved on or after January 1, 2022."
+  }
+ ],
+ "sources": [
+  {
+   "title": "2025 Annual Report, Property Assessment Division (Nebraska Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/PAD/2025-annual-report-property-assessment-division"
+  },
+  {
+   "title": "Neb. Rev. Stat. 77-201, valuation of real property",
+   "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-201"
+  },
+  {
+   "title": "Neb. Rev. Stat. 77-203, when taxes are due",
+   "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-203"
+  },
+  {
+   "title": "Neb. Rev. Stat. 77-204, when real estate taxes are delinquent",
+   "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-204"
+  },
+  {
+   "title": "Neb. Rev. Stat. 77-1315, notice of valuation change",
+   "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1315"
+  },
+  {
+   "title": "Neb. Rev. Stat. 77-1801, collection of real property taxes by sale",
+   "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=77-1801"
+  },
+  {
+   "title": "Nebraska Property Tax Credit FAQs (Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/about/frequently-asked-questions/nebraska-property-tax-credit-faqs"
+  },
+  {
+   "title": "Real Property Tax Credit and School District Property Tax Relief Credit, Tax Year 2025 news release",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/news-release/pad/2025/NewsRelease_2025_Real_Property_Tax_Credit_and_School_Dist_Prop_Tax_Relief_Credit.pdf"
+  },
+  {
+   "title": "Current Year Property Assessment News Releases (Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/about/news-releases/property-assessment-news-releases"
+  }
+ ]
+}

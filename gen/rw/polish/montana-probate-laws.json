@@ -1,0 +1,85 @@
+{
+ "slug": "montana-probate-laws",
+ "sections": [
+  {
+   "h2": "How probate works in Montana",
+   "html": "<p>Montana follows the Uniform Probate Code, so an estate can go through an informal or a formal process. Probate means settling a deceased person's affairs: gathering and managing property, paying debts and taxes, and passing what is left to the people entitled to it.</p>\n<p>A personal representative does the work. You may also hear the title administrator or executor. The right route depends on the value of the estate and on whether the person left a valid will, and the Montana courts site has a probate questionnaire that points you toward the likely one.</p>\n<p>If you plan to sell an inherited house, one thing comes first: someone must have legal authority to sign the deed. In an informal appointment the clerk handles the application. Under MCA 72-3-225, the clerk may make the appointment effective after 120 hours of elapsed time from the death, and only after the findings required by 72-3-222.</p>\n<table><thead><tr><th>Stage</th><th>Rule and statute</th></tr></thead><tbody>\n<tr><td>Start the case</td><td>Informal or formal proceeding, generally within 3 years of death (72-3-122)</td></tr>\n<tr><td>Appointment</td><td>Clerk may act after 120 hours from death (72-3-225)</td></tr>\n<tr><td>Creditor notice</td><td>Published once a week for 3 weeks, with 4 months to present claims (72-3-801)</td></tr>\n<tr><td>Close the estate</td><td>Sworn statement no earlier than 6 months after appointment (72-3-1004)</td></tr>\n</tbody></table>"
+  },
+  {
+   "h2": "Deadline to open a probate",
+   "html": "<p>As a general rule, a probate or appointment case cannot be opened once 3 years have gone by since the death (MCA 72-3-122). Exceptions exist, so an old inherited house is not automatically stuck.</p>\n<p>A late informal appointment or formal proceeding is still possible when no one filed anything on the succession during those 3 years. The trade-off is that the personal representative then has no right to hold estate assets beyond what is needed to confirm title in the successors, and claims other than administration expenses cannot be brought against the estate. A will contest can be filed within the later of 12 months from the informal probate or 3 years from the death.</p>\n<p>The 3-year window is a good reason to move early on a house that sits empty after a death. With no one in authority the house cannot be sold, and it keeps collecting property tax, insurance cost and wear.</p>"
+  },
+  {
+   "h2": "Who can sign the deed on an inherited house?",
+   "html": "<p>Under MCA 72-3-613, a personal representative may sell, mortgage or lease estate property, land included, by public or private sale, unless the will or a court order says otherwise. The title company will want proof of that authority before closing.</p>\n<p>Family can keep living in the house while the estate is open. Under <a href=\"https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0060/section_0060/0720-0030-0060-0060.html\">72-3-606</a>, real property may be left with, or handed over to, the person presumed to be entitled to it, unless the personal representative decides possession is needed to run the estate. The same section requires the personal representative to pay taxes and take reasonable steps to manage, protect and preserve what the estate holds.</p>\n<ul>\n<li>With a will: the named executor applies for appointment, then follows the will.</li>\n<li>Without a will: heirs under the intestacy statutes apply, and the court or clerk appoints someone.</li>\n<li>With a joint tenant or a recorded beneficiary deed: the house may pass outside probate. The courts site links to a transfer on death deed form under MCA 72-6-415.</li>\n<li>Held in joint tenancy or a life estate: Montana State University Extension has a guide on moving such property without probate.</li>\n</ul>"
+  },
+  {
+   "h2": "Creditor claims and how the estate closes",
+   "html": "<p>After appointment, the personal representative publishes a notice once a week for three weeks in a county newspaper. It names the appointment and an address and tells creditors to present claims within 4 months of first publication or be forever barred (MCA 72-3-801). Creditors the representative knows about may also get a mailed notice, which gives them the later of 4 months from publication or 30 days from the mailing.</p>\n<p>A second cutoff sits in 72-3-803: claims not presented by the earlier of 1 year after death or the date in the notice are barred. Between the two rules, heirs and buyers can see when the debts settle.</p>\n<p>Section 72-3-1004 covers closing by sworn statement. The representative files it no sooner than 6 months after the original appointment, and it must confirm the claims period is over, that claims, expenses and taxes are paid or arranged, and that distributees and known creditors received a copy. If nothing involving the personal representative is pending 1 year after the statement is filed, the appointment ends.</p>\n<p>The house can be sold before the estate closes. Proceeds usually run through the estate, so ask the attorney or check the court file to learn who receives the net money and when.</p>"
+  },
+  {
+   "h2": "Selling an inherited Montana house for cash",
+   "html": "<p>A cash sale is an ordinary sale with a short closing timeline. The buyer pays cash, the personal representative signs the deed using the letters of appointment, and the title company records it. You do not have to repair, clean out or stage the house first.</p>\n<p>Typical snags are a will that has not been admitted, heirs who disagree, a vacant house in winter, and overdue taxes. Property taxes keep running during probate. Half is due November 30 and half May 31, and a late payment adds interest and a 2% penalty under MCA 15-16-102.</p>\n<p>Before you list or take an offer, pull these together:</p>\n<ul>\n<li>The death certificate, the will if there is one, and the letters of appointment.</li>\n<li>The current tax balance from the county treasurer.</li>\n<li>A list of heirs with contact details, so everyone can agree to the price.</li>\n<li>Photos and notes on repairs, so any offer reflects the real condition.</li>\n</ul>\n<p>Once the paperwork is in order, the closing is usually quick: the buyer's title company checks that the personal representative's authority matches the deed, clears any recorded liens, and records the sale. A cash sale skips lender appraisals and loan approval, which are the steps that most often delay an estate sale.</p>\n<p>Cash Home Buyers can give a written offer on an inherited Montana house and work around the court timeline. This page is general information, not legal advice. A probate attorney or the clerk of court can confirm the right process for your case.</p>"
+  },
+  {
+   "h2": "Free and low-cost probate help",
+   "html": "<p>The Montana courts point families to several places. Call the Court Help Program at (406) 841-2975 for free help with common civil legal issues, probate among them. The Legal Service Developer Program at the Department of Public Health and Human Services is at 1-800-332-2272. Montana Legal Services Association runs a HelpLine and intake line at 1-800-666-6899, Monday through Friday, 9:00 am to 1:00 pm, for low-income Montanans with pressing civil legal needs. The State Bar of Montana has a lawyer referral service at (406) 449-6577.</p>\n<p>The courts site also offers an affidavit of death, a small estate packet, and an affidavit for collection of personal property packet. For a small estate, one of those packets may save you a full court case.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long do I have to start a probate in Montana?",
+   "a": "Generally 3 years from the date of death under MCA 72-3-122. There are exceptions, including a late appointment when nothing was filed in that period, but the personal representative then has limited rights over estate assets."
+  },
+  {
+   "q": "Can I sell a house in Montana before probate is finished?",
+   "a": "Yes, if a personal representative has been appointed. That person can sell estate real property at public or private sale unless the will or a court order restricts it (MCA 72-3-613). Without an appointment or another valid transfer, no one has clear authority to sign the deed."
+  },
+  {
+   "q": "How long do creditors have to file claims against a Montana estate?",
+   "a": "The published notice gives creditors 4 months from first publication, or 30 days from a mailed notice if that is later. Under 72-3-803, claims are also barred 1 year after death when that date comes first."
+  },
+  {
+   "q": "Does the house have to stay with the personal representative during probate?",
+   "a": "No. Under MCA 72-3-606, real property may be left with the person presumed to be entitled to it unless the personal representative finds possession necessary to administer the estate."
+  },
+  {
+   "q": "When can a Montana personal representative close the estate?",
+   "a": "By filing a verified statement, filed no sooner than 6 months after the original appointment and only after the claims period is over and the estate is administered (MCA 72-3-1004)."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wills, Trusts, Powers of Attorney, Estate Planning, Probate, Montana Courts",
+   "url": "https://courts.mt.gov/forms/endoflife"
+  },
+  {
+   "title": "MCA 72-3-122 Time limit on probate, testacy, and appointment proceedings",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0010/section_0220/0720-0030-0010-0220.html"
+  },
+  {
+   "title": "MCA 72-3-801 Notice to creditors",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0080/section_0010/0720-0030-0080-0010.html"
+  },
+  {
+   "title": "MCA 72-3-1004 Closing estate by sworn statement of personal representative",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0100/section_0040/0720-0030-0100-0040.html"
+  },
+  {
+   "title": "MCA 72-3-606 Possession and protection of estate",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0060/section_0060/0720-0030-0060-0060.html"
+  },
+  {
+   "title": "MCA 72-3-225 Duty of clerk to make appointment effective",
+   "url": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0030/part_0020/section_0250/0720-0030-0020-0250.html"
+  },
+  {
+   "title": "Access to Justice Commission agenda noting Court Help Program issues, Montana Courts",
+   "url": "https://courts.mt.gov/external/supreme/boards/a2j/docs/12-16.pdf"
+  },
+  {
+   "title": "MCA 15-16-102 Time for payment, penalty for delinquency",
+   "url": "https://mca.legmt.gov/bills/mca/title_0150/chapter_0160/part_0010/section_0020/0150-0160-0010-0020.html"
+  }
+ ]
+}
