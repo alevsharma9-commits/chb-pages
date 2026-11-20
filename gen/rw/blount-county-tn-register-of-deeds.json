@@ -1,65 +1,93 @@
 {
-  "slug": "blount-county-tn-register-of-deeds",
-  "sections": [
-    {
-      "h2": "Where is the Blount County Register of Deeds and who runs it?",
-      "html": "<p>The Blount County Register of Deeds is at 349 Court Street, Maryville, TN 37804, and the phone is 865-273-5880. The county's page lists Phyllis Lee Crisp as Register and office hours of Monday through Friday, 8 a.m. to 4:30 p.m.</p><p>This is a recording office. The register's FAQ says staff do not run title searches, do not furnish forms and do not prepare documents. If you are selling a house in <a href='https://blounttn.gov/321/Register-of-Deeds'>Blount County</a>, the deed usually comes from a title company or a real estate attorney, and the register records it after the tax is paid.</p><p>Blount County sits in East Tennessee, with Maryville as the county seat and largest city. Alcoa, Friendsville, Rockford and Townsend are also incorporated cities, and Louisville is a town. A deed for a house in any of them is recorded at the same Court Street office, because Tennessee records land at the county level.</p>"
-    },
-    {
-      "h2": "What does it cost to record a deed in Blount County?",
-      "html": "<p>The county's fee page lists a $12 base fee for a one or two page document, plus $5 for each additional page or attachment. A $1 clerk fee is added to any document that carries a taxable amount, such as a warranty deed or deed of trust.</p><table><thead><tr><th>Item</th><th>Amount listed by the county</th></tr></thead><tbody><tr><td>Recording, one or two pages</td><td>$12</td></tr><tr><td>Each added page or attachment</td><td>$5</td></tr><tr><td>Clerk fee on documents with a taxable amount</td><td>$1</td></tr><tr><td>Extra reference on documents other than deeds and trust deeds</td><td>$5 per reference after the first</td></tr><tr><td>Certification of a recorded document</td><td>$1 per page ($5 for maps)</td></tr><tr><td>Deed transfer tax</td><td>$0.37 per $100</td></tr><tr><td>Mortgage tax</td><td>$0.115 per $100, first $2,000 exempt</td></tr></tbody></table><p>Source: Blount County Register of Deeds fee page. Fees must be paid in advance, and the office takes cash, check, credit or debit card, or money order. Ask the register to confirm the total before you sign if the deed has attachments, since page count changes the fee.</p>"
-    },
-    {
-      "h2": "How much is the transfer tax on a Blount County home sale?",
-      "html": "<p>Tennessee charges $0.37 per $100 of the sale price, or of the property's value if that is higher. The Tennessee Department of Revenue says the buyer (the grantee on the deed) is responsible for paying it, and the register collects it when the deed is recorded.</p><p>A worked example helps. The Census Bureau lists a median owner-occupied home value of $320,500 in Blount County for 2020 to 2024. On a sale at that figure, 3,205 hundreds times $0.37 comes to $1,185.85 in transfer tax. A buyer borrowing $250,000 also pays mortgage tax of $0.115 per $100 on the amount above the first $2,000, which works out to $285.20. Contracts often shift these costs, so read the purchase agreement.</p><p>The grantee must swear to the actual consideration or the value, whichever is greater, on the face of the deed in front of the register. A false statement about value is punishable as perjury under the state's rules. The state also compares values claimed on deeds against assessor values, so a very low stated price on a sale can draw an inquiry letter.</p>"
-    },
-    {
-      "h2": "What must a deed include to be recorded in Blount County?",
-      "html": "<p>The register lists several requirements on the county page. A deed that misses one is likely to be turned away at the counter.</p><ul><li>A Prepared By name and address on every document.</li><li>The district, map and parcel number, plus the responsible taxpayer's name and address and the owner's name and address.</li><li>Book and page references in a format such as WD508 Pg 61. The office cannot reference documents by instrument number.</li><li>On trust deeds, mortgages, modifications and assignments, the sentence: 'Maximum principal indebtedness for Tennessee recording tax purposes is $____.' Even a zero amount must be written.</li><li>A self-addressed stamped envelope if you want the original returned. The office returns originals of real estate documents after recording.</li></ul><p>Fixing a recorded mistake takes more than a pen. Re-recording a document requires it to be signed and notarized again, unless you record a scrivener's error affidavit that attaches or references the earlier document and describes the correction. If you need a change in ownership, the register's FAQ says a new deed has to be prepared and recorded.</p>"
-    },
-    {
-      "h2": "Which Blount County transfers are exempt from the transfer tax?",
-      "html": "<p>Tennessee's recordation tax manual lists transfers that carry no realty transfer tax, and several of them show up in family and estate sales. No oath of consideration is required on an exempt transfer.</p><ul><li>Transfers of a leasehold estate.</li><li>A conveyance from one spouse to the other that creates or ends a tenancy by the entirety.</li><li>Deeds signed by an executor to carry out a devise in a will.</li><li>Divorce decrees and deeds that adjust property rights between divorcing spouses.</li><li>Transfers into and out of a revocable living trust by the same person or spouse.</li><li>Transfers to or from a government entity.</li></ul><p>A quitclaim deed is taxed on the consideration given, but the state says tax is due on fair market value when the wording shows an intent to convey the property itself, such as 'in fee simple' or 'to have and to hold'. Ask the title agent how your deed will be read before closing.</p>"
-    },
-    {
-      "h2": "How do you search or e-record documents in Blount County?",
-      "html": "<p>The register's FAQ says the documents are not on the county website. Public computers are available at 349 Court Street. Online access runs through a vendor, US Title Search Network (ustitlesearch.net, 615-223-1823), and the county tells searchers to contact that company to subscribe.</p><p>The office also accepts e-recordings through Simplifile (800-460-5657) and CSC (1-866-403-5272). Copies cost $0.50 to email each document or $0.50 per page to print. Certified copies that serve as an original are $1.00 per page. An independent service called CRS (Courthouse Retrieval) is not run by the county or the register, so errors in its data go to that company.</p><p>Foreclosure sales posted on the courthouse steps are not tracked by the register either. If a house you are selling has a lender sale pending, the lender or its trustee holds that schedule, and a title agency can confirm what is recorded against the parcel.</p>"
-    },
-    {
-      "h2": "What should a Blount County seller know about the local housing market?",
-      "html": "<p>Blount County had an estimated 143,820 residents in July 2025 and 64,682 housing units, according to the Census Bureau. Land area is 558.82 square miles, and population grew 6.3 percent from the April 2020 base. Owner-occupancy is 77.0 percent, median household income is $77,365, and 2025 building permits totaled 790.</p><p>The southern part of the county lies in the Great Smoky Mountains, and Great Smoky Mountains National Park covers much of the southeast. The northern part is Ridge-and-Valley country, and the Tennessee River forms part of the northwest border with Knox County. Wikipedia lists Denso Manufacturing Tennessee as the largest employer, at about 3,000 workers, and more than 100 manufacturing plants in the county.</p><p>Public schools are run by Blount County Schools, except in Maryville and Alcoa, which operate their own systems. Maryville College is in downtown Maryville. For sellers, the practical point is that school district, city limits and park-adjacent land all vary by address, so confirm the parcel's jurisdiction before listing.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What is the phone number for the Blount County Register of Deeds?",
-      "a": "The number is 865-273-5880. The office is at 349 Court Street, Maryville, TN 37804, and the county lists hours of Monday through Friday, 8 a.m. to 4:30 p.m."
-    },
-    {
-      "q": "How much does Blount County charge to record a deed?",
-      "a": "The county lists $12 for one or two pages and $5 for each extra page, plus a $1 clerk fee on documents with a taxable amount. Transfer tax of $0.37 per $100 is charged on top of that for a sale."
-    },
-    {
-      "q": "Who pays the Tennessee transfer tax on a house sale?",
-      "a": "The Tennessee Department of Revenue says the grantee, meaning the buyer on the deed, is responsible for the realty transfer tax. A purchase contract can still assign the cost differently between buyer and seller."
-    },
-    {
-      "q": "Can I look up Blount County deeds online?",
-      "a": "Yes, through a vendor. The register's page points to ustitlesearch.net, which requires a subscription. Free computers for searching are available in the office at 349 Court Street."
-    },
-    {
-      "q": "Does the Blount County register prepare my deed or check my title?",
-      "a": "No. The register's FAQ states the office is a recording office that does not do title searches, furnish forms or prepare documents. Use a title company or an attorney for the deed and the title search."
-    }
-  ],
-  "sources": [
-    {"title": "Blount County Register of Deeds", "url": "https://blounttn.gov/321/Register-of-Deeds"},
-    {"title": "Blount County Register of Deeds FAQ", "url": "https://blounttn.gov/FAQ.aspx?TID=62"},
-    {"title": "Blount County Register of Deeds Online Services", "url": "https://blounttn.gov/1685/Online-Services"},
-    {"title": "Tennessee Department of Revenue, Recordation Taxes", "url": "https://tn.gov/revenue/taxes/local-taxes/recordation-taxes.html"},
-    {"title": "Tennessee Department of Revenue, Due Date and Tax Rates", "url": "https://tn.gov/revenue/taxes/local-taxes/recordation-taxes/due-date-tax-rate.html"},
-    {"title": "Tennessee Department of Revenue, Recordation Tax Manual", "url": "https://tn.gov/content/dam/tn/revenue/documents/tax_manuals/march-2022/Realty-Transfer-Recordation-Tax.pdf"},
-    {"title": "U.S. Census Bureau QuickFacts, Blount County", "url": "https://www.census.gov/quickfacts/fact/table/carter%20countytennessee,bradleycountytennessee,blountcountytennessee/PST045224"},
-    {"title": "Wikipedia, Blount County, Tennessee", "url": "https://en.wikipedia.org/wiki/Blount_County,_Tennessee"}
-  ]
+ "slug": "blount-county-tn-register-of-deeds",
+ "sections": [
+  {
+   "h2": "Office address and role",
+   "html": "<p>The Blount County Register of Deeds is at 349 Court Street, Maryville, TN 37804. The phone number is 865-273-5880, and the doors are open weekdays from 8 a.m. until 4:30 p.m.</p><p>The office works like a filing counter. The staff will not search a title, hand you forms or draft a document. Sellers in <a href='https://blounttn.gov/321/Register-of-Deeds'>Blount County</a> usually get the deed from a title company or real estate attorney, and the register files it after the tax has been paid.</p><p>The seat of the county, and its biggest city, is Maryville. Alcoa, Friendsville, Rockford and Townsend are cities as well, and Louisville is a town. Tennessee records land county by county, so all of these addresses are handled at the same Court Street counter.</p><p>Before closing day, ask the title company whether it will e-record or deliver a paper original. A paper deed needs the fees paid up front and an envelope if you want the original sent back, while e-recording goes through one of the approved vendors. Either way, ask for the recording information afterward and keep it with your sale papers, since you will need the book and page reference if the deed is ever referred to again.</p>"
+  },
+  {
+   "h2": "Local market in brief",
+   "html": "<p>As of July 2025, an estimated 143,820 people live in Blount County, in 64,682 housing units. Owners occupy 77.0 percent of those units, and a typical owner-occupied house was valued at $320,500 across 2020 to 2024. Public schools are run by Blount County Schools, except in Maryville and Alcoa, which have their own systems. School district, city limits and proximity to park land all vary by address, so confirm the parcel's jurisdiction before you list. Write down the district, map and parcel number now, because the deed will need them and they are quicker to find on a tax bill than in a rush at closing.</p>"
+  },
+  {
+   "h2": "Recording fees",
+   "html": "<p>Recording a document of one or two pages is $12. Every additional page or attachment adds $5, and any document with a taxable amount, like a warranty deed or deed of trust, also gets a $1 clerk fee.</p><table><thead><tr><th>Document or service</th><th>County fee</th></tr></thead><tbody><tr><td>Recording, one or two pages</td><td>$12</td></tr><tr><td>Additional page or attachment</td><td>$5</td></tr><tr><td>Clerk fee on documents with a taxable amount</td><td>$1</td></tr><tr><td>Extra reference on documents other than deeds and trust deeds</td><td>$5 per reference after the first</td></tr><tr><td>Certified copy of a recorded document</td><td>$1 per page ($5 for maps)</td></tr><tr><td>Transfer tax on a deed</td><td>$0.37 per $100</td></tr><tr><td>Mortgage tax</td><td>$0.115 per $100, first $2,000 exempt</td></tr></tbody></table><p>You pay fees when you file. The counter accepts cash, checks, credit or debit cards and money orders. Because page count drives the fee, have the register confirm the total in advance whenever your deed comes with attachments.</p>"
+  },
+  {
+   "h2": "Transfer tax on a home sale",
+   "html": "<p>Under Tennessee law each $100 of the price, or of the value if higher, carries $0.37 in tax. Legally the buyer named as grantee owes it, and the register takes payment as the deed is filed.</p><p>When the buyer finances, a mortgage tax applies too, at $0.115 per $100 for everything borrowed past the first $2,000. Purchase agreements sometimes shift these costs, so look at yours.</p><p>In front of the register, the grantee swears on the deed's face to the real consideration or the value, taking the larger number. Lying about value can be prosecuted as perjury. State reviewers also line deed values up against assessor values, and a suspiciously low price can bring an inquiry letter.</p>"
+  },
+  {
+   "h2": "What a deed must include",
+   "html": "<p>Expect the counter to reject a deed that lacks any of these county requirements.</p><ul><li>A Prepared By line, with name and address, on each document.</li><li>District, map and parcel number, plus name and address for both the owner and the responsible taxpayer.</li><li>Book and page references in a format such as WD508 Pg 61. The office cannot reference documents by instrument number.</li><li>On trust deeds, mortgages, modifications and assignments, the sentence: 'Maximum principal indebtedness for Tennessee recording tax purposes is $____.' Even a zero amount must be written.</li><li>A self-addressed stamped envelope if you want the original returned, which the office does for real estate documents after recording.</li></ul><p>A recorded error cannot be corrected by hand. Recording the document again needs new signatures and a notary, unless you file a scrivener's error affidavit that refers to the earlier document and states the correction. If the owner is wrong, a new deed must be prepared and filed.</p>"
+  },
+  {
+   "h2": "Exempt transfers",
+   "html": "<p>The state recordation tax manual names transfers that owe no realty transfer tax. Several are common in family and estate sales, and none needs an oath of consideration.</p><ul><li>Transfers of a leasehold.</li><li>A spouse conveying to the other to create or end a tenancy by the entirety.</li><li>An executor's deed carrying out a devise in a will.</li><li>Divorce decrees and deeds that settle property between the spouses.</li><li>Moves into or out of a revocable living trust by the same person or spouse.</li><li>Transfers with a government body.</li></ul><p>Quitclaim deeds are taxed on the consideration given. But if the language, such as 'in fee simple' or 'to have and to hold', shows the grantor meant to convey the property itself, fair market value is the base. Ask the title agent which way yours will be read.</p>"
+  },
+  {
+   "h2": "Searching and e-recording",
+   "html": "<p>Deed records are not on the county website. Public computers at 349 Court Street let you search in person. Online access runs through a vendor, US Title Search Network (ustitlesearch.net, 615-223-1823), and you contact that company to subscribe.</p><p>E-recording comes in through Simplifile (800-460-5657) or CSC (1-866-403-5272). Copies cost $0.50 to email each document or $0.50 per page to print. Certified copies that serve as an original are $1.00 per page. An independent service called CRS (Courthouse Retrieval) is not run by the county or the register, so errors in its data go to that company.</p><p>The register does not track foreclosure sales posted on the courthouse steps. When a lender sale is pending on your house, the lender or its trustee has the schedule. A title agency can verify what is recorded on the parcel.</p>"
+  },
+  {
+   "h2": "Getting a Blount County sale to the register",
+   "html": "<p>The sequence is brief. Your title company or attorney drafts the deed, including the parcel number and addresses described above. The buyer takes the oath of value, and tax and fees are paid on recording. Payoffs and old liens get cleared by the title company beforehand.</p><p>A house that needs repairs, or one tied up in an unfinished estate, can be sold to us as-is. We pay cash for Blount County houses, and the deed still goes through this office under identical rules. Gather the previous deed, your tax bill and payoff figures first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How do I reach the Blount County Register of Deeds?",
+   "a": "The line is 865-273-5880. Visit 349 Court Street, Maryville, TN 37804 on weekdays between 8 a.m. and 4:30 p.m."
+  },
+  {
+   "q": "What will recording my deed cost in Blount County?",
+   "a": "The fee is $12 for up to two pages and $5 per page beyond that. Documents with a taxable amount pick up a $1 clerk fee, and a sale adds the $0.37 per $100 transfer tax."
+  },
+  {
+   "q": "On a house sale, who owes the Tennessee transfer tax?",
+   "a": "The buyer named on the deed is the one who owes it under the statute, although your contract may divide the cost differently."
+  },
+  {
+   "q": "Can I look up Blount County deeds online?",
+   "a": "Only through a vendor. Searchers are sent to ustitlesearch.net, which needs a subscription. Free computers are available at 349 Court Street."
+  },
+  {
+   "q": "Will the register write my deed or search my title?",
+   "a": "No. It only records. Hire a title company or attorney for drafting the deed and searching the title."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Blount County Register of Deeds",
+   "url": "https://blounttn.gov/321/Register-of-Deeds"
+  },
+  {
+   "title": "Blount County Register of Deeds FAQ",
+   "url": "https://blounttn.gov/FAQ.aspx?TID=62"
+  },
+  {
+   "title": "Blount County Register of Deeds Online Services",
+   "url": "https://blounttn.gov/1685/Online-Services"
+  },
+  {
+   "title": "Tennessee Department of Revenue, Recordation Taxes",
+   "url": "https://tn.gov/revenue/taxes/local-taxes/recordation-taxes.html"
+  },
+  {
+   "title": "Tennessee Department of Revenue, Due Date and Tax Rates",
+   "url": "https://tn.gov/revenue/taxes/local-taxes/recordation-taxes/due-date-tax-rate.html"
+  },
+  {
+   "title": "Tennessee Department of Revenue, Recordation Tax Manual",
+   "url": "https://tn.gov/content/dam/tn/revenue/documents/tax_manuals/march-2022/Realty-Transfer-Recordation-Tax.pdf"
+  },
+  {
+   "title": "U.S. Census Bureau QuickFacts, Blount County",
+   "url": "https://www.census.gov/quickfacts/fact/table/carter%20countytennessee,bradleycountytennessee,blountcountytennessee/PST045224"
+  },
+  {
+   "title": "Wikipedia, Blount County, Tennessee",
+   "url": "https://en.wikipedia.org/wiki/Blount_County,_Tennessee"
+  }
+ ]
 }
