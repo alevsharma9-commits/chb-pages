@@ -15,7 +15,7 @@
   },
   {
    "h2": "Brazoria County payment options",
-   "html": "<p>Brazoria County parcels can spread the bill out in several ways, all arranged through the county tax office.</p><table><caption>Brazoria County tax payment options</caption><thead><tr><th>Option</th><th>Who qualifies</th><th>Dates</th></tr></thead><tbody><tr><td>Two-part split</td><td>Any parcel</td><td>November 30 for the first half, June 30 for the second</td></tr><tr><td>Quarterly plan</td><td>Homesteads of owners over 65, disabled owners or disabled veterans</td><td>January 31, March 31, May 31, July 31</td></tr><tr><td>Disaster plan</td><td>Property hurt inside a declared disaster area</td><td>January 31, March 31, May 31, July 31</td></tr><tr><td>Deferral</td><td>Owners 65 or older, or disabled</td><td>File an affidavit; 5 percent interest per year</td></tr><tr><td>Partial payment</td><td>Owners who cannot pay all at once</td><td>Any amount is taken</td></tr></tbody></table><p>Deferral only postpones the tax. Interest keeps running until the owner stops owning and living in the home, so a sale ends it and the balance is paid from your proceeds.</p>"
+   "html": "<p>Brazoria County parcels can spread the bill out in several ways, all arranged through the county tax office.</p><table><caption>Brazoria County tax payment options</caption><thead><tr><th>Option</th><th>Who qualifies</th><th>Dates</th></tr></thead><tbody><tr><td>Two-part split</td><td>Any parcel</td><td>November 30 for the first half, June 30 for the second</td></tr><tr><td>Quarterly plan</td><td>Homesteads of owners over 65, disabled owners or disabled-veteran owners</td><td>January 31, March 31, May 31, July 31</td></tr><tr><td>Disaster plan</td><td>Property hurt inside a declared disaster area</td><td>January 31, March 31, May 31, July 31</td></tr><tr><td>Deferral</td><td>Owners 65 or older, or disabled</td><td>File an affidavit; 5 percent interest per year</td></tr><tr><td>Partial payment</td><td>Owners who cannot pay all at once</td><td>Any amount is taken</td></tr></tbody></table><p>Deferral only postpones the tax. Interest keeps running until the owner stops owning and living in the home, so a sale ends it and the balance is paid from your proceeds.</p>"
   },
   {
    "h2": "Settling taxes at closing",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Foreclosure and selling before the auction",
-   "html": "<p>A sale before the auction date is possible, and the lender is repaid out of the proceeds. Foreclosure generally cannot begin until a home loan is more than 120 days behind.</p><ul><li>After a notice of default, the borrower has 20 days to cure.</li><li>Notice of the sale must go out 21 or more days beforehand, posted at the courthouse and filed with the county clerk.</li><li>Auction day is a first Tuesday.</li><li>A deficiency suit after the sale must be filed within two years.</li></ul><p>Ask the servicer for the payoff and the sale date, and hand both to the title company right away.</p>"
+   "html": "<p>Selling ahead of the auction is allowed, and the lender gets repaid from what the sale brings in. A home loan generally has to be more than 120 days behind before foreclosure can start.</p><ul><li>The borrower gets 20 days to cure after a default notice.</li><li>The sale notice goes out at least 21 days ahead, posted at the courthouse and filed with the county clerk.</li><li>Auction day is a first Tuesday, so counting back from it shows how much time you have to find a buyer.</li><li>Any deficiency suit has to be filed within two years of the sale.</li></ul><p>Get the payoff and the sale date from the servicer, then give both to the title company.</p>"
   },
   {
    "h2": "City permits and annexation",
@@ -35,11 +35,11 @@
   },
   {
    "h2": "Questions to ask every buyer",
-   "html": "<p>Learn who pays for the title policy, how long closing takes and whether the price can move after the buyer's walkthrough. Request proof of funds and the earnest money amount, and ask when the deposit comes back to you.</p><p>Skip anyone who wants an upfront fee simply to make an offer or refuses to write terms down. Mention a multi-county lot, a tenant or an unsettled estate in the first conversation, because surprises discovered late usually shrink the offer.</p>"
+   "html": "<p>Find out which side pays for the title policy, how long closing will take and whether the price can change after the walkthrough. Request proof of funds and the earnest money figure, along with the conditions for getting the deposit back.</p><p>Skip anyone who wants an upfront fee simply to make an offer or refuses to write terms down. Mention a multi-county lot, a tenant or an unsettled estate in the first conversation, because surprises discovered late usually shrink the offer.</p>"
   },
   {
    "h2": "What to bring and what to expect",
-   "html": "<p>Pull together the deed, the newest tax statement from each county involved, your lender's payoff contact and any insurance claim records. A cash buyer purchases the house as it stands, so no repair list is needed, but do mention any past water entry.</p><p>Once an offer is accepted, the title company searches for liens, orders the tax certificates and sets the signing. The price is reduced by payoffs and taxes owed, and the remainder reaches you after the deed is recorded. Have each buyer put price, closing date and cost split in writing, and compare what you would net, not the headline number.</p>"
+   "html": "<p>Gather the deed, the latest tax statement for each county involved, the payoff contact at your lender and any insurance claim records. A cash buyer purchases the house as it stands, so no repair list is needed, but do mention any past water entry. If you are unsure about a document, the title company can tell you whether it is needed before the signing date, which saves a second trip.</p><p>After acceptance, the title company looks for liens, orders tax certificates and books the signing. Payoffs and taxes owed come off the price, and you collect the rest when the deed is recorded. Ask each buyer to commit price, closing date and cost split to paper, then compare the net each one leaves you.</p>"
   }
  ],
  "faqs": [
