@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Selling a house in Lake Jackson",
-   "html": "<p>Lake Jackson is a planned city, so many houses sit on curved streets under mature oaks. Buyers often care about the lot, the trees and the drainage as much as the floor plan. Population was 26,386 in 2000, and a seller who can explain the neighborhood and the Brazoria County tax picture tends to get fewer surprises late in the deal.</p><p>You have two basic routes. Listing with an agent puts the house in front of the widest pool, at the price of fix-up work, open houses and a lender's approval process. An investor offer is faster and asks nothing of you in the way of repairs. Work out your take-home on each after the mortgage, the tax bill and settlement charges, and let your calendar break the tie.</p>"
+   "html": "<p>Lake Jackson is a planned city, so many houses sit on curved streets under mature oaks. Buyers often care about the lot, the trees and the drainage as much as the floor plan. Population was 26,386 in 2000, and a seller who can explain the neighborhood and the Brazoria County tax picture tends to get fewer surprises late in the deal.</p><p>You have two basic routes. An agent can show the house to the most people, though you take on fix-up work, open houses and a buyer's loan approval. An investor offer is faster and asks nothing of you in the way of repairs. Work out your take-home on each after the mortgage, the tax bill and settlement charges, and let your calendar break the tie.</p>"
   },
   {
    "h2": "Lots, trees and drainage",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Texas tax dates for Lake Jackson owners",
-   "html": "<p>The calendar comes from state law, and Brazoria County does the collecting. A bill still open after January 31 starts accruing penalty and interest the next day, and the penalty climbs to 12 percent on July 1.</p><ul><li>File a homestead application by April 30; school districts take $140,000 off a homestead's value.</li><li>Value protests go to the appraisal review board by May 15, with extra time if your notice came late.</li><li>Bills are mailed in October and are payable on receipt.</li><li>Older or disabled owners may request a school tax ceiling too.</li></ul><p>The state publishes the full details on the <a href=\"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php\">Comptroller deadlines page</a> and the <a href=\"https://comptroller.texas.gov/taxes/property-tax/exemptions/\">exemptions page</a>.</p>"
+   "html": "<p>The calendar comes from state law, and Brazoria County does the collecting. Once January 31 passes with a balance, penalty and interest begin the following day, and by July 1 the penalty tops out at 12 percent.</p><ul><li>File a homestead application by April 30; school districts take $140,000 off a homestead's value.</li><li>Value protests go to the appraisal review board by May 15, with extra time if your notice came late.</li><li>Statements arrive in October.</li><li>Older or disabled owners may request a school tax ceiling too.</li></ul><p>The state publishes the full details on the <a href=\"https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php\">Comptroller deadlines page</a> and the <a href=\"https://comptroller.texas.gov/taxes/property-tax/exemptions/\">exemptions page</a>.</p>"
   },
   {
    "h2": "Which repairs matter before listing?",
@@ -31,15 +31,19 @@
   },
   {
    "h2": "Deed recording costs",
-   "html": "<p>The Brazoria County clerk records deeds for Lake Jackson land. Expect a records management fee of up to $10, a records archive fee of up to $10 and a $2.00 technology fee, all stacked on the per-page charge in the county clerk manual.</p><p>A notary or similar officer has to acknowledge your signature before the clerk will accept the deed. Filing is handled by the closing office; you only need to confirm the names and legal description match your own purchase deed.</p>"
+   "html": "<p>The Brazoria County clerk records deeds for Lake Jackson land. Three add-ons ride on top of the per-page recording charge: a records management fee of up to $10, a records archive fee of up to $10 and a $2.00 technology fee.</p><p>A notary or similar officer has to acknowledge your signature before the clerk will accept the deed. Filing is handled by the closing office; you only need to confirm the names and legal description match your own purchase deed.</p>"
   },
   {
    "h2": "Who to call about your Brazoria County account",
    "html": "<p>Start with the Brazoria County Tax Office, which collects the bill, and the Brazoria County Appraisal District, which handles exemptions. Ask each for a written account summary that shows the exemption status, any installment plan or deferral on file, and any back taxes.</p><p>Pass both summaries along the day a contract is signed. With an installment plan open, settle early who clears the remaining balance, the buyer or your proceeds. Payoff figures change with the closing date, so request an updated figure for the closing day.</p>"
   },
   {
+   "h2": "What to bring when you visit the county offices",
+   "html": "<p>Offices in Brazoria County move faster when you arrive with your parcel number or street address, a photo ID and your latest bill. Ask the tax office whether a split plan, a four-installment plan or a deferral sits on the account, and ask the appraisal district whether a homestead, over-65 or disability exemption is on file. Write down the name of each clerk you speak with and the date, so any promise about a payoff figure can be traced later.</p><p>If a buyer plans to keep paying under an installment arrangement, the clerk can tell you what the account looks like today. That one answer often decides whether the closing office needs extra paperwork.</p>"
+  },
+  {
    "h2": "Steps from first offer to closing",
-   "html": "<ol><li>Pull together the deed, your newest tax statement, a mortgage payoff statement and any repair or permit records.</li><li>Ask for an investor offer and, if you want, a listing agent's price, and line up what each leaves you.</li><li>Choose a title company and send it the county tax certificate.</li><li>Sign the deed in front of a notary.</li><li>Read the closing statement to see how the year's tax and any plan balance were split.</li></ol><p>A sale to a cash buyer avoids the mortgage underwriting, the appraisal wait and most repair haggling, which shortens the calendar. You also skip prepping the house for showings.</p>"
+   "html": "<ol><li>Gather your deed, newest tax statement, mortgage payoff statement, and whatever repair or permit records you hold.</li><li>Ask for an investor offer and, if you want, a listing agent's price, and line up what each leaves you.</li><li>Choose a title company and send it the county tax certificate.</li><li>Sign the deed in front of a notary.</li><li>Check the closing statement for how the year's tax and any plan balance were divided.</li></ol><p>A sale to a cash buyer avoids the mortgage underwriting, the appraisal wait and most repair haggling, which shortens the calendar. You also skip prepping the house for showings.</p>"
   }
  ],
  "faqs": [
@@ -53,11 +57,11 @@
   },
   {
    "q": "Can I pay Brazoria County taxes in installments?",
-   "a": "In several cases, yes. A split plan runs half by November 30 and half by June 30, and owners 65 or older, disabled owners and a disabled veteran can use four installments."
+   "a": "In several cases, yes. The split plan is half by November 30 and half by June 30; owners 65 or older, disabled owners and a disabled veteran get four installments."
   },
   {
    "q": "Does selling end a Brazoria County tax deferral?",
-   "a": "Yes. The deferred taxes and interest are due once you no longer own and live in the home."
+   "a": "Yes. Yes, the deferred amount plus interest is due when you stop owning and living in the house."
   },
   {
    "q": "Do I need to repair my Lake Jackson house before selling?",
