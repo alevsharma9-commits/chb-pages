@@ -1,75 +1,117 @@
 {
-  "slug": "clark-county-wa-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which Clark County offices handle property tax?",
-      "html": "<p>The Clark County Treasurer collects property tax and the Clark County Assessor values the property. Both work from the Public Service Center at 1300 Franklin Street in Vancouver, where the Joint Lobby on the second floor serves walk-in customers Monday to Thursday from 9:00 a.m. to 4:00 p.m.</p><ul><li><a href='https://clark.wa.gov/treasurer'>Treasurer</a>: 564-397-2252 or treasoff@clark.wa.gov, with phone and email service Monday to Friday from 9:00 a.m. to 4:30 p.m.</li><li><a href='https://clark.wa.gov/assessor'>Assessor</a>: 564-397-2391. The office appraises all taxable real and personal property, and its appraisers physically inspect about one-sixth of the county's properties each year.</li><li>Senior and disability exemption questions: taxreduction@clark.wa.gov.</li></ul><p>Roughly 50 public service providers depend on the money, including school, fire, port and cemetery districts and cities. Your bill adds up the levy rates of every district that overlaps your parcel.</p>"
-    },
-    {
-      "h2": "What should a seller know about Clark County itself?",
-      "html": "<p>Clark County is the southernmost county in Washington, set across the Columbia River from Portland, Oregon. The Columbia bounds it on two sides and the North Fork of the Lewis River on the north. Vancouver is the seat and largest city, and the other communities are Battle Ground, Camas, La Center, Ridgefield, Washougal, Yacolt and part of Woodland.</p><p>The county's history is older than the state. It was created on August 20, 1845 as Vancouver District, became Clarke County in 1849 after explorer William Clark, and settled on its present spelling in 1925. Since 2014 it has run under a home rule charter, with a five-member council and an appointed county manager.</p><p>Health care, professional services and retail are the largest industries, and about 65,000 residents commuted to jobs in Portland in 2019. The Census Bureau estimated 532,119 residents in July 2025, up from 503,311 in 2020. For 2020 to 2024 the median owner-occupied home was valued at $522,900, 66.4 percent of homes were owner-occupied and median household income was $97,536. Building permits reached 3,250 in 2025.</p><p>Weather and water shape the record. The Columbia flooded badly in 1894 and 1948, a 1962 windstorm hit the county, and cold winds out of the Columbia Gorge sometimes bring freezing rain to the southeast.</p>"
-    },
-    {
-      "h2": "When are Clark County property taxes due and how are late payments charged?",
-      "html": "<p>The first half is due April 30 and the second half October 31 under <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020'>RCW 84.56.020</a>. Because October 31, 2026 fell on a Saturday, the Treasurer announced that second-half taxes were due Monday, November 2, and that date has passed.</p><ul><li>First-half statements are usually available by March 15 and second-half statements by September 15.</li><li>Mail counts as on time only if the USPS postmark is on or before the due date. A mailbox drop may not be postmarked that day, so the Treasurer suggests handing mail to the post office or paying by e-check.</li><li>Partial payments are accepted, but the minimum billed must be paid by April 30 and October 31 to avoid interest and penalties on the unpaid balance.</li><li>Delinquent interest on a residential parcel of four or fewer units is 0.75 percent a month with no penalties. Other parcels pay 1 percent a month plus 3 percent on June 1 and 8 percent on December 1.</li><li>The office does not take prepayment of future-year tax, except when a sale of personal property or a mobile home requires it.</li></ul>"
-    },
-    {
-      "h2": "How do you pay the Clark County Treasurer?",
-      "html": "<p>E-check is the cheapest route, and it carries no fee. Search by last name or property account number on the online payment site, where you can also check status and sign up for paperless billing.</p><ul><li>Phone: Point &amp; Pay at 1-833-440-8685 takes e-checks, debit and credit cards. Debit costs a flat $3.95 and credit costs 2.39 percent of the payment.</li><li>Check or money order: payable to Clark County Treasurer, with the account number and tax year on the memo line. A payment stub is preferred but optional.</li><li>Once a parcel is in foreclosure and a certificate of delinquency is filed, the Treasurer can accept payment only from the owner or someone with a recorded interest.</li></ul>"
-    },
-    {
-      "h2": "What happens to property tax when you sell a Clark County house?",
-      "html": "<p>Taxes are a lien from January 1 of the year they are levied, and when the sale contract is silent, <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020'>RCW 84.60.020</a> makes the seller responsible for the share of the year before the closing day and the buyer for the remainder. Ask your closing agent for the Treasurer's current balance so the split is figured on real numbers.</p><p>An exemption holder has extra steps. The Assessor's FAQ says a senior or disability exemption can move to a new primary residence if you still qualify, but you must apply again for the new home with income documents, and the exemption can be claimed on only one primary residence. Washington's REET applies to the sale itself and is due to the county treasurer where the property sits, usually paid by the seller.</p>"
-    },
-    {
-      "h2": "How do you appeal a Clark County property value?",
-      "html": "<p>You can appeal the assessed value within 60 days of the date on your Notice of Value if you believe it exceeds market value. A higher bill alone is not grounds, since the Assessor states that an increase in the tax itself cannot be appealed.</p><p>Two things usually drive a rise in a bill. Voter-approved levies sit outside the 1 percent growth limit, and a home whose value climbs faster than the typical home takes on a larger share of each district's levy. The 1 percent cap applies to a taxing district's total collections, with an allowance for new construction, and not to your individual bill. The county's Property Information Center shows your assessed value, building characteristics and the breakdown among school, city and other districts. Statewide, RCW 84.40.038 also lets the board of equalization waive a late filing for good cause.</p>"
-    },
-    {
-      "h2": "What changes in 2027 for the Clark County senior exemption?",
-      "html": "<p>Income limits rise sharply for tax year 2027. Under Senate Bill 6162, thresholds for each tier go to 80 percent of the county median household income for tax years 2027 to 2029. Qualified applicants will also be exempt from all state school levies, the veteran disability rating needed falls to 40 percent, and a standard deduction of $7,500 per applicant and spouse becomes available.</p><table><thead><tr><th>Tier</th><th>Tax years 2024 to 2026</th><th>Tax years 2027 to 2029</th></tr></thead><tbody><tr><td>Threshold 1</td><td>$44,000</td><td>$64,000</td></tr><tr><td>Threshold 2</td><td>$53,000</td><td>$74,000</td></tr><tr><td>Threshold 3</td><td>$62,000</td><td>$85,000</td></tr><tr><td>Senior deferral limit</td><td>$65,548</td><td>$94,579</td></tr></tbody></table><p>Applicants must be 61 or older by December 31 of the assessment year, unable to work because of disability, or a qualifying disabled veteran. They must own the home and live in it at least six months a year. People already on the program are adjusted automatically, and new applications open in February 2027 through an online portal, by mail or by appointment. Benefits can include a freeze on assessed value for the qualifying year, and the tax difference does not have to be repaid or placed as a lien.</p>"
-    },
-    {
-      "h2": "What help exists when Clark County taxes are behind?",
-      "html": "<p>The Treasurer can take partial payments, which apply to the oldest balance first, and can offer a one-time waiver of interest and penalties to income-qualified owners of a primary residence facing foreclosure or distraint. Write to taxrequests@clark.wa.gov to talk with a tax specialist. Real property three or more years delinquent is subject to foreclosure under chapter 84.64 RCW. The Washington Homeownership Resource Center, at 877-894-4663, offers foreclosure prevention, housing counseling and legal help.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "When are Clark County property taxes due?",
-      "a": "April 30 for the first half and October 31 for the second. In 2026 the October date fell on a weekend, so the Treasurer set Monday, November 2, and that deadline has passed. Mailed payments count only with a USPS postmark on or before the due date."
-    },
-    {
-      "q": "What does late payment cost in Clark County?",
-      "a": "A residential parcel with four or fewer units pays 0.75 percent interest per month with no penalties. Other parcels pay 1 percent monthly, plus a 3 percent penalty on June 1 and an 8 percent penalty on December 1."
-    },
-    {
-      "q": "Can I pay Clark County property tax by phone?",
-      "a": "Yes. Call Point and Pay at 1-833-440-8685 for e-check, debit or credit card payments. Debit has a $3.95 fee and credit has a 2.39 percent fee, while e-check has none. The general office line cannot take payments."
-    },
-    {
-      "q": "How long do I have to appeal my Clark County value?",
-      "a": "You have 60 days from the date on your Notice of Value. The Assessor's office is at 564-397-2391. A rise in the tax bill from voted levies or district budgets cannot be appealed, only the assessed value."
-    },
-    {
-      "q": "What will the senior exemption income limit be in Clark County in 2027?",
-      "a": "The top tier rises to $85,000 for tax years 2027 to 2029, with lower tiers at $74,000 and $64,000. Applicants must be 61 or older, unable to work because of disability, or a qualifying disabled veteran, and must own and occupy the home."
-    }
-  ],
-  "sources": [
-    {"title": "Clark County Treasurer", "url": "https://clark.wa.gov/treasurer"},
-    {"title": "Clark County Treasurer Frequently Asked Questions", "url": "https://clark.wa.gov/treasurer/frequently-asked-questions"},
-    {"title": "Clark County Treasurer Tax Relief", "url": "https://clark.wa.gov/treasurer/tax-relief"},
-    {"title": "Clark County Assessor", "url": "https://clark.wa.gov/assessor"},
-    {"title": "Clark County Assessor Property Taxes", "url": "https://clark.wa.gov/assessor/property-taxes"},
-    {"title": "Clark County Assessor Property Tax Relief Programs", "url": "https://clark.wa.gov/assessor/property-tax-relief-programs"},
-    {"title": "Clark County Senior Exemption FAQs", "url": "https://clark.wa.gov/sites/default/files/media/document/2026-06/8642-faqs-web-ada.pdf"},
-    {"title": "RCW 84.56.020", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020"},
-    {"title": "RCW 84.40.038", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.40.038"},
-    {"title": "RCW 84.60.020", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020"},
-    {"title": "RCW 84.64.050", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64.050"},
-    {"title": "Washington Department of Revenue Real estate excise tax", "url": "https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax"},
-    {"title": "Census QuickFacts Clark County, Washington", "url": "https://www.census.gov/quickfacts/fact/table/clarkcountywashington/PST045224"},
-    {"title": "Clark County, Washington (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Clark_County,_Washington"}
-  ]
+ "slug": "clark-county-wa-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who to call about Clark County property tax",
+   "html": "<p>Clark County splits the job in two. The Treasurer sends bills and takes payments; the Assessor decides what your property is worth on paper. You will find both at the Public Service Center, 1300 Franklin Street, Vancouver. If you want to talk in person, go to the second-floor Joint Lobby, which is open Monday through Thursday, 9:00 a.m. to 4:00 p.m.</p><ul><li><a href='https://clark.wa.gov/treasurer'>Treasurer</a>: 564-397-2252 or treasoff@clark.wa.gov. Phone and email hours are Monday through Friday, 9:00 a.m. to 4:30 p.m.</li><li><a href='https://clark.wa.gov/assessor'>Assessor</a>: 564-397-2391. Appraisers cover every taxable real and personal property, walking through roughly one-sixth of the county's parcels each year.</li><li>Questions about senior or disability relief: taxreduction@clark.wa.gov.</li></ul><p>About 50 public service providers share in the revenue, among them schools, fire districts, ports, cemetery districts and cities. Whatever levy rates apply to the districts over your lot get added together on your statement.</p>"
+  },
+  {
+   "h2": "Clark County market snapshot",
+   "html": "<p>Clark County faces Portland across the Columbia River, and Vancouver is its biggest city. Population reached about 532,119 in July 2025, compared with 503,311 in 2020. Owner-occupants live in 66.4 percent of homes, and the median value of an owner-occupied home is $522,900. Builders pulled 3,250 permits in 2025, so buyers in your area often have new construction to compare against your house.</p>"
+  },
+  {
+   "h2": "Due dates and late payment charges",
+   "html": "<p>Statements split the year into two halves. Half one is due April 30 and half two October 31, as set by <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020'>RCW 84.56.020</a>. In 2026 the second date fell on a Saturday, so the Treasurer moved the deadline to Monday, November 2. Expect the same shift whenever a due date lands on a weekend.</p><ul><li>Statements usually become available by March 15 for the first half and September 15 for the second.</li><li>A mailed check is timely only when the USPS postmark shows the due date or earlier. Collection boxes can miss that day's postmark, so the Treasurer recommends handing the envelope to a postal clerk, or paying by e-check.</li><li>You can send less than the full amount. Still, the minimum billed has to arrive by each deadline, otherwise interest and penalties build on whatever stays unpaid.</li><li>Late residential parcels with up to four units accrue 0.75 percent per month and no penalty. Any other parcel accrues 1 percent per month, and takes a 3 percent penalty on June 1 and an 8 percent penalty on December 1.</li><li>You cannot prepay a future year, with a narrow carve-out when selling personal property or a mobile home.</li></ul>"
+  },
+  {
+   "h2": "Paying the Treasurer",
+   "html": "<p>An e-check costs nothing, which makes it the least expensive choice. On the online payment site, look up your parcel by last name or account number, check what you owe, and enroll in paperless billing if you like.</p><ul><li>By phone, call Point &amp; Pay at 1-833-440-8685 and use an e-check, debit card or credit card. A debit payment adds a flat $3.95. A credit payment adds 2.39 percent.</li><li>By mail, write a check or money order to Clark County Treasurer. Put the account number and tax year on the memo line. Including the stub helps but is optional.</li><li>After a certificate of delinquency is filed in a foreclosure, only the owner or a person with a recorded interest in the parcel may pay.</li></ul>"
+  },
+  {
+   "h2": "Selling with property tax due",
+   "html": "<p>A lien for the year's property tax attaches on January 1. Where your purchase contract is silent, <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020'>RCW 84.60.020</a> has you covering the days before closing and the buyer the days after. Ask the closing agent to pull the Treasurer's present balance, so the split rests on actual figures and not on last year's statement.</p><p>The state's real estate excise tax is charged on the sale. The county treasurer where the property sits collects it, and sellers usually bear it. Put it in your net proceeds estimate next to any property tax still owed.</p><p>Homeowners with a senior or disability exemption should know what happens to it. The Assessor's FAQ explains that it can follow you to a new primary residence if you still qualify, but you reapply for that home and send income documents again. Only one primary residence can hold the exemption.</p>"
+  },
+  {
+   "h2": "Is your Clark County valuation too high?",
+   "html": "<p>Appeal the assessed value within 60 days of the date printed on your Notice of Value, if you think it is above market value. Hearing that your bill went up is not a reason on its own, because the Assessor says growth in the tax amount is not appealable.</p><p>Bills rise for two common reasons. Levies that voters approved sit outside the 1 percent limit. Also, a house that gains value faster than average carries a bigger slice of each district's levy. That 1 percent limit controls what a district collects overall, adjusted for new construction, and says nothing about one household's bill.</p><p>Before you phone, open the county's Property Information Center. It lists your assessed value, the building characteristics on file, and how the bill divides among school, city and other districts. Compare those details with the house you actually own. State law (RCW 84.40.038) also lets the board of equalization excuse a late filing when there is good cause.</p>"
+  },
+  {
+   "h2": "2027 changes to the senior exemption",
+   "html": "<p>Tax year 2027 brings much higher income limits. Senate Bill 6162 sets each tier at 80 percent of county median household income for tax years 2027 to 2029. Approved applicants will also be exempt from all state school levies, a veteran needs only a 40 percent disability rating, and a $7,500 standard deduction applies for each applicant and spouse.</p><table><thead><tr><th>Income tier</th><th>Limit, tax years 2024 to 2026</th><th>Limit, tax years 2027 to 2029</th></tr></thead><tbody><tr><td>Threshold 1</td><td>$44,000</td><td>$64,000</td></tr><tr><td>Threshold 2</td><td>$53,000</td><td>$74,000</td></tr><tr><td>Threshold 3</td><td>$62,000</td><td>$85,000</td></tr><tr><td>Senior deferral limit</td><td>$65,548</td><td>$94,579</td></tr></tbody></table><p>Who can apply: people who turn 61 by December 31 of the assessment year, people unable to work because of a disability, and anyone who is a qualifying disabled veteran. You must own the house and occupy it six months or more each year. Current participants are adjusted without doing anything. New applications open in February 2027 online, by mail or at an appointment. A benefit may include a freeze on assessed value for that year, and the difference in tax is neither repaid nor recorded as a lien.</p>"
+  },
+  {
+   "h2": "When taxes are behind",
+   "html": "<p>Send what you can. The Treasurer applies partial payments to the oldest balance first. An owner with limited income who lives in the home and faces foreclosure or distraint may qualify for a one-time waiver of interest and penalties. To speak with a tax specialist, write to taxrequests@clark.wa.gov.</p><p>Real property that is three or more years delinquent can be foreclosed under chapter 84.64 RCW. The Washington Homeownership Resource Center, 877-894-4663, helps with foreclosure prevention, housing counseling and legal questions.</p><p>Planning a sale while taxes are owed? Request a payoff balance from the Treasurer before choosing a closing date, then have the closing agent pay it out of your proceeds. A cash buyer skips lender underwriting and appraisal, which shortens the timeline, though the lien must still be cleared at closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are Clark County property taxes due?",
+   "a": "April 30 covers the first half and October 31 the second. In 2026 the second date landed on a weekend, so the Treasurer moved it to Monday, November 2. Mail needs a USPS postmark on or before the deadline."
+  },
+  {
+   "q": "What does late payment cost in Clark County?",
+   "a": "Residential parcels of four units or fewer owe 0.75 percent interest each month and no penalties. Everything else owes 1 percent monthly, with a 3 percent penalty added June 1 and an 8 percent penalty added December 1."
+  },
+  {
+   "q": "Can I pay Clark County property tax by phone?",
+   "a": "Yes, through Point and Pay at 1-833-440-8685, using an e-check, debit card or credit card. Debit adds $3.95, credit adds 2.39 percent, and e-check is free. The main office line does not take payments."
+  },
+  {
+   "q": "How long do I have to appeal my Clark County value?",
+   "a": "Sixty days from the date on your Notice of Value. Call the Assessor at 564-397-2391 with questions. Only the assessed value can be appealed, not a bill increase that comes from voted levies or district budgets."
+  },
+  {
+   "q": "What will the senior exemption income limit be in Clark County in 2027?",
+   "a": "The highest tier moves to $85,000 for tax years 2027 to 2029, and the lower tiers to $74,000 and $64,000. You qualify if you are 61 or older, cannot work because of a disability, or are a qualifying disabled veteran, and you own and live in the home."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Clark County Treasurer",
+   "url": "https://clark.wa.gov/treasurer"
+  },
+  {
+   "title": "Clark County Treasurer Frequently Asked Questions",
+   "url": "https://clark.wa.gov/treasurer/frequently-asked-questions"
+  },
+  {
+   "title": "Clark County Treasurer Tax Relief",
+   "url": "https://clark.wa.gov/treasurer/tax-relief"
+  },
+  {
+   "title": "Clark County Assessor",
+   "url": "https://clark.wa.gov/assessor"
+  },
+  {
+   "title": "Clark County Assessor Property Taxes",
+   "url": "https://clark.wa.gov/assessor/property-taxes"
+  },
+  {
+   "title": "Clark County Assessor Property Tax Relief Programs",
+   "url": "https://clark.wa.gov/assessor/property-tax-relief-programs"
+  },
+  {
+   "title": "Clark County Senior Exemption FAQs",
+   "url": "https://clark.wa.gov/sites/default/files/media/document/2026-06/8642-faqs-web-ada.pdf"
+  },
+  {
+   "title": "RCW 84.56.020",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020"
+  },
+  {
+   "title": "RCW 84.40.038",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.40.038"
+  },
+  {
+   "title": "RCW 84.60.020",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020"
+  },
+  {
+   "title": "RCW 84.64.050",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64.050"
+  },
+  {
+   "title": "Washington Department of Revenue Real estate excise tax",
+   "url": "https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax"
+  },
+  {
+   "title": "Census QuickFacts Clark County, Washington",
+   "url": "https://www.census.gov/quickfacts/fact/table/clarkcountywashington/PST045224"
+  },
+  {
+   "title": "Clark County, Washington (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Clark_County,_Washington"
+  }
+ ]
 }
