@@ -1,0 +1,89 @@
+{
+ "slug": "wisconsin-eviction-process",
+ "sections": [
+  {
+   "h2": "How an eviction case moves through court",
+   "html": "<p>Evictions in Wisconsin are heard as small claims cases in the county circuit court, whatever amount of rent is claimed. Chapter 799 of the Wisconsin Statutes sets the procedure, and the court system's small claims self-help pages carry an eviction guide and a forms assistant.</p><p>The person entitled to possession, or an agent authorized in writing, files the case under Wis. Stat. 799.40. A claim for money tied to the tenant's occupancy, such as unpaid rent, can ride along, but the complaint has to state it separately. Under 799.41 the complaint is written, names the parties, identifies the property (a street name and number is enough), and lays out the facts that justify removal.</p><p>Either side may appear alone or through an attorney. Under 799.06(2), an agent or authorized employee of a company counts as the company appearing in its own person.</p>"
+  },
+  {
+   "h2": "Deadlines after filing",
+   "html": "<p>Several short clocks run once the case is filed. Your own summons and any court order carry the exact dates, so read them closely.</p><table><thead><tr><th>Step</th><th>Time limit or rule</th></tr></thead><tbody><tr><td>Summons return date</td><td>Set 5 to 25 days after the summons issues; tenant served at least 5 days before the return date</td></tr><tr><td>Judgment and writ</td><td>If the landlord is entitled to possession, the court enters judgment for restitution and orders a writ issued at once</td></tr><tr><td>Hardship stay</td><td>Court may stay the writ up to 30 days, on condition that rent and occupancy charges are paid</td></tr><tr><td>Emergency assistance stay</td><td>Case is stayed while the tenant applies, for no more than 10 working days, and not after a writ issues</td></tr><tr><td>Sheriff acts</td><td>Executes the writ within 10 days of receiving it; a writ received more than 30 days after issuance is not executed</td></tr><tr><td>Appeal</td><td>Must start within 15 days of the judgment or order</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Can a tenant delay or stop an eviction?",
+   "html": "<p>Only in narrow ways. A judge may grant a hardship stay of up to 30 days from the order for judgment, but the stay holds only if the tenant pays all rent and charges due at judgment plus the reasonable value of occupancy during the stay. A bond can be required too. Miss a condition and the landlord files an affidavit, after which the writ can issue immediately.</p><p>Filing an appeal does not freeze things by itself. Under Wis. Stat. 799.445 the stay applies only if the tenant files an undertaking with surety the judge approves. That undertaking covers appeal costs plus rent and damages that build up during the appeal. If the tenant then skips rent, the guaranteed payment goes straight to the landlord and the stay ends, freeing the sheriff to execute the writ.</p><ul><li>A landlord who takes past due rent after notice or after filing cannot be pushed into dismissal on that basis (799.40(1m)).</li><li>Having waived an earlier lease breach is no defense to eviction or to a damages claim (799.40(1s)).</li><li>If the tenant is being evicted after a foreclosure sale, the complaint must say so (799.41(2)), and the court stays the case against a foreclosed homeowner as provided in Wis. Stat. 846.40(9) (799.40(4)(b)).</li></ul>"
+  },
+  {
+   "h2": "Belongings when the sheriff executes the writ",
+   "html": "<p>The sheriff removes the tenant and anyone claiming under the tenant, using reasonable force if needed, then deals with the property under Wis. Stat. 799.45. The landlord picks between two routes. By default the sheriff moves the property to a safe place in the county and mails the tenant written notice of where it is within 3 days. The sheriff may ask the landlord for a deposit toward moving costs first.</p><p>The other route is for the landlord to say, when handing over the writ, that the landlord will remove and store or dispose of the property under Wis. Stat. 704.05(5). The sheriff then supervises if asked.</p><ul><li>Property the sheriff judges worthless can go to a refuse site, with notice to the tenant within 3 days.</li><li>Prescription medication and prescription medical equipment must be held for 7 days after the landlord finds it, and returned promptly if the tenant asks before disposal.</li><li>Before disposing of a manufactured home, mobile home or titled vehicle, the landlord must notify the tenant and any secured party the landlord knows about.</li><li>A landlord who will not store belongings must say so in writing when the lease is signed or renewed.</li></ul>"
+  },
+  {
+   "h2": "What to gather before filing",
+   "html": "<p>The court will look for proof that the notice was proper and delivered a listed way, so keep the paper trail in one folder. This list follows the statutes, not any local form.</p><ul><li>The signed lease or rental terms, including any signed term on showing the premises or storing belongings.</li><li>A rent ledger that separates rent from late fees, because the notice statute counts late fees on past due rent as rent.</li><li>A copy of the notice and proof of how it was delivered. For certified mail, proof of mailing from the post office is enough under 799.40(1g).</li><li>The rental's street address, which identifies the property in the complaint.</li><li>A plan for the tenant's belongings: sheriff storage, or your own removal and storage under 704.05(5).</li></ul><p>The county circuit court clerk can tell you which forms and fees apply locally. Ask before you file.</p>"
+  },
+  {
+   "h2": "Selling a house with a tenant or a pending eviction",
+   "html": "<p>A sale does not wipe out the tenancy. A tenant who is not in default has exclusive possession under Wis. Stat. 704.05(2) until the lease expires or a periodic tenancy is terminated. The landlord may show the premises to buyers on advance notice at reasonable times, unless a signed lease provision says otherwise.</p><p>An owner weighing a sale has two paths. One is to finish the notice and court steps above and deliver an empty house. The other is to sell with the tenant staying, which skips the court process. The first path's timeline hinges on the return date the court sets and, after judgment, the sheriff's 10-day window. Those dates vary case by case, so a closing date should come after them, not before.</p><p>Buyers who pay cash often accept a house with a tenant or a case in progress, which spares the owner from timing a closing around the sheriff.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does an eviction take in Wisconsin?",
+   "a": "The statutes set pieces of the timeline rather than one total. The summons return date falls 5 to 25 days after issue, and after judgment the sheriff has 10 days from receiving the writ to execute it. A hardship stay of up to 30 days or an appeal can add time."
+  },
+  {
+   "q": "Can a Wisconsin tenant stop an eviction by paying the rent?",
+   "a": "Late rent paid after notice does not by itself end the case, since a landlord who accepts it cannot be forced to dismiss. A hardship stay of up to 30 days is possible at judgment, and it depends on paying rent and occupancy charges."
+  },
+  {
+   "q": "How long does a tenant have to appeal a Wisconsin eviction judgment?",
+   "a": "Fifteen days from the judgment or order. An appeal pauses enforcement only if the tenant files an undertaking with approved surety covering costs, rent and damages during the appeal."
+  },
+  {
+   "q": "Who removes a tenant after the court rules for the landlord?",
+   "a": "The sheriff. The court orders a writ of restitution, the writ goes to the sheriff, and the sheriff removes the tenant and anyone claiming under the tenant. The sheriff must act within 10 days of receiving it."
+  },
+  {
+   "q": "Can a Wisconsin landlord ask for back rent in the eviction case?",
+   "a": "Yes. Wis. Stat. 799.40(2) lets the landlord join a claim arising from the tenant's possession or occupancy, such as rent owed. The complaint states that claim separately from the request for possession."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wis. Stat. 799.40",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/40?view=section"
+  },
+  {
+   "title": "Wis. Stat. 799.41",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/41?view=section"
+  },
+  {
+   "title": "Wis. Stat. 799.05",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/05?view=section"
+  },
+  {
+   "title": "Wis. Stat. 799.06",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/06?view=section"
+  },
+  {
+   "title": "Wis. Stat. 799.44",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/44?view=section"
+  },
+  {
+   "title": "Wis. Stat. 799.445",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/445?view=section"
+  },
+  {
+   "title": "Wis. Stat. 799.45",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/45?view=section"
+  },
+  {
+   "title": "Wis. Stat. 704.05",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/704/05?view=section"
+  },
+  {
+   "title": "Wisconsin Court System Small Claims Self-Help",
+   "url": "https://www.wicourts.gov/services/public/selfhelp/smallclaims.htm"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "slug": "virginia-landlord-tenant-law-tenant-rights",
+ "sections": [
+  {
+   "h2": "Paperwork a landlord owes a new tenant",
+   "html": "<p>Every new tenant is entitled to a written rental agreement and to the statement of tenant rights and responsibilities from the Department of Housing and Community Development. The duty comes from <a href=\"https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1204/\">Va. Code 55.1-1204</a>.</p><p>Both sides sign an acknowledgment form showing the tenant got the statement. A tenant who refuses to sign leaves the landlord to record the date or dates the form was provided and that the tenant did not sign. Within 10 business days of the effective date, the tenant receives a copy of the signed agreement and the statement.</p><p>Skipping the delivery does not void the lease. It does bar the landlord from filing or continuing any action for an alleged lease violation, an unlawful detainer included, until the tenant has the statement. An owner preparing to sell a rented house should check the file for that signed acknowledgment first.</p>"
+  },
+  {
+   "h2": "When there is no written lease",
+   "html": "<p>If the landlord never offers a written agreement, the same section creates a tenancy by operation of law with fixed terms. Anyone who finds an oral arrangement on a rental, whether buying or selling, should know these defaults.</p><ul><li>The chapter applies to the unit, and the term is 12 months with no automatic renewal, except in month-to-month cases.</li><li>Rent is paid in 12 equal installments at the agreed amount, or at fair market rent if none was agreed.</li><li>Rent is due on the first of the month and is late after the fifth.</li><li>A deposit of up to two months of rent may be collected.</li><li>A written agreement can be signed at any point during the 12 months.</li></ul><p>When rent is paid weekly, the tenancy is week-to-week. Every other case is month-to-month unless the agreement says otherwise.</p>"
+  },
+  {
+   "h2": "Late fees and payment methods",
+   "html": "<p>A landlord may charge a late fee only when the written agreement provides for one, and the fee cannot be more than the lesser of 10 percent of the periodic rent or 10 percent of the balance due.</p><p>Rent and deposits must be accepted by check and money order, and cash or money order payments earn a written receipt. Collection or processing fees are barred unless a no-fee alternative is offered. Any fee that is charged for card or electronic payment is capped at the actual out-of-pocket cost billed by a third party. A landlord with four or fewer rental units does not have to accept debit or credit cards.</p><p>Tenants can ask in writing for a statement of charges and payments. The landlord has 10 business days to provide it, covering the tenancy or the past 12 months, whichever is shorter. A seller can use that same statement to show a buyer exactly what each tenant has paid, which settles most questions about back rent before closing.</p>"
+  },
+  {
+   "h2": "Landlords with more than four rentals",
+   "html": "<p>An owner of more than four rental units, or of more than a 10 percent interest in more than four, faces added notice rules for renewals. They are in subsection K of 55.1-1204 and summarized here.</p><table><thead><tr><th>Rule</th><th>Version now in force</th><th>Version effective July 1, 2027</th></tr></thead><tbody><tr><td>Rent increase notice</td><td>Written notice at least 60 days before the term ends</td><td>Written notice at least 90 days before the term ends, with a reply deadline at least 30 days after delivery</td></tr><tr><td>Nonrenewal notice</td><td>At least 60 days before the term ends</td><td>At least 60 days before the term ends</td></tr><tr><td>Payment plan for small rent balances</td><td>Not required</td><td>Required before the 14-day rent notice in certain cases (55.1-1245)</td></tr></tbody></table><p>Neither notice rule covers a periodic tenancy created by operation of law under subsection C of 55.1-1253. A person renting out one house is probably outside these provisions. Someone selling several houses from a portfolio should treat them as live.</p>"
+  },
+  {
+   "h2": "Security deposits",
+   "html": "<p>A landlord may not demand or take a deposit larger than two months of periodic rent. Deductions must be itemized in writing within 45 days after the tenancy ends or the tenant leaves, whichever comes last. The rules are in <a href=\"https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1226/\">Va. Code 55.1-1226</a>.</p><ul><li>Allowed deductions: accrued rent and late charges, damage beyond reasonable wear and tear, other charges in the lease, and actual damages for breach.</li><li>With more than one tenant, the refund is a single check payable to all of them, unless they agreed otherwise in writing.</li><li>With no forwarding address, the landlord may hold the money and, one year past the 45 days, send it to the State Treasurer as unclaimed property.</li><li>A reasonable part may be withheld for unpaid water, sewer, or other utility bills if prior written notice was given. A tenant who proves payment gets that money back.</li><li>Records of deductions are kept for two years and open to the tenant during business hours.</li><li>Damage insurance may be offered in place of a deposit if it meets the listed criteria.</li></ul><p>A tenant can ask to be present at the move-out inspection, which must take place within 72 hours of delivering possession. When a landlord willfully fails to comply, the court orders the deposit returned with actual damages and reasonable attorney fees. If the tenant owes rent, the deposit is credited against it.</p>"
+  },
+  {
+   "h2": "Deposits when the rental is sold",
+   "html": "<p>Whoever holds the landlord's interest when the tenancy ends is bound by the deposit statute and must return any deposit duly owed. That holds however the interest was acquired, whether or not the deposit was handed over, and whatever the old and new owners agreed between themselves.</p><p>A seller can prepare in a few steps:</p><ul><li>List every deposit held and who paid it.</li><li>Gather the itemized deduction records for the last two years.</li><li>Get the buyer's written agreement on how deposits are credited at closing, and confirm the tenant is told.</li><li>Keep the signed rights acknowledgment and the lease together for the buyer.</li></ul><p>These are ideas for organizing the file, not legal advice. An attorney should review the closing paperwork.</p>"
+  },
+  {
+   "h2": "Landlord remedies after the lease ends",
+   "html": "<p>After termination, <a href=\"https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1251/\">55.1-1251</a> gives the landlord a claim for possession and rent, and a separate claim for actual damages, attorney fees, and service costs. Damages may reach rent through the end of the term or the start of a new tenancy. The landlord must mitigate, and a post-possession judgment cannot seek accelerated rent.</p><p>When the tenant moves out by choice or by writ, the deposit is credited under the 45-day rule described above.</p><p>A tenant facing a termination notice can often resolve the problem by paying or correcting the breach in time, so reading the notice closely matters. A cash buyer can close on a rented house as-is, and the paperwork above is what a buyer will want to see.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the most a landlord can take as a security deposit?",
+   "a": "Two months of periodic rent. Deductions must be itemized and the balance returned within 45 days after the tenancy ends or the tenant leaves, whichever is last."
+  },
+  {
+   "q": "Can a landlord charge any late fee?",
+   "a": "Only if the written lease provides for one, and it cannot exceed the lesser of 10 percent of the periodic rent or 10 percent of the balance owed."
+  },
+  {
+   "q": "Does a missing tenant rights form void the lease?",
+   "a": "No. The lease stays valid, but the landlord cannot file or maintain an unlawful detainer for an alleged lease violation until the tenant has the statement of rights and responsibilities."
+  },
+  {
+   "q": "What are the default terms with no written lease?",
+   "a": "A 12-month tenancy with no automatic renewal, rent due on the first and late after the fifth, and a deposit of up to two months of rent. Weekly payers are week-to-week."
+  },
+  {
+   "q": "Who returns the deposit after a sale?",
+   "a": "The holder of the landlord's interest when the tenancy ends. That holder is bound even if the deposit never transferred with the property."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Va. Code 55.1-1204 Terms and conditions of rental agreement",
+   "url": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1204/"
+  },
+  {
+   "title": "Va. Code 55.1-1226 Security deposits",
+   "url": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1226/"
+  },
+  {
+   "title": "Va. Code 55.1-1251 Remedy after termination",
+   "url": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1251/"
+  },
+  {
+   "title": "Va. Code 55.1-1245 Noncompliance with rental agreement",
+   "url": "https://law.lis.virginia.gov/vacode/title55.1/chapter12/section55.1-1245/"
+  }
+ ]
+}
