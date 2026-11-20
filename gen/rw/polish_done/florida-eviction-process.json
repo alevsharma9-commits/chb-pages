@@ -1,0 +1,85 @@
+{
+ "slug": "florida-eviction-process",
+ "sections": [
+  {
+   "h2": "The steps in a Florida eviction",
+   "html": "<p>A Florida eviction runs in five stages: written notice, a court complaint, the tenant's response, a judgment, and removal by the sheriff. Each stage has its own clock under Chapter 83 of the Florida Statutes.</p><p>The order matters. A landlord who changes the locks, shuts off the water or carries out the tenant's belongings has skipped the court stage, and that shortcut can bring its own claims. The slow, documented path is the one that ends with a writ in hand.</p><p>Owners who plan to sell have to think about timing too. Every stage adds days, and a buyer will want a closing date the court calendar can support.</p>"
+  },
+  {
+   "h2": "Before going to court",
+   "html": "<p>The landlord starts by serving a written notice that fits the problem. For unpaid rent that's a three day notice, excluding Saturdays, Sundays and court observed legal holidays, under <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.56.html\">section 83.56(3)</a>.</p><ul><li>Lease breaches the tenant can fix: seven days to cure after delivery.</li><li>Breaches that can't be fixed: seven days to vacate.</li><li>Same breach again within 12 months: suit may go ahead without a new notice.</li></ul><p>The notice may be mailed, handed over, emailed under section 83.505 where that applies, or left at the home when the tenant is away. The lease can't waive any of this. Our page on Florida eviction notices goes through each notice type in more detail.</p>"
+  },
+  {
+   "h2": "What the tenant must do after service",
+   "html": "<p>A tenant who wants to fight on any ground other than payment has to move fast. Within five days of service, again excluding Saturdays, Sundays and legal holidays, the tenant must deposit the accrued rent into the court registry or ask the court to set the rent. <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.60.html\">Section 83.60(2)</a> covers this.</p><p>Missing the deadline waives every defense except payment, and the landlord can ask for an immediate default judgment. Many cases end right here, since a tenant who can't post the money loses the chance to argue.</p><p>The deposit isn't a penalty. It keeps the rent available to the landlord while the court decides. A tenant who has paid in full has a defense that needs no deposit, and should bring proof of payment to the hearing.</p>"
+  },
+  {
+   "h2": "Partial rent taken during the case",
+   "html": "<p>Accepting some rent after serving the three day notice doesn't end the case, but it comes with rules. Under section 83.56, the landlord must hand the tenant a receipt stating the balance still due, pay the partial rent into the court registry when filing the complaint, or serve a new three day notice.</p><p>A landlord who ignores this and simply cashes the check gives the tenant an argument that the notice was waived. If you're unsure which path to take, ask the clerk of the county court where you plan to file, or consult a Florida attorney before accepting any money.</p><p>Tenants should keep proof of every payment. A receipt, bank record or money order stub can settle a dispute over what was paid and when.</p>"
+  },
+  {
+   "h2": "From judgment to removal",
+   "html": "<p>Once the court rules for the landlord, the clerk issues a writ of possession to the sheriff. The sheriff posts a notice at the home, and after 24 hours puts the landlord in possession. Weekends and holidays don't stay that 24 hour period under <a href=\"https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.62.html\">section 83.62</a>.</p><p>Only the sheriff executes the writ. A landlord tempted to speed things along by showing up with a moving crew is outside the statute. Keep the writ, the posting date and the date of possession in the file, since a title company may ask for them.</p>"
+  },
+  {
+   "h2": "Periodic tenancies",
+   "html": "<p>Not every removal needs a default. When a tenancy has no set end date, the landlord can end it with advance notice instead of proving a breach. Section 83.57 sets the length by rental period: at least 30 days for month to month and quarter to quarter, 60 days for year to year, and 7 days for week to week.</p><p>The notice has to come before the period ends. If the tenant stays past the end date, the landlord files in court and the usual stages apply, from the tenant's response through judgment and the sheriff's writ.</p><p>For an owner who wants to sell a house with no one inside, this is often the cleanest route, since it doesn't depend on a payment or lease problem. The price is waiting out the notice period.</p>"
+  },
+  {
+   "h2": "Papers to keep",
+   "html": "<ul><li>The lease and any renewals or amendments.</li><li>The notice as served and the proof of how it was delivered.</li><li>A ledger of rent charged and received.</li><li>The court complaint, the tenant's answer, and any registry deposit record.</li><li>The judgment, writ of possession and sheriff's posting date.</li></ul><p>A buyer's lender or title agent may ask for these when a rental sale follows an eviction. One folder for all of it saves time at closing.</p>"
+  },
+  {
+   "h2": "Eviction clocks at a glance",
+   "html": "<table><caption>Florida eviction clocks from Chapter 83</caption><thead><tr><th>Step</th><th>Period</th><th>Section</th></tr></thead><tbody><tr><td>Rent demand notice</td><td>3 days, excluding weekends and court observed holidays</td><td>83.56(3)</td></tr><tr><td>Curable breach notice</td><td>7 days to cure</td><td>83.56</td></tr><tr><td>Incurable breach notice</td><td>7 days to vacate</td><td>83.56</td></tr><tr><td>Tenant deposit or motion to set rent</td><td>5 days after service, excluding weekends and holidays</td><td>83.60(2)</td></tr><tr><td>Sheriff posting before possession</td><td>24 hours</td><td>83.62</td></tr><tr><td>Month to month end notice</td><td>30 days before period ends</td><td>83.57</td></tr></tbody></table><p>Counting rules differ from step to step, so read the text of each section before you rely on a date.</p>"
+  },
+  {
+   "h2": "Selling a rental house during an eviction",
+   "html": "<p>An owner may market a property with an eviction in progress, but a buyer who closes with an occupant still inside inherits the problem. Most buyers who finance will want vacant possession, so an unfinished case tends to push the closing out.</p><p>The practical options:</p><ul><li>Finish the eviction, then list the home with the keys in hand.</li><li>Offer the home to an investor who buys with the tenant in place.</li><li>Where the tenancy has no end date and the tenant isn't in default, use the notice periods in section 83.57 and time the sale to the end of the period.</li></ul><p>A Florida attorney or the clerk of the county court can confirm local filing steps and fees. Forms vary a little by county, so ask the clerk where you file.</p>"
+  },
+  {
+   "h2": "Where evictions go wrong",
+   "html": "<p>Most failed evictions trace back to early defects. The notice gave the wrong number of days, it wasn't delivered a way the statute allows, or the landlord took partial rent after serving it without following the receipt, registry or new notice rule in section 83.56.</p><p>Self help is the second trouble spot. Changing locks or removing a tenant's property outside the writ turns a landlord who was in the right into a defendant. Keep every date, copy and receipt, and let the sheriff carry out the final step.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a Florida eviction take?",
+   "a": "The statutes set short clocks: 3 or 7 days for notices, 5 days for the tenant's deposit and 24 hours for the sheriff's posting. Court scheduling decides the rest, so ask the clerk of the county court for local timing."
+  },
+  {
+   "q": "Does the tenant have to pay money into the court?",
+   "a": "Yes, if the tenant raises any defense other than payment. The accrued rent goes into the court registry, or a motion to determine rent is filed, within 5 days after service, excluding weekends and legal holidays."
+  },
+  {
+   "q": "Who carries out the eviction in Florida?",
+   "a": "The sheriff. After judgment the clerk issues a writ, and the sheriff posts a 24 hour notice before putting the landlord back in possession."
+  },
+  {
+   "q": "Can I accept part of the rent after serving the notice?",
+   "a": "Only with care. The landlord must give a receipt showing the balance, pay the partial amount into the court registry when filing, or serve a new three day notice."
+  },
+  {
+   "q": "Can I sell the house with a tenant still living in it?",
+   "a": "Yes, but the buyer takes the situation as it stands. Closing is usually faster once the tenancy has ended or a buyer agrees to take the home occupied."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Florida Statutes s. 83.56, termination of rental agreement",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.56.html"
+  },
+  {
+   "title": "Florida Statutes s. 83.57, termination of tenancy without specific term",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.57.html"
+  },
+  {
+   "title": "Florida Statutes s. 83.60, defenses to action for rent or possession",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.60.html"
+  },
+  {
+   "title": "Florida Statutes s. 83.62, restoration of possession to landlord",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/Sections/0083.62.html"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "slug": "georgia-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Which office does what on a tax bill",
+   "html": "<p>The assessor values, and the commissioner collects. Each of Georgia's 159 counties has a board of tax assessors that sets appraised value and hears disputes, plus a tax commissioner who bills for the county and school system and, in some counties, for cities too.</p><p>The Revenue Department's Local Government Services Division sits above both. It approves county digests, certifies local officials and audits every board, yet it cannot override a board, hearing officer, arbitrator or court on a single home. Questions about worth belong with the assessor. Questions about the amount owed belong with the commissioner.</p>"
+  },
+  {
+   "h2": "How the taxable figure is set",
+   "html": "<p>The state taxes two-fifths of a home's fair market value, which is the 40 percent assessment level. Fair market value means an arm's length bona fide price between a knowledgeable buyer and a willing seller.</p><p>The formula subtracts exemptions from the assessed figure and then applies the local millage rate. Georgia law has every property valued again each year as of January 1 (O.C.G.A. 48-5-6, 48-5-2), and no statewide revaluation calendar exists. Counties compare their digests with recent sales and adjust values that look off, so a booming county can reprice quickly while a quiet one barely moves.</p><p>Millage is local, set separately for the county, the city and the school district. Look at the rates printed on your own bill.</p>"
+  },
+  {
+   "h2": "Due date",
+   "html": "<p>Bills are generally payable by December 20 unless a statute sets another date.</p><ul><li>A few counties pick an earlier deadline or split payment into two installments.</li><li>Billing starts a 60-day payment period.</li><li>Land that straddles two counties is taxed through the one holding most of it, and that office forwards the other county's share.</li></ul><p>Pay-online options exist in some counties only, so call the commissioner's office to see what yours takes.</p>"
+  },
+  {
+   "h2": "Do owners file a return every year?",
+   "html": "<p>No. Returns are taken until April 1 (O.C.G.A. 48-5-18), yet an owner who filed or paid the previous year is treated as returning the same property at the same value with the same exemptions.</p><p>The same treatment reaches a buyer who paid real estate transfer tax last year. New improvements change the picture, because a fresh return should follow in the year they appear, and homestead still needs its own form. Returns go to county officials, never to the state.</p>"
+  },
+  {
+   "h2": "How to appeal your assessment",
+   "html": "<p>The written appeal goes to the county assessors, and a 45-day clock starts from the mailing date printed on the notice. Accepted grounds are taxability, value, uniformity and a denied exemption. The state's uniform form is PT-311A, and mailing it to the state agency leaves the appeal unprotected.</p><table><caption>Appeal routes</caption><thead><tr><th>Route</th><th>Who can use it</th><th>What follows</th></tr></thead><tbody><tr><td>Board of Equalization</td><td>Any owner</td><td>Assessors may revise and reissue the notice, which can be appealed within 30 days; if not revised, a hearing is set</td></tr><tr><td>Hearing officer</td><td>Non-homestead real property over $500,000, value or uniformity only</td><td>Decision can go to superior court</td></tr><tr><td>Arbitrator</td><td>Value disputes, backed by a certified appraisal due within 45 days after the board acknowledges the appeal</td><td>Hearing within 30 days; the side whose value lies farther from the arbitrator's pays costs</td></tr></tbody></table><p>To reach superior court, the owner mails or files written notice with the assessors, and the deadline is 30 days from the decision. The court will not hear the case until taxes equal to the last determined year are paid (O.C.G.A. 48-5-29). An owner who ends with a value at or below 85 percent of the figure set below also recovers litigation costs and attorney fees.</p>"
+  },
+  {
+   "h2": "How arbitration works",
+   "html": "<p>The schedule is short and appraisal-driven. An owner who picks arbitration on the form gets an acknowledgment from the assessors within 10 days, then has 45 days to supply a certified appraisal of the property.</p><p>The assessors may accept the appraisal or reject it. A rejection sends the appeal to the appeal administrator, the chief or presiding superior court judge authorizes the arbitration, and a hearing follows within 30 days. The arbitrator rules at the end of the hearing, and either side may carry the result to superior court. Cost-shifting adds risk: if the arbitrator lands closer to the owner's value the county pays, and if closer to the assessors' value the owner pays.</p>"
+  },
+  {
+   "h2": "If the case reaches superior court",
+   "html": "<p>The assessors certify the appeal papers to the court clerk after the owner's filing fees are paid, and most appeals are heard by a jury at the first term of court unless a question of law is involved.</p><p>Ahead of that, the assessors have 45 days to schedule a settlement conference, which must happen no later than 30 days after their notice, with both sides conferring in good faith. If no agreement on value emerges, the assessors tell the owner in writing to pay court filing fees to the clerk within 20 days.</p>"
+  },
+  {
+   "h2": "HB 581 and the 2026 changes",
+   "html": "<p>HB 581 created a statewide floating homestead exemption, and 2026 laws reshape how it and the notice of assessment work.</p><ul><li>SB 33, the HOME Act of 2026, ends the HB 581 opt-out and makes a statewide floating exemption apply starting January 1, 2027, using 2026 values as the baseline.</li><li>SB 566 standardizes the assessment notice: an explicit fair market value statement, estimated savings from exemptions, a named appeal contact and a reminder that homestead can be claimed during the appeal window.</li><li>Report a lost homestead eligibility before the appeal period ends, because tax plus a 50 percent penalty stays with the property.</li><li>HB 974 funds Homeowner Tax Relief Grants of $18,000 per eligible homestead, applied for through the digest process.</li></ul><p>Two local sales tax tools also exist. PTRLOST and FLOST, collected in 35 counties, lower property tax across all property types. LHOST requires a local act and a referendum and mainly benefits homesteads.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>Whoever held title on January 1 owes that year's bill, and no refund follows for the months after an owner sells and moves. Contracts therefore split the year at closing.</p><p>Call the commissioner for a payoff number before the sale date. Liens are recorded by the county clerk on the general execution docket. Ask the commissioner about a county lien, and the Compliance Division or a regional Revenue office about a state lien.</p><p>Transfer tax is a separate levy that must be paid before the superior court clerk records a deed. The statute assigns it to the seller, though a purchase contract may move it to the buyer. A cash sale skips lender appraisal timelines, so a payoff and lien check is often the main item left before closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What share of a home's market value does Georgia tax?",
+   "a": "Forty percent. Assessed value is that share of market value, and exemptions are subtracted from the assessed amount."
+  },
+  {
+   "q": "What if I missed the appeal deadline on my notice?",
+   "a": "The window is 45 days counted from the mailing date on the notice. Call the assessors to learn whether anything is still open for that notice, and watch for the next year's mailing."
+  },
+  {
+   "q": "Where do I send the PT-311A appeal form?",
+   "a": "To the county board of tax assessors. Email is accepted only where that board has adopted a written policy consenting to electronic service, and the state revenue agency should never receive it."
+  },
+  {
+   "q": "Will the state refund tax for the months after I sell?",
+   "a": "No. Whoever owned the property on January 1 answers for the whole year, and partial-year owners get nothing back."
+  },
+  {
+   "q": "Should I call the commissioner or the assessor about a tax problem?",
+   "a": "Call the commissioner for bills, payments and, in many counties, homestead filing. Call the assessor for value, appeals and digest records."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Filing a Property Tax Appeal, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/filing-property-tax-appeal"
+  },
+  {
+   "title": "Property Tax Real and Personal Property FAQ, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-real-and-personal-property-faq"
+  },
+  {
+   "title": "Property Tax Returns and Payment, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-returns-and-payment"
+  },
+  {
+   "title": "2026 DOR Legislative Update",
+   "url": "https://dor.georgia.gov/document/document-document/caveat-2026-opening-session/download"
+  },
+  {
+   "title": "Real Estate Transfer Tax, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/real-estate-transfer-tax"
+  },
+  {
+   "title": "Property Tax Homestead Exemptions, Georgia Department of Revenue",
+   "url": "https://dor.georgia.gov/property-tax-homestead-exemptions"
+  }
+ ]
+}

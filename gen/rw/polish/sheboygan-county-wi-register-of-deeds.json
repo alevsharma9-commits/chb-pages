@@ -7,45 +7,49 @@
   },
   {
    "h2": "Recording fees",
-   "html": "<p>Recording most documents costs $30. State law fixes that price, so every Wisconsin county charges it. A house sale adds a state transfer fee of 30 cents on each $100 of value, or $3 per $1,000.</p><table><thead><tr><th>Service</th><th>Charge</th></tr></thead><tbody><tr><td>Recording most documents</td><td>$30</td></tr><tr><td>Termination of Decedent's Interest</td><td>$30 regardless of pages</td></tr><tr><td>Copy of a recorded document</td><td>$2 for the first page, $1 for each added page</td></tr><tr><td>Certifying a copy</td><td>$1 extra</td></tr><tr><td>Real estate transfer fee</td><td>30 cents per $100 of value</td></tr></tbody></table><p>The office posts a Fee Schedule page for its other charges, so check it before you send a check.</p>"
+   "html": "<p>Recording most documents costs $30. State law fixes that price, so every Wisconsin county charges it. A house sale adds a second charge, the state transfer fee: 30 cents for every $100 of value.</p><table><thead><tr><th>Service</th><th>Charge</th></tr></thead><tbody><tr><td>Recording most documents</td><td>$30</td></tr><tr><td>Termination of Decedent's Interest</td><td>$30 regardless of pages</td></tr><tr><td>Copy of a recorded document</td><td>$2 for the first page, $1 for each added page</td></tr><tr><td>Certifying a copy</td><td>$1 extra</td></tr><tr><td>Real estate transfer fee</td><td>30 cents per $100 of value</td></tr></tbody></table><p>The office posts a Fee Schedule page for its other charges, so check it before you send a check.</p>"
   },
   {
    "h2": "How is a deed recorded in Sheboygan County?",
-   "html": "<p>You can record by mail or in person, or a title company or lender can record electronically. Under <a href=\"https://docs.legis.wisconsin.gov/document/statutes/706.05\">Wis. Stat. 706.05</a>, an instrument offered for record must carry the signatures the law requires and identify the land and the parties well enough to be indexed. A document that affects a particular parcel must include the full legal description, and every conveyance of an interest in real property must come with the transfer return.</p><p>You file the return online with the Department of Revenue. <a href=\"https://docs.legis.wisconsin.gov/document/statutes/77.22\">Wis. Stat. 77.22</a> makes a completed return, plus the fee collection, a condition for accepting the deed. Nobody at the register must verify the value you report or the exemption you claim, which puts the accuracy on you.</p>"
+   "html": "<p>You can record by mail or in person, or a title company or lender can record electronically. Under <a href=\"https://docs.legis.wisconsin.gov/document/statutes/706.05\">Wis. Stat. 706.05</a>, an instrument offered for record must carry the signatures the law requires and identify the land and the parties well enough to be indexed. Documents that touch a specific parcel need the full legal description, and any conveyance of an interest in real property must be accompanied by the transfer return.</p><p>The Department of Revenue takes the return online. <a href=\"https://docs.legis.wisconsin.gov/document/statutes/77.22\">Wis. Stat. 77.22</a> makes a completed return, plus the fee collection, a condition for accepting the deed. Nobody at the register must verify the value you report or the exemption you claim, which puts the accuracy on you.</p>"
   },
   {
    "h2": "E-recording and paper filings",
-   "html": "<p>Sheboygan County accepts e-recording through these vendors: CSC sRecording Solutions, ePN, Hopdox, Indecomm Global Services and Simplifile. The system normally records, indexes and returns the image in about 24 hours. For paper documents, the office also offers SWIFT, a service that returns paper documents by email under an agreement with the county.</p><p>When a title company or lender handles your sale, ask which filing method they use, since that tells you when the recorded deed will come back.</p>"
+   "html": "<p>Five vendors can e-record here: CSC sRecording Solutions, ePN, Hopdox, Indecomm Global Services and Simplifile. The system normally records, indexes and returns the image in about 24 hours. For paper documents, the office also offers SWIFT, a service that returns paper documents by email under an agreement with the county.</p><p>If a title company or lender runs your closing, find out which filing method it picks, because that sets when you get the recorded deed back.</p>"
   },
   {
    "h2": "Which Sheboygan County transfers pay no transfer fee?",
-   "html": "<p>Some transfers escape the state fee, and when one applies the deed must say so by citing the exemption. The full list is in <a href=\"https://docs.legis.wisconsin.gov/document/statutes/77.25\">Wis. Stat. 77.25</a>. Homeowners run into these most:</p><ul><li>Passing a property by will, descent or survivorship.</li><li>A foreclosure deed or deed in lieu of foreclosure handed to a mortgage holder or a land contract seller.</li><li>Family transfers between parent and child, stepparent and stepchild, or grandparent and grandchild, made for little or nothing.</li><li>A transfer to or from a domestic partner.</li><li>A corrective or confirming deed for an earlier recorded conveyance, again for nominal or no consideration.</li><li>Any conveyance of real estate worth $1,000 or less.</li></ul><p>An exemption does not cancel the paperwork. The transfer return is still filed. Both Termination of Decedent's Interest and Transfer by Affidavit (estates of $50,000 and under) call for an electronic return, and the affidavit gets recorded at this office only when real estate is involved.</p>"
+   "html": "<p>Some transfers escape the state fee, and when one applies the deed must say so by citing the exemption. The full list is in <a href=\"https://docs.legis.wisconsin.gov/document/statutes/77.25\">Wis. Stat. 77.25</a>. Homeowners run into these most.</p><p>The usual cases: a house passed along by will, descent or survivorship; a foreclosure deed, or a deed in lieu, given to a mortgage holder or land contract seller; and a family transfer for little or nothing between parent and child, stepparent and stepchild, or grandparent and grandchild. Also exempt are a domestic partner transfer, a corrective or confirming deed for a conveyance already recorded, and a conveyance of property worth $1,000 or less.</p><p>An exemption does not cancel the paperwork. The transfer return is still filed. An electronic return is required for a Termination of Decedent's Interest and for a Transfer by Affidavit (estates of $50,000 and under). The affidavit is recorded here only when real estate is part of the estate.</p>"
   },
   {
    "h2": "Termination of Decedent's Interest, step by step",
-   "html": "<p>When a house passes after a death, this informal step can move title without a full probate case. It fits property held in joint tenancy, a life estate, survivorship marital property, a vendor's interest or a mortgagee's interest. You bring a copy of the document that shows that arrangement, the $30 recording fee and the electronic transfer return.</p><p>Sort out which route fits before you try to sell. If the register of deeds says the estate needs another path, such as Transfer by Affidavit, you will want to learn that before a buyer is waiting. A real estate attorney or the Register in Probate can answer what the register's office cannot.</p>"
+   "html": "<p>When a house passes after a death, this informal step can move title without a full probate case. It applies when title was held in joint tenancy, as a life estate, as survivorship marital property, or as a vendor's or mortgagee's interest. Bring a copy of the document showing that arrangement, the $30 fee and the electronic return.</p><p>Sort out which route fits before you try to sell. Should the office point the estate toward another path, such as Transfer by Affidavit, you want that news before a buyer is waiting. Questions the register's office cannot answer belong with a real estate attorney or the Register in Probate.</p>"
   },
   {
    "h2": "Sheboygan County housing in brief",
-   "html": "<p>Sheboygan County sits on Lake Michigan, and its cities are Sheboygan, Plymouth and Sheboygan Falls. The Census estimated 118,047 people in July 2025. The median owner-occupied home is valued at $232,700 (2020 to 2024), and owners occupy 71.5 percent of housing units. Rent has a median of $934, and household income a median of $73,094. If your parcel is on the lakefront or a river, ask the Register of Deeds for copies of any recorded easements or surveys before you list.</p>"
+   "html": "<p>Sheboygan County sits on Lake Michigan, and its cities are Sheboygan, Plymouth and Sheboygan Falls. The Census estimated 118,047 people in July 2025. Homes lived in by their owners make up 71.5 percent of units, and the median such home is valued at $232,700 (2020 to 2024). Typical rent is $934 and typical household income is $73,094. If your parcel is on the lakefront or a river, ask the Register of Deeds for copies of any recorded easements or surveys before you list.</p>"
+  },
+  {
+   "h2": "Where a county seller fits in the process",
+   "html": "<p>A Sheboygan County sale touches the register of deeds twice. First, the office holds the record you rely on when you prove title, so a copy of the deed that put you on title is the best starting document. Second, when the sale ends, it records the deed that hands the house to the buyer.</p><p>Between those two points sit the steps a seller controls: the transfer return, the fee, the legal description and the signatures. Mistakes in any of them can hold up recording, so the title company, lender or attorney in your deal will usually double-check them. If you sell on your own, call the register of deeds with questions about filing, and bring questions about the law to an attorney.</p>"
   },
   {
    "h2": "How can a Sheboygan County owner guard against deed fraud?",
-   "html": "<p>The Register of Deeds offers a free Property Fraud Alert that monitors land records filed in the county; you sign up at propertyfraudalert.com. An email arrives when a document is recorded against your name or parcel, so you have time to respond.</p><p>The alert reports a filing after it is recorded, so it works as an early warning. Under Wis. Stat. 77.22(1) the register is not required to check the value or exemption on a transfer return, so the owner is the person best placed to notice a problem. If a filing looks false, call the Register of Deeds and ask what the document is, then talk to a real estate attorney and your title insurer.</p>"
+   "html": "<p>A free Property Fraud Alert from the Register of Deeds watches land records filed in the county. Enroll at propertyfraudalert.com. Each time a document is recorded against your name or parcel, an email reaches you in time to react.</p><p>The alert reports a filing after it is recorded, so it works as an early warning. Under Wis. Stat. 77.22(1) the register is not required to check the value or exemption on a transfer return, so the owner is the person best placed to notice a problem. If a filing looks false, call the Register of Deeds and ask what the document is, then talk to a real estate attorney and your title insurer.</p>"
   },
   {
    "h2": "What a seller should check before closing",
-   "html": "<p>Ahead of closing, pull the recorded deed that put you on title, check that its legal description matches the deed you will sign, and ask the title company who records and how. A house that came through a joint tenancy or a life estate may need a Termination of Decedent's Interest recorded first.</p><p>For questions about a specific document, contact the Register of Deeds directly. The office has forms for foreclosures and Sheriff deed guidelines on its Real Estate page.</p>"
+   "html": "<p>Well before closing, get the recorded deed that gave you title, compare its legal description with the one on the deed you will sign, and learn from the title company who will record and how. If you hold the house through a joint tenancy or a life estate, a Termination of Decedent's Interest may have to be recorded before you sell.</p><p>For questions about a specific document, contact the Register of Deeds directly. The office has forms for foreclosures and Sheriff deed guidelines on its Real Estate page.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How much does it cost to record a deed in Sheboygan County?",
-   "a": "Thirty dollars covers most documents. The fee is set by statute and is the same statewide, and a Termination of Decedent's Interest also costs $30 however many pages it runs."
+   "a": "Thirty dollars covers most documents. State statute sets the fee for the whole state, and a Termination of Decedent's Interest is also $30 no matter the page count."
   },
   {
    "q": "Who pays the real estate transfer fee in Sheboygan County?",
-   "a": "The seller does. Wis. Stat. 77.22(1) assigns the fee of 30 cents per $100 of value to the grantor, and the register takes it when the deed comes in."
+   "a": "The seller does. Wis. Stat. 77.22(1) assigns the grantor a fee of 30 cents per $100 of value, taken by the register with the deed."
   },
   {
    "q": "Does Sheboygan County accept e-recording?",
@@ -53,11 +57,11 @@
   },
   {
    "q": "Do I need a transfer return when I inherit a house in Sheboygan County?",
-   "a": "Yes. Inheritance by will, descent or survivorship is exempt from the fee under Wis. Stat. 77.25, yet the electronic return still goes to the Department of Revenue."
+   "a": "Yes. A transfer by will, descent or survivorship skips the fee under Wis. Stat. 77.25, but the electronic return is still filed with the state."
   },
   {
    "q": "Can Sheboygan County alert me if someone records a document against my property?",
-   "a": "Yes. Sign up for the register's free Property Fraud Alert at propertyfraudalert.com, and you are notified when something is recorded in your name or against your parcel."
+   "a": "Yes, through the free Property Fraud Alert at propertyfraudalert.com, which sends a notice whenever something is recorded in your name or against your parcel."
   }
  ],
  "sources": [

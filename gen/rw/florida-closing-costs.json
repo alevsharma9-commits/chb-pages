@@ -2,58 +2,58 @@
  "slug": "florida-closing-costs",
  "sections": [
   {
-   "h2": "Which closing costs hit a Florida seller?",
-   "html": "<p>On the statute side, the big items are the stamp tax on the deed, the clerk's recording charges, title work and the seller's slice of the year's property tax. Commissions, repair credits and association fees come from the contract, not from state law. Florida contracts leave much of this open, so the signed paper decides who pays each line.</p><p>This page covers the charges that a Florida statute or the Department of Revenue puts in writing. Ask your title agent or closing attorney to explain any other charge on the settlement sheet before you sign.</p>"
+   "h2": "Closing costs a Florida seller faces",
+   "html": "<p>On the statute side, the big items are the stamp tax on the deed, the clerk's recording charges, title work and the seller's slice of the year's property tax. Commissions, repair credits and association fees come from the contract, not state law. Florida contracts leave much of this open, so the signed paper decides who pays each line.</p><p>This page covers the charges that a Florida statute or the Department of Revenue puts in writing. Ask your title agent or closing attorney to explain any other charge on the settlement sheet before you sign.</p>"
   },
   {
-   "h2": "What does the deed stamp tax come to?",
-   "html": "<p>The statutory rate is seventy cents for every $100 of consideration, counting any part of a hundred, in every county but Miami-Dade. Section 201.02 states it, and the revenue agency's page repeats it. Consideration is a wide term: cash, a debt you are released from, and any mortgage or encumbrance on the parcel all count, whether or not the buyer assumes the loan.</p><p>Miami-Dade prints sixty cents per $100 plus a 45 cent surtax per $100. The surtax is skipped when the paper transfers only a single-family dwelling, so the clerk in that county can tell you which version fits your deed.</p><p>The clerk collects it at recording. A deed is taxable recorded or not, and a taxable paper that never gets recorded is paid to the Department itself. After a foreclosure sale, the certificate of title is taxed on the highest and best bid, per section 201.02(9).</p>"
+   "h2": "What the deed stamp tax comes to",
+   "html": "<p>The statutory rate is seventy cents for every $100 of consideration, counting any part of a hundred, in every county but Miami-Dade. Section 201.02 sets it. Consideration is a wide term: cash, a debt you're released from, and any mortgage or encumbrance on the parcel all count, whether or not the buyer assumes the loan.</p><p>Miami-Dade charges sixty cents per $100 plus a 45 cent surtax per $100. The surtax is skipped when the paper transfers only a single-family dwelling, so the clerk in that county can tell you which version fits your deed.</p><p>The clerk collects it at recording. A deed is taxable whether or not it's recorded, and a taxable paper that never gets recorded is paid to the Department itself. A certificate of title issued after a foreclosure sale is taxed on the highest and best bid under section 201.02(9).</p>"
   },
   {
-   "h2": "Who is responsible for paying doc stamps?",
-   "html": "<p>Your contract names the payer, yet the state treats everyone on the document as liable. The agency's page says liability stays with all parties whichever one agreed to pay, and a non-exempt party covers the tax when another party is exempt. No statute assigns the deed tax to a particular side.</p><p>If you agreed to pay, expect the title agent to subtract the tax from your proceeds at the table. The Department lists these exemptions and exclusions:</p><ul><li>A spousal homestead deed where a mortgage is the only consideration.</li><li>A divorce deed for the marital home.</li><li>A deed by a personal representative acting under a probated will, which the Department lists as not taxable.</li></ul>"
+   "h2": "Who pays the doc stamps?",
+   "html": "<p>Your contract names the payer, yet the state treats everyone on the document as liable. Liability stays with all parties whichever one agreed to pay, and a non-exempt party covers the tax when another party is exempt. No statute assigns the deed tax to a particular side.</p><p>If you agreed to pay, expect the title agent to subtract the tax from your proceeds at the table. These exemptions and exclusions apply:</p><ul><li>Homestead deeds between spouses where the only consideration is a mortgage.</li><li>The deed that hands the marital home to one spouse in a divorce.</li><li>Estate deeds signed by a personal representative under a probated will, which the Department treats as not taxable.</li></ul>"
   },
   {
-   "h2": "How does the buyer's loan change the picture?",
-   "html": "<p>Mortgages and notes are taxed separately from the deed. The Department prints 35 cents on each $100 secured, with the note tax limited to $2,450 and no limit on mortgages. These charges follow the buyer's financing, so an all-cash buyer has none of them.</p><p>On your side, a lender holding your own mortgage will want payoff in full at closing. Order a written payoff statement a few days ahead, since interest accrues daily and the figure moves.</p>"
+   "h2": "Mortgage and note taxes",
+   "html": "<p>Mortgages and notes are taxed separately from the deed. The rate is 35 cents on each $100 secured, with the note tax capped at $2,450 and no cap on mortgages. These charges follow the buyer's financing, so an all-cash buyer owes none of them.</p><p>On your side, a lender holding your own mortgage wants payoff in full at closing. Order a written payoff statement a few days ahead, since interest accrues daily and the figure moves.</p>"
   },
   {
-   "h2": "What are the clerk's recording fees?",
+   "h2": "Clerk's recording fees",
    "html": "<p>Under section 28.24, an instrument of ordinary size costs $5.00 for the first page and $4.00 for every added page, with a $1.00 charge for each name past the fourth. A trust fund charge of $1.00 on page one and 50 cents on later pages sits on top, plus a $4 per page technology charge.</p><p>That adds up to far less than the stamp tax. A long deed with many grantors costs more than a short one, so have the closing agent quote the recording total before closing.</p>"
   },
   {
    "h2": "Does the seller pay for title insurance?",
-   "html": "<p>Whoever pays, the premium schedule comes from state rule. Florida's rule on title insurance rates cites sections 627.782 and 627.7825 as its authority. Your contract names the party who buys the owner's policy, so read its title paragraph.</p><p>Section 627.7841 gives one protection worth knowing. If the insurer's own officers, employees or agents disburse your closing funds, the insurer must cover defects recorded after the commitment date and ahead of recording the deed, except those the insured knows about. That is a reason to close through a title agent who handles the money.</p>"
+   "html": "<p>Whoever pays, the premium schedule comes from state rule. Florida's title insurance rate rule cites sections 627.782 and 627.7825 as its authority. Your contract names the party who buys the owner's policy, so read its title paragraph.</p><p>Section 627.7841 gives one protection worth knowing. If the insurer's own officers, employees or agents disburse your closing funds, the insurer must cover defects recorded after the commitment date and ahead of recording the deed, except those the insured knows about. That's a reason to close through a title agent who handles the money.</p>"
   },
   {
-   "h2": "How must the deed be signed in Florida?",
-   "html": "<p>A deed that conveys a freehold or a lease of more than one year has to be written and signed before two subscribing witnesses, under section 689.01. No seal is needed. The statute allows the witnessing to happen by audio-video technology, which helps an owner who has moved out of state before closing.</p><p>Ask the title agent to send the deed for review before the closing date, so a missing witness or a misspelled name does not push the closing back.</p>"
+   "h2": "Signing the deed",
+   "html": "<p>Section 689.01 requires a deed for a freehold, or a lease running past one year, to be in writing with two subscribing witnesses. No seal is needed. Witnessing by audio-video technology is allowed, handy if you've already left the state.</p><p>Ask the title agent to send the deed for review before the closing date, so a missing witness or a misspelled name can't delay the closing.</p>"
   },
   {
-   "h2": "What do condo and HOA sellers pay at closing?",
-   "html": "<p>A seller in an association community also orders an estoppel certificate. For a condominium, section 718.116 lets the association charge a reasonable fee of no more than $250 when nothing is delinquent, plus $100 for delivery within 3 business days and up to $150 more when money is owed. The homeowners' association statute, 720.30851, uses the same figures. The caps are adjusted every five years, so check the Department of Business and Professional Regulation website for the current amounts.</p><p>A separate guide on selling a condo or HOA home covers the estoppel timeline and the documents a condo seller must hand over.</p>"
+   "h2": "Condo and HOA estoppel fees",
+   "html": "<p>A seller in an association community also orders an estoppel certificate. For a condominium, section 718.116 lets the association charge a reasonable fee of no more than $250 when nothing is delinquent, plus $100 for delivery within 3 business days and up to $150 more when money is owed. The homeowners' association statute, 720.30851, uses the same figures. Those caps are adjusted every five years. The Department of Business and Professional Regulation website shows today's amounts.</p><p>Our guide on selling a condo or HOA home covers the estoppel timeline and the documents a condo seller must hand over.</p>"
   },
   {
-   "h2": "What should a Florida seller collect before closing?",
-   "html": "<p>Gather the items that drive the final numbers and ask for each in writing.</p><ul><li>A payoff letter from every lender or lienholder, dated close to closing.</li><li>An estoppel certificate if the home is in a condominium or homeowners' association.</li><li>The current tax bill from the tax collector, so the proration is checked against a real figure.</li><li>The proposed settlement statement a few days early, with the deed tax line matched to your contract price.</li><li>The recorded deed once the clerk returns it.</li></ul><p>A buyer planning to claim homestead must file with the appraiser's office by March 1, and the state says a change of ownership resets the assessment to just value the following January 1. That reassessment is the buyer's concern, but it explains why buyers ask sellers for tax details.</p>"
+   "h2": "What to collect before closing",
+   "html": "<p>Gather the items that drive the final numbers and ask for each in writing.</p><ul><li>Payoff letters from each lender or lienholder, dated near the closing.</li><li>An estoppel certificate if the home is in a condominium or homeowners' association.</li><li>The current tax bill from the tax collector, so the proration is checked against a real figure.</li><li>The proposed settlement statement a few days early, with the deed tax line matched to your contract price.</li><li>A copy of the recorded deed when the clerk sends it back.</li></ul><p>A buyer planning to claim homestead must file with the appraiser's office by March 1, and a change of ownership resets the assessment to just value the following January 1. That reassessment is the buyer's concern, but it explains why buyers ask sellers for tax details.</p>"
   },
   {
-   "h2": "What happens with property taxes and listing disclosures?",
-   "html": "<p>Tax bills arrive in November and carry an early-payment discount that steps down month by month until February. Unpaid taxes turn delinquent on April 1. The closing agent normally divides the annual bill with the buyer as the contract directs, and the tax collector can give you the current amount.</p><p>Residential buyers must get a property tax disclosure at or before signing under section 689.261. It warns that the seller's present bill is a poor guide, because a sale or new improvements triggers reassessment. The statute adds that from February 1, 2027, listing materials may not show the current owner's tax amount, so ask your agent how your listing will read.</p><table><caption>Charges printed by Florida sources for a sale</caption><thead><tr><th>Charge</th><th>Printed amount</th></tr></thead><tbody><tr><td>Deed stamp tax</td><td>70 cents per $100 (Miami-Dade: 60 cents plus surtax)</td></tr><tr><td>Mortgage stamp tax</td><td>35 cents per $100 secured</td></tr><tr><td>Note stamp tax limit</td><td>$2,450</td></tr><tr><td>Recording, page one</td><td>$5.00, plus $1.00 trust fund and $4 technology</td></tr><tr><td>Recording, later pages</td><td>$4.00 each, plus 50 cents trust fund and $4 technology</td></tr></tbody></table>"
+   "h2": "Property taxes and listing disclosures",
+   "html": "<p>Tax bills arrive in November and carry an early-payment discount that steps down month by month until February. Anything still unpaid on April 1 is delinquent. The closing agent normally divides the annual bill with the buyer as the contract directs, and the tax collector can give you the current amount.</p><p>Residential buyers must receive a property tax disclosure at or before signing under section 689.261. It warns that the seller's present bill is a poor guide, because a sale or new improvements triggers reassessment. Starting February 1, 2027, listing materials may not show the current owner's tax amount, so ask your agent how your listing will read.</p><table><caption>Florida sale charges at a glance</caption><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Deed stamp tax</td><td>70 cents per $100 (Miami-Dade: 60 cents plus surtax)</td></tr><tr><td>Mortgage stamp tax</td><td>35 cents per $100 secured</td></tr><tr><td>Note stamp tax limit</td><td>$2,450</td></tr><tr><td>Recording, page one</td><td>$5.00, plus $1.00 trust fund and $4 technology</td></tr><tr><td>Recording, later pages</td><td>$4.00 each, plus 50 cents trust fund and $4 technology</td></tr></tbody></table>"
   }
  ],
  "faqs": [
   {
    "q": "Who ends up paying the deed stamps?",
-   "a": "Whoever your contract says, though the state holds every party liable. Liability stays with all parties on the document, per the revenue agency. Read the closing cost paragraph for the agreed payer."
+   "a": "The contract decides, but the state can collect from any party on the document. Read the closing cost paragraph of your contract for the agreed payer."
   },
   {
    "q": "Will a cash buyer owe the mortgage tax?",
-   "a": "No. That tax applies to mortgages and notes at 35 cents per $100 secured, and a cash purchase creates neither. Only the deed tax and recording charges remain."
+   "a": "No. That tax applies to mortgages and notes at 35 cents per $100 secured, and a cash purchase creates neither. That leaves the deed tax and recording charges."
   },
   {
    "q": "Is Miami-Dade different?",
-   "a": "Yes. The Department prints 60 cents per $100 plus a 45 cent surtax, and the surtax is not due on a paper transferring only a single-family dwelling."
+   "a": "Yes. The rate there is 60 cents per $100 plus a 45 cent surtax, and the surtax isn't due on a paper transferring only a single-family dwelling."
   },
   {
    "q": "How much is recording a deed?",
@@ -61,7 +61,7 @@
   },
   {
    "q": "When do property tax bills come and go delinquent?",
-   "a": "Bills are mailed in November, and unpaid ones become delinquent on April 1. Your closing agent prorates the year with the buyer."
+   "a": "Bills are mailed in November, and unpaid ones become delinquent on April 1. The closing agent splits the year's bill between you and the buyer."
   }
  ],
  "sources": [
