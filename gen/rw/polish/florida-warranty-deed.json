@@ -1,0 +1,105 @@
+{
+ "slug": "florida-warranty-deed",
+ "sections": [
+  {
+   "h2": "What a Florida warranty deed does",
+   "html": "<p>A warranty deed moves title to land and carries the grantor's promise that the title is good. The statutory form has the grantor \"fully warrant the title to said land, and will defend the same against the lawful claims of all persons whomsoever.\"</p><p>That promise is what sets it apart from a quit claim deed, which hands over whatever interest the grantor holds without vouching for it. Buyers who pay full price, and the lenders behind them, usually expect the stronger form. Section 689.02 supplies sample wording, and a deed may be built on it.</p>"
+  },
+  {
+   "h2": "What makes the deed valid and recordable",
+   "html": "<p>Under s. 689.01 the deed must be a signed writing with two subscribing witnesses present. A seal is optional, and witnesses may appear by audio-video link.</p><p>Getting it onto the public record takes more. Section 695.26 bars the clerk from filing the paper unless it shows:</p><ul><li>Each signer's name printed beneath the signature, with a post-office address.</li><li>The person who drafted it, named with a mailing address.</li><li>Each witness's name printed beneath the signature, with an address.</li><li>The name of the notary or other officer taking the acknowledgment, printed under that signature.</li><li>Empty space in the upper right corner, larger on page one, for clerk stamps.</li><li>Every buyer's name and address, written out.</li></ul><p>Out-of-state signings, court orders and wills are carved out of that section. And if a clerk accepts a deed that misses one of these steps, the recording and its constructive notice still stand.</p>"
+  },
+  {
+   "h2": "Parcel number on the deed",
+   "html": "<p>The statutory form has a blank for the property appraiser's parcel identification number. A missing or wrong number does not void the deed.</p><p>Section 689.02(2) asks that the number be entered before recording when it is available. It is not part of the legal description and cannot replace it. Copy the legal description exactly from your prior deed or a survey, then add the parcel number as a convenience for the clerk and the appraiser.</p>"
+  },
+  {
+   "h2": "What stamp tax applies to a Florida deed?",
+   "html": "<p>The deed rate is 70 cents for each $100 of consideration. Miami-Dade runs on a different schedule: 60 cents, plus a 45 cent surtax that does not apply to a document moving only a single-family home.</p><p>Consideration is read widely. It covers cash, a released debt, and any loan secured on the land, assumed or not, so a deed reciting a token sum can still draw tax on the mortgage balance.</p><p>Everyone on the deed answers for the tax whatever the contract says, and an exempt party's share shifts to a non-exempt one. An unrecorded deed is not outside the tax.</p>"
+  },
+  {
+   "h2": "Which transfers escape deed tax",
+   "html": "<p>Few do. The Department of Revenue names no exemption aimed at estate planning.</p><table><caption>Deed types and documentary stamp tax</caption><thead><tr><th>Document</th><th>Taxable?</th></tr></thead><tbody><tr><td>Warranty, special warranty, quit claim, trustee and life estate deeds</td><td>Taxable</td></tr><tr><td>Deed in lieu of foreclosure, contract for deed, certificate of title</td><td>Taxable</td></tr><tr><td>Deed from a personal representative acting under a probated will</td><td>Not taxable</td></tr><tr><td>Spouse-to-spouse homestead deed backed only by a mortgage; marital home deed in a divorce</td><td>Exempt under s. 201.02(7)</td></tr></tbody></table><p>Lady bird deeds get separate handling. In an October 2020 advisement, the department treated one, where the life tenants kept full powers, as passing no present beneficial interest and so outside stamp tax. Whether your deed fits that pattern is a question for a Florida attorney.</p>"
+  },
+  {
+   "h2": "Clerk recording charges",
+   "html": "<p>Section 28.24(13) fixes these fees, and they come on top of stamp tax.</p><ul><li>Page one costs $5.00 and each later page $4.00 (standard size, up to 14 by 8.5 inches).</li><li>An extra $1.00 per name after the fourth.</li><li>A records modernization trust fund fee: $1.00 for page one, $0.50 afterward.</li><li>An additional $4 per page technology charge.</li></ul><p>Call the clerk's office for the total on your page count.</p>"
+  },
+  {
+   "h2": "Other stamp taxes around a sale",
+   "html": "<p>Mortgage paperwork is taxed apart from the deed. The rate is 35 cents per $100 of the amount secured, with the tax on a note capped at $2,450 and no cap on mortgages.</p><p>After a foreclosure sale, the certificate of title is taxed on the best bid made (s. 201.02(9)). In an ordinary sale between private parties, the deed tax is usually the main figure. Ask your closing agent whether the buyer's new loan adds charges of its own.</p>"
+  },
+  {
+   "h2": "Preparing the deed before closing",
+   "html": "<p>Pull the pieces together early. A clerk can reject an instrument at the counter, and the closing then slips.</p><ul><li>Take the legal description from your vesting deed and copy it character for character.</li><li>Confirm how each grantor's name appears in the record and use the same spelling.</li><li>Line up two adult witnesses and a notary for signing day, or ask the title company about remote witnessing.</li><li>Print every name and mailing address where the statute calls for one.</li><li>Leave the top right corner of each page clear for the clerk.</li></ul><p>Then confirm with the closing agent what stamp tax will be due and who funds it. If the sale is a cash deal with no lender, there is no loan paperwork to coordinate, but the deed rules are the same.</p>"
+  },
+  {
+   "h2": "Which deed fits a sale and which a family transfer?",
+   "html": "<p>For an arm's-length sale at market price, buyers and lenders generally look for a warranty deed because it carries the title promise. A quit claim deed passes only what the grantor owns. It is common between relatives or to fix a name on the record, though it is still on the department's taxable list.</p><p>A contract for deed is taxable too, and the buyer under a recorded contract for deed is one of the people notified before a tax deed sale. Section 689.01 reaches any conveyance of a freehold or of a term longer than one year, so a long lease needs the same two witnesses.</p>"
+  },
+  {
+   "h2": "Property taxes after the deed is recorded",
+   "html": "<p>Title passing by sale, foreclosure or any other route counts as a change of ownership for assessment. Just value applies from the next January 1, and the seller's Save Our Homes cap stays behind.</p><p>Spousal transfers and some transfers at death are carved out. A quitclaim to a relative is not an exception just because no money changes hands. Buyers should file for their own homestead exemption with the county property appraiser by March 1, and should look into portability if they held a homestead elsewhere in the state.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do both spouses have to sign a Florida warranty deed?",
+   "a": "Not always, but a married owner should confirm whether the home is homestead before signing. Spousal joinder rules for homestead are a question for a Florida title attorney or title company. Every signer must still meet the two-witness and printed-name rules."
+  },
+  {
+   "q": "Can I use a warranty deed to give a house to my child?",
+   "a": "Yes, but the transfer is a change of ownership for assessment and can carry stamp tax on any mortgage balance. No estate planning exemption exists, so talk with an attorney before choosing a deed type."
+  },
+  {
+   "q": "Who covers the stamp tax on a deed?",
+   "a": "The contract can assign it, though the state looks to every party on the deed. The clerk collects it at recording."
+  },
+  {
+   "q": "Is a deed valid if the clerk's recording was imperfect?",
+   "a": "Generally yes. Section 695.26(4) says a clerk's failure to follow the recording checklist does not impair the recording or its constructive notice. Fix defects anyway, because title companies will flag them."
+  },
+  {
+   "q": "Can a deed in lieu replace a warranty deed?",
+   "a": "No. A deed in lieu is how a borrower hands a property back to a lender, and it is taxable. A warranty deed is the normal choice in an arm's-length sale."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Fla. Stat. 689.01, conveyances in writing with witnesses",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.01.html"
+  },
+  {
+   "title": "Fla. Stat. 689.02, form of warranty deed",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.02.html"
+  },
+  {
+   "title": "Fla. Stat. 695.26, requirements for recording",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0695/Sections/0695.26.html"
+  },
+  {
+   "title": "Fla. Stat. 201.02, tax on deeds",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0201/Sections/0201.02.html"
+  },
+  {
+   "title": "Florida Department of Revenue, documentary stamp tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Fla. Stat. 28.24, clerk charges",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.24.html"
+  },
+  {
+   "title": "Fla. Stat. 193.155, Save Our Homes",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0193/Sections/0193.155.html"
+  },
+  {
+   "title": "Department of Revenue advisement TAA 20B4-004",
+   "url": "https://floridarevenue.com/TaxLaw/Documents/20B4-004.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue, taxpayer information",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  }
+ ]
+}

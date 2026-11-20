@@ -1,0 +1,89 @@
+{
+ "slug": "florida-capital-gains-tax-home-sale",
+ "sections": [
+  {
+   "h2": "Do you owe tax on profit from selling a Florida house?",
+   "html": "<p>Possibly, but a federal exclusion wipes out most or all of the profit for many sellers of a main residence. A single filer can shield $250,000 of profit, and a married couple filing together can shield $500,000, provided two tests are met. The figure applies to a Florida house exactly as it would anywhere else in the country.</p><p>Florida adds local paperwork around the transfer: the deed, the stamp tax collected at recording, and the county's reassessment of the property for the next owner. Those pieces come after the federal rules below.</p>"
+  },
+  {
+   "h2": "The two tests for the exclusion",
+   "html": "<p>You have to pass an ownership test and a use test within the five years ending on the closing date. Each test asks for 24 months, and the months need not be consecutive. The two tests can be met in different two-year stretches, as long as both fall inside that five-year window.</p><ul><li>Ownership: title sat in your name or your spouse's for 24 of those 60 months.</li><li>Use: you lived in the house as your home for 24 of those 60 months. On a joint return, both spouses must pass this one.</li><li>Prior sale: the break is generally unavailable if you claimed it on a different house during the two years before this closing.</li></ul><p>Publication 523, the IRS guide to selling a home, has the worksheets, the partial exclusions for early moves, and the exceptions to the two-year rule. Read it before you assume eighteen months is enough.</p>"
+  },
+  {
+   "h2": "Figuring the taxable profit",
+   "html": "<p>Take the price you realize at closing and subtract your adjusted basis. Basis begins at what you paid and goes up with lasting improvements, say a new roof or a room addition. It falls with items like depreciation and insurance payments for casualty losses. Keep old closing statements and contractor receipts, because they are your proof.</p><p>Holding period decides the label. Profit on property held longer than a year is long-term and eligible for the lower rate bands. A year or less makes it short-term, taxed at ordinary wage rates. For a house that came to you by inheritance or gift, Publication 551 covers basis, which matters to a Florida family clearing out a relative's home.</p><p>A loss on a personal residence can't be deducted. Losses on investment property are different: they offset gains, and up to $3,000 of any excess ($1,500 for married filing separately) reduces other income each year, with the balance carried forward.</p>"
+  },
+  {
+   "h2": "Federal rates on profit above the exclusion",
+   "html": "<p>Most net long-term gain lands in a 0%, 15% or 20% band set by taxable income, with different bands for each filing status. The bands below are for tax years beginning in 2025. Thresholds move every year, so check the IRS page for the year of your closing.</p><table><caption>Long-term gain bands for tax years beginning in 2025</caption><thead><tr><th>Rate</th><th>Single filer</th><th>Joint return</th></tr></thead><tbody><tr><td>0%</td><td>Income up to $48,350</td><td>Income up to $96,700</td></tr><tr><td>15%</td><td>$48,350 to $533,400</td><td>$96,700 to $600,050</td></tr><tr><td>20%</td><td>Income above the 15% band</td><td>Income above the 15% band</td></tr></tbody></table><p>Two extras can raise the bill. A 25% ceiling applies to the unrecaptured section 1250 slice of gain, which comes up when depreciation was claimed on a home office or rental space. Sellers with large investment income may also face a separate surtax described in IRS Topic 559.</p>"
+  },
+  {
+   "h2": "Reporting a fully excluded sale",
+   "html": "<p>If the closing agent sends you a Form 1099-S, report the sale even though no tax results. If the gain is larger than your exclusion, report that too, on Form 8949 and Schedule D.</p><p>Keep a folder for the sale: the purchase closing statement, improvement receipts, the new settlement statement and any 1099-S. A tax preparer can work from those papers in minutes, and a missing receipt can leave a real improvement out of your basis.</p><p>Florida title companies normally prepare the 1099-S from the settlement statement. Before you sign, ask your closing agent whether one will be filed in your name. Sellers with a taxable gain may also owe estimated payments during the year, which Publication 505 explains.</p>"
+  },
+  {
+   "h2": "Military sellers and installment sales",
+   "html": "<p>A service member, Foreign Service officer or intelligence community employee on qualified extended duty may elect to freeze the five-year clock for as long as ten years. Extended duty means more than 90 days or an open-ended assignment, at a post 50 or more miles from the home or in government quarters under orders. Many Florida owners near bases and ports fit this description.</p><p>A sale where the buyer pays across later years counts as an installment sale, and installment reporting is the default unless you opt out. The home sale exclusion still applies to the part you can exclude. Publication 537 and Form 6252 cover the mechanics.</p>"
+  },
+  {
+   "h2": "Florida deed tax and reassessment",
+   "html": "<p>Florida charges seventy cents on each $100 of price in every county except Miami-Dade, where the printed charge is 60 cents plus a surtax. The surtax is skipped for a paper conveying only a single-family dwelling. The clerk takes the tax at recording, and the state can look to any party on the deed even when the contract puts the cost on one side.</p><ul><li>A personal representative who deeds property under a probated will isn't taxed.</li><li>Exempt: a divorce deed for the marital home, or a deed between spouses of homestead land where the only consideration is a mortgage.</li><li>A Department advisement put a lady bird deed outside the stamp tax on the facts it described, so ask a Florida attorney before relying on that.</li></ul><p>For the buyer, the assessment resets to full just value, ending the old Save Our Homes cap. Florida also hands residential buyers a written tax disclosure warning them not to assume your current bill will carry over. A homestead owner who plans to buy again should look at portability, which requires the new homestead to be established inside a three-year window counted from the year the old homestead was abandoned, with Form DR-501T filed alongside the DR-501 by March 1. These steps change the buyer's cost, not your gain.</p>"
+  },
+  {
+   "h2": "Putting it together at closing",
+   "html": "<p>In order: confirm you pass the ownership and use tests, gather your basis papers, ask the closing agent about a 1099-S, and have the title agent quote the deed tax before you sign. A plain cash sale skips the buyer's mortgage taxes entirely, so on your side the tax questions stay on the profit and the deed.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does the federal exclusion work the same way for a Florida home?",
+   "a": "Yes. The $250,000 and $500,000 limits come from federal tax law and apply to a main home anywhere in the country. Florida doesn't change the ownership and use tests, though the deed and county records follow Florida procedure."
+  },
+  {
+   "q": "How many months must I live in the house before selling?",
+   "a": "Twenty-four months of residence and twenty-four months of ownership, both inside the five years ending at closing. The months can be scattered, and each test can be met in a different stretch."
+  },
+  {
+   "q": "Can I take the exclusion again soon after another sale?",
+   "a": "Generally not. You usually can't if you excluded profit on another house during the two years before this closing. Publication 523 lists exceptions."
+  },
+  {
+   "q": "I will owe nothing. Do I still tell the IRS?",
+   "a": "When a Form 1099-S shows up, yes. It has to be reported even if every dollar of gain is excludable, and also when part of the gain is taxable."
+  },
+  {
+   "q": "What counts toward my basis?",
+   "a": "Your purchase cost plus lasting improvements, reduced by depreciation and insurance reimbursements for casualty losses. Inherited or gifted homes follow different basis rules in Publication 551."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "Florida DOR Documentary Stamp Tax",
+   "url": "https://floridarevenue.com/taxes/taxesfees/Pages/doc_stamp.aspx"
+  },
+  {
+   "title": "Florida DOR advisement TAA 20B4-004",
+   "url": "https://floridarevenue.com/TaxLaw/Documents/20B4-004.pdf"
+  },
+  {
+   "title": "Florida Statutes 689.261",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0689/Sections/0689.261.html"
+  },
+  {
+   "title": "Florida DOR Save Our Homes (pt112)",
+   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  }
+ ]
+}

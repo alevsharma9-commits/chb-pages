@@ -1,0 +1,89 @@
+{
+ "slug": "arkansas-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Is your house profit taxed in Arkansas?",
+   "html": "<p>Yes, when the federal home sale exclusion doesn't cover it. Arkansas begins with your federal capital gain figures and then applies its own discount, so only part of a long-term gain lands in Arkansas taxable income.</p>\n<p>The mechanics live on <a href=\"https://www.dfa.arkansas.gov/wp-content/uploads/2025_AR1000D_CapitalGains.pdf\">Form AR1000D</a>. Its core rule is short: 50% of a net long-term capital gain is taxed and the other half is exempt from state tax. You complete the form when you report a gain or loss on federal Schedule D, or a gain on Form 1040 when Schedule D isn't required.</p>\n<p>A sale that is fully excluded federally may never reach the form. A sale with a taxable federal gain does, and the Arkansas return picks it up from there.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>For most sellers, this decides whether any gain is taxed. A seller may exclude up to $250,000 of gain on a main home, or up to $500,000 on a joint return, if both the ownership test and the use test are met (<a href=\"https://www.irs.gov/taxtopics/tc701\">Topic 701</a> and Publication 523 cover the exceptions).</p>\n<p>Both tests look at the five years ending on the sale date. You need at least 24 months of ownership and at least 24 months of living there, and the two periods don't have to be the same stretch of time. On a joint return, either spouse can meet the ownership test, but both must meet the use test. You generally can't use the exclusion if you excluded gain on another home in the two years before this sale.</p>\n<p>Reporting is its own duty. If you receive Form 1099-S, you must report the sale even when the gain is excludable. Sellers who can't exclude the whole gain report it on Schedule D and Form 8949.</p>\n<ul>\n<li>Owned the home at least 24 months of the last 5 years: ownership test met.</li>\n<li>Lived in it at least 24 months of the last 5 years: use test met.</li>\n<li>No other home gain excluded in the prior two years: generally required.</li>\n<li>Gain above $250,000 single or $500,000 joint: the excess is taxable.</li>\n</ul>"
+  },
+  {
+   "h2": "The repealed exclusion for sellers over 55",
+   "html": "<p>Arkansas once offered a one-time election for sellers who had reached 55: exclude up to $125,000 of home sale gain, or $62,500 on a married separate return, if the home was the principal residence for three of the previous five years. The legislature repealed that election in 1997, so it no longer applies.</p>\n<p>The rule text still appears at <a href=\"https://codeofarrules.arkansas.gov/Rules/Rule?levelType=section&titleID=26&chapterID=33&subChapterID=261&partID=941&subPartID=6195&sectionID=40223\">26 CAR 100-116</a>, marked repealed, with a note that Acts 1997, No. 328, section 8 removed the statute (Arkansas Code 26-51-305). Older retirement guides may still mention it. Today Arkansas relies on the federal exclusion and the 50% rule.</p>"
+  },
+  {
+   "h2": "Arkansas rate and the 50% rule",
+   "html": "<p>The top individual income tax rate is 3.9%, cut from 4.4% by the General Assembly and governor in 2024. Half of a net long-term gain is taxed at the ordinary rates.</p>\n<p>On the form, a net long-term gain goes on line 7a. Line 7b caps the amount at $10,000,000, and line 8 multiplies the result by 50 percent. That product is your Arkansas taxable amount for long-term gains. Your actual tax depends on total income and the rate schedule that applies to you.</p>\n<p>The form also exempts the portion of a net gain above ten million dollars for gains realized on or after January 1, 2014. That threshold is far above any typical house sale.</p>\n<table>\n<thead><tr><th>Type of gain or loss</th><th>Arkansas treatment</th></tr></thead>\n<tbody>\n<tr><td>Net long-term gain</td><td>50% taxed</td></tr>\n<tr><td>Short-term gain</td><td>Included in full</td></tr>\n<tr><td>Net gain above $10,000,000</td><td>Exempt (gains realized on or after Jan. 1, 2014)</td></tr>\n<tr><td>Net capital loss deduction</td><td>$3,000 ($1,500 per taxpayer for filing status 4 or 5)</td></tr>\n<tr><td>Top income tax rate</td><td>3.9%</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "Owning less than a year",
+   "html": "<p>Short-term gains are taxed differently. The form includes them in full, with no 50% reduction. Anyone who buys a house, fixes it and sells within a year should plan around that.</p>\n<p>Losses are limited too. When capital losses exceed gains, you can deduct $3,000 against other income, or $1,500 per taxpayer for filing status 4 or 5. That cap matters most to investors and landlords who sell a rental or a flip at a loss.</p>"
+  },
+  {
+   "h2": "Rental and investment houses",
+   "html": "<p>Rentals don't get the home sale exclusion unless the owner meets the residence tests, so more of the profit tends to be taxable. Form AR1000D also notes that Arkansas did not adopt the federal bonus depreciation provision from previous years. Depreciation claimed federally can therefore differ from the Arkansas amount, and lines 2, 5 and 10 adjust for the difference.</p>\n<p>If you own a rental, work through these steps:</p>\n<ul>\n<li>Pull the federal depreciation schedule for each year of ownership.</li>\n<li>Compare it with the amounts allowed on the Arkansas return.</li>\n<li>Enter any difference on the AR1000D adjustment lines.</li>\n<li>Confirm the result with a tax professional before filing.</li>\n</ul>\n<p>Investors who sell on an installment contract, with part of the price paid in a later year, can use the installment method. The home exclusion stays available even when that method defers some gain.</p>"
+  },
+  {
+   "h2": "Inherited houses",
+   "html": "<p>Basis usually resets to the home's value on the date the owner died, which often wipes out most of the gain. Publication 551 gives the fair market value at the date of death as the basis for inherited property, or the value on the alternate valuation date if the personal representative chooses it.</p>\n<p>That matters to heirs who sell soon after probate. If the house is worth about what it was at death, the taxable gain may be small. If it appreciated afterward, the difference from the date-of-death value is the starting point. Arkansas adds no estate or inheritance tax on top.</p>"
+  },
+  {
+   "h2": "Real property transfer tax at closing",
+   "html": "<p>The main closing tax is the real property transfer tax. It applies to each deed or instrument conveying realty, at $3.30 per $1,000 of actual consideration on transactions over $100. <a href=\"https://law.justia.com/codes/arkansas/title-26/subtitle-5/chapter-60/section-26-60-105/\">Ark. Code 26-60-105</a> splits it into $1.10 per $1,000 under subsection (a) and an additional $2.20 per $1,000 under subsection (b), the latter paid by the purchaser.</p>\n<p>The tax is based only on the price paid for land and buildings. Under subsection (c), consideration for tangible or intangible personal property is left out when a conveyance includes both. For stamp questions and corrections, call the Miscellaneous Tax Section at 501-682-7187.</p>\n<p>Property tax on the house is a separate bill. Ask the county collector's office for the balance due on the parcel before closing so the title company can pay it from your proceeds.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Arkansas have a capital gains tax?",
+   "a": "Not a separate one. Gains are part of income tax, but only 50% of a net long-term gain is taxed, and short-term gains are included in full."
+  },
+  {
+   "q": "Is the sale of my home taxable in Arkansas?",
+   "a": "Only if the gain isn't excluded federally. Up to $250,000 of gain on a main home, or $500,000 on a joint return, can be excluded when the ownership and use tests are met. Gain above those amounts flows to your Arkansas return."
+  },
+  {
+   "q": "Is there still an Arkansas exclusion for homeowners over 55?",
+   "a": "No. The one-time $125,000 election in Ark. Code 26-51-305 was repealed by Acts 1997, No. 328, section 8."
+  },
+  {
+   "q": "What is the top Arkansas income tax rate?",
+   "a": "It is 3.9%, down from 4.4% after the 2024 cut."
+  },
+  {
+   "q": "How much transfer tax is due when I sell?",
+   "a": "The state real property transfer tax is $3.30 per $1,000 of consideration on transactions over $100. The additional $2.20 per $1,000 is paid by the purchaser. Form AR1000D is a different matter and covers only the capital gain."
+  }
+ ],
+ "sources": [
+  {
+   "title": "DFA 2025 Form AR1000D, Capital Gains",
+   "url": "https://www.dfa.arkansas.gov/wp-content/uploads/2025_AR1000D_CapitalGains.pdf"
+  },
+  {
+   "title": "DFA, Income tax withholding tables adjusted due to most recent tax cut (July 15, 2024)",
+   "url": "https://www.dfa.arkansas.gov/news/income-tax-withholding-tables-adjusted-due-to-most-recent-tax-cut/"
+  },
+  {
+   "title": "26 CAR 100-116, Income from sale of home [repealed]",
+   "url": "https://codeofarrules.arkansas.gov/Rules/Rule?levelType=section&titleID=26&chapterID=33&subChapterID=261&partID=941&subPartID=6195&sectionID=40223"
+  },
+  {
+   "title": "IRS Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "DFA, Real Property Transfer Tax",
+   "url": "https://www.dfa.arkansas.gov/office/taxes/excise-tax-administration/miscellaneous-tax/arkansas-miscellaneous-tax-laws/real-property-transfer/"
+  },
+  {
+   "title": "Ark. Code 26-60-105, Levy on deeds and instruments",
+   "url": "https://law.justia.com/codes/arkansas/title-26/subtitle-5/chapter-60/section-26-60-105/"
+  }
+ ]
+}

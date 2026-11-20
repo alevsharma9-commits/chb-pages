@@ -41,23 +41,23 @@
  "faqs": [
   {
    "q": "When must a Florida homestead claim be filed?",
-   "a": "By March 1, with the county appraiser, using Form DR-501. You must have made the home your permanent residence by January 1. A denial goes to the value adjustment board, and that petition has a 30 day window from the mailing of the denial letter."
+   "a": "Get Form DR-501 to the county appraiser before the March 1 cutoff. The home has to be your permanent residence as of January 1. If the claim is rejected, the value adjustment board hears your petition, and you have 30 days from the date on the denial letter."
   },
   {
    "q": "How big is the Florida homestead exemption?",
-   "a": "Up to $50,000 in assessed value. The first $25,000 offsets all taxes, school levies included. The extra $25,000 touches only value above $50,000 and excludes school taxes, and it is indexed to inflation."
+   "a": "It removes as much as $50,000 of assessed value. School taxes are reduced only by the first $25,000. The second $25,000 covers value above $50,000, leaves school levies alone and rises with inflation."
   },
   {
    "q": "Does a buyer inherit my Save Our Homes cap?",
-   "a": "No. A sale is a change of ownership, and the parcel returns to just value the following January 1. Spouse transfers and certain transfers at death are among the exceptions."
+   "a": "No. Selling resets the parcel to just value the next January 1. Transfers between spouses and some at death are treated differently."
   },
   {
    "q": "Can I keep my cap savings when I buy elsewhere in Florida?",
-   "a": "Often, through portability. Establish the new homestead within three years counted from January 1 of the year you gave up the old one, and file DR-501T with DR-501. The reduction cannot exceed $500,000 or the old home's just-minus-assessed gap, whichever is lower."
+   "a": "Often you can, through portability. The new homestead must start within three years of January 1 of the year you gave up the old one. File DR-501T with your DR-501. The cut is limited to $500,000 or the old home's just-minus-assessed difference, whichever is smaller."
   },
   {
    "q": "What if I rent my homestead out?",
-   "a": "Renting costs you the exemption, as does moving away or leaving Florida as a permanent resident. Servicemembers are the exception under s. 196.061."
+   "a": "The exemption ends if you rent the home, move out, or stop being a Florida permanent resident. Servicemembers leasing under s. 196.061 are the exception."
   }
  ],
  "sources": [
