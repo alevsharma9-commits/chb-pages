@@ -1,0 +1,93 @@
+{
+ "slug": "oregon-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Oregon tax the profit when you sell a house?",
+   "html": "<p>Yes. Oregon counts profit from a home sale as income, because state law is meant to measure taxable income the same way the federal Internal Revenue Code does (ORS 316.007). Gain on a house you sell flows onto your Oregon return, and the federal home sale exclusion reduces it on both.</p><p>Oregon applies one rate table to taxable income, with no separate rate for long-term gains. Residents pay under the table below, and the lower brackets are adjusted each year for inflation.</p><table><thead><tr><th>Taxable income (base schedule)</th><th>Oregon tax</th></tr></thead><tbody><tr><td>Up to $2,000</td><td>4.75 percent</td></tr><tr><td>$2,000 to $5,000</td><td>$95 plus 6.75 percent of the excess over $2,000</td></tr><tr><td>$5,000 to $125,000</td><td>$298 plus 8.75 percent of the excess over $5,000</td></tr><tr><td>Over $125,000</td><td>$10,798 plus 9.9 percent of the excess over $125,000</td></tr></tbody></table><p>The top bracket is not indexed. A large gain can push part of a year's income into the 9.9 percent bracket, so the size of your other income in the sale year matters.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>Gain on your main home is excludable up to $250,000, or $500,000 for a joint return. Ownership counts first: you or your spouse need 24 months of ownership inside the five years ahead of the sale. For the larger amount, each spouse also needs 24 months of living there as a main home in that same window.</p><p>A second exclusion is generally off the table if you took one on a different home sold during the previous two years. A Form 1099-S from the closing means the sale gets reported even if every dollar of gain is excludable; any taxable portion belongs on Schedule D and Form 8949.</p><ul><li>Lived in and owned it for 24 of the last 60 months: probably eligible.</li><li>Rented it out most of the last five years: the use test may fail.</li><li>Took an exclusion on another sale in the past two years: the limit may apply.</li></ul><p>We do not give tax advice. Have a preparer check your actual dates, particularly if you moved out before listing.</p>"
+  },
+  {
+   "h2": "Gain above the exclusion",
+   "html": "<p>Whatever exceeds the exclusion is a federal capital gain and Oregon taxable income. Owning the house longer than a year makes the gain long-term, which carries federal rates of 0, 15 and 20 percent. The 0 percent rate started at $48,350 for single filers and $96,700 for joint filers in 2025. Those cutoffs shift annually, so look up the current ones while you plan.</p><p>Two other items matter for real estate:</p><ul><li>Unrecaptured section 1250 gain on real property tops out at a 25 percent rate. Ask a preparer whether earlier rental depreciation created some.</li><li>The net investment income tax (IRS Topic 559) may apply to higher earners.</li></ul><p>A house held one year or less produces short-term gain, taxed as ordinary income. Oregon residents then owe state tax on top.</p>"
+  },
+  {
+   "h2": "How to work out your gain",
+   "html": "<p>Your gain equals what you realize from the sale less adjusted basis. Basis begins with the purchase price and buying costs. Improvements that add value raise it; depreciation and casualty insurance payouts lower it.</p><p>Inherited houses follow another rule. IRS Publication 551 sets basis at fair market value on the date of death, or on the alternate valuation date when the personal representative chose that election. A house inherited and sold soon after often shows little gain for that reason.</p><p>Dig out your purchase closing statement and receipts for big projects like a new roof or kitchen remodel. A preparer needs both ends of the equation, not only the sale price. Depreciation claimed while the house was a rental lowers basis and can raise the taxable gain.</p>"
+  },
+  {
+   "h2": "Selling Oregon real estate from out of state",
+   "html": "<p>Oregon taxes nonresidents on income from Oregon sources, and gain from selling Oregon real property counts (ORS 316.127). Full-year nonresidents use the same rate table on that Oregon-source income, and the nonresident return is Form OR-40-N.</p><p>The escrow agent may have to withhold Oregon tax at closing. The amount is the least of four percent of the consideration, the net proceeds, or eight percent of the gain includible in Oregon taxable income. The transferor completes the seller sections of Form OR-18-WC, signs it and gives it to the escrow agent, who completes the rest. Keep the form with your tax records; it does not go to the Department of Revenue.</p><p>A sale is exempt from withholding when:</p><ul><li>The consideration, including assumed debt, is $100,000 or less.</li><li>The home is your personal residence and no federal income tax is owed on the sale.</li><li>A credit for tax paid to the home state means no Oregon tax is likely.</li><li>The tax to be withheld is under $100 per transferor.</li><li>The transfer avoids foreclosure with no additional payment, or occurs through foreclosure or a sheriff's sale.</li><li>A court-supervised sale occurs, such as one by a personal representative or bankruptcy trustee.</li></ul><p>Withholding is not the final tax. A nonresident still files Form OR-40-N when Oregon gross income exceeds the filing threshold, even if the sale was exempt, and the withheld amount is credited on that return. Oregon residents are exempt transferors.</p>"
+  },
+  {
+   "h2": "When payment is due on the tax from a sale",
+   "html": "<p>For a resident, the tax is settled on the annual Oregon return. Estimated payments are generally needed if you expect to owe $1,000 or more after credits and withholding. A large gain in a single year can meet that test, so some sellers make an estimated payment in the year of the sale.</p><p>A simple plan:</p><ol><li>Gather the purchase documents, improvement receipts and the closing statement.</li><li>Estimate gain and subtract any exclusion you qualify for.</li><li>Compare expected tax with withholding and credits for the year.</li><li>Decide whether an estimated payment is needed before the next quarter's date.</li></ol><p>The Department of Revenue can be reached at 503-378-4988 or 800-356-4222 or by email at questions.dor@dor.oregon.gov. Estimated tax rules for nonresidents are narrower: they apply only to income subject to Oregon withholding, from an Oregon business or lottery winnings over $600. A nonresident should read the instructions on the department's website.</p>"
+  },
+  {
+   "h2": "How a cash sale changes the tax picture",
+   "html": "<p>Selling for cash does not rewrite the tax rules. You figure gain from the same price, basis and exclusion, and a title or escrow company still handles the closing, so any withholding step described earlier still takes place there.</p><p>Questions that come up for owners considering a fast as-is sale:</p><ul><li>Will I owe Oregon tax? It depends on your gain, exclusion and residency.</li><li>Must I report a sale whose gain is fully excluded? Yes, when a Form 1099-S arrives.</li><li>Does living out of state trigger withholding? It can, unless an exemption fits.</li></ul><p>Treat this page as general information. Run your own numbers past a tax professional or the Department of Revenue.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Oregon have a capital gains tax on home sales?",
+   "a": "Oregon taxes gain on a home sale as part of income, with rates from 4.75 percent to 9.9 percent under ORS 316.037. The federal exclusion of $250,000 or $500,000 can remove all or part of the gain first."
+  },
+  {
+   "q": "What is the Oregon withholding on a nonresident home sale?",
+   "a": "The escrow agent withholds the least of four percent of the consideration, the net proceeds, or eight percent of the gain includible in Oregon income, unless an exemption applies. Form OR-18-WC documents the calculation."
+  },
+  {
+   "q": "Do I report a home sale if the gain is under the exclusion?",
+   "a": "Yes, if you received Form 1099-S, the sale must be reported even when all gain is excludable. Report any taxable part on Schedule D and Form 8949."
+  },
+  {
+   "q": "Is gain on an inherited house taxed in Oregon?",
+   "a": "Only gain over the stepped-up basis is taxed, since basis is generally the fair market value at the date of death. A sale soon after inheriting often shows little gain."
+  },
+  {
+   "q": "Who do I call with questions about Oregon tax on a sale?",
+   "a": "Call the Oregon Department of Revenue at 503-378-4988 or 800-356-4222, or email questions.dor@dor.oregon.gov."
+  }
+ ],
+ "sources": [
+  {
+   "title": "ORS 316.037, Oregon income tax rates",
+   "url": "https://oregon.public.law/statutes/ors_316.037"
+  },
+  {
+   "title": "ORS 316.127, Oregon-source income of nonresidents",
+   "url": "https://oregon.public.law/statutes/ors_316.127"
+  },
+  {
+   "title": "Nonresident sales of Oregon real property, Oregon Department of Revenue",
+   "url": "https://www.oregon.gov/dor/forms/FormsPubs/publication_or-nr-real_101-023.pdf"
+  },
+  {
+   "title": "Oregon Department of Revenue, Personal Income Tax",
+   "url": "https://www.oregon.gov/dor/programs/individuals/pages/pit.aspx"
+  },
+  {
+   "title": "Publication OR-17, Oregon Individual Income Tax Guide",
+   "url": "https://www.oregon.gov/dor/forms/FormsPubs/publication-or-17_101-431_2025.pdf"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "IRS Publication 551, Basis of assets",
+   "url": "https://www.irs.gov/publications/p551"
+  }
+ ]
+}

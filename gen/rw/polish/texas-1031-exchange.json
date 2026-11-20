@@ -1,0 +1,77 @@
+{
+ "slug": "texas-1031-exchange",
+ "sections": [
+  {
+   "h2": "Section 1031 exchanges for Texas real estate",
+   "html": "<p>It is a federal tax rule that lets an owner of business or investment real property swap it for other business or investment real property and generally skip recognizing the gain or loss at that time. You recognize gain only to the extent you also receive cash or other non-like-kind property, and you cannot recognize a loss. Texas owners use the same federal rule as everyone else.</p><p>Since January 1, 2018, the rule covers real property only. Exchanges of equipment, vehicles, artwork, collectibles and patents no longer qualify, apart from certain mutual ditch, reservoir and irrigation stock. A Texas rental house, apartment building, office or tract of land can qualify. Real property held primarily for sale does not.</p><p>A tax adviser or a qualified intermediary should confirm how the rule applies to your sale before you list.</p>"
+  },
+  {
+   "h2": "Which properties are like-kind",
+   "html": "<p>Real properties are generally like-kind to each other, whether improved or unimproved. An apartment building would generally be like-kind to another apartment building, and properties qualify when they share the same nature or character, even if grade or quality differs.</p><p>One limit applies to every investor: real property in the United States is not like-kind to real property outside the United States. A Texas duplex can be swapped for land in another state, but not for a property abroad.</p><ul><li>Qualifies: a Texas rental house exchanged for a fourplex held as an investment.</li><li>Qualifies: unimproved land exchanged for improved commercial property, if both are held for business or investment.</li><li>Does not qualify: a house you hold mainly to resell, or a house you use solely as your personal residence.</li></ul>"
+  },
+  {
+   "h2": "The 45-day and 180-day deadlines",
+   "html": "<p>A deferred exchange has two clocks that start when you transfer the property you give up. Replacement property must be identified within 45 days, and received by the earlier of 180 days or the due date of your tax return, including extensions, for the year of the transfer.</p><table><caption>Timing rules for a deferred exchange</caption><thead><tr><th>Step</th><th>Deadline</th><th>Requirement</th></tr></thead><tbody><tr><td>Identify replacement property</td><td>Within 45 days of the transfer</td><td>Signed written document, clear description, sent to the right person</td></tr><tr><td>Receive replacement property</td><td>Earlier of day 180 or the return due date</td><td>Counts the due date with extensions</td></tr><tr><td>Report the exchange</td><td>With the return for the transfer year</td><td>File Form 8824</td></tr></tbody></table><p>For real property, the written identification must describe it by legal description, street address or a distinguishable name. If you receive the replacement property before day 45 ends, you are treated as meeting the identification rule. Because the 180-day period can be cut short by the return due date, an exchange that closes late in the year may need an extension of the tax return to use the full 180 days.</p>"
+  },
+  {
+   "h2": "Using a qualified intermediary",
+   "html": "<p>In a deferred exchange, a qualified intermediary (QI) lets the transfer of the property given up and the receipt of replacement property be treated as a like-kind exchange.</p><p>Related parties and your agents cannot serve as the QI. They are called disqualified persons, and Publication 544 has the details. If the QI causes you to miss a timing rule, the transaction does not qualify as a deferred exchange, and the gain may be taxable in the year you transferred the property. A narrow exception exists when a QI defaults because of bankruptcy or receivership.</p><p>Pick the intermediary before the sale closes. The Texas side of that process is the same as any sale: a title company, a deed recorded with the county clerk where the property sits, and clear records.</p>"
+  },
+  {
+   "h2": "Can you exchange your Texas home?",
+   "html": "<p>Not a house you used only as your personal residence. Section 1031 does not apply to real property you gave up if it was used solely as your personal residence at the time of the exchange.</p><p>A different rule may help. If you owned and used the property as your main home for at least a total of 2 years during the 5-year period ending on the date of the exchange, Section 121 may let you exclude part or all of the gain. Publication 523 explains how that exclusion works.</p><p>A house used partly as a home and partly for business or investment is split, with two separate Form 8824 worksheets: one for the home part and one for the business or investment part. Rental houses in Texas that were once your home, or the reverse, deserve a tax adviser's review before you sign a contract.</p>"
+  },
+  {
+   "h2": "Texas steps that still apply",
+   "html": "<p>The federal rule changes how gain is taxed, not how a Texas sale is carried out. The deed still has to be signed and acknowledged before a notary, or sworn before two witnesses, and it is recorded with the county clerk of the county where the property lies.</p><p>The Texas property tax calendar runs on its own track. A tax lien for each year attaches January 1, and a buyer cannot get clear title until delinquent taxes are paid, so a title company will settle any tax owed from the sale funds. Texas has no state property tax, since local governments set rates and collect the money.</p><ul><li>Gather the legal description early, because real property must be identified that way or by street address.</li><li>Ask the county appraisal district and tax office for the tax status of both the old and new property.</li><li>Keep a copy of the signed identification letter and the date you sent it.</li></ul><p>On closing day the title company handles the deed, the payoff of any loan and the transfer of funds to the intermediary. Bring your identification, the legal description and the name of your intermediary so the sale proceeds go to the right place and are never paid to you directly. Ask the title officer to confirm the closing date in writing.</p><p>If you are weighing a quick cash sale of an investment house instead, tax treatment differs, so talk to a tax adviser first.</p>"
+  },
+  {
+   "h2": "What happens to the deferred gain",
+   "html": "<p>The gain is deferred, not erased. You file Form 8824 with your return for the year you transferred property in a like-kind exchange, and the form reports the deferred gain or loss.</p><p>An exchange with a related party carries a two-year rule. Related parties include a spouse, child, grandchild, parent, grandparent, brother or sister, and related entities such as certain corporations, partnerships, trusts and estates. If either side disposes of the property received in such an exchange before the date 2 years after the last transfer, the deferred gain or loss must be reported for the year of the disposition, unless an exception on the form applies. You also file Form 8824 for the two years after a related party exchange.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Texas have its own 1031 exchange rules?",
+   "a": "The like-kind rule is federal, found in Internal Revenue Code Section 1031. Texas deeds are still recorded with the county clerk, but the like-kind tax treatment comes from federal law."
+  },
+  {
+   "q": "How long do I have to identify replacement property?",
+   "a": "Within 45 days after you transfer the property you give up. The identification must be in writing, signed and clearly described."
+  },
+  {
+   "q": "How long do I have to close on the replacement property?",
+   "a": "By the earlier of 180 days after the transfer or the due date of your tax return, including extensions, for the year of the transfer."
+  },
+  {
+   "q": "Can I do a 1031 exchange on a house I live in?",
+   "a": "No, if it was used solely as your personal residence at the time of the exchange. Section 121 may exclude gain if you owned and used it as your main home for 2 of the last 5 years."
+  },
+  {
+   "q": "Which form reports a like-kind exchange?",
+   "a": "Form 8824, filed with your return for the year of the transfer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Like-kind exchanges, real estate tax tips, IRS",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/like-kind-exchanges-real-estate-tax-tips"
+  },
+  {
+   "title": "Instructions for Form 8824, IRS",
+   "url": "https://irs.gov/pub/irs-pdf/i8824.pdf"
+  },
+  {
+   "title": "County Clerk Manual, Texas Courts",
+   "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"
+  },
+  {
+   "title": "Property tax basics, Texas Comptroller",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/basics.php"
+  },
+  {
+   "title": "Property tax payments, Texas Comptroller",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  }
+ ]
+}

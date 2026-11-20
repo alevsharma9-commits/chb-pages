@@ -1,0 +1,89 @@
+{
+ "slug": "oregon-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Oregon have an estate tax, and when does an estate owe it?",
+   "html": "<p>Yes. Oregon charges an estate transfer tax once the gross estate at death reaches $1 million and includes property Oregon can tax. A return is required at that level, and the tax applies to every resident decedent and to nonresidents who own Oregon real or tangible personal property (ORS 118.010).</p><p>The executor files, not the heirs. For a probated estate that is the court-appointed personal representative, and for a non-probate estate it is whoever holds the property. The return for deaths on or after January 1, 2012 is Form OR-706; the older Form IT-1 covered earlier deaths.</p><p>The $1 million line is not indexed for inflation. Real estate and retirement accounts both count toward it, which surprises families who assume only very large estates are covered.</p>"
+  },
+  {
+   "h2": "Rates",
+   "html": "<p>Rates are graduated. They start at 10 percent on the part of the taxable estate over $1 million and climb to 16 percent above $9.5 million, with smaller steps in between at each higher bracket. For each bracket, the tax is a base amount plus the bracket's rate on the excess over its lower limit. The Department of Revenue's Form OR-706 instructions carry the full bracket table, and the personal representative or an estate attorney applies it to the taxable estate. Because the top rate only applies to the slice above the last bracket line, most estates that owe tax pay an overall rate well below the headline figures, and the real number depends on deductions, the marital election and any out-of-state property.</p>"
+  },
+  {
+   "h2": "How the Oregon taxable estate is calculated",
+   "html": "<p>The calculation begins with the federal taxable estate and is adjusted by statute. State death taxes deductible under federal law are added back, and the value of Oregon special marital property and qualifying natural resource property is subtracted, among other items.</p><ul><li>Bequests to a surviving spouse can be deducted, and a marital or QTIP claim needs an Oregon-only Schedule M.</li><li>An executor may make an Oregon special marital property election on the return, and elections made for state purposes are irrevocable.</li><li>The second spouse's estate must include property previously claimed for a QTIP or special marital deduction.</li></ul><p>For a resident with property in other states, the table amount is multiplied by a ratio. The numerator is Oregon real and tangible property plus intangibles, and the denominator is the gross estate. For a nonresident, only Oregon real and tangible property goes in the numerator, which is why an out-of-state owner of an Oregon rental or cabin can face an Oregon filing.</p>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>For deaths on or after January 1, 2022, the return and payment are due 12 months after the date of death. Earlier deaths had a nine-month deadline, so confirm the date of death first.</p><table><thead><tr><th>Filing item</th><th>Rule</th></tr></thead><tbody><tr><td>Return required</td><td>Gross estate of $1 million or more</td></tr><tr><td>Due date, death on or after 1/1/2022</td><td>12 months after death</td></tr><tr><td>Extension to file</td><td>Six months, using Form OR-706 EXT</td></tr><tr><td>Extension to pay</td><td>Only in special circumstances, under OAR 150-118-0150</td></tr><tr><td>Fiduciary income return</td><td>Form OR-41 if a probated estate had any gross income</td></tr></tbody></table><p>An extension to file does not extend the time to pay, and interest runs on unpaid tax. A 5 percent penalty applies for late filing or payment, rising to 25 percent in total when the return is more than three months late. Payment goes to the Department of Revenue, which gives a receipt to whoever pays (ORS 118.250).</p><p>If you are late on a return or unsure about a date of death, call the Estate/Fiduciary Tax Unit at 503-378-4988 right away.</p>"
+  },
+  {
+   "h2": "How estate tax affects selling the inherited house",
+   "html": "<p>The house is part of the gross estate at its date-of-death value, and that same value generally becomes the heir's basis. IRS Publication 551 sets inherited property basis at fair market value on the date of death, or the alternate valuation date if the personal representative elected it.</p><p>That helps a seller. If the home sells soon after the death at about the appraised value, there is often little or no income gain to report, even if the owner bought it decades ago.</p><p>The estate may still face a cash problem. A house can be the largest asset in a taxable estate while the tax is due in cash. Installment payment of the tax is possible, with a first mortgage on Oregon real property as possible collateral. If the extension to pay runs more than 12 months, the estate must provide collateral equal to twice the unpaid tax.</p>"
+  },
+  {
+   "h2": "Does nonresident withholding apply to a sale by the estate?",
+   "html": "<p>Not for a court-supervised sale. Sales by an estate's personal representative or executor, a conservator or a bankruptcy trustee are exempt from escrow withholding.</p><p>Other exemptions are narrower:</p><ul><li>The price, including assumed debt, is $100,000 or less.</li><li>The tax to be withheld would be under $100 per transferor.</li><li>The transfer happens through foreclosure or a sheriff's sale.</li></ul><p>Outside those cases the escrow agent may ask the seller for Form OR-18-WC. A nonresident heir who has Oregon-source income from the sale also files Form OR-40-N. Keep the form with the estate records rather than sending it to the department.</p>"
+  },
+  {
+   "h2": "What an executor should gather before listing an Oregon house",
+   "html": "<p>Collect the date of death, a value for every asset and the paperwork that shows who is acting for the estate. A return is needed at $1 million, so the total of all assets drives every other step.</p><ul><li>A date-of-death valuation of the house, which also supports the heirs' basis.</li><li>Statements for retirement accounts, bank accounts and any out-of-state property.</li><li>Proof of who the personal representative is, since that person files Form OR-706.</li><li>Any prior spouse's estate return that used a marital or QTIP election.</li></ul><p>The Estate/Fiduciary Tax Unit is at PO Box 14110, Salem, OR 97309-0910. Phone lines run 7:30 a.m. to 5 p.m. Monday through Friday, except 9 to 11 a.m. on Thursdays and holidays.</p>"
+  },
+  {
+   "h2": "Checking which law applies to your date of death",
+   "html": "<p>Estate tax thresholds and deadlines have changed before, and the rules that apply are the ones in force on the date of death. Ask the department or an attorney which version covers your estate, especially when the death date sits near a change in the law.</p><p>For help with an inherited house in Oregon, contact the department's estate team at estate.help.dor@dor.oregon.gov, or the general line at 800-356-4222. This is general information, not legal or tax advice.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Oregon estate tax exemption?",
+   "a": "The filing threshold is a gross estate of $1 million or more. Rates start at 10 percent on the taxable estate over $1 million and reach 16 percent above $9.5 million."
+  },
+  {
+   "q": "Is there an Oregon inheritance tax that heirs pay?",
+   "a": "The tax is imposed on the estate, and the executor files Form OR-706. The earlier Form IT-1 was used for deaths before January 1, 2012."
+  },
+  {
+   "q": "How long does an estate have to file the Oregon return?",
+   "a": "For deaths on or after January 1, 2022, the return and payment are due 12 months after death. A six-month extension to file is available, but it does not extend the time to pay."
+  },
+  {
+   "q": "Does a nonresident who inherits Oregon real estate owe Oregon estate tax?",
+   "a": "The estate can owe tax when a nonresident decedent owned Oregon real or tangible personal property and the gross estate reaches $1 million. Only the Oregon property is counted in the ratio."
+  },
+  {
+   "q": "Can I sell an inherited Oregon house before the estate tax is paid?",
+   "a": "Call the Estate/Fiduciary Tax Unit at 503-378-4988 to find out what applies to your estate before you set a closing date."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Estate transfer or inheritance taxes, Oregon Department of Revenue",
+   "url": "https://www.oregon.gov/dor/programs/businesses/pages/estate.aspx"
+  },
+  {
+   "title": "Form OR-706 instructions, Oregon Department of Revenue",
+   "url": "https://www.oregon.gov/dor/forms/FormsPubs/form-or-706-inst_104-001-1_2021.pdf"
+  },
+  {
+   "title": "ORS 118.010, tax on transfer of estates",
+   "url": "https://oregon.public.law/statutes/ors_118.010"
+  },
+  {
+   "title": "ORS 118.250, payment and receipts",
+   "url": "https://oregon.public.law/statutes/ors_118.250"
+  },
+  {
+   "title": "Nonresident sales of Oregon real property, Oregon Department of Revenue",
+   "url": "https://www.oregon.gov/dor/forms/FormsPubs/publication_or-nr-real_101-023.pdf"
+  },
+  {
+   "title": "IRS Publication 551, Basis of assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "Estate tax updates in Oregon and Washington, Allen Trust Company",
+   "url": "https://www.allentrust.com/viewpoints/estate-tax-updates-in-oregon-and-washington"
+  }
+ ]
+}

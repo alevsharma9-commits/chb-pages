@@ -1,0 +1,61 @@
+{
+ "slug": "pennsylvania-eviction-notice",
+ "sections": [
+  {
+   "h2": "Written notice before a Pennsylvania eviction",
+   "html": "<p>A landlord must start with a written Notice to Quit, and the length of that notice turns on the reason for ending the tenancy. The time periods come from the Landlord and Tenant Act, 68 P.S. 250.501(b) and 250.505-A.</p>\n<p>The notice does not end the tenancy by itself. It starts a clock, and if the tenant is still in the house when the clock runs out, the landlord has to go to court for possession. Changing locks or removing belongings is not part of the lawful process.</p>\n<table><caption>Notice to Quit periods by reason for eviction</caption><thead><tr><th>Reason</th><th>Days to leave voluntarily</th></tr></thead><tbody><tr><td>Failure to pay rent</td><td>10</td></tr><tr><td>Use of illegal drugs</td><td>10</td></tr><tr><td>Other lease breach, lease of one year or less or indeterminate term</td><td>15</td></tr><tr><td>Other lease breach, lease longer than one year</td><td>30</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How a Notice to Quit is delivered, and lease waivers",
+   "html": "<p>Under 68 P.S. 250.501(f), the landlord can give the notice to the tenant in person, leave it at the main building of the leased property, or post it conspicuously on the property.</p>\n<p>A lease can waive the notice. Waiver of notice to quit clauses are common, and if one is valid, the landlord may file a complaint in court with no advance notice at all. The Attorney General's office encourages landlords not to include such clauses, but the law permits them. Read the lease for a waiver clause before relying on the day counts above.</p>\n<ul>\n<li>Month-to-month and year-to-year tenancies renew automatically unless one side gives at least 15 days' notice before the current month or year ends.</li>\n<li>A lease of three years or less can be oral or written, and a lease for more than three years must be in writing.</li>\n</ul>"
+  },
+  {
+   "h2": "After the notice period ends",
+   "html": "<p>The landlord files a Landlord-Tenant Complaint. That filing goes to the Magisterial District Court for the county, to the Philadelphia Municipal Court in Philadelphia, or to the Housing Court in Allegheny County. The complaint asks for possession and may also ask for back rent or damages.</p>\n<p>The court issues a summons with a hearing date, mails it to the tenant's last known address by first-class mail, and has a sheriff or certified constable serve it in person or by posting. A tenant with a claim against the landlord, such as a breach of the implied warranty of habitability, must file a counterclaim before the hearing date. A tenant who misses the hearing loses by default.</p>\n<p>Each court follows its own local rules, so look up the rules for the court named on the summons before the hearing date arrives.</p>"
+  },
+  {
+   "h2": "The hearing and the appeal",
+   "html": "<p>At the hearing each side presents its case, and the judge issues a Notice of Judgment at the end of the hearing or within three days. If the landlord wins, the landlord is granted possession and the judge may also award unpaid rent and damages.</p>\n<p>A tenant who loses has 10 days after entry of judgment to appeal to the court of common pleas. The appeal stops an actual eviction only if the tenant deposits with the court the lesser of three months' rent or the amount the judge ordered paid. A low-income tenant can file an affidavit and deposit one third of a month's rent, and in both cases monthly rent must keep being deposited while the appeal is pending. A survivor of domestic violence has 30 days to appeal under 68 P.S. 250.513(b).</p>"
+  },
+  {
+   "h2": "When a tenant can actually be removed",
+   "html": "<p>Only after an order of possession, and the landlord cannot request it until 10 days after the judgment. The court mails the order and a sheriff or certified constable serves it personally or by posting. The order requires the tenant to vacate within 10 days of service, and on the 11th day after service the tenant can be forcibly evicted.</p>\n<ul>\n<li>If belongings are left behind after a forced eviction, the landlord must mail notice of the right to retrieve them by first-class mail.</li>\n<li>The tenant then has 10 days from the postmark to pick them up or ask the landlord to store them, for up to 30 days at the tenant's cost.</li>\n<li>In a nonpayment case the tenant can stop the eviction at any point before it happens by paying all unpaid rent and fees.</li>\n</ul>\n<p>After a payment, the landlord should record the judgment as satisfied. If the landlord fails to do so within 90 days of a written request, the landlord can owe 1 percent of the judgment each month, with a floor of $250 and a ceiling of $2,500.</p>"
+  },
+  {
+   "h2": "Local programs and court rules that can pause a case",
+   "html": "<p>Local courts set their own procedures, so check the local rules of the court where the complaint was filed. The Philadelphia Municipal Court, for example, continues a hearing when the tenant has a complaint accepted by the Philadelphia Fair Housing Commission before the date the landlord filed for eviction.</p>\n<p>Some cities, Philadelphia among them, may offer eviction diversion or mediation programs that help the parties reach an agreement without a full court process or an eviction record. Do not assume one exists in a given county. Ask the court clerk or the county lawyer referral service what is offered.</p>\n<ul>\n<li>Tenants can ask the court to reschedule a hearing they cannot attend, but they should contact the court before the date.</li>\n<li>Tenants can bring a lawyer, documents, photos, emails and records to the hearing.</li>\n<li>Landlords pursuing both possession and rent can ask for both in a single complaint.</li>\n</ul>"
+  },
+  {
+   "h2": "How an eviction affects selling a Pennsylvania house",
+   "html": "<p>An owner planning to sell a tenant-occupied house should keep the notice, the complaint, the judgment and the order of possession together in one file. Each document shows where the case stands, and anyone reviewing the property will ask for them.</p>\n<p>Pennsylvania does not automatically seal or expunge eviction records, even when a case is withdrawn, and a judgment can still appear unsatisfied if the landlord never filed the satisfaction. After any payment, make sure the court record is updated. Ask the court clerk for the docket and a lawyer or lawyer referral service for advice on timing.</p>\n<p>A buyer usually wants the house delivered empty, so the sale timeline follows the eviction timeline. A cash buyer who purchases as-is can take on repairs and cleanup, but possession still has to be delivered lawfully at closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days is a Pennsylvania eviction notice?",
+   "a": "Ten days for unpaid rent or illegal drug use, 15 days for another breach under a lease of one year or less, and 30 days for another breach under a lease longer than one year. These periods come from 68 P.S. 250.501(b)."
+  },
+  {
+   "q": "Can a Pennsylvania landlord evict without a court order?",
+   "a": "No, the landlord must file a complaint, win a judgment, wait 10 days, and obtain an order of possession served by a sheriff or certified constable. Even then, forcible removal can happen only on the 11th day after service of that order, and the landlord may not act alone."
+  },
+  {
+   "q": "Can a tenant stop an eviction by paying the rent owed?",
+   "a": "Yes, when the eviction is only for failure to pay rent, paying the full unpaid rent and fees before the actual eviction stops it. The landlord should then enter satisfaction of the judgment with the court."
+  },
+  {
+   "q": "How long does a tenant have to appeal?",
+   "a": "Ten days after judgment is entered, with an appeal to the court of common pleas. A survivor of domestic violence has 30 days, and the appeal blocks removal only if the required deposit is made."
+  },
+  {
+   "q": "Where is the eviction complaint filed?",
+   "a": "In the county's Magisterial District Court, except that Philadelphia uses the Municipal Court and Allegheny County uses the Housing Court. The same court issues the summons and the order of possession."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Consumer Guide to Tenant and Landlord Rights, Pennsylvania Office of Attorney General",
+   "url": "https://www.attorneygeneral.gov/wp-content/uploads/ConsumerTenant-Landlord-Guide.pdf"
+  }
+ ]
+}

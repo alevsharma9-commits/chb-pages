@@ -1,0 +1,93 @@
+{
+ "slug": "texas-capital-gains-tax-home-sale",
+ "sections": [
+  {
+   "h2": "Does Texas tax profit from selling a house?",
+   "html": "<p>No. Texas has no state income tax, so a home sale adds nothing to a state return because there is no state return to file.</p><p>The federal government is the only income tax collector in a Texas home sale. Texas homeowners still deal with property taxes at closing, covered below, but those are charges for owning the house and not a tax on profit.</p>"
+  },
+  {
+   "h2": "The federal exclusion for a home sale",
+   "html": "<p>The tax-free gain is capped at $250,000 for one filer and $500,000 for spouses filing together. The cap applies to profit only. Profit is what remains after subtracting adjusted basis from the amount realized.</p><p>Basis starts with the cost of the house, including sales tax and purchase expenses. Improvements that add value raise it, while items like insurance reimbursements for casualty losses reduce it. A Texas owner who finished a garage apartment or replaced a roof should dig out those receipts. A long-held house with no upgrades tends to carry a low basis and therefore a larger gain.</p><p>Losses get no relief. A loss on personal-use property, a home included, is not deductible.</p>"
+  },
+  {
+   "h2": "The ownership and use tests",
+   "html": "<p>Eligibility turns on ownership and use. Each is measured over the five-year window that ends on the closing date.</p><table><caption>Federal home-sale exclusion tests</caption><thead><tr><th>Test</th><th>Rule</th></tr></thead><tbody><tr><td>Ownership</td><td>Two years of ownership inside the window</td></tr><tr><td>Use</td><td>Two years living there as a main residence inside the window</td></tr><tr><td>Overlap</td><td>The two years of ownership and use can come from different periods</td></tr><tr><td>Spouses filing jointly</td><td>One spouse can satisfy ownership; each spouse must satisfy use</td></tr><tr><td>Back-to-back sales</td><td>Generally blocked if another home's gain was excluded within the prior two years</td></tr><tr><td>Extended official duty</td><td>Window can be suspended up to a decade for service members, Foreign Service and intelligence personnel</td></tr></tbody></table><p>Publication 523 lists partial-exclusion situations and exceptions.</p>"
+  },
+  {
+   "h2": "Estimating your gain before you list",
+   "html": "<p>Work through the pieces in order and keep paper copies of each.</p><ul><li>Start with what you paid for the house, plus purchase-related costs such as sales tax that count as part of basis.</li><li>Add the cost of improvements that added value, and subtract items that reduce basis, such as insurance reimbursements for casualty losses.</li><li>Take the amount you expect to realize from the sale and subtract adjusted basis to get the gain.</li><li>Compare that gain with the $250,000 or $500,000 ceiling if you pass both tests.</li><li>Only the part above the ceiling, if any, goes into the capital gain rate bands.</li></ul><p>Sellers in Texas often forget that a home bought decades ago with little paper trail can still have a documented basis through closing statements and permit records. County clerk deed records and your original settlement statement are a good place to start.</p>"
+  },
+  {
+   "h2": "Federal rates on gain above the exclusion",
+   "html": "<p>A long-term gain on a Texas house is taxed at 0, 15 or 20 percent depending on taxable income. The 2025 thresholds are below.</p><ul><li>The 0 percent band ends at $48,350 of taxable income for single and separate filers, $96,700 for joint filers, and $64,750 for heads of household.</li><li>The 15 percent band runs above those levels to $533,400 single, $300,000 separate, $600,050 joint, and $566,700 head of household.</li><li>Income past the 15 percent ceiling is taxed at 20 percent on the excess.</li></ul><p>Depreciation claimed while the house was a rental can be taxed at up to 25 percent as unrecaptured section 1250 gain. Short-term results are taxed like wages. Thresholds change by year, so look up the figures that match the year your sale closes.</p>"
+  },
+  {
+   "h2": "Inherited or rented houses",
+   "html": "<p>The simple exclusion story shifts in both cases. For an inherited house, basis is not simply what the heir paid, and Publication 551 covers it. Property acquired from a decedent also has special holding-period rules, described in Publication 544.</p><p>For a house that spent years as a rental, depreciation reduces basis, and Publication 523 handles homes with rental or business use. Title questions for heirs are covered on this site's Texas affidavit of heirship and probate pages.</p>"
+  },
+  {
+   "h2": "When you have to report the sale",
+   "html": "<p>Report the sale whenever a Form 1099-S arrives, even if every dollar of gain is excludable, and whenever some gain cannot be excluded. Reporting goes on Form 8949 and Schedule D.</p><p>A seller who carried the financing over later years may spread the gain using the installment method, and the home-sale exclusion stays available in that case. Large taxable gains can also trigger estimated payments, and Publication 505 covers that rule.</p>"
+  },
+  {
+   "h2": "The one-year holding rule",
+   "html": "<p>It is a separate clock from the exclusion tests. An asset kept for more than a year yields a long-term result, and one kept a year or less yields a short-term result taxed at ordinary rates. Counting begins the day after acquisition and includes the sale day.</p><p>Picture two sellers. One lived in a house for 18 months and then sold: the holding period is long-term, yet the two-year exclusion tests are unmet. Another owned for 25 months but rented the place out for most of that time: ownership is satisfied while use may not be. Mark both dates on a calendar well ahead of any contract.</p><p>Gifts and inherited property get special treatment, and Publication 544 covers them.</p>"
+  },
+  {
+   "h2": "Texas charges at closing",
+   "html": "<p>Property tax is the main one. Local units, not the state, levy it, and appraisal districts value each parcel annually as of January 1. Because that is the date the year's lien attaches, a buyer's title company will want it settled.</p><p>Request the tax certificate early and compare it to what the county tax assessor-collector shows. Unpaid bills carry penalty and interest.</p><p>Closing also brings a federal filing detail to know early. If you receive a Form 1099-S, the IRS has a record of the sale whether or not you owe anything. Matching your return to that form avoids notices later, and a tax preparer can check the entries against your settlement statement.</p><p>Before closing, collect the original settlement statement from your purchase, receipts for major improvements and any records of casualty claims. Hand copies to your preparer right after the sale, while the paperwork is easy to find. A cash sale closes on a shorter timeline, so gather these papers before you accept an offer rather than after. If the sale produces a gain above the exclusion, ask the preparer whether estimated payments are needed so the first bill is not a surprise. Set aside the likely tax from the proceeds at closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Texas capital gains tax on real estate?",
+   "a": "No. Texas has no state income tax, so a home sale produces no state capital gains return. The federal rules still apply."
+  },
+  {
+   "q": "How long must I live in a Texas home to avoid federal tax on the gain?",
+   "a": "At least two years of both ownership and use inside the five years before closing. The months need not be consecutive, and the two periods may be different stretches."
+  },
+  {
+   "q": "What is the exclusion for a married couple selling a Texas house?",
+   "a": "$500,000 of gain on a joint return. One spouse can meet the ownership test, but each spouse must meet the use test on their own."
+  },
+  {
+   "q": "Can I deduct a loss when I sell my Texas home for less than I paid?",
+   "a": "No. Losses from the sale of personal-use property, including your home, are not tax deductible."
+  },
+  {
+   "q": "Where do I report a Texas home sale?",
+   "a": "On Form 8949 and Schedule D when reporting is required, which includes any sale that generated a Form 1099-S. Publication 523 has the worksheets. A tax professional can confirm what fits your facts."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "Texas Comptroller, Texas is open for small business (no state income tax)",
+   "url": "https://comptroller.texas.gov/economy/fiscal-notes/industry/2025/small-biz-info"
+  },
+  {
+   "title": "Texas Comptroller, property tax basics",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/basics.php"
+  },
+  {
+   "title": "Texas Comptroller, paying property taxes",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  },
+  {
+   "title": "Texas Comptroller, property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  }
+ ]
+}

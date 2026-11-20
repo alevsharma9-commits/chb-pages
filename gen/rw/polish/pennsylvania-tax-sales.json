@@ -1,0 +1,89 @@
+{
+ "slug": "pennsylvania-tax-sales",
+ "sections": [
+  {
+   "h2": "How a Pennsylvania tax sale works",
+   "html": "<p>A Pennsylvania tax sale is a forced sale of real estate to collect unpaid real estate tax. Outside the first and second class counties, a county tax claim bureau runs it under the Real Estate Tax Sale Law, Act 542 of 1947. Philadelphia, the only first class county, follows a different statute and court process, covered below.</p><p>Under the 1947 law, a tax claim is a first lien on the parcel. The bureau gives the owner a one-year window to pay, then offers the property at an upset sale. If no one bids the full upset price, it can ask the court of common pleas for a judicial sale. Each step carries its own notice rules, and a defect in notice is the most common ground for an owner to object.</p><p>The upset price is the total the bureau must recover. It adds the Commonwealth tax liens, the claim being sold on, any other tax claims or judgments, current-year taxes, municipal claims such as water or sewer, and the record and sale costs (section 605). A house with a small tax debt can therefore carry an upset price well above the original bill.</p>"
+  },
+  {
+   "h2": "Philadelphia versus the rest of the state",
+   "html": "<p>The 1947 Real Estate Tax Sale Law covers counties other than the first and second class. Philadelphia is the state's only first class county and instead uses the Municipal Claim and Tax Lien Law of 1923 (Act 153), which sends delinquent accounts through the Court of Common Pleas and the Sheriff's Office.</p><ul><li>Tax claim bureau counties: a September upset sale, no redemption after the sale, and a deed from the bureau to the buyer.</li><li>Philadelphia: a petition and court order, a sheriff's auction, and a nine month redemption period after the sheriff's deed is acknowledged for most homes.</li><li>A judicial sale under either system clears the taxing bodies' liens, while the 1947 law lets recorded mortgages and ground rents survive an upset sale unless they were part of the upset price.</li></ul>"
+  },
+  {
+   "h2": "Steps and dates in a tax claim bureau sale",
+   "html": "<p>The calendar is fixed by statute, so an owner who tracks it can usually see the sale coming a year ahead.</p><table><caption>Tax claim bureau sale steps under Act 542 of 1947</caption><thead><tr><th>Step</th><th>Rule</th><th>Section</th></tr></thead><tbody><tr><td>Notice of claim</td><td>Mailed by July 31 each year; a one-year discharge period starts July 1</td><td>308</td></tr><tr><td>Pay and stay off the advertisement</td><td>Payment before July 1 of the following year removes the property from the sale list</td><td>501</td></tr><tr><td>Upset sale date</td><td>No earlier than the second Monday of September and before October 1; may be continued to year end</td><td>601</td></tr><tr><td>Published and mailed notice</td><td>At least 30 days before the sale, by newspaper and certified mail; posting at least 10 days before</td><td>602</td></tr><tr><td>Owner-occupied homes</td><td>Personal service by the sheriff or an appointee at least 10 days before the sale</td><td>601(a)(3)</td></tr><tr><td>Return to court</td><td>Consolidated return within 60 days; owner objections within 30 days after confirmation nisi</td><td>607</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How to stop a tax sale before it happens",
+   "html": "<p>An owner can stop the sale by paying, by signing a payment agreement, or by selling the house and paying the bureau from the closing proceeds. The statute names these options:</p><ul><li>Pay in full before July 1 of the year after the notice of claim, which also keeps the address out of the advertisement. Paying after July 1 but before the sale still stops it, though the property may appear in the printed list (section 501).</li><li>Sign a stay agreement with the bureau before the sale: 25 percent of the amount due up front and the balance in no more than three installments within one year (section 603). Missing a payment lets the bureau proceed at a sale held at least 90 days after the default.</li><li>Ask for an extension of up to 12 more months for owner-occupied real estate, if the county commissioners have adopted that program. The schedule must have at least four payments, with a first payment no larger than 25 percent (sections 502.1 and 503.1).</li><li>Ask about deferral if every owner-occupant is 65 or older and household income falls within the state rent rebate limit, where the county has adopted it (section 504).</li></ul><p>The discharge certificate the bureau issues after payment records the satisfaction, and the bureau must forward collected money to the taxing districts at least every three months (section 501).</p>"
+  },
+  {
+   "h2": "Title after an upset sale",
+   "html": "<p>Title passes to the buyer once the court confirms the sale and the buyer pays the bid, and the owner has no right to redeem after the actual sale (section 501(c)). The bureau signs a fee simple deed as trustee, and the buyer pays to record it (section 608).</p><p>An upset sale conveys title subject to recorded mortgages, claims, ground rents and Commonwealth tax liens that were not included in the upset price (section 609). A judicial sale is stronger: the court orders the property sold free and clear of tax claims, mortgages and liens, other than separately taxed ground rents, and the leftover proceeds go to the office the commissioners designate (section 612).</p><p>An owner cannot buy the property back at a judicial sale, a private sale or from the repository for unsold property (section 618(a)). One narrow opening exists: if a property stays unsold after the upset sale and still sits on the bureau docket, the bureau may accept full payment of all returned taxes, costs, penalties and interest, but not installments (section 618(a.1)). A landlord whose rental license a municipality revoked cannot bid at the sale (section 601(d)).</p>"
+  },
+  {
+   "h2": "How a Philadelphia sheriff sale differs",
+   "html": "<p>In Philadelphia the City petitions the court to foreclose on a tax or other municipal lien, and the court orders a sale at a sheriff's auction. The City's Department of Revenue sends a warning of risk of tax foreclosure to qualifying accounts that owe and have no payment agreement. Online bidding for sheriff sales runs through Bid4Assets.com/Philadelphia.</p><p>The 1923 statute gives the owner of a property sold on a tax or municipal claim nine months from the acknowledgment of the sheriff's deed to redeem by paying the bid, deed costs, taxes paid, other charges, and interest at 10 percent a year (section 32(a)). A vacant property carries no redemption right. A home counts as occupied only if one individual or family lived there continuously for at least 90 days before the sale and still does when the deed is acknowledged (section 32(c)).</p><p>Philadelphia also offers the Owner-occupied Payment Agreement, which can set payments as low as $0 a month for some owners. Contact the Department of Revenue, or the law firm named in the notice, as soon as a tax sale notice arrives.</p>"
+  },
+  {
+   "h2": "Can I sell a house that is headed for a tax sale?",
+   "html": "<p>Yes. An owner can sell at any point before the actual sale, and the unpaid tax, interest and costs come out of the seller's side of the closing. The practical limit is time, because the buyer must close and the bureau must receive payoff funds before the sale date.</p><ul><li>Ask the county tax claim bureau for a written payoff that includes the claim, interest, other tax claims, accrued current taxes and record costs.</li><li>Give that figure to the closing agent so it is paid from the seller's proceeds and the bureau issues its certificate of discharge.</li><li>Check for municipal claims, such as water and sewer, that sit outside the bureau's tax claim but still ride along in the upset price.</li><li>In Philadelphia, request a water payoff at least 30 days before settlement and ask the Department of Revenue for the real estate tax balance.</li></ul><p>A seller short on time can ask a cash buyer to close quickly, as long as the payoff and the deed recording fit inside the sale calendar.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Can I get my house back after a Pennsylvania tax sale?",
+   "a": "In a county run by a tax claim bureau, no. There is no redemption after the actual sale, and an owner cannot buy the property back at a judicial or private sale. Philadelphia is the exception: an owner of an occupied home can petition to redeem within nine months after the sheriff's deed is acknowledged."
+  },
+  {
+   "q": "When is the Pennsylvania upset sale held?",
+   "a": "The bureau sets it no earlier than the second Monday of September and before October 1, and it may be adjourned or continued. If the sale is held by the end of the calendar year, no new notice is needed. Call the county tax claim bureau for its date."
+  },
+  {
+   "q": "How much notice must the owner get?",
+   "a": "The bureau publishes the sale and mails certified notice at least 30 days ahead, posts the property at least 10 days ahead, and serves an owner-occupant personally at least 10 days ahead. An owner who objects after the sale has 30 days from confirmation nisi to file."
+  },
+  {
+   "q": "What does a payment agreement require?",
+   "a": "A stay agreement under section 603 requires 25 percent of the total due and the rest in no more than three installments inside one year. A default lets the bureau list the property again at a sale held at least 90 days later."
+  },
+  {
+   "q": "Does selling the house before the sale clear the tax debt?",
+   "a": "Yes, if the closing pays the full payoff. The bureau applies the money to the claim, issues a certificate of discharge and removes the property from the sale list. Get the exact figure from the bureau, since interest and costs change as the sale date nears."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Act 542 of 1947, Real Estate Tax Sale Law (Pennsylvania General Assembly)",
+   "url": "https://www.legis.state.pa.us/WU01/LI/LI/US/HTM/1947/0/0542..HTM"
+  },
+  {
+   "title": "Act 153 of 1923, Municipal Claim and Tax Lien Law (Pennsylvania General Assembly)",
+   "url": "https://www.legis.state.pa.us/WU01/LI/LI/US/HTM/1923/0/0153..HTM"
+  },
+  {
+   "title": "Act 542 of 1947 law information page (Pennsylvania General Assembly)",
+   "url": "https://www.palegis.us/statutes/unconsolidated/law-information?sessYr=1947&sessInd=0&actNum=542"
+  },
+  {
+   "title": "Warning of risk of tax foreclosure (Philadelphia Department of Revenue)",
+   "url": "https://www.phila.gov/documents/warning-of-risk-of-tax-foreclosure/"
+  },
+  {
+   "title": "Making Sheriff Sales Easier to Navigate (City of Philadelphia)",
+   "url": "https://www.phila.gov/2026-10-23-making-sheriff-sales-easier-to-navigate/"
+  },
+  {
+   "title": "Owner-occupied Real Estate Tax Payment Agreement (City of Philadelphia)",
+   "url": "https://www.phila.gov/services/payments-assistance-taxes/payment-plans-and-assistance-programs/income-based-programs-for-residents/set-up-an-owner-occupied-real-estate-tax-payment-agreement-oopa/"
+  },
+  {
+   "title": "Resolve water liens and judgments (City of Philadelphia)",
+   "url": "https://www.phila.gov/services/payments-assistance-taxes/water-bills/resolve-water-liens-and-judgments/"
+  },
+  {
+   "title": "Philadelphia County, Pennsylvania (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Philadelphia_County,_Pennsylvania"
+  }
+ ]
+}

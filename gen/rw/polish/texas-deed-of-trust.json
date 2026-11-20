@@ -1,0 +1,85 @@
+{
+ "slug": "texas-deed-of-trust",
+ "sections": [
+  {
+   "h2": "What a deed of trust does",
+   "html": "<p>When a Texas buyer finances a home, the closing papers nearly always include a deed of trust. It pledges the house as collateral and typically hands the lender a power of sale, so a loan that goes bad can end at a public auction rather than in a courtroom.</p><p>Two documents travel together. The promissory note is your promise to repay. The deed of trust attaches the house to that promise. After the last payment, the lender signs a release of lien, and the clerk records it so anyone searching the records sees the debt is gone.</p><p>The state allows three foreclosure routes:</p><ul><li>Judicial foreclosure, a full lawsuit, which is rare in Texas.</li><li>Nonjudicial foreclosure, which uses the sale power written into the deed of trust and is the everyday method under Property Code section 51.002.</li><li>Expedited foreclosure, which starts with a court order. Home equity loans, reverse mortgages and some owners' association assessment liens must go this way.</li></ul>"
+  },
+  {
+   "h2": "How nonjudicial foreclosure works",
+   "html": "<p>Expect a string of written notices and then an auction. Nobody in a courtroom approves the sale, which makes the statutory deadlines the main safeguard a borrower has.</p><p>For most home loans, federal rules hold the servicer back until the account is more than 120 days delinquent. Then comes the notice of default. A borrower who pays everything past due within 20 days of receiving it reinstates the loan, as section 51.002(d) provides.</p><p>If nothing is paid, the servicer issues a notice of sale at least three weeks ahead of the auction. One copy goes on the courthouse door and another to the clerk. Open every letter the day it comes, since the printed dates are the ones that count.</p>"
+  },
+  {
+   "h2": "Sale day and location",
+   "html": "<p>Foreclosure auctions are open to anyone and are held in daytime hours on the first Tuesday of each month. If that Tuesday is January 1 or July 4, the sale slides to the Wednesday.</p><p>Your notice prints the start time, and bidding has to open within three hours after it. Where in the county it happens is set by the commissioners court, and the clerk can point you to the designated spot.</p><table><caption>Deed of trust foreclosure timing</caption><thead><tr><th>Step</th><th>Timing or rule</th></tr></thead><tbody><tr><td>Earliest start on most home loans</td><td>Loan more than 120 days delinquent</td></tr><tr><td>Cure after notice of default</td><td>20 days from receipt</td></tr><tr><td>Notice of sale</td><td>Three weeks or more before the sale</td></tr><tr><td>Where the notice goes</td><td>Posted at the courthouse, filed with the clerk</td></tr><tr><td>Sale day</td><td>First Tuesday of the month</td></tr><tr><td>Deficiency suit</td><td>Two years after the sale</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Note versus deed of trust when you sell",
+   "html": "<p>For a seller the distinction shows up in paperwork. Request a payoff statement from the servicer, and let the title company make sure the lien is released when closing funds pay off the loan.</p><p>Suppose the loan is already in default. A buyer who pays it off ahead of the auction gets the house with the lien cleared from the record. Someone who wins at the auction receives a trustee's deed instead, recorded by the county clerk.</p><p>Because one office records everything, a title search lists each deed of trust, release and foreclosure notice in sequence. Walk through that chain to learn who has a lien on your home and whether a document is missing.</p>"
+  },
+  {
+   "h2": "What happens after the sale?",
+   "html": "<p>The high bidder gets the house, but the debt may not be fully settled. When the bid is lower than what was owed, the lender has two years from the sale to bring a deficiency suit. The former owner can ask the judge to offset the home's fair market value.</p><p>A bid above the debt creates surplus money, which pays junior lienholders first and the former owner last. Do not count on buying the house back. Texas has no general redemption right after a deed of trust sale, only narrow ones such as certain tax liens and owners' association assessment liens.</p><p>An occupant who stays after the auction can force the new owner into an eviction case. The eviction pages on this site cover that court path.</p>"
+  },
+  {
+   "h2": "Recording and releasing with the county clerk",
+   "html": "<p>Deed records live with the county clerk. Your deed of trust, its release and any trustee's deed after a sale all end up in that one record.</p><p>A real property instrument can be recorded when it carries a signature and an acknowledgment, or an oath taken before two subscribing witnesses or an authorized officer (Property Code section 12.001(b)). Standard fees in the 2023 clerk manual run like this:</p><ul><li>$5.00 for page one, then $4.00 for each added page or attachment.</li><li>$0.25 for each name over five that has to be indexed.</li><li>A records management and preservation fee of no more than $10 and a records archive fee of no more than $10.</li><li>A records technology and infrastructure fee of $2.00.</li></ul><p>These amounts change over time, so call the clerk for today's schedule. Once your loan is paid off, look in the clerk's index to confirm the release was recorded.</p>"
+  },
+  {
+   "h2": "Checking a notice before you act",
+   "html": "<p>Look at the notice itself before anything else. Confirm the sale date falls on the first Tuesday or the Wednesday substitute, and that the county named is the one where the house sits. Check the date of the letter against the date you received it, because the 20-day cure period runs from receipt.</p><p>If something looks off, write to the servicer, keep a copy, and show the letter to an attorney quickly. The window to act ends at the auction.</p>"
+  },
+  {
+   "h2": "If your loan is in default",
+   "html": "<p>Your best first step is to use the 20-day window. Ask the servicer what exact amount cures the default, and get the number in writing. If the window closes, options remain, but each one is now racing the sale date.</p><p>Owners in default commonly look at these choices:</p><ul><li>Bring the loan current with a reinstatement payment.</li><li>Ask the servicer about a repayment plan or loan modification before the sale date.</li><li>Sell the house before the first Tuesday sale, so the proceeds pay the lender and any remaining equity stays with you.</li><li>Talk to a Texas attorney or a legal aid office about your specific notice.</li></ul><p>Selling ahead of the auction usually leaves a tidier record than a foreclosure, since the lien gets paid and released instead of enforced. Before you talk to anyone, collect the default notice, the sale notice and your loan statements. Buyers and title companies ask for all three.</p><p>When time is short, a cash sale can close fast because it skips the buyer's lender underwriting and appraisal. Your own servicer still has to be paid off at the closing table.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Texas require a court order to foreclose on a deed of trust?",
+   "a": "Usually not. Nonjudicial foreclosure under the power of sale needs no court order. Home equity loans, reverse mortgages and certain owners' association assessment liens need an expedited court order instead."
+  },
+  {
+   "q": "How long is the cure period after a notice of default?",
+   "a": "Twenty days from receipt. Paying the overdue amount in that span reinstates the loan under Property Code section 51.002(d). Ask the servicer for a written reinstatement figure so the amount is exact."
+  },
+  {
+   "q": "Can a Texas foreclosure sale happen on any day?",
+   "a": "No. Sales are set for the first Tuesday of the month, or the first Wednesday when January 1 or July 4 falls on that Tuesday. The notice gives a start time, and bidding must begin within three hours of it."
+  },
+  {
+   "q": "Can I still owe money after the house is sold at auction?",
+   "a": "Possibly. A deficiency suit is allowed for two years after the sale, and you may ask for a credit based on the home's fair market value. Surplus sale money goes to junior liens first and then to you."
+  },
+  {
+   "q": "Where do I find recorded deeds of trust and releases?",
+   "a": "Search the clerk's records in the county where the property sits. The clerk records deeds of trust, releases, trustee's deeds and foreclosure sale notices, and charges the filing fees set by statute."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas State Law Library: Foreclosure",
+   "url": "https://guides.sll.texas.gov/foreclosure"
+  },
+  {
+   "title": "Texas State Law Library: Before the Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/before-the-sale"
+  },
+  {
+   "title": "Texas State Law Library: The Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/the-sale"
+  },
+  {
+   "title": "Texas State Law Library: After the Sale",
+   "url": "https://guides.sll.texas.gov/foreclosure/after-the-sale"
+  },
+  {
+   "title": "Texas Attorney General: Informal guidance on foreclosure sales",
+   "url": "https://texasattorneygeneral.gov/news/releases/informal-guidance-concerning-foreclosure-sales"
+  },
+  {
+   "title": "Texas Courts: County Clerk Manual 2023",
+   "url": "https://www.txcourts.gov/media/1457469/county-clerk-manual-2023-edition.pdf"
+  }
+ ]
+}

@@ -11,11 +11,11 @@
   },
   {
    "h2": "A lease violation that has nothing to do with rent",
-   "html": "<p>For any other breach, the landlord delivers a written notice naming each one. The agreement ends at least 14 days after the tenant receives it, unless the tenant fixes the problem within those 14 days. Fixing it before the date in the notice stops the termination.</p><p>Some repairs take longer. A tenant who starts the remedy inside the 14 days and pursues it in good faith avoids termination. Health and safety violations under Section 27-40-720 follow a similar 14-day path, and the landlord may enter to repair and bill the tenant when repair, replacement or cleaning will solve the problem.</p><ul><li>Name the specific breach in writing</li><li>Keep proof of the day the tenant received the notice</li><li>Record any repair the tenant begins within the 14 days</li><li>Leave the locks and utilities alone, because Section 27-40-760 bars taking possession by action or otherwise outside the listed cases</li></ul>"
+   "html": "<p>For any other breach, the landlord delivers a written notice naming each one. Termination lands no sooner than 14 days after the tenant gets the notice, and only if the problem is still there after 14 days. Cure it by the notice date and the lease stays alive.</p><p>Some repairs take longer. A tenant who starts the remedy inside the 14 days and pursues it in good faith avoids termination. Health and safety violations under Section 27-40-720 follow a similar 14-day path, and the landlord may enter to repair and bill the tenant when repair, replacement or cleaning will solve the problem.</p><ul><li>Name the specific breach in writing</li><li>Keep proof of the day the tenant received the notice</li><li>Record any repair the tenant begins within the 14 days</li><li>Leave the locks and utilities alone, because Section 27-40-760 bars taking possession by action or otherwise outside the listed cases</li></ul>"
   },
   {
    "h2": "Magistrate court after the notice period",
-   "html": "<p>The landlord files in magistrate court. The magistrate issues a written rule telling the tenant to vacate or show cause why they should not be ejected, and the tenant has ten days after service to answer.</p><p>A tenant who neither appears nor shows cause within that time faces a warrant of ejectment, carried out by a constable or the sheriff. A tenant who contests gets a hearing like any civil case, and either side can demand a jury.</p><ul><li><strong>Landlord wins:</strong> a writ of ejectment issues within five days.</li><li><strong>Tenant wins:</strong> the tenant remains in possession until the tenancy ends by agreement or law, rent goes unpaid, or another proceeding ejects them.</li><li><strong>Appeal:</strong> the ejectment goes ahead unless the tenant posts an appeal bond set by the magistrate. The appeal is dismissed if the bond is not filed within five days after the notice of appeal is served.</li></ul><p>No statute fixes a day count for the hearing itself, so call the magistrate's office in your county for current scheduling.</p>"
+   "html": "<p>The landlord files in magistrate court. The magistrate issues a written rule telling the tenant to vacate or show cause why they should not be ejected, and the tenant has ten days after service to answer.</p><p>A tenant who neither appears nor shows cause within that time faces a warrant of ejectment, carried out by a constable or the sheriff. A tenant who contests gets a hearing like any civil case, and either side can demand a jury.</p><ul><li><strong>Landlord wins:</strong> a writ of ejectment issues within five days.</li><li><strong>Tenant wins:</strong> the tenant remains in possession until the tenancy ends by agreement or law, rent goes unpaid, or another proceeding ejects them.</li><li><strong>Appeal:</strong> the ejectment goes ahead unless the tenant posts an appeal bond set by the magistrate. Miss the five-day bond deadline after service of the notice of appeal and the appeal is thrown out.</li></ul><p>No statute fixes a day count for the hearing itself, so call the magistrate's office in your county for current scheduling.</p>"
   },
   {
    "h2": "Serving a tenant who is hard to find",
@@ -27,11 +27,11 @@
   },
   {
    "h2": "Retaliation and self-help",
-   "html": "<p>A landlord may not take possession through self-help, including interrupting essential services, except on abandonment, surrender or termination, or as the chapter permits.</p><p>Section 27-40-910 also bars retaliation. Once a tenant complains to a housing code agency or to the landlord about a violation of the chapter, the landlord may not raise rent above fair market value, cut essential services or bring a possession action, apart from listed exceptions.</p><p>A tenant who is wrongfully dispossessed can sue for damages under Section 27-37-140. Rent keeps accruing at the old rate while the tenant stays after proceedings start, and taking rent does not give up the right to eject.</p>"
+   "html": "<p>A landlord may not take possession through self-help, including interrupting essential services, except on abandonment, surrender or termination, or as the chapter permits.</p><p>Section 27-40-910 also bars retaliation. Once a tenant complains to a housing code agency or to the landlord about a violation of the chapter, the landlord may not raise rent above fair market value, cut essential services or bring a possession action, apart from listed exceptions.</p><p>A tenant who is wrongfully dispossessed can sue for damages under Section 27-37-140. Rent keeps accruing at the old rate while the tenant stays after proceedings start, and the landlord keeps the right to eject after accepting rent.</p>"
   },
   {
    "h2": "Selling a rental while an eviction is pending",
-   "html": "<p>You can sell during an eviction, but the notice, the court case and the tenant's rights do not vanish at closing. A landlord who conveys the premises in a good-faith sale to a bona fide purchaser is relieved of liability for later events once the tenant gets written notice.</p><p>The security deposit stays your problem unless it is transferred and the tenant is told in writing. A holdover can also cost money. If the stay is a wilful violation, the landlord may recover up to three months of periodic rent or twice actual damages, whichever is greater, plus reasonable attorney's fees.</p><ul><li>An occupied house with a notice already served</li><li>A tenant who stopped paying months ago</li><li>A landlord who wants out before a court date</li><li>Heirs who inherited a rental with a lease</li></ul><p>We buy houses as-is, including with tenants in place, so you may not need to finish the eviction first. Tell us where the notice or case stands when you call, and keep every notice, receipt and court paper for the closing.</p>"
+   "html": "<p>You can sell during an eviction, but the notice, the court case and the tenant's rights do not vanish at closing. If the sale is made in good faith to a bona fide purchaser and the tenant is told in writing, the former landlord is released from liability for what happens afterward.</p><p>You remain on the hook for the security deposit until it is handed to the buyer and the tenant is notified in writing. A holdover can also cost money. If the stay is a wilful violation, the landlord may recover up to three months of periodic rent or twice actual damages, whichever is greater, plus reasonable attorney's fees.</p><ul><li>An occupied house with a notice already served</li><li>A tenant who stopped paying months ago</li><li>A landlord who wants out before a court date</li><li>Heirs who inherited a house with a lease in place</li></ul><p>We buy houses as-is, including with tenants in place, so you may not need to finish the eviction first. Tell us where the notice or case stands when you call, and keep every notice, receipt and court paper for the closing.</p>"
   }
  ],
  "faqs": [
@@ -45,7 +45,7 @@
   },
   {
    "q": "How long does the tenant have to respond to the court?",
-   "a": "Ten days after service of the rule to show cause. If the tenant does not show cause, the magistrate issues a warrant of ejectment."
+   "a": "The tenant has ten days from service of the rule to show cause. If the tenant does not show cause, the magistrate issues a warrant of ejectment."
   },
   {
    "q": "Can a landlord change the locks to evict a tenant?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "Does selling the house end the lease?",
-   "a": "Not by itself. A landlord who conveys in a good-faith sale to a bona fide purchaser is relieved of later liability after written notice to the tenant, but remains liable for the deposit unless it is transferred and the tenant is told."
+   "a": "Not by itself. Not on its own. A good-faith sale to a bona fide purchaser frees the seller from later liability once the tenant is told in writing, though the seller still answers for the deposit until it is transferred and the tenant knows."
   }
  ],
  "sources": [
