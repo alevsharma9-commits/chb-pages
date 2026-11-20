@@ -3,65 +3,73 @@
  "sections": [
   {
    "h2": "Which office holds the land records?",
-   "html": "<p>The clerk of the county containing the house holds them. In Texas the county clerk doubles as the recorder, and also serves as secretary to the commissioners court and filer of probate matters.</p><p>A seller living in Dallas with a house in another county therefore deals with the second county's clerk. Texas has 254 counties, and each runs its own index. Some post searchable images online and others expect a visit, so call the clerk's office before planning a trip.</p>"
+   "html": "<p>Start with the county where the property sits. Its clerk is the official recorder, and that same office also keeps the commissioners court minutes and takes probate filings.</p><p>If you live in Dallas but own a house elsewhere, the other county's office is the one to work with. There are 254 counties and every one keeps its own index. A few offer searchable images online while others want you at the counter, so phone ahead.</p>"
   },
   {
    "h2": "What kinds of papers end up in the deed records?",
-   "html": "<p>Ownership transfers and the paper that surrounds them. Recorded deed types include general warranty, special warranty, quitclaim, trustee's, sheriff's and tax deeds. Affidavits, loan releases, leases, sales contracts and powers of attorney sit alongside them.</p><ul><li>Deeds that pass ownership from one party to another.</li><li>Deeds of trust that secure a loan, and the releases that end them.</li><li>Notices of a lender's auction, filed by the clerk ahead of the sale.</li><li>State tax lien notices from the Comptroller, which the clerk enters in a state tax lien book.</li><li>Court papers that carry title after a death.</li></ul><p>A title search reads all of these in order, which is why a house with a messy record can take longer to close.</p>"
+   "html": "<p>Mostly ownership transfers plus the paperwork around them. Expect general and special warranty deeds, quitclaims, trustee's deeds, sheriff's deeds and tax deeds, along with affidavits, loan releases, leases, sale contracts and powers of attorney.</p><ul><li>Deeds that pass ownership from one party to another.</li><li>Deeds of trust that secure a loan, and the releases that end them.</li><li>Notices of an upcoming lender auction.</li><li>State tax lien notices from the Comptroller, which the clerk enters in a state tax lien book.</li><li>Court papers that carry title after a death.</li></ul><p>Title examiners read the whole sequence, so a cluttered record slows a closing.</p>"
   },
   {
-   "h2": "What a deed must show to be filed",
-   "html": "<p>A signature plus an acknowledgment, or a sworn statement before two witnesses who sign too. Property Code section 12.001(b) governs, and notaries, clerks and county court judges are among those who can take an acknowledgment.</p><p>A deed missing that step may be refused. Leaving out the buyer's mailing address can add a fee. Compare names on the new deed with the name on the last recorded deed, because small differences, such as a dropped middle initial, lead to questions at closing. Title companies and attorneys normally draft the deed so such points get checked first.</p>"
+   "h2": "Signature and acknowledgment requirements",
+   "html": "<p>The grantor signs, and the signature is either acknowledged before an authorized officer or sworn before two subscribing witnesses (Property Code section 12.001(b)). Notaries, clerks and county court judges can all take an acknowledgment.</p><p>Without that step the clerk may refuse the filing, and a missing buyer mailing address can add a fee. Also line up the names: a dropped middle initial between the new deed and the last recorded one is enough to raise questions at closing. Attorneys and title companies who draft the deed usually catch this first.</p>"
   },
   {
-   "h2": "Recording fees at the clerk's counter",
-   "html": "<p>The base amounts are set by statute, with county add-ons on top. These are the 2023 figures.</p><table><caption>Typical Texas county recording charges, 2023 schedule</caption><thead><tr><th>Recording charge</th><th>Amount</th></tr></thead><tbody><tr><td>First page of an instrument</td><td>$5.00</td></tr><tr><td>Each added page, part of a page or attachment</td><td>$4.00</td></tr><tr><td>Each name beyond five that must be indexed</td><td>$0.25</td></tr><tr><td>Records management and preservation</td><td>No more than $10</td></tr><tr><td>Records archive</td><td>No more than $10</td></tr><tr><td>Records technology and infrastructure</td><td>$2.00</td></tr><tr><td>Filing a foreclosure sale notice</td><td>$2.00 per notice</td></tr></tbody></table><p>A commissioners court may direct the clerk to waive real property recording fees for buyers using certain federal or state grant programs. Call the clerk or check its website for the current schedule.</p>"
+   "h2": "What recording costs",
+   "html": "<p>Base amounts come from statute and counties add their own charges. Here is the 2023 schedule.</p><table><caption>Deed recording charges, 2023</caption><thead><tr><th>Recording charge</th><th>Amount</th></tr></thead><tbody><tr><td>First page of an instrument</td><td>$5.00</td></tr><tr><td>Every added page or attachment</td><td>$4.00</td></tr><tr><td>Extra indexed names past five</td><td>$0.25</td></tr><tr><td>Records management and preservation</td><td>No more than $10</td></tr><tr><td>Records archive</td><td>No more than $10</td></tr><tr><td>Technology and infrastructure</td><td>$2.00</td></tr><tr><td>Filing a foreclosure sale notice</td><td>$2.00 per notice</td></tr></tbody></table><p>Some buyers using grant programs may qualify for a waiver, so ask the clerk about it. The office or its website will have the current schedule.</p>"
   },
   {
-   "h2": "Transfer tax and property tax at closing",
-   "html": "<p>Recording charges are the only deed filing costs the clerk lists. Confirm the full cost list for your closing with the clerk or a title company.</p><p>Property tax is its own cost. Each year's tax lien arises at the new year, and the person who owned the house then remains liable even after a sale. A closing therefore divides the year's tax between the parties, and a title search checks earlier years for unpaid amounts.</p>"
+   "h2": "Other costs at closing",
+   "html": "<p>Expect recording charges and little else on the clerk's side. For the full closing cost list, ask your title company.</p><p>Property tax is separate. The lien for each year attaches on January 1, and whoever owned the house that day stays liable even after selling. At closing the year's bill is split between buyer and seller, and the title search looks back for any unpaid years.</p>"
   },
   {
-   "h2": "How liens and sale deeds show up",
-   "html": "<p>A mortgage shows up as a recorded deed of trust, and paying it off should produce a recorded release. If the lender never filed the release, the old deed of trust still turns up in a search and may need clearing before you can sell.</p><p>Tax matters leave other marks. The yearly property tax lien arises without any filing, while a state tax lien is a recorded notice. Deeds from tax sales are filed with the clerk too, and the filing date starts the redemption clock. Homestead, agricultural and mineral property can be redeemed for two years from the filing of the purchaser's deed, with a 25 percent premium in the first year and 50 percent in the second, plus other costs. Other property follows a shorter 180-day window.</p><ul><li>Deeds of trust and releases.</li><li>State tax lien notices.</li><li>Tax foreclosure deeds and sheriff's deeds.</li><li>Any judgment or contractor claim that the clerk has indexed.</li></ul>"
+   "h2": "Liens and sale deeds in the index",
+   "html": "<p>Your mortgage is indexed as a deed of trust, and payoff should be followed by a recorded release. A lender that skipped the release leaves a ghost lien that surfaces in a search and may have to be cleared first.</p><p>Taxes leave their own marks. The yearly property tax lien needs no filing at all, but a state tax lien is a recorded notice. A tax sale deed is filed too, and its filing date starts the redemption clock: two years for homestead, agricultural and mineral land, at a 25 percent premium in year one and 50 percent in year two, plus costs. Everything else gets 180 days.</p><ul><li>Mortgage deeds of trust, plus the releases that cancel them.</li><li>State tax lien notices.</li><li>Tax foreclosure and sheriff's deeds.</li><li>Any judgment or contractor claim that the clerk has indexed.</li></ul>"
   },
   {
    "h2": "Records after a death or a foreclosure",
-   "html": "<p>What lands in the records after a death depends on the route the family took. Administration leaves an executor's or administrator's deed, a muniment leaves the court order and will, and a transfer on death deed leaves an affidavit of death with the death certificate. The clerk cannot add heirs to an earlier deed.</p><p>Foreclosure leaves a separate trail. The lender posts a notice at the courthouse and files a copy with the clerk at least three weeks before the sale. The commissioners court designates the sale area and records it. Sales are held between 10 a.m. and 4 p.m., normally on the month's first Tuesday, and the buyer's trustee deed is recorded afterward like any other deed.</p>"
+   "html": "<p>The paper left by an inherited house varies with the route the family chose. Administration produces an executor's or administrator's deed, a muniment produces the order and the will, and a transfer on death deed produces an affidavit of death and a death certificate. Nobody at the clerk's office can append heirs to the old deed.</p><p>Foreclosure has a separate paper trail. A notice goes up at the courthouse and a copy goes to the clerk three weeks or more ahead. Auctions are usually held on the first Tuesday of the month, and the winning buyer's trustee deed is recorded like any other.</p>"
   },
   {
    "h2": "What a former owner can reclaim after a sale",
-   "html": "<p>Sometimes money is left over. Following a tax foreclosure sale, the former owner has two years to claim any surplus. Following a lender's sale, junior lienholders are paid first and the former owner gets what remains.</p><p>A borrower can face a deficiency suit, which must be filed within two years of the sale, and may ask for a fair market value offset. Redemption after a lender's sale exists only for certain kinds, such as owners' association assessment liens. Recorded deeds show the sale date, so the dates in the clerk's records are the starting point for every one of these deadlines.</p><p>Someone still living in a house after a sale may face an eviction case, which is a court matter and not a records question. The buyer's deed in the land records is the proof the buyer would show.</p>"
+   "html": "<p>Sometimes a sale brings in more than was owed. A former owner has two years after a tax foreclosure to claim the surplus. After a lender's sale, junior lienholders collect first and any remainder goes to the former owner.</p><p>A lender whose sale comes up short may sue for the gap within two years, though the borrower can ask for credit at fair market value. Redemption after a lender's sale applies only to certain kinds, such as owners' association assessment liens. Each of these clocks runs from the sale date in the recorded deed.</p><p>An occupant who stays after a sale may face an eviction case. That is a court matter, and the buyer's recorded deed is the proof used there.</p>"
   },
   {
    "h2": "Asking the clerk for copies",
-   "html": " <p>Bring the owner's full name as it appears on the last deed, the property address and, if you have it, the recording date or instrument number. Clerks can search by name or by instrument number, and a title company can order the same copies for you.</p><p>Ask for copies of the vesting deed, every open deed of trust and any release. Plain copies are fine for your own review, but a title company may want certified ones. Expect a per-page copy charge, and ask whether the office takes cards or checks only.</p>"
+   "html": " <p>Bring the owner's name exactly as written on the last deed, the property address, and the recording date or instrument number if you have one. Offices search by name or by instrument number, and a title company can order the same copies on your behalf.</p><p>Request the vesting deed, each open deed of trust and any release. Plain copies work for your own reading, though a title company may insist on certified ones. Copies are billed per page, so ask what payment the counter accepts.</p>"
   },
   {
-   "h2": "Reviewing the record before you list",
-   "html": "<p>Pull the latest deed and any open deed of trust, then ask a title company or the clerk for a search. Finding a defect early leaves time to fix it.</p><ul><li>Match the owner's name on the deed to the name used on the listing.</li><li>Locate the deed of trust and confirm the payoff or release.</li><li>Ask whether any state tax lien notice is on file.</li><li>Look up the appraisal district record for owner of record and exemptions.</li><li>For an inherited house, confirm the probate paper is recorded in the right county.</li></ul><p>These steps cost little and often save weeks at the closing table for a Texas seller.</p>"
+   "h2": "Why the record matters to a seller",
+   "html": "<p>Buyers and their lenders judge a house by what the index shows, not by what the family remembers. A deed that was signed but never filed, a loan paid off years ago with no release on record, or a probate order sitting in the wrong county can each stall a contract for weeks while someone tracks down a fix.</p><p>The fixes are ordinary paperwork: a new acknowledgment, a release letter from the old lender, or a certified copy sent to the right office. Most are cheaper and faster when you start before the house is under contract. Even a cash purchase handled through a title company still needs the chain to read cleanly, but there is no lender checklist layered on top, so a clean record usually means a quick closing.</p>"
+  },
+  {
+   "h2": "What to do if the records show a problem",
+   "html": "<p>Do not guess at the fix. Call the county clerk to learn what is actually on file, then talk to a title company or a Texas real estate attorney about the right corrective instrument. If the issue involves an old lien, contact the lender or the state office that filed the notice and ask for a written release you can record. Give yourself time before listing, since recording and re-indexing at a busy office are not instant.</p>"
+  },
+  {
+   "h2": "Checklist before you list",
+   "html": "<p>Order a search early. A defect found before listing can be fixed on your schedule, not the buyer's.</p><ul><li>Make sure the listing name matches the name on the deed.</li><li>Find the deed of trust and confirm it was paid off or released.</li><li>Ask about any state tax lien notice.</li><li>Check the appraisal district record for the owner of record and exemptions.</li><li>With an inherited house, confirm the probate paper was recorded in the correct county.</li></ul><p>None of this costs much, and it can save weeks later.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Who maintains Texas land records?",
-   "a": "The clerk for the land's county, who acts as recorder for deeds, loan documents, liens and sale notices."
+   "a": "The county clerk where the land sits. That office records deeds, loan documents, liens and sale notices."
   },
   {
-   "q": "What does filing a deed cost at the clerk's counter?",
-   "a": "The 2023 schedule shows $5.00 for the opening page and $4.00 for each page after it, plus capped add-ons. The clerk's current schedule gives the total."
+   "q": "What does it cost to file a deed?",
+   "a": "The 2023 schedule runs $5.00 for page one and $4.00 for every added page, plus capped add-ons. Ask the clerk for the current total."
   },
   {
    "q": "What must a Texas deed carry to be recorded?",
-   "a": "A signature with an acknowledgment, or a sworn statement before two witnesses. A notary can take the acknowledgment, as can some other officers."
+   "a": "The grantor's signature, acknowledged by a notary or another authorized officer, or sworn before two witnesses."
   },
   {
    "q": "Can a clerk write heirs onto an old deed?",
-   "a": "No. A new instrument, such as an executor's deed, muniment order or affidavit of death, has to be recorded."
+   "a": "No. A fresh instrument has to be recorded instead, such as an executor's deed, a muniment order or an affidavit of death."
   },
   {
    "q": "Where do foreclosure notices go?",
-   "a": "The notice must be on the courthouse door and with the clerk 21 days or more before the sale. Filing it with the clerk carries a $2.00 fee."
+   "a": "It must be posted at the courthouse and filed with the clerk at least 21 days before the sale. The clerk charges $2.00 to file it."
   }
  ],
  "sources": [

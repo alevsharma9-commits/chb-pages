@@ -1,105 +1,105 @@
 {
-"slug": "south-dakota-landlord-tenant-law-tenant-rights",
-"sections": [
-{
-"h2": "Where do South Dakota's landlord and tenant rules come from?",
-"html": "<p>Most of the rules sit in SDCL Chapter 43-32, titled Lease of Real Property, with eviction procedure in SDCL Chapter 21-16, Forcible Entry and Detainer. The Attorney General's Division of Consumer Protection publishes a plain-language summary of both.</p><p>Justia's copy of <a href='https://law.justia.com/codes/south-dakota/title-43/chapter-32/'>Chapter 43-32</a> runs from 43-32-1 through 43-32-37. It covers lease terms, security deposits, repairs, retaliation, abandoned property, service animals and entry notice. The state's court system treats landlord-tenant cases as a civil case type, where a landlord or tenant sues over eviction or money.</p><p>A seller who owns a rental needs these rules because every showing, notice and move-out on the way to a sale falls under them.</p>"
-},
-{
-"h2": "How much can a South Dakota landlord charge for a security deposit?",
-"html": "<p>A residential security deposit generally cannot be more than one month's rent. SDCL 43-32-6.1 allows a larger deposit only when special conditions create a danger to the upkeep of the premises, and the Attorney General's fast facts give examples such as an extra pet deposit.</p><p>Returning the deposit has two different time limits in the sources we read, so a landlord should plan around the shorter one. The Attorney General says the landlord must return the deposit or send a written statement of the specific reasons for withholding within two weeks after the tenancy ends and the landlord has the tenant's mailing address. SDCL 43-32-24 sets the period at 21 days. Either way, the tenant can demand an itemized accounting, which is due within 45 days.</p><ul><li>Allowed deductions: unpaid rent, and restoring the unit to its move-in condition, with ordinary wear and tear excluded.</li><li>Missing the deadline: the landlord forfeits the right to withhold anything.</li><li>Bad-faith retention: punitive damages of up to $200.</li><li>Best practice: a move-in walkthrough signed by both sides.</li></ul><p>If you are selling a rental, pull the deposit records before you list.</p>"
-},
-{
-"h2": "How much notice does a landlord have to give before entering or showing a rental?",
-"html": "<p>A landlord must give reasonable notice before entering, and 24 hours of written notice is presumed reasonable unless the lease says otherwise. The notice states the date or dates, a period during normal business hours, and the purpose of the entry. Emergencies are the exception.</p><p>The same rule covers a sale. The Attorney General's fast facts say real estate agents showing a unit for sale follow the same entry rules as the landlord. In practice that means a buyer's inspector or agent should be scheduled with written notice like anyone else.</p><p>A tenant who refuses reasonable entry can be taken to court. The Attorney General says the landlord may seek a court order for entry, or for eviction and recovery of actual losses. Extra repair costs caused by the tenant's scheduling can be passed to the tenant.</p>"
-},
-{
-"h2": "What notice ends a lease or changes the rent?",
-"html": "<p>The notice period depends on the lease. For a written lease, follow its terms. If it has no renewal or expiration period, notice must be given at least one full rental period before the last day of the tenancy.</p><p>The Attorney General gives a month-to-month example. For rent due on the first, to leave at the end of June you notify by May 31. Missing the deadline by even a day can make the tenant liable for another month's rent. A landlord who is not evicting must give the same notice a tenant would.</p><table><thead><tr><th>Item</th><th>Rule</th><th>Source</th></tr></thead><tbody><tr><td>Rent or term change, month to month</td><td>Landlord gives 30 days' written notice before the end of the month</td><td>Attorney General fast facts, SDCL 43-32-15 as cited</td></tr><tr><td>Tenant response to a change</td><td>Tenant may end the lease effective the first of the next month by giving notice within 15 days</td><td>Attorney General fast facts</td></tr><tr><td>Oral lease</td><td>Maximum length is one year</td><td>Attorney General fast facts</td></tr><tr><td>Entry notice</td><td>24 hours, written, presumed reasonable</td><td>Attorney General fast facts</td></tr><tr><td>Eviction notice to vacate</td><td>Three days</td><td>Attorney General fast facts, UJS packet</td></tr></tbody></table><p>A lease that runs longer than a year must be in writing under SDCL 43-32-5. If a tenant stays after the term ends and the landlord accepts rent, SDCL 43-32-14 presumes a renewal on the same terms, for no more than a year.</p>"
-},
-{
-"h2": "What does a South Dakota eviction look like, step by step?",
-"html": "<p>The only lawful way to remove a tenant is a court order from a circuit court or magistrate judge, obtained through a Forcible Entry and Detainer action. The Unified Judicial System publishes a landlord packet with forms and a checklist, and the numbers below come from it.</p><ul><li>Step one: a written notice to quit and vacate (form UJS-110), served by the sheriff or a process server. The tenant has three days after service, not counting the day of service, to leave.</li><li>Step two: if the tenant stays, the landlord files a case filing statement, a summons and a verified complaint with the clerk of court. The landlord's filing fee in the packet is $70.</li><li>Step three: the tenant has four days after service to file an answer, which carries a $25 fee, and must serve the landlord within three days.</li><li>Step four: if the tenant answers, a hearing is set and the landlord mails notice of it at least seven days ahead. If the tenant does not answer, the landlord may move for default judgment.</li><li>Step five: after judgment, the sheriff carries out a writ of execution of possession. The judgment directs removal on or after 12:00 AM on the date the court sets.</li></ul><p>The grounds the Attorney General lists include staying after the rental period ends, not paying rent more than three days after it is due, substantial damage to the premises, and taking possession by force, intimidation or fraud.</p>"
-},
-{
-"h2": "What can a landlord never do to push a tenant out?",
-"html": "<p>A landlord cannot lock a tenant out, take the tenant's belongings or shut off electricity, gas, water or other essential services. The Attorney General says a lockout or utility interruption exposes the landlord to damages of two months of free rent, plus return of any advance rent and deposit.</p><p>Retaliation is also barred. Raising rent, reducing services or starting an eviction because a tenant complained about repairs, complained to a government agency or joined a tenant organization can be challenged for 180 days. Remedies include up to two months' rent, return of the deposit and up to $500 in attorney fees, and SDCL 43-32-27 and 43-32-28 give the cause of action.</p><p>SDCL 43-32-18.1 adds that a residential lease cannot allow eviction of a tenant for calling law enforcement or emergency help about domestic abuse, unlawful sexual behavior or stalking. A landlord also cannot evict solely because a tenant or household member is the alleged victim. These limits apply whether or not the house is for sale, so a removal started only to deliver a vacant house still has to follow them.</p>"
-},
-{
-"h2": "What repairs does a landlord owe, and what can a tenant do?",
-"html": "<p>A landlord must keep the premises in reasonable repair and fit for human habitation, including the electrical, plumbing and heating systems, under SDCL 43-32-8. The landlord and tenant cannot waive that duty, but they can agree that the tenant will do specific repairs in place of rent.</p><p>If the landlord does not fix a problem, the Attorney General says the tenant should give written notice that names the repairs and a reasonable deadline, ideally by certified mail. Then the tenant has two options. The tenant can move out, which ends the lease obligations, or make the repairs and deduct the cost from rent.</p><p>If repair costs run more than a month's rent, the tenant who wants to withhold rent must give written notice of the reason and show proof of a separate bank account holding the withheld rent.</p><ul><li>Tenants may call local housing, health, energy or fire inspectors about code violations.</li><li>Open repair requests and inspection notices should be fixed or resolved before a sale where possible. A cash buyer will take them as they are.</li></ul>"
-},
-{
-"h2": "What happens to a tenant's belongings after move-out?",
-"html": "<p>Belongings left behind are treated as abandoned in two situations the statutes and the court packet describe. Under SDCL 43-32-25, items with a total reasonable value of $500 or less that stay ten days after the tenant has moved out are presumed abandoned, and the landlord may dispose of them.</p><p>For larger amounts, the court packet says property valued over $500 is stored for 30 days, and if it is unclaimed after that it is deemed abandoned. The landlord can ask the court for authority to remove and store it, with a lien for the costs, citing SDCL 43-32-26.</p><p>Death changes a lease only in some cases. SDCL 43-32-23 says a lease that either side can end at will terminates after the other party is notified that the party with the right to end it has died or become unable to contract. A lease that cannot be ended at will is not terminated by that death or incapacity. This matters when you are selling a rental from an estate.</p><p>If the house is part of an estate, our probate page explains how a personal representative gets authority to sell. We buy South Dakota houses as they are, including rentals, with no obligation. We do not give legal advice on a particular lease.</p>"
-}
-],
-"faqs": [
-{
-"q": "What is the maximum security deposit in South Dakota?",
-"a": "Generally one month's rent. SDCL 43-32-6.1 allows more only where special conditions pose a danger to maintenance of the premises, such as a pet."
-},
-{
-"q": "How long does a South Dakota landlord have to return a deposit?",
-"a": "The Attorney General says two weeks after the tenancy ends and the landlord has the tenant's mailing address, while SDCL 43-32-24 as cited says 21 days. An itemized accounting is due within 45 days if the tenant asks. Planning around the shorter period avoids a forfeiture."
-},
-{
-"q": "How much notice must a South Dakota landlord give before entering?",
-"a": "Twenty-four hours of written notice is presumed reasonable unless the lease says otherwise. Emergencies are an exception, and agents showing a unit for sale follow the same rules."
-},
-{
-"q": "How fast can a landlord evict in South Dakota?",
-"a": "The landlord must give a three-day notice to vacate, then file in court. The tenant has four days after service to answer. Only a court order and the sheriff can remove a tenant, and the exact length depends on whether the tenant answers."
-},
-{
-"q": "Does a month-to-month tenant have to leave if the landlord sells?",
-"a": "The sources we reviewed do not say a sale ends a month-to-month tenancy. The notice rules above still apply, so ask a South Dakota attorney how your lease and the sale contract interact."
-}
-],
-"sources": [
-{
-"title": "SD Attorney General Consumer Protection: Landlord and Tenant fast facts",
-"url": "https://consumer.sd.gov/fastfacts/landlordtenant.aspx"
-},
-{
-"title": "UJS Landlord and Tenant Eviction Resources",
-"url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
-},
-{
-"title": "UJS Landlord/Plaintiff Eviction Packet",
-"url": "https://ujs.sd.gov/uploads/forms/evictions/LandlordPlaintiffPacket.pdf"
-},
-{
-"title": "SDCL Chapter 43-32, Lease of Real Property (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/"
-},
-{
-"title": "SDCL 43-32-8, repair duty (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-8/"
-},
-{
-"title": "SDCL 43-32-14, holdover (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-14/"
-},
-{
-"title": "SDCL 43-32-23, death or incapacity (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-23/"
-},
-{
-"title": "SDCL 43-32-25, abandoned property (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-25/"
-},
-{
-"title": "SDCL 43-32-18.1, eviction limits (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-18-1/"
-},
-{
-"title": "SDCL Chapter 21-16, Forcible Entry and Detainer (Justia)",
-"url": "https://law.justia.com/codes/south-dakota/title-21/chapter-16/"
-},
-{
-"title": "UJS Case Type Definitions",
-"url": "https://ujs.sd.gov/self-help/understanding-the-courts/case-type-definitions/"
-}
-]
+ "slug": "south-dakota-landlord-tenant-law-tenant-rights",
+ "sections": [
+  {
+   "h2": "Where the rules come from",
+   "html": "<p>Most of the rules sit in SDCL Chapter 43-32, titled Lease of Real Property, with eviction procedure in SDCL Chapter 21-16, Forcible Entry and Detainer. The Attorney General's Division of Consumer Protection publishes a plain-language summary of both.</p><p><a href='https://law.justia.com/codes/south-dakota/title-43/chapter-32/'>Chapter 43-32</a> runs from 43-32-1 through 43-32-37. It covers lease terms, security deposits, repairs, retaliation, abandoned property, service animals and entry notice.</p><p>If you own a rental you plan to sell, every showing, notice and move-out on the way to a sale falls under these rules.</p>"
+  },
+  {
+   "h2": "Security deposits",
+   "html": "<p>A residential security deposit generally cannot be more than one month's rent. SDCL 43-32-6.1 allows a larger deposit only when special conditions create a danger to the upkeep of the premises, and an extra pet deposit is one example.</p><p>The landlord must return the deposit, or send a written statement of the specific reasons for withholding, within two weeks after the tenancy ends and the landlord has the tenant's mailing address. SDCL 43-32-24 sets the period at 21 days, so work to the shorter two-week mark. A tenant can also demand an itemized accounting, which is due within 45 days.</p><ul><li>Allowed deductions: unpaid rent, and restoring the unit to its move-in condition, with ordinary wear and tear excluded.</li><li>Missing the deadline: the landlord forfeits the right to withhold anything.</li><li>Bad-faith retention: punitive damages of up to $200.</li><li>Best practice: a move-in walkthrough signed by both sides.</li></ul><p>Pull the deposit records before you list a rental.</p>"
+  },
+  {
+   "h2": "Notice before entering or showing a rental",
+   "html": "<p>A landlord must give reasonable notice before entering, and 24 hours of written notice is presumed reasonable unless the lease says otherwise. The notice states the date or dates, a period during normal business hours, and the purpose of the entry. Emergencies are the exception.</p><p>The same rule covers a sale. Real estate agents showing a unit for sale follow the same entry rules as the landlord. A buyer's inspector or agent should be scheduled with written notice like anyone else.</p><p>A tenant who refuses reasonable entry can be taken to court. The landlord may seek a court order for entry, or for eviction and recovery of actual losses. Extra repair costs caused by the tenant's scheduling can be passed to the tenant.</p>"
+  },
+  {
+   "h2": "Notice to end a lease or change the rent",
+   "html": "<p>The notice period depends on the lease. For a written lease, follow its terms. If it has no renewal or expiration period, notice must be given at least one full rental period before the last day of the tenancy.</p><p>Take a month-to-month example. For rent due on the first, to leave at the end of June you notify by May 31. Missing the deadline by even a day can make the tenant liable for another month's rent. A landlord who is not evicting must give the same notice a tenant would.</p><table><thead><tr><th>Situation</th><th>Notice or limit</th></tr></thead><tbody><tr><td>Rent or term change, month to month</td><td>Landlord gives 30 days' written notice before the end of the month</td></tr><tr><td>Tenant response to a change</td><td>Tenant may end the lease effective the first of the next month by giving notice within 15 days</td></tr><tr><td>Oral lease</td><td>Maximum length is one year</td></tr><tr><td>Entry notice</td><td>24 hours, written, presumed reasonable</td></tr><tr><td>Eviction notice to vacate</td><td>Three days</td></tr></tbody></table><p>A lease that runs longer than a year must be in writing under SDCL 43-32-5. If a tenant stays after the term ends and the landlord accepts rent, SDCL 43-32-14 presumes a renewal on the same terms, for no more than a year.</p>"
+  },
+  {
+   "h2": "How a South Dakota eviction works, step by step",
+   "html": "<p>The only lawful way to remove a tenant is a court order from a circuit court or magistrate judge, obtained through a Forcible Entry and Detainer action. The court system publishes a landlord packet with forms and a checklist.</p><ul><li>Step one: a written notice to quit and vacate (form UJS-110), served by the sheriff or a process server. The tenant has three days after service, not counting the day of service, to leave.</li><li>Step two: if the tenant stays, the landlord files a case filing statement, a summons and a verified complaint with the clerk of court. The landlord's filing fee in the packet is $70.</li><li>Step three: the tenant has four days after service to file an answer, which carries a $25 fee, and must serve the landlord within three days.</li><li>Step four: if the tenant answers, a hearing is set and the landlord mails notice of it at least seven days ahead. If the tenant does not answer, the landlord may move for default judgment.</li><li>Step five: after judgment, the sheriff carries out a writ of execution of possession. The judgment directs removal on or after 12:00 AM on the date the court sets.</li></ul><p>Grounds for eviction include staying after the rental period ends, not paying rent more than three days after it is due, substantial damage to the premises, and taking possession by force, intimidation or fraud.</p>"
+  },
+  {
+   "h2": "What a landlord can never do to push a tenant out",
+   "html": "<p>A landlord cannot lock a tenant out, take the tenant's belongings or shut off electricity, gas, water or other essential services. A lockout or utility interruption exposes the landlord to damages of two months of free rent, plus return of any advance rent and deposit.</p><p>Retaliation is also barred. Raising rent, reducing services or starting an eviction because a tenant complained about repairs, complained to a government agency or joined a tenant organization can be challenged for 180 days. Remedies include up to two months' rent, return of the deposit and up to $500 in attorney fees, and SDCL 43-32-27 and 43-32-28 give the cause of action.</p><p>SDCL 43-32-18.1 adds that a residential lease cannot allow eviction of a tenant for calling law enforcement or emergency help about domestic abuse, unlawful sexual behavior or stalking. A landlord also cannot evict solely because a tenant or household member is the alleged victim. These limits apply whether or not the house is for sale, so a removal started only to deliver a vacant house still has to follow them.</p>"
+  },
+  {
+   "h2": "Repairs a landlord owes",
+   "html": "<p>A landlord must keep the premises in reasonable repair and fit for human habitation, including the electrical, plumbing and heating systems, under SDCL 43-32-8. The landlord and tenant cannot waive that duty, but they can agree that the tenant will do specific repairs in place of rent.</p><p>If the landlord does not fix a problem, the tenant should give written notice that names the repairs and a reasonable deadline, ideally by certified mail. Then the tenant has two options. The tenant can move out, which ends the lease obligations, or make the repairs and deduct the cost from rent.</p><p>If repair costs run more than a month's rent, the tenant who wants to withhold rent must give written notice of the reason and show proof of a separate bank account holding the withheld rent.</p><ul><li>Tenants may call local housing, health, energy or fire inspectors about code violations.</li><li>Open repair requests and inspection notices should be fixed or resolved before a sale where possible. A cash buyer will take them as they are.</li></ul>"
+  },
+  {
+   "h2": "Belongings left after move-out",
+   "html": "<p>Belongings left behind are treated as abandoned in two situations. Under SDCL 43-32-25, items with a total reasonable value of $500 or less that stay ten days after the tenant has moved out are presumed abandoned, and the landlord may dispose of them.</p><p>For larger amounts, property valued over $500 is stored for 30 days, and if it is unclaimed after that it is deemed abandoned. The landlord can ask the court for authority to remove and store it, with a lien for the costs, citing SDCL 43-32-26.</p><p>Death changes a lease only in some cases. SDCL 43-32-23 says a lease that either side can end at will terminates after the other party is notified that the party with the right to end it has died or become unable to contract. A lease that cannot be ended at will is not terminated by that death or incapacity. That can come up when a rental is sold from an estate.</p><p>If the house is part of an estate, our probate page explains how a personal representative gets authority to sell. We buy South Dakota houses as they are, including rentals, with no obligation. We do not give legal advice on a particular lease.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the maximum security deposit in South Dakota?",
+   "a": "Generally one month's rent. SDCL 43-32-6.1 allows more only where special conditions pose a danger to maintenance of the premises, such as a pet."
+  },
+  {
+   "q": "How long does a South Dakota landlord have to return a deposit?",
+   "a": "Two weeks after the tenancy ends and the landlord has the tenant's mailing address, under the Attorney General's guidance, while SDCL 43-32-24 says 21 days. An itemized accounting is due within 45 days if the tenant asks. Working to the shorter period avoids a forfeiture."
+  },
+  {
+   "q": "How much notice must a South Dakota landlord give before entering?",
+   "a": "Twenty-four hours of written notice is presumed reasonable unless the lease says otherwise. Emergencies are an exception, and agents showing a unit for sale follow the same rules."
+  },
+  {
+   "q": "How fast can a landlord evict in South Dakota?",
+   "a": "The landlord must give a three-day notice to vacate, then file in court. The tenant has four days after service to answer. Only a court order and the sheriff can remove a tenant, and the exact length depends on whether the tenant answers."
+  },
+  {
+   "q": "Does a month-to-month tenant have to leave if the landlord sells?",
+   "a": "The notice rules above apply either way, so ask a South Dakota attorney how your lease and the sale contract interact before you promise a buyer a vacant house."
+  }
+ ],
+ "sources": [
+  {
+   "title": "SD Attorney General Consumer Protection: Landlord and Tenant fast facts",
+   "url": "https://consumer.sd.gov/fastfacts/landlordtenant.aspx"
+  },
+  {
+   "title": "UJS Landlord and Tenant Eviction Resources",
+   "url": "https://ujs.sd.gov/self-help/civil-law-help/evictions/"
+  },
+  {
+   "title": "UJS Landlord/Plaintiff Eviction Packet",
+   "url": "https://ujs.sd.gov/uploads/forms/evictions/LandlordPlaintiffPacket.pdf"
+  },
+  {
+   "title": "SDCL Chapter 43-32, Lease of Real Property (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/"
+  },
+  {
+   "title": "SDCL 43-32-8, repair duty (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-8/"
+  },
+  {
+   "title": "SDCL 43-32-14, holdover (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-14/"
+  },
+  {
+   "title": "SDCL 43-32-23, death or incapacity (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-23/"
+  },
+  {
+   "title": "SDCL 43-32-25, abandoned property (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-25/"
+  },
+  {
+   "title": "SDCL 43-32-18.1, eviction limits (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-18-1/"
+  },
+  {
+   "title": "SDCL Chapter 21-16, Forcible Entry and Detainer (Justia)",
+   "url": "https://law.justia.com/codes/south-dakota/title-21/chapter-16/"
+  },
+  {
+   "title": "UJS Case Type Definitions",
+   "url": "https://ujs.sd.gov/self-help/understanding-the-courts/case-type-definitions/"
+  }
+ ]
 }

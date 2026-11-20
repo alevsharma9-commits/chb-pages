@@ -3,57 +3,61 @@
  "sections": [
   {
    "h2": "Does Virginia have an estate or inheritance tax?",
-   "html": "<p>No. Virginia no longer charges an estate tax or an inheritance tax, so an heir does not owe the state a death tax just for receiving a house.</p><p>Older advice still circulates because the rules changed. Before July 1, 2007, Virginia had an estate tax equal to the federal credit for state death taxes. When the federal credit was eliminated, the Virginia tax was effectively repealed with it.</p><p>One narrow exception remains: certain remainder interests are still subject to the inheritance tax. Public Document 15-93 has a section on Virginia estate and inheritance taxes that covers them. If the house passes through a life estate or a trust with a remainder, ask a probate attorney or the Department of Taxation before you assume the answer is zero.</p>"
+   "html": "<p>No. The state dropped both its estate tax and its inheritance tax. Receiving a house from a relative creates no Virginia death tax bill.</p><p>You may still hear otherwise because the rules changed. Until July 1, 2007, Virginia's estate tax was tied to the federal credit for state death taxes. Once Washington eliminated that credit, the Virginia tax went with it.</p><p>One narrow exception remains: certain remainder interests are still subject to the inheritance tax. Public Document 15-93 has a section on them. When the house moves through a life estate or a trust remainder, check with a probate attorney or the Department of Taxation first instead of assuming zero.</p>"
   },
   {
-   "h2": "Taxes and fees at a glance",
-   "html": "<table><thead><tr><th>Charge</th><th>Amount</th><th>Who it affects</th></tr></thead><tbody><tr><td>Estate tax</td><td>None today; repealed in effect after July 1, 2007</td><td>Heirs of any house</td></tr><tr><td>Inheritance tax</td><td>None, except certain remainder interests</td><td>Heirs of life estates or trust remainders</td></tr><tr><td>Probate tax</td><td>10 cents per $100 of estate value</td><td>Estates over $15,000</td></tr><tr><td>Deed grantor tax</td><td>50 cents per $500 of consideration</td><td>Whoever signs the sale deed</td></tr></tbody></table><p>The probate tax and the deed tax are covered below.</p>"
+   "h2": "Quick reference",
+   "html": "<table><thead><tr><th>Charge</th><th>Amount</th><th>Who it hits</th></tr></thead><tbody><tr><td>Estate tax</td><td>None today; repealed in effect after July 1, 2007</td><td>Heirs of any house</td></tr><tr><td>Inheritance tax</td><td>None, except certain remainder interests</td><td>Heirs of life estates or trust remainders</td></tr><tr><td>Probate tax</td><td>10 cents per $100 of estate value</td><td>Estates over $15,000</td></tr><tr><td>Deed grantor tax</td><td>50 cents per $500 of consideration</td><td>Whoever signs the sale deed</td></tr></tbody></table><p>Only two of these charges apply to a normal estate sale: the probate tax when the estate opens, and the deed tax when the house sells. Both are explained below.</p>"
   },
   {
    "h2": "Virginia probate tax",
-   "html": "<p>The probate tax is a different charge from an estate tax. It is imposed when a will is probated or an administrator is appointed, and it is based on the value of the estate rather than on who inherits.</p><p>Under Code 58.1-1712 the rate is 10 cents for every $100 of value, or fraction of $100. It does not apply to decedents' estates of $15,000 or less. Value is determined under the next section, 58.1-1713.</p><p>For current steps and any filing fees, ask the circuit court clerk in the city or county where the person lived.</p>"
+   "html": "<p>The probate tax is charged when a will is probated or an administrator is appointed, and it follows the size of the estate, not the identity of the heirs.</p><p>Code 58.1-1712 sets the rate at 10 cents per $100 of value, with any leftover fraction of $100 counted. Estates of $15,000 or less are exempt. Section 58.1-1713, the next one, governs how value is determined.</p><p>For current steps and any filing fees, ask the circuit court clerk in the city or county where the person lived.</p>"
   },
   {
-   "h2": "Who can sell an inherited house?",
-   "html": "<p>When the will tells the executor to sell the real estate, the executor has the power to sell and convey it and to receive the proceeds, provided no one else was named to sell. Code 64.2-521 says so directly.</p><p>If no executor qualifies, or those who qualified die, resign, or are removed, an administrator with the will annexed holds that same power unless the will clearly says otherwise.</p><p>Before you list, gather these:</p><ul><li>The will and the certificate showing who is the personal representative.</li><li>Any direction in the will to sell the real estate.</li><li>The deed, the latest tax bill, and any mortgage statement.</li><li>A list of what the title company needs from the clerk's office before closing.</li></ul><p>No Virginia estate tax payment is part of that list. Ask the title company which authority papers it wants to see.</p>"
+   "h2": "Order of events for an estate sale",
+   "html": "<p>The order is usually the same. First the will goes to probate at the circuit court. The named executor qualifies, or the court appoints an administrator when there is no will or no executor, and the probate tax comes due at that point. With the certificate of qualification in hand, the personal representative can list the house or take a cash offer.</p><p>Then the title company searches title, requests a payoff from the Treasurer, and confirms the signer's authority. Closing day brings the recorded deed and the grantor tax, paid through the clerk. Property tax and any mortgage come out of the proceeds, and the remainder belongs to the estate. A cash buyer shortens the middle stretch, since no lender underwriting or appraisal holds things up.</p><p>Heirs in other states can generally leave the signing to the personal representative.</p>"
+  },
+  {
+   "h2": "Who has authority to sell",
+   "html": "<p>Under Code 64.2-521, an executor may sell and convey real estate and collect the proceeds when the will directs a sale and leaves the job to no one else.</p><p>If no executor qualifies, or the ones who did die, resign, or are removed, an administrator with the will annexed holds that power too, unless the will clearly says otherwise.</p><p>Before listing, collect:</p><ul><li>The will, plus the certificate naming the personal representative.</li><li>Any direction in the will to sell the real estate.</li><li>The deed, the newest tax bill, and the latest mortgage statement.</li><li>The title company's list of papers it needs from the clerk's office.</li></ul><p>No state estate tax payment appears on that list. The title company can say which authority papers it wants.</p>"
   },
   {
    "h2": "Property tax still attached to the house",
-   "html": "<p>Real estate tax stays with the house after a death, and it has a priority that surprises many heirs. Code 58.1-3340 puts the lien for real estate tax ahead of every other lien or encumbrance, and it stays until the taxing authority is actually paid.</p><p>Penalties and interest count as taxes under that section, and proceeds at a sale must go to taxes and levies on the real estate first. The seller's share is prorated by contract, so the purchase agreement should say who covers which dates.</p><p>Local rules vary by city and county. In Virginia Beach, for example, installments are due December 5 and June 5, late payments carry a 10% penalty or $10, whichever is greater, plus interest at 9.6% a year, and a lien can be recorded with the Circuit Court clerk if taxes stay unpaid. Once taxes are three years plus the current tax year delinquent, the Treasurer may advertise the property and charges a $25 fee.</p><p>If you inherit a house with taxes behind, ask the local Treasurer for a payoff figure before listing. The title company pays it from the sale proceeds.</p>"
+   "html": "<p>A death does not clear the property tax. It stays with the house and ranks first: Code 58.1-3340 puts the real estate tax lien ahead of every other lien or encumbrance until the taxing authority has been paid.</p><p>Penalties and interest count as taxes under that section, and sale proceeds must cover taxes and levies on the real estate first. The purchase agreement prorates the seller's share, so it should spell out who pays for which dates.</p><p>Localities set their own schedules, and Virginia Beach is one example. Its bills come due in two installments, December 5 and June 5. A late payment costs a 10% penalty or $10, whichever is greater, plus 9.6% yearly interest. Unpaid taxes can lead the city to record a lien at the Circuit Court clerk, and once delinquency reaches three years plus the current tax year the Treasurer can advertise the property and charge a $25 fee.</p><p>Inherited a house with back taxes? Get a payoff figure from the local Treasurer before you list. Closing pays it out of the proceeds.</p>"
   },
   {
    "h2": "Deed tax when heirs sell",
-   "html": "<p>The sale deed carries the same grantor tax as any other Virginia sale. Code 58.1-802 sets it at 50 cents for each $500 of consideration or fraction of it, paid by the grantor unless the parties agree the grantee will pay some or all.</p><p>The clerk will not record a deed unless the consideration is stated on its first page and the clerk has certified that the tax was paid. The tax is collected through the clerk and shared between the state and the locality.</p><p>Whether the estate or the buyer bears it follows the contract.</p>"
+   "html": "<p>The estate owes the grantor tax on the deed, as any seller would. Code 58.1-802 charges 50 cents per $500 of consideration, rounding up any fraction. The grantor pays it unless the contract shifts part or all of it to the buyer.</p><p>Recording requires the consideration on the deed's first page and the clerk's certification that the tax was paid. The clerk collects the money and divides it between the state and the locality.</p><p>Whether the estate or the buyer bears it follows the contract.</p>"
   },
   {
    "h2": "Federal tax on an inherited sale",
-   "html": "<p>Federal income tax can still apply to gain, even though Virginia has no estate tax. If you received the house by inheritance, your basis is figured under special rules in IRS Publication 551, Basis of Assets, not by the usual cost rule. Property acquired from a decedent also has its own holding-period exceptions, covered in Publication 544. Whether a gain exists at all depends on the basis and the sale price.</p><ul><li>Ask the estate's tax preparer how basis was set for the house.</li><li>The $250,000 and $500,000 home sale exclusion requires that you owned and used the home as your main residence for 24 months out of the last 5 years.</li><li>If you receive Form 1099-S, report the sale even when the gain is excludable.</li><li>A loss on a personal-use home is not deductible.</li></ul><p>A separate page on this site explains how the federal rules interact with Virginia income tax on a house sale.</p>"
+   "html": "<p>No state death tax does not make the sale tax free, because the IRS can still tax a gain. An inherited house gets its basis under special rules in Publication 551, Basis of Assets, rather than from what the decedent paid. Publication 544 covers the holding-period exceptions for property from a decedent. Whether there is any gain turns on that basis and the final sale price.</p><ul><li>Find out from the estate's preparer how basis was set.</li><li>The $250,000 and $500,000 home sale exclusion only helps if you owned the home and lived in it as your main residence for 24 of the last 5 years.</li><li>A Form 1099-S means the sale must be reported, even if the gain is excluded.</li><li>A loss on a home used personally cannot be deducted.</li></ul><p>A separate page on this site explains how the federal rules interact with Virginia income tax on a house sale.</p>"
   },
   {
    "h2": "When an as-is cash sale helps an estate",
-   "html": "<p>It helps when the family wants a closing date instead of repairs, and when carrying costs are rising. Real estate tax, insurance, utilities, and yard care continue for as long as the estate holds the house, and a vacant house adds its own risks.</p><p>An as-is sale skips repair negotiations, which matters when heirs live in different states. Title and closing still go through a title company, and the personal representative must have authority to convey.</p><p>We can walk through the paperwork with you and answer questions about timing. We are not tax or legal advisors, and a probate attorney should confirm who may sign.</p>"
+   "html": "<p>Families wanting a certain closing date and no repair list often prefer it, particularly while holding costs mount. Taxes, insurance, utilities, and lawn care continue until closing, and a vacant house brings added risk.</p><p>Selling as-is ends the repair haggling, which helps when the heirs are scattered across states. A title company still handles closing, and the personal representative must still show authority to convey.</p><p>Questions about paperwork or timing are welcome. We do not give tax or legal advice, so let a probate attorney confirm who may sign.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Does Virginia charge an inheritance tax on a house I inherit?",
-   "a": "No. Virginia has no inheritance tax, with a narrow exception for certain remainder interests. Ask a probate attorney if the house came through a life estate or trust remainder."
+   "q": "Is there Virginia inheritance tax on a house I inherit?",
+   "a": "No, with one narrow exception for certain remainder interests. A house that arrived through a life estate or trust remainder is worth a call to a probate attorney."
   },
   {
-   "q": "What is the Virginia probate tax rate?",
-   "a": "The probate tax is 10 cents for every $100 of estate value under Code 58.1-1712, and it does not apply to estates of $15,000 or less."
+   "q": "How much is the Virginia probate tax?",
+   "a": "Code 58.1-1712 sets it at 10 cents per $100 of estate value. Estates of $15,000 or less owe nothing."
   },
   {
-   "q": "Can an executor sell the house without all heirs signing?",
-   "a": "If the will directs the real estate to be sold and names no one else to sell it, the executor has the power to sell and convey under Code 64.2-521. Other situations depend on the will, so confirm with an attorney."
+   "q": "Does an executor need every heir to sign a sale?",
+   "a": "Where the will directs a sale and names nobody else to handle it, Code 64.2-521 lets the executor sell and convey alone. Other wills vary, so an attorney should confirm."
   },
   {
-   "q": "Who pays the real estate tax owed on an inherited house at closing?",
-   "a": "It is paid from the sale proceeds. The tax lien has priority over other liens under Code 58.1-3340, and the contract prorates the seller's share."
+   "q": "Who covers unpaid property tax on an inherited house?",
+   "a": "Closing pays it from the sale proceeds. Code 58.1-3340 ranks the tax lien first, and the contract prorates the seller's share."
   },
   {
-   "q": "Do I owe federal tax when I sell an inherited house?",
-   "a": "Possibly. Federal income tax applies to gain, and inherited property has its own basis rules in Publication 551. Many sales produce little or no gain, but confirm with a tax professional."
+   "q": "Will I owe federal tax if I sell inherited property?",
+   "a": "Maybe. Gain is taxable, and Publication 551 sets the basis rules for inherited homes. Many sales show little or no gain, but a tax professional should check."
   }
  ],
  "sources": [

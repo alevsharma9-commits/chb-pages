@@ -1,0 +1,81 @@
+{
+ "slug": "utah-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Utah have its own capital gains tax on a house sale?",
+   "html": "<p>No. Utah does not run a separate capital gains tax, so any taxable gain from selling a house is simply part of your income and taxed at the state's flat individual income tax rate.</p><p>For 2025 that rate is 4.5 percent, down from 4.55 percent after the 2025 Legislature passed HB 106. Line 4 of the Utah TC-40 starts from your federal adjusted gross income, which already includes any gain you report on your federal return. So the question for a Utah seller is mostly a federal one: how much of the gain survives the home sale exclusion?</p><p>The Legislature sets the rate and can change it from one tax year to the next, so read the instructions for the year you sell.</p>"
+  },
+  {
+   "h2": "The home sale exclusion",
+   "html": "<p>A single seller can exclude up to $250,000 of gain on a main home, and married couples filing jointly can exclude up to $500,000.</p><p>Two tests apply to the five years before closing: you owned the home for 24 months and lived in it as your main home for 24 months. The two stretches can fall at different times. Couples filing jointly need only one spouse to pass the ownership test, but both must pass the use test. Taking the exclusion on a different home sale within the past two years generally rules it out.</p><ul><li><strong>Single:</strong> up to $250,000 excluded.</li><li><strong>Married filing jointly:</strong> up to $500,000 excluded.</li><li><strong>Ownership:</strong> 24 months within the last 5 years.</li><li><strong>Use as main home:</strong> 24 months (730 days) within the last 5 years.</li><li><strong>Look-back:</strong> no other home sale excluded in the prior 2 years.</li></ul><p>A surviving spouse keeps the $500,000 limit if the sale closes within two years of the spouse's death and the other conditions are met. IRS Publication 523 covers the fine print.</p>"
+  },
+  {
+   "h2": "Working out the gain",
+   "html": "<p>Gain is the sale price minus selling expenses, minus your adjusted basis, which is what you paid plus qualifying improvements.</p><ul><li><strong>Amount realized:</strong> the selling price less selling expenses.</li><li><strong>Basis:</strong> the purchase cost plus improvements that add value, prolong the home's life or adapt it to a new use. Repairs count only as part of a larger improvement project.</li><li><strong>Closing costs:</strong> items such as recording fees, survey fees and owner's title insurance can be added to basis. Mortgage points and loan fees cannot.</li><li><strong>Inherited homes:</strong> basis is generally the fair market value on the date of death, or on the alternate valuation date if the estate chose it.</li><li><strong>Gifted homes:</strong> basis is generally the donor's adjusted basis.</li></ul><p>Save the closing statement from when you bought, plus receipts for any addition, new roof or remodel. A finished basement or a new roof can change the taxable number noticeably, and a CPA can tie the figures together before you list.</p>"
+  },
+  {
+   "h2": "When the exclusion falls short",
+   "html": "<p>The exclusion does not cover rental depreciation, periods when the house was not your main home, or a separate business portion of the property.</p><p>Depreciation adjustments taken after May 6, 1997 for business or rental use must be recaptured, and you cannot exclude the part of gain equal to them. Gain tied to nonqualified use after 2008, when the property was not your main home, generally cannot be excluded either. Depreciation recapture goes on Form 4797.</p><p>A partial exclusion is available if you sold before reaching 24 months for a qualifying reason:</p><ul><li>A work move at least 50 miles farther from the home.</li><li>A health-related move.</li><li>An unforeseeable event such as death, divorce or unemployment.</li></ul><p>Homes acquired in a like-kind (section 1031) exchange within the past five years are barred from the exclusion altogether. Service members and certain Foreign Service or intelligence community members on qualified official extended duty can elect to suspend the five-year test period for up to 10 years. In an installment sale, the exclusion stays available even if you defer part of the gain.</p><p>A capital loss on a reportable sale can be deducted up to $3,000 a year against other income ($1,500 if married filing separately), with the rest carried forward. Ask your tax preparer whether a loss on a personal residence qualifies.</p>"
+  },
+  {
+   "h2": "Federal rates on the taxable part",
+   "html": "<p>Federal tax on gain from a house owned longer than one year is 0, 15 or 20 percent, and unrecaptured section 1250 gain from real property tops out at 25 percent.</p><table><caption>2025 long-term capital gains brackets</caption><thead><tr><th>Filing status</th><th>0% rate up to</th><th>15% rate up to</th></tr></thead><tbody><tr><td>Single</td><td>$48,350</td><td>$533,400</td></tr><tr><td>Married filing jointly</td><td>$96,700</td><td>$600,050</td></tr><tr><td>Head of household</td><td>$64,750</td><td>$566,700</td></tr></tbody></table><p>Anything above the 15 percent ceiling is taxed at 20 percent. Selling after a year or less of ownership produces short-term gain, which is taxed like wages. Higher earners can also owe the 3.8 percent net investment income tax, which applies when modified adjusted gross income passes $200,000 for single filers or $250,000 for joint filers. Home sale gain escapes that tax only to the extent it is excluded from regular income tax.</p>"
+  },
+  {
+   "h2": "If you left Utah or live elsewhere",
+   "html": "<p>If you moved out or live in another state, you report the sale on the Utah return with Schedule TC-40B. Utah taxes what you earned as a resident, plus Utah-source income after you left.</p><p>Selling a Utah house from another state still counts as Utah-source income. A nonresident with a federal filing requirement must file in Utah too, entering the full federal amount on line 4 before the schedule splits out the Utah share.</p><p>Utah also offers a taxpayer tax credit equal to 6 percent of a base amount that phases out as income rises, with the phase-out starting at $18,213 for single filers and $36,426 for joint filers. The capital gain transactions credit on the form relates to certain Utah small business stock investments, so it is not a home sale break.</p>"
+  },
+  {
+   "h2": "Reporting the sale and due dates",
+   "html": "<p>A home sale goes on Form 8949 and Schedule D. Report it if you received Form 1099-S, even when the whole gain is excluded, and report it whenever part of the gain is taxable.</p><p>The Utah return and payment are due each April 15. An extension of up to six months moves the return to October 15 but does not extend the time to pay, so interest and penalties can still apply.</p><p>If you sell this year, set aside the estimated tax before you spend the proceeds, and ask a CPA or enrolled agent whether quarterly estimates are needed. We can close on your timeline if you need the sale to land in a particular tax year.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Utah capital gains tax rate for real estate?",
+   "a": "There is no separate rate. Utah taxes capital gains as ordinary income at its flat individual rate, which is 4.5 percent for 2025."
+  },
+  {
+   "q": "Do I owe Utah tax if the gain is under the $250,000 exclusion?",
+   "a": "Usually not. Utah starts from federal adjusted gross income, so gain that is fully excluded federally does not raise the Utah taxable amount, though a 1099-S still has to be reported."
+  },
+  {
+   "q": "Does selling an inherited Utah house trigger capital gains?",
+   "a": "Only on gain above the stepped-up basis. The basis is generally the fair market value on the date of death, so a sale soon after can show little or no gain."
+  },
+  {
+   "q": "What if I rented my Utah house before selling?",
+   "a": "Depreciation you took after May 6, 1997 cannot be excluded and is recaptured, and gain tied to periods when the house was not your main home may also be taxable. Ask a tax professional how your rental years affect the figures."
+  },
+  {
+   "q": "Do I pay Utah tax on a house I sold from another state?",
+   "a": "If the house is in Utah, the sale is Utah-source income and a nonresident must file when there is a federal filing requirement. Schedule TC-40B apportions the tax."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Publication 523, Selling Your Home",
+   "url": "https://www.irs.gov/publications/p523"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 559, Net investment income tax",
+   "url": "https://www.irs.gov/taxtopics/tc559"
+  },
+  {
+   "title": "Utah 2025 TC-40 Instructions",
+   "url": "https://files.tax.utah.gov/tax/forms/current/tc-40inst.pdf"
+  },
+  {
+   "title": "Utah Code Title 59, Chapter 10, Part 10, Nonrefundable Tax Credit Act (Justia)",
+   "url": "https://law.justia.com/codes/utah/title-59/chapter-10/part-10/"
+  }
+ ]
+}
