@@ -1,0 +1,77 @@
+{
+ "slug": "texas-eviction-process",
+ "sections": [
+  {
+   "h2": "The Texas eviction process in four stages",
+   "html": "<p>Four stages make up a Texas eviction: written notice to vacate, a justice court suit, a judgment, and a writ of possession served by an officer. A landlord cannot skip ahead and remove a tenant personally, and every stage has its own timer.</p><p>Rule 510 of the Texas Rules of Civil Procedure sets the procedure for the justice court case. This page follows the court side. Rules for the notice that comes first are on the eviction notice page.</p>"
+  },
+  {
+   "h2": "Step one: the notice to vacate",
+   "html": "<p>A landlord starts by serving a written notice to vacate. The usual period is three days, or the period in the lease (Property Code section 24.005). Acceptable delivery: in person to the tenant or a household member aged 16 or older, posted inside the premises in an obvious place, by mail, or by e-mail if the written lease permits.</p><p>A tenant who paid on time the month before gets a pay-or-vacate demand. Federal CARES Act properties may need 30 days. Because Rule 510 does not reach pre-suit notices, chapter 24 of the Property Code is where landlords look.</p>"
+  },
+  {
+   "h2": "How the justice court case runs",
+   "html": "<p>Suit begins with a filing in justice court. The tenant must receive papers four or more days before trial, and the court sets the hearing between day 10 and day 21 after filing.</p><p>Unless summary disposition is in play, the tenant need not file a written answer. A jury request is due at least three days before trial. Under Rule 510 a rent claim up to $20,000 can be joined to the eviction. Amendments to that cap have been proposed, so the court clerk is the person to ask about the current figure.</p><table><caption>Justice court eviction milestones</caption><thead><tr><th>Stage</th><th>Timing</th></tr></thead><tbody><tr><td>Service on tenant</td><td>At least 4 days before trial</td></tr><tr><td>Hearing date</td><td>10 to 21 days after filing</td></tr><tr><td>Jury demand</td><td>At least 3 days before trial</td></tr><tr><td>Appeal to county court</td><td>Within 5 days of judgment</td></tr><tr><td>Writ of possession available</td><td>6 days after final judgment</td></tr><tr><td>Writ served by officer</td><td>Within 5 days</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Can a tenant appeal an eviction judgment?",
+   "html": "<p>Yes, but quickly. The county court appeal must be filed inside five days of judgment, and the tenant posts a bond or cash deposit or swears they cannot afford the costs.</p><p>A landlord who wins should know a timely appeal delays the writ. A tenant who misses the five-day window usually loses the right to appeal, so the clerk's office should be contacted right after judgment.</p>"
+  },
+  {
+   "h2": "How a writ of possession works",
+   "html": "<p>Think of the writ as the court's permission slip for an officer to remove the tenant. Six days after final judgment it becomes available. Service happens within five days, followed by 24 hours of notice ahead of removal.</p><p>There are outer limits as well. A writ generally cannot issue more than 60 days after judgment, though the court may allow 90 days for good cause, and it cannot be carried out after the 90th day. A landlord who waits too long may have to go back to the court.</p><ul><li>Day 6 after final judgment: the writ can be requested.</li><li>Within 5 days of that: the officer serves the writ.</li><li>24 hours: warning before removal.</li><li>Day 90: last day to carry the writ out.</li></ul>"
+  },
+  {
+   "h2": "Squatters and occupants who are not tenants",
+   "html": "<p>Someone who never held a lease is not handled in justice court. Under Property Code chapter 24B, the owner files a request for removal with the sheriff or constable, and a lawsuit is unnecessary if the conditions are met.</p><ul><li>The occupant stayed after being told to leave.</li><li>The property was not open to the public at entry.</li><li>No suit is pending between owner and occupant.</li><li>The occupant is not a family member or a current or former tenant.</li></ul><p>A wrongful removal exposes the owner to a suit under section 24B.005. Section 24.0051606 adds a summary disposition path in forcible entry and detainer suits, with a four-day response and a trial 10 to 21 days after filing if the matter is disputed.</p>"
+  },
+  {
+   "h2": "What to bring to the hearing",
+   "html": "<p>Expect the judge to check the notice first and the grounds second. Take the lease, the notice to vacate, proof of the delivery method and date, and the rent ledger.</p><ul><li>The signed lease and any addenda.</li><li>The notice and delivery record, such as mail receipts or e-mail headers.</li><li>A ledger showing what was paid and what was missed.</li><li>Photos or letters connected to any lease violation.</li></ul><p>A landlord who cannot show proper notice may have to refile, and the clocks above start over.</p>"
+  },
+  {
+   "h2": "A realistic timeline",
+   "html": "<p>Stack the stages and a simple case needs the notice period, up to three weeks to reach a hearing, and about a week after judgment before a writ can be served. An appeal or a reset hearing adds more.</p><p>The pieces are the 3-day default notice, the 10 to 21 day hearing window, the 5-day appeal period, the 6-day wait for the writ, the 5-day service period and the 24-hour removal warning. They are separate deadlines, so confirm each date in the court file.</p><p>Owners planning a sale should treat any single estimate as a rough guide. A buyer who will take the home with the tenant in it takes this uncertainty out of the closing schedule.</p>"
+  },
+  {
+   "h2": "What happens at the hearing",
+   "html": "<p>Hearings are brief. Both sides speak, and the judge rules on who is entitled to possession. Only possession and, if joined, rent are at issue, so other disputes between the parties stay outside the case.</p><p>If the landlord wins, a judgment for possession is entered and the five-day appeal period starts. If the tenant wins, the case ends and the lease continues unless the landlord starts over with a new notice.</p>"
+  },
+  {
+   "h2": "Eviction and selling a Texas rental",
+   "html": "<p>A sale can go ahead during an eviction, though pinning down a closing date is harder. A buyer who accepts the occupied house skips the court calendar entirely. A buyer who wants it vacant depends on the writ steps above.</p><p>Owners weighing a sale often ask three questions: does the lease pass to the buyer, is back rent still owed to the seller, and must the judgment be final before closing? Put the answers in the purchase contract, and keep the court file handy for the title company.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a Texas eviction take?",
+   "a": "No one number fits every case. Count about three days of notice, a hearing 10 to 21 days after filing, and a writ no earlier than day six after judgment. An appeal or a rescheduled hearing lengthens it."
+  },
+  {
+   "q": "Do I need a lawyer to file an eviction in justice court?",
+   "a": "The procedure does not require a written answer from the tenant, and the case is built so people can handle it themselves. Ask the justice court clerk about local practice."
+  },
+  {
+   "q": "How fast must a tenant appeal an eviction?",
+   "a": "Within five days of judgment, by filing a bond, a cash deposit or a statement of inability to afford costs with the county court."
+  },
+  {
+   "q": "How late can a writ be carried out?",
+   "a": "On the 90th day after judgment at the latest. A writ normally cannot issue more than 60 days after judgment, and the court may allow 90 days for good cause."
+  },
+  {
+   "q": "Can a landlord change the locks to remove a tenant?",
+   "a": "The lawful route is a court judgment and a writ carried out by an officer. Ask the justice court clerk or an attorney before taking any self-help step."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas State Law Library: Eviction Process",
+   "url": "https://guides.sll.texas.gov/landlord-tenant-law/eviction-process"
+  },
+  {
+   "title": "Texas Courts: Rule 510 order",
+   "url": "https://txcourts.gov/media/1461822/259105.pdf"
+  }
+ ]
+}

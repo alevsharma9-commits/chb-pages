@@ -1,0 +1,93 @@
+{
+ "slug": "oregon-eviction-process",
+ "sections": [
+  {
+   "h2": "How an eviction case works in Oregon",
+   "html": "<p>An Oregon eviction is a court case that decides one thing: who gets possession of the home. It is an action by a landlord to remove a tenant from a rented dwelling, and it covers houses, apartments, mobile homes and floating homes alike. Back rent and damage claims are not decided in that case.</p><p>A landlord has to use the court. Private eviction help is not permitted, and removing a tenant without a court order is illegal. For an owner thinking about a sale, that rule sets the pace for everything that follows.</p><ul><li>The landlord serves a written notice and waits for the notice period to end.</li><li>The landlord files a complaint and summons with a copy of the notice.</li><li>A first appearance is set, and the tenant answers or settles.</li><li>If the case is contested, the court holds a trial.</li><li>After a judgment for possession, the landlord asks for a notice of restitution and, if needed, a writ of execution carried out by the sheriff.</li></ul>"
+  },
+  {
+   "h2": "Typical deadlines from filing to move-out",
+   "html": "<p>Most Oregon eviction cases reach a first appearance within about one to two weeks of filing, and a contested trial follows within about another two to four weeks. Local practice differs slightly between counties.</p><table><thead><tr><th>Step</th><th>Timing</th></tr></thead><tbody><tr><td>First appearance, most cases</td><td>About one week after filing</td></tr><tr><td>First appearance, nonpayment</td><td>About two weeks after filing</td></tr><tr><td>First appearance, Multnomah County</td><td>Typically 7 to 14 days out, or 15 to 21 days for certain nonpayment cases</td></tr><tr><td>First appearance, Coos County</td><td>7 to 15 days after filing</td></tr><tr><td>Written answer</td><td>Same day as the first appearance (ORS 105.137)</td></tr><tr><td>Trial, nonpayment claims</td><td>15 to 30 days after the appearance</td></tr><tr><td>Trial, other claims</td><td>No later than 15 days after the appearance</td></tr><tr><td>Judgment valid for restitution</td><td>60 days</td></tr><tr><td>Writ must be served</td><td>Within 30 days of issuance</td></tr></tbody></table><p>The <a href=\"https://oregon.public.law/statutes/ors_105.137\">text of ORS 105.137</a> protects the tenant when a trial slips past those windows. If the delay is not the landlord's doing, the court can order the tenant to pay accruing rent into court after a hearing finds that order fair.</p>"
+  },
+  {
+   "h2": "What happens at the first appearance?",
+   "html": "<p>The first appearance ends in a default judgment, a dismissal, a settlement, or a trial date. If the landlord shows up and the tenant does not, the court can enter a judgment of restitution for the landlord. If the tenant shows up and the landlord does not, the tenant can get a dismissal and costs.</p><p>An unrepresented tenant who wants to fight must file a written answer on the court form and serve the landlord the same day (ORS 105.137). In Coos County the answer is due by 4:00 p.m. that day, along with a fee or a request to defer it. The form lists defenses such as missing repairs, retaliation, a defective notice, and status as a victim of domestic violence or stalking.</p><p>Settlement is possible at any point, and the parties can ask a judge to approve the agreement. If the tenant then breaks it, the landlord can file a declaration of non-compliance and ask for a judgment of restitution.</p>"
+  },
+  {
+   "h2": "How an eviction notice must be delivered",
+   "html": "<p>A written notice under the landlord-tenant chapter can be handed over, sent by first class mail, or, only if the written rental agreement allows it, mailed and attached to the door. Email counts only when the parties signed a separate written addendum after the tenant moved in.</p><p>Mailing adds time. Under <a href=\"https://oregon.public.law/statutes/ors_90.155\">ORS 90.155</a>, a notice sent by first class mail has its compliance or termination period extended by three days, and the notice has to say so. The notice must also give the right number of days, because a defective notice is one of the defenses on the tenant's answer form. A termination notice sent by email must also go by first class mail.</p><p>Write down the delivery date and method before anything is filed. Those records also tell a buyer exactly where the case stands.</p>"
+  },
+  {
+   "h2": "When a landlord can use a 24-hour notice",
+   "html": "<p>A 24-hour written notice is allowed only for the serious acts listed in ORS 90.396, and the notice must name the act and the date and time the tenancy ends. The statute covers a tenant, someone under the tenant's control, or in some cases the tenant's pet.</p><ul><li>Seriously threatening or inflicting substantial injury on someone who is not a tenant.</li><li>Recklessly creating a serious risk of substantial injury to a non-tenant on the premises.</li><li>Inflicting substantial injury on a neighbor nearby.</li><li>Intentionally causing substantial damage to the premises.</li><li>Giving substantially false information about a criminal conviction on the rental application, if the landlord ends the tenancy within 30 days of finding out.</li><li>Committing an act described as outrageous in the extreme, such as unlawful drug manufacture or distribution, burglary or a bias crime.</li></ul><p>A Court of Appeals decision requires the actual date and time to appear in the notice (see the <a href=\"https://oregon.public.law/statutes/ors_90.396\">statute text</a>). Pet-related notices must describe the tenant's right to cure by removing the pet.</p>"
+  },
+  {
+   "h2": "What a landlord may not do during an eviction",
+   "html": "<p>A landlord may not change the locks, remove the tenant, or shut off essential services, and may not seriously threaten to do any of those things. ORS 90.375 lists lockouts and the willful loss of heat, water, hot water or electricity.</p><p>The remedy is costly for the owner. The tenant can seek an order to return to the home, and can end the rental agreement and recover up to two months of periodic rent or twice the actual damages, whichever is greater. The tenant does not have to get an injunction or move back in first. Anyone tempted to speed up a vacancy before a sale should read <a href=\"https://oregon.public.law/statutes/ors_90.375\">that section</a> carefully.</p>"
+  },
+  {
+   "h2": "Belongings left in the house",
+   "html": "<p>After a tenancy ends, the landlord must give written notice before storing or selling anything the tenant left, and then wait out a response period. ORS 90.425 sets five days after hand delivery or eight days after mailing for ordinary personal property, and 45 days for a manufactured dwelling or floating home.</p><p>A landlord may also dispose of low-value items without a sale. The thresholds are $1,000 for ordinary property, $4,000 for a recreational vehicle and $8,000 for a manufactured dwelling or floating home. The rule applies when a tenant has been gone seven days after a court eviction order that was not carried out, and when the landlord has regained possession from the sheriff after a writ.</p><p>A landlord who follows the steps in good faith has a full defense to claims for the lost items. One who does not can owe up to twice the tenant's actual damages. Any sale that depends on an empty house has to wait for that notice period to run.</p>"
+  },
+  {
+   "h2": "Eviction and selling a rented house",
+   "html": "<p>An open eviction case and the tenant's rights stay tied to the house, so any buyer will care about possession and notice defects. The court will not rule on back rent in the same case.</p><ul><li>Eviction court decides possession only. A claim for unpaid rent or damage goes to small claims if it is $10,000 or less.</li><li>A judgment of restitution is good for 60 days, so a sale timeline built around move-out should account for it.</li><li>The sheriff, not the landlord, carries out the writ.</li><li>A defective notice is a listed defense, so check the notice before a case is filed.</li></ul><p>Owners with a tenant in place, a case in progress, or a house full of old belongings sometimes choose a buyer who will take the property as it stands, with the tenant situation unresolved. That avoids months of court steps before a sale. Contact us if you want to talk through the house and the lease.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does an eviction take in Oregon?",
+   "a": "A contested case often runs several weeks from filing to trial. The first appearance usually comes about one to two weeks after filing, and ORS 105.137 puts a trial for nonpayment 15 to 30 days after that appearance. Notice periods before filing, plus the time for a notice of restitution and a writ, add more time."
+  },
+  {
+   "q": "Can I evict a tenant myself in Oregon without going to court?",
+   "a": "No. Changing locks, removing a tenant or cutting off utilities is prohibited by ORS 90.375, and a tenant can recover up to two months of rent or twice actual damages, whichever is greater. A landlord has to win a judgment and use the court process."
+  },
+  {
+   "q": "What if the tenant does not show up to the first appearance?",
+   "a": "The court may enter a default judgment of restitution for the landlord. Missing the date can mean an automatic loss and an eviction on the tenant's record, though a tenant with a good reason can ask to set the judgment aside."
+  },
+  {
+   "q": "How long does a landlord have to store a tenant's belongings?",
+   "a": "The tenant gets a written notice and then a response period of at least five days after hand delivery or eight days after mailing for ordinary property. Items worth $1,000 or less, or so little that storage and sale would cost more than a sale brings, may be disposed of under ORS 90.425."
+  },
+  {
+   "q": "Can I sell a house while an eviction is pending in Oregon?",
+   "a": "The case and the tenant's rights stay with the property. A buyer will want the notice, proof of service and court file, and your timeline should account for the 60 days a judgment stays good for restitution. Check with a lawyer or title company on your facts."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Oregon Judicial Department, Residential Eviction (Coos and Curry self-help)",
+   "url": "https://www.courts.oregon.gov/courts/coos/help/pages/residential-eviction.aspx"
+  },
+  {
+   "title": "Oregon Judicial Department, Multnomah County Eviction (FED) process",
+   "url": "https://www.courts.oregon.gov/courts/multnomah/go/pages/fed.aspx"
+  },
+  {
+   "title": "Oregon Law Help, What to do if you get eviction court papers",
+   "url": "https://oregonlawhelp.org/topics/housing/rental-housing/evictions-termination-notices-and-landlord-lockouts/eviction-court-cases/what-do-if-you-get-eviction-court-papers"
+  },
+  {
+   "title": "ORS 105.137, first appearance and trial in residential eviction",
+   "url": "https://oregon.public.law/statutes/ors_105.137"
+  },
+  {
+   "title": "ORS 90.155, service of written notice",
+   "url": "https://oregon.public.law/statutes/ors_90.155"
+  },
+  {
+   "title": "ORS 90.396, 24-hour notice for serious violations",
+   "url": "https://oregon.public.law/statutes/ors_90.396"
+  },
+  {
+   "title": "ORS 90.375, unlawful ouster and exclusion",
+   "url": "https://oregon.public.law/statutes/ors_90.375"
+  },
+  {
+   "title": "ORS 90.425, abandoned tenant property",
+   "url": "https://oregon.public.law/statutes/ors_90.425"
+  }
+ ]
+}

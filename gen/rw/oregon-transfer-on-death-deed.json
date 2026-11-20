@@ -1,76 +1,121 @@
 {
-  "slug": "oregon-transfer-on-death-deed",
-  "sections": [
-    {
-      "h2": "Which Oregon law creates the transfer on death deed?",
-      "html": "<p>Oregon's transfer on death deed comes from the Uniform Real Property Transfer on Death Act, found at ORS 93.948 to 93.979. The legislature passed it as chapter 212 of the 2011 Oregon Laws, effective January 1, 2012.</p><p>The act applies to a deed made before or after that date as long as the owner dies on or after January 1, 2012. It also says it does not affect other methods of transferring property that Oregon law already allows, so a will, a trust or a joint ownership arrangement can still be used.</p><p>Under the definitions in <a href=\"https://oregon.public.law/statutes/ors_93.949\">ORS 93.949</a>, the transferor is a living individual who signs the deed, and the property is a real estate interest located in Oregon. The beneficiary is whoever receives the property through the deed. A deed can name primary beneficiaries and alternates, who take only if no primary beneficiary survives or qualifies (ORS 93.953).</p>"
-    },
-    {
-      "h2": "Oregon transfer on death deed rules at a glance",
-      "html": "<table><thead><tr><th>Question</th><th>Answer in the statute</th><th>Section</th></tr></thead><tbody><tr><td>When does the beneficiary get the property?</td><td>At the owner's death, not before</td><td>ORS 93.953, 93.967</td></tr><tr><td>Must it be recorded?</td><td>Yes, before the owner dies, in the deed records of the county where the property sits</td><td>ORS 93.961</td></tr><tr><td>Does the beneficiary need to accept it or give anything?</td><td>No notice, delivery, acceptance or consideration is required</td><td>ORS 93.963</td></tr><tr><td>Can the owner change their mind?</td><td>Yes, even if the deed says otherwise</td><td>ORS 93.955</td></tr><tr><td>Time to contest capacity, fraud or undue influence</td><td>18 months after the owner's death</td><td>ORS 93.959</td></tr><tr><td>Time for estate to reach the property for creditor claims</td><td>18 months after the owner's death</td><td>ORS 93.973</td></tr><tr><td>Effect of divorce after recording</td><td>Gifts to the former spouse are revoked unless the deed shows a different intent</td><td>ORS 93.981</td></tr></tbody></table>"
-    },
-    {
-      "h2": "What must an Oregon transfer on death deed contain?",
-      "html": "<p>It must carry the essential elements and formalities of a recordable lifetime deed, say that the transfer happens at the owner's death, and name the beneficiary. ORS 93.961 voids a designation that names beneficiaries only as members of a class.</p><p>The statute also gives an optional fill-in form at ORS 93.975. A deed on that form includes these items:</p><ul><li>The names and mailing addresses of the owners signing.</li><li>A legal description of the property.</li><li>A primary beneficiary and an alternate beneficiary.</li><li>The address where the county clerk should send tax statements.</li><li>A return address for the recorded deed.</li><li>A statement that the owner can revoke it, and a warning that it must be recorded before death to be effective.</li><li>Signatures and a notary acknowledgment block.</li></ul><p>The form itself urges owners to read carefully and consider talking to a lawyer. A wrong legal description or a missing signature is the kind of mistake nobody notices until it is too late to fix.</p>"
-    },
-    {
-      "h2": "How much does it cost to record a transfer on death deed in Oregon?",
-      "html": "<p>The fee depends on the county. In Multnomah County, recording a deed costs $86 for the first page and $5 for each additional page.</p><p>Multnomah County also lists extra charges that can apply to any deed. A cover page costs $5 if the document lacks blank space for the county's 4 inch by 2 inch recording label. A $20 non-standard fee applies if that cover page does not meet the statutory first-page requirements. Each additional transaction in one document is $5, and so is each additional reference to an assignment, release or satisfaction.</p><p>Other Oregon counties set their own schedules. Call the county clerk or recorder where the house sits before you mail a deed, because a rejected document that sits in a drawer helps nobody.</p>"
-    },
-    {
-      "h2": "What can the owner still do after signing a transfer on death deed?",
-      "html": "<p>The owner keeps full control while alive. ORS 93.967 says the deed does not affect the owner's rights, including the right to transfer or encumber the property, and gives the beneficiary no present interest, even if the beneficiary knows about it.</p><p>So the owner can sell the house, refinance it or take out a loan against it. The deed also does not change the rights of the owner's creditors, and it does not change whether the owner or the beneficiary qualifies for public or medical assistance as defined in ORS 414.025. The beneficiary's creditors cannot reach the property either, because the beneficiary has no legal or equitable interest during the owner's life.</p><p>To undo the deed, ORS 93.965 allows three recorded options:</p><ul><li>A new transfer on death deed that revokes the earlier one, expressly or through inconsistent terms.</li><li>A recorded instrument that expressly revokes it, in whole or in part.</li><li>A lifetime deed that transfers the same interest, to the extent of that transfer.</li></ul><p>Any of these must be acknowledged and recorded in the county deed records before the owner dies. A named agent can revoke only if the deed expressly gives that authority. Tearing up or writing on a recorded deed does not work, because the statute says a recorded deed cannot be revoked by an act on the deed itself.</p>"
-    },
-    {
-      "h2": "What happens to the house when the owner dies?",
-      "html": "<p>The designated beneficiary takes the property subject to everything attached to it, including liens, mortgages and other encumbrances. ORS 93.969 states that the beneficiary takes subject to all conveyances and encumbrances, and that includes state claims for public or medical assistance reimbursement when the probate estate cannot cover them.</p><p>Other points from the same section:</p><ul><li>A beneficiary who does not survive the owner loses the gift. The share does not pass under the deed.</li><li>With several beneficiaries, each takes an equal, undivided share with no right of survivorship, and a lapsed share goes to the others in proportion to their shares.</li><li>If the owner held title as a joint tenant, a surviving joint owner takes first, and the deed takes effect only when the last surviving joint owner dies.</li><li>The transfer carries no covenant or warranty of title, even if the deed says it does.</li></ul><p>A beneficiary can also give up the inheritance. ORS 93.971 lets a beneficiary disclaim all or part of the interest, and it sends the procedure to ORS 105.623 through 105.649.</p>"
-    },
-    {
-      "h2": "Can the deed be challenged, and can creditors reach the property?",
-      "html": "<p>Yes to both, but only within 18 months after the owner's death. Capacity to make or revoke a transfer on death deed is the same as capacity to make a will, and a deed or revocation obtained by fraud, duress or undue influence is void (ORS 93.959). Anyone who wants to raise either issue must start a proceeding within those 18 months.</p><p>On debts, ORS 93.973 lets the estate reach transferred property only to the extent the probate estate is not enough. It covers claims allowed or established against the estate under ORS 114.505 to 114.560 or ORS chapter 115, and statutory allowances owed to a surviving spouse or child under ORS 114.015. If the owner signed several deeds, liability is split among those properties in proportion to each one's net value at death.</p><p>Divorce matters too. If the owner divorces or has the marriage annulled after recording, ORS 93.981 revokes the provisions for the former spouse, treating that person as if they had died first. The deed can say otherwise.</p>"
-    },
-    {
-      "h2": "What does a transfer on death deed mean for selling an Oregon house?",
-      "html": "<p>If the owner is alive, the owner can sell the house like any other. The deed gives the beneficiary no say, and a sale ends the owner's interest, so there is nothing left for the deed to transfer.</p><p>If the owner has died, the beneficiary receives the property without a probate transfer, but the 18 month windows in ORS 93.959 and ORS 93.973 are the dates to raise with a title company or attorney before closing a sale. A beneficiary who inherits a house with a mortgage, repair needs or tax bills takes it as-is with those attached.</p><p>Many beneficiaries live out of town and do not want to manage an inherited house. We buy Oregon houses as-is for cash, and you can ask us for an offer once you have the recorded deed and the death certificate in hand. A local attorney or the title company should confirm the steps for your county.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Does a transfer on death deed avoid probate in Oregon?",
-      "a": "It can pass the house outside probate, because the transfer happens at death under the deed. The estate can still reach the property for creditor claims if the probate estate is not enough, for up to 18 months after death under ORS 93.973."
-    },
-    {
-      "q": "Does the beneficiary have to sign or accept an Oregon TOD deed?",
-      "a": "No. ORS 93.963 says the deed does not need notice to, delivery to, or acceptance by the beneficiary during the owner's life, and it needs no consideration."
-    },
-    {
-      "q": "Can I sell my house after recording a transfer on death deed?",
-      "a": "Yes. Under ORS 93.967 the deed does not limit your right to sell or borrow against the property while you are alive, and the beneficiary has no present interest."
-    },
-    {
-      "q": "How do I cancel an Oregon transfer on death deed?",
-      "a": "Record a new deed, a revocation instrument, or a lifetime deed of the same interest, each acknowledged and recorded in the county deed records before you die (ORS 93.965). Marking up the recorded deed does not revoke it."
-    },
-    {
-      "q": "Where do I record a transfer on death deed in Oregon?",
-      "a": "In the deed records of the county clerk's office for the county where the property is located (ORS 93.961). In Multnomah County the fee is $86 for the first page and $5 for each added page."
-    }
-  ],
-  "sources": [
-    {"title": "ORS 93.949 Definitions (Uniform Real Property Transfer on Death Act)", "url": "https://oregon.public.law/statutes/ors_93.949"},
-    {"title": "ORS 93.953 Authority for transfer on death deed", "url": "https://oregon.public.law/statutes/ors_93.953"},
-    {"title": "ORS 93.955 Revocability of transfer on death deed", "url": "https://oregon.public.law/statutes/ors_93.955"},
-    {"title": "ORS 93.959 Capacity; fraud, duress or undue influence", "url": "https://oregon.public.law/statutes/ors_93.959"},
-    {"title": "ORS 93.961 Requirements", "url": "https://oregon.public.law/statutes/ors_93.961"},
-    {"title": "ORS 93.963 Notice, acceptance, consideration", "url": "https://oregon.public.law/statutes/ors_93.963"},
-    {"title": "ORS 93.965 Revocation by instrument", "url": "https://oregon.public.law/statutes/ors_93.965"},
-    {"title": "ORS 93.967 Effect during transferor's life", "url": "https://oregon.public.law/statutes/ors_93.967"},
-    {"title": "ORS 93.969 Effect at transferor's death", "url": "https://oregon.public.law/statutes/ors_93.969"},
-    {"title": "ORS 93.971 Disclaimer", "url": "https://oregon.public.law/statutes/ors_93.971"},
-    {"title": "ORS 93.973 Liability for creditor claims", "url": "https://oregon.public.law/statutes/ors_93.973"},
-    {"title": "ORS 93.975 Form of transfer on death deed", "url": "https://oregon.public.law/statutes/ors_93.975"},
-    {"title": "ORS 93.981 Effect of divorce or annulment", "url": "https://oregon.public.law/statutes/ors_93.981"},
-    {"title": "Oregon Laws 2011 chapter 212", "url": "https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2011orLaw0212.html"},
-    {"title": "Multnomah County recording fees", "url": "https://multco.us/info/recording-fees"}
-  ]
+ "slug": "oregon-transfer-on-death-deed",
+ "sections": [
+  {
+   "h2": "The law behind Oregon's transfer on death deed",
+   "html": "<p>Oregon's transfer on death deed comes from the Uniform Real Property Transfer on Death Act, found at ORS 93.948 to 93.979. The legislature passed it as chapter 212 of the 2011 Oregon Laws, effective January 1, 2012.</p>\n<p>What matters is the date of death: any owner who dies on or after January 1, 2012 is covered, whenever the deed was signed. Wills, trusts and joint ownership remain open as other routes, and nothing in the act displaces them.</p>\n<p><a href=\"https://oregon.public.law/statutes/ors_93.949\">ORS 93.949</a> defines the terms. The transferor is the living person who signs, the property is any real estate interest in Oregon, and the beneficiary is whoever receives it through the deed. A deed can name primary beneficiaries and alternates, who take only if no primary beneficiary survives or qualifies (ORS 93.953).</p>"
+  },
+  {
+   "h2": "Transfer on death deed rules at a glance",
+   "html": "<table><caption>Oregon transfer on death deed rules by question</caption><thead><tr><th>Question</th><th>Answer (statute)</th></tr></thead><tbody><tr><td>When does the beneficiary get the property?</td><td>At the owner's death, not before (ORS 93.953, 93.967)</td></tr><tr><td>Must it be recorded?</td><td>Yes, before the owner dies, in the deed records of the county where the property sits (ORS 93.961)</td></tr><tr><td>Does the beneficiary need to accept it or give anything?</td><td>No notice, delivery, acceptance or consideration is required (ORS 93.963)</td></tr><tr><td>Can the owner change their mind?</td><td>Yes, even if the deed says otherwise (ORS 93.955)</td></tr><tr><td>Time to contest capacity, fraud or undue influence</td><td>18 months after the owner's death (ORS 93.959)</td></tr><tr><td>Time for estate to reach the property for creditor claims</td><td>18 months after the owner's death (ORS 93.973)</td></tr><tr><td>Effect of divorce after recording</td><td>Gifts to the former spouse are revoked unless the deed shows a different intent (ORS 93.981)</td></tr></tbody></table>"
+  },
+  {
+   "h2": "What the deed must contain",
+   "html": "<p>Start with everything a recordable lifetime deed requires. Then add wording that the transfer takes effect at the owner's death, and name the person who will receive the house. ORS 93.961 voids a designation that names beneficiaries only as members of a class.</p>\n<p>ORS 93.975 offers an optional fill-in form. A deed written on it contains:</p>\n<ul>\n<li>The names and mailing addresses of the owners signing.</li>\n<li>A legal description of the property.</li>\n<li>A primary beneficiary and an alternate beneficiary.</li>\n<li>The address where the county clerk should send tax statements.</li>\n<li>A return address for the recorded deed.</li>\n<li>A statement that the owner can revoke it, and a warning that it must be recorded before death to be effective.</li>\n<li>Signatures and a notary acknowledgment block.</li>\n</ul>\n<p>The form itself suggests reading it closely and thinking about a lawyer. Errors such as a wrong legal description or a missing signature tend to surface only after the owner has died, when nothing can be corrected.</p>"
+  },
+  {
+   "h2": "Recording costs",
+   "html": "<p>The fee depends on the county. In Multnomah County, recording a deed costs $86 for the first page and $5 for each additional page.</p>\n<p>Some deeds draw added charges there. If the document has no blank space for the county's 4 inch by 2 inch recording label, a cover page is needed, at $5. A cover page that fails the statutory first-page requirements adds a $20 non-standard fee. Every extra transaction in a single document costs $5, as does each extra reference to an assignment, release or satisfaction.</p>\n<p>Other Oregon counties set their own schedules. Phone the clerk or recorder in the house's county before mailing anything, since a rejected deed does no one any good.</p>"
+  },
+  {
+   "h2": "What the owner can still do after signing",
+   "html": "<p>While the owner is living, nothing changes in who is in charge. Under ORS 93.967 the deed does not affect the owner's rights, including the right to transfer or encumber the property, and it gives the beneficiary no present interest, even if the beneficiary knows about it.</p>\n<p>That means the house can still be sold, refinanced or pledged for a loan. The deed also does not change the rights of the owner's creditors, and it does not change whether the owner or the beneficiary qualifies for public or medical assistance as defined in ORS 414.025. The beneficiary's creditors cannot reach the property either, because the beneficiary has no legal or equitable interest during the owner's life.</p>\n<p>An owner who wants out has three recorded options under ORS 93.965:</p>\n<ul>\n<li>A new transfer on death deed that revokes the earlier one, expressly or through inconsistent terms.</li>\n<li>A recorded instrument that expressly revokes it, in whole or in part.</li>\n<li>A lifetime deed that transfers the same interest, to the extent of that transfer.</li>\n</ul>\n<p>Whichever route is used, it has to be acknowledged and recorded in the county deed records while the owner is alive. An agent can revoke only when the deed expressly grants that power. Tearing up or writing on a recorded deed does not work, because a recorded deed cannot be revoked by an act on the deed itself.</p>"
+  },
+  {
+   "h2": "What happens to the house when the owner dies?",
+   "html": "<p>Whoever is named as beneficiary receives the house together with whatever is attached to it: liens, mortgages and other encumbrances. Under ORS 93.969 the beneficiary takes subject to all conveyances and encumbrances, and that includes state claims for public or medical assistance reimbursement when the probate estate cannot cover them.</p>\n<p>That section also sets out these rules:</p>\n<ul>\n<li>A beneficiary who dies before the owner gets nothing, and that share does not pass under the deed.</li>\n<li>When there are several beneficiaries, each gets an equal undivided share with no survivorship, and a lapsed share is divided among the rest in proportion.</li>\n<li>If the owner held title as a joint tenant, the surviving joint owner takes first, and the deed operates only after the last joint owner dies.</li>\n<li>No covenant or warranty of title comes with the transfer, even when the deed claims one.</li>\n</ul>\n<p>A beneficiary can also give up the inheritance. ORS 93.971 lets a beneficiary disclaim all or part of the interest, with the procedure in ORS 105.623 through 105.649.</p>"
+  },
+  {
+   "h2": "Challenges and creditor claims",
+   "html": "<p>Both can happen, but a challenge has an 18 month limit that starts at the owner's death. The mental capacity needed to sign or revoke the deed is the same as for a will, and any deed or revocation produced by fraud, duress or undue influence is void (ORS 93.959). A person who wants to raise those issues has to file within that window.</p>\n<p>For debts, ORS 93.973 allows the estate to go after the transferred house only when the probate estate falls short. It covers claims allowed or established against the estate under ORS 114.505 to 114.560 or ORS chapter 115, and statutory allowances owed to a surviving spouse or child under ORS 114.015. If the owner signed several deeds, liability is split among those properties in proportion to each one's net value at death.</p>\n<p>A divorce changes things as well. If the marriage ends by divorce or annulment after the deed is recorded, ORS 93.981 cancels any gift to the former spouse, as though that person had died first, unless the deed states a different wish.</p>"
+  },
+  {
+   "h2": "Selling an Oregon house with a transfer on death deed",
+   "html": "<p>A living owner can sell the house as freely as any other. The beneficiary gets no vote, and once the house is sold the deed has nothing left to transfer.</p>\n<p>After the owner's death, the beneficiary receives the house with no probate transfer. The two 18 month windows in ORS 93.959 and ORS 93.973 are the dates to raise with a title company or attorney before closing a sale. A beneficiary who inherits a house with a mortgage, repair needs or tax bills takes it as-is with those attached.</p>\n<p>Plenty of beneficiaries live far away and would rather not run a rental or maintain an empty home. We buy Oregon houses as-is for cash, and you can ask us for an offer once you have the recorded deed and the death certificate in hand. A local attorney or the title company should confirm the steps for your county. Gather the deed, the death certificate, a mortgage payoff figure and recent tax bills ahead of time so a closing is not held up.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does a transfer on death deed avoid probate in Oregon?",
+   "a": "It can, since the house passes at death under the deed itself. Creditors of the estate may still reach it if the probate estate cannot cover their claims, for up to 18 months after death (ORS 93.973)."
+  },
+  {
+   "q": "Does the beneficiary have to sign or accept an Oregon TOD deed?",
+   "a": "No. ORS 93.963 says the deed does not need notice to, delivery to, or acceptance by the beneficiary during the owner's life, and it needs no consideration."
+  },
+  {
+   "q": "Can I sell my house after recording a transfer on death deed?",
+   "a": "Yes. Under ORS 93.967 the deed does not limit your right to sell or borrow against the property while you are alive, and the beneficiary has no present interest."
+  },
+  {
+   "q": "How do I cancel an Oregon transfer on death deed?",
+   "a": "Record a new deed, a revocation instrument, or a lifetime deed of the same interest, each acknowledged and recorded in the county deed records before you die (ORS 93.965). Marking up the recorded deed does not revoke it."
+  },
+  {
+   "q": "Where do I record a transfer on death deed in Oregon?",
+   "a": "In the deed records of the county clerk's office for the county where the property is located (ORS 93.961). In Multnomah County the fee is $86 for the first page and $5 for each added page."
+  }
+ ],
+ "sources": [
+  {
+   "title": "ORS 93.949 Definitions (Uniform Real Property Transfer on Death Act)",
+   "url": "https://oregon.public.law/statutes/ors_93.949"
+  },
+  {
+   "title": "ORS 93.953 Authority for transfer on death deed",
+   "url": "https://oregon.public.law/statutes/ors_93.953"
+  },
+  {
+   "title": "ORS 93.955 Revocability of transfer on death deed",
+   "url": "https://oregon.public.law/statutes/ors_93.955"
+  },
+  {
+   "title": "ORS 93.959 Capacity; fraud, duress or undue influence",
+   "url": "https://oregon.public.law/statutes/ors_93.959"
+  },
+  {
+   "title": "ORS 93.961 Requirements",
+   "url": "https://oregon.public.law/statutes/ors_93.961"
+  },
+  {
+   "title": "ORS 93.963 Notice, acceptance, consideration",
+   "url": "https://oregon.public.law/statutes/ors_93.963"
+  },
+  {
+   "title": "ORS 93.965 Revocation by instrument",
+   "url": "https://oregon.public.law/statutes/ors_93.965"
+  },
+  {
+   "title": "ORS 93.967 Effect during transferor's life",
+   "url": "https://oregon.public.law/statutes/ors_93.967"
+  },
+  {
+   "title": "ORS 93.969 Effect at transferor's death",
+   "url": "https://oregon.public.law/statutes/ors_93.969"
+  },
+  {
+   "title": "ORS 93.971 Disclaimer",
+   "url": "https://oregon.public.law/statutes/ors_93.971"
+  },
+  {
+   "title": "ORS 93.973 Liability for creditor claims",
+   "url": "https://oregon.public.law/statutes/ors_93.973"
+  },
+  {
+   "title": "ORS 93.975 Form of transfer on death deed",
+   "url": "https://oregon.public.law/statutes/ors_93.975"
+  },
+  {
+   "title": "ORS 93.981 Effect of divorce or annulment",
+   "url": "https://oregon.public.law/statutes/ors_93.981"
+  },
+  {
+   "title": "Oregon Laws 2011 chapter 212",
+   "url": "https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2011orLaw0212.html"
+  },
+  {
+   "title": "Multnomah County recording fees",
+   "url": "https://multco.us/info/recording-fees"
+  }
+ ]
 }
