@@ -1,72 +1,105 @@
 {
-  "slug": "wyoming-squatters-rights-adverse-possession",
-  "sections": [
-    {
-      "h2": "Do squatters have rights in Wyoming?",
-      "html": "<p>Wyoming law does not use the phrase squatters rights, but a person who occupies land for long enough can claim title by adverse possession. The path is narrow, it takes ten years, and the occupant carries the burden of showing every element.</p><p>The ten-year period comes from W.S. 1-3-103, which says an action for recovery of the title or possession of land can only be brought within ten years after the cause of action accrues. If an owner waits past that window while someone openly treats the land as their own, the owner can lose the right to recover it.</p><p>For a seller, the reassuring part is that a short stay does not create ownership. Someone who moved into a vacant house last winter has no title claim. The risk comes from long neglect: an inherited house nobody visits, a boundary strip nobody has checked, or a rural parcel with an old fence in the wrong place.</p>"
-    },
-    {
-      "h2": "What must a person prove to win an adverse possession claim in Wyoming?",
-      "html": "<p>The Wyoming Supreme Court says the claimant must show actual, open, notorious, exclusive and continuous possession that is hostile and under a claim of right or color of title, held for the full ten years. Courts have repeated that formula in cases such as Osuch v. Gunnels (2017) and Tuckness v. Town of Meeteetse (2024).</p><ul><li>Actual: the person physically uses the property, not just says they own it.</li><li>Open and notorious: the use is visible enough that a prudent owner would notice that title is in jeopardy.</li><li>Exclusive and continuous: the person keeps others out and does not abandon the land.</li><li>Hostile: the person asserts ownership against the record owner, and use with the owner's permission does not count.</li></ul><p>In Osuch, the court explained that possession must be incompatible with the true owner's rights. It also said that once the elements are met, the possessor holds a new title that can be divested only by conveyance, descent or operation of law. That is why an old claim can matter even if it was never filed in court.</p>"
-    },
-    {
-      "h2": "How did the Tuckness case turn on permission?",
-      "html": "<p>In Tuckness, the neighbor lost because the court found his use was not hostile. He began storing personal property on an adjoining lot in 1999 without permission and kept using it until 2013, which looks like more than ten years on its face.</p><p>The owner who bought the lot in 2003 testified that he gave permission between 2005 and 2007 and never revoked it. The neighbor denied it. The district court found both witnesses equally credible and said the evidence was in equipoise, so the claimant failed. The Supreme Court affirmed and noted that when evidence is evenly balanced, the party with the burden of proof must fail.</p><p>The case shows how burdens work. Ownership starts with the record title holder. If the claimant makes a prima facie showing on each element, the burden shifts to the owner to prove the use was permissive. The claimant still carries the ultimate burden by a preponderance of the evidence.</p>"
-    },
-    {
-      "h2": "What are the key Wyoming statutes at a glance?",
-      "html": "<p>Several short statutes frame the whole subject, and the table below lists the ones owners run into most.</p><table><thead><tr><th>Statute</th><th>What it says</th></tr></thead><tbody><tr><td>W.S. 1-3-103</td><td>Action to recover title or possession of land must be brought within 10 years</td></tr><tr><td>W.S. 1-21-1002(a)(v)</td><td>Forcible entry and detainer lies against a settler or occupier without color of title</td></tr><tr><td>W.S. 1-21-1003</td><td>Adverse party must be notified to leave at least 3 days before the action</td></tr><tr><td>W.S. 6-3-303</td><td>Criminal trespass: misdemeanor, up to 6 months, fine up to $750</td></tr><tr><td>W.S. 1-32-201</td><td>Quiet title action by a person in possession against an adverse claimant</td></tr><tr><td>W.S. 34-1-112</td><td>Conveyance not void because someone else is in adverse possession</td></tr></tbody></table><p>These are reproduced from the official statute text or Justia copies. Versions change, so confirm the current wording before acting.</p>"
-    },
-    {
-      "h2": "How can an owner remove someone who has no right to be in the house?",
-      "html": "<p>An owner removes an occupant through the courts, not by changing the locks. Forcible entry and detainer under W.S. 1-21-1002(a)(v) covers a defendant who is a settler or occupier of land without color of title, where the owner has the right of possession.</p><p>The Wyoming Judicial Branch describes the general process for evictions in three steps: a notice to quit, a court summons, and a writ of restitution. W.S. 1-21-1003 requires notice to leave at least three days before the action begins. The notice can be handed to the person or left at their usual home or business if they cannot be found.</p><ul><li>The court's instructions say the notice server must be at least 18, and each adult you want removed should get a separate copy.</li><li>Take a photo of where you left the notice, then complete an affidavit of service signed before a notary.</li><li>If the person does not leave, file a complaint in circuit court.</li><li>The Judicial Branch page says the court schedules trial 3 to 12 days after service of the summons.</li><li>If you win, a writ of restitution sets the move-out time, which the court page says can range from 0 to 30 days. Only the sheriff can remove the occupant.</li></ul><p>The court page also warns that a landlord cannot lock a tenant out after the notice and must go through the court. Ask a Wyoming attorney before taking any self-help step against an occupant.</p>"
-    },
-    {
-      "h2": "When does trespass law apply instead?",
-      "html": "<p>Criminal trespass applies when someone enters or remains on land knowing they are not authorized, or after being told to leave. Under W.S. 6-3-303, notice can come from the owner, an occupant, an agent or a peace officer speaking directly to the person, or from posted signs that intruders are likely to see.</p><p>The offense is a misdemeanor punishable by up to six months in jail, a fine of up to $750, or both. The statute states that it does not override W.S. 1-21-1003, which is the notice rule for forcible entry and detainer.</p><p>For a vacant property, documentation helps. Posted signs, dated photos, and a written record of any direct warning make it easier to show notice later.</p>"
-    },
-    {
-      "h2": "What if the occupant claims they own part of the property?",
-      "html": "<p>An occupant who claims an interest can be challenged in a quiet title action. W.S. 1-32-201 allows a person in possession of real property to bring an action against anyone claiming an adverse estate or interest, to determine that adverse interest. The person bringing the action may hold possession personally or through a tenant.</p><p>That detail matters for owners. If you are in possession, directly or through a tenant, you can use the statute to ask a court to settle a boundary or ownership claim.</p><p>Quiet title is a civil lawsuit with its own pleading and proof requirements. A Wyoming attorney can tell you whether filing makes sense and how the ten-year clock under W.S. 1-3-103 applies to your facts.</p>"
-    },
-    {
-      "h2": "Can you sell a Wyoming house while someone is occupying it?",
-      "html": "<p>Yes. W.S. 34-1-112 says no grant or conveyance of land is void because the land is in the actual possession of another person claiming adversely at the time the deed is signed. A sale can close, but the buyer takes the house subject to whatever rights the occupant can prove.</p><p>The deed must be acknowledged before a notarial officer and recorded with the county clerk. Under W.S. 34-1-142, the buyer or the buyer's agent must also submit a sworn statement disclosing the price and terms, which county officials keep confidential.</p><p>An unresolved occupant can make a traditional buyer hesitate. A buyer who purchases as-is for cash may be willing to take on the occupancy question and price it in, but expect a lower figure than for a vacant, clear-title house. Whatever route you choose, tell the buyer and the title company what you know.</p><p>If you want a straight answer about your situation, a Wyoming real estate attorney can review the deed, the history of the occupant and any recorded documents before you decide.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "How long does adverse possession take in Wyoming?",
-      "a": "Ten years. W.S. 1-3-103 sets a ten-year limit for actions to recover land, and the Wyoming Supreme Court requires all the elements of adverse possession to be established over that period."
-    },
-    {
-      "q": "Does permission stop an adverse possession claim in Wyoming?",
-      "a": "Yes, if the owner shows the use was permissive. In Tuckness v. Town of Meeteetse, the court found the use was not hostile and the claim failed."
-    },
-    {
-      "q": "How much notice must I give before filing for eviction of an occupant in Wyoming?",
-      "a": "At least three days. W.S. 1-21-1003 requires notice to leave the premises before a forcible entry and detainer action starts."
-    },
-    {
-      "q": "Can I remove a squatter myself?",
-      "a": "No. The Wyoming Judicial Branch says only the sheriff can physically remove an occupant after a court grants a writ of restitution."
-    },
-    {
-      "q": "Is criminal trespass a felony in Wyoming?",
-      "a": "No. W.S. 6-3-303 makes it a misdemeanor with up to six months in jail, a fine up to $750, or both."
-    }
-  ],
-  "sources": [
-    {"title": "W.S. 1-3-103 Recovery of real property (Justia)", "url": "https://law.justia.com/codes/wyoming/2022/title-1/chapter-3/section-1-3-103/"},
-    {"title": "Tuckness v. Town of Meeteetse, Wyoming Supreme Court (2024)", "url": "https://law.justia.com/cases/wyoming/supreme-court/2024/s-23-0261.html"},
-    {"title": "Osuch v. Gunnels, Wyoming Supreme Court (2017)", "url": "https://hallapproved.com/wy/cases/supreme/2017/4389601/"},
-    {"title": "W.S. 1-21-1002 Forcible entry and detainer (Justia)", "url": "https://law.justia.com/codes/wyoming/2022/title-1/chapter-21/article-10/section-1-21-1002/"},
-    {"title": "W.S. 1-21-1003 Notice to quit (Justia)", "url": "https://law.justia.com/codes/wyoming/2022/title-1/chapter-21/article-10/section-1-21-1003/"},
-    {"title": "Wyoming Judicial Branch: Evictions", "url": "https://www.wyocourts.gov/legal-help-by-topic/evictions/"},
-    {"title": "Wyoming Judicial Branch: FED 03 Instructions for Notice to Quit", "url": "https://www.wyocourts.gov/app/uploads/2025/03/FED-03-Instructions-for-Notice-to-Quit-and-Aff-of-Serv-09-24.pdf"},
-    {"title": "W.S. 6-3-303 Criminal trespass", "url": "https://syfert.com/wyoming/sections/6-3-303.html"},
-    {"title": "W.S. 1-32-201 Action to quiet title (wyoleg.gov)", "url": "https://wyoleg.gov/statutes/compress/title01.pdf?section=1-32-201"},
-    {"title": "W.S. 34-1-112 (wyoleg.gov)", "url": "https://wyoleg.gov/statutes/compress/title34.pdf?section=34-1-112"},
-    {"title": "W.S. 34-1-142 (Justia)", "url": "https://law.justia.com/codes/wyoming/2022/title-34/chapter-1/article-1/section-34-1-142/"}
-  ]
+ "slug": "wyoming-squatters-rights-adverse-possession",
+ "sections": [
+  {
+   "h2": "Do squatters have rights in Wyoming?",
+   "html": "<p>Wyoming statutes never use the phrase squatters rights. Still, someone who occupies land long enough can claim title through adverse possession. The route is narrow: it takes ten years, and the occupant must prove each element.</p>\n<p>The ten years come from W.S. 1-3-103, which limits an action to recover title or possession of land to ten years after the cause of action accrues. An owner who lets that window close while another person openly treats the land as their own can lose the right to get it back.</p>\n<p>A short stay creates no ownership. A person who moved into a vacant house last winter has no title claim. The real exposure comes from long neglect, such as an inherited house nobody visits, a boundary strip nobody has checked, or a rural parcel with an old fence in the wrong place.</p>"
+  },
+  {
+   "h2": "What a claimant must prove",
+   "html": "<p>Wyoming courts require actual, open, notorious, exclusive and continuous possession that is hostile and held under a claim of right or color of title for the full ten years. Osuch v. Gunnels (2017) and Tuckness v. Town of Meeteetse (2024) both repeat that formula.</p>\n<ul>\n<li>Actual: the person physically uses the property rather than merely saying they own it.</li>\n<li>Open and notorious: the use is visible enough that a prudent owner would see that title is at risk.</li>\n<li>Exclusive and continuous: the person keeps others out and does not abandon the land.</li>\n<li>Hostile: the person asserts ownership against the record owner, and use with the owner's permission does not count.</li>\n</ul>\n<p>Osuch adds that the possession must be incompatible with the true owner's rights. Once the elements are met, the possessor holds a new title that can be divested only by conveyance, descent or operation of law. That is why an old claim can matter even when nobody ever filed it in court.</p>"
+  },
+  {
+   "h2": "How the Tuckness case turned on permission",
+   "html": "<p>The neighbor in Tuckness lost because the court found his use was not hostile. He began storing personal property on an adjoining lot in 1999 without permission and kept at it until 2013, which looks like more than ten years at first glance.</p>\n<p>The owner who bought the lot in 2003 testified that he gave permission between 2005 and 2007 and never took it back. The neighbor denied it. The district court found both men equally credible and called the evidence evenly balanced, so the claimant failed. The Supreme Court affirmed, noting that when evidence is in equipoise the party carrying the burden of proof loses.</p>\n<p>The case shows how the burdens work. The record title holder starts ahead. If the claimant makes a prima facie showing on each element, the owner then has to prove the use was permissive. The claimant still carries the final burden by a preponderance of the evidence.</p>"
+  },
+  {
+   "h2": "Wyoming statutes owners run into",
+   "html": "<p>A handful of short statutes frame most of these disputes.</p>\n<table><thead><tr><th>Statute</th><th>What it covers</th></tr></thead><tbody>\n<tr><td>W.S. 1-3-103</td><td>Action to recover title or possession of land must be brought within 10 years</td></tr>\n<tr><td>W.S. 1-21-1002(a)(v)</td><td>Forcible entry and detainer lies against a settler or occupier without color of title</td></tr>\n<tr><td>W.S. 1-21-1003</td><td>Adverse party must be notified to leave at least 3 days before the action</td></tr>\n<tr><td>W.S. 6-3-303</td><td>Criminal trespass: misdemeanor, up to 6 months, fine up to $750</td></tr>\n<tr><td>W.S. 1-32-201</td><td>Quiet title action by a person in possession against an adverse claimant</td></tr>\n<tr><td>W.S. 34-1-112</td><td>Conveyance not void because someone else is in adverse possession</td></tr>\n</tbody></table>\n<p>Statutes get amended, so a lawyer should confirm the current wording before you act.</p>"
+  },
+  {
+   "h2": "How an owner removes someone who has no right to be there",
+   "html": "<p>Removal goes through the courts, never through changing the locks. Forcible entry and detainer under W.S. 1-21-1002(a)(v) reaches a defendant who is a settler or occupier of land without color of title, where the owner has the right of possession.</p>\n<p>The Wyoming Judicial Branch outlines eviction in three steps: a notice to quit, a court summons, and a writ of restitution. W.S. 1-21-1003 requires notice to leave at least three days before the action starts. The notice can be handed to the person or left at their usual home or business if they cannot be found.</p>\n<ul>\n<li>Whoever serves the notice must be at least 18, and each adult you want out should get a separate copy.</li>\n<li>Photograph the spot where you left the notice, then sign an affidavit of service before a notary.</li>\n<li>If the person stays, file a complaint in circuit court.</li>\n<li>The court sets trial 3 to 12 days after the summons is served.</li>\n<li>If you win, a writ of restitution sets the move-out time, anywhere from 0 to 30 days. Only the sheriff can remove the occupant.</li>\n</ul>\n<p>A landlord cannot lock a tenant out after the notice and has to use the court. Talk to a Wyoming attorney before any self-help step against an occupant.</p>"
+  },
+  {
+   "h2": "When trespass law applies instead",
+   "html": "<p>Criminal trespass covers a person who enters or stays on land knowing they have no authority, or who remains after being told to leave. Under W.S. 6-3-303, notice can come from the owner, an occupant, an agent or a peace officer speaking directly to the person, or from posted signs an intruder is likely to see.</p>\n<p>It is a misdemeanor carrying up to six months in jail, a fine of up to $750, or both. The statute leaves W.S. 1-21-1003, the notice rule for forcible entry and detainer, untouched.</p>\n<p>Records help with a vacant property. Posted signs, dated photos and a written note of every direct warning make it easier to prove notice later.</p>"
+  },
+  {
+   "h2": "What if the occupant claims part of the property?",
+   "html": "<p>A quiet title action is the tool for challenging an occupant's claimed interest. W.S. 1-32-201 lets a person in possession of real property sue anyone claiming an adverse estate or interest, so a court can decide that interest. Possession can be personal or through a tenant.</p>\n<p>That means an owner in possession, directly or through a tenant, can ask a court to settle a boundary or ownership claim.</p>\n<p>Quiet title is a civil lawsuit with its own pleading and proof rules. A Wyoming attorney can tell you whether filing makes sense and how the ten-year clock under W.S. 1-3-103 applies to your facts.</p>"
+  },
+  {
+   "h2": "Selling a Wyoming house while someone occupies it",
+   "html": "<p>You can. Under W.S. 34-1-112, a grant or conveyance of land is not void just because another person actually possesses the land and claims it adversely when the deed is signed. The sale can close, but the buyer takes the house subject to whatever rights the occupant can prove.</p>\n<p>The deed has to be acknowledged before a notarial officer and recorded with the county clerk. Under W.S. 34-1-142, the buyer or the buyer's agent also submits a sworn statement of price and terms, which county officials keep confidential.</p>\n<p>An unresolved occupant can scare off a traditional buyer. A cash buyer purchasing as-is may be willing to take on the occupancy question and price it in, though the offer will likely come in below what a vacant, clear-title house would bring. Whichever route you pick, tell the buyer and the title company what you know.</p>\n<p>Before deciding, gather the deed, any recorded documents and a short history of the occupant, and have a Wyoming real estate attorney review them. That review also tells you whether to settle the claim first or sell around it.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does adverse possession take in Wyoming?",
+   "a": "Ten years. W.S. 1-3-103 sets a ten-year limit for actions to recover land, and the Wyoming Supreme Court requires every element of adverse possession to be shown over that period."
+  },
+  {
+   "q": "Does permission stop an adverse possession claim in Wyoming?",
+   "a": "Yes, if the owner shows the use was permissive. In Tuckness v. Town of Meeteetse, the court found the use was not hostile and the claim failed."
+  },
+  {
+   "q": "How much notice must I give before filing for eviction of an occupant in Wyoming?",
+   "a": "At least three days. W.S. 1-21-1003 requires notice to leave before a forcible entry and detainer action begins."
+  },
+  {
+   "q": "Can I remove a squatter myself?",
+   "a": "No. Only the sheriff can physically remove an occupant, and only after a court grants a writ of restitution."
+  },
+  {
+   "q": "Is criminal trespass a felony in Wyoming?",
+   "a": "No. W.S. 6-3-303 makes it a misdemeanor with up to six months in jail, a fine up to $750, or both."
+  }
+ ],
+ "sources": [
+  {
+   "title": "W.S. 1-3-103 Recovery of real property (Justia)",
+   "url": "https://law.justia.com/codes/wyoming/2022/title-1/chapter-3/section-1-3-103/"
+  },
+  {
+   "title": "Tuckness v. Town of Meeteetse, Wyoming Supreme Court (2024)",
+   "url": "https://law.justia.com/cases/wyoming/supreme-court/2024/s-23-0261.html"
+  },
+  {
+   "title": "Osuch v. Gunnels, Wyoming Supreme Court (2017)",
+   "url": "https://hallapproved.com/wy/cases/supreme/2017/4389601/"
+  },
+  {
+   "title": "W.S. 1-21-1002 Forcible entry and detainer (Justia)",
+   "url": "https://law.justia.com/codes/wyoming/2022/title-1/chapter-21/article-10/section-1-21-1002/"
+  },
+  {
+   "title": "W.S. 1-21-1003 Notice to quit (Justia)",
+   "url": "https://law.justia.com/codes/wyoming/2022/title-1/chapter-21/article-10/section-1-21-1003/"
+  },
+  {
+   "title": "Wyoming Judicial Branch: Evictions",
+   "url": "https://www.wyocourts.gov/legal-help-by-topic/evictions/"
+  },
+  {
+   "title": "Wyoming Judicial Branch: FED 03 Instructions for Notice to Quit",
+   "url": "https://www.wyocourts.gov/app/uploads/2025/03/FED-03-Instructions-for-Notice-to-Quit-and-Aff-of-Serv-09-24.pdf"
+  },
+  {
+   "title": "W.S. 6-3-303 Criminal trespass",
+   "url": "https://syfert.com/wyoming/sections/6-3-303.html"
+  },
+  {
+   "title": "W.S. 1-32-201 Action to quiet title (wyoleg.gov)",
+   "url": "https://wyoleg.gov/statutes/compress/title01.pdf?section=1-32-201"
+  },
+  {
+   "title": "W.S. 34-1-112 (wyoleg.gov)",
+   "url": "https://wyoleg.gov/statutes/compress/title34.pdf?section=34-1-112"
+  },
+  {
+   "title": "W.S. 34-1-142 (Justia)",
+   "url": "https://law.justia.com/codes/wyoming/2022/title-34/chapter-1/article-1/section-34-1-142/"
+  }
+ ]
 }
