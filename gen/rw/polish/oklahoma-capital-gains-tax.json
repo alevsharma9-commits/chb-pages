@@ -1,0 +1,89 @@
+{
+ "slug": "oklahoma-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Oklahoma tax the profit from selling a house?",
+   "html": "<p>Yes, though not through a separate capital gains tax. Oklahoma has none. Profit from a house sale is added to your federal adjusted gross income and taxed on your Oklahoma income tax return, and a deduction can remove some of it for long-held Oklahoma property.</p><p>Federal rules come first, because they decide how much of your gain is taxable at all. Someone who owned and lived in the home for years may owe little or nothing at either level. A landlord selling a rental after a few years can land at the opposite result.</p><p>The order of operations is the federal exclusion, then the Oklahoma deduction, then the small transfer tax stamped on the deed. A tax preparer who can see your closing statement and purchase records can give the answer that fits you.</p>"
+  },
+  {
+   "h2": "The Oklahoma capital gain deduction for real property",
+   "html": "<p>The deduction takes qualifying gain out of Oklahoma taxable income when the property is real property in Oklahoma that you owned for at least five uninterrupted years before the sale. Oklahoma Tax Commission Form 561 covers it and cites 68 O.S. Section 2358 and Rule 710:50-15-48.</p><p>File Form 561 with the resident return, Form 511. The result of line 10 carries to Schedule 511-A, line 12. These details from the 2025 version of the form are worth knowing before you sell:</p><ul><li>Real property sold is entered with property type code 3, along with the Oklahoma address, the date acquired, the date sold, the sale price and your basis.</li><li>The deduction cannot exceed the Oklahoma net capital gain actually included in your federal adjusted gross income.</li><li>If you inherited the property and your federal paperwork shows &quot;INHERITED&quot; as the date acquired, the Oklahoma form asks for the real acquisition date instead.</li><li>Gain taken in installments qualifies if the holding period was met on the date of sale, and a copy of federal Form 6252 goes with the return.</li><li>A capital loss carryover from qualifying property reduces the current year's qualifying gain.</li></ul><p>Take &quot;uninterrupted&quot; literally. Four years and ten months of ownership does not qualify. Count from the day you took title.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>You can leave out up to $250,000 of gain on your main home, or up to $500,000 on a joint return. IRS Topic 701 states the rule, and Publication 523 has the worksheets.</p><p>Two tests must both be met within the five years ending on the sale date: you owned the home for at least 24 months and you used it as your residence for at least 24 months. The two periods need not be the same 24 months. On a joint return, either spouse can satisfy the ownership test, but both must satisfy the use test.</p><ul><li>You generally cannot claim the exclusion if you excluded gain on another home sale in the two years before this one.</li><li>If you receive Form 1099-S, you report the sale even when all of the gain is excludable.</li><li>If you cannot exclude all of the gain, you also report the sale using Schedule D and Form 8949.</li><li>Members of the uniformed services, the Foreign Service or the intelligence community on qualified extended duty can elect to suspend the five-year test period for up to 10 years.</li></ul><p>Whatever the federal exclusion removes never reaches your federal adjusted gross income, so Oklahoma has nothing left to tax there. The Oklahoma deduction only matters for the portion of gain that stays in.</p>"
+  },
+  {
+   "h2": "Federal rates on gain that is not excluded",
+   "html": "<p>A house held more than one year produces long-term gain, and most long-term gain is taxed at rates no higher than 15 percent for most individuals. The rates are 0, 15 and 20 percent, depending on taxable income.</p><p>For the 2025 tax year, the 0 percent rate applied at taxable income up to $48,350 for single filers and $96,700 for married couples filing jointly. Single filers paid 15 percent on income above $48,350 up to $533,400. These thresholds shift every year, so look up the current IRS table for the year you sell.</p><p>Two more points matter to house sellers. Gain on a house held one year or less is short-term and taxed as ordinary income. And the slice of gain that comes from depreciation on a rental, called unrecaptured section 1250 gain, is taxed at a maximum 25 percent rate. People with significant investment income may also owe the net investment income tax described in Topic 559.</p>"
+  },
+  {
+   "h2": "Selling an inherited house",
+   "html": "<p>An heir generally takes a basis equal to the home's fair market value on the date of death, which often shrinks the taxable gain a great deal. Publication 551 states this rule and allows the estate's personal representative to elect an alternate valuation date.</p><p>One exception: if you or your spouse gave the property to the person who died within one year before the death, the basis is the decedent's adjusted basis instead of market value.</p><p>Oklahoma adds some comfort on title. Under 68 O.S. Section 804.1, no estate tax lien attaches to property for deaths on or after January 1, 2010, and no court order is needed to make the title marketable. Our <a href=\"/oklahoma-estate-tax/\">Oklahoma estate and inheritance tax</a> guide has the details. Keep the date-of-death appraisal or the estate inventory with your sale papers, since your tax preparer will start from that number.</p>"
+  },
+  {
+   "h2": "Documentary stamp tax on an Oklahoma deed",
+   "html": "<p>Oklahoma charges a documentary stamp tax of 75 cents for each $500 of consideration, or any fraction of $500, under 68 O.S. Section 3201. It applies when the consideration, not counting any lien or encumbrance that stays on the property, is more than $100.</p><p>The tax attaches when the deed is executed and delivered to the buyer. It is a transfer charge, separate from income tax on your gain, and it does not change with how long you owned the house.</p>"
+  },
+  {
+   "h2": "Quick reference for Oklahoma home sale tax rules",
+   "html": "<table><caption>Home sale tax rules at a glance</caption><thead><tr><th>Topic</th><th>Rule that applies</th></tr></thead><tbody><tr><td>Oklahoma deduction holding period, real property</td><td>At least 5 uninterrupted years</td></tr><tr><td>Form for the Oklahoma deduction</td><td>Form 561, filed with Form 511</td></tr><tr><td>Federal exclusion, single filer</td><td>Up to $250,000 of gain</td></tr><tr><td>Federal exclusion, joint return</td><td>Up to $500,000 of gain</td></tr><tr><td>Ownership and use tests</td><td>24 months each within the last 5 years</td></tr><tr><td>Basis of inherited property</td><td>Generally fair market value at date of death</td></tr><tr><td>Deed documentary stamp</td><td>$0.75 per $500 of consideration</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Landlords and sellers of rentals",
+   "html": "<p>A rental owner often cannot use the federal home exclusion, because the 24-month use test applies to a main home. A house that was your residence for two of the last five years and a rental for the rest may qualify in part, and Publication 523 explains the split.</p><p>Depreciation you took, or were allowed to take, on a rental comes back as unrecaptured section 1250 gain, taxed up to 25 percent. The Oklahoma five-year deduction can still apply to the Oklahoma real property gain once the holding period is met, since the Oklahoma rule looks at ownership time and not at residence.</p><p>A landlord with a tenant in place who wants a quick exit may want to read our <a href=\"/oklahoma-eviction-notice/\">Oklahoma eviction notice</a> page. A sale tangled up in a tenant dispute can delay the closing date that sets the tax year.</p>"
+  },
+  {
+   "h2": "What to gather before you sell",
+   "html": "<p>Pull these records before you accept an offer, since they decide the size of the gain and the year it lands in.</p><ul><li>The settlement statement from your purchase, showing the price and closing costs.</li><li>Receipts for improvements such as a new roof, an addition or a kitchen remodel, which can raise basis.</li><li>The date you took title and any dates you moved in or out, for the ownership and use tests.</li><li>For inherited homes, the date-of-death value from an appraisal or an estate inventory.</li><li>Depreciation schedules from past returns if the house was ever a rental.</li><li>Your expected closing date, since the sale counts in the tax year of closing.</li></ul><p>A cash sale leaves these rules unchanged. The gain is still the amount realized minus your adjusted basis, and a clean, fast closing simply lets you know your numbers early.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Oklahoma have a capital gains tax?",
+   "a": "Not a separate one. Gain from a house sale is part of the income taxed on Form 511, and a deduction on Form 561 can remove qualifying gain on Oklahoma real property owned at least five uninterrupted years."
+  },
+  {
+   "q": "How long must I own a house to use the Oklahoma deduction?",
+   "a": "You must have owned the Oklahoma real property for at least five uninterrupted years before the sale date. Form 561 and 68 O.S. Section 2358 set that period."
+  },
+  {
+   "q": "Do I owe tax if I sell my main home for a profit?",
+   "a": "Possibly not. You can exclude up to $250,000 of gain, or $500,000 on a joint return, if you owned and lived in the home for at least 24 months of the last 5 years. Gain above those limits is taxable."
+  },
+  {
+   "q": "Is there a transfer tax when I sign the deed in Oklahoma?",
+   "a": "Yes. The documentary stamp tax is 75 cents for each $500 of consideration under 68 O.S. Section 3201, applied when consideration exceeds $100 excluding liens left on the property."
+  },
+  {
+   "q": "How is gain figured on an inherited house?",
+   "a": "Generally from the fair market value on the date of death, so selling soon after inheriting often leaves little gain. Keep the appraisal or inventory. A cash buyer does not change any of this."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IRS Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic no. 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "Oklahoma Tax Commission, 2025 Form 561 Oklahoma Capital Gain Deduction",
+   "url": "https://oklahoma.gov/content/dam/ok/en/tax/documents/forms/individuals/current/561.pdf"
+  },
+  {
+   "title": "68 O.S. 3201, Documentary stamp tax on deeds (Justia)",
+   "url": "https://law.justia.com/codes/oklahoma/title-68/section-68-3201/"
+  },
+  {
+   "title": "68 O.S. 804.1, Estate tax lien (Justia)",
+   "url": "https://law.justia.com/codes/oklahoma/title-68/section-68-804-1/"
+  }
+ ]
+}

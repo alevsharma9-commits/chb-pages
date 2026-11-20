@@ -1,0 +1,81 @@
+{
+ "slug": "oregon-quitclaim-deed",
+ "sections": [
+  {
+   "h2": "What a quitclaim deed transfers in Oregon",
+   "html": "<p>It transfers whatever interest the grantor has on the date of the deed, and nothing more. <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors093.html\">ORS 93.865</a> gives a short statutory form in which the grantor \"releases and quitclaims\" all right, title and interest in the described property.</p>\n<p>Legal and equitable interests both pass, title the grantor acquires later does not pass, and the deed does not work as an estoppel. A grantee does not lose good faith purchaser status just because the title came by quitclaim.</p>\n<p>Oregon has two other statutory deed forms, and comparing them shows where a quitclaim fits.</p>\n<table>\n<caption>Oregon's three statutory deed forms</caption>\n<thead><tr><th>Deed</th><th>What the grantor promises</th></tr></thead>\n<tbody>\n<tr><td>Warranty deed (ORS 93.850)</td><td>Grantor is seized of the estate, the property is free of encumbrances except as stated, and the grantor will defend title against lawful claims. After-acquired title passes.</td></tr>\n<tr><td>Special warranty deed (ORS 93.855)</td><td>Same effect, but the encumbrance promise covers only what the grantor created or allowed, and the warranty covers claims by, through or under the grantor.</td></tr>\n<tr><td>Quitclaim deed (ORS 93.865)</td><td>No covenants. Conveys the grantor's interest on the deed date, whatever it is.</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "When a quitclaim deed makes sense",
+   "html": "<p>It works best between people who already know the title history, such as spouses, parents and children, or co-owners sorting out who holds what. The grantor makes no covenants, so the grantee relies on the grantor's actual interest and nothing else.</p>\n<p>Common uses include:</p>\n<ul>\n<li>Adding or removing a spouse or family member from a deed</li>\n<li>Moving a house into or out of a family trust</li>\n<li>Clearing a possible claim from someone who may have had an interest</li>\n<li>Splitting up co-owned property after a separation</li>\n</ul>\n<p>A federal statute helps with some of these transfers. Under <a href=\"https://www.law.cornell.edu/uscode/text/12/1701j-3\">12 U.S.C. 1701j-3(d)</a>, a lender may not enforce a due-on-sale clause on a home of fewer than five units for transfers such as one to a spouse or children, one to a relative after the borrower dies, one under a divorce decree, or one into a living trust where the borrower stays a beneficiary and keeps occupancy. That law covers the lender's clause only, so read the other loan terms separately.</p>"
+  },
+  {
+   "h2": "What the deed must include before the county records it",
+   "html": "<p>Four items come up most often, and one of them can block recording. The consideration statement in ORS 93.030 has to appear on the face of an instrument that conveys fee title, and a county recording officer may not accept the instrument for recording without it.</p>\n<ul>\n<li><strong>Consideration.</strong> The true and actual consideration paid, written on the deed (ORS 93.030).</li>\n<li><strong>Mandatory notice.</strong> The all-caps statement in ORS 93.040(1) telling the person transferring title to inquire about their rights, and stating that the instrument does not allow use of the property in violation of land use laws. An omission leads to an action only if the buyer would not have accepted the deed without it.</li>\n<li><strong>Tax statement address.</strong> The line beginning \"Until a change is requested, all tax statements shall be sent to the following address\" (ORS 93.260). Leaving it out does not invalidate the conveyance.</li>\n<li><strong>Legal description.</strong> ORS 93.600 allows a subdivision, lot and block, plat parcel, metes and bounds, or a book and page reference. A tax lot number alone is not adequate.</li>\n</ul>\n<p>Deeds also have to be signed by the grantors and acknowledged before a judge, justice of the peace or notary within the state (ORS 93.410). No seal is required. Any restriction that bars use or sale based on race, religion or similar characteristics is void under ORS 93.270.</p>"
+  },
+  {
+   "h2": "Recording rules and fees",
+   "html": "<p>The county clerk records deeds and mortgages affecting real property under ORS 205.130, and the fees are set in statute. The base fee under <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors205.html\">ORS 205.320</a> is $5 for each page, with a $5 minimum, and a page is one side of a sheet no larger than 14 by 8.5 inches.</p>\n<p>Three more charges come on top of that under ORS 205.323: $1 for the Oregon Land Information System, $10 split among the county, the clerk and the assessment and taxation fund, and $60 to the assessment and taxation fund. Some filings, such as satisfactions of judgment, are exempt.</p>\n<p>Format rules also apply: 10-point type or larger (ORS 205.232), and paper no larger than 14 inches by 8 1/2 inches. The first page needs the transaction names, party names and a delivery contact, plus the consideration and tax statement information for fee conveyances (ORS 205.234). If first-page items are missing, a cover sheet can be attached and recorded with the instrument. The clerk notes the day, hour and minute of recording (ORS 205.180) and then returns the instrument to the person who recorded it or is authorized to receive it.</p>"
+  },
+  {
+   "h2": "Why recording order matters",
+   "html": "<p>An unrecorded deed can lose to a later buyer. <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors093.html\">ORS 93.640</a> makes an unrecorded conveyance void against a later good faith purchaser for value whose instrument is recorded first.</p>\n<p>If a family keeps a signed quitclaim in a drawer, a second deed from the same grantor can end up ahead of it in line. ORS 93.620 treats an instrument as recorded at the time the clerk certifies, and the county clerk keeps indexes listing the names of all parties (ORS 93.630).</p>\n<p>A memorandum can be recorded in place of the full instrument. It must state the date, the parties, a legal description and the nature of the interest, and be signed and acknowledged. A memorandum of a fee conveyance must also state the consideration.</p>"
+  },
+  {
+   "h2": "Is there a transfer tax on a deed?",
+   "html": "<p>Oregon bars new real estate transfer taxes. Voters approved Measure 79 on November 6, 2012, by 58.89 percent to 41.11 percent. The amendment prohibits the state and local governments from taxing, charging or assessing the transfer of an interest in real property, or measuring a charge by the price paid.</p>\n<p>It exempted any tax, fee or assessment already in effect and operative on December 31, 2009. Still budget for recording charges, any title or escrow charges, and the county fees above. Those apply to a family quitclaim the same way they apply to any other deed.</p>"
+  },
+  {
+   "h2": "Co-owners named on one deed",
+   "html": "<p>A deed to two or more people creates a tenancy in common unless it clearly says the owners have a right of survivorship. A deed to spouses married to each other creates a tenancy by the entirety unless it says otherwise. Under ORS 93.180 and 93.190, joint tenancy is abolished except for conveyances to trustees or personal representatives.</p>\n<p>This matters for quitclaims between family members. A quitclaim to a spouse and a child without careful wording leaves a tenancy in common, and each owner's share can pass to that owner's own heirs. When the house is later sold, each co-owner's interest has to be conveyed.</p>\n<p>A quitclaim also cannot change how title passes at death. Under <a href=\"https://www.oregonlegislature.gov/bills_laws/ors/ors114.html\">ORS 114.215</a>, a decedent's title vests in the heirs or devisees, subject to administration and sale by the personal representative. A deed signed by one heir before probate conveys only that heir's interest.</p>"
+  },
+  {
+   "h2": "Mistakes that make a quitclaim useless for a sale",
+   "html": "<p>Most failures come from skipping a statutory step or expecting the deed to do more than the statute says.</p>\n<ul>\n<li>Leaving out the consideration statement, which keeps the clerk from recording it</li>\n<li>Describing the house by tax lot number alone</li>\n<li>Using paper or type that does not meet the recording size rules</li>\n<li>Forgetting to record, so a later recorded deed wins</li>\n<li>Assuming a quitclaim fixes defects or liens that existed before it, when it passes only the grantor's interest</li>\n<li>Signing for an estate asset without court authority</li>\n</ul>\n<p>A quitclaim can help in a cash sale when the seller needs to clean up a name on the title before closing. It cannot hand over title the grantor does not hold. If the title has gaps, ask the title company what it needs before the closing date is set.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does an Oregon quitclaim deed need to be notarized?",
+   "a": "Yes. ORS 93.410 requires deeds to be signed by the grantors and acknowledged before a judge, justice of the peace or notary public in the state. A seal is not required."
+  },
+  {
+   "q": "How much does it cost to record a deed in Oregon?",
+   "a": "The base fee is $5 per page with a $5 minimum, plus $1, $10 and $60 added by ORS 205.323. A county clerk's office can confirm the current total for your page count."
+  },
+  {
+   "q": "Is there an Oregon transfer tax on a quitclaim deed?",
+   "a": "Oregon does not allow new transfer taxes after Measure 79 passed in 2012, except for any that were already operating on December 31, 2009. Recording and other filing fees still apply."
+  },
+  {
+   "q": "Can a quitclaim deed remove someone from a mortgage?",
+   "a": "A quitclaim deed changes who holds title, because ORS 93.865 passes the grantor's interest. Whether anyone is released from the loan is a matter for the lender, so ask before you sign. Federal law on due-on-sale clauses, 12 U.S.C. 1701j-3(d), limits lender enforcement for certain family transfers."
+  },
+  {
+   "q": "What is the difference between a quitclaim and a warranty deed in Oregon?",
+   "a": "A warranty deed under ORS 93.850 carries promises about ownership, encumbrances and defending title, and passes later-acquired title. A quitclaim under ORS 93.865 carries none of those promises and passes only the grantor's interest on the date of the deed."
+  }
+ ],
+ "sources": [
+  {
+   "title": "ORS Chapter 93, Oregon Legislature",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors093.html"
+  },
+  {
+   "title": "ORS Chapter 205, Oregon Legislature",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors205.html"
+  },
+  {
+   "title": "ORS Chapter 114, Oregon Legislature",
+   "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors114.html"
+  },
+  {
+   "title": "Oregon Real Estate Transfer Tax Amendment (2012), Ballotpedia",
+   "url": "https://ballotpedia.org/Oregon_Real_Estate_Transfer_Tax_Amendment_(2012)"
+  },
+  {
+   "title": "12 U.S.C. 1701j-3, Cornell Legal Information Institute",
+   "url": "https://www.law.cornell.edu/uscode/text/12/1701j-3"
+  }
+ ]
+}

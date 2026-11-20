@@ -1,0 +1,101 @@
+{
+ "slug": "pennsylvania-quitclaim-deed",
+ "sections": [
+  {
+   "h2": "Transfer tax on a Pennsylvania quitclaim deed",
+   "html": "<p>Pennsylvania taxes a quitclaim deed like any other deed whenever real estate actually changes hands. The regulation at 61 Pa. Code 91.164 makes a quitclaim taxable on the same basis as another deed if there is an actual conveyance.</p><p>The state realty transfer tax is 1% of the value of the real estate, including contracted-for improvements, and it applies to deeds, instruments, long-term leases and other writings. Grantor and grantee are both liable, and the regulation lets them split the payment however they agree without limiting the Commonwealth's rights against either one.</p><p>County Recorders of Deeds collect the tax when a document is filed for recording. Many counties add a local realty transfer tax, and municipalities and school districts may share that local portion.</p>"
+  },
+  {
+   "h2": "What a quitclaim transfer costs locally",
+   "html": "<p>The total depends on the local rate where the property sits. Allegheny County shows how far the total can swing between two places.</p><table><caption>Realty transfer tax rates in two Allegheny County locations</caption><thead><tr><th>Location</th><th>State rate</th><th>Local rate</th><th>Total rate</th></tr></thead><tbody><tr><td>Shaler Township</td><td>1%</td><td>0.5% township and 0.5% school district</td><td>2%</td></tr><tr><td>City of Pittsburgh</td><td>1%</td><td>3% city and 1% school district</td><td>5%</td></tr></tbody></table><p>The county's combined rate runs from 2% to 5% of the consideration, with 1% going to the state. Ask the recorder of deeds in your own county for the local rates before you sign a deed.</p>"
+  },
+  {
+   "h2": "Quitclaim transfers excluded from the tax",
+   "html": "<p>Pennsylvania excludes a long list of transfers, and several show up in everyday quitclaims between relatives and in estate work. Transfers among certain family members and property passed by will or intestate succession are exempt.</p><p>Section 91.193 of the regulations gives the detail. Among the exclusions:</p><ul><li>Transfers between spouses, between a parent or grandparent and a child or grandchild, and between siblings.</li><li>A transfer between an individual and a sibling's spouse, unless the sibling has died and that spouse has remarried.</li><li>Transfers between former spouses when the property was acquired by either of them before or during the marriage.</li><li>A transfer for no or nominal consideration from a personal representative to an heir or devisee.</li><li>A deed in lieu of foreclosure to a mortgage holder on a bona fide mortgage in default.</li><li>Any transaction where the true value of the interest is $100 or less.</li></ul><p>Two limits apply. A new transfer by the recipient within one year is taxed as if the original grantor had made it to the final buyer, and a decedent's estate does not count as a family member for the family exclusion.</p>"
+  },
+  {
+   "h2": "Confirmatory and correctional deeds",
+   "html": "<p>A deed given without consideration only to confirm title under an earlier recorded document is not taxable, and that includes a deed that simply records a transfer by survivorship. Section 91.152 attaches three conditions.</p><ul><li>The grantee already holds record title under a prior deed.</li><li>The deed exists solely to make that record title secure.</li><li>The grantor either has no interest in the property or received it through a document that was void from the start.</li></ul><p>If a quitclaim moves ownership to a new person or entity, those conditions fail and the 1% applies. Section 91.193 also lists correctional deeds among the excluded transactions, and section 91.151 sets their conditions, so read it before relying on the exclusion.</p>"
+  },
+  {
+   "h2": "Do I need a statement of value with the deed?",
+   "html": "<p>Often yes. Anyone claiming an exclusion must show the true, full and complete value of the property on a statement of value, form REV-183. Two exceptions apply under 61 Pa. Code 91.194: familial transfers and public utility easements. For those, the statement can just explain why the document is not taxable.</p><p>Allegheny County requires a REV-183 when the deed lists no consideration or when certain exemptions are claimed. For a family transfer, the county accepts a statement on the deed, such as a note that it is a familial transfer exempt from realty transfer tax. Other counties set their own habits, so ask the recorder before the deed is signed.</p>"
+  },
+  {
+   "h2": "What a deed must include to be recorded",
+   "html": "<p>The recorder in each county screens deeds for form as well as tax. Allegheny County's guidelines show what a recorder looks for.</p><ul><li>A complete legal description naming the municipality, the county and state, plus a recorded lot number with plan book reference, a metes and bounds description, or a prior deed reference.</li><li>The parcel identification number on every deed.</li><li>Matching worded and numeric consideration on the deed.</li><li>A Certificate of Residence with typed tax-bill and owner mailing addresses, or the same information inside the deed.</li><li>A separate check for transfer tax and another for recording fees.</li></ul><p>The county rejects deeds with invalid mailing addresses, and an incorrect deed may need a corrective deed filed later. The recorder will answer recording questions but will not decide whether a deed is legally correct. That is a question for your attorney.</p>"
+  },
+  {
+   "h2": "Where the transfer tax money goes",
+   "html": "<p>The Commonwealth keeps the 1% state share, and the Recorders of Deeds remit it to the Department of Revenue. Most of it is deposited in the General Fund, and 15% of collections go to the Keystone Recreation, Park and Conservation Fund.</p><p>Local rates are separate from the state 1%. Allegheny County keeps a rate list by municipality and school district. Because the county collects state and local shares in one transaction, a single deed can send money to the Commonwealth, a municipality and a school district.</p>"
+  },
+  {
+   "h2": "Steps before you record a quitclaim",
+   "html": "<p>Plan the deed in a fixed order so the recorder accepts it the first time. Start with the legal description and parcel identification number from the prior deed. Decide whether a transfer tax exclusion applies, and if you claim one, prepare the REV-183 or the short familial statement. Fill in the Certificate of Residence with typed mailing addresses. Write out the consideration in words and in numbers, and make sure the two match. Bring two checks, one for transfer tax and one for recording fees.</p>"
+  },
+  {
+   "h2": "Using a quitclaim deed before selling a house",
+   "html": "<p>A quitclaim is one way to put record title in the name of the person who will sign the sale contract, and each such step is taxed under the rules above. Recorded deeds form the chain a buyer's closing agent will review, so a deed the recorder rejects can delay the closing date.</p><p>Family transfers before a sale need extra care. The exclusion for a parent and child holds only for the transfer itself, and the one-year look-through can bring a tax bill if the child resells quickly.</p><p>Before you sign, confirm three things with the county recorder and your attorney: whether an exclusion truly fits, which local rate applies, and what the recorder wants on the page.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does a quitclaim deed avoid Pennsylvania transfer tax?",
+   "a": "No. A quitclaim is taxed like any other deed when real estate actually changes hands. Only the listed exclusions, such as certain family transfers, remove the tax."
+  },
+  {
+   "q": "Is a transfer to my child taxed?",
+   "a": "Generally no. Transfers between a parent or grandparent and a child or grandchild are on the exclusion list. If the child sells the property within one year, that later sale is taxed as if the parent were selling."
+  },
+  {
+   "q": "Who pays the realty transfer tax?",
+   "a": "Grantor and grantee share legal responsibility for the 1% state tax. They may agree between themselves who pays, but the Commonwealth can pursue either one."
+  },
+  {
+   "q": "Do I always need a REV-183 statement of value?",
+   "a": "Not always. Familial transfers and public utility easements can use a short explanation instead of the full value. Most other exclusions require the true, full value on the form."
+  },
+  {
+   "q": "Where do I record a Pennsylvania deed?",
+   "a": "File it with the Recorder of Deeds in the county where the property sits. That office collects state and local transfer tax and the recording fee, usually as separate payments."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Pennsylvania Department of Revenue: Realty Transfer Tax",
+   "url": "https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/realty-transfer-tax"
+  },
+  {
+   "title": "61 Pa. Code 91.164, Quitclaim deeds",
+   "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/s91.164.html&d=reduce"
+  },
+  {
+   "title": "61 Pa. Code 91.111, Imposition of tax on documents",
+   "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/s91.111.html&d=reduce"
+  },
+  {
+   "title": "61 Pa. Code 91.193, Excluded transactions",
+   "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/s91.193.html&d=reduce"
+  },
+  {
+   "title": "61 Pa. Code 91.152, Confirmatory deed",
+   "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/s91.152.html&d=reduce"
+  },
+  {
+   "title": "61 Pa. Code 91.194, Statement of value",
+   "url": "https://www.pacodeandbulletin.gov/Display/pacode?file=/secure/pacode/data/061/chapter91/s91.194.html&d=reduce"
+  },
+  {
+   "title": "Allegheny County: Realty Transfer Taxes",
+   "url": "https://www.alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Realty-Transfer-Taxes"
+  },
+  {
+   "title": "Allegheny County: Deeds",
+   "url": "https://www.alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Recording-Documents/Deeds"
+  },
+  {
+   "title": "Allegheny County: Certificate of Residence",
+   "url": "https://www.alleghenycounty.us/Services/Property-Assessments-and-Real-Estate/Recording-Documents/Certificate-of-Residence"
+  }
+ ]
+}
