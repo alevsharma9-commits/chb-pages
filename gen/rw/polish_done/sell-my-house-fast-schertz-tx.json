@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Your options for selling in Schertz",
-   "html": "<p>Sellers in Schertz generally pick from three routes: hire an agent, handle the sale yourself, or take a cash offer on the house exactly as it is. The state of the roof and systems, your deadline and your tolerance for a lower price do most of the deciding.</p><p>Schertz straddles the Bexar and Guadalupe line, and the city has since reached into Comal County. That means a single street can answer to more than one county office, so learn which county holds your parcel before any signature.</p><p>Collect written offers, and hold each against an agent's guess at your take-home after commission and fix up costs. The comparison shows what a quick close really costs you.</p>"
+   "html": "<p>Schertz sellers tend to choose among an agent, a sale handled on your own and a cash offer that takes the house exactly as it is. The state of the roof and systems, your deadline and your tolerance for a lower price do most of the deciding.</p><p>Schertz straddles the Bexar and Guadalupe line, and the city has since reached into Comal County. That means a single street can answer to more than one county office, so learn which county holds your parcel before any signature.</p><p>Gather written offers and set each beside an agent's estimate of your net after commission and fix up costs. That gap is the real price of closing fast.</p>"
   },
   {
    "h2": "A suburb that grew fast",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "Which county and school district serve you",
-   "html": "<p>Your tax statement answers that. Guadalupe County parcels go through the Guadalupe Appraisal District, whose member list includes the City of Schertz and Schertz-Cibolo-UC ISD. Parcels in Bexar or Comal County use those counties' districts.</p><p>Read the list of taxing units on the bill, since a buyer's agent will ask for it.</p><ul><li>Value, exemptions and protests: the appraisal district.</li><li>Bills and payments: the county tax office.</li><li>The city sets its own rate, and the school district appears as a separate line.</li></ul><p>For the rate on your own parcel, call the county tax office or the city. A neighbor's bill may not match.</p>"
+   "html": "<p>Your tax statement answers that. Guadalupe County parcels go through the Guadalupe Appraisal District, whose member list includes the City of Schertz and Schertz-Cibolo-UC ISD. Parcels in Bexar or Comal County use those counties' districts.</p><p>The bill lists the taxing units, and a buyer's agent will want that list, so read it first.</p><ul><li>Value, exemptions and protests: the appraisal district.</li><li>Bills and payments: the county tax office.</li><li>The city has its own rate, and the school district gets a line of its own.</li></ul><p>For the rate on your own parcel, call the county tax office or the city. A neighbor's bill may not match.</p>"
   },
   {
    "h2": "Permits and building rules",
@@ -19,11 +19,11 @@
   },
   {
    "h2": "Working with the Guadalupe Appraisal District",
-   "html": "<p>You will find a parcel search portal on the district's site, along with online filing for homestead, disabled veteran and surviving spouse exemptions. Paper forms are still offered at the offices. Its Appraisal Review Board hears appeals at the main office in Seguin, and a taxpayer liaison officer attends on hearing days. Reach the liaison at 830.303.3313 extension 309.</p><p>One mail warning applies. Since late December 2025, USPS postmarks in Texas show the date of automated processing instead of the day you drop an item off. A paper form with a deadline should go to a post office counter, where you can request a hand-stamped postmark.</p><p>Not sure who to call? Values, exemptions and protests belong to the district. Bills and payments belong to the tax office.</p>"
+   "html": "<p>You will find a parcel search portal on the district's site, along with online filing for homestead, disabled veteran and surviving spouse exemptions. Paper forms are still offered at the offices. Its Appraisal Review Board hears appeals at the main office in Seguin, and a taxpayer liaison officer attends on hearing days. Reach the liaison at 830.303.3313 extension 309.</p><p>One mail warning applies. Since late December 2025, USPS postmarks in Texas show the date of automated processing instead of the day you drop an item off. A paper form with a deadline should go to a post office counter, where you can request a hand-stamped postmark.</p><p>Not sure who to call? The district answers value, exemption and protest questions, while the tax office takes bills and payments.</p>"
   },
   {
    "h2": "Homestead tax breaks",
-   "html": "<p>Every January 1 fixes the property's value and starts that year's tax lien.</p><table><caption>Homestead relief that can apply to a Schertz house</caption><thead><tr><th>Benefit</th><th>Who qualifies</th><th>Amount</th></tr></thead><tbody><tr><td>School homestead exemption</td><td>Owner living in the home</td><td>$140,000</td></tr><tr><td>Extra school exemption</td><td>Age 65 or more, or disabled</td><td>$60,000</td></tr><tr><td>Appraisal cap</td><td>Homestead owner</td><td>10 percent a year</td></tr><tr><td>School tax ceiling</td><td>Age 65 or more, or disabled</td><td>Total annual school tax cannot rise</td></tr></tbody></table><p>Expect bills near October 1 and a payment deadline of January 31. Whatever is still owed at closing comes out of your proceeds, which is why you should request the county's payoff number early.</p>"
+   "html": "<p>Every January 1 fixes the property's value and starts that year's tax lien.</p><table><caption>Homestead relief that can apply to a Schertz house</caption><thead><tr><th>Benefit</th><th>Who qualifies</th><th>Amount</th></tr></thead><tbody><tr><td>School homestead exemption</td><td>Owner living in the home</td><td>$140,000</td></tr><tr><td>Extra school exemption</td><td>Age 65 or more, or disabled</td><td>$60,000</td></tr><tr><td>Appraisal cap</td><td>Homestead owner</td><td>10 percent a year</td></tr><tr><td>School tax ceiling</td><td>Age 65 or more, or disabled</td><td>Total annual school tax cannot rise</td></tr></tbody></table><p>Bills arrive near October 1, with January 31 as the deadline. Any balance left at closing is paid from your proceeds, so request the county's payoff number early.</p>"
   },
   {
    "h2": "Behind on the mortgage or the taxes",
@@ -38,16 +38,20 @@
    "html": "<p>Most Schertz sales settle the year's tax by days of ownership, though your contract has the final say. Suppose you close in the spring: the new bill will not exist until October 1, so the title company works from the prior figure and adjusts later if the parties agreed to. Read that clause before you sign. If you sell after the bill arrives and have not paid it, expect the whole amount to be withheld from your check until the county confirms the payoff. Keep a copy of the receipt when you do pay, and give your buyer the account number so they can find the parcel on the district portal.</p>"
   },
   {
+   "h2": "A note on parcels near the county line",
+   "html": "<p>If your lot is close to the line, call the Guadalupe Appraisal District or the other county's district and ask them to confirm the account number, then check that the legal description on your deed matches. A mismatch between the deed and the tax record is a common cause of closing delays. Neighbors who share a fence can still have different districts, and the title company will want the one that applies to you. Keep the confirmation email or a note of who you spoke to.</p>"
+  },
+  {
    "h2": "Selling with a tenant",
    "html": "<p>A rented house can be sold. Some buyers will keep the lease running, and otherwise you can end the tenancy first. Ending it means written notice, a justice court case and, after final judgment, a writ of possession.</p><p>If the tenant pays on time and keeps the place clean, rent can continue right up to closing. If rent has stopped, ask whether the buyer will deal with the removal after closing.</p>"
   },
   {
    "h2": "Deeds and inherited houses",
-   "html": "<p>A deed reaches the public record through the county clerk, after a notary or other authorized officer witnesses the signature. Since Schertz crosses county lines, double check the clerk before you go.</p><p>What happens to an inherited house depends on the estate.</p><ul><li>A will that went through probate leads to an executor's deed or a court order.</li><li>A muniment of title can pass a house when the estate owes only real estate liens.</li><li>An heirship affidavit is only a sworn statement filed with the clerk, and buyers or title companies may refuse to rely on it.</li></ul><p>Before listing, ask a title company which route applies.</p>"
+   "html": "<p>A deed reaches the public record through the county clerk, after a notary or other authorized officer witnesses the signature. Since Schertz crosses county lines, double check the clerk before you go.</p><p>An inherited house follows whatever route the estate allows.</p><ul><li>If a will went through probate, an executor's deed or court order follows.</li><li>When real estate liens are the estate's only debts, a muniment of title can transfer the house.</li><li>An heirship affidavit is only a sworn statement filed with the clerk, and buyers or title companies may refuse to rely on it.</li></ul><p>Before listing, ask a title company which route applies.</p>"
   },
   {
-   "h2": "From offer to closing",
-   "html": "<p>A cash deal moves in a handful of steps. First you accept an offer in writing. The title company then opens a file, searches the parcel for liens and open tax, and, because Schertz touches three counties, confirms which clerk will record the deed. Next comes a closing date, a signing in front of a notary and your proceeds, minus any tax balance. Carry a photo ID and the deed or estate papers, and ask to see the settlement statement a day early. Without a buyer's lender there is no appraisal and no loan approval to wait on, which is where most of the time savings come from.</p>"
+   "h2": "Offer to closing",
+   "html": "<p>Cash deals follow a short path. You accept in writing, and the title company opens a file, searches the parcel for liens and open tax, and, because Schertz touches three counties, confirms which clerk will record the deed. Next comes a closing date, a signing in front of a notary and your proceeds, minus any tax balance. Take photo ID and the deed or estate papers with you, and request the settlement statement a day before. With no lender on the buyer's side, nothing waits on an appraisal or loan approval, and that is where the time is saved.</p>"
   }
  ],
  "faqs": [
