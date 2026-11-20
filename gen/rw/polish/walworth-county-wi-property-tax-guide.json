@@ -2,15 +2,15 @@
  "slug": "walworth-county-wi-property-tax-guide",
  "sections": [
   {
-   "h2": "Who collects the tax",
+   "h2": "Who takes your payment",
    "html": "<p>Two kinds of treasurer share the job here. A local one, serving your town, village or city, takes the first payment. The county treasurer takes July payments and any late ones, from Room 103 of the Government Center, 100 W Walworth Street, Elkhorn, WI 53121. Phone 262-741-4251. Staff are at the counter from 8 am to 4:30 pm, Monday to Friday.</p><p>Bills are mailed by each municipality around mid-December. No bill by December 20? Phone the local treasurer. Not getting the mail does not excuse a late payment, and interest still accrues.</p>"
   },
   {
    "h2": "Due dates and where to pay",
-   "html": "<p>You can settle the whole bill at the local municipality by January 31, or divide it and send the second half to the county by July 31. If the total is below $100, it all falls due in January.</p><table><thead><tr><th>Situation</th><th>Deadline</th><th>Pay to</th></tr></thead><tbody><tr><td>Full payment</td><td>January 31</td><td>Local municipality</td></tr><tr><td>First installment</td><td>January 31</td><td>Local municipality</td></tr><tr><td>Second installment</td><td>July 31</td><td>Walworth County Treasurer</td></tr><tr><td>Tax bill under $100</td><td>January 31, all at once</td><td>Local municipality</td></tr><tr><td>Anything paid after February 1</td><td>As soon as possible</td><td>Walworth County Treasurer</td></tr></tbody></table><p>The county's <a href=\"https://co.walworth.wi.us/1293/Pay-Taxes\">Pay Taxes page</a> shows this schedule too. Miss the first installment and the entire unpaid balance becomes delinquent as of February 1. Wis. Stat. 74.11 allows a payment to arrive within five working days after January 31, yet planning around that grace period is risky.</p>"
+   "html": "<p>You can settle the whole bill at the local municipality by January 31, or divide it and send the second half to the county by July 31. If the total is below $100, it all falls due in January.</p><table><thead><tr><th>Situation</th><th>Deadline</th><th>Pay to</th></tr></thead><tbody><tr><td>Full payment</td><td>January 31</td><td>Local municipality</td></tr><tr><td>First installment</td><td>January 31</td><td>Local municipality</td></tr><tr><td>Second installment</td><td>July 31</td><td>Walworth County Treasurer</td></tr><tr><td>Tax bill under $100</td><td>January 31, all at once</td><td>Local municipality</td></tr><tr><td>Anything paid after February 1</td><td>As soon as possible</td><td>Walworth County Treasurer</td></tr></tbody></table><p>The county's <a href=\"https://co.walworth.wi.us/1293/Pay-Taxes\">Pay Taxes page</a> shows this schedule too. Skipping the January payment turns the whole unpaid balance delinquent on February 1. Wis. Stat. 74.11 allows a payment to arrive within five working days after January 31, yet planning around that grace period is risky.</p>"
   },
   {
-   "h2": "Ways to pay the county treasurer",
+   "h2": "Paying the county treasurer",
    "html": "<p>You can use the counter, the mail, a drop box or a website. Look for the drop box on the median at the west end of the north-side parking lot, close to the Elkhorn Police Station. The website, the county's Ascent Land Records portal, takes payments at any hour.</p><p>Convenience fees:</p><ul><li>Credit card: 2.29 percent per transaction, $2.00 minimum</li><li>Debit card: 1.5 percent per transaction, $2.00 minimum</li><li>E-check: $1.00 per transaction</li></ul><p>From December through January the county treasurer cannot process real estate payments, so every payment in that stretch goes to the municipality that holds the parcel. A mailed check should carry the bill stub or the parcel number. Add a stamped return envelope if you want a receipt, understanding that it counts only after the payment clears the bank. Need a duplicate bill? It costs $1: mail a stamped return envelope, the tax year and the tax key number to P.O. Box 1001, Elkhorn, WI 53121.</p>"
   },
   {
@@ -18,37 +18,41 @@
    "html": "<p>After February 1 an unpaid balance picks up 1 percent interest and a 0.5 percent penalty every month, with a partial month billed in full. The combined 1.5 percent monthly charge is paid to the county treasurer.</p><p>Two or more years of delinquency expose a parcel to foreclosure. The county uses an in rem tax foreclosure, overseen by its treasurer. <a href=\"https://docs.legis.wisconsin.gov/document/statutes/75.521\">Wis. Stat. 75.521</a> lets the treasurer file a list of liens with the circuit court two years after the tax certificate date. A person with an interest in a listed parcel may redeem by paying the sums listed, interest and the county's costs, or may file a verified answer within 30 days after the last redemption date in the published notice. With no redemption and no answer, the court enters a judgment that vests the property in the county.</p><p>Planning to sell while behind? Get a payoff figure from the treasurer early, because costs rise as the case advances. With that number in hand, your closing agent can pay the county from your proceeds.</p>"
   },
   {
-   "h2": "How do I challenge an assessment?",
+   "h2": "Challenging a Walworth County assessment",
    "html": "<p>Call your local assessor first. The county treasurer sends all valuation questions back to the municipality. When the assessor cannot resolve it, you go before your municipal board of review.</p><p><a href=\"https://docs.legis.wisconsin.gov/document/statutes/70.47\">Wis. Stat. 70.47</a> limits that board to one yearly session period, 45 days beginning on the fourth Monday of April. Its rules in brief:</p><ul><li>Give notice of your objection, in writing or by voice, no later than 48 hours before the opening meeting.</li><li>File the written objection inside the first two hours of that meeting.</li><li>Bring proof. The assessor's number is presumed right until you rebut it.</li></ul><p>The board cannot be skipped. An excessive assessment claim under <a href=\"https://docs.legis.wisconsin.gov/document/statutes/74.37\">Wis. Stat. 74.37</a> goes to the municipal clerk by January 31 of the year the tax is payable, and you must have used the board process and paid on time. The municipality gets 90 days to answer. A denial opens a 90-day period, counted from the notice, to sue in circuit court.</p>"
   },
   {
-   "h2": "Homeowner credits",
+   "h2": "State credits on the bill",
    "html": "<p>Walworth County bills may show two state credits. One is the lottery and gaming credit, for owners who lived in the home as their primary residence on January 1 of the levy year. The other is the First Dollar Credit, which covers state taxable parcels carrying a real property improvement, in effect since the 2008 tax bill.</p><p>Details for both are with the Wisconsin Department of Revenue. When a credit you expect is missing, the county treasurer or your local treasurer can tell you how to apply.</p>"
   },
   {
    "h2": "Selling in Walworth County",
    "html": "<p>The county lies against the Illinois line, and Elkhorn is the seat. It counted 106,478 residents and 53,146 housing units in 2020, with 20.3 percent of units vacant and 31.1 percent of occupied homes rented. Lake Geneva tourism feeds a busy second-home market.</p><p>Several municipalities straddle county lines. Burlington sits mostly in Racine County, Whitewater partly in Jefferson County, Genoa City partly in Kenosha County and Mukwonago mostly in Waukesha County. Check the county named on your tax bill before choosing which treasurer to phone.</p><p>Ahead of a cash closing, have the closing agent ask the treasurer for a current tax statement so any balance for the year is paid at the table. Also note which installments you have paid and to whom: the January payment went to the municipality, and the July payment goes to the county. Bring the bill stub and parcel number when you talk to either office, and ask the closing agent how the year's tax will be prorated between you and the buyer.</p>"
+  },
+  {
+   "h2": "A short to-do list before listing",
+   "html": "<p>First, find the parcel number, tax key number and municipality printed on the bill. Next, learn whether the first payment is already in. Then phone the local treasurer, or the county treasurer after the January window, and ask for the balance and any interest. If the parcel is behind, add the payoff to your list of closing costs. Last, give the closing agent the figures in writing so the settlement statement matches what the treasurer will actually accept. These steps take an afternoon and prevent surprises on closing day.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "When are Walworth County property taxes due?",
+   "q": "What are the two payment dates in Walworth County?",
    "a": "January 31 for the full tax or the first half, July 31 for the second half. A bill below $100 is due in full in January. The local municipality gets the first payment and the Walworth County Treasurer gets the second."
   },
   {
-   "q": "Where is the Walworth County Treasurer's office?",
+   "q": "How do I reach the Walworth County Treasurer?",
    "a": "Room 103 of the Government Center, 100 W Walworth Street, Elkhorn, WI 53121; phone 262-741-4251. Send mail to P.O. Box 1001, Elkhorn, WI 53121. The counter opens 8 am to 4:30 pm on weekdays."
   },
   {
-   "q": "How much interest is charged on late taxes?",
+   "q": "What does a late Walworth County payment cost?",
    "a": "Each month adds 1 percent interest and a 0.5 percent penalty, for 1.5 percent altogether. Counting begins February 1, and a part of a month is charged as a full month."
   },
   {
-   "q": "Can the county foreclose on unpaid property taxes?",
-   "a": "Yes, after two or more years of delinquency, through the in rem procedure. Anyone with an interest can redeem by paying the amount owed plus costs before the redemption date in the published notice."
+   "q": "Can Walworth County take a house over unpaid tax?",
+   "a": "Yes, after two or more years of delinquency, through the in rem procedure. Interested parties redeem by covering the amount owed and costs ahead of the redemption date in the published notice."
   },
   {
-   "q": "Who handles questions about my assessment?",
+   "q": "Who do I ask about a value I dispute?",
    "a": "Your local assessor, followed by the municipal board of review. Assessed values are not set or changed at the county treasurer's office."
   }
  ],
