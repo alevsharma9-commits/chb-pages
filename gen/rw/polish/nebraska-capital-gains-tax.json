@@ -1,0 +1,101 @@
+{
+ "slug": "nebraska-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Nebraska tax capital gains on a house?",
+   "html": "<p>Nebraska has no separate capital gains schedule. Individuals use one set of four bracket rates, and any gain from a house sale that is not excluded is taxed through those same brackets on your Nebraska return.</p><p>For tax year 2026 the top rate is 4.55%, down from 5.20% in 2025. Plenty of websites still quote the old number, so check the current one before you estimate.</p><p>Selling a Nebraska house involves two layers of income tax: federal rules decide how much of the gain is taxable, and the state brackets apply to whatever is left. The documentary stamp tax is a third charge, but it is a transfer fee and not an income tax, so it gets its own section below.</p>"
+  },
+  {
+   "h2": "Nebraska income tax brackets for 2026",
+   "html": "<p>For tax years beginning on or after January 1, 2026, Nebraska uses four brackets with rates of 2.46%, 3.51%, 4.55% and 4.55%. The Department of Revenue sets the limits by filing status.</p><table><thead><tr><th>Bracket</th><th>Rate (2026)</th><th>Single filers</th><th>Married filing jointly</th></tr></thead><tbody><tr><td>1</td><td>2.46%</td><td>$0 to $4,130</td><td>$0 to $8,250</td></tr><tr><td>2</td><td>3.51%</td><td>$4,130 to $24,760</td><td>$8,250 to $49,530</td></tr><tr><td>3</td><td>4.55%</td><td>$24,760 to $39,900</td><td>$49,530 to $79,800</td></tr><tr><td>4</td><td>4.55%</td><td>Over $39,900</td><td>Over $79,800</td></tr></tbody></table><p>The 2026 standard deduction is $8,850 for single filers and $17,700 for joint filers. In 2025 the third bracket was 5.01% and the top bracket 5.20%, so the year of the sale changes the schedule. The Department of Revenue's <a href=\"https://revenue.nebraska.gov/sites/default/files/doc/research/chronology/4-607table1.pdf\">tax rate chronology</a> has the full history for any earlier year.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>If the house was your main home, you may be able to leave up to $250,000 of gain out of federal income, or up to $500,000 on a joint return with your spouse. The IRS covers this in Topic 701 and Publication 523.</p><p>Two tests apply. For ownership, you must have owned the home at least 24 months in the five years before the sale. For use, you must have lived in it as your residence at least 24 months in those five years. The two 24-month periods do not have to be the same months.</p><ul><li>On a joint return, either spouse can meet the ownership test, but both must meet the use test.</li><li>You generally cannot claim the exclusion if you excluded gain on another home sale during the previous two years.</li><li>Military, Foreign Service and intelligence community members on qualified extended duty can elect to suspend the five-year period for up to 10 years.</li></ul><p>Only the gain above the exclusion reaches your return, and that is the amount both the federal and Nebraska rates apply to.</p>"
+  },
+  {
+   "h2": "Federal rates on gain above the exclusion",
+   "html": "<p>For most sellers who owned the house longer than one year, the federal rate on net capital gain is 0%, 15% or 20%, depending on taxable income. The IRS publishes thresholds in Topic 409 and adjusts them each year. For tax year 2025, the 0% rate applies up to $48,350 for single filers, $96,700 for married filing jointly and $64,750 for head of household. The 15% rate runs up to $533,400, $600,050 and $566,700 for those same three statuses, and income above that is taxed at 20%.</p><p>A gain on a house held one year or less is short-term and taxed as ordinary income. The part of a gain tied to depreciation you took on a rental can be taxed at up to 25%. People with significant investment income may also owe the net investment income tax, covered in IRS Topic 559.</p><p>A loss on a personal home cannot be deducted. If you sell for less than you paid, the loss on personal-use property is not claimable.</p>"
+  },
+  {
+   "h2": "Selling a Nebraska house from another state",
+   "html": "<p>A nonresident who sells Nebraska real estate files a Nebraska return for the gain. Nonresidents owe Nebraska income tax on Nebraska-source income, including income, gain, loss and deduction connected with owning or selling an interest in real property located in the state.</p><p>That catches several kinds of sellers:</p><ul><li>An owner who moved away and rented the house out before selling.</li><li>Heirs living out of state who inherit a Nebraska house and sell it.</li><li>A former resident who left Nebraska mid-year and sold the house in the same year, who may count as a part-year resident.</li></ul><p>Nonresidents file Form 1040N, and the state also has a Nonresident Income Tax Agreement form. If you fall into one of these groups, confirm your filing status with the Department of Revenue or a tax professional before closing. The gain can land in a year when you have no other Nebraska income.</p>"
+  },
+  {
+   "h2": "Inherited house: how the gain is figured",
+   "html": "<p>Gain equals the sale price minus your adjusted basis. For an inherited house, basis follows special rules and is not the price the decedent paid. The IRS points to Publication 551 for property received by gift or inheritance, and Topic 703 explains that improvements can raise basis.</p><p>Whether an heir has any gain at all depends on that basis figure. Keep proof of the house's value at the date of death: an appraisal, an estate inventory or a county assessment record can each support the number.</p><p>Inheritance tax is a different charge. It is separate from income tax and falls on the person receiving the property. Our <a href=\"/nebraska-estate-tax/\">Nebraska estate and inheritance tax guide</a> covers the classes and rates.</p>"
+  },
+  {
+   "h2": "Documentary stamp tax at closing",
+   "html": "<p>The seller, as grantor, pays the documentary stamp tax when the deed is recorded. The rate is $3.32 for each $1,000 of value or fraction of $1,000, and it applies to deeds recorded on or after July 18, 2026. Before that date it was $2.32. The county register of deeds collects it.</p><p>The register will not record the deed without a completed Real Estate Transfer Statement, Form 521, which the buyer or the buyer's agent files under Neb. Rev. Stat. 76-214. Some transfers are exempt:</p><ul><li>Deeds between spouses, or between parent and child, without actual consideration.</li><li>Deeds of distribution from a personal representative to heirs or devisees.</li><li>Transfer on death deeds.</li><li>Deeds given in lieu of foreclosure to secure or release a debt.</li></ul><p>An ordinary arm's-length sale is not on that list, so put the stamp tax in your closing numbers. Ask the title company for the figure before you sign.</p>"
+  },
+  {
+   "h2": "Reporting the sale to the IRS",
+   "html": "<p>If you receive a Form 1099-S, you must report the sale, even when the whole gain is excludable. You must also report it when you cannot exclude all of the gain. The IRS sends sellers to Form 8949 and Schedule D.</p><p>A taxable gain can call for estimated tax payments during the year, which Publication 505 explains. Sell in spring and wait until April of the next year to settle up, and you could face an underpayment problem, so ask your preparer about a payment before year end.</p><p>With an installment contract, where part of the price arrives in later years, you generally report under the installment method unless you elect out, and the home sale exclusion stays available.</p>"
+  },
+  {
+   "h2": "Checklist for Nebraska sellers",
+   "html": "<ul><li>Write down the purchase date, the purchase price and every improvement receipt you can find.</li><li>Count whether you lived in the house for 24 of the last 60 months.</li><li>Note the 2026 and 2025 Nebraska rate difference if you sell in a year that straddles the change.</li><li>Check whether any beneficiary or out-of-state owner needs a Nebraska return.</li><li>Add the $3.32 per $1,000 stamp tax to your closing estimate for deeds recorded on or after July 18, 2026.</li><li>Keep the 1099-S and the settlement statement together for your preparer.</li></ul><p>This page is general information and not tax advice. A Nebraska CPA or enrolled agent can run your actual numbers. If the house needs work and you would rather skip repairs, Cash Home Buyers can make an as-is cash offer, and you can plan the tax side before you accept.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Nebraska capital gains tax rate for 2026?",
+   "a": "Nebraska has no separate capital gains rate. Gain that is not excluded is taxed through the individual brackets, which for 2026 are 2.46%, 3.51%, 4.55% and 4.55%."
+  },
+  {
+   "q": "Do I owe Nebraska tax if I sell my main home?",
+   "a": "Only if gain remains after the federal exclusion of up to $250,000, or $500,000 on a joint return. Gain inside the exclusion is left out of income, but you still report the sale if you receive a Form 1099-S."
+  },
+  {
+   "q": "How long must I live in the house to use the exclusion?",
+   "a": "You need to have owned it and lived in it at least 24 months each within the five years before the sale. The two 24-month periods do not have to overlap exactly."
+  },
+  {
+   "q": "Does Nebraska tax a nonresident who sells a house in the state?",
+   "a": "Yes. Nonresidents pay Nebraska tax on income and gain connected with real property located in Nebraska, filed on Form 1040N."
+  },
+  {
+   "q": "Who pays the Nebraska documentary stamp tax?",
+   "a": "The grantor, meaning the seller, pays it when the deed is recorded with the register of deeds. The rate is $3.32 per $1,000 of value for deeds recorded on or after July 18, 2026."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Nebraska Tax Rate Chronologies, Table 1 (Nebraska Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/research/chronology/4-607table1.pdf"
+  },
+  {
+   "title": "Documentary Stamp Tax (Nebraska Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/PAD/documentary-stamp-tax"
+  },
+  {
+   "title": "Documentary Stamp Tax Exemptions (Nebraska Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/tax-forms/doc_exmpt.pdf"
+  },
+  {
+   "title": "Neb. Rev. Stat. 76-214 (Nebraska Legislature)",
+   "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=76-214"
+  },
+  {
+   "title": "Determining Residency Status for Nebraska Individual Income Tax Filing (Nebraska Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/info/8-645.pdf"
+  },
+  {
+   "title": "IRS Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic no. 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic no. 703, Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "IRS Publication 523 (2025), Selling Your Home",
+   "url": "https://www.irs.gov/publications/p523"
+  }
+ ]
+}
