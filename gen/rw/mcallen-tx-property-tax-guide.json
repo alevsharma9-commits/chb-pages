@@ -1,72 +1,105 @@
 {
-  "slug": "mcallen-tx-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Which offices handle property tax for McAllen homes?",
-      "html": "<p>McAllen sits in Hidalgo County, and a McAllen bill usually stacks the city, the county, a school district such as McAllen ISD and South Texas College, with special districts on some parcels. Values come from the Hidalgo County Appraisal District, while the City of McAllen Tax Office sends the city's own statement. For ownership or mailing address changes, the city's FAQ sends owners to the appraisal district at 4405 Professional Drive, Edinburg, TX 78539, telephone (956) 381-8466.</p><p>Hidalgo County's 2025 rate schedule prints these rates per $100 of value for the other units that tax McAllen property:</p><ul><li>Hidalgo County: $0.57500</li><li>McAllen ISD: $0.93220</li><li>South Texas College: $0.16200</li></ul><p>The City of McAllen's own 2025 rate is $0.448989 per $100, as printed on the city's tax notice. Combine them for a full-rate picture, then account for any exemptions on your file. Mail for the city tax office goes to P.O. Box 220, McAllen, TX 78505-0220.</p>"
-    },
-    {
-      "h2": "What is the McAllen payment deadline, and what does paying late cost?",
-      "html": "<p>Texas gives McAllen owners until January 31 to pay. According to the city's FAQ, a deadline that falls on a weekend slides to the following business day, and statements are usually mailed in October. For the 2026 bill, the last penalty-free day is therefore Monday, February 1, 2027.</p><p>Charges start on February 1. The city's FAQ prints this schedule of penalty and interest, and interest adds one percentage point each month until the account is paid. The schedule continues past July, reaching a 24 percent total the following January.</p><table><caption>Penalty and interest by month, from the City of McAllen Tax Office FAQ</caption><thead><tr><th>Month</th><th>Penalty</th><th>Interest</th><th>Total</th></tr></thead><tbody><tr><td>February</td><td>6%</td><td>1%</td><td>7%</td></tr><tr><td>March</td><td>7%</td><td>2%</td><td>9%</td></tr><tr><td>April</td><td>8%</td><td>3%</td><td>11%</td></tr><tr><td>May</td><td>9%</td><td>4%</td><td>13%</td></tr><tr><td>June</td><td>10%</td><td>5%</td><td>15%</td></tr><tr><td>July</td><td>12%</td><td>6%</td><td>18%</td></tr></tbody></table><p>A separate collection charge, listed as 15 percent, applies to accounts still open on July 1 (April 1 for personal property). The Texas Comptroller describes a firm-added charge of up to 20 percent, so read any letter from a collection firm closely.</p>"
-    },
-    {
-      "h2": "Is the city of McAllen raising its rate for 2026?",
-      "html": "<p>The city's public hearing notice proposes $0.448989 per $100 for 2026, matching the 2025 figure. It prints a no-new-revenue rate of $0.444778 and a voter-approval rate of $0.517054, and says the proposal is under the voter-approval ceiling, so no election is needed.</p><p>A public hearing was scheduled for September 28, 2026 on the third floor of McAllen City Hall, 1300 Houston Avenue, and that date is behind us. To learn which rate the commission adopted, call the tax office at (956) 681-1330. The notice also gives an average homestead taxable value of $217,661 for 2025 and $221,213 for 2026, with the total levy on all properties falling 1.10 percent.</p><p>The city's slice is one piece of the total, because the county, school district and college each adopt their own rates every fall. The Comptroller's calendar gives units until about September 29, or 60 days after they receive the certified roll if that is later.</p>"
-    },
-    {
-      "h2": "Which exemptions reduce a McAllen property tax bill?",
-      "html": "<p>McAllen's own exemption list reads $10,000 for each owner who has reached 65, $10,000 for a disabled person, and $5,000 to $12,000 for a disabled veteran depending on rating, with a 100 percent disabled veteran's residence homestead fully exempt. The tax office page directs applications and address corrections to the chief appraiser at the Hidalgo County Appraisal District.</p><ul><li><strong>School homestead:</strong> the county's schedule lists $140,000 of value removed for McAllen ISD taxes on a residence homestead.</li><li><strong>Older or disabled owners:</strong> $60,000 more off school taxes, and the school tax bill on that home generally cannot climb after the owner qualifies.</li><li><strong>Value cap:</strong> a homestead's appraised value may climb at most 10 percent per year, with the limit starting the January after the exemption begins.</li><li><strong>Filing window:</strong> most exemption applications are due before May 1, though disabled veterans may apply later.</li></ul><p>Someone who buys after January 1 can sometimes claim the exemption right away if the seller never received it.</p>"
-    },
-    {
-      "h2": "How can I pay in installments or avoid late fees in McAllen?",
-      "html": "<p>An owner who is 65 or over, disabled, or a disabled veteran, and who holds a homestead exemption, can split the bill into four equal parts free of penalty and interest by requesting it no later than January 31. The parts fall due January 31, March 31, May 31 and July 31. The same group may seek a tax deferral, and while one is in force the taxing unit cannot collect against or foreclose on the home the owner lives in.</p><ul><li><strong>Mail:</strong> send a check or money order to City of McAllen Tax Office, P.O. Box 220, and no convenience fee applies. Mail postmarked by the delinquency date is treated as timely.</li><li><strong>Online:</strong> a card payment carries a $3.00 fee when the total is $100.00 or less and a 3 percent fee on larger amounts. An eCheck carries a flat service fee that runs from $3.00 on small bills up to $30.00 on bills of $15,000.01 or more.</li><li><strong>Drop box:</strong> the tax office has payment flaps, one inside the lobby and one outside on the Cedar Avenue side of the building. Put the payment and a copy of your statement in a sealed envelope, and leave cash out.</li><li><strong>Email bills:</strong> owners who enroll in eNotification before October 17 get that year's bill by email.</li></ul><p>When a mortgage company pays from escrow, it is the lender's job to tell the tax office which accounts it covers, and unpaid accounts get a courtesy reminder in mid-January. Never receiving the bill does not waive the penalty.</p>"
-    },
-    {
-      "h2": "How does a McAllen owner protest an appraisal?",
-      "html": "<p>A protest must reach the Hidalgo County appraisal review board by May 15 or, when your notice arrives late, within 30 days of its delivery. Notices for homesteads are mailed about April 1 and for other property about May 1, and the Comptroller says hearings begin around mid-May.</p><p>After the board rules, an owner can sue in district court, ask for binding arbitration, or, for values above $1,000,000, take the case to SOAH, the State Office of Administrative Hearings. An appeal generally stays valid only if the undisputed portion of the tax is paid before it turns delinquent.</p>"
-    },
-    {
-      "h2": "What kind of city is McAllen for a seller?",
-      "html": "<p>McAllen lies on U.S. Highway 83 about sixteen miles west of Weslaco in southern Hidalgo County. The Handbook of Texas traces it to Spanish land grants, the McAllen Ranch and the McAllen Townsite Company of 1904, when the railroad reached the area. The town received its charter in 1911, gained home rule status in 1927 and picked up the nickname City of Palms. International trade, winter visitors and the Reynosa bridge shaped its growth.</p><p>McAllen had 150,640 people at mid-2025 by Census Bureau estimate, compared with 142,210 in the 2020 census, spread over 62.31 square miles. Census survey years 2020 through 2024 tally 48,905 households; 59.5 percent of homes are lived in by their owners and a middle value is $190,400. Mortgage holders report monthly costs near $1,764, renters pay about $1,049, and household income centers on $61,579.</p>"
-    },
-    {
-      "h2": "What if I owe McAllen property tax and want to sell?",
-      "html": "<p>Back taxes are normally cleared at closing, because delinquent taxes stand in the way of a clean title. Each January 1 a lien for that year's tax takes hold, and whoever owns the house that day stays liable for the year's tax after a sale.</p><p>Texas offers some relief before things reach that point. Penalty and interest can sometimes be waived: the request goes in writing before day 181 after delinquency, and the tax itself must be paid within 21 days of the owner learning of the debt. Certain collectors allow plans stretching to 36 months, and a residence homestead must be offered one. The city's FAQ lists the Hidalgo County office of a collection law firm at Lone Star Plaza, 1512 S Lone Star Wy, Edinburg, (956) 383-4500, for questions about delinquent notices.</p><p>Behind on the bill and thinking of a fast as-is sale? Send the property address and the balance on your statement.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What is the McAllen property tax rate?",
-      "a": "The City of McAllen's 2025 rate is $0.448989 per $100 of value, and the 2026 proposal repeats it. Hidalgo County, McAllen ISD and South Texas College add their own rates, which the county tax office publishes on its rate schedule."
-    },
-    {
-      "q": "When are McAllen property taxes due?",
-      "a": "January 31 is the annual deadline, and a weekend date slides to the next business day. Penalties begin the day after the deadline."
-    },
-    {
-      "q": "Does McAllen offer a homeowner exemption?",
-      "a": "The City lists $10,000 for owners 65 or older and $10,000 for disabled persons, plus disabled veteran exemptions. It lists no percentage homestead exemption. McAllen ISD applies the statewide $140,000 residence homestead exemption."
-    },
-    {
-      "q": "Can I pay McAllen property taxes in installments?",
-      "a": "Yes, for homeowners past 65, disabled homeowners and disabled veterans who hold a residence homestead exemption and ask by January 31. Four equal payments fall due January 31, March 31, May 31 and July 31."
-    },
-    {
-      "q": "Which phone number reaches the McAllen appraisal office?",
-      "a": "Value questions go to the Hidalgo County Appraisal District at (956) 381-8466, and the City of McAllen Tax Office handles billing at (956) 681-1330."
-    }
-  ],
-  "sources": [
-    {"title": "City of McAllen Tax Office", "url": "https://mcallen.net/departments/tax"},
-    {"title": "City of McAllen Tax Office, Frequently Asked Questions", "url": "https://mcallen.net/docs/default-source/tax/frequently-asked-question-new.pdf?sfvrsn=2"},
-    {"title": "City of McAllen, Notice of Public Hearing on Tax Increase (2026)", "url": "https://www.mcallen.net/docs/default-source/tax/notice-of-public-hearing-2026.pdf?sfvrsn=2"},
-    {"title": "Hidalgo County Tax Office, 2025 Tax Rate Schedule", "url": "https://www.hidalgocounty.us/DocumentCenter/View/71265/2025-TAX-RATE-SCHEDULE"},
-    {"title": "Census QuickFacts, McAllen city, Texas", "url": "https://www.census.gov/quickfacts/fact/table/mcallencitytexas/PST045224"},
-    {"title": "Handbook of Texas, McAllen", "url": "https://www.tshaonline.org/handbook/entries/mcallen-tx"},
-    {"title": "Texas Comptroller, property tax deadlines", "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"},
-    {"title": "Texas Comptroller, property tax basics", "url": "https://comptroller.texas.gov/taxes/property-tax/basics.php"},
-    {"title": "Texas Comptroller, paying property taxes", "url": "https://comptroller.texas.gov/taxes/property-tax/pay"},
-    {"title": "Texas Comptroller, exemptions", "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"},
-    {"title": "Texas Comptroller, appraisal and tax limitations", "url": "https://comptroller.texas.gov/taxes/property-tax/appraisal-tax-limitations.php"}
-  ]
+ "slug": "mcallen-tx-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Offices that handle McAllen property tax",
+   "html": "<p>McAllen is in Hidalgo County, and a McAllen bill usually stacks the city, the county, a school district such as McAllen ISD and South Texas College, with special districts on some parcels. The Hidalgo County Appraisal District sets values. The City of McAllen Tax Office sends the city's own statement. For ownership or mailing address changes, visit the appraisal district at 4405 Professional Drive, Edinburg, TX 78539, telephone (956) 381-8466.</p><p>The county's 2025 rate schedule prints these rates per $100 of value for the other units that tax McAllen property:</p><ul><li>Hidalgo County: $0.57500</li><li>McAllen ISD: $0.93220</li><li>South Texas College: $0.16200</li></ul><p>The city's own 2025 rate is $0.448989 per $100, as printed on its tax notice. Add them together for a full-rate picture, then subtract any exemptions on your file. Mail for the city tax office goes to P.O. Box 220, McAllen, TX 78505-0220.</p>"
+  },
+  {
+   "h2": "Payment deadline and late charges",
+   "html": "<p>Texas gives McAllen owners until January 31 to pay. A deadline that falls on a weekend slides to the next business day, and statements usually go out in October. For the 2026 bill, the last penalty-free day is Monday, February 1, 2027.</p><p>Charges begin on February 1. Interest adds one percentage point each month until the account is paid, and the schedule continues past July, reaching a 24 percent total the following January.</p><table><caption>Penalty and interest by month</caption><thead><tr><th>Month</th><th>Penalty</th><th>Interest</th><th>Total</th></tr></thead><tbody><tr><td>February</td><td>6%</td><td>1%</td><td>7%</td></tr><tr><td>March</td><td>7%</td><td>2%</td><td>9%</td></tr><tr><td>April</td><td>8%</td><td>3%</td><td>11%</td></tr><tr><td>May</td><td>9%</td><td>4%</td><td>13%</td></tr><tr><td>June</td><td>10%</td><td>5%</td><td>15%</td></tr><tr><td>July</td><td>12%</td><td>6%</td><td>18%</td></tr></tbody></table><p>A separate 15 percent collection charge applies to accounts still open on July 1 (April 1 for personal property). A firm hired to collect can add up to 20 percent, so read any collection letter closely.</p>"
+  },
+  {
+   "h2": "The 2026 city rate",
+   "html": "<p>The city's 2026 hearing notice proposed $0.448989 per $100, the same as 2025. It printed a no-new-revenue rate of $0.444778 and a voter-approval rate of $0.517054, and it said the proposal is under the voter-approval ceiling, so no election is needed. For the final 2026 rate, call the tax office at (956) 681-1330.</p><p>The notice put the average homestead taxable value at $217,661 for 2025 and $221,213 for 2026, with the total levy on all properties falling 1.10 percent.</p><p>The city's slice is one piece of the total. The county, school district and college each set their own rates every fall, and taxing units have until about September 29, or 60 days after they receive the certified roll if that is later, to do so.</p>"
+  },
+  {
+   "h2": "Exemptions that reduce a McAllen bill",
+   "html": "<p>The city offers $10,000 for each owner who has reached 65, $10,000 for a disabled person, and $5,000 to $12,000 for a disabled veteran depending on rating. A 100 percent disabled veteran's residence homestead is fully exempt. Applications and address corrections go to the chief appraiser at the Hidalgo County Appraisal District.</p><ul><li><strong>School homestead:</strong> $140,000 of value is removed for McAllen ISD taxes on a residence homestead.</li><li><strong>Older or disabled owners:</strong> $60,000 more comes off school taxes, and the school tax bill on that home generally cannot climb after the owner qualifies.</li><li><strong>Value cap:</strong> a homestead's appraised value may rise at most 10 percent per year, starting the January after the exemption begins.</li><li><strong>Filing window:</strong> most exemption applications are due before May 1, though disabled veteran applicants may file later.</li></ul><p>Someone who buys after January 1 can sometimes claim the exemption right away if the seller never received it.</p>"
+  },
+  {
+   "h2": "Installments and ways to pay",
+   "html": "<p>Homeowners who are 65 or over, disabled, or disabled veteran owners with a homestead exemption can split the bill into four equal parts with no penalty or interest by asking no later than January 31. The parts fall due January 31, March 31, May 31 and July 31. The same group may seek a tax deferral, and while one is in force the taxing unit cannot collect against or foreclose on the home the owner lives in.</p><ul><li><strong>Mail:</strong> send a check or money order to City of McAllen Tax Office, P.O. Box 220, with no convenience fee. Mail postmarked by the delinquency date counts as timely.</li><li><strong>Online:</strong> a card payment carries a $3.00 fee when the total is $100.00 or less and a 3 percent fee on larger amounts. An eCheck carries a flat service fee from $3.00 on small bills up to $30.00 on bills of $15,000.01 or more.</li><li><strong>Drop box:</strong> the tax office has payment flaps, one inside the lobby and one outside on the Cedar Avenue side. Put the payment and a copy of your statement in a sealed envelope, and leave cash out.</li><li><strong>Email bills:</strong> owners who enroll in eNotification before October 17 get that year's bill by email.</li></ul><p>When a mortgage company pays from escrow, the lender must tell the tax office which accounts it covers, and unpaid accounts get a courtesy reminder in mid-January. Never receiving the bill does not waive the penalty.</p>"
+  },
+  {
+   "h2": "How to protest your appraisal",
+   "html": "<p>A protest must reach the Hidalgo County appraisal review board by May 15 or, if your notice arrives late, within 30 days of delivery. Homestead notices are mailed about April 1 and other property notices about May 1. Hearings begin around mid-May.</p><p>After the board rules, you can sue in district court, ask for binding arbitration or, for values above $1,000,000, take the case to SOAH, the State Office of Administrative Hearings. An appeal generally stays valid only if the undisputed portion of the tax is paid before it turns delinquent.</p>"
+  },
+  {
+   "h2": "McAllen housing at a glance",
+   "html": "<p>McAllen has 150,640 residents, up from 142,210 at the 2020 census. Owners occupy 59.5 percent of homes, and the middle owned-home value is $190,400. Mortgage holders report monthly costs near $1,764, renters pay about $1,049, and middle household income is $61,579.</p>"
+  },
+  {
+   "h2": "Selling a McAllen house when you owe tax",
+   "html": "<p>Back taxes are normally cleared at closing, because delinquent tax stands in the way of clean title. A lien for each year's tax attaches on January 1, and whoever owns the house that day remains liable for that year's tax after a sale.</p><p>Texas offers relief before things reach that point. Penalty and interest can sometimes be waived: the request goes in writing before day 181 after delinquency, and the tax itself must be paid within 21 days of the owner learning of the debt. Some collectors allow plans stretching to 36 months, and a residence homestead must be offered one. For questions about delinquent notices, the collection law firm at Lone Star Plaza, 1512 S Lone Star Wy, Edinburg, (956) 383-4500, has a Hidalgo County office.</p><p>Behind on the bill and thinking of a fast as-is sale? Send the property address and the balance on your statement. Ask the tax office for an itemized payoff first, so you know what the title company will pay from your proceeds.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the McAllen property tax rate?",
+   "a": "The City of McAllen's 2025 rate is $0.448989 per $100 of value, and the 2026 proposal repeats it. Hidalgo County, McAllen ISD and South Texas College add their own rates, which the county tax office publishes on its rate schedule."
+  },
+  {
+   "q": "When are McAllen property taxes due?",
+   "a": "January 31 is the annual deadline, and a weekend date slides to the next business day. Penalties begin the day after the deadline."
+  },
+  {
+   "q": "Does McAllen offer a homeowner exemption?",
+   "a": "The city offers $10,000 for owners 65 or older and $10,000 for disabled persons, plus disabled veteran exemptions, but no percentage homestead exemption. McAllen ISD applies the statewide $140,000 residence homestead exemption."
+  },
+  {
+   "q": "Can I pay McAllen property taxes in installments?",
+   "a": "Yes, for homeowners past 65, disabled homeowners and disabled veteran owners who hold a residence homestead exemption and ask by January 31. Four equal payments fall due January 31, March 31, May 31 and July 31."
+  },
+  {
+   "q": "Which phone number reaches the McAllen appraisal office?",
+   "a": "Value questions go to the Hidalgo County Appraisal District at (956) 381-8466. The City of McAllen Tax Office handles billing at (956) 681-1330."
+  }
+ ],
+ "sources": [
+  {
+   "title": "City of McAllen Tax Office",
+   "url": "https://mcallen.net/departments/tax"
+  },
+  {
+   "title": "City of McAllen Tax Office, Frequently Asked Questions",
+   "url": "https://mcallen.net/docs/default-source/tax/frequently-asked-question-new.pdf?sfvrsn=2"
+  },
+  {
+   "title": "City of McAllen, Notice of Public Hearing on Tax Increase (2026)",
+   "url": "https://www.mcallen.net/docs/default-source/tax/notice-of-public-hearing-2026.pdf?sfvrsn=2"
+  },
+  {
+   "title": "Hidalgo County Tax Office, 2025 Tax Rate Schedule",
+   "url": "https://www.hidalgocounty.us/DocumentCenter/View/71265/2025-TAX-RATE-SCHEDULE"
+  },
+  {
+   "title": "Census QuickFacts, McAllen city, Texas",
+   "url": "https://www.census.gov/quickfacts/fact/table/mcallencitytexas/PST045224"
+  },
+  {
+   "title": "Handbook of Texas, McAllen",
+   "url": "https://www.tshaonline.org/handbook/entries/mcallen-tx"
+  },
+  {
+   "title": "Texas Comptroller, property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  },
+  {
+   "title": "Texas Comptroller, property tax basics",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/basics.php"
+  },
+  {
+   "title": "Texas Comptroller, paying property taxes",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/pay"
+  },
+  {
+   "title": "Texas Comptroller, exemptions",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"
+  },
+  {
+   "title": "Texas Comptroller, appraisal and tax limitations",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/appraisal-tax-limitations.php"
+  }
+ ]
 }
