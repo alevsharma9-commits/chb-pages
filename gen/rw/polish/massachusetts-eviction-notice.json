@@ -1,0 +1,81 @@
+{
+ "slug": "massachusetts-eviction-notice",
+ "sections": [
+  {
+   "h2": "Notice to quit: the first step",
+   "html": "<p>Before any eviction case can start, a Massachusetts landlord has to end the tenancy with a written notice to quit. Getting one does not mean the tenant must leave right away. Only a court order can force a move.</p><p>How many days the notice gives depends on the reason and on the kind of tenancy. Below you will find each version, how a notice has to be delivered, and what changes if you own the house and plan to sell it.</p>"
+  },
+  {
+   "h2": "How many days does each notice give?",
+   "html": "<p>Fourteen days applies to unpaid rent. Thirty days is the usual figure for most other reasons.</p><table><thead><tr><th>Situation</th><th>Written notice</th></tr></thead><tbody><tr><td>Rent not paid</td><td>14 days, unless the lease says otherwise</td></tr><tr><td>Rent not paid, federally assisted housing</td><td>A 30-day notice may be used</td></tr><tr><td>Month-to-month tenancy at will</td><td>At least 30 days, ending at the close of a rental period</td></tr><tr><td>Lease violation, or landlord wants the unit back</td><td>30 days</td></tr><tr><td>Lease that has run out</td><td>No notice needed, since the lease sets the end date</td></tr></tbody></table><p>The statute for a tenancy at will is worded a bit differently from that plain summary. It speaks of three months' notice, and when rent is paid at shorter intervals, the notice must equal the gap between payment days or thirty days, whichever is longer. If rent dates sit further apart than thirty days, the notice can stretch accordingly.</p>"
+  },
+  {
+   "h2": "Can a tenant stop a 14-day notice by paying?",
+   "html": "<p>Sometimes. Under <a href=\"https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12\">G.L. c. 186, section 12</a>, a tenant who has not received a similar notice in the previous twelve months keeps the tenancy by paying or tendering the full rent due within ten days after receiving the notice.</p><p>Every nonpayment notice must carry a short statement about this right. If it is missing, the tenant's time to pay runs to the day the answer is due in a court case, though the omission does not otherwise ruin the notice. When a late payment traces back to a delay by a federal, state or municipal agency, the court must continue the hearing at least seven days and can treat the tenancy as never terminated if everything owed is tendered.</p><p>Paying arrears by an agreed date is called curing the problem. Other points that come up in nonpayment cases:</p><ul><li>The RAFT program offers emergency payments of up to $7,000 per year to eligible households behind on rent.</li><li>A tenant with a pending RAFT application cannot be evicted, and should tell the court about it.</li><li>The landlord must attach a form listing rental assistance programs to a nonpayment notice.</li><li>A payment plan worked out with the landlord can also stop the case from moving forward.</li></ul>"
+  },
+  {
+   "h2": "What a valid notice must contain",
+   "html": "<p>A valid notice names the exact day the tenancy ends and, for most reasons, says why the landlord is ending it. The notice exists to end the tenancy, so the tenant has to actually receive it for it to work.</p><ul><li>A written notice, except where a lease simply expires.</li><li>The specific date on which the tenancy will end.</li><li>The reason, when the cause is a lease violation or unpaid rent.</li><li>The statutory right-to-pay statement, for nonpayment.</li><li>The rental assistance form, for nonpayment.</li></ul><p>No single delivery method is required. A landlord can hand the notice to the tenant, ideally with a disinterested person present. Two common shortcuts fail: a constable leaving the notice at the tenant's last usual address when the tenant never actually receives it, and a mailed notice the tenant does not pick up. Sample forms are available through the Trial Court Law Libraries, with a warning that they may not be legally sufficient in every case.</p>"
+  },
+  {
+   "h2": "Why the calendar matters, especially around February",
+   "html": "<p>A month-to-month notice has to expire at the end of a rental period, so the date it is served decides when the tenancy can end. One example from the Court System: a notice served too late in January cannot end the tenancy by March 1, because February is shorter than thirty days.</p><p>An older notice does not always have to be repeated. A landlord who served one months ago generally does not need a new one, unless the right to evict was waived. That can happen by accepting rent in advance without a written reservation of rights, or by signing a new rental agreement that created a fresh tenancy. If you have taken a late rent payment since serving notice, ask an attorney whether the notice still stands.</p>"
+  },
+  {
+   "h2": "What a landlord cannot do while the notice runs",
+   "html": "<p>A landlord cannot lock the tenant out, shut off services or use force to regain the home. Both the state's tenant guide and the statute say only a judge's order can remove a tenant.</p><p>Under <a href=\"https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section14\">G.L. c. 186, section 14</a>, a landlord who willfully fails to supply water, heat, light, power or gas, interferes with quiet enjoyment, or tries to regain possession by force without judicial process faces a fine of $25 to $300 or up to six months in jail. The tenant can also recover actual and consequential damages or three months' rent, whichever is greater, plus costs and a reasonable attorney's fee.</p><p>Evicting for an illegal reason is also off limits. Examples include a tenant reporting violations to health inspectors or withholding rent because of bad conditions.</p>"
+  },
+  {
+   "h2": "Does selling the house change the notice?",
+   "html": "<p>Selling does not shorten anything. A no-fault notice to quit can be used because the landlord wants to sell, but it still means the landlord plans to take the tenant to court, and the case still appears on the tenant's housing record.</p><p>A sale also carries duties that follow the tenancy. Under <a href=\"https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15B\">section 15B</a> of the same chapter:</p><ul><li>A landlord who transfers the building, by sale or otherwise, must pass the security deposit and its accrued interest to the new owner.</li><li>The new owner must tell the tenant in writing within forty-five days that the deposit was transferred.</li><li>If the old owner fails to transfer it, the new owner becomes liable for the deposit anyway.</li><li>Rent paid in advance for the last month must likewise be credited to the buyer, who must give notice within forty-five days.</li><li>A lease can allow the landlord to enter to show the home to a prospective purchaser.</li></ul><p>Massachusetts expects a tenancy to continue across a sale unless it is properly ended. Before listing a rented house, ask a real estate attorney how the lease or tenancy at will carries over.</p>"
+  },
+  {
+   "h2": "Problems owners of rented houses run into",
+   "html": "<p>Most trouble comes from a notice that is late, incomplete or served in a way the tenant never actually received. A notice the tenant never received is not adequate notice, and that hurts most when a closing date is already set.</p><ul><li>Special rules apply to mobile home parks, rooming houses, dormitories, residential superintendents and public housing.</li><li>Government-subsidized rent may require the notice to state specific reasons, so check both the lease and the program rules.</li><li>The step after an expired notice is a summary process summons and complaint, which a constable or sheriff must serve.</li><li>Free mediation is available through the Community Mediation Centers, and most courts offer it as well.</li></ul><p>Some owners sell with the tenant still living in the house. Others settle on a move-out date by agreement, which can work when a landlord offers a little extra time. Either route should be written down and reviewed by a lawyer. A cash sale to a buyer who accepts the house with the tenant in it skips the wait for a vacant unit, though the deposit and rent transfers described above still apply.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days is a Massachusetts eviction notice?",
+   "a": "It is 14 days for unpaid rent and 30 days for most other reasons. A month-to-month tenancy at will needs at least 30 days, ending at the close of a rental period, and the statute can call for more when rent dates are further apart."
+  },
+  {
+   "q": "Does a notice to quit mean the tenant has to leave?",
+   "a": "No. A notice to quit is only the first step. The tenant can stay until a court orders otherwise, and a landlord cannot change the locks or remove belongings before then."
+  },
+  {
+   "q": "Can a landlord send a notice because the house is being sold?",
+   "a": "Yes. That is a no-fault notice to quit. It still leads to a court case if the tenant does not leave, and the sale does not cancel the tenant's rights in the meantime."
+  },
+  {
+   "q": "Does the notice have to be mailed or hand delivered?",
+   "a": "No single method is required, but the tenant must actually receive it. A notice left at an old address, or mailed and never picked up, is not adequate notice."
+  },
+  {
+   "q": "What happens to the security deposit when a rented house is sold?",
+   "a": "The seller must transfer the deposit and accrued interest to the buyer, and the buyer must notify the tenant in writing within forty-five days. A buyer remains liable for the deposit even if the seller fails to transfer it."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Tenants' guide to eviction, Mass.gov",
+   "url": "https://www.mass.gov/info-details/tenants-guide-to-eviction"
+  },
+  {
+   "title": "Find out how to start the eviction process, Massachusetts Court System",
+   "url": "https://www.mass.gov/info-details/find-out-how-to-start-the-eviction-process"
+  },
+  {
+   "title": "G.L. c. 186, section 12, notice to determine estate at will",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12"
+  },
+  {
+   "title": "G.L. c. 186, section 14, wrongful acts of landlord",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section14"
+  },
+  {
+   "title": "G.L. c. 186, section 15B, security deposits",
+   "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15B"
+  }
+ ]
+}

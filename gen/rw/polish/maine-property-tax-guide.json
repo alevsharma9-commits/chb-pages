@@ -1,0 +1,113 @@
+{
+ "slug": "maine-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How Maine property tax works",
+   "html": "<p>Property tax in Maine is a local matter: each municipality assesses, bills and collects, and the bill follows ownership on April 1. <a href=\"https://legislature.maine.gov/statutes/36/title36sec502.html\">36 M.R.S. §502</a> fixes taxpayers and taxable property as of that date, and the tax year runs April 1 to March 31.</p>\n<p>Due dates and interest are local choices. Under <a href=\"https://legislature.maine.gov/statutes/36/title36sec505.html\">§505</a> a municipality votes the date or dates payment is due, the date interest starts (which is also the delinquency date), and the interest rate. The rate cannot go above the prime rate plus 3 percentage points as set by the Treasurer of State, and the maximum is posted by January 20 each year. A town may offer an early-payment discount of up to 10%.</p>\n<p>Neighboring towns can send bills with different due dates, rates and ratios for houses worth the same. Read your own town's bill rather than a statewide average. For scale, the 2025 statewide commitment was $3,650,756,363 on $284,892,094,527 of taxable valuation, and town certified ratios ran from 50% to 112%.</p>"
+  },
+  {
+   "h2": "How to challenge your assessment",
+   "html": "<p>File a written abatement application with the assessors within 185 days of commitment. <a href=\"https://legislature.maine.gov/statutes/36/title36sec841.html\">36 M.R.S. §841</a> lets the assessors abate for illegality, error or irregularity on an application inside that window, or on their own within one year. From one year out to three years, the municipal officers may act, but they cannot abate to fix a valuation error.</p>\n<p>Prepare before you file:</p>\n<ul><li>Get the property record card and hunt for plain errors, like a wrong build year or lot size.</li><li>State the amount you want abated and the reason. You carry the burden of proof, and disagreeing with the value is not enough.</li><li>Gather evidence: errors on the card, recent sales of comparable nearby homes and neighborhood sales data.</li><li>If the assessor mailed a request for property information under <a href=\"https://legislature.maine.gov/statutes/36/title36sec706-A.html\">§706-A</a>, answer it. Skipping it may forfeit your appeal.</li><li>Expect a decision within 60 days. If none arrives in that time, the request is deemed denied.</li></ul>\n<p>Taxes stay due on the normal dates while an abatement is pending. The assessment is presumed valid, and under 36 M.R.S. §848-A it holds up when it is accurate within reasonable limits, unless you prove a deviation of 10% or more.</p>"
+  },
+  {
+   "h2": "Appeals after a denial",
+   "html": "<p>A taxpayer has 60 days after a denial to appeal in writing to the local Board of Assessment Review. Under <a href=\"https://legislature.maine.gov/statutes/36/title36sec843.html\">Section 843</a>, if the board issues no written decision within 60 days, the application is deemed denied unless the applicant agrees in writing to wait longer.</p>\n<table><thead><tr><th>Appeal level</th><th>Who hears it</th><th>Deadline or rule</th></tr></thead><tbody><tr><td>Abatement application</td><td>Assessors</td><td>185 days from commitment</td></tr><tr><td>Board of Assessment Review</td><td>Local board</td><td>60 days after notice or deemed denial</td></tr><tr><td>Superior Court</td><td>Residential property, Rule 80B</td><td>Direct appeal from the board, within 30 days</td></tr><tr><td>State Board of Property Tax Review</td><td>Nonresidential property or $1,000,000 or more</td><td>60 days from the board decision</td></tr></tbody></table>\n<p>Where a town has no local board, the first appeal goes to the county commissioners. Homes appeal straight from the board to Superior Court. If your property is valued at $500,000 or more, you must pay the greater of last year's taxes (up to the current amount) or the undisputed current taxes while the appeal runs, or the appeal is suspended.</p>"
+  },
+  {
+   "h2": "Falling behind: tax lien mortgages",
+   "html": "<p>Maine has no tax sale. It uses a tax lien mortgage instead. Between 8 months and one year after commitment, the collector may send a demand notice that gives 30 days to pay. If the bill stays open, a tax lien certificate is recorded at the registry of deeds within 10 days after that period ends (<a href=\"https://legislature.maine.gov/statutes/36/title36sec942.html\">36 M.R.S. §942</a>).</p>\n<p>The recorded certificate becomes a tax lien mortgage under <a href=\"https://legislature.maine.gov/statutes/36/title36sec943.html\">§943</a>, and it ranks ahead of other liens. When the debt is still unpaid 18 months after recording, the mortgage is deemed foreclosed and the right to redeem ends. The treasurer must notify the owner and any mortgage holders 30 to 45 days before the foreclosure date.</p>\n<ul><li>Owners claiming the homestead exemption must be told about the hardship abatement process and where to get foreclosure-avoidance help.</li><li>The taxpayer pays recording and discharge fees, plus $13 and any foreclosure notice charge.</li><li>When an owner dies with a probated will, a probate judge may allow up to 60 more days to redeem.</li><li>After foreclosure the town holds title and can sell the property.</li></ul>\n<p>The 18-month clock is what matters. A sale that closes before it runs out pays the town from the proceeds and ends the problem.</p>"
+  },
+  {
+   "h2": "Hardship relief and tax deferral",
+   "html": "<p>Under §841(2), municipal officers can abate taxes on a primary residence for a person who cannot pay because of hardship, within three years of commitment. They must give a written decision within 30 days of the application, and the proceedings are confidential.</p>\n<p>Maine also runs a State Property Tax Deferral Program. You qualify if you are 65 or older, or unable to work because of a permanent disability, and you own a primary residence, have household income under $80,000, and hold liquid assets under $100,000 ($150,000 with more than one owner). The state pays the town and places a lien on the home. A sale of the home triggers repayment of the deferred taxes, interest and costs, and a new municipal lien blocks future deferral.</p>\n<p>The <a href=\"/maine-homestead-exemption/\">Maine homestead exemption</a> reduces taxable value by up to $25,000 for a permanent resident, adjusted by the local certified ratio.</p>"
+  },
+  {
+   "h2": "Property tax at a Maine closing",
+   "html": "<p>A purchase contract can divide the year's tax by days of ownership. <a href=\"https://legislature.maine.gov/statutes/36/title36sec558.html\">36 M.R.S. §558</a> prorates taxes across the municipality's fiscal year unless the parties choose another period.</p>\n<p>The town still bills whoever held title on April 1. When a sale changes the owner, §502 lets the assessor update the records after a declaration of value is filed, and the tax notice goes to both the new owner and the April 1 owner of record.</p>\n<p>Transfer tax is a separate charge. The state collects $2.20 per $500 of value, shared evenly by buyer and seller under <a href=\"https://legislature.maine.gov/statutes/36/title36sec4641-A.html\">§4641-A</a>. Value above $1,000,000 adds $3.80 per $500 on the excess.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<ol><li>Phone the town tax collector and ask for a payoff that includes interest and any lien charges.</li><li>Search the registry of deeds for a lien certificate. If one is recorded, count months from its date.</li><li>Pull the assessor's record card and compare it against what the house really is.</li><li>Note the abatement dates. The 185 days begin at commitment, roughly when bills first go out.</li><li>Disclose any deferral lien to buyers, since the state is repaid when title transfers.</li></ol>\n<p>A house with back taxes, a lien and deferred repairs is a hard sell on the open market. A cash sale avoids the buyer's lender, and the payoff is paid from proceeds at closing. Cash Home Buyers purchases Maine houses in any condition, and we name a price only after seeing the property.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is Maine property tax assessed?",
+   "a": "On April 1. Whoever owns the property that day is taxed for the year ahead."
+  },
+  {
+   "q": "How long do I have to apply for an abatement?",
+   "a": "185 days from commitment. After that, officials may still act on their own initiative for a limited time."
+  },
+  {
+   "q": "Can I appeal if the assessor says no?",
+   "a": "Yes, in writing to the local Board of Assessment Review, within 60 days of the denial or deemed denial. A homeowner who loses there can go to Superior Court under Rule 80B."
+  },
+  {
+   "q": "Does Maine hold tax sales?",
+   "a": "No. Maine uses a tax lien mortgage. If it stays unpaid 18 months after the certificate is recorded, the mortgage is deemed foreclosed and redemption ends."
+  },
+  {
+   "q": "What happens to a deferred tax balance when I sell?",
+   "a": "The state is repaid the full deferred amount, with interest and costs, when you sell or transfer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "36 M.R.S. §502 Taxable property",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec502.html"
+  },
+  {
+   "title": "36 M.R.S. §505 Municipal tax timing and interest",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec505.html"
+  },
+  {
+   "title": "36 M.R.S. §841 Abatement",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec841.html"
+  },
+  {
+   "title": "36 M.R.S. §843 Appeals",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec843.html"
+  },
+  {
+   "title": "36 M.R.S. §706-A Property list and inquiries",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec706-A.html"
+  },
+  {
+   "title": "36 M.R.S. §942 Tax lien certificate",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec942.html"
+  },
+  {
+   "title": "36 M.R.S. §943 Tax lien mortgage foreclosure",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec943.html"
+  },
+  {
+   "title": "36 M.R.S. §558 Proration",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec558.html"
+  },
+  {
+   "title": "36 M.R.S. §4641-A Real estate transfer tax",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-A.html"
+  },
+  {
+   "title": "Maine Revenue Services Property Tax Bulletin No. 10, abatements",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2024-12/bulletin%20no%2010_abatements.pdf"
+  },
+  {
+   "title": "Maine Revenue Services 2025 Municipal Valuation Return Statistical Summary",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/2025%20MVR%20statistical%20summary.pdf"
+  },
+  {
+   "title": "Maine Revenue Services 2024 Municipal Valuation Return Statistical Summary",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/2024%20Municipal%20Valuation%20Return%20Statistical%20Summary%20Report.pdf"
+  },
+  {
+   "title": "Maine Revenue Services State Property Tax Deferral Program brochure",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/DeferralBrochure.pdf"
+  },
+  {
+   "title": "Cumberland County Regional Assessing: Tax Abatements and Appeals",
+   "url": "https://www.cumberlandcountyme.gov/departments/regional_assessing/tax_forms_and_programs/tax_abatements_and_appeals.php"
+  }
+ ]
+}

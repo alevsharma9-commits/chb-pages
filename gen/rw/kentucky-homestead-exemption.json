@@ -1,75 +1,93 @@
 {
-  "slug": "kentucky-homestead-exemption",
-  "sections": [
-    {
-      "h2": "What is the Kentucky homestead exemption?",
-      "html": "<p>It is a deduction from the assessed value of a Kentucky home for owners who are 65 or older or totally disabled. Section 170 of the Kentucky Constitution created it, and the Department of Revenue says the deduction is $49,100 for the 2025 and 2026 assessment years. Property tax is then figured on whatever value is left.</p><p>The Department gives a simple example: a house assessed at a fair cash value of $200,000 is taxed as if it were worth $150,900. The reduction applies to state, county, city and special district taxes alike. In the 2023 tax year the exemption saved more than 474,000 elderly or disabled Kentuckians about $293 million.</p>"
-    },
-    {
-      "h2": "Who qualifies for the Kentucky homestead exemption?",
-      "html": "<p>Two things have to be true at once: an age or disability test, and a residence test. The statute, KRS 132.810, sets both.</p><ul><li>The applicant is 65 or older during the year of the application, or was classified as totally disabled on January 1 of that year under a federal agency program or a retirement system inside or outside Kentucky.</li><li>The applicant owns the property and maintains it as a personal residence.</li><li>A disabled applicant has received disability payments and keeps the classification for the whole taxation period.</li><li>Only one exemption is allowed per residential unit, even when two residents both qualify.</li></ul><p>Ownership can take several forms. Legal or equitable title, joint tenancy, tenancy in common, a condominium and certain corporate or leasehold interests of more than 98 years all count. A mobile home, an RV classified as real property or a manufactured house qualifies as a residential unit.</p>"
-    },
-    {
-      "h2": "How and when do I apply for the exemption?",
-      "html": "<p>File with the property valuation administrator, the PVA, in the county where the home sits. The Department of Revenue states that applications are due by December 31 of the eligible tax year and can be submitted online, by mail or in person, depending on what the local PVA office accepts. Phone the office to learn which method it prefers.</p><p>An applicant based on age can prove it with a birth certificate, driver's license, passport or other approved document. A disability applicant needs proof of the classification. The state form is titled Application for Exemption Under the Homestead/Disability Amendment.</p><p>The valuation you write on the form cannot be used to raise your assessment. If it is, the statute requires an adjustment the next year so that your total tax comes out the same as if the increase never happened.</p>"
-    },
-    {
-      "h2": "What if the tax bill is already paid or still unpaid when I qualify?",
-      "html": "<p>Timing decides whether you get a reduced bill or a refund. If you qualify before paying the bill for that year, you are entitled to a full or partial exoneration that reflects the exemption. If you qualify after paying, you are entitled to a refund of the tax on the exempt portion of the value.</p><p>This matters to heirs and to anyone selling late in the year. A seller who is eligible but never applied can ask the PVA whether an application for the current taxation period is still possible before the December 31 deadline, and can ask the sheriff how the bill would be adjusted.</p>"
-    },
-    {
-      "h2": "How does the exemption amount change over time?",
-      "html": "<p>The $6,500 written into Section 170 is read as $6,500 in 1972 purchasing power. Every two years, if the federal cost of living index has moved at least 1 percent, the Department of Revenue adjusts the maximum. The 2025 and 2026 figure is $2,750 higher than the 2023 and 2024 figure.</p><table><caption>Kentucky homestead exemption amounts. Sources: KRS 132.810 and Kentucky Department of Revenue.</caption><thead><tr><th>Period</th><th>Maximum exemption</th></tr></thead><tbody><tr><td>Section 170 original amount (1972 dollars)</td><td>$6,500</td></tr><tr><td>2023 and 2024 assessment years</td><td>$46,350</td></tr><tr><td>2025 and 2026 assessment years</td><td>$49,100</td></tr></tbody></table><p>The department recalculates the amount every second year. Ask your PVA for the figure that applies to the tax year you are working with, since a later biennium will carry a different number.</p>"
-    },
-    {
-      "h2": "What happens to the exemption when I sell or inherit the home?",
-      "html": "<p>The exemption belongs to the owner, not to the house. When title to an exempt property passes, the owner, administrator, executor, trustee, guardian, conservator or agent has to report the transfer to the PVA. A buyer or an heir who is 65 or disabled has to file a fresh application of their own.</p><p>A death also ends the period. If the person holding the classification dies before December 31, the taxation period runs only from January 1 to the date of death. A disabled owner who stops meeting the total disability classification must tell the PVA, and the exemption ends at the close of that taxation period without being prorated.</p><p>The exemption has no effect on the deed tax. The grantor still pays fifty cents per $500 of value at recording, unless the transfer falls in one of the listed exceptions such as a foreclosure or a transfer between spouses.</p>"
-    },
-    {
-      "h2": "What should a seller with the exemption check before listing?",
-      "html": "<p>A few quick checks keep the paperwork clean when a house with an exemption changes hands.</p><ul><li>Ask the PVA to confirm the exemption is on file for the current year and which person it is tied to.</li><li>Ask the sheriff for the current bill so you can see whether the exempt value was already applied.</li><li>Tell the PVA about the transfer once the deed is recorded, since the statute requires the owner or the estate's representative to report it.</li><li>If the owner has died, keep the date of death handy, because it caps the taxation period for that year.</li></ul><p>The buyer should be told the deduction will not carry over automatically. A younger buyer will simply see a bill computed on the full assessment.</p>"
-    },
-    {
-      "h2": "Do disabled owners under 65 have to reapply every year?",
-      "html": "<p>Usually yes. A totally disabled owner under 65 must apply annually. Two groups are excused after documenting the disability at the first application: service-connected totally disabled veterans of the Armed Forces, and people found totally and permanently disabled under Social Security rules, Kentucky Retirement Systems rules or another provision of the Kentucky Revised Statutes.</p><p>Missing an annual renewal can cost a year of savings, so mark December 31 on the calendar if you are in this group.</p>"
-    },
-    {
-      "h2": "Is there a second kind of Kentucky homestead protection?",
-      "html": "<p>Yes, a separate one that protects against creditors. KRS 427.060 exempts an individual debtor's interest of up to $5,000 in the home the debtor or a dependent uses as a permanent residence, or in a burial plot, from sale under execution, attachment or judgment. It does not apply to foreclose a mortgage given by the owner or for purchase money, and it does not reach debts that existed before the property was bought or improved.</p><p>That $5,000 figure is far lower than the tax exemption, and the two are unrelated. The tax deduction lowers a bill; the creditor protection limits what a judgment creditor can take.</p>"
-    },
-    {
-      "h2": "Which other property can be exempt under Section 170?",
-      "html": "<p>The same section lets Kentucky exempt property held by government, institutions of education, religious institutions, public libraries, cemeteries not run for private profit and institutions of purely public charity. Those owners file Revenue Form 62A023 with the PVA, who may forward unclear cases to the department. The homestead deduction for seniors and disabled owners is a different benefit with its own form.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "How much is the Kentucky homestead exemption?",
-      "a": "It is $49,100 for the 2025 and 2026 assessment years. That amount comes off the assessed value of the home, and tax is figured on the rest."
-    },
-    {
-      "q": "What age do I have to be to claim it?",
-      "a": "You must be 65 or older during the year you apply, or be classified as totally disabled. You also have to own the home and use it as your personal residence."
-    },
-    {
-      "q": "Where do I file the application?",
-      "a": "File with the property valuation administrator in the county where the home is located. The Department of Revenue says applications are due by December 31 of the tax year."
-    },
-    {
-      "q": "Does the exemption transfer to the person who buys my house?",
-      "a": "No. It follows the owner. You must report the transfer to the PVA, and a buyer or heir who is 65 or disabled needs to apply on their own."
-    },
-    {
-      "q": "Can I get money back if I qualified after paying my taxes?",
-      "a": "Yes. KRS 132.810 entitles an applicant who qualifies after the bill is paid to a refund of the tax tied to the exempt value."
-    }
-  ],
-  "sources": [
-    {"title": "Kentucky DOR: Homestead Exemption", "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/pages/homestead-exemption.aspx"},
-    {"title": "Kentucky DOR: DOR Sets 2025-2026 Homestead Exemption", "url": "https://revenue.ky.gov/News/Pages/DOR-Sets-2025-2026-Homestead-Exemption.aspx"},
-    {"title": "KRS 132.810 Homestead exemption", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39641"},
-    {"title": "KRS 427.060 Homestead and burial plot exemptions", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=18546"},
-    {"title": "KRS 142.050 Real estate transfer tax", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"},
-    {"title": "Kentucky DOR: Property Tax Exemptions", "url": "https://revenue.ky.gov/Property/Pages/Property-Tax-Exemptions.aspx"}
-  ]
+ "slug": "kentucky-homestead-exemption",
+ "sections": [
+  {
+   "h2": "Kentucky homestead exemption",
+   "html": "<p>This is a deduction from the assessed value of a Kentucky home for owners who are 65 or older or totally disabled. Section 170 of the Kentucky Constitution created it, and the deduction is $49,100 for the 2025 and 2026 assessment years. Property tax is then figured on whatever value is left.</p><p>The reduction applies to state, county, city and special district taxes alike, so it lowers the whole bill and not just one line of it.</p>"
+  },
+  {
+   "h2": "Who qualifies",
+   "html": "<p>Two things have to be true at once: an age or disability test, and a residence test. KRS 132.810 sets both.</p><ul><li>The applicant is 65 or older during the year of the application, or was classified as totally disabled on January 1 of that year under a federal agency program or a retirement system inside or outside Kentucky.</li><li>The applicant owns the property and maintains it as a personal residence.</li><li>A disabled applicant has received disability payments and keeps the classification for the whole taxation period.</li><li>Only one exemption is allowed per residential unit, even when two residents both qualify.</li></ul><p>Ownership can take several forms. Legal or equitable title, joint tenancy, tenancy in common, a condominium and certain corporate or leasehold interests of more than 98 years all count. A mobile home, an RV classified as real property or a manufactured house qualifies as a residential unit.</p>"
+  },
+  {
+   "h2": "How and when to apply",
+   "html": "<p>File with the property valuation administrator, the PVA, in the county where the home sits. Applications are due by December 31 of the eligible tax year and can be submitted online, by mail or in person, depending on what the local PVA office accepts. Phone the office to learn which method it prefers.</p><p>An applicant based on age can prove it with a birth certificate, driver's license, passport or other approved document. A disability applicant needs proof of the classification. The state form is titled Application for Exemption Under the Homestead/Disability Amendment.</p><p>The valuation you write on the form cannot be used to raise your assessment. If it is, the statute requires an adjustment the next year so that your total tax comes out the same as if the increase never happened.</p>"
+  },
+  {
+   "h2": "If the tax bill is already paid, or still unpaid",
+   "html": "<p>Timing decides whether you get a reduced bill or a refund. If you qualify before paying the bill for that year, you are entitled to a full or partial exoneration that reflects the exemption. If you qualify after paying, you are entitled to a refund of the tax on the exempt portion of the value.</p><p>Heirs and late-year sellers should pay attention here. A seller who is eligible but never applied can ask the PVA whether an application for the current taxation period is still possible before the December 31 deadline, and can ask the sheriff how the bill would be adjusted.</p>"
+  },
+  {
+   "h2": "How the exemption amount changes",
+   "html": "<p>The $6,500 written into Section 170 is read as $6,500 in 1972 purchasing power. Every two years, if the federal cost of living index has moved at least 1 percent, the Department of Revenue adjusts the maximum. The 2025 and 2026 figure is $2,750 higher than the 2023 and 2024 figure.</p><table><caption>Kentucky homestead exemption maximums (KRS 132.810)</caption><thead><tr><th>Period</th><th>Maximum exemption</th></tr></thead><tbody><tr><td>Section 170 original amount (1972 dollars)</td><td>$6,500</td></tr><tr><td>2023 and 2024 assessment years</td><td>$46,350</td></tr><tr><td>2025 and 2026 assessment years</td><td>$49,100</td></tr></tbody></table><p>The amount is recalculated every second year. Ask your PVA for the figure that applies to the tax year you are working with, since a later two-year period will carry a different number.</p>"
+  },
+  {
+   "h2": "When you sell or inherit the home",
+   "html": "<p>The exemption belongs to the owner, not to the house. When title to an exempt property passes, the owner, administrator, executor, trustee, guardian, conservator or agent has to report the transfer to the PVA. A buyer or an heir who is 65 or disabled has to file a fresh application of their own.</p><p>A death also ends the period. If the person holding the classification dies before December 31, the taxation period runs only from January 1 to the date of death. A disabled owner who stops meeting the total disability classification must tell the PVA, and the exemption ends at the close of that taxation period without being prorated.</p><p>The exemption has no effect on the deed tax. The grantor still pays fifty cents per $500 of value at recording, unless the transfer falls in one of the listed exceptions such as a foreclosure or a transfer between spouses.</p>"
+  },
+  {
+   "h2": "Checklist for a seller with the exemption",
+   "html": "<p>A few quick checks keep the paperwork clean when a house with an exemption changes hands.</p><ul><li>Ask the PVA to confirm the exemption is on file for the current year and which person it is tied to.</li><li>Ask the sheriff for the current bill so you can see whether the exempt value was already applied.</li><li>Tell the PVA about the transfer once the deed is recorded, since the statute requires the owner or the estate's representative to report it.</li><li>If the owner has died, keep the date of death handy, because it caps the taxation period for that year.</li></ul><p>Tell the buyer the deduction will not carry over automatically. A younger buyer will simply see a bill computed on the full assessment, so the first tax bill after closing can be noticeably higher than the one you paid.</p>"
+  },
+  {
+   "h2": "Do disabled owners under 65 have to reapply every year?",
+   "html": "<p>Usually yes. A totally disabled owner under 65 must apply annually. Two groups are excused after documenting the disability at the first application: totally disabled former members of the Armed Forces with a service-connected disability, and people found totally and permanently disabled under Social Security rules, Kentucky Retirement Systems rules or another provision of the Kentucky Revised Statutes.</p><p>Missing an annual renewal can cost a year of savings, so mark December 31 on the calendar if you are in this group.</p>"
+  },
+  {
+   "h2": "Creditor protection is a separate homestead rule",
+   "html": "<p>KRS 427.060 exempts an individual debtor's interest of up to $5,000 in the home the debtor or a dependent uses as a permanent residence, or in a burial plot, from sale under execution, attachment or judgment. It does not apply to foreclose a mortgage given by the owner or for purchase money, and it does not reach debts that existed before the property was bought or improved.</p><p>That $5,000 figure is far lower than the tax exemption, and the two are unrelated. The tax deduction lowers a bill. The creditor protection limits what a judgment creditor can take.</p>"
+  },
+  {
+   "h2": "Other exempt property under Section 170",
+   "html": "<p>The same section lets Kentucky exempt property held by government, institutions of education, religious institutions, public libraries, cemeteries not run for private profit and institutions of purely public charity. Those owners file Revenue Form 62A023 with the PVA, who may forward unclear cases to the department. The homestead deduction for seniors and disabled owners is a different benefit with its own form.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How much is the Kentucky homestead exemption?",
+   "a": "It is $49,100 for the 2025 and 2026 assessment years. That amount comes off the assessed value of the home, and tax is figured on the rest."
+  },
+  {
+   "q": "What age do I have to be to claim it?",
+   "a": "You must be 65 or older during the year you apply, or be classified as totally disabled. You also have to own the home and use it as your personal residence."
+  },
+  {
+   "q": "Where do I file the application?",
+   "a": "File with the property valuation administrator in the county where the home is located. Applications are due by December 31 of the tax year."
+  },
+  {
+   "q": "Does the exemption transfer to the person who buys my house?",
+   "a": "No. It follows the owner. You must report the transfer to the PVA, and a buyer or heir who is 65 or disabled needs to apply on their own."
+  },
+  {
+   "q": "Can I get money back if I qualified after paying my taxes?",
+   "a": "Yes. KRS 132.810 entitles an applicant who qualifies after the bill is paid to a refund of the tax tied to the exempt value."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kentucky DOR: Homestead Exemption",
+   "url": "https://revenue.ky.gov/Property/Residential-Farm-Commercial-Property/pages/homestead-exemption.aspx"
+  },
+  {
+   "title": "Kentucky DOR: DOR Sets 2025-2026 Homestead Exemption",
+   "url": "https://revenue.ky.gov/News/Pages/DOR-Sets-2025-2026-Homestead-Exemption.aspx"
+  },
+  {
+   "title": "KRS 132.810 Homestead exemption",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39641"
+  },
+  {
+   "title": "KRS 427.060 Homestead and burial plot exemptions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=18546"
+  },
+  {
+   "title": "KRS 142.050 Real estate transfer tax",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43160"
+  },
+  {
+   "title": "Kentucky DOR: Property Tax Exemptions",
+   "url": "https://revenue.ky.gov/Property/Pages/Property-Tax-Exemptions.aspx"
+  }
+ ]
 }

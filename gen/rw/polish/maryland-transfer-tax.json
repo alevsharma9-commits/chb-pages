@@ -1,0 +1,109 @@
+{
+ "slug": "maryland-transfer-tax",
+ "sections": [
+  {
+   "h2": "The state transfer tax rate",
+   "html": "<p>The state transfer tax is 0.5% of the consideration on the deed, set by Tax-Property Article section 13-203. It is charged before any local taxes.</p><p>Consideration includes any mortgage or deed of trust the buyer takes over. It leaves out debt that was forgiven or that no longer secures the property.</p><p>A lower rate of 0.25% applies when the buyer is a first-time Maryland home buyer who will live in the house as a principal residence. The seller pays that reduced tax entirely. Maryland defines a first-time buyer as someone who has never owned Maryland residential property that was their principal residence.</p>"
+  },
+  {
+   "h2": "Who pays transfer tax and recordation tax at closing",
+   "html": "<p>Unless the contract or another law says otherwise, Maryland presumes the buyer and seller split recordation tax and any state or local transfer tax equally. Real Property section 14-104 sets that default, and it doesn't apply to mortgages or deeds of trust.</p>\n<p>The default flips when a first-time buyer is involved. For improved residential property bought as a principal residence, the seller pays all of the state transfer tax. The seller also pays the recordation tax and local transfer tax, unless the parties expressly agree otherwise. The state portion can't be shifted by agreement.</p>\n<p>Three conditions come with that rule:</p>\n<ul>\n<li>Each buyer, or the buyer's agent, signs a statement under oath that the buyer is a first-time buyer who will occupy the home. A non-occupying co-signer on the purchase loan can sign a matching statement.</li>\n<li>With several buyers, the rule applies only if every one of them qualifies in one of those two ways.</li>\n<li>The rule doesn't apply to tax sales under Title 14, Subtitle 8 of the Tax-Property Article.</li>\n</ul>\n<p>Contracts for homes with one or two units must also carry a conspicuous statement that these taxes are shared equally unless negotiated otherwise. That requirement appears in section 14-117, which also covers other notices Maryland sellers owe buyers, including a homestead tax credit statement on every residential sale.</p>"
+  },
+  {
+   "h2": "Why the total bill changes by county",
+   "html": "<p>The state rate stays the same everywhere, and counties add their own recordation and transfer taxes on top. The FY 2026 local rate table shows these examples:</p>\n<table><thead><tr><th>Jurisdiction</th><th>Recordation rate</th><th>Local transfer tax</th></tr></thead><tbody>\n<tr><td>Baltimore City</td><td>$5.00</td><td>1.5%</td></tr>\n<tr><td>Baltimore County</td><td>$2.50</td><td>1.5%</td></tr>\n<tr><td>Howard County</td><td>$2.50</td><td>1.25%</td></tr>\n<tr><td>Prince George's County</td><td>$2.75</td><td>1.4%</td></tr>\n<tr><td>Frederick County</td><td>$7.00</td><td>0.0%</td></tr>\n<tr><td>Charles County</td><td>$7.00</td><td>0.5%</td></tr>\n<tr><td>Montgomery County</td><td>Varies, surcharge above $500,000</td><td>Varies by property value</td></tr>\n</tbody></table>\n<p>Recordation rates are charged per $500 of consideration, rounded up to the next $500. Anne Arundel adds a 0.5% surcharge on transactions of $1 million or more. The full table covers all 24 jurisdictions.</p>\n<p>Counties and Baltimore City also have the option to exempt part or all of the recordation tax for owner-occupied homes bought by first-time buyers or by buyers who occupy the home for at least 7 months of a 12-month period. Whether a county has used those options is a local question, so call its land records office before assuming a figure.</p>"
+  },
+  {
+   "h2": "Transfers exempt from state transfer tax",
+   "html": "<p>State transfer tax is waived for transfers that are also exempt from recordation tax, plus a few extras. Section 13-207 and the recordation exemptions in section 12-108 together cover a long list. The ones home sellers run into most often:</p>\n<ul>\n<li>Transfers between spouses, or between domestic partners</li>\n<li>Transfers from an estate, which matters for inherited houses</li>\n<li>Certain transfers into or out of a trust</li>\n<li>Transfers to or from the federal, state or local government</li>\n<li>Court judgments and orders of satisfaction</li>\n<li>A principal residence surrendered in bankruptcy to the holder of its purchase money mortgage, under set conditions</li>\n<li>Deeds that carry out a prior contract of sale where tax was already paid</li>\n<li>Leases of 7 years or less</li>\n</ul>\n<p>Each exemption has conditions. A deed that claims one has to name which one, and Prince George's County, for example, asks that exemption deeds cite every applicable code section from the Annotated Code.</p>"
+  },
+  {
+   "h2": "Where the state transfer tax money goes",
+   "html": "<p>Most of it funds land conservation and parks. After the cost of administering the tax is deducted, the remaining revenue goes into a special fund, and section 13-209 splits the balance. Program Open Space gets 75.15%, plus 1% for land acquisition. The Agricultural Land Preservation Fund gets 17.05%, the Rural Legacy Program 5%, and the Heritage Conservation Fund 1.8%.</p>\n<p>For fiscal years 2026 through 2029, $25 million is moved to the General Fund first, and the program shares shrink proportionally. Revenue is first pledged to any outstanding bonds that rely on it.</p>"
+  },
+  {
+   "h2": "Agricultural transfer tax on a house sale",
+   "html": "<p>The agricultural transfer tax is a separate charge that applies when land with a farm-use assessment is sold. It is easy to miss if a rural Maryland house sits on acreage that was once assessed as farmland.</p>\n<ul>\n<li>The tax is 5% for 20 acres or more, 4% for under 20 acres, and 3% for under 20 acres with site improvements such as a well and septic.</li>\n<li>A 25% surcharge is added, though it doesn't apply to transfers of two acres or less to a child or grandchild of the owner.</li>\n<li>The tax falls on the deed, so who pays is negotiable. The seller has to tell the buyer in writing in the sales contract that it may be due, and after that notice the buyer carries it.</li>\n<li>A buyer can file a Declaration of Intent to farm the land for at least five full consecutive taxable years, which waives the tax.</li>\n<li>The tax must be paid before the deed can be recorded, and the assessment office should hear about new improvements at least 7 days before recording.</li>\n</ul>"
+  },
+  {
+   "h2": "Transfers of a company that owns real estate",
+   "html": "<p>Maryland also taxes some transfers that never produce a deed. Since 2007, selling more than 80% of the equity in a real property entity triggers recordation tax paid to SDAT, and the state and county transfer taxes extend to it as well. Distributions from an LLC or partnership to its owners are taxable unless an exemption fits, measured on the property's full assessed value just before the transfer.</p>\n<p>Most single-family house sales never reach this territory. It matters mainly if you hold a rental house inside an LLC and want to sell the company instead of the deed.</p>"
+  },
+  {
+   "h2": "Transfer taxes in a cash sale",
+   "html": "<p>In a cash sale the same taxes apply, and the contract has to say who pays them. The baseline under section 14-104 is a 50/50 split, so check whether the proposed contract follows it or moves the whole amount to one side.</p>\n<p>Ask for a line-by-line estimate before signing. The pieces to see are the state transfer tax, the county transfer tax, the recordation tax, and any recording fees. Then compare the county figures with the local rate table above, because a house in Baltimore City and a house in Frederick County can differ by thousands of dollars on the same price.</p>\n<p>If you're selling an inherited home, check the estate exemption. If the house sits on a larger rural lot, ask about the agricultural assessment history. Both can change the number at the settlement table. Rates and fee schedules change, so confirm them with the title company or the county finance office close to the closing date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Maryland state transfer tax rate?",
+   "a": "It is 0.5% of the consideration on the deed, or 0.25% when a first-time Maryland home buyer will live in the house as a principal residence. The seller pays the reduced 0.25% tax entirely."
+  },
+  {
+   "q": "Does the seller or the buyer pay Maryland transfer tax?",
+   "a": "By default they split recordation and transfer taxes equally, unless the contract or a law says otherwise. For a first-time buyer who will occupy the home, the seller pays the state transfer tax in full, and the recordation and local transfer taxes too unless the parties agree otherwise."
+  },
+  {
+   "q": "Is a house inherited from an estate exempt from transfer tax?",
+   "a": "Transfers from an estate are on the exemption list in the Maryland statutes. Sales by the estate to a buyer are different, so ask the county land records office or a title company how the deed should be prepared."
+  },
+  {
+   "q": "Does every Maryland county charge the same transfer tax?",
+   "a": "No. The state rate is the same, but county transfer and recordation rates differ. Frederick County has 0.0% local transfer tax while Baltimore City and Baltimore County charge 1.5%."
+  },
+  {
+   "q": "Where can I confirm the current rates?",
+   "a": "Ask the land records office or finance office of the county where the house sits, or your title company. Rates and fee schedules change, so confirm them close to the closing date."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maryland Tax-Property section 13-203 (state transfer tax rate)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/13-203.pdf"
+  },
+  {
+   "title": "Maryland Real Property section 14-104 (who pays)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/14-104.pdf"
+  },
+  {
+   "title": "Maryland Real Property section 14-117 (residential contract notices)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/14-117.pdf"
+  },
+  {
+   "title": "Maryland Tax-Property section 13-207 (transfer tax exemptions)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/13-207.pdf"
+  },
+  {
+   "title": "Maryland Tax-Property section 12-108 (recordation tax exemptions)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/12-108.pdf"
+  },
+  {
+   "title": "Maryland Tax-Property section 12-103 (recordation tax)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/12-103.pdf"
+  },
+  {
+   "title": "Maryland Tax-Property section 13-209 (distribution of transfer tax)",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/13-209.pdf"
+  },
+  {
+   "title": "Department of Legislative Services: 2026 County Local Tax Rates",
+   "url": "https://dls.maryland.gov/pubs/prod/NoPblTabPDF/2026CountyLocalTaxRates.pdf"
+  },
+  {
+   "title": "SDAT: Agricultural Transfer Tax",
+   "url": "https://dat.maryland.gov/realproperty/Documents/agtransf.pdf"
+  },
+  {
+   "title": "Maryland Association of Counties: Roadmap for Recordation and Transfer Taxes",
+   "url": "https://conduitstreet.mdcounties.org/2025/12/04/roadmap-for-maryland-recordation-and-transfer-taxes/"
+  },
+  {
+   "title": "Prince George's County Finance Affidavit instructions",
+   "url": "https://princegeorgescountymd.gov/DocumentCenter/View/24302/Instructions-for-Finance-Affidavit-PDF"
+  },
+  {
+   "title": "Prince George's County Circuit Court: Record Processing for Deeds",
+   "url": "https://www.princegeorgescourts.org/220/Record-Processing-for-Deeds"
+  }
+ ]
+}

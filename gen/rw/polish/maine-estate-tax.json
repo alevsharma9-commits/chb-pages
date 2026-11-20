@@ -1,0 +1,85 @@
+{
+ "slug": "maine-estate-tax",
+ "sections": [
+  {
+   "h2": "Maine estate tax or inheritance tax?",
+   "html": "<p>Maine has an estate tax and no inheritance tax. The tax is figured on the whole estate before it is distributed, so heirs do not owe a separate tax on what they receive. The estate tax fully replaced the old inheritance tax for deaths after June 30, 1986.</p><p>For a family holding a house, the practical questions are whether the estate is large enough to owe anything, and whether the paperwork for the lien release is in order. Some estates owe no tax and still file a short form so the house can be sold with a clean title. Bring the date of death, the house's deed reference and a value for the property to the first conversation with the estate's attorney, since those three items drive every form below.</p><p>Definitions are in <a href=\"https://legislature.maine.gov/statutes/36/title36sec4102.html\">36 M.R.S. §4102</a>. The \"adjusted federal gross estate\" is the federal gross estate adjusted for Maine elective property, plus taxable gifts made in the year before death. A \"resident\" is a person domiciled in Maine at death, and a \"nonresident\" is someone domiciled elsewhere.</p>"
+  },
+  {
+   "h2": "The 2026 exclusion amount",
+   "html": "<p>For 2026 deaths, Maine's exclusion amount is $7,160,000. It was $7,000,000 for 2025, $6,800,000 for 2024 and $6,410,000 for 2023, so it creeps up from year to year. The federal exclusion for 2026 decedents is $15,000,000, as set out in the <a href=\"https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/26_706ME_instructions.pdf\">Form 706ME instructions</a>. The gap between the two is why a Maine estate can owe state tax when no federal return is needed.</p>"
+  },
+  {
+   "h2": "Estate tax rates",
+   "html": "<p>Tax applies only to the amount above the exclusion, in three steps. Table A in the 2026 Form 706ME instructions sets the rates.</p><table><thead><tr><th>Maine taxable amount (line 5)</th><th>Tax</th></tr></thead><tbody><tr><td>$7,160,000 or less</td><td>$0</td></tr><tr><td>Over $7,160,000 up to $10,160,000</td><td>8% of the amount over $7,160,000</td></tr><tr><td>Over $10,160,000 up to $13,160,000</td><td>$240,000 plus 10% of the amount over $10,160,000</td></tr><tr><td>Over $13,160,000</td><td>$540,000 plus 12% of the amount over $13,160,000</td></tr></tbody></table><p>Interest and penalties are added to the tax owed. They cannot be deducted on the return.</p>"
+  },
+  {
+   "h2": "Who must file a Maine estate tax return",
+   "html": "<p>A Maine return is required when the estate is above the threshold or when a federal estate tax return is required. Any one of these triggers it:</p><ul><li>A federal estate tax return is required.</li><li>The federal gross estate plus taxable gifts made within one year of death plus Maine elective property exceeds the threshold.</li><li>The Maine QTIP election on line 2 of Form 706ME is greater than zero.</li></ul><p>Form 706ME applies to Maine residents, and to nonresidents who owned Maine real or tangible personal property at death. A nonresident who held Maine land through a trust, LLC or other pass-through entity may still be treated as owning Maine property, unless the entity had a valid business purpose, carried on a for-profit business and was acquired in a bona fide sale for full consideration. The personal representative files. If none has been appointed, a person in possession of the estate's property is treated as the representative.</p>"
+  },
+  {
+   "h2": "Due dates and extensions",
+   "html": "<p>The return is due nine months after the date of death. Maine gives an automatic extension to file equal to any federal extension or six months, whichever is longer.</p><ul><li>An extension to file does not extend the time to pay. Tax is due by the original date, and interest runs on unpaid tax.</li><li>A longer extension must be requested in writing before the automatic six-month period ends, and the total generally cannot exceed eight months.</li><li>Estates largely made up of closely held business interests may request a payment extension under 36 M.R.S. §4109.</li><li>Penalties may be waived for reasonable cause. Interest waivers are rare.</li></ul><p>Form 706ME must be filed and paid electronically through the Maine Tax Portal, which needs no account for estate tax filings.</p>"
+  },
+  {
+   "h2": "The estate tax lien and your house sale",
+   "html": "<p>Maine law puts an automatic lien on a decedent's Maine real and tangible personal property at death (36 M.R.S. §4112). A buyer's title company will want a release before it insures the purchase, so the lien matters whenever an estate sells a house.</p><p>The representative requests the release with a Certificate of Discharge of Estate Tax Lien, plus either Form 706ME or Form 700-SOV (Statement of Value) and any required proof of value. The State Tax Assessor signs the certificate and mails it back, and the original is recorded with the county Registry of Deeds.</p><ul><li>When no return is otherwise required, the estate files Form 700-SOV with the certificate to request the release.</li><li>Probate courts may require Form 700-SOV or 706ME even when no tax is owed.</li><li>If you lack the deed's book and page, the Registry of Deeds can help you find the reference.</li></ul><p>Maine has <a href=\"https://www.maine.gov/revenue/taxes/property-tax/transfer-tax/county-registries-of-deeds\">17 registry of deeds offices</a>, one for each county and two for Aroostook, so send the certificate to the office where the house sits.</p>"
+  },
+  {
+   "h2": "Timing an estate sale around the lien",
+   "html": "<p>Start the paperwork early. The release is often what sets the closing date, and even a small estate with one house benefits from a clear timeline.</p><ol><li>Confirm the date of death and the value of all assets to see whether the estate is near the $7,160,000 threshold.</li><li>Get a date-of-death appraisal of the house. The same value is generally used for the heirs' basis under <a href=\"https://www.irs.gov/publications/p551\">IRS Publication 551</a>.</li><li>Prepare Form 700-SOV or Form 706ME with the Certificate of Discharge.</li><li>Submit electronically through the Maine Tax Portal and wait for the signed certificate.</li><li>Record the original at the registry of deeds in the county where the house is located.</li><li>Schedule the closing after the release is recorded.</li></ol><p>Probate steps run alongside this, as described in our Maine probate guide. A personal representative needs authority from the probate court to sign a deed, so line up those letters at the same time.</p>"
+  },
+  {
+   "h2": "Selling an estate house for cash",
+   "html": "<p>A cash buyer can close without bank underwriting, but the lien release and the estate's authority still set the timeline. Heirs often come to us with a house that needs repairs, or one that sits empty while the family decides what to do. We buy as-is and work with your attorney or personal representative on the documents the title company needs.</p><p>For a specific estate, check with the personal representative's attorney or Maine Revenue Services before you sign a purchase contract.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Maine estate tax threshold in 2026?",
+   "a": "$7,160,000. Estates below that generally owe no Maine estate tax, though a form may still be needed to release the lien on real estate. The amount was $7,000,000 for 2025 and $6,800,000 for 2024."
+  },
+  {
+   "q": "Does Maine have an inheritance tax?",
+   "a": "No. Maine uses an estate tax only, figured on the estate rather than on each heir's share. It fully replaced the old inheritance tax for deaths after June 30, 1986."
+  },
+  {
+   "q": "Can heirs sell an inherited house in Maine before the estate tax is paid?",
+   "a": "Usually the title company will require the Certificate of Discharge of Estate Tax Lien first. The lien attaches automatically at death, and the release is recorded at the county registry of deeds. Ask the personal representative's attorney how to time it."
+  },
+  {
+   "q": "What is Form 700-SOV?",
+   "a": "It is the Statement of Value, which an estate files with a certificate request to release the lien when no estate tax return is otherwise required. Probate courts may ask for it even when no tax is owed."
+  },
+  {
+   "q": "When is the Maine estate tax return due?",
+   "a": "Nine months after the date of death. Maine allows an automatic filing extension of six months or the federal extension, whichever is longer, but payment is still due by the original date."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maine Revenue Services: Estate Tax FAQ",
+   "url": "https://www.maine.gov/revenue/faq/estate-tax"
+  },
+  {
+   "title": "Maine Revenue Services: 2026 Form 706ME instructions",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/26_706ME_instructions.pdf"
+  },
+  {
+   "title": "36 M.R.S. §4102, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4102.html"
+  },
+  {
+   "title": "Maine Revenue Services: County Registries of Deeds",
+   "url": "https://www.maine.gov/revenue/taxes/property-tax/transfer-tax/county-registries-of-deeds"
+  },
+  {
+   "title": "IRS Publication 551: Basis of assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "SimplyTrust: Why there's no inheritance tax in Maine",
+   "url": "https://simplytrust.com/5791/why-theres-no-inheritance-tax-in-maine/"
+  }
+ ]
+}

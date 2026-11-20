@@ -1,0 +1,109 @@
+{
+ "slug": "maine-eviction-process",
+ "sections": [
+  {
+   "h2": "How a Maine eviction works",
+   "html": "<p>A Maine landlord must serve a written notice, file a court case, win a judgment, and then wait for a writ of possession that a sheriff or constable serves. The court case is called a forcible entry and detainer action, or FED, and 14 M.R.S. Chapter 709 governs it.</p><p>Every step has strict paperwork, and a defective notice or a missed service step can reset the clock. If you own a rented house and may sell, find out where the case stands, because the stage it has reached decides what a buyer can do. This is general information, not legal advice.</p>"
+  },
+  {
+   "h2": "Which notice comes first?",
+   "html": "<p>It depends on why the tenancy is ending. For a tenancy at will, <a href=\"https://legislature.maine.gov/statutes/14/title14sec6002.html\">14 M.R.S. §6002</a> lets either side end it with at least 30 days' written notice, or with a 7-day notice for specific grounds.</p><table><thead><tr><th>Notice</th><th>When it is used</th><th>Requirements</th></tr></thead><tbody><tr><td>30-day notice</td><td>Ending a tenancy at will without a stated fault</td><td>Must tell the tenant of the right to contest in court; if rent is paid past the 30 days, the notice must expire on or after that date</td></tr><tr><td>7-day notice</td><td>Rent 7 or more days in arrears, nuisance, substantial damage not repaired, unauthorized occupant, and certain violence-related grounds</td><td>Must state the specific ground; a rent notice must state the amount owed and the cure statement</td></tr></tbody></table><p>A landlord can combine a 30-day and a 7-day notice in one document. A clerical error in the arrears figure does not void the notice if it was unintentional and does not materially change its purpose. Landlords must also attach the judicial branch's form notice to termination notices under <a href=\"https://legislature.maine.gov/statutes/14/title14sec6001.html\">14 M.R.S. §6001</a>.</p>"
+  },
+  {
+   "h2": "How a tenant can stop an eviction for unpaid rent",
+   "html": "<p>By paying. If the tenant pays the full rent due before a 7-day arrears notice expires, the notice is void. After it expires, paying all arrears, rent due and the filing and service fees before the writ issues reinstates the tenancy, and no writ may issue.</p><p>Payment, or written assurance of payment, through the general assistance program counts as cash here. For a landlord planning a sale, that means a nonpayment case can end suddenly when rent arrives.</p><p>A tenant can also raise the implied warranty of habitability in a nonpayment case. The landlord must have had actual or constructive notice of the problem and unreasonably failed to make repairs, and the tenant must not have caused it. If the court finds the unit unfit, the tenant owes only reduced fair rental value until repairs are made. The duty itself sits in 14 M.R.S. §6021, which also covers heat and mold.</p>"
+  },
+  {
+   "h2": "Court steps and costs for a rent case",
+   "html": "<p>Maine courts lay out a seven-step path for evicting a tenant who has not paid rent.</p><ol><li>Serve a 7-day notice to quit under §6002(1), with the information sheet (form CV-256).</li><li>Prepare the complaint (CV-007), summons (CV-034, $5 each from the clerk) and the other required forms. List all tenants and add \"and all other occupants\" if others live there.</li><li>Serve the papers through the county sheriff only after the notice period ends.</li><li>File the notice to quit, the complaint, the summons with the return of service and the lease, with a $100 filing fee, before the hearing.</li><li>Attend the hearing even if the tenant does not. Mediation is available at the court that day at no extra cost.</li><li>If you win, you receive a judgment for possession and a writ of possession.</li><li>If the tenant has not left, buy the writ from the clerk and hire a sheriff to serve it.</li></ol><p>An eviction does not collect back rent. That takes a separate case, often in Small Claims Court. If a tenant cannot be served in hand after three good-faith attempts on three different days, <a href=\"https://legislature.maine.gov/statutes/14/title14sec6004.html\">14 M.R.S. §6004</a> permits first-class mail plus leaving a copy at the tenant's last and usual residence, with an affidavit filed.</p>"
+  },
+  {
+   "h2": "Time to leave after judgment",
+   "html": "<p>The court issues the writ of possession seven calendar days after judgment is entered. Once a sheriff or constable serves it, the tenant has 48 hours to leave under <a href=\"https://legislature.maine.gov/statutes/14/title14sec6005.html\">14 M.R.S. §6005</a>.</p><p>A tenant who stays past 48 hours is treated as a trespasser, and the belongings are considered abandoned under §6013. No writ issues if the tenancy ended for rent arrears and the tenant paid the amount needed to reinstate.</p><p>An appeal can slow things down. Under §6008, either party may appeal to Superior Court, and a defendant who appeals must pay the lesser of the unpaid current month's rent or the arrearage. The court can stay the writ on conditions such as continued rent payments. The deadline is the earlier of the writ's issuance or 30 days after judgment.</p>"
+  },
+  {
+   "h2": "A tenant's belongings after eviction",
+   "html": "<p>The landlord must store them in a safe, dry, secured location and send written notice by first-class mail with proof of mailing. <a href=\"https://legislature.maine.gov/statutes/14/title14sec6013.html\">14 M.R.S. §6013</a> sets the timing.</p><ul><li>The notice must include an itemized list of the items and containers.</li><li>The tenant has 7 days from the notice to claim the property.</li><li>If the tenant responds, the landlord must keep storing it for at least 14 days after sending the notice.</li><li>A tenant who claims the property within 7 days cannot be charged fees or other amounts as a condition of release.</li><li>Unclaimed property may be sold at a reasonable fair market price. Proceeds go first to back rent, damages and costs, and any balance goes to the Treasurer of State.</li></ul>"
+  },
+  {
+   "h2": "What can stop or delay an eviction",
+   "html": "<p>The statute builds in several defenses. <a href=\"https://legislature.maine.gov/statutes/14/title14sec6001.html\">Section 6001</a> presumes retaliation, subject to rebuttal, if within 6 months before the action the tenant asserted listed statutory rights, complained in good faith about code violations, made written repair requests or filed fair housing complaints. A writ cannot issue without rebuttal.</p><ul><li>A tenant may raise a landlord's failure to provide a reasonable accommodation for a disability.</li><li>Victims of domestic violence, sexual assault or stalking cannot be evicted for those incidents.</li><li>A bona fide tenancy in a building with a pending foreclosure may be ended only under the federal Protecting Tenants at Foreclosure Act of 2009.</li><li>A new owner or assignee generally cannot bring the process against a tenant at will unless that tenant received proper notice under §6002.</li></ul>"
+  },
+  {
+   "h2": "When the owner sells a Maine rental",
+   "html": "<p>Security deposits must be accounted for and transferred no later than the real estate closing. Under <a href=\"https://legislature.maine.gov/statutes/14/title14sec6035.html\">14 M.R.S. §6035</a>, whoever holds the deposits, whether landlord, agent or executor, must either transfer them to the successor with an accounting or return them to the tenants.</p><ul><li>The seller mails each tenant notice of the transfer, the new owner's name and address, and a copy of the accounting.</li><li>At closing, the seller gives the buyer written proof of the accounting and transfer.</li><li>Once the holder complies, it is relieved of further liability for those funds, and the buyer takes on the landlord's duties.</li><li>Under §6038, deposits must sit in a bank account protected from the landlord's creditors, and a tenant can recover the greater of actual damages, $500 or one month's rent for a violation.</li></ul><p>A tenant with a lease generally stays through a sale, because the buyer steps into the landlord's place. A buyer who wants the house empty must wait for the lease to end or follow the notice rules above.</p>"
+  },
+  {
+   "h2": "Evict first or sell with tenants in place?",
+   "html": "<p>It comes down to timing and cost. An eviction can take weeks, adds filing and sheriff fees, and ends with a unit that may need work. Selling with tenants avoids that, but the buyer must accept the lease and the deposit transfer.</p><p>We buy Maine houses with tenants, unpaid rent or deferred repairs, as-is. A cash sale lets you hand off the property without waiting for a court date. If you are in the middle of a case, talk to a Maine attorney before you sign anything, and make sure the closing includes the deposit accounting that §6035 requires.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a Maine eviction take?",
+   "a": "It depends on the notice period, the hearing date and whether the tenant appeals. The fixed pieces are a 7-day or 30-day notice, a writ issued 7 calendar days after judgment, and 48 hours for the tenant to leave once the writ is served."
+  },
+  {
+   "q": "How much notice does a Maine landlord have to give?",
+   "a": "At least 30 days' written notice to end a tenancy at will, or a 7-day notice for grounds such as rent 7 or more days late, nuisance or substantial damage. A lease may add its own terms."
+  },
+  {
+   "q": "What is the filing fee for an eviction in Maine?",
+   "a": "A rent case carries a $100 filing fee, plus $5 for each summons from the clerk. Writ and sheriff service fees are separate."
+  },
+  {
+   "q": "Can I sell a house in Maine while the tenant is still there?",
+   "a": "Yes. The tenant's lease generally continues with the new owner. At closing the seller must transfer or return security deposits, give the buyer written proof, and mail each tenant notice of the transfer."
+  },
+  {
+   "q": "What if the tenant pays after getting a 7-day notice?",
+   "a": "Paying all rent due before the notice expires voids it. Paying all arrears and filing and service fees after expiration but before the writ issues reinstates the tenancy, and no writ may issue."
+  }
+ ],
+ "sources": [
+  {
+   "title": "14 M.R.S. §6001, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6001.html"
+  },
+  {
+   "title": "14 M.R.S. §6002, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6002.html"
+  },
+  {
+   "title": "14 M.R.S. §6004, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6004.html"
+  },
+  {
+   "title": "14 M.R.S. §6005, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6005.html"
+  },
+  {
+   "title": "14 M.R.S. §6008, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6008.html"
+  },
+  {
+   "title": "14 M.R.S. §6013, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6013.html"
+  },
+  {
+   "title": "14 M.R.S. §6021, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6021.html"
+  },
+  {
+   "title": "14 M.R.S. §6035, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6035.html"
+  },
+  {
+   "title": "14 M.R.S. §6038, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/14/title14sec6038.html"
+  },
+  {
+   "title": "Maine Judicial Branch: Evicting a Tenant from a Residence for Not Paying Rent",
+   "url": "https://www.courts.maine.gov/help/eviction/evict-tenant.html"
+  },
+  {
+   "title": "Maine Judicial Branch: Eviction for Nonpayment of Rent brochure",
+   "url": "https://www.courts.maine.gov/help/guides/fed-brochure.pdf"
+  }
+ ]
+}

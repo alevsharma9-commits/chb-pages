@@ -1,0 +1,73 @@
+{
+ "slug": "massachusetts-estate-tax",
+ "sections": [
+  {
+   "h2": "Who has to file a Massachusetts estate tax return",
+   "html": "<p>The personal representative must file Form M-706 when the estate is large enough. For deaths on or after January 1, 2023, that means a gross estate plus adjusted taxable gifts above $2,000,000. For deaths from 2006 through 2022 the trigger was $1,000,000. Changes in federal estate tax law after December 31, 2000 have no effect on the Massachusetts tax.</p><p>People who didn't live here are covered too. A nonresident who owned or transferred Massachusetts real estate or tangible property has the same filing test, measured against the total worldwide estate, and must send Form M-NRA with the return.</p><table><thead><tr><th>Requirement</th><th>Rule</th></tr></thead><tbody><tr><td>Filing threshold, deaths from 2023</td><td>Gross estate over $2,000,000</td></tr><tr><td>Filing threshold, deaths 2006 to 2022</td><td>Gross estate over $1,000,000</td></tr><tr><td>Credit, deaths from 2023</td><td>$99,600</td></tr><tr><td>Return and payment due</td><td>Nine months after death</td></tr><tr><td>Late filing penalty</td><td>1% per month, up to 25%</td></tr><tr><td>Late payment penalty</td><td>1% per month, up to 25%</td></tr><tr><td>Estate Tax Unit phone</td><td>(617) 887-6930</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How the tax is calculated",
+   "html": "<p>The state computes its tax from the old federal credit for state death taxes, using the Internal Revenue Code as it stood on December 31, 2000, and then subtracts a $99,600 credit. It is a transfer tax on the value of the estate before distribution to any beneficiary.</p><p>The computation turns on the federal Table B. The adjusted taxable estate is the taxable estate less $60,000, and there is no credit when that figure is $40,000 or less. Marginal rates in the table run from 0.8 percent up to 16 percent.</p><p>Two details affect real estate directly:</p><ul><li>For deaths on or after August 1, 2025, the value of real and tangible property located outside Massachusetts comes out of a resident's computation.</li><li>Massachusetts QTIP assets claimed on a predeceased spouse's return are added back, and the steps for deaths between January 1, 2023 and July 31, 2025 follow a separate set of FAQs.</li></ul><p>The final amount can't fall below zero. For a real number on a specific estate, ask the Department of Revenue or an estate attorney.</p>"
+  },
+  {
+   "h2": "The estate lien and your sale",
+   "html": "<p>A lien automatically arises at death on all real estate the decedent owned, either alone or jointly, and it can stand in the way of a clean sale. Failing to file Form M-706 blocks the Certificate Releasing Massachusetts Estate Lien, and a release of lien is necessary to obtain clear title and to sell or transfer the real estate.</p><p>When the return must be filed, the certificate is needed for several kinds of real estate:</p><ul><li>Property owned jointly or as tenants by the entirety.</li><li>Real estate held in trust.</li><li>Other real estate outside the probate inventory but included in the gross estate.</li></ul><p>It can also be required for probate real estate if a sale is pending and no closing letter has been issued. If the return was already filed, send a copy of the purchase and sale agreement or mortgage commitment to speed up the certificate.</p>"
+  },
+  {
+   "h2": "Estates below the threshold",
+   "html": "<p>The personal representative signs an affidavit and records it at the registry of deeds to release the lien. The affidavit must be made under the pains and penalties of perjury and must accurately state that the gross estate does not require a Massachusetts estate tax filing. That rule applies to estates of decedents dying on or after January 1, 1997.</p><p>Ask the estate's attorney or the registry what form it accepts, since blank affidavits for the registry of deeds come from those offices.</p>"
+  },
+  {
+   "h2": "Can the estate sell before the nine-month deadline?",
+   "html": "<p>Yes, an estate can sell before the return is due, and there is a form for it. If a sale or mortgage is happening sooner than nine months after death, or later than nine months while an approved extension is running, the estate can file Form M-4422, Application for Certificate Releasing Massachusetts Estate Tax Lien, through MassTaxConnect.</p><p>The application needs an executed purchase and sale agreement or mortgage commitment, plus these attachments:</p><ul><li>An attested copy of the deed.</li><li>A copy of the purchase and sale agreement or mortgage commitment.</li><li>A copy of the letter of authority or the trust document.</li><li>Payment of the estimated tax due.</li><li>A copy of the death certificate.</li></ul><p>The full Form M-706 is still due within nine months of death or within the extension. Filing and paying through MassTaxConnect speeds up the closing letter and the lien release, while mailed returns to P.O. Box 7023, Boston, MA 02204 can delay both.</p>"
+  },
+  {
+   "h2": "Extensions and penalties",
+   "html": "<p>Every estate return gets an automatic six-month extension to file if at least 80 percent of the tax finally due is paid by the nine-month date. If the 80 percent is missed, the extension is void and the late filing penalty can apply, and interest runs on unpaid tax from the original due date either way.</p><p>A separate extension of time to pay is available on Form M-4768 for undue hardship or reasonable cause. Each request covers up to six months, and up to three years from the original due date can be granted in total. Interest keeps accruing during that time. The interest rate changes each quarter, so call the Department of Revenue contact center at (617) 887-6367 or (800) 392-6089 in Massachusetts for the current figure.</p><p>The personal representative can be held personally liable for tax shown on the return that isn't paid. Ask an attorney before distributing money to heirs.</p>"
+  },
+  {
+   "h2": "What heirs owe and what a cash sale changes",
+   "html": "<p>This is a tax on the estate itself, not a tax that each heir pays separately on receiving a share. If you think another state tax applies to your situation, ask the Department of Revenue directly.</p><p>A cash sale doesn't remove the lien rules. What it does is shorten the time a house sits while the estate sorts out paperwork. If you are the personal representative of a Massachusetts estate and the house needs repairs, we can look at it as-is, and the estate's attorney handles the lien release or the recorded affidavit.</p><p>Before the closing, line up the death certificate, the letter of authority, the signed purchase and sale agreement and either the certificate of release or the recorded affidavit. The title company will ask for each one. Our probate page covers the court steps, and our capital gains page covers the income tax side of the sale.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Massachusetts estate tax exemption in 2026?",
+   "a": "A Massachusetts estate tax return is required when the gross estate plus adjusted taxable gifts exceeds $2,000,000, for deaths on or after January 1, 2023. Estates also receive a $99,600 credit."
+  },
+  {
+   "q": "When is the Massachusetts estate tax due?",
+   "a": "Nine months after the date of death. An automatic six-month extension to file applies if at least 80 percent of the tax is paid by the nine-month date."
+  },
+  {
+   "q": "Do I need a lien release to sell an inherited house in Massachusetts?",
+   "a": "If the estate is over the threshold, yes in many cases. A Certificate Releasing Massachusetts Estate Lien is needed to obtain clear title. Smaller estates use a recorded affidavit that the gross estate does not require a filing."
+  },
+  {
+   "q": "Can I sell the house before filing the estate tax return?",
+   "a": "Yes. If a purchase and sale agreement is signed, the estate can apply on Form M-4422 for the certificate releasing the lien. A completed Form M-706 is still due within nine months or the extension period."
+  },
+  {
+   "q": "Who do I call with questions about the Massachusetts estate tax?",
+   "a": "Call the Estate Tax Unit at (617) 887-6930. For other ways to reach the Department of Revenue, call the contact center at (617) 887-6367, weekdays 9 a.m. to 4 p.m."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Estate Tax Guide, Mass.gov Department of Revenue",
+   "url": "https://www.mass.gov/info-details/estate-tax-guide"
+  },
+  {
+   "title": "Tax Rates, Mass.gov DOR",
+   "url": "https://www.mass.gov/info-details/tax-rates"
+  },
+  {
+   "title": "Tax Due Dates and Extensions, Mass.gov DOR",
+   "url": "https://www.mass.gov/info-details/tax-due-dates-and-extensions"
+  },
+  {
+   "title": "Massachusetts law about real estate conveyancing, Mass.gov Trial Court Law Libraries",
+   "url": "https://www.mass.gov/info-details/massachusetts-law-about-real-estate-conveyancing-buying-and-selling"
+  }
+ ]
+}

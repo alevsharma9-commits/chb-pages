@@ -1,0 +1,85 @@
+{
+ "slug": "kansas-eviction-notice",
+ "sections": [
+  {
+   "h2": "Which notice a Kansas landlord gives first",
+   "html": "<p>The reason for the eviction decides the notice. The Kansas Residential Landlord and Tenant Act sets separate written notices for unpaid rent, a lease violation and the end of a periodic tenancy, each with its own required wording.</p><table><thead><tr><th>Situation</th><th>Notice period</th><th>Statute</th></tr></thead><tbody><tr><td>Unpaid rent</td><td>3 days (three consecutive 24 hour periods)</td><td>K.S.A. 58-2564(b)</td></tr><tr><td>Material lease violation</td><td>Termination at least 30 days after receipt if not fixed within 14 days</td><td>K.S.A. 58-2564(a)</td></tr><tr><td>Repeat of a similar breach</td><td>30 days, with no chance to cure</td><td>K.S.A. 58-2564(a)</td></tr><tr><td>Month-to-month tenancy</td><td>30 days, ending on a rent-paying date</td><td>K.S.A. 58-2570(b)</td></tr><tr><td>Week-to-week tenancy</td><td>7 days before the termination date</td><td>K.S.A. 58-2570(a)</td></tr></tbody></table><p>Every one of these notices must be in writing. The statute text is on the Kansas Legislature's site, for example <a href=\"https://www.kslegislature.gov/b2025_26/laws/058_000_0000_chapter/058_025_0000_article/058_025_0064_section/058_025_0064_k/\">K.S.A. 58-2564</a>.</p>"
+  },
+  {
+   "h2": "Counting the three days for unpaid rent",
+   "html": "<p>The clock starts when the notice is delivered or posted, and it runs as three full 24 hour periods. Under K.S.A. 58-2564(b), if the notice is handed to the tenant or to a person over 12 years of age living on the premises, or posted in a conspicuous place there, the period begins at delivery or posting.</p><p>A mailed notice gets an additional two days from the date of mailing. The notice must say that rent is unpaid and that the landlord intends to end the rental agreement if it isn't paid within the three days. Those two statements are part of what the notice has to say, so read the statute before drafting.</p><p>If the tenant pays the full rent within the period, the termination does not take effect. Record the date, time and method of delivery every time, since the three days are counted from that moment.</p>"
+  },
+  {
+   "h2": "Lease violations and expired leases",
+   "html": "<p>For a material breach, the landlord delivers a notice listing the acts or omissions and stating that the agreement will end on a date at least 30 days after receipt unless the breach is remedied within 14 days. If repairs or payment can fix the problem and the tenant makes a good faith effort before the date in the notice, the agreement does not terminate.</p><p>If the same or a similar breach comes back after the 14 days, the landlord may serve a new 30 day notice with no chance to cure. The agreement then ends as the notice says, whatever the periodic rent-paying date.</p><p>A tenant who stays after the lease term ends, or after termination, without the landlord's consent is a holdover. Under K.S.A. 58-2570(c) the landlord may bring an action for possession. If the holdover is willful and not in good faith, the landlord may recover up to 1.5 months' periodic rent or up to 1.5 times actual damages, whichever is greater. A tenant in the military who must end a month-to-month tenancy because of orders needs to give no more than 15 days' written notice.</p>"
+  },
+  {
+   "h2": "Court steps after the notice period ends",
+   "html": "<p>The landlord files an eviction petition, and K.S.A. 61-3801 through 61-3808 govern the lawsuit. A typical case runs up to 42 days from petition to the end of the process.</p><ul><li><strong>Step 1:</strong> the landlord files a petition. The hearing is scheduled within 3 to 14 days.</li><li><strong>Step 2:</strong> the court issues a summons. The tenant must respond in writing or appear at the hearing, or a default judgment can be entered.</li><li><strong>Step 3:</strong> if the tenant responds and disagrees, a bench trial is set within 14 days of the hearing date.</li><li><strong>Step 4:</strong> the judge rules.</li><li><strong>Step 5:</strong> if the landlord wins, a writ of restitution issues and is executed within 14 days.</li></ul><p>Service of the summons in a forcible detainer case must be returned no later than three days before the date set for the tenant to appear or plead (K.S.A. 61-3005). The Kansas Judicial Council posts forms and instructions for landlords and tenants.</p>"
+  },
+  {
+   "h2": "Who carries out the eviction?",
+   "html": "<p>Only the person named in the writ of restitution, who must be authorized to serve process. Kansas law sets out no other route for removal after judgment.</p><p>K.S.A. 61-3808 requires the writ to be executed within 14 days after the named person receives it, and that person may use reasonable force as needed. If the tenant appeals and the court stays the proceedings, the officer must stop at once, and a tenant already removed is restored to the home.</p><p>A faster option exists in some cases. K.S.A. 58-2570(d) lets a landlord ask for an order of immediate possession during an action for possession. The judge must find it in the interest of justice, and can require the landlord to post an undertaking to cover the tenant's damages if the tenant wins.</p>"
+  },
+  {
+   "h2": "Eviction record expungement",
+   "html": "<p>Some eviction cases in Kansas can now be expunged, which removes the court record from public view. The Kansas Judicial Branch runs an online Eviction Expungement Portal for people who represent themselves, and the change comes from 2026 Substitute for House Bill 2357.</p><p>A former tenant may later ask a court to expunge a case, and the landlord may object using the form provided. Keep copies of the notice, the petition and any judgment in your own files, because the public record may no longer be there to prove what happened.</p>"
+  },
+  {
+   "h2": "Effect of an eviction on selling a Kansas rental house",
+   "html": "<p>A house with a tenant in dispute is harder to sell on the open market, because buyers who plan to live in it expect possession at closing. The notices only work when they are accurate, correctly delivered and followed by the court steps, which can take up to 42 days even when nothing goes wrong.</p><p>Some counties run programs that help both sides settle first: the Johnson County District Court's Eviction Mediation Program, the Douglas County Eviction Resolution Program and the Sedgwick County Eviction Resolution Program. They connect landlords and tenants with information, mediation and rental assistance.</p><ul><li>Kansas Legal Services publishes a Landlord Handbook and a tenant rights guide.</li><li>The Kansas Housing Resource Corporation and 211 Kansas list rental help and emergency shelter.</li><li>Ask a Kansas attorney whether an existing lease continues after a sale of the house, since the answer depends on the lease terms.</li></ul><p>A buyer who purchases as-is for cash may accept a house with a tenant still in place, but expect a lower price and more questions about the lease. Gather the lease, rent ledger, every notice you served and any court papers before you speak to a buyer.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days notice is required to evict for nonpayment in Kansas?",
+   "a": "Three days, counted as three consecutive 24 hour periods after delivery or posting, with two extra days if the notice is mailed (K.S.A. 58-2564(b))."
+  },
+  {
+   "q": "How much notice ends a month-to-month tenancy in Kansas?",
+   "a": "At least 30 days after receipt, ending on a rent-paying date. A tenant in the military with orders can give no more than 15 days (K.S.A. 58-2570(b))."
+  },
+  {
+   "q": "How long does a Kansas eviction take after the notice?",
+   "a": "The court process can take up to 42 days. A hearing is set 3 to 14 days after the petition, and a writ must be executed within 14 days."
+  },
+  {
+   "q": "Can a landlord remove a tenant without a court order?",
+   "a": "No. Removal is done by the person named in the writ of restitution, under K.S.A. 61-3808, after a judgment for possession."
+  },
+  {
+   "q": "Can an eviction case be removed from the record in Kansas?",
+   "a": "Some eviction cases can now be expunged through a court motion. The Judicial Branch offers an online portal for self-represented people."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Kansas Statutes 58-2564 (material noncompliance, nonpayment of rent)",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/058_000_0000_chapter/058_025_0000_article/058_025_0064_section/058_025_0064_k/"
+  },
+  {
+   "title": "Kansas Statutes 58-2570 (termination of tenancy, holdover)",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/058_000_0000_chapter/058_025_0000_article/058_025_0070_section/058_025_0070_k/"
+  },
+  {
+   "title": "Kansas Statutes 61-3808 (writ of restitution)",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/061_000_0000_chapter/061_038_0000_article/061_038_0008_section/061_038_0008_k/"
+  },
+  {
+   "title": "Kansas Statutes 61-3801 (scope of eviction lawsuits)",
+   "url": "https://www.ksrevisor.gov/statutes/chapters/ch61/061_038_0001.html"
+  },
+  {
+   "title": "Kansas Statutes 61-3005 (return of service in forcible detainer)",
+   "url": "https://www.kslegislature.gov/b2025_26/laws/061_000_0000_chapter/061_030_0000_article/061_030_0005_section/061_030_0005_k/"
+  },
+  {
+   "title": "Kansas Judicial Branch Self-Help: Housing (evictions)",
+   "url": "https://self-help.kscourts.gov/Housing"
+  },
+  {
+   "title": "Kansas Judicial Council: Eviction Summons form",
+   "url": "https://www.kjc.ks.gov/home/showpublisheddocument/5946/638962935629700000"
+  }
+ ]
+}

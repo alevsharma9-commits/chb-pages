@@ -1,0 +1,97 @@
+{
+ "sections": [
+  {
+   "h2": "Closing costs a Michigan seller pays by law",
+   "html": "<p>Three charges are fixed by statute: two deed taxes and a recording fee. State deed tax runs $3.75 for every $500 of value, with a leftover partial block billed as a whole one. County deed tax is 55 cents per block. The exception is the largest county class, where commissioners may set a rate as high as 75 cents.</p><p>Agent commissions, title insurance, attorney charges and utility proration are negotiated in your listing agreement and purchase contract, so they change from one sale to the next. The three statutory charges stay put.</p>"
+  },
+  {
+   "h2": "How the deed tax is figured",
+   "html": "<p>Count how many $500 units the deed price holds, rounding a partial unit up. Multiply that count by $3.75 for the state tax, then by 55 cents for the county tax in a typical county. Your total is the two added together.</p><p>The deed must show the full value of the real property, or an affidavit attached to it must. If land and movable items like equipment sell together, only the land is taxed provided the two values are listed separately. Treasury prepares the affidavit form for the state tax. The State Tax Commission prepares the county one.</p>"
+  },
+  {
+   "h2": "Who pays the deed tax and when",
+   "html": "<p>MCL 207.523 makes the grantor liable. Send the payment to your parcel's county treasurer within 15 days of handing over the deed. In most closings the attorney or escrow officer subtracts it from your proceeds and remits it.</p><p>Your purchase contract can push this cost to the other side, which is why every line of the settlement statement deserves a read before closing day. A buyer who covers the tax instead of the seller may file the refund request later.</p>"
+  },
+  {
+   "h2": "Deeds exempt from the state tax",
+   "html": "<p>MCL 207.526 names a long list of exempt instruments. These are the ones that come up most for people selling a home:</p><ul><li>Any deed where the price paid is under $100.</li><li>A parent deeding to a son, daughter, stepchild or adopted child, or deeding to a grandchild in one of those groups.</li><li>A transfer between spouses that creates or ends a tenancy by the entireties.</li><li>A court judgment or order that directs a transfer without setting a dollar price.</li><li>A deed that comes out of a mortgage foreclosure or stands in for one. When the foreclosing party resells, that sale is taxed.</li><li>A corrective quitclaim that repairs a defect in title the grantee already holds.</li><li>A land contract that keeps legal title with the vendor until full payment.</li></ul><p>The county act, MCL 207.505, runs a parallel list that leaves out the child and grandchild exemptions, so have your closing agent check the deed against both.</p>"
+  },
+  {
+   "h2": "Getting deed tax back",
+   "html": "<p>Sometimes. If you or the buyer paid and the deed met an exemption on the day it was signed, you can apply to Treasury for the money back. The refund right reaches back to transfers made in the four years before the amendment that created it.</p><p>One refund route is aimed at homeowners. Paragraph (u) of MCL 207.526 applies when the seller had claimed the principal residence exemption, the parcel's state equalized value had not risen above its value on the first tax day after occupancy or purchase (whichever came later), and the price was set by arm's length negotiation. Before you sign the deed, have your closing agent test your sale against that rule.</p>"
+  },
+  {
+   "h2": "Recording fee for your deed",
+   "html": "<p>Recording one document costs a flat $30 no matter how many pages (MCL 600.2567). That section also covers add-ons: $1 a page for copies, $5 to certify a recorded document, and records searches at 50 cents per year searched with a $5 minimum.</p><p>A charter county may adopt its own schedule by ordinance or resolution, but it can't charge above what the service costs it. Call the recording office for your parcel before you mail a deed. An electronic filing must be paid for within one business day after the office receives it.</p>"
+  },
+  {
+   "h2": "Land contracts and foreclosure deeds",
+   "html": "<p>No deed tax is due on a land contract whose vendor holds legal title until the price is paid in full (MCL 207.526(o)). Property tax works differently. Signing a land contract after 1994 counts as a change of ownership under MCL 211.27a(6)(b), so the taxable value resets the next year. Recording the deed at payoff does not reset it again.</p><p>Paragraph (v) of that section exempts a foreclosure deed or deed in lieu from the state tax. The lender's own resale is not covered. If you are behind on your mortgage, ask the county treasurer how the deed you are considering would be taxed before you sign it.</p>"
+  },
+  {
+   "h2": "Fixed seller charges at a glance",
+   "html": "<table><caption>Statutory Michigan seller closing charges</caption><thead><tr><th>Charge</th><th>Amount</th><th>Statute</th></tr></thead><tbody><tr><td>State deed tax</td><td>$3.75 per $500 or fraction</td><td>MCL 207.525</td></tr><tr><td>County deed tax, county under 2,000,000 people</td><td>55 cents per $500 or fraction</td><td>MCL 207.504</td></tr><tr><td>County deed tax, county of 2,000,000 or more</td><td>Up to 75 cents per $500 or fraction</td><td>MCL 207.504</td></tr><tr><td>Recording a document</td><td>$30</td><td>MCL 600.2567</td></tr><tr><td>Certifying a recorded document</td><td>$5</td><td>MCL 600.2567</td></tr><tr><td>Tax payment deadline</td><td>15 days after the deed is delivered</td><td>MCL 207.523</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Property taxes after the house sells",
+   "html": "<p>After closing, the buyer gets 45 days to send the local assessor a transfer notice, on a State Tax Commission form that lists the parties, date, actual price and parcel number. The recording office also sends the assessor its recorded transfers at least monthly.</p><p>Under MCL 211.27a a change of ownership lifts the taxable value to full state equalized value from the following January. A transfer to a spouse doesn't trigger the reset, and since 2014 neither does a residential transfer to a parent, child, sibling or grandchild who keeps it non-commercial. The contract decides how this year's bill is split, and the settlement statement carries the proration line.</p>"
+  },
+  {
+   "h2": "What to bring and what happens at closing",
+   "html": "<p>Ask the closing agent for a draft settlement statement early. Match the three statutory lines against the table above. Then review the lines your contracts drive: commission, title work and how the property tax bill is split.</p><ul><li>Bring a payoff letter from your lender if a mortgage is still open.</li><li>Bring proof of any exemption you plan to claim, such as the family relationship on a deed to a child.</li><li>Check the purchase agreement to see which side pays the deed tax.</li><li>Confirm the county treasurer gets paid inside the 15-day window after delivery.</li></ul><p>A cash sale has no buyer's lender, so no lender-ordered items need settling. The deed taxes and recording fee still apply and still come out of your proceeds.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How are deed taxes figured on a Michigan sale?",
+   "a": "Divide the sale price by $500 and round up to the next whole unit. Multiply by $3.75 for the state tax and by 55 cents for the county tax in a county under 2,000,000 residents."
+  },
+  {
+   "q": "Is the buyer or the seller responsible for the deed tax?",
+   "a": "The statute names the seller, so the seller normally pays it out of proceeds. A purchase agreement may split it differently."
+  },
+  {
+   "q": "How much does Michigan charge to file a deed?",
+   "a": "The statutory base is $30 per document, with certification priced separately. Charter counties may publish another schedule."
+  },
+  {
+   "q": "Does gifting the house to my daughter or son create deed tax?",
+   "a": "Under MCL 207.526, paragraph (j) frees a deed to a son, daughter, stepchild or adopted child from the state tax, and paragraph (k) does the same for grandchildren. The county list in MCL 207.505 has no matching paragraph, so confirm the county side with the treasurer."
+  },
+  {
+   "q": "What is the payment deadline for the tax?",
+   "a": "Fifteen days from delivery of the deed. Closing funds normally cover it."
+  }
+ ],
+ "sources": [
+  {
+   "title": "MCL 207.525 State Real Estate Transfer Tax Act, tax rate",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-525"
+  },
+  {
+   "title": "MCL 207.504 County Real Estate Transfer Tax, rate",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-504"
+  },
+  {
+   "title": "MCL 207.505 County transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-505"
+  },
+  {
+   "title": "MCL 207.523 Instruments subject to tax, liability, payment date, refund",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-523"
+  },
+  {
+   "title": "MCL 207.526 State transfer tax exemptions",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-207-526"
+  },
+  {
+   "title": "MCL 600.2567 Register of deeds fees",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2567"
+  },
+  {
+   "title": "MCL 211.27a Taxable value and transfer of ownership",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
+  }
+ ],
+ "slug": "michigan-closing-costs"
+}
