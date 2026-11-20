@@ -15,11 +15,11 @@
   },
   {
    "h2": "Exemptions and caps that lower the bill",
-   "html": "<p>The homestead exemption does the most work. School districts tax $140,000 less of the value, and anyone who is 65-plus or disabled gets another $60,000 off. Cities and counties may add a percentage exemption as large as 20 percent, so ask each office what it chose.</p><ul><li>A homestead's appraised value can climb no more than 10 percent a year starting after the first qualifying January 1.</li><li>A school tax freeze holds a senior's school bill at the amount set in the year they qualified.</li><li>A disabled veteran can get a partial exemption tied to a VA rating, or a total one at 100 percent.</li><li>File applications with the appraisal district by April 30, using forms on the Comptroller's <a href=\"https://comptroller.texas.gov/taxes/property-tax/exemptions/\">exemption page</a>.</li></ul><p>If you buy after January 1 and the seller never claimed the exemption, you can claim it right away.</p>"
+   "html": "<p>The homestead exemption does the most work. School districts tax $140,000 less of the value, and anyone who is 65-plus or disabled gets another $60,000 off. Cities and counties may add a percentage exemption as large as 20 percent, so ask each office what it chose.</p><ul><li>A homestead's appraised value can climb no more than 10 percent a year starting after the first qualifying January 1.</li><li>Seniors can freeze the school bill at whatever it was in their first qualifying year.</li><li>A disabled veteran gets a partial break that scales with the VA rating, and a 100 percent rating earns a total one.</li><li>File applications with the appraisal district by April 30, using forms on the Comptroller's <a href=\"https://comptroller.texas.gov/taxes/property-tax/exemptions/\">exemption page</a>.</li></ul><p>A buyer who closes after January 1 on a house whose seller never claimed can file immediately.</p>"
   },
   {
    "h2": "How to contest your Round Rock appraised value",
-   "html": "<p>Your written protest must reach the appraisal review board by May 15, or by day 30 after your notice arrived when that is later. Notices for homesteads start near April 1.</p><p>A board ruling you dislike can go to district court, arbitration, or the State Office of Administrative Hearings when the value is over $1,000,000. Pay the undisputed part of the tax before the delinquency date to protect the appeal. Ask the district early for your property record card and its comparable sales, and compare them with recent sales on your own street. Keep the notice, the record card and any photos together so you can show them at the hearing, and note the hearing date so a buyer is not surprised by a pending value.</p>"
+   "html": "<p>Get a written protest to the review board by May 15 or, if your notice came late, within thirty days of getting it. Notices for homesteads start near April 1.</p><p>A board ruling you dislike has three more routes: district court, arbitration, and (for values above $1,000,000) the State Office of Administrative Hearings. Whatever you choose, send the portion you do not dispute before delinquency to protect the appeal. Ask the district early for your property record card and its comparable sales, and compare them with recent sales on your own street. Keep the notice, the record card and any photos together so you can show them at the hearing, and note the hearing date so a buyer is not surprised by a pending value.</p>"
   },
   {
    "h2": "Round Rock at a glance",
@@ -35,13 +35,13 @@
   },
   {
    "h2": "Selling with taxes owed",
-   "html": "<p>Before you list, gather a few things. Request a current statement from the county that bills your parcel, since the city contracts with both. Make a list of every unit on it, special districts included, and ask each county tax office for a written payoff if anything is owed. If a protest is pending, keep the filing and the hearing date handy so a buyer knows which value the tax will follow.</p><p>A lien for each year's tax forms on January 1 and rides with the house. A buyer cannot get clean title until delinquent balances are cleared, and the January 1 owner remains answerable for that year even after the transfer.</p><p>Your escrow officer settles the account from the buyer's funds at the closing table, so get a written payoff from the right county, including any special district balance. The county clerk records the deed, and the state's clerk manual lists $5.00 for page one plus $4.00 per added page. A cash buyer can skip a lender's timeline, but the tax payoff is still cleared at the table.</p>"
+   "html": "<p>Before you list, gather a few things. Order a current statement from whichever county bills your parcel, then list every unit on it, special districts included. If anything is owed, ask that county's tax office for a written payoff, and get it before you sign a contract so the closing office has a firm figure. If a protest is pending, keep the filing and the hearing date handy so a buyer knows which value the tax will follow.</p><p>A lien for each year's tax forms on January 1 and rides with the house. A buyer cannot get clean title until delinquent balances are cleared, and the January 1 owner remains answerable for that year even after the transfer.</p><p>The escrow officer pays the account out of the buyer's money when the sale funds, so a written payoff from the correct county, special district balance included, is worth getting early. The county clerk records the deed, and the state's clerk manual lists $5.00 for page one plus $4.00 per added page. A cash buyer can skip a lender's timeline, but the tax payoff is still cleared at the table.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What per-$100 rate does Round Rock charge?",
-   "a": "The city's adopted figure is 37.2000 cents per $100 for fiscal year 2025-2026. Counties, school districts and special districts levy theirs separately."
+   "a": "Round Rock adopted 37.2000 cents per $100 for fiscal year 2025-2026. Each county, school and special district sets its own rate."
   },
   {
    "q": "Williamson County or Travis County: which gets my payment?",
@@ -49,7 +49,7 @@
   },
   {
    "q": "What if I miss the January 31 date?",
-   "a": "The account is delinquent on February 1, with six percent penalty and one percent interest added at once. The penalty reaches twelve percent by July 1, and interest keeps accruing."
+   "a": "It turns delinquent on February 1 and picks up penalty and interest immediately. The penalty grows to twelve percent by July 1 and interest keeps running."
   },
   {
    "q": "Is hotel tax due on an Airbnb in Round Rock?",
@@ -57,7 +57,7 @@
   },
   {
    "q": "Can a Round Rock house with back taxes still be sold?",
-   "a": "Yes. The balance is cleared at the closing table. Request the payoff in writing from the correct county so you know your net before accepting an offer."
+   "a": "Yes. The balance gets paid at closing. Get the payoff in writing from the right county beforehand so you can calculate your net."
   }
  ],
  "sources": [
