@@ -1,0 +1,93 @@
+{
+ "slug": "utah-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Utah charge an estate or inheritance tax?",
+   "html": "<p>No. Utah's inheritance tax was repealed and ended after December 31, 2004, and no Utah inheritance tax return needs to be filed.</p><p>Utah also does not require an Inheritance Tax Waiver, a document some states ask for before a title can move. For an heir who plans to sell a parent's house, that removes one step. The old tax sat in Utah Code Title 59, Chapter 11.</p><p>Utah never layered a separate estate tax on top. You will not find a Utah death tax line on the closing statement for an inherited house.</p>"
+  },
+  {
+   "h2": "Why Utah's tax disappeared",
+   "html": "<p>The old Utah levy was a pick-up tax. It collected only the slice of federal estate tax that Washington allowed as a credit for state death taxes, so once that federal credit ended, the state had nothing left to hang the tax on.</p><p>A short list of states still levy an inheritance tax on the person who receives property: Iowa, Kentucky, Maryland, Nebraska, New Jersey and Pennsylvania. Other states have their own estate tax. Utah is on neither list. If the person who died, or the heir, has ties to one of those states, an estate attorney should check whether another state's tax applies.</p>"
+  },
+  {
+   "h2": "When the federal estate tax matters",
+   "html": "<p>Federal estate tax only reaches estates above a high threshold, set at $13,990,000 for deaths in 2025 and $15,000,000 for deaths in 2026.</p><p>A return is required when the gross estate plus adjusted taxable gifts and the specific gift tax exemption exceeds the threshold for the year of death. Most simple estates, such as those holding mainly cash or publicly traded securities, do not need to file. A surviving spouse can receive the unused exemption through a portability election, but only on a timely filed estate tax return.</p><p>The IRS estate tax page has the current thresholds.</p>"
+  },
+  {
+   "h2": "Tax when heirs sell an inherited Utah house",
+   "html": "<p>What most heirs actually run into is income tax on gain above the stepped-up basis, not an estate tax.</p><p>The basis of an inherited home is generally its fair market value on the date of death, or on the alternate valuation date if the estate chose that. If a Form 706 was filed, the value on that return controls. Selling soon after the death at about that value leaves little gain. Holding the house for years, or renting it out, can create more.</p><ul><li>Get a date-of-death appraisal early, since it fixes your basis.</li><li>Keep records of repairs and improvements you pay for after inheriting.</li><li>Report the sale on Form 8949 and Schedule D, and watch for Form 1099-S from the title company.</li><li>Rental depreciation taken after May 6, 1997 is treated differently, so tell your preparer if the house was a rental.</li></ul>"
+  },
+  {
+   "h2": "Does an inherited Utah house go through probate before it sells?",
+   "html": "<p>Usually yes, because a Utah house titled in the deceased person's name needs someone with court authority, called a personal representative, to sign the sale.</p><p>Informal probate starts in the district court for the county where the person lived or owned property. Nothing can be filed until 120 hours (five days) after the death. It must be filed within three years of the death. Next the court signs a Statement of Informal Probate and issues Letters Testamentary when there is a will, or Letters of Administration when there is not.</p><table><caption>Informal probate in Utah</caption><thead><tr><th>Step</th><th>Requirement</th></tr></thead><tbody><tr><td>Earliest filing</td><td>120 hours after death</td></tr><tr><td>Latest filing</td><td>Within three years of death</td></tr><tr><td>Who files</td><td>Applicant at least 21 years old</td></tr><tr><td>Where</td><td>District court in the county of residence or property</td></tr><tr><td>What you receive</td><td>Letters Testamentary or Letters of Administration</td></tr></tbody></table><p>The personal representative's duties include collecting and inventorying the estate, paying taxes and mortgages on real property, making repairs where needed, filing estate and income tax returns, and selling property if needed to pay taxes or debts.</p>"
+  },
+  {
+   "h2": "Who can sign for the estate",
+   "html": "<p>The court works down a priority list and appoints the first person on it who is willing and at least 21 years old.</p><ul><li>A person nominated in the will.</li><li>The spouse, if the will makes a gift to the spouse.</li><li>Anyone receiving a gift under the will.</li><li>The spouse, even without a gift or without a will.</li><li>Any heir.</li><li>Any creditor, but only after 45 days following the death.</li></ul><p>Someone with the same or higher priority can sign a Renunciation to back the applicant. Publishing a notice to creditors is optional, though publication shortens the creditor claim period to about three months, compared with up to one year without it. If you plan to sell the house, ask the attorney or clerk whether the representative needs further court approval before signing a purchase contract, since that depends on the will and the estate.</p>"
+  },
+  {
+   "h2": "If the family disagrees about the house",
+   "html": "<p>A disagreement moves the case from informal to formal probate, which is slower and usually calls for an attorney.</p><p>If an interested person will not sign the Waiver of Notice, the court must set a hearing. A written objection also makes the case formal, and after one is filed all parties must attend mediation and exchange initial disclosures. Formal probate is beyond what the court's self-help pages cover, so find legal help.</p><p>A small estate affidavit does not solve the house problem. That route applies to personal property under $100,000, waits 30 days after death, and cannot transfer Utah real property such as a home.</p>"
+  },
+  {
+   "h2": "Property tax break after the owner dies",
+   "html": "<p>The 45 percent primary residential exemption does not carry over to heirs on its own, so the home can be taxed at its full market value until someone applies.</p><p>A qualifying primary residence is taxed on 55 percent of fair market value, and the exemption does not transfer automatically to new owners. Starting January 1, 2027, a deed or trust transfer calls for a new Form TC-473A under 2026 SB 238. Applications go to the county Board of Equalization by September 15, and late ones are not accepted.</p><p>Heirs who sell quickly may never need this. Heirs who keep a vacant house for a year should ask the county assessor what it requires.</p>"
+  },
+  {
+   "h2": "A short plan for selling an inherited house",
+   "html": "<p>Begin with who holds title. A house still in the deceased owner's name calls for an informal probate filing, and you should wait for the Letters before signing a listing or purchase contract. Meanwhile, order the date-of-death appraisal and collect the mortgage statement, tax bill and homeowners insurance information.</p><p>A buyer paying cash can close soon after the Letters are issued and the title company clears the file, since no lender has to approve the deal. Ask the title company early what it needs from the court so nothing delays the closing date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Utah inheritance tax?",
+   "a": "No. The state's inheritance tax ended after December 31, 2004, no return is required, and no inheritance tax waiver is needed."
+  },
+  {
+   "q": "Does Utah have an estate tax?",
+   "a": "No. Utah has only the old pick-up tax that was repealed, and the federal estate tax applies to estates above $13,990,000 for 2025 deaths or $15,000,000 for 2026 deaths."
+  },
+  {
+   "q": "Do heirs pay income tax when they sell an inherited Utah house?",
+   "a": "Only on gain above the stepped-up basis, which is generally the fair market value on the date of death. A sale near that value often leaves little or no taxable gain."
+  },
+  {
+   "q": "How long after a death can I start informal probate in Utah?",
+   "a": "You can file 120 hours (five days) after death, and the case must be filed within three years of death. File in the district court of the county where the person lived or owned property."
+  },
+  {
+   "q": "Can a small estate affidavit transfer a Utah house?",
+   "a": "No. The affidavit route applies to personal property under $100,000 and excludes Utah real property, so a house usually needs probate or another title transfer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Utah State Tax Commission, Inheritance Tax",
+   "url": "https://tax.utah.gov/business/other-taxes/inheritance-tax/"
+  },
+  {
+   "title": "IRS Estate Tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/estate-tax"
+  },
+  {
+   "title": "IRS Publication 523, Selling Your Home",
+   "url": "https://www.irs.gov/publications/p523"
+  },
+  {
+   "title": "Utah Courts, Informal Probate",
+   "url": "https://www.utcourts.gov/en/self-help/case-categories/probate/informal-probate.html"
+  },
+  {
+   "title": "Utah Law Explained, How does Utah probate work and can small estates avoid it",
+   "url": "https://utahlawexplained.com/how-does-utah-probate-work-and-can-small-estates-avoid-it/"
+  },
+  {
+   "title": "Utah State Tax Commission, Primary Residential Exemption",
+   "url": "https://tax.utah.gov/propertytax/tax-relief/primary-residential-exemption/"
+  },
+  {
+   "title": "Estate tax in the United States (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Estate_tax_in_the_United_States"
+  }
+ ]
+}

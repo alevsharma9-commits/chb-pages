@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Where to record a deed",
-   "html": "<p>Deeds are recorded with the register of deeds. Counties outside the list in SC Code 30-5-10(A) use the clerk of court, who performs the register's duties with the same powers. Berkeley and Dorchester registers serve four-year terms.</p><p>The office you need depends on where the land lies. Charleston, Greenville, Richland and Horry are among the counties with a register of deeds.</p>"
+   "html": "<p>The register of deeds is the office that takes deeds for the public record. Counties outside the list in SC Code 30-5-10(A) use the clerk of court, who performs the register's duties with the same powers. Berkeley and Dorchester registers serve four-year terms.</p><p>The office you need depends on where the land lies. Charleston, Greenville, Richland and Horry are among the counties with a register of deeds.</p>"
   },
   {
    "h2": "What must happen before recording",
@@ -11,7 +11,7 @@
   },
   {
    "h2": "Recording fee",
-   "html": "<p>The fee is $1.85 for each $500, or fractional part of $500, of the property's value (SC Code 12-24-10). It splits into a state share and a county share.</p><table><thead><tr><th>Part of the fee</th><th>Per $500</th></tr></thead><tbody><tr><td>State</td><td>$1.30</td></tr><tr><td>County</td><td>$0.55</td></tr><tr><td>Total</td><td>$1.85</td></tr></tbody></table><p>Of the state share, $0.10 is credited to the Heritage Land Trust Fund, $0.20 to the South Carolina Housing Trust Fund and $1.00 to the general fund (12-24-90). The county share goes to the county general fund. The register may add separate filing fees, so ask the office for its current schedule.</p><p>The fee is set by the value of the realty, determined under 12-24-30, and counted in $500 units with any fraction rounding up. Multiply the number of units by the $1.85 rate to estimate the statutory fee from your closing statement value. That arithmetic leaves out any separate filing charge the office sets.</p>"
+   "html": "<p>Expect to pay $1.85 for every $500 of property value, rounding any fraction up to the next $500 (SC Code 12-24-10). The money divides between the state and the county.</p><table><thead><tr><th>Part of the fee</th><th>Per $500</th></tr></thead><tbody><tr><td>State</td><td>$1.30</td></tr><tr><td>County</td><td>$0.55</td></tr><tr><td>Total</td><td>$1.85</td></tr></tbody></table><p>Of the state share, $0.10 is credited to the Heritage Land Trust Fund, $0.20 to the South Carolina Housing Trust Fund and $1.00 to the general fund (12-24-90). The county share goes to the county general fund. The register may add separate filing fees, so ask the office for its current schedule.</p><p>The fee is set by the value of the realty, determined under 12-24-30, and counted in $500 units with any fraction rounding up. Multiply the number of units by the $1.85 rate to estimate the statutory fee from your closing statement value. That arithmetic leaves out any separate filing charge the office sets.</p>"
   },
   {
    "h2": "The affidavit of value",
@@ -19,7 +19,7 @@
   },
   {
    "h2": "Deeds exempt from the fee",
-   "html": "<p>Section 12-24-40 lists fifteen exemptions. These are the ones sellers meet most often:</p><ul><li>Realty valued at $100 or less</li><li>Transfers to the federal government, a state or its political subdivisions, including school districts</li><li>Transfers where no gain or loss is recognized under IRC Section 1041</li><li>Corrective or quitclaim deeds confirming title already vested, with no consideration</li><li>Deeds in lieu of foreclosure or deeds under foreclosure proceedings to the mortgagee</li><li>Transfers from an agent to the principal whose funds bought the realty, with a notarized document establishing the relationship</li></ul><p>Treat any other transfer as taxable until the register says otherwise.</p>"
+   "html": "<p>Section 12-24-40 lists fifteen exemptions. Sellers run into these most:</p><ul><li>Real estate worth $100 or less</li><li>Transfers to the federal government, a state or its political subdivisions, including school districts</li><li>Transfers with no gain or loss recognized under IRC Section 1041</li><li>Corrective or quitclaim deeds that only confirm title already vested, for no consideration</li><li>Deeds in lieu of foreclosure or deeds under foreclosure proceedings to the mortgagee</li><li>Transfers from an agent to the principal whose funds bought the realty, with a notarized document establishing the relationship</li></ul><p>Treat any other transfer as taxable until the register says otherwise.</p>"
   },
   {
    "h2": "Timing and what you get back",
@@ -27,7 +27,7 @@
   },
   {
    "h2": "Who is responsible if the fee is not collected?",
-   "html": "<p>The grantor is liable for the fee, and the grantee is secondarily liable (12-24-20). On master-in-equity deeds and deeds from the federal government, a state or its political subdivisions, the grantee carries the liability instead. Anyone who fails to pay can face a $50 to $500 penalty per failure, and a clerk who fails to collect faces the same range (12-24-120).</p>"
+   "html": "<p>Responsibility falls first on the grantor, then secondarily on the grantee (12-24-20). On master-in-equity deeds and deeds from the federal government, a state or its political subdivisions, the grantee carries the liability instead. Not paying risks a penalty of $50 to $500 per failure, and a clerk who does not collect risks the same (12-24-120).</p>"
   },
   {
    "h2": "What to bring to the register's office",
@@ -43,21 +43,21 @@
   },
   {
    "h2": "Estate and foreclosure deeds",
-   "html": "<p>Deeds that come out of an estate or a foreclosure follow the same recording steps, with different fee treatment. A deed in lieu of foreclosure, or a deed to the mortgagee under foreclosure proceedings, is on the exemption list (12-24-40(13)). A master-in-equity deed shifts liability for the fee to the grantee (12-24-20), which matters to a buyer at a foreclosure sale.</p><p>A deed of distribution from a personal representative is recorded like any other deed. For an estate deed, the register will still ask for an affidavit stating either the value or the exemption.</p>"
+   "html": "<p>Deeds that come out of an estate or a foreclosure follow the same recording steps, with different fee treatment. A deed in lieu of foreclosure, or a deed to the mortgagee under foreclosure proceedings, is on the exemption list (12-24-40(13)). A master-in-equity deed shifts liability for the fee to the grantee (12-24-20), which matters to a buyer at a foreclosure sale.</p><p>A personal representative's deed of distribution goes through ordinary recording. For an estate deed, the register will still ask for an affidavit stating either the value or the exemption.</p>"
   },
   {
    "h2": "Why an unrecorded deed causes trouble at a sale",
-   "html": "<p>A buyer's title search reads the public record, and a deed that never reached the register does not appear there. Sellers who inherited a house or took title years ago sometimes find an older deed was signed but never recorded, and that has to be fixed before a clean sale. Recording is an orderly process, with deeds taken in the order lodged, so lodging the missing deed early starts that clock.</p><p>If you find a gap, call the register of deeds or the clerk of court in the county and ask what they need. A closing attorney can help sort it out.</p>"
+   "html": "<p>A buyer's title search reads the public record, and a deed that never reached the register does not appear there. Sellers who inherited a house or took title years ago sometimes find an older deed was signed but never recorded, and that has to be fixed before a clean sale. Recording is an orderly process, with deeds taken in the order lodged, so lodging the missing deed early starts that clock.</p><p>Found a gap? Ask the county's register of deeds or clerk of court what they need to accept the missing deed. A closing attorney can help sort it out.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How much is the deed recording fee in South Carolina?",
-   "a": "$1.85 per $500 of value or fraction, made up of $1.30 for the state and $0.55 for the county (12-24-10, 12-24-90). Other filing fees are set by the office."
+   "a": "$1.85 per $500 of value or fraction, made up of $1.30 for the state and $0.55 for the county (12-24-10, 12-24-90). The office may charge separate filing fees."
   },
   {
    "q": "Do I record at the courthouse or with the register of deeds?",
-   "a": "It depends on the county. In counties outside the 30-5-10(A) list, the clerk of court does the register's job."
+   "a": "The answer varies by county. In counties outside the 30-5-10(A) list, the clerk of court does the register's job."
   },
   {
    "q": "How long does recording take?",
