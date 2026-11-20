@@ -1,0 +1,101 @@
+{
+ "slug": "nevada-tax-sale",
+ "sections": [
+  {
+   "h2": "How a Nevada tax sale works",
+   "html": "<p>A Nevada tax sale is the last step of a county process that starts with an unpaid bill and runs through a two-year redemption period, a deed to the county treasurer and a public sale. The owner can pay and stop the process at nearly every stage.</p>\n<p>The lien comes first. NRS 361.450 makes every property tax a perpetual lien that attaches on July 1 of the tax year and ranks ahead of other liens. When installments go unpaid, the tax receiver publishes and mails delinquency notices under NRS 361.5648 and 361.565, then issues a certificate for each unpaid property. Under NRS 361.570, that certificate lets the county treasurer, acting as trustee for the State and county, hold the property for 2 years after the first Monday in June of the certificate year, unless it is redeemed sooner.</p>\n<table>\n<thead><tr><th>Date or stage</th><th>What happens</th></tr></thead>\n<tbody>\n<tr><td>July 1</td><td>Tax lien attaches to the property</td></tr>\n<tr><td>Third Monday of August onward</td><td>Taxes due; installments follow in October, January and March</td></tr>\n<tr><td>First Monday in June</td><td>Delinquent property goes onto a certificate held by the treasurer as trustee</td></tr>\n<tr><td>Two years later</td><td>Redemption period ends; deed goes to the treasurer in trust</td></tr>\n<tr><td>After the deed</td><td>County commissioners can order a sale; notice by certified mail at least 90 days ahead</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "How long you have to redeem",
+   "html": "<p>The base period is two years from the date of the certificate, and during it the owner can redeem by paying everything owed. That payment covers the taxes, accruing taxes, penalties and costs, plus interest on the taxes at 10 percent per year from the original due date. The Clark County Treasurer publishes the current figures.</p>\n<p>One point surprises owners: the property keeps being assessed during redemption. Under NRS 361.570, the owner must also pay taxes, penalties and costs that accrue after the certificate date, with the same 10 percent interest, assessed monthly. The payoff grows each year you wait.</p>\n<p>Abandoned property has a shorter path. Under NRS 361.567 the tax receiver may use an expedited procedure for property found to be abandoned, and the certificate then gives only 1 year of redemption.</p>\n<ul>\n<li>Normal certificate: 2 years to redeem.</li>\n<li>Abandoned property under the expedited procedure: 1 year.</li>\n<li>Notice by certified mail before a trustee sale: at least 90 days, or at least 45 days in the expedited case (NRS 361.595).</li>\n</ul>\n<p>If you own a vacant house, check its status now. An empty house is the kind that can be treated as abandoned, and that cuts your time in half.</p>"
+  },
+  {
+   "h2": "Can I still get the property back after the deed goes to the county?",
+   "html": "<p>Yes, for a short window. Even after the county treasurer holds the deed as trustee, NRS 361.585 lets certain people have the property reconveyed by paying the taxes, costs, penalties and interest, until 5 p.m. on the third business day before the sale. The Washoe County Treasurer repeats this deadline on its auction page and may withdraw a property before or at the auction.</p>\n<p>Reconveyance is not limited to the owner. People who may redeem include:</p>\n<ul>\n<li>The owner and the person to whom the property was assessed.</li>\n<li>A beneficiary under a deed of trust or a mortgagee.</li>\n<li>A judgment creditor.</li>\n<li>A person holding a contract to purchase the property before it was conveyed to the county treasurer.</li>\n<li>The Director of the Department of Health and Human Services if the owner has received Medicaid benefits.</li>\n<li>A municipality that holds a lien, and any successor in interest.</li>\n</ul>\n<p>The purchase-contract line helps sellers. A buyer who signed a contract before the deed to the treasurer can pay what is owed and take the property back out of trust. A lender or a family member with a recorded interest has similar rights.</p>"
+  },
+  {
+   "h2": "How counties run the auction",
+   "html": "<p>Each county treasurer runs its own sale, so the format and calendar vary. Washoe County holds one real estate tax auction a year, usually in April. Bidders register before the sale, and the treasurer records a quitclaim deed within 30 days of the auction.</p>\n<p>The county sets the opening bid. In Washoe it is the delinquent taxes, assessments, costs, interest and penalties, or the assessed valuation, whichever is greater. Assessed value is about 35 percent of appraised value, so in some cases it exceeds the tax debt. The county only wants to recover what is owed, and buyers must investigate the property for themselves.</p>\n<p>Nye County runs online-only tax sale auctions, and the Clark County Treasurer posts a trustee auction parcel list that changes often, with parcels crossed out when they are no longer eligible. A parcel can drop off the list quickly when someone pays.</p>\n<p>NRS 361.595 sets the sale notice rules. Notice must be posted in at least three public places, including the courthouse and the property, at least 20 days ahead, or published for four weeks. Separately, the owner and any lienholders of record get certified mail at least 90 days before the sale. The buyer receives a quitclaim deed, and the treasurer records it at the buyer's expense.</p>"
+  },
+  {
+   "h2": "Surplus money if the property sells for more than the tax debt",
+   "html": "<p>The surplus belongs to the former owner or lienholders, but only if someone claims it in time. NRS 361.610 sets the order of payment, and a missed deadline sends the money to the county.</p>\n<ol>\n<li>The treasurer pays the taxes and costs on that parcel first.</li>\n<li>From the excess, the county general fund takes the first $300 and 10 percent of the next $10,000.</li>\n<li>The remainder goes into a separate interest-bearing account.</li>\n<li>A written claim must be made within 1 year after the treasurer's deed is recorded. After that, the money goes to the county general fund and cannot be refunded to the former owner.</li>\n</ol>\n<p>The treasurer must approve or deny a claim within 30 days after the claim period ends. Lienholders such as lenders and certain associations rank ahead of the owner in the payment order. If more than one person claims, the matter goes to mediation, then to a hearing or an interpleader action. An aggrieved person has 90 days to seek judicial review in district court.</p>\n<p>Be careful with anyone who offers to recover surplus funds for a fee. A recovery agreement must be in writing and signed, and for a natural person's primary residence the fee cannot exceed 10 percent of the remaining excess proceeds.</p>"
+  },
+  {
+   "h2": "Can a city or county take the property without a sale?",
+   "html": "<p>In some cases, yes. NRS 361.603 lets a local government or the Nevada System of Higher Education apply to the board of county commissioners to acquire property held in trust, if a public purpose is served. The treasurer then sends notice of intent to sell to the last known owner or heirs.</p>\n<p>The owner has 90 days after that notice to redeem by paying the delinquent taxes, penalties, interest and costs. If the owner does not, the treasurer transfers the property to the local government for the amount of the delinquent taxes. When the transfer is for street, sewer or drainage use, for a program to rehabilitate abandoned residential properties, or for open space, the delinquent taxes need not be paid at all.</p>\n<p>Because the notice goes to the last known owner or heirs, an outdated mailing address is a real risk. If you own a house you are not living in, keep your address current with the treasurer.</p>"
+  },
+  {
+   "h2": "Selling before the tax sale",
+   "html": "<p>The cleanest way is to close a sale while the property is still in your name or in redemption, and pay the county from the proceeds. Because the tax lien outranks other liens, a title company will require the balance cleared before it insures a buyer.</p>\n<p>A cash purchase can move on a shorter clock than a financed one, since it skips lender appraisal and underwriting. The sequence is simple:</p>\n<ul>\n<li>Ask the county treasurer for a written payoff figure, with the interest and costs through your expected closing date.</li>\n<li>Find out whether the property is still in the redemption period or already deeded to the treasurer as trustee, because the deadline and the people who can redeem differ.</li>\n<li>Sign the purchase contract and date it clearly. The redemption right for a contract holder applies to a contract made before the property was conveyed to the treasurer.</li>\n<li>Close, pay the treasurer, and collect what is left of your equity.</li>\n</ul>\n<p>If the sale price is above the debt, you keep the difference. At auction, the surplus claim process above applies instead, with a one year claim limit and county fees taken off first. We buy Nevada houses as-is and will give you a straight read on whether the timeline can work.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What does a Nevada county tax sale sell?",
+   "a": "It sells property that the county treasurer holds in trust after the redemption period ends. The treasurer delivers a quitclaim deed to the buyer under NRS 361.595, and the county's goal is to recover the delinquent taxes, penalties, interest and costs."
+  },
+  {
+   "q": "Can I stop a Nevada tax sale by paying?",
+   "a": "Yes. Under NRS 361.585 the owner and certain others can have the property reconveyed by paying the taxes, costs, penalties and interest until 5 p.m. on the third business day before the sale."
+  },
+  {
+   "q": "How much interest accrues on delinquent Nevada property tax?",
+   "a": "Interest on the taxes accrues at 10 percent per year, assessed monthly, from the date due until paid (NRS 361.570). The Clark County Treasurer uses the same rate."
+  },
+  {
+   "q": "Do I get money if my Nevada house sells at a tax auction for more than I owed?",
+   "a": "Possibly. After taxes and costs, the county takes the first $300 and 10 percent of the next $10,000, and the rest is held for claims. A written claim must be filed within 1 year after the deed is recorded (NRS 361.610)."
+  },
+  {
+   "q": "Is the Nevada tax sale redemption period always two years?",
+   "a": "No. The certificate allows 2 years to redeem, but NRS 361.570 gives only 1 year for property determined to be abandoned under the expedited procedure in NRS 361.567."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NRS 361.450 Liens for taxes",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-450/"
+  },
+  {
+   "title": "NRS 361.570 Trustee's certificate; redemption",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-570/"
+  },
+  {
+   "title": "NRS 361.585 Deeds to county treasurer as trustee; reconveyance",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-585/"
+  },
+  {
+   "title": "NRS 361.595 Conveyances of property held in trust",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-595/"
+  },
+  {
+   "title": "NRS 361.603 Acquisition by local government",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-603/"
+  },
+  {
+   "title": "NRS 361.610 Disposition of proceeds; excess proceeds claims",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-610/"
+  },
+  {
+   "title": "NRS 361.483 Time for payment of taxes; penalties",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-483/"
+  },
+  {
+   "title": "Clark County Treasurer: Real Property Tax Information",
+   "url": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/real-property-tax-information"
+  },
+  {
+   "title": "Washoe County Treasurer: Tax Auction",
+   "url": "https://www.washoecounty.gov/treas/TaxSale.php"
+  },
+  {
+   "title": "Washoe County Treasurer: Real Property Tax Sales FAQ",
+   "url": "https://www.washoecounty.gov/treas/faq/faq-category_Real_Property_Tax_Sales.php"
+  },
+  {
+   "title": "Nye County Treasurer: Prior Trust Property Auction Information",
+   "url": "https://www.nyecountynv.gov/254/Prior-Trust-Property-Auction-Information"
+  }
+ ]
+}

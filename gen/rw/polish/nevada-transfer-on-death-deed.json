@@ -1,0 +1,89 @@
+{
+ "slug": "nevada-transfer-on-death-deed",
+ "sections": [
+  {
+   "h2": "Nevada's deed upon death",
+   "html": "<p>Nevada's statutes call it a deed upon death. NRS 111.671 lets the owner of an interest in property convey it to one beneficiary or several, with the deed taking effect only when the owner dies. The rules sit in NRS 111.655 to 111.699.</p>\n<p>The model form in NRS 111.695 tells you most of what you need to know. The deed is revocable, it transfers no ownership until the grantor dies, and it revokes all earlier deeds upon death for the same real property. It must be signed, notarized and recorded with the county recorder before the owner dies, or it does nothing.</p>\n<p>The form lists the county, city and legal description of the property, so copy those details from your current vesting deed. A typo in the legal description tends to surface years later, when the beneficiary tries to sell.</p>"
+  },
+  {
+   "h2": "What the owner can still do while alive",
+   "html": "<p>Nearly everything. During the owner's lifetime a deed upon death does not affect the owner's rights, including the right to transfer or encumber the property (NRS 111.685). The beneficiary gets no legal or equitable interest while the owner is alive.</p>\n<p>The same section lists other things the deed does not do:</p>\n<ul>\n<li>It does not affect any other permitted method of transferring the property.</li>\n<li>It does not reduce the rights of the owner's secured or unsecured creditors, even if they know about it.</li>\n<li>It does not affect the owner's or the beneficiary's eligibility for public assistance.</li>\n<li>It does not expose the property to claims by the beneficiary's creditors.</li>\n</ul>\n<p>Changing your mind is simple. Under NRS 111.677, if the owner transfers the property to someone else during life, the deed upon death is void. If the owner records more than one deed upon death for the same property, the last one recorded before death is the effective deed, so recording a new deed is a practical way to change beneficiaries.</p>"
+  },
+  {
+   "h2": "What must happen after the owner dies",
+   "html": "<p>The beneficiary must record a Death of Grantor Affidavit. On the death of the last grantor, a declaration of value (the form under NRS 375.060) and a copy of each grantor's death certificate must be attached to the affidavit and recorded in the office of the county recorder where the deed was recorded (NRS 111.699).</p>\n<p>The affidavit identifies the deceased as the person named in the deed, gives the recording details of the deed and the property description, and states that the signer is a beneficiary or the beneficiary's authorized representative. It must be sworn before a notary.</p>\n<p>Recording matters for a sale. Under NRS 111.689(9), a person who deals in good faith and for valuable consideration with a beneficiary has the same protections as if the beneficiary had been named in a final order of distribution, provided the Death of Grantor Affidavit was recorded. Without that recording, a buyer or title company has less to rely on.</p>\n<table>\n<thead><tr><th>Step</th><th>Who acts</th></tr></thead>\n<tbody>\n<tr><td>Sign, notarize and record the deed</td><td>Owner, before death</td></tr>\n<tr><td>Record Death of Grantor Affidavit with death certificate and declaration of value</td><td>Beneficiary</td></tr>\n<tr><td>Publish notice to creditors and mail it to listed parties</td><td>Beneficiary</td></tr>\n<tr><td>Wait for the claim period, then sell or distribute</td><td>Beneficiary</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "Do creditors and Medicaid still have a claim?",
+   "html": "<p>Yes. A deed upon death avoids probate for that property, but it does not erase debts. If the grantor's probate estate cannot cover an allowed claim or a statutory allowance to a surviving spouse or child, the estate may enforce the liability against property that passed by the deed (NRS 111.689).</p>\n<p>The notice job falls on the beneficiary. After the death, the beneficiary must publish a notice to creditors and mail a copy to the grantor's personal representative if known, the Department of Health and Human Services, and known or readily ascertainable creditors. A creditor then has 90 days after mailing or after the first publication to file a claim with the beneficiary, and a late claim is barred.</p>\n<p>The Department has its own track. If it receives notice, it must tell the beneficiary within 45 days whether the grantor received public assistance and, if not, give an original waiver of claim for recording. If the beneficiary never gives notice, the property stays subject to the Department's right to recover assistance, and NRS 111.693 adds that the deed statutes do not limit Medicaid recovery.</p>\n<p>When a creditor claim is rejected, the beneficiary has 10 days to send written notice by registered or certified mail, and the claimant then has 30 days to sue or the claim is barred.</p>"
+  },
+  {
+   "h2": "Selling the house after the owner dies",
+   "html": "<p>Beneficiaries can sell, and many do. Once the claim period has run, NRS 111.689(5) lets the beneficiaries sell or distribute the property without personal liability for claims that were not timely filed, as long as they gave written notice to the Department of Health and Human Services and received the waiver of claim the statute describes.</p>\n<p>In practice that gives you a checklist:</p>\n<ol>\n<li>Record the Death of Grantor Affidavit with the death certificate and declaration of value.</li>\n<li>Publish the creditor notice and mail it to the required parties, including the Department.</li>\n<li>Wait out the 90 day claim window and the Department's 45 day response.</li>\n<li>Give the title company copies of the recorded documents. A title company may treat the notices as adequate notice and is not liable for claims it was not told about.</li>\n<li>Sign the sale deed. A sale to a buyer is a regular conveyance, so the transfer tax in NRS 375.020 applies at $1.25 per $500 of value in a county of 700,000 or more people and 65 cents per $500 in a smaller county.</li>\n</ol>\n<p>A beneficiary who does not want the house can disclaim all or part of the interest by recording a disclaimer with the county recorder under chapter 120 (NRS 111.687).</p>"
+  },
+  {
+   "h2": "A missing or defective deed, or several beneficiaries",
+   "html": "<p>There is no shortcut around a bad deed. An unrecorded deed does not work, a void deed does not work, and a deed with a wrong legal description invites a title dispute. In those cases the property may have to go through probate instead. Our <a href=\"/nevada-probate-process/\">Nevada probate guide</a> explains that path.</p>\n<p>Several beneficiaries bring a separate problem. All of them hold title once the deed takes effect, so a sale needs their agreement and signatures. If one beneficiary lives out of state, is hard to reach or disagrees about price, the sale slows down quickly.</p>\n<ul>\n<li>Check that the deed was recorded before death and that the recording details match the affidavit.</li>\n<li>Gather death certificates for every grantor, not only the last to die.</li>\n<li>Make a list of every beneficiary and a way to contact each one.</li>\n<li>Ask the title company early what it will require.</li>\n</ul>\n<p>We buy inherited Nevada houses as-is, including houses that still hold the owner's belongings or need repairs. Because we pay cash, there is no lender appraisal to hold up closing once the paperwork is in order.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the difference between a deed upon death and a will in Nevada?",
+   "a": "A recorded deed upon death passes the named property directly to the beneficiary when the owner dies, while a will usually goes through probate. The deed only works for real property it describes, and it must be recorded before death (NRS 111.671)."
+  },
+  {
+   "q": "Can I sell my house after recording a deed upon death in Nevada?",
+   "a": "Yes. The deed does not affect the owner's right to transfer or encumber the property during life (NRS 111.685). A transfer during life makes the deed void under NRS 111.677."
+  },
+  {
+   "q": "Does a Nevada deed upon death avoid creditors?",
+   "a": "No. If the probate estate is insufficient, the estate can enforce liabilities against the property, and the beneficiary must publish and mail a creditor notice. Creditors have 90 days to file claims (NRS 111.689)."
+  },
+  {
+   "q": "What document does a beneficiary record after death in Nevada?",
+   "a": "A Death of Grantor Affidavit, with a declaration of value and a death certificate for each grantor, recorded with the county recorder where the deed was recorded (NRS 111.699)."
+  },
+  {
+   "q": "Can a beneficiary refuse a Nevada deed upon death?",
+   "a": "Yes. A beneficiary can disclaim all or part of the interest by recording a disclaimer with the county recorder (NRS 111.687)."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NRS 111.671 Creation of deed upon death",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-671/"
+  },
+  {
+   "title": "NRS 111.677 Void if interest transferred before death",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-677/"
+  },
+  {
+   "title": "NRS 111.685 Effect of deed upon death during owner's lifetime",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-685/"
+  },
+  {
+   "title": "NRS 111.687 Disclaimer by beneficiary",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-687/"
+  },
+  {
+   "title": "NRS 111.689 Enforcement of liabilities; creditor notice",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-689/"
+  },
+  {
+   "title": "NRS 111.693 Limitations concerning Medicaid payments",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-693/"
+  },
+  {
+   "title": "NRS 111.695 Form of deed upon death",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-695/"
+  },
+  {
+   "title": "NRS 111.699 Death of Grantor Affidavit",
+   "url": "https://law.justia.com/codes/nevada/chapter-111/statute-111-699/"
+  },
+  {
+   "title": "NRS 375.020 Imposition and rate of transfer tax",
+   "url": "https://law.justia.com/codes/nevada/chapter-375/statute-375-020/"
+  }
+ ]
+}

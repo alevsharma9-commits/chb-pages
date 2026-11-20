@@ -1,0 +1,77 @@
+{
+ "slug": "new-jersey-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Is gain on a New Jersey house sale taxable?",
+   "html": "<p>Yes, and it helps to know early. New Jersey counts gain on a house as income and figures it the federal way, so whatever is taxable on your federal return is taxable here too. The gain goes on the same state return as your other income, for the year of the sale.</p>\n<p>Gain is the amount realized minus your adjusted basis, and basis starts with what you paid. If you inherited the house, IRS Publication 551 has the basis rules. A loss on a home you lived in is not deductible.</p>\n<p>The state's top bracket matters for large gains. The Gross Income Tax rate is 10.75 percent on income above $1 million, beginning with tax year 2020, and one big sale can push a seller into it for that year.</p>"
+  },
+  {
+   "h2": "Excluding the gain on your main home",
+   "html": "<p>Owners of a main home can shelter $250,000 of gain, or $500,000 on a joint return, once they pass the tests below. New Jersey follows the federal exclusion, and it applies whether you stay in the state or move away.</p>\n<ul>\n<li>Ownership: you held title for at least two of the five years ending on the closing date.</li>\n<li>Use: you lived in it as your main home for at least two years inside that same window.</li>\n<li>Other homes: you did not exclude gain from a different home in the two years before this sale.</li>\n<li>A joint-filing couple reaches $500,000 only if both spouses pass the use test. If just one qualifies, the limit is $250,000.</li>\n</ul>\n<p>If you miss the two-year mark because of a job change, a health problem or another unforeseen event, you may claim a reduced exclusion. You may also get a Form 1099-S and have to report the sale to the IRS even when the whole gain is excluded (IRS Topic 701). Rental properties, second homes and vacation homes do not count as a principal residence.</p>"
+  },
+  {
+   "h2": "Gain above the exclusion",
+   "html": "<p>Anything over the exclusion is a capital gain, and the federal rate depends on how long you owned the house. Held a year or less, the profit is short-term and taxed as ordinary income. Held longer, the profit is long-term and earns the lower rates of 0, 15 or 20 percent, depending on taxable income (IRS Topic 409).</p>\n<p>Two extras can apply to sellers of residential property: a 25 percent ceiling on unrecaptured section 1250 gain, and the net investment income tax for people with significant investment income. Federal reporting goes on Form 8949 and Schedule D.</p>\n<p>New Jersey adds its own filing steps. Residents report the gain on Schedule B of the NJ-1040 as Net Gains or Income From Disposition of Property. Nonresidents use Part I of the NJ-1040-NR. If the sale produced a loss, the state form takes a zero on that line.</p>"
+  },
+  {
+   "h2": "Do you owe New Jersey tax at the closing table?",
+   "html": "<p>Only a nonresident seller pays at closing, although every seller hands in a GIT/REP form so the deed can be recorded. A seller who keeps a New Jersey residence files form GIT/REP-3, which exempts the estimated payment. Tax on any gain is then settled on the NJ-1040 the following filing season.</p>\n<p>A New Jersey resident who sells and moves out of state counts as a nonresident for this sale. The estimated payment is 2 percent of the consideration or 8.97 percent of the net gain, sent before or at closing, and a seller's assurance on GIT/REP-3 can waive it. The check is made out to the State of New Jersey, Division of Taxation, and goes with the paperwork to the settlement agent.</p>\n<table>\n<caption>GIT/REP forms for a New Jersey house sale</caption>\n<thead><tr><th>Form</th><th>Who uses it</th><th>What it does</th></tr></thead>\n<tbody>\n<tr><td>GIT/REP-1</td><td>Nonresident seller</td><td>Declares the tax and carries the estimated payment to closing</td></tr>\n<tr><td>GIT/REP-2</td><td>Nonresident who prepays</td><td>Receipt stamped by the Division before closing</td></tr>\n<tr><td>GIT/REP-3</td><td>Residents and exempt sellers</td><td>Certifies residency or one of 14 exemptions, no payment</td></tr>\n<tr><td>GIT/REP-4</td><td>Seller with another exemption</td><td>Waiver requested from the Division before closing</td></tr>\n<tr><td>GIT/REP-4a</td><td>Corrected deed, no consideration</td><td>Waiver for fixing errors on a recorded deed</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "Common GIT/REP exemptions and who signs",
+   "html": "<p>Whoever must sign the deed signs the form, whether that is the seller or an authorized representative holding a power of attorney or letter of authority. Each owner files. Married and civil union couples count as one owner, and an estate or trust files a single form that can carry several trustee or executor signatures.</p>\n<ul>\n<li>The seller is a New Jersey resident.</li>\n<li>Total consideration is $1,000 or less.</li>\n<li>The seller is a business entity.</li>\n<li>The seller is a nonresident claiming the principal residence exclusion.</li>\n</ul>\n<p>Only sheriff's sales and bankruptcy trust sales skip the form. A county clerk can still reject a deed for reasons the Division does not control. If that happens, print the Division's GIT/REP instructions, highlight the passage that applies and show it to the clerk before you escalate.</p>"
+  },
+  {
+   "h2": "Getting back an overpaid estimated payment",
+   "html": "<p>A nonresident seller can file Form A-3128 after closing to claim an early refund of an overpayment, with proof such as the settlement statement or closing disclosure. The form does not replace the NJ-1040-NR. That return is still due for the year the property sold, and the final refund comes out of it.</p>\n<p>Since the 2 percent and 8.97 percent figures are only estimates, a seller with a small gain or a loss often overpays. Keep the closing disclosure, the deed and your improvement records together so the return is easy to prepare. A seller who expects a refund should file early, since nothing comes back until that return is processed.</p>"
+  },
+  {
+   "h2": "Records to keep for the return",
+   "html": "<p>The gain is worked out on the tax return, not at the table, so keep the paperwork that proves your basis and the closing numbers. A nonresident who sold files the NJ-1040-NR for the year of the sale and lists the closing payment on the estimated payment line.</p>\n<ul>\n<li>The settlement statement or closing disclosure from both the purchase and the sale.</li>\n<li>Receipts for capital improvements. New Jersey does not allow certain federal deductions such as mortgage interest or capital improvements on the NJ-1040, so these receipts help with basis and not with a deduction.</li>\n<li>The signed GIT/REP form and any payment receipt.</li>\n<li>For an inherited house, papers showing its value when the owner died.</li>\n</ul>\n<p>An estate's executor files one GIT/REP form for the sale. Ask the estate's tax preparer how the sale is reported on the estate's own return.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does New Jersey have its own capital gains tax on a home sale?",
+   "a": "No separate tax exists. The state taxes the gain through its Gross Income Tax and follows the federal calculation, so a federally taxable amount is taxable here too."
+  },
+  {
+   "q": "What is the exclusion limit for spouses who sell together?",
+   "a": "Spouses filing jointly can exclude up to $500,000 once the tests are met. When only one of them qualifies, the cap falls to $250,000."
+  },
+  {
+   "q": "Do I pay estimated tax at closing if I stay in New Jersey?",
+   "a": "No. A resident who stays in the state submits form GIT/REP-3 and pays any income tax when filing the NJ-1040."
+  },
+  {
+   "q": "What if I sell and relocate out of New Jersey?",
+   "a": "For this sale you count as a nonresident. The estimated payment applies unless an exemption fits, and a nonresident return follows for the year of the sale."
+  },
+  {
+   "q": "Which return reports the sale for a nonresident?",
+   "a": "Form NJ-1040-NR, Part I, as Net Gains or Income From Disposition of Property, with any closing payment listed as an estimated payment."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NJ Division of Taxation, Buying or Selling a Home in New Jersey",
+   "url": "https://nj.gov/treasury/taxation/documents/pdf/guides/Buying-or-Selling-a-Home-in-New-Jersey.pdf"
+  },
+  {
+   "title": "NJ Division of Taxation, GIT/REP FAQs",
+   "url": "https://www.nj.gov/treasury/taxation/gitrepfaqs.shtml"
+  },
+  {
+   "title": "IRS Topic 409, Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "NJ Division of Taxation, Important Income Tax Changes for Tax Year 2020",
+   "url": "https://nj.gov/treasury/taxation/new2020.shtml"
+  }
+ ]
+}

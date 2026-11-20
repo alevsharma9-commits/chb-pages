@@ -1,0 +1,105 @@
+{
+ "slug": "new-hampshire-recording-deeds",
+ "sections": [
+  {
+   "h2": "Where to record a deed",
+   "html": "<p>A deed is recorded with the registry of deeds in the county where the land sits. RSA 477:3-a requires every deed or other conveyance of real estate to be recorded at length there, and until it is, the document has no force against bona fide purchasers for value.</p>\n<p>The state has ten county registries: Belknap, Carroll, Cheshire, Coos, Grafton, Hillsborough, Merrimack, Rockingham, Strafford and Sullivan. NHDeeds.org links to each county's site. A parcel that crosses a county line gets recorded in every county it touches.</p>\n<p>RSA 477:7 adds that a deed of bargain and sale, a mortgage or another conveyance cannot hold the property against anyone except the grantor and the grantor's heirs unless it is acknowledged and recorded. That is why a closing is not truly finished until the register has the deed in hand.</p>"
+  },
+  {
+   "h2": "What a deed needs before the register accepts it",
+   "html": "<p>Under RSA 477:3 the grantor signs, and a justice, notary public or commissioner takes the acknowledgment. The deed also has to show the grantee's mailing address. RSA 478:4-a adds more items the register checks.</p>\n<ul>\n<li>The latest mailing address of each grantee.</li>\n<li>The name of every municipality where the property lies, in the first sentence of the first description paragraph.</li>\n<li>The name of each signer, printed or typed under the signature.</li>\n<li>A document that can be reproduced cleanly under the standards the registers of deeds adopt and post.</li>\n</ul>\n<p>RSA 478:4 also calls for paper, markings and a page size that allow suitable permanent recording. The layout standards come from the registers, so call the county office or read its website before you send anything on paper.</p>\n<p>A rejected deed delays the whole file, and the buyer's lender will not release funds until recording is certain. Many rejections come from a missing grantee address, an unnamed municipality or a signer's name that is not printed under the signature.</p>"
+  },
+  {
+   "h2": "Which type of deed is used for a sale?",
+   "html": "<p>New Hampshire has statutory short forms, and a deed that follows one in substance carries the covenants the statute attaches to it. RSA 477:27 covers the warranty deed, RSA 477:28 the quitclaim deed, RSA 477:30 the fiduciary deed, and RSA 477:31 the foreclosure deed under power of sale.</p>\n<p>An executor or administrator selling for an estate signs the fiduciary form. In it the grantor covenants that he or she was duly authorized to make the sale and followed the statute. If you inherited the house, our probate page covers the court steps that come first.</p>\n<p>Warranty versus quitclaim wording changes what the seller promises about title, so it is a legal call. Your closing attorney can tell you which one fits your sale.</p>"
+  },
+  {
+   "h2": "Recording fees",
+   "html": "<p>RSA 478:17-g sets the charge: $10 for the first page and $4 for each additional page, plus a $25 surcharge for the Land and Community Heritage Investment Program (LCHIP). On a deed, the grantee pays that $25.</p>\n<table>\n<caption>Recording charges at the registry of deeds</caption>\n<thead><tr><th>Charge</th><th>Amount</th></tr></thead>\n<tbody>\n<tr><td>Recording a document, first page</td><td>$10</td></tr>\n<tr><td>Each additional recorded page</td><td>$4</td></tr>\n<tr><td>Mortgage discharge or lien release, first page</td><td>$15, plus $4 each additional page</td></tr>\n<tr><td>LCHIP surcharge on each deed, mortgage, discharge or plan (grantee pays on a deed)</td><td>$25</td></tr>\n<tr><td>Plan recording</td><td>$9 for first 200 square inches, $2.50 per additional 100</td></tr>\n<tr><td>Real estate transfer tax, each side</td><td>$.75 per $100 of price</td></tr>\n</tbody>\n</table>\n<p>The surcharge is waived when the United States, the state, a county, a municipality, a village district or a school district is a party. Copies and other services cost whatever each register posts, so ask the office for its current list before you request certified copies of your own deed after closing.</p>"
+  },
+  {
+   "h2": "How the transfer tax works at recording",
+   "html": "<p>New Hampshire taxes the transfer itself at $.75 per $100 of the price or consideration, and both buyer and seller pay it. Each side buys stamps from the register of deeds in the county where the property sits, the register affixes them to the deed, and the deed is then recorded.</p>\n<ul>\n<li>When the consideration is $4,000 or less, the minimum is $20 from each side.</li>\n<li>Related-party transfers with unsupported stated prices are taxed on fair market value.</li>\n<li>Foreclosure deeds, deeds in lieu, sheriff's sale deeds and easements are taxable transfers.</li>\n<li>Exceptions include transfers by devise or intestate succession, transfers on the death of a joint tenant, and transfers between spouses under a final divorce decree.</li>\n</ul>\n<p>Within 30 days after recording, each side files a Declaration of Consideration (Form CD-57-P for the buyer, CD-57-S for the seller) and an Inventory of Property Transfer (Form PA-34) with the Department of Revenue Administration. Filers use its Granite Tax Connect portal. Manufactured housing and trusts follow their own transfer tax rules, so ask the closing attorney if either applies.</p>"
+  },
+  {
+   "h2": "Can you record a deed electronically?",
+   "html": "<p>In principle, yes. New Hampshire adopted the Uniform Real Property Electronic Recording Act, effective February 6, 2022 (RSA 478-A), and RSA 478-A:3 covers the validity of electronic documents and the recording of tangible copies of them.</p>\n<p>Each county registry handles e-recording in its own way, so confirm with the register before counting on a same-day record. Most sellers never file the deed themselves. The closing attorney or title company does it.</p>\n<p>A typical recording day runs in order. The deed is signed and acknowledged at the closing table. Both sides pay the transfer tax and the stamps go on the deed. The register records it, charges the page fees and the LCHIP surcharge, and the forms for the Department of Revenue Administration follow within 30 days. As seller, you mainly need to be sure your side of the stamps and your CD-57-S are handled.</p>\n<p>If you are selling for cash, ask early who will record, what it will cost, and when the stamps will be bought. Check the grantee address, the municipality names and the printed signer names before closing day, since the register will refuse a deed that lacks them.</p>"
+  },
+  {
+   "h2": "Manufactured homes and trusts",
+   "html": "<p>The transfer tax treats these differently. For manufactured housing, tax on most transfers goes to the register of deeds in the county where the unit is located, paid by both buyer and seller. A unit moving into New Hampshire from another state is taxed to the buyer alone, and one moving out of the state is taxed to the seller alone.</p>\n<p>A transfer into a revocable trust is taxable unless an exception applies, though the tax can be the minimum when the trust is set up for estate planning as a testamentary substitute and the transfer is between the trust and its grantor. Transfers to or from an irrevocable trust are not taxable if the elements of a gift are met or an exception applies.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Where do I record a deed in New Hampshire?",
+   "a": "With the registry of deeds in the county where the land lies. Under RSA 477:3-a, an unrecorded deed has no effect against bona fide purchasers for value."
+  },
+  {
+   "q": "How much does recording cost?",
+   "a": "$10 for the first page and $4 for each additional page, plus a $25 LCHIP surcharge on each deed, which the grantee pays. Transfer tax is separate."
+  },
+  {
+   "q": "What is the transfer tax rate?",
+   "a": "$.75 per $100 of the price or consideration, owed by both the buyer and the seller. Each side buys stamps from the register of deeds."
+  },
+  {
+   "q": "What forms are filed after recording?",
+   "a": "Each side files a Declaration of Consideration (CD-57-P or CD-57-S) and an Inventory of Property Transfer (PA-34) within 30 days after recording."
+  },
+  {
+   "q": "Is inherited property subject to transfer tax?",
+   "a": "Transfers by devise, intestate succession or the death of a joint tenant are exceptions. A later sale of the house by the heir is taxable."
+  }
+ ],
+ "sources": [
+  {
+   "title": "RSA 477:3 Execution",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-3.htm"
+  },
+  {
+   "title": "RSA 477:3-a Recording",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-3-a.htm"
+  },
+  {
+   "title": "RSA 477:7 Validity",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-7.htm"
+  },
+  {
+   "title": "RSA 477:30 Statutory Form of Fiduciary Deed",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-30.htm"
+  },
+  {
+   "title": "RSA 477:27, 477:28, 477:31 statutory forms (search listing)",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/477/477-28.htm"
+  },
+  {
+   "title": "RSA 478:4 Recording",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/478/478-4.htm"
+  },
+  {
+   "title": "RSA 478:4-a Form of Records",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/478/478-4-a.htm"
+  },
+  {
+   "title": "RSA 478:17-g Recording Fees and Surcharge",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/478/478-17-g.htm"
+  },
+  {
+   "title": "RSA 478-A:3 Electronic Documents",
+   "url": "https://gc.nh.gov/rsa/html/XLVIII/478-A/478-A-3.htm"
+  },
+  {
+   "title": "NH DRA: Real Estate Transfer Tax FAQ",
+   "url": "https://www.revenue.nh.gov/resource-center/frequently-asked-questions/real-estate-transfer-tax"
+  },
+  {
+   "title": "RSA 78-B:1 Transfer Tax",
+   "url": "https://gc.nh.gov/rsa/html/V/78-B/78-B-1.htm"
+  },
+  {
+   "title": "NHDeeds.org: New Hampshire County Registers of Deeds",
+   "url": "https://www.nhdeeds.org/"
+  }
+ ]
+}

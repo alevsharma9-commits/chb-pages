@@ -1,0 +1,121 @@
+{
+ "slug": "minnesota-estate-tax",
+ "sections": [
+  {
+   "h2": "Estate tax versus inheritance tax in Minnesota",
+   "html": "<p>Minnesota has an estate tax and has no inheritance tax. The estate tax is charged on a decedent's assets before they pass to heirs, and <a href=\"https://www.revisor.mn.gov/statutes/cite/291.01\">Minn. Stat. 291.01</a> imposes it on the transfer of the estate. An inheritance tax would fall on what each heir receives, and Minnesota's version was repealed starting in 1980.</p>\n<p>Minnesota Revenue issues no inheritance waiver or clearance letters, so there is no such document to request before an inherited Minnesota house is listed. A beneficiary generally does not report an inheritance on an income tax return, although pre-tax money in IRA and annuity accounts can carry income tax. The <a href=\"https://www.revenue.state.mn.us/estate-tax-versus-inheritance-tax\">estate tax versus inheritance tax</a> page explains the difference in more detail.</p>"
+  },
+  {
+   "h2": "When a Minnesota estate must file a return",
+   "html": "<p>A Minnesota estate must file a return when its total gross value is above $3,000,000 for a death in 2020 or later. The federal filing level is much higher, $15,000,000 for 2026 deaths, so an estate between the two figures files with Minnesota alone.</p>\n<table><caption>Estate values that require a return, by year of death</caption><thead><tr><th>Year of death</th><th>Minnesota return required above</th><th>Federal return required above</th></tr></thead><tbody><tr><td>2026</td><td>$3,000,000</td><td>$15,000,000</td></tr><tr><td>2025</td><td>$3,000,000</td><td>$13,990,000</td></tr><tr><td>2024</td><td>$3,000,000</td><td>$13,610,000</td></tr><tr><td>2023</td><td>$3,000,000</td><td>$12,920,000</td></tr><tr><td>2022</td><td>$3,000,000</td><td>$12,060,000</td></tr><tr><td>2019</td><td>$2,700,000</td><td>$11,400,000</td></tr><tr><td>2018</td><td>$2,400,000</td><td>$11,180,000</td></tr></tbody></table>\n<p>For deaths from 2020 forward, a $2,000,000 qualified small business or farm property deduction is also available. The <a href=\"https://www.revenue.state.mn.us/estate-tax-filing-requirement\">filing requirement page</a> has the full list of years.</p>"
+  },
+  {
+   "h2": "What rate Minnesota charges on an estate",
+   "html": "<p>For deaths in 2018 and later the Minnesota rate starts at 13 percent and climbs to 16 percent on the top slice of the taxable estate. To compute the actual bill, complete federal Form 706 and Minnesota Form M706.</p>\n<ul><li>13 percent on a Minnesota taxable estate up to $7,100,000.</li><li>13.6 percent on the slice from $7,100,000 to $8,100,000, after a base of $923,000.</li><li>14.4 and 15.2 percent on the next two $1,000,000 slices.</li><li>16 percent above $10,100,000, after a base of $1,355,000.</li></ul>\n<p>Under <a href=\"https://www.revisor.mn.gov/statutes/cite/291.03\">Minn. Stat. 291.03</a> the result is then multiplied by the Minnesota gross estate divided by the federal gross estate. Real property counts as located in the state where the land sits (<a href=\"https://www.revisor.mn.gov/statutes/cite/291.005\">Minn. Stat. 291.005</a>), so a house in Minnesota belongs in the Minnesota share even when the owner lived somewhere else.</p>"
+  },
+  {
+   "h2": "Due dates and payment",
+   "html": "<p>Form M706 and the payment are due nine months after the date of death. Minnesota grants an automatic six-month extension to file and no extension to pay, so the tax is still due at nine months even when the return is filed later.</p>\n<ul><li>A death in January puts the regular due date in October and the extended filing date in April.</li><li>A death in August moves those dates to May and November.</li><li>A death in December moves them to September and March.</li></ul>\n<p>An estate can ask to pay in installments only if the IRS has granted a payment extension under Internal Revenue Code section 6161 or 6166, the Minnesota tax is $5,000 or more, the executor writes to Minnesota Revenue within nine months of death naming payment dates that match the federal ones, and the installments are equal. Interest is owed on whatever stays unpaid after the regular due date. See <a href=\"https://www.revenue.state.mn.us/estate-tax-due-dates-and-extensions\">due dates and extensions</a> and <a href=\"https://www.revenue.state.mn.us/estate-tax-installment-payments\">installment payments</a>.</p>"
+  },
+  {
+   "h2": "Can heirs sell an inherited Minnesota house before the estate tax is settled?",
+   "html": "<p>Yes, because the personal representative holds statutory power to sell estate property to cover the tax. <a href=\"https://www.revisor.mn.gov/statutes/cite/291.16\">Minn. Stat. 291.16</a> gives every executor, administrator, or trustee full power to sell inherited property to pay the estate tax in the same way the law lets them sell to pay a decedent's debts.</p>\n<p>The same chapter puts weight on the representative. Under <a href=\"https://www.revisor.mn.gov/statutes/cite/291.12\">Minn. Stat. 291.12</a> the representative must deduct or collect the tax before completing a transfer, becomes personally liable up to the value of the property held if a known tax goes unpaid, and need not deliver property until the tax and interest are accounted for. Heirs should expect any tax to be accounted for before the representative distributes sale money.</p>\n<p>When the department accepts a return as filed it sends a Minnesota Notification of Closed Estate letter to the personal representative. If a federal Form 706 was required, that letter waits for a copy of the federal closing letter or audit report. Ask the estate's attorney and the title company which of these papers they want before closing, and call Minnesota Revenue estate tax at 651-556-3075 (weekdays, 8:00 a.m. to 4:30 p.m.) with questions about the letter.</p>"
+  },
+  {
+   "h2": "Other filings for the personal representative",
+   "html": "<p>A personal representative also files the decedent's final income tax returns and, when the estate earns enough, an estate income tax return. The <a href=\"https://www.revenue.state.mn.us/tax-responsibilities-personal-representatives\">personal representative page</a> lists these duties.</p>\n<ul><li>The final Form M1 is due April 15 of the year after death, even when a spouse survives.</li><li>Form M2 is required for each year the estate is open in which gross income reaches $600 or a beneficiary is a nonresident alien.</li><li>The estate's tax year starts the day after death and can end on the last day of any month chosen, within one year of death.</li><li>Property taxes that come due while the estate is open are the representative's to pay. Minnesota law sets the first half before May 16 and the second half before October 16, with a 2 percent penalty on homestead property and 4 percent on non-homestead property when a half is late (<a href=\"https://www.revisor.mn.gov/statutes/cite/279.01\">Minn. Stat. 279.01</a>).</li><li>A request for early audit on Form M22 cuts the assessment window on income returns to 18 months from the usual 3.5 years, and does not apply to Form M706.</li></ul>\n<p>Federal and state law also make the representative liable for income and estate taxes if funds are distributed without keeping enough to pay them.</p>"
+  },
+  {
+   "h2": "Estate tax breaks for a family farm or small business",
+   "html": "<p>A deduction of up to $2,000,000 is available for qualified small business or farm property when the date of death is after December 31, 2022. The property must pass to a qualified family heir, and the executor claims the deduction on Schedule M706Q with the return.</p>\n<p>Qualified small business property needs gross annual sales of $10,000,000 or less, material participation by the decedent or spouse, and three years of continuous ownership. Qualified farm property must be agricultural land classified class 2a and an agricultural homestead in the year of death.</p>\n<p>The break has a three-year string attached. If the heir sells to a non-family buyer or a family member stops running the business or keeps the 2a classification within three years of the death, a recapture tax of 16 percent of the claimed exclusion comes due six months after that event (<a href=\"https://www.revisor.mn.gov/statutes/cite/291.03\">Minn. Stat. 291.03, subd. 11</a>). The statute carves out a farm residence, garage, and the surrounding acre that is reclassified as class 4bb, when the heir has not substantially altered it. Informational returns are due 36 to 39 months after the death. More is on the <a href=\"https://www.revenue.state.mn.us/qualified-small-business-and-farm-property-deduction\">deduction page</a>.</p>"
+  },
+  {
+   "h2": "Steps for heirs who plan to sell",
+   "html": "<p>If you inherited a Minnesota house and want to sell it, the order of work matters more than speed. Start with the personal representative, since that person holds the power to sign the deed and must account for any estate tax first.</p>\n<ol><li>Find out whether the gross estate is above $3,000,000. If not, no Minnesota estate tax return is due.</li><li>If it is above, ask the estate's attorney to prepare Form M706 and track the nine-month due date.</li><li>Ask the title company which papers it wants, such as the Notification of Closed Estate letter, before it will insure the sale.</li><li>Keep property tax payments current while the estate is open, since late halves carry a penalty.</li><li>Let the representative distribute sale money only after the tax and interest are accounted for.</li></ol>\n<p>A cash buyer can often close without waiting on a lender's appraisal, which helps when the estate has a payment date to meet. The tax is still paid from the estate, and the closing agent can send the funds from the proceeds once the representative approves.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Minnesota tax the money or house I inherit?",
+   "a": "No. Minnesota repealed its inheritance tax starting in 1980, and Minnesota Revenue issues no inheritance waiver letters. The estate tax is charged to the estate before distribution. Pre-tax IRA and annuity money can still carry income tax."
+  },
+  {
+   "q": "What is the Minnesota estate tax rate?",
+   "a": "The rate runs from 13 percent to 16 percent for deaths in 2018 and later. It is 13 percent on a Minnesota taxable estate up to $7,100,000 and reaches 16 percent above $10,100,000, then scaled by the Minnesota share of the federal gross estate under Minn. Stat. 291.03."
+  },
+  {
+   "q": "How soon after a death is Form M706 due?",
+   "a": "Nine months after the date of death. A six-month extension to file is automatic, but there is no extension to pay, so the tax is still owed at nine months. Installments are possible only under narrow conditions."
+  },
+  {
+   "q": "Is an estate under $3,000,000 required to file a Minnesota estate tax return?",
+   "a": "No. For deaths from 2020 forward the state requires a return only when the total gross value of the estate is above $3,000,000. A smaller estate can still owe the decedent's final income tax return and, if it earns $600 or more of gross income, an estate income tax return."
+  },
+  {
+   "q": "Who can answer questions about a Minnesota estate tax bill?",
+   "a": "Minnesota Revenue's estate tax staff at 651-556-3075, open weekdays from 8:00 a.m. to 4:30 p.m. The mailing address is Mail Station 5140, 600 N. Robert St., St. Paul, MN 55146. Probate questions go to the county court system instead."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Estate Tax | Minnesota Department of Revenue",
+   "url": "https://www.revenue.state.mn.us/estate-tax"
+  },
+  {
+   "title": "Estate Tax Filing Requirement",
+   "url": "https://www.revenue.state.mn.us/estate-tax-filing-requirement"
+  },
+  {
+   "title": "Estate Tax Rates",
+   "url": "https://www.revenue.state.mn.us/estate-tax-rates"
+  },
+  {
+   "title": "Estate Tax versus Inheritance Tax",
+   "url": "https://www.revenue.state.mn.us/estate-tax-versus-inheritance-tax"
+  },
+  {
+   "title": "Estate Tax Due Dates and Extensions",
+   "url": "https://www.revenue.state.mn.us/estate-tax-due-dates-and-extensions"
+  },
+  {
+   "title": "Estate Tax Installment Payments",
+   "url": "https://www.revenue.state.mn.us/estate-tax-installment-payments"
+  },
+  {
+   "title": "Tax Responsibilities for Personal Representatives",
+   "url": "https://www.revenue.state.mn.us/tax-responsibilities-personal-representatives"
+  },
+  {
+   "title": "Minnesota Estate Closing Letters",
+   "url": "https://www.revenue.state.mn.us/minnesota-estate-closing-letters"
+  },
+  {
+   "title": "Qualified Small Business and Farm Property Deduction",
+   "url": "https://www.revenue.state.mn.us/qualified-small-business-and-farm-property-deduction"
+  },
+  {
+   "title": "Minn. Stat. 291.01",
+   "url": "https://www.revisor.mn.gov/statutes/cite/291.01"
+  },
+  {
+   "title": "Minn. Stat. 291.005",
+   "url": "https://www.revisor.mn.gov/statutes/cite/291.005"
+  },
+  {
+   "title": "Minn. Stat. 291.03",
+   "url": "https://www.revisor.mn.gov/statutes/cite/291.03"
+  },
+  {
+   "title": "Minn. Stat. 291.12",
+   "url": "https://www.revisor.mn.gov/statutes/cite/291.12"
+  },
+  {
+   "title": "Minn. Stat. 291.16",
+   "url": "https://www.revisor.mn.gov/statutes/cite/291.16"
+  },
+  {
+   "title": "Minn. Stat. 279.01",
+   "url": "https://www.revisor.mn.gov/statutes/cite/279.01"
+  }
+ ]
+}
