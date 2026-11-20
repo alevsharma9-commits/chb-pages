@@ -1,0 +1,81 @@
+{
+ "slug": "wisconsin-recording-deeds",
+ "sections": [
+  {
+   "h2": "Where to record a deed",
+   "html": "<p>Your filing destination is the register of deeds for the parcel's county. Sec. 706.05 entitles every conveyance and other instrument affecting title to land in the state to record in the register's office of each county where the affected land lies. If one deed spans land in two counties, file it in both.</p><p>For transfer fee purposes the statute defines the register as the one in the county where the particular real estate is located. Recorded documents and their indexes are kept permanently there, and the office sells certified or plain copies. Offices are run county by county, so check each one's website for address, hours and mail or e-filing rules.</p><p>A deed only becomes public record once it is recorded. Sec. 706.08 voids an unrecorded conveyance against a later buyer who acts in good faith, gives valuable consideration, and records first. For a properly indexed document, the clock starts at the date and hour the general index shows.</p>"
+  },
+  {
+   "h2": "Recording costs",
+   "html": "<p>Every recorded document costs $30, and a deed that moves ownership normally adds a transfer fee. Payment comes with the filing, since fees are collected in advance.</p><table><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Recording any document entitled to record</td><td>$30</td></tr><tr><td>Copy of a recorded document</td><td>$2 for the first page, $1 for each added page</td></tr><tr><td>Certifying a copy</td><td>$1 extra</td></tr><tr><td>Subdivision, condominium or cemetery plat</td><td>$50</td></tr><tr><td>Real estate transfer fee, paid by the grantor</td><td>30 cents per $100 of value, or $3 per $1,000</td></tr></tbody></table><p>On a sale, the transfer fee is figured on the whole price paid, liens included. The county keeps 20% of transfer fees and passes the rest up to the state; the register hands fees and returns to the county treasurer by the 15th of each month. Certain transfers owe nothing. Either way, the register notes the fee paid, or the sec. 77.25 subsection for the exemption, on the deed.</p>"
+  },
+  {
+   "h2": "Format rules for a deed",
+   "html": "<p>A deed is accepted when it has proper signatures, valid authentication, a clear description of land and parties, and the right layout. Under sec. 59.43(2m), a register can turn away a document that does not substantially follow the standard format.</p><ul><li>Title of the document: clear, placed 0.5 to 6 inches below the top edge of page one.</li><li>Upper right of page one: a blank 3 inch by 3 inch square inside the margins, reserved for the stamp. A deed lacking it may go unrecorded.</li><li>Return information appears on page one, except for electronic recording.</li><li>List every affected parcel's identification number if the county demands it.</li><li>Stock: white, 20 pound or heavier, 8.5 inches wide, 11 or 14 inches tall.</li><li>Top margin of 0.5 inch on every page; ink in black, blue or red.</li><li>Names of grantor, grantee, notaries and authenticators are legible, typed or printed.</li></ul><p>Content matters as well as layout. Sec. 706.05 asks for the required signatures, an authentication allowed by sec. 706.06 or ch. 140, and enough identification of land and parties to index the entry. Include the full legal description if the document goes into the real estate index. Missing venue, seals or witnesses cannot by themselves block recording unless another law says so. A Social Security number anywhere in the document rules out recording.</p>"
+  },
+  {
+   "h2": "The transfer return",
+   "html": "<p>The state's real estate transfer return lists price, parties and parcel, and most deeds cannot be accepted without it. Under sec. 77.22(1), a finished return signed by both grantor and grantee, along with collection of the fee, must come before the conveyance is accepted.</p><p>Filing happens in My Tax Account, and no sign-in is needed. Whoever prepares it selects the county and the document type (the list includes warranty deed, quit claim deed, personal representative's deed, trustee's deed and land contract), then enters the conveyance date, which is when the deed is signed and delivered. Both parties are named, with a married couple entered as two people. For each parcel the form also asks for parcel number, property type, use, lot size and street address.</p><p>A receipt number is printed at the end. Bring that receipt, the notarized deed and your payment to the county register; a few counties let you send the package electronically. Later, the receipt number, the value and a grantor's or grantee's last name let you view or amend the return. For help, write RETR@wisconsin.gov or call (608) 264-6885.</p><p>Accuracy pays. Understating value by 25% or more, or claiming an exemption that does not fit, brings an assessment of the larger of $25 or 25% of the added fee.</p>"
+  },
+  {
+   "h2": "After you submit the deed",
+   "html": "<p>Once a deed is in, the register works through filings as they arrive, stamps date, hour and minute, gives each a consecutive number and indexes it. Sec. 59.43(1c) adds that the register marks each conveyance with the fee paid or the exemption reason.</p><p>Name a recipient and include postage, and the recorded original is mailed to that person unless you arranged otherwise. Documents sent together as a single transaction can all come back unrecorded if one fails the layout rules, so look over every page before sending.</p><p>The office does not audit price or exemptions. Sec. 77.22(1) leaves the register with no duty to test value or exemption validity, so make sure the return's price matches your contract. Anyone can ask for certified or plain copies of what has been recorded.</p>"
+  },
+  {
+   "h2": "A typical recording timeline",
+   "html": "<p>Here is how a normal sale moves. First the deed is drafted, legal description included, and the seller signs in front of a notary. A transfer return is filed on the web and the receipt printed. After that, the signed deed, the receipt and the fees reach the register, who stamps and indexes the deed, then mails the recorded original to whoever you named. Save the receipt and the recorded deed once closing is over.</p>"
+  },
+  {
+   "h2": "Why recording matters when you sell",
+   "html": "<p>A sale is not finished on the public record until the buyer's deed is recorded, and order of recording settles priority among competing buyers. Closing agents typically submit it. Still, ask who is sending the deed and the return.</p><p>Look the deed over before closing. Its legal description should match your records, and the tax-bill parcel number should be on it. Each owner on title has to sign, the notary block must be filled in, and no Social Security number may appear. By statute the grantor owes the transfer fee, so confirm with the title company how it will be handled, and ask for a copy of the recorded deed.</p><p>Recording works the same in a cash as-is sale. Favor a buyer whose closing agent lays out the return, the fees and the timeline in writing, and file the return receipt with your closing papers.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who records a deed in Wisconsin?",
+   "a": "The register of deeds of the county where the property is located records it. The buyer, a title company or the closing agent usually submits it, so confirm at closing who will."
+  },
+  {
+   "q": "How much is the Wisconsin recording fee?",
+   "a": "The register charges $30 to record a document entitled to record. The grantor also owes a transfer fee of 30 cents per $100 of value unless the transfer is exempt. Plats cost $50."
+  },
+  {
+   "q": "Do I have to file a real estate transfer return before recording a deed?",
+   "a": "In most cases yes. Sec. 77.22 makes a completed return and collection of the fee prerequisites to recording, and the filing system flags document types that need no return. The return is filed in My Tax Account, and some counties accept the package electronically."
+  },
+  {
+   "q": "How long does recording take in Wisconsin?",
+   "a": "Documents are recorded in the order received, and the register stamps the date, hour and minute. Call your county register of deeds about current timing and any mail or electronic options."
+  },
+  {
+   "q": "What happens if I do not record my Wisconsin deed?",
+   "a": "Under sec. 706.08, an unrecorded conveyance is void against a later good-faith purchaser for value whose conveyance is recorded first. Record promptly so your ownership shows in the county records."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Wis. Stat. 59.43, Register of deeds duties and fees",
+   "url": "https://docs.legis.wisconsin.gov/document/statutes/59.43(1c)(e)"
+  },
+  {
+   "title": "Wis. Stat. 706.05, Formal requisites for record",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/706/05"
+  },
+  {
+   "title": "Wis. Stat. 706.08, Nonrecording, effect",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/706/08"
+  },
+  {
+   "title": "Wis. Stat. 77.21 to 77.25, Real estate transfer fee",
+   "url": "https://docs.legis.wisconsin.gov/statutes/statutes/77/II/22"
+  },
+  {
+   "title": "Filing a Real Estate Transfer Return in MTA, Wisconsin Department of Revenue",
+   "url": "https://revenue.wi.gov/DOR%20Publications/retr-filing.pdf"
+  },
+  {
+   "title": "Real Estate Transfer Return (RETR), Wisconsin Department of Revenue",
+   "url": "https://www.revenue.wi.gov/Pages/RETr/Home.aspx"
+  }
+ ]
+}
