@@ -1,70 +1,113 @@
 {
-  "slug": "adams-county-wa-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Who handles property tax in Adams County, Washington?",
-      "html": "<p>The Adams County Treasurer bills and collects property tax, and the Assessor sets the values the bill is built on. The <a href='https://co.adams.wa.gov/186/Treasurer'>Treasurer's page</a> says the 2026 tax statements were mailed on March 13, 2026. The Assessor's office takes exemption and valuation questions at 509-659-3200.</p><p>The Treasurer does more than collect the annual bill. The office also acts as the Department of Revenue's agent for the real estate excise tax on property transfers, and it runs the foreclosure process on parcels that fall three years behind. Statements for each tax year should reach owners on or before March 15 under <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020'>RCW 84.56.020</a>, provided the levy certifications arrive on time.</p>"
-    },
-    {
-      "h2": "What is Adams County like for a property owner?",
-      "html": "<p>Adams County is a wheat and irrigated farming county in eastern Washington, about 1,925 square miles of land with roughly 11 people per square mile. Ritzville is the county seat, in the northeast corner where Interstate 90 meets U.S. 395, and Othello in the southwest is the largest city. Hatton, Lind and Washtucna are the towns. Lincoln County lies to the north, Whitman to the east, Franklin to the south and Grant to the west.</p><p>The county was carved out of Whitman County in November 1883. By 1904 Ritzville had become the largest initial wheat shipping point in the country, and dryland farmers left fields fallow in alternate years to hold moisture. The federal Columbia Basin Project, approved in 1943, reached the county in 1946 with the East Low Canal and Potholes East Canal, and irrigated crops pushed population up by about 12,500 between 1940 and 2010. The present art-deco courthouse in Ritzville dates from 1940.</p><p>Census figures show 21,488 residents in July 2025 and 7,220 housing units. For 2020 to 2024 the median value of an owner-occupied home was $273,300, 69.3 percent of homes were owner-occupied and median household income was $66,136. Only 33 building permits were issued in 2025, and 93.5 percent of residents lived in the same house a year earlier.</p>"
-    },
-    {
-      "h2": "When are Adams County property taxes due, and what does late payment cost?",
-      "html": "<p>The full tax is due by April 30, and a bill over $50 can be split, with half due April 30 and the rest by October 31. The second half for 2026 came due on October 31, so any unpaid second half is now delinquent. Interest follows the schedule in RCW 84.56.020 and is applied to the full year's tax, not just the late half.</p><table><thead><tr><th>Item</th><th>Rule</th><th>Source</th></tr></thead><tbody><tr><td>Statements</td><td>Due out by March 15; 2026 statements mailed March 13</td><td>RCW 84.56.020; Treasurer</td></tr><tr><td>First half or full year</td><td>April 30</td><td>Treasurer</td></tr><tr><td>Second half</td><td>October 31</td><td>Treasurer</td></tr><tr><td>Interest, house or other residence of four units or fewer</td><td>9 percent a year, no penalties</td><td>RCW 84.56.020</td></tr><tr><td>Interest, other property</td><td>12 percent a year, plus 3 percent on June 1 and 8 percent on December 1</td><td>RCW 84.56.020</td></tr><tr><td>Tax lien</td><td>Attaches January 1 of the year taxes are levied</td><td>RCW 84.60.020</td></tr><tr><td>Foreclosure</td><td>Begins after three full years of delinquency</td><td>RCW 84.64.050</td></tr></tbody></table><p>Mail with no readable postmark is still on time if the Treasurer receives it within three business days of the deadline. Ask the Treasurer's office for a current payoff amount, because interest is figured by the month.</p>"
-    },
-    {
-      "h2": "What happens to taxes and excise tax when you sell in Adams County?",
-      "html": "<p>The property tax lien runs from January 1, and unless the sale contract says otherwise, the seller owes the share of that year's tax for the days before the sale and the buyer owes the rest (<a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020'>RCW 84.60.020</a>). Most contracts and escrow instructions settle this directly, so read yours.</p><p>Every transfer also needs a Real Estate Excise Tax Affidavit filed with the Treasurer before the deed is recorded at the Auditor. The county will not accept an incomplete affidavit, and forms must be on legal-size paper (8.5 by 14 inches).</p><ul><li>Excise tax is due within 30 days of the sale date, and the Department of Revenue treats the notarized deed date as the date of sale.</li><li>The county adds a local 0.25 percent of the price plus a $5 processing fee to the state portion.</li><li>The state rate is graduated: 1.1 percent on the first slice, then 1.28, 2.75 and 3.0 percent. For sales starting January 1, 2027 the breakpoints are $551,000, $1,551,000 and $3,051,000.</li><li>Land classified as agricultural or timberland pays a flat 1.28 percent state rate if the buyer will keep using it that way and the Assessor signs the Notice of Continuance on the affidavit.</li></ul><p>That last rule matters in a county built on farmland. Sellers of wheat ground or irrigated parcels should call the Assessor before the closing date, not after.</p>"
-    },
-    {
-      "h2": "How do you challenge an assessed value in Adams County?",
-      "html": "<p>You petition the county board of equalization on a Department of Revenue form. Under <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.40.038'>RCW 84.40.038</a> the petition is due by July 1 of the assessment year, within 30 days after the notice was mailed or sent electronically, or within a county-adopted limit of up to 60 days, whichever is latest.</p><p>The board may waive a late filing when the petition arrives within a reasonable time and the owner shows good cause. Listed causes include a death or serious illness in the immediate family, incorrect written advice from assessor or board staff, a natural disaster, and postal delay documented by the Postal Service. Call the Assessor at 509-659-3200 to learn which deadline your notice carries.</p>"
-    },
-    {
-      "h2": "What property tax relief exists in Adams County?",
-      "html": "<p>The county lists a senior citizen and disability exemption, and the Assessor is the office to call about it. According to the county page, applicants must be at least 61 years old on December 31 of the application year, the home must be the principal residence on up to one acre, and household income must be $41,000 or less.</p><ul><li>State law at <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.36.381'>RCW 84.36.381</a> also admits people retired because of disability and veterans receiving VA compensation at a service-connected rating of 40 percent or higher.</li><li>A person who sells or is displaced from a home can transfer exemption status to a replacement residence, though no one may claim it on more than one home in a year.</li><li>Tax statements carry a notice about the state deferral program in chapter 84.38 RCW.</li><li>For help with a mortgage or tax problem, the Washington Homeownership Resource Center answers at 877-894-4663.</li></ul>"
-    },
-    {
-      "h2": "What happens when Adams County taxes go unpaid for three years?",
-      "html": "<p>The Treasurer starts foreclosure. In July the Certificate of Delinquency is filed with Adams County Superior Court, foreclosure costs begin to accrue, and a title search is run on each parcel. Everyone with a recorded interest is served by certified mail, and the notice is also published in the county's official newspaper.</p><ul><li>The court enters a judgment foreclosing the tax lien and authorizing a public auction.</li><li>Owners and others with a legal interest can redeem until the close of business the day before the sale.</li><li>Parcels that do not sell become Tax Title Property held in trust by the county, and a list is available by emailing the Treasurer.</li><li>A certificate of delinquency cannot be filed when the delinquent tax is $100 or less, excluding interest and penalties (RCW 84.64.050).</li></ul><p>Personal property is handled differently: the treasurer is directed to seize and sell it once those taxes turn delinquent.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "When are property taxes due in Adams County, WA?",
-      "a": "Full payment is due April 30, or half by April 30 and half by October 31 when the bill is over $50. The 2026 second half was due October 31, 2026, so anything unpaid from that installment is now delinquent and accrues interest by the month."
-    },
-    {
-      "q": "What is the interest rate on late taxes in Adams County?",
-      "a": "For a residence with four or fewer units the rate is 9 percent a year with no penalties. Other property pays 12 percent a year plus a 3 percent penalty on June 1 and 8 percent on December 1. Both come from RCW 84.56.020."
-    },
-    {
-      "q": "Who pays real estate excise tax when I sell in Adams County?",
-      "a": "The seller usually pays, and the buyer becomes responsible if the seller does not. The Treasurer collects it with the affidavit before the Auditor records the deed. The local share is 0.25 percent of the sale price, with a $5 processing fee."
-    },
-    {
-      "q": "How long does Adams County wait before foreclosing for unpaid property tax?",
-      "a": "Three full years. After that the Treasurer files a Certificate of Delinquency with the Superior Court in July, and the owner can redeem until the close of business the day before the auction."
-    },
-    {
-      "q": "Who can I call about the senior exemption in Adams County?",
-      "a": "Call the Adams County Assessor's Office at 509-659-3200. The county page lists a minimum age of 61 by December 31 of the application year, a principal residence on up to one acre, and an income limit of $41,000."
-    }
-  ],
-  "sources": [
-    {"title": "Adams County Treasurer", "url": "https://co.adams.wa.gov/186/Treasurer"},
-    {"title": "Adams County Property Taxes", "url": "https://co.adams.wa.gov/188/Property-Taxes"},
-    {"title": "Adams County Senior Citizen and Disability Exemptions", "url": "https://co.adams.wa.gov/190/Senior-Citizen-Disability-Exemptions"},
-    {"title": "Adams County Real Estate Excise Tax", "url": "https://co.adams.wa.gov/191/Real-Estate-Excise-Tax"},
-    {"title": "Adams County Foreclosures", "url": "https://co.adams.wa.gov/187/Foreclosures"},
-    {"title": "RCW 84.56.020", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020"},
-    {"title": "RCW 84.40.038", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.40.038"},
-    {"title": "RCW 84.36.381", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.36.381"},
-    {"title": "RCW 84.60.020", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020"},
-    {"title": "RCW 84.64.050", "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64.050"},
-    {"title": "Washington Department of Revenue Real estate excise tax", "url": "https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax"},
-    {"title": "Census QuickFacts Adams County, Washington", "url": "https://www.census.gov/quickfacts/fact/table/adamscountywashington/PST045224"},
-    {"title": "Adams County, Washington (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Adams_County,_Washington"}
-  ]
+ "slug": "adams-county-wa-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who handles property tax in Adams County, Washington?",
+   "html": "<p>The work is divided. Worth is set by the Assessor, and the Treasurer turns those values into bills and takes the money. Valuation and exemption questions go to the Assessor at 509-659-3200. For what you owe and how to pay, see the <a href='https://co.adams.wa.gov/186/Treasurer'>Treasurer's office</a>.</p>\n<p>Collecting the annual bill is only part of what the Treasurer does. Whenever a property sells, the office acts for the Department of Revenue on the real estate excise tax, and it runs foreclosure against parcels three years in arrears. Statements are meant to reach owners by March 15 under <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020'>RCW 84.56.020</a>, when levy certifications arrive in time.</p>"
+  },
+  {
+   "h2": "Adams County for a property owner",
+   "html": "<p>Wheat fields and irrigated crops define this part of eastern Washington. The land covers about 1,925 square miles, and only 11 or so people live on each. Ritzville, where Interstate 90 meets U.S. 395 in the northeast, is the seat. Othello, down in the southwest, is the largest city, with Hatton, Lind and Washtucna as the towns.</p>\n<p>For 2025 the estimates are 21,488 people and 7,220 housing units. Across 2020 to 2024 the middle-priced owner-occupied home was worth $273,300, and 69.3 percent of homes had their owners living in them. A great deal of the land is working farm ground, and that affects a sale because agricultural parcels get their own excise tax treatment, described below.</p>"
+  },
+  {
+   "h2": "Due dates, interest and liens",
+   "html": "<p>One payment by April 30 settles the year. A bill above $50 may instead be split into April 30 and October 31 halves. Late interest follows RCW 84.56.020 and is charged on the full year's tax, not just on the half that was late.</p>\n<table><thead><tr><th>Event</th><th>Date or rule</th></tr></thead><tbody><tr><td>Statements due out</td><td>March 15</td></tr><tr><td>First half or full year</td><td>April 30</td></tr><tr><td>Second half</td><td>October 31</td></tr><tr><td>Interest on a home of up to four units</td><td>9 percent a year, no penalties</td></tr><tr><td>Interest on any other property</td><td>12 percent a year, with added penalties of 3 percent on June 1 and 8 percent on December 1</td></tr><tr><td>Tax lien begins</td><td>Each January 1, for that year's levy (RCW 84.60.020)</td></tr><tr><td>Foreclosure begins</td><td>Once three full years have run (RCW 84.64.050)</td></tr></tbody></table>\n<p>If a mailed payment has no readable postmark, it is still timely when the Treasurer gets it within three business days after the deadline. Because interest builds monthly, ask for an up-to-date payoff before sending money.</p>"
+  },
+  {
+   "h2": "Taxes and excise tax at a sale",
+   "html": "<p>January 1 is when the lien for that year's tax begins. The parties can divide the year however the contract says. If it says nothing, <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020'>RCW 84.60.020</a> puts the days before the sale on the seller and the days after on the buyer. Escrow instructions normally settle the split, so look at yours.</p>\n<p>Every transfer also needs a Real Estate Excise Tax Affidavit. It goes to the Treasurer first, and the deed can be recorded at the Auditor only afterward. Incomplete affidavits are rejected, and forms must be on legal-size paper (8.5 by 14 inches).</p>\n<ul><li>Payment of excise tax is due 30 days after the sale date, and the Department of Revenue treats the date the deed was notarized as the sale date.</li>\n<li>Added to the state portion are a local 0.25 percent of the price and a $5 processing fee.</li>\n<li>State rates climb in steps: 1.1 percent on the first slice, then 1.28, 2.75 and 3.0 percent.</li>\n<li>A flat state rate of 1.28 percent applies to agricultural or timberland if the buyer will keep it in that use and the Assessor signs the Notice of Continuance on the affidavit.</li></ul>\n<p>Farmland is everywhere here, so that last rule is common. Selling wheat ground or an irrigated parcel? Contact the Assessor before closing, not after.</p>"
+  },
+  {
+   "h2": "How do you challenge an assessed value?",
+   "html": "<p>File a petition with the county board of equalization using a Department of Revenue form. Your deadline under <a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.40.038'>RCW 84.40.038</a> is whichever comes last: July 1 of the assessment year, 30 days from the mailing or electronic sending of the notice, or a limit the county has adopted of up to 60 days.</p>\n<p>The board may excuse lateness when a petition arrives reasonably soon and the owner has good cause. Accepted reasons are a death or serious illness among close family, incorrect written advice from assessor or board staff, a natural disaster, and mail delays the Postal Service can document. The Assessor, at 509-659-3200, can say which deadline applies to your notice.</p>"
+  },
+  {
+   "h2": "Senior and disability exemption",
+   "html": "<p>The Assessor administers a county exemption for seniors and people with disabilities. Qualifying takes three things: being 61 or older as of December 31 in the application year, living in the home as your principal residence on no more than one acre, and household income of $41,000 or under.</p>\n<ul><li>State law (<a href='https://app.leg.wa.gov/RCW/default.aspx?cite=84.36.381'>RCW 84.36.381</a>) extends eligibility to people retired because of a disability and to recipients of VA compensation rated 40 percent or higher for a service-connected condition.</li>\n<li>A seller or displaced owner can move the exemption to a replacement home, though only one home per year can claim it.</li>\n<li>Statements include a note about the state deferral program in chapter 84.38 RCW.</li>\n<li>If a mortgage or tax problem is overwhelming, the Washington Homeownership Resource Center answers at 877-894-4663.</li></ul>"
+  },
+  {
+   "h2": "What happens when taxes go unpaid for three years?",
+   "html": "<p>The Treasurer starts the process. A Certificate of Delinquency is filed with Adams County Superior Court in July, costs begin to pile up, and a title search covers each parcel. People with a recorded interest are notified by certified mail, and the official county newspaper runs a notice as well.</p>\n<ul><li>A judgment then forecloses the tax lien and authorizes a public auction.</li>\n<li>Redemption stays open to owners and other interested parties until the end of the business day before the sale.</li>\n<li>Unsold parcels become Tax Title Property, held by the county in trust. Email the Treasurer for the list.</li>\n<li>No certificate is filed when the delinquent tax is $100 or less, not counting interest and penalties (RCW 84.64.050).</li></ul>\n<p>Personal property is handled separately and is not part of a house sale.</p>"
+  },
+  {
+   "h2": "Preparing a cash sale of an Adams County property",
+   "html": "<p>A sale without a lender follows a schedule you and the buyer choose. Before you list or reply to an offer, take four steps. Ask the Treasurer for a payoff. Ask the Assessor whether the parcel carries an agricultural classification or a senior exemption. Ask your escrow officer how the year's tax will be divided. And plan the excise tax paperwork: the affidavit reaches the Treasurer before the deed reaches the Auditor, and payment is due within 30 days of the sale date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When are property taxes due in Adams County, WA?",
+   "a": "The whole bill is due April 30, or half on April 30 and half on October 31 if it is over $50. Late amounts accrue interest by the month."
+  },
+  {
+   "q": "What is the interest rate on late taxes in Adams County?",
+   "a": "Homes with up to four units pay the lower rate and no penalties, while other property pays a higher yearly rate plus two later penalties. The table above has the figures."
+  },
+  {
+   "q": "Who pays real estate excise tax when I sell in Adams County?",
+   "a": "Normally the seller, though the buyer becomes responsible if the seller fails to pay. The Treasurer takes it with the affidavit, ahead of recording."
+  },
+  {
+   "q": "How long does Adams County wait before foreclosing for unpaid property tax?",
+   "a": "Three full years. A Certificate of Delinquency then goes to Superior Court in July, and you can still redeem before the auction."
+  },
+  {
+   "q": "Who can I call about the senior exemption in Adams County?",
+   "a": "The Assessor's Office, 509-659-3200. Age, residence, acreage and income limits apply, and the section above spells them out."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Adams County Treasurer",
+   "url": "https://co.adams.wa.gov/186/Treasurer"
+  },
+  {
+   "title": "Adams County Property Taxes",
+   "url": "https://co.adams.wa.gov/188/Property-Taxes"
+  },
+  {
+   "title": "Adams County Senior Citizen and Disability Exemptions",
+   "url": "https://co.adams.wa.gov/190/Senior-Citizen-Disability-Exemptions"
+  },
+  {
+   "title": "Adams County Real Estate Excise Tax",
+   "url": "https://co.adams.wa.gov/191/Real-Estate-Excise-Tax"
+  },
+  {
+   "title": "Adams County Foreclosures",
+   "url": "https://co.adams.wa.gov/187/Foreclosures"
+  },
+  {
+   "title": "RCW 84.56.020",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.56.020"
+  },
+  {
+   "title": "RCW 84.40.038",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.40.038"
+  },
+  {
+   "title": "RCW 84.36.381",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.36.381"
+  },
+  {
+   "title": "RCW 84.60.020",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.60.020"
+  },
+  {
+   "title": "RCW 84.64.050",
+   "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=84.64.050"
+  },
+  {
+   "title": "Washington Department of Revenue Real estate excise tax",
+   "url": "https://dor.wa.gov/taxes-rates/other-taxes/real-estate-excise-tax"
+  },
+  {
+   "title": "Census QuickFacts Adams County, Washington",
+   "url": "https://www.census.gov/quickfacts/fact/table/adamscountywashington/PST045224"
+  },
+  {
+   "title": "Adams County, Washington (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Adams_County,_Washington"
+  }
+ ]
 }
