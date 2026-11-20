@@ -2,66 +2,62 @@
  "slug": "alabama-capital-gains-tax",
  "sections": [
   {
-   "h2": "Does Alabama have a separate capital gains tax on a house sale?",
-   "html": "<p>Alabama taxes a gain on a house inside its regular individual income tax, and the individual rate section sets no separate capital gains rate. The tax on individuals in <a href=\"https://law.justia.com/codes/alabama/title-40/chapter-18/article-1/section-40-18-5/\">Ala. Code 40-18-5</a> is one three-step schedule, and a recognized gain is simply part of the income it applies to.</p><p> This guide sticks to what the Alabama Code and the Alabama Department of Revenue say, so confirm federal treatment with the IRS or a tax professional.</p>"
+   "h2": "Is there a separate capital gains tax in Alabama?",
+   "html": "<p>No. Alabama taxes the profit on a house as part of ordinary income. The individual rate statute, <a href=\"https://law.justia.com/codes/alabama/title-40/chapter-18/article-1/section-40-18-5/\">Ala. Code 40-18-5</a>, sets a single three-step schedule with no special capital gains rate, so a recognized gain is simply folded into the income that schedule covers.</p><p>Federal treatment is a different question. Check it with the IRS or a tax professional before you sign a contract.</p>"
   },
   {
-   "h2": "How does Alabama calculate the gain on a sale?",
-   "html": "<p>The gain is the amount realized minus the adjusted basis. <a href=\"https://law.justia.com/codes/alabama/title-40/chapter-18/article-1/section-40-18-7/\">Section 40-18-7</a> says gain from a sale of property is the excess of the amount realized over the adjusted basis, and a loss is the excess of basis over the amount realized.</p><p>The amount realized is the money received plus the fair and reasonable market value of anything else received. Section 40-18-8(a) then says that on a sale or exchange, the entire gain or loss is recognized unless the section provides an exception.</p><ul><li>Amount realized: cash received plus the fair market value of other property received.</li><li>Taxes tied to the sale: under Section 40-18-15(a)(3)(h), specified taxes paid in connection with disposing of property reduce the amount realized.</li><li>Installment sales: Section 40-18-7(d) allows the part of each installment that represents gain to be taxed in the year the payment is received.</li></ul>"
+   "h2": "How the gain is figured",
+   "html": "<p>The gain is the amount realized minus the adjusted basis. Under <a href=\"https://law.justia.com/codes/alabama/title-40/chapter-18/article-1/section-40-18-7/\">Section 40-18-7</a>, a loss is the reverse: basis above the amount realized. The amount realized is the money you receive plus the fair and reasonable market value of anything else you receive. Section 40-18-8(a) then treats the entire gain or loss on a sale or exchange as recognized unless an exception applies.</p><ul><li>Cash received plus the fair market value of other property received make up the amount realized.</li><li>Specified taxes paid in connection with disposing of property reduce the amount realized, under Section 40-18-15(a)(3)(h).</li><li>On an installment sale, Section 40-18-7(d) lets the gain portion of each payment be taxed in the year that payment arrives.</li></ul>"
   },
   {
-   "h2": "What Alabama tax rates apply to the gain?",
-   "html": "<p>Alabama taxes taxable income at 2%, 4% and 5%, depending on filing status and income. The table shows the brackets in Section 40-18-5. They apply to taxable income after deductions, so a gain is not taxed on its own.</p><table><thead><tr><th>Filing status</th><th>2% on taxable income up to</th><th>4% on income over that, up to</th><th>5% on income over</th></tr></thead><tbody><tr><td>Single, head of family, married filing separately</td><td>$500</td><td>$3,000</td><td>$3,000</td></tr><tr><td>Married filing jointly</td><td>$1,000</td><td>$6,000</td><td>$6,000</td></tr></tbody></table><p>Under that schedule, every dollar of taxable income above $3,000 for a single filer, or above $6,000 for joint filers, is taxed at 5%. That describes the statute and is not a prediction of your bill. Your actual tax depends on deductions, other income and any exclusions, so run the numbers with a preparer.</p>"
+   "h2": "Alabama income tax rates",
+   "html": "<p>Taxable income is taxed at 2%, 4% and 5%, depending on filing status and income. The brackets from Section 40-18-5 are below. They apply after deductions, so a gain is never taxed by itself.</p><table><thead><tr><th>Filing status</th><th>2% on taxable income up to</th><th>4% on income over that, up to</th><th>5% on income over</th></tr></thead><tbody><tr><td>Single, head of family, married filing separately</td><td>$500</td><td>$3,000</td><td>$3,000</td></tr><tr><td>Married filing jointly</td><td>$1,000</td><td>$6,000</td><td>$6,000</td></tr></tbody></table><p>Every dollar of taxable income above $3,000 for a single filer, or above $6,000 for joint filers, lands in the 5% bracket. This describes the statute and does not predict your bill, because deductions, other income and exclusions all change the result. Run the numbers with a preparer.</p>"
   },
   {
-   "h2": "Which deductions can lower the Alabama tax on a sale?",
-   "html": "<p>Alabama lets individuals deduct federal income tax paid and several other items. Section 40-18-15(c) allows a deduction for federal income tax paid or accrued within the taxable year, which can reduce the Alabama tax on a large gain.</p><p>Section 40-18-15 also lists other deductions that sometimes line up with a house sale or its aftermath.</p><ul><li>State and local real property taxes, only to the extent they are deductible for federal purposes.</li><li>Interest on indebtedness, limited to what is allowable federally.</li><li>Casualty and theft losses on personal property, following federal rules for those losses.</li><li>Medical and dental expenses above 4.0 percent of adjusted gross income, instead of the federal 7.5 percent threshold.</li><li>Moving expenses, but only where the new principal place of work is in Alabama.</li><li>Up to $35,000 spent removing architectural or transportation barriers for people with certain disabilities.</li></ul><p>The optional standard deduction is the other path. Under Section 40-18-15(b)(4), a single taxpayer with adjusted gross income under $25,500 gets $3,000, a married couple filing jointly under $25,500 gets $8,500, and each is reduced as income rises, down to $2,500 and $5,000. A big gain will usually push income well past those thresholds.</p>"
+   "h2": "Deductions that can reduce the tax",
+   "html": "<p>Alabama lets individuals deduct federal income tax paid or accrued within the year. Section 40-18-15(c) allows it, and on a large gain it can take a real bite out of the Alabama bill.</p><p>Section 40-18-15 also lists other deductions that sometimes line up with a house sale or the months after it:</p><ul><li>State and local real property taxes, only to the extent they are deductible federally.</li><li>Interest on debt, limited to what is allowable federally.</li><li>Casualty and theft losses on personal property, following the federal rules.</li><li>Medical and dental expenses above 4.0 percent of adjusted gross income, instead of the federal 7.5 percent threshold.</li><li>Moving expenses, but only where the new principal place of work is in Alabama.</li><li>Up to $35,000 spent removing architectural or transportation barriers for people with certain disabilities.</li></ul><p>The optional standard deduction is the other path. Under Section 40-18-15(b)(4), a single filer with adjusted gross income under $25,500 gets $3,000, and joint filers under $25,500 get $8,500. Both amounts shrink as income rises, down to $2,500 and $5,000. A large gain usually pushes income far past those thresholds.</p>"
   },
   {
-   "h2": "Are there ways to defer or avoid recognizing the gain?",
-   "html": "<p>Yes, in specific cases. Section 40-18-8 lists the exceptions to full recognition, and a few relate to real estate.</p><ul><li>Like-kind exchanges: if an exchange meets 26 U.S.C. 1031, Alabama determines recognized gain under that section.</li><li>Involuntary conversions: if the taxpayer elects treatment under 26 U.S.C. 1033, such as after a condemnation or destruction, Alabama follows that election.</li><li>Transfers between spouses or former spouses: gain or loss follows 26 U.S.C. 1041.</li><li>Transfers to a trust: gain or loss is not recognized on the transfer of property to a trust.</li></ul><p>Alabama does not write its own rules for these. It points back to the federal Internal Revenue Code sections, so the federal conditions control, including deadlines. A sale to a stranger at market price falls under the general rule and is recognized.</p>"
+   "h2": "Deferring or avoiding the gain",
+   "html": "<p>In a few cases, yes. Section 40-18-8 lists exceptions to full recognition, and some involve real estate.</p><ul><li>Like-kind exchanges: when an exchange meets 26 U.S.C. 1031, Alabama determines the recognized gain under that section, as Section 40-18-8(c) says.</li><li>Involuntary conversions: if the taxpayer elects treatment under 26 U.S.C. 1033, as after a condemnation or destruction, Alabama follows the election.</li><li>Transfers between spouses or former spouses: gain or loss follows 26 U.S.C. 1041.</li><li>Transfers to a trust: no gain or loss is recognized on the transfer.</li></ul><p>Alabama writes no rules of its own here. It points to the federal Internal Revenue Code sections, so the federal conditions control, deadlines included. An ordinary market-price sale to a stranger is covered by the general rule, and the gain is recognized.</p>"
   },
   {
-   "h2": "What if I live outside Alabama?",
-   "html": "<p>A nonresident who sells Alabama real estate faces limits on some deductions. Section 40-18-15(e) restricts several deductions to items tied to Alabama property or an Alabama business. Section 40-18-15(c) also prorates the federal income tax deduction for a nonresident by the share of adjusted gross income that comes from Alabama sources.</p><p>If you inherited a house in Alabama and live elsewhere, your preparer should check both states' rules before you file.</p>"
+   "h2": "Selling an Alabama home from out of state",
+   "html": "<p>A nonresident who sells Alabama real estate faces limits on some deductions. Section 40-18-15(e) restricts several of them to items tied to Alabama property or an Alabama business. Section 40-18-15(c) also prorates the federal income tax deduction by the share of adjusted gross income that comes from Alabama sources.</p><p>If you inherited an Alabama house and live elsewhere, ask your preparer to check both states' rules before you file.</p>"
   },
   {
-   "h2": "What is the Alabama deed tax, and who pays it?",
-   "html": "<p>Separate from income tax, Alabama charges a recordation privilege tax on deeds. Under <a href=\"https://law.justia.com/codes/alabama/title-40/chapter-22/section-40-22-1/\">Section 40-22-1</a>, the tax is $.50 on instruments conveying property worth $500 or less, and $.50 for each $500 or fraction thereof above that.</p><p>On a $250,000 sale, that works out to 500 units and a tax of $250.00. The statute allows the taxable value to be reduced by mortgages or vendor's liens on which mortgage tax was already paid. The statute says an instrument cannot be received for record until the tax is paid.</p><table><thead><tr><th>Rule</th><th>What Section 40-22-1 says</th></tr></thead><tbody><tr><td>Rate</td><td>$.50 per $500 or fraction thereof of value conveyed</td></tr><tr><td>Proof of price</td><td>Deed must carry proof of the actual purchase price, using the Department of Revenue form</td></tr><tr><td>No tax</td><td>Deeds executed for nominal consideration to perfect title</td></tr><tr><td>Penalty</td><td>$100 or 25% of tax due, whichever is greater, for failing to provide requested proof or giving false proof</td></tr><tr><td>Split</td><td>Two thirds goes to the state treasury and one third to the county</td></tr></tbody></table>"
+   "h2": "The Alabama deed tax",
+   "html": "<p>Apart from income tax, Alabama charges a recordation privilege tax on deeds. <a href=\"https://law.justia.com/codes/alabama/title-40/chapter-22/section-40-22-1/\">Section 40-22-1</a> sets it at $.50 on instruments conveying property worth $500 or less, plus $.50 for each $500 or fraction of $500 above that. The taxable value can be reduced by mortgages or vendor's liens on which mortgage tax was already paid. An instrument cannot be received for record until the tax is paid.</p><ul><li>Proof of price: the deed must carry proof of the actual purchase price, using the Department of Revenue form.</li><li>No tax: deeds executed for nominal consideration to perfect title.</li><li>Penalty: $100 or 25% of the tax due, whichever is greater, for failing to provide requested proof or giving false proof.</li><li>Split: two thirds goes to the state treasury and one third to the county.</li></ul>"
   },
   {
-   "h2": "When are Alabama property taxes due when I sell?",
-   "html": "<p>The Alabama Department of Revenue states that property taxes are due October 1 and are delinquent after December 31. If you sell part way through the year, ask your title company how the current year's bill is split, since the closing paperwork should say who pays what.</p><p>Property tax is a different subject from capital gains, but it hits the same settlement statement, and unpaid taxes can delay a closing.</p>"
+   "h2": "Property taxes at closing",
+   "html": "<p>Property taxes are due October 1 and delinquent after December 31. If you sell partway through the year, your title company can show how the current bill is divided, since the closing paperwork should say who pays what.</p><p>Property tax is a separate subject from capital gains, but both land on the same settlement statement, and unpaid taxes can delay a closing.</p>"
   },
   {
-   "h2": "How does a cash sale fit with the tax picture?",
-   "html": "<p>A cash sale does not change how the gain is taxed. It does change the timeline and the costs on the page: you know the sale price in advance, you avoid paying agent commissions on a listing, and the deed tax and recording still run through the probate office.</p><p>If you own an Alabama house you want to sell as is, perhaps after an inheritance, send us the address for a written cash offer. Talk to a tax professional about the gain before you sign.</p>"
+   "h2": "How a cash sale fits the tax picture",
+   "html": "<p>A cash sale leaves the tax on your gain unchanged. What it changes is the timeline and the costs: you know the price in advance, you skip agent commissions, and the deed tax and recording still go through the probate office.</p><p>If you own an Alabama house you want to sell as is, perhaps after an inheritance, send us the address for a written cash offer. Talk to a tax professional about the gain before you sign.</p><p>Before you meet with a preparer, collect the closing statement, your records of what you paid for the house and any improvements, and a list of taxes and costs tied to the sale. Those records drive the basis and the amount realized, which are the two numbers the Alabama calculation starts from.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Does Alabama tax capital gains on a house sale?",
-   "a": "Yes, as part of regular income. Under Ala. Code 40-18-8(a), the entire gain on a sale is recognized unless an exception applies, and it is taxed through the 2%, 4% and 5% brackets in Section 40-18-5."
+   "a": "Yes, as part of regular income. Under Ala. Code 40-18-8(a) the entire gain is recognized unless an exception applies, and it is taxed through the 2%, 4% and 5% brackets in Section 40-18-5."
   },
   {
    "q": "What is Alabama's top income tax rate on a gain?",
-   "a": "The top rate in Section 40-18-5 is 5%, which applies to taxable income over $3,000 for single filers and over $6,000 for joint filers."
+   "a": "The top rate in Section 40-18-5 is 5%. It applies to taxable income over $3,000 for single filers and over $6,000 for joint filers."
   },
   {
    "q": "Can I deduct federal income tax from my Alabama return?",
-   "a": "Yes. Section 40-18-15(c) allows a deduction for federal income tax paid or accrued in the taxable year, and nonresidents get a proration based on Alabama-source income."
+   "a": "Yes. Section 40-18-15(c) allows a deduction for federal income tax paid or accrued in the year, and nonresidents get a proration based on Alabama-source income."
   },
   {
    "q": "What is the Alabama deed tax rate?",
-   "a": "It is $.50 for each $500 or fraction of value conveyed, under Section 40-22-1. The tax is collected when the deed is recorded."
-  },
-  {
-   "q": "When are Alabama property taxes due?",
-   "a": "The Department of Revenue says they are due October 1 and delinquent after December 31."
+   "a": "It is $.50 for each $500 or fraction of value conveyed, under Section 40-22-1, and it is collected when the deed is recorded."
   },
   {
    "q": "Does a 1031 exchange work in Alabama?",
-   "a": "Yes. Section 40-18-8(c) says that if an exchange meets the requirements of 26 U.S.C. 1031, Alabama determines the recognized gain under that section."
+   "a": "Yes. Section 40-18-8(c) says that when an exchange meets the requirements of 26 U.S.C. 1031, Alabama determines the recognized gain under that section."
   }
  ],
  "sources": [

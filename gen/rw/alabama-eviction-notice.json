@@ -2,66 +2,62 @@
  "slug": "alabama-eviction-notice",
  "sections": [
   {
-   "h2": "How many days of notice must an Alabama landlord give before evicting?",
-   "html": "<p>It depends on the reason, and the shortest period in the Uniform Residential Landlord and Tenant Act is seven days. The longest common one is 30 days, for ending a month-to-month tenancy without any stated cause.</p><p>The table below pulls the periods from the sections of the Alabama Code that govern them.</p><table><thead><tr><th>Situation</th><th>Notice</th><th>Section</th></tr></thead><tbody><tr><td>Unpaid rent</td><td>Written notice naming rent and late fees owed; lease ends not less than seven business days after receipt if unpaid</td><td>35-9A-421(b)</td></tr><tr><td>Material lease breach or health and safety violation</td><td>Written notice naming the acts; termination date not less than seven business days after receipt</td><td>35-9A-421(a)</td></tr><tr><td>Noncurable default (listed acts)</td><td>Seven day notice, no right to cure unless the landlord agrees</td><td>35-9A-421(d)</td></tr><tr><td>Week-to-week tenancy</td><td>Written notice at least seven days before the termination date</td><td>35-9A-441(a)</td></tr><tr><td>Month-to-month tenancy</td><td>Written notice at least 30 days before the periodic rental date</td><td>35-9A-441(b)</td></tr></tbody></table><p>A notice is a written step that comes before any court filing. The lawsuit itself is covered separately on our Alabama eviction process page.</p>"
+   "h2": "Notice periods by situation",
+   "html": "<p>How much warning a tenant gets turns on the landlord's reason. The act sets seven days as the floor, and the usual ceiling is 30 days, which applies when a landlord simply wants a month-to-month tenant out with no cause given. A written notice precedes any court filing, every time.</p><table><thead><tr><th>Situation</th><th>Notice required</th></tr></thead><tbody><tr><td>Unpaid rent</td><td>Written demand listing rent and late fees; the lease ends if they stay unpaid seven business days after receipt</td></tr><tr><td>Material lease breach or health and safety violation</td><td>Written notice describing the acts, with a termination date at least seven business days out</td></tr><tr><td>Noncurable default (listed acts)</td><td>Seven days, and no right to cure unless the landlord agrees</td></tr><tr><td>Week-to-week tenancy</td><td>Written notice seven or more days ahead of the end date</td></tr><tr><td>Month-to-month tenancy</td><td>Written notice 30 or more days ahead of the periodic rental date</td></tr></tbody></table><p>The first three rows come from Section 35-9A-421, subsections (b), (a) and (d). The last two come from Section 35-9A-441, subsections (a) and (b).</p>"
   },
   {
-   "h2": "What must a nonpayment notice say in Alabama?",
-   "html": "<p>It must be written, delivered to the tenant, and state the amount of rent and any late fees owed. Section 35-9A-421(b) says the notice must also state that the rental agreement will end on a date not less than seven business days after the tenant receives it.</p><p>If the tenant pays what the notice demands within that period, the breach is cured and the lease continues. If not, the rental agreement terminates under the statute, and the landlord can go to court for possession.</p><p>When a tenant's conduct breaks the lease in two ways at once, for example unpaid rent and a material breach, the statute says the seven day nonpayment period governs. A landlord therefore does not need to run two separate clocks.</p>"
+   "h2": "What a nonpayment notice must say",
+   "html": "<p>Put it on paper, hand it to the tenant, and list the rent and late fees owed. Section 35-9A-421(b) also requires a statement that the rental agreement will end seven or more business days after the tenant gets the notice.</p><p>If the tenant pays the whole demand in time, the problem is cured and the lease continues. If not, the agreement ends by operation of the statute, and the landlord may ask a court for possession.</p><p>A tenant can break the lease two ways at once, such as missing rent and committing a material breach. In that case the seven day nonpayment period controls, which spares the landlord from tracking two deadlines.</p>"
   },
   {
-   "h2": "What is a notice for a material lease violation?",
-   "html": "<p>It is a written notice that lists the acts or omissions that make up the breach and sets a termination date at least seven business days after receipt. Section 35-9A-421(a) applies to material noncompliance with the rental agreement, to an intentional misrepresentation of a material fact in the lease or application, and to a failure to meet the tenant's health and safety duties under Section 35-9A-301.</p><p>The tenant may fix the breach before the termination date and, if the fix is adequate, the lease does not end. One kind of violation cannot be fixed at all: an intentional misrepresentation of a material fact in the rental agreement or application.</p><p>The landlord can also seek actual damages and reasonable attorney fees, and an injunction, for the tenant's noncompliance under Section 35-9A-421(c).</p>"
+   "h2": "Notice for a material lease violation",
+   "html": "<p>Here the landlord writes down what the tenant did or failed to do and picks a termination date at least seven business days after the notice is received. Section 35-9A-421(a) reaches serious violations of the lease, lying on purpose about a material fact in the lease or application, and neglect of the tenant's health and safety duties under Section 35-9A-301.</p><p>A tenant who repairs the problem adequately before the end date keeps the lease. The one violation that can never be repaired is a deliberate lie about a material fact in the rental agreement or application.</p><p>Section 35-9A-421(c) lets the landlord also pursue actual damages, reasonable attorney fees and an injunction.</p>"
   },
   {
-   "h2": "Which lease violations allow a seven day notice with no chance to cure?",
-   "html": "<p>Four kinds of conduct count as noncurable defaults under Section 35-9A-421(d), and for these the landlord may terminate on a seven-day notice. The list says it includes, but is not limited to, the acts below.</p><ul><li>Manufacturing, growing, importing, transporting, possessing, supplying, administering or using illegal drugs in the unit or common areas.</li><li>Illegal use, manufacture, import, possession, supply or discharge of a firearm or ammunition on the rental property, except in self-defense, defense of another or as allowed by Section 13A-3-23.</li><li>Criminal assault of a tenant or guest on the property, with the same self-defense exceptions.</li><li>A second breach with substantially the same acts as one the tenant already cured, if it happens within six months.</li></ul><p>The same subsection limits cures generally. A tenant may not cure the breach of any lease term more than two times in a 12 month period unless the landlord consents in writing, and this applies notwithstanding Section 35-9A-141.</p>"
+   "h2": "Violations with no chance to cure",
+   "html": "<p>Four kinds of conduct in Section 35-9A-421(d) are treated as defaults that cannot be cured, so a seven-day notice can end the tenancy. The statute says the list includes, but is not limited to:</p><ul><li>Illegal drug activity of any kind in the unit or common areas, from growing and importing to supplying and using.</li><li>Unlawful handling or firing of a gun or ammunition on the property, other than in self-defense, defense of another or as Section 13A-3-23 allows.</li><li>A criminal assault on a tenant or guest there, with the same self-defense exceptions.</li><li>Repeating, within six months, much the same conduct the tenant already cured once.</li></ul><p>The subsection also limits cures overall: no tenant may cure a breach of any lease term more than two times in 12 months without the landlord's written consent, whatever Section 35-9A-141 says.</p>"
   },
   {
-   "h2": "How does a landlord end a month-to-month or week-to-week tenancy?",
-   "html": "<p>By written notice, with 30 days for a month-to-month tenancy and seven days for a week-to-week tenancy. Section 35-9A-441 lets either the landlord or the tenant give the notice, so a tenant who wants to leave uses the same periods.</p><p>The 30 days are measured back from the periodic rental date written in the notice. A landlord who wants a tenant out by the first of a month should give the notice at least 30 days before that date.</p><p>This route needs no allegation of wrongdoing. It suits an owner who is selling and simply needs the house empty, and it can be combined with a buyer's closing date when the dates line up.</p>"
+   "h2": "Ending a month-to-month or week-to-week tenancy",
+   "html": "<p>Give written notice, with 30 days for a month-to-month arrangement and seven for a week-to-week one. Section 35-9A-441 lets landlord and tenant alike use it, so a tenant leaving follows the same periods.</p><p>The 30 days run back from the rental date named in the notice. To have a tenant out by the first of a month, deliver the notice no later than 30 days before it.</p><p>Nothing here accuses the tenant of anything. It works for an owner who is selling and just needs vacant possession, and the dates can be matched to a buyer's closing.</p>"
   },
   {
-   "h2": "What happens if a tenant stays after the notice period ends?",
-   "html": "<p>The landlord may bring an action for possession, and if the tenant's holdover is willful and not in good faith, the landlord may recover more. Section 35-9A-441(c) allows an amount equal to not more than three months' periodic rent, or the landlord's actual damages if those are greater, plus reasonable attorney fees.</p><p>There is a counterweight. If the landlord consents to the tenant's continued occupancy, a different rule, Section 35-9A-161(d), governs.</p><p>Court steps after that point, including service, the seven day appeal window and the writ, are the subject of a separate page.</p>"
+   "h2": "If the tenant stays after the notice ends",
+   "html": "<p>The landlord can sue for possession. If the tenant's stay is willful and in bad faith, Section 35-9A-441(c) opens the door to more: up to three months' periodic rent, or actual damages when those run higher, along with reasonable attorney fees.</p><p>One counterweight applies. If the landlord consents to the tenant's continued occupancy, Section 35-9A-161(d) governs instead.</p><p>Court steps beyond that point, including service, the seven day appeal window and the writ, belong to the eviction lawsuit itself.</p>"
   },
   {
-   "h2": "Can a landlord send a notice in response to a complaint?",
-   "html": "<p>Not if the notice is retaliation. Section 35-9A-501 bars a landlord from increasing rent in a discriminatory way, cutting services, or bringing or threatening an action for possession because the tenant took one of three protected steps.</p><ul><li>The tenant complained to a government agency charged with enforcing a building or housing code about a violation materially affecting health and safety.</li><li>The tenant complained to the landlord about a violation of the landlord's duty to maintain the premises under Section 35-9A-204.</li><li>The tenant organized or joined a tenants' union or similar group.</li></ul><p>A tenant who proves retaliation has the remedies in Section 35-9A-407 and a defense against the possession case. The landlord can still sue when the tenant is in default on rent, when the tenant or a guest caused the code violation by lack of reasonable care, when repairs would effectively deprive the tenant of the home, or for other material lease violations.</p>"
+   "h2": "Retaliation and notices",
+   "html": "<p>A notice may not be revenge. Section 35-9A-501 forbids discriminatory rent increases, service cuts, and suing or threatening to sue for possession when the reason is that the tenant did one of three protected things:</p><ul><li>Reporting a health and safety violation to the agency that enforces the building or housing code.</li><li>Telling the landlord about a breach of the duty to maintain the premises under Section 35-9A-204.</li><li>Organizing or joining a tenants' union or similar group.</li></ul><p>Proof of retaliation gives the tenant the remedies in Section 35-9A-407 and a defense in the possession case. Even so, a landlord may sue over unpaid rent, a code violation the tenant or a guest caused by carelessness, repairs that would in effect take the home from the tenant, or other material lease violations.</p>"
   },
   {
-   "h2": "What does the landlord owe the tenant after the tenancy ends?",
-   "html": "<p>Any security deposit that is not used must come back with an itemized list of what was withheld, within 60 days. Section 35-9A-201 says the landlord may apply the deposit to unpaid rent and to damages caused by the tenant's failure to meet Section 35-9A-301, and must deliver an itemized written notice with the balance 60 days after the tenancy ends and possession is delivered.</p><p>A landlord may not demand more than one month's periodic rent as security, except for pets, changes to the premises or increased liability risks.</p><p>An owner planning a sale should put that 60 day deadline on the calendar.</p>"
+   "h2": "Returning the security deposit",
+   "html": "<p>Any unused deposit goes back to the tenant, together with a list of each deduction, within 60 days. Section 35-9A-201 permits the landlord to use the deposit for unpaid rent and for damage that comes from the tenant's failure to meet Section 35-9A-301. The written breakdown and the balance are due 60 days after the tenancy ends and possession is handed over.</p><p>Security of more than one month's periodic rent cannot be demanded, apart from pets, alterations or added liability risk. If a sale is in the works, mark that 60 day deadline on your calendar.</p>"
   },
   {
-   "h2": "Does a notice make it easier to sell the house?",
-   "html": "<p>A properly served notice gives an owner a date to plan around, and some buyers will wait for it. Others will not buy until the tenant has left.</p><p>We buy Alabama houses in many conditions, including rentals where a notice is out or a case is pending. Send us the address and where you are in the process, and we can talk about a closing date that fits your timeline.</p>"
+   "h2": "Does a notice help you sell the house?",
+   "html": "<p>A notice served correctly hands you a date to plan around, and some buyers will wait for it. Others hold off until the tenant has moved out.</p><p>Rentals with a notice out or a case pending are houses we look at too. Tell us the address and how far along things are, and we can discuss a closing date that works.</p><p>Before you call, gather the lease, a copy of any notice you served, the date the tenant received it, and a record of what rent is owed. Those four items show a buyer how much time and risk remain on the house.</p>"
   }
  ],
  "faqs": [
   {
    "q": "How long is an Alabama eviction notice for unpaid rent?",
-   "a": "Section 35-9A-421(b) requires a written notice stating the rent and late fees owed, with termination not less than seven business days after the tenant receives it."
+   "a": "The landlord must give a written notice listing rent and late fees, and the lease can end seven business days after the tenant receives it (Section 35-9A-421(b))."
   },
   {
    "q": "How much notice ends a month-to-month tenancy in Alabama?",
-   "a": "At least 30 days, in writing, before the periodic rental date named in the notice, under Section 35-9A-441(b). Either landlord or tenant can give it."
+   "a": "Thirty days in writing, counted back from the rental date in the notice (Section 35-9A-441(b)). Either side may give it."
   },
   {
    "q": "Can an Alabama landlord skip the cure period?",
-   "a": "For certain acts, yes. Section 35-9A-421(d) lists drug activity, illegal firearm use, criminal assault and a repeat of a cured breach within six months as noncurable and allows seven-day termination."
-  },
-  {
-   "q": "How many times can a tenant cure the same lease problem?",
-   "a": "No breach may be cured more than two times in any 12 month period without the landlord's written consent, according to Section 35-9A-421(d)."
+   "a": "For some conduct, yes. Drug activity, illegal gun use, criminal assault and a repeat of a cured breach inside six months are noncurable under Section 35-9A-421(d), which allows seven-day termination."
   },
   {
    "q": "What can a landlord recover from a tenant who stays after the notice?",
-   "a": "If the holdover is willful and not in good faith, up to three months' periodic rent or actual damages, whichever is greater, plus reasonable attorney fees under Section 35-9A-441(c)."
+   "a": "When the stay is willful and in bad faith, up to three months' rent or actual damages if higher, plus reasonable attorney fees (Section 35-9A-441(c))."
   },
   {
    "q": "When does a landlord have to return the deposit in Alabama?",
-   "a": "Within 60 days after the tenancy ends and possession is delivered, with an itemized list of any amounts withheld, under Section 35-9A-201."
+   "a": "Within 60 days of the end of the tenancy and the handover of possession, along with an itemized list of deductions (Section 35-9A-201)."
   }
  ],
  "sources": [
