@@ -1,0 +1,101 @@
+{
+ "slug": "maine-transfer-tax",
+ "sections": [
+  {
+   "h2": "Transfer tax rate",
+   "html": "<p>Maine charges $2.20 on each $500 of a property's value, counting any fraction of $500 as a full unit. For transfers on or after November 1, 2025, value above $1 million carries an added $3.80 per $500, which puts that top slice at $6.00 per $500. The rate is set in <a href='https://legislature.maine.gov/statutes/36/title36sec4641-A.html'>36 M.R.S. section 4641-A</a>.</p>\n<p>Because of the rounding, estimate high. The registry counts every partial $500 as a whole one, so a price that lands just over a boundary costs the next full unit.</p>"
+  },
+  {
+   "h2": "Who pays, the seller or the buyer?",
+   "html": "<p>Each side pays half. The grantor (seller) and grantee (buyer) split the tax under section 4641-A, and the register of deeds collects both shares when the deed is offered for recording.</p>\n<p>That makes the seller's half a real line on the closing statement, and an easy one to overlook while comparing offers. If a buyer says they cover all closing costs, ask in writing whether that includes your half of the transfer tax.</p>\n<p>When you disagree with the figure the register computes, <a href='https://legislature.maine.gov/statutes/36/title36sec4641-B.html'>section 4641-B</a> allows a request that the State Tax Assessor determine the correct amount, so the deed can still be recorded.</p>"
+  },
+  {
+   "h2": "What value is taxed?",
+   "html": "<p>The tax is figured on the value stated on the declaration, which is normally the price actually paid. Consideration usually means money, but it can also include other property or an assumed mortgage.</p>\n<ul><li>In an arm's-length sale, the value is the consideration.</li><li>For a gift, a nominal-price transfer or a deal where consideration cannot be determined, the value is fair market value.</li><li>Fair market value is presumed to equal the adjusted assessed value (the municipal assessed value divided by the municipality's certified ratio) unless the local assessor says otherwise.</li><li>&quot;Nominal&quot; means less than 20 percent of the adjusted assessed value.</li></ul>\n<p>Online preparers must enter the adjusted assessed value, which the municipal assessor can supply. This is why a $1 sale to a relative still gets taxed against what the town says the house is worth.</p>"
+  },
+  {
+   "h2": "Exempt sales and transfers",
+   "html": "<p>Maine exempts many deeds. For home sellers the common ones involve family, death, divorce, bankruptcy and certain lenders. <a href='https://legislature.maine.gov/statutes/36/title36sec4641-C.html'>Section 4641-C</a> has the complete numbered list. The most relevant entries:</p>\n<ul><li>Deeds between spouses, parent and child, or grandparent and grandchild with no actual consideration, and deeds between spouses in divorce proceedings</li><li>Deeds of distribution under Title 18-B or Title 18-C, which covers an estate passing property to heirs</li><li>Transfers by transfer on death deed</li><li>Tax deeds and deeds given under the U.S. Bankruptcy Code</li><li>Corrective deeds that change nothing about price or ownership</li><li>Mortgage deeds, discharges and partial releases</li><li>Deeds to the U.S., the State or their agencies and subdivisions</li><li>Deeds to buyers receiving Maine State Housing Authority first-time homebuyer mortgage assistance, exempt for both buyer and seller</li><li>Conveyances of a mobile home park to a majority of its residents or a residents' association under Title 10, section 9094-A</li></ul>\n<p>An exemption never applies itself. It has to be claimed and named on the declaration, and section 4641-D requires the declaration to give the reason for any exempt transfer.</p>"
+  },
+  {
+   "h2": "Foreclosure and deed in lieu",
+   "html": "<p>Distressed-sale deeds are taxed differently from ordinary sales. If you are behind on a mortgage, the differences are worth a look.</p>\n<table><thead><tr><th>Situation</th><th>Who owes tax</th></tr></thead><tbody><tr><td>Deed in lieu of foreclosure</td><td>The mortgagor (owner) is exempt. The mortgagee pays half, based on the property's value.</td></tr><tr><td>Foreclosure auction sold to a third party</td><td>The buyer pays half on the sale price. The seller pays half but only on any profit, so no profit means no seller tax.</td></tr><tr><td>Foreclosing lender is the high bidder</td><td>The lender is treated as both buyer and seller and pays the full tax on the sale price.</td></tr><tr><td>Mortgage deed</td><td>No tax for either party.</td></tr></tbody></table>\n<p>Handing a lender a deed in lieu costs the owner no transfer tax, while a regular sale before foreclosure carries the seller's half. Weigh that half against the other costs of each path.</p>"
+  },
+  {
+   "h2": "Selling an LLC or other entity",
+   "html": "<p>The tax reaches entities too. Section 4641-A also taxes the transfer or acquisition of a controlling interest in an entity that holds Maine real estate, when it occurs within any 12-month period. The same rates apply to the property's value, and transferor and transferee each pay half.</p>\n<p>A controlling-interest transfer is reported to the register of deeds and is not recorded as a deed. If the transfer goes unreported and the tax unpaid for 30 days after completion, both parties become jointly and severally liable for the entire amount. An owner who holds a rental in an LLC and plans to sell the company in place of the deed needs to know this. A transfer that would be exempt as a deed is exempt as a controlling-interest transfer too. Maine Revenue Services has a separate controlling interest declaration form.</p>"
+  },
+  {
+   "h2": "How and when it is collected",
+   "html": "<p>The register in the county where the property sits computes the tax and collects it at the moment the deed is offered for recording. No bill follows later. The declaration filed with the deed serves as the return, and the deed is not accepted until the money is in.</p>\n<p>The register keeps 9.2 percent of the tax and sends 90.8 percent to Maine Revenue Services each month, and declarations reach the State within 40 days of recording. Under section 4641-B, registers remit by the 10th of each month for the prior month, with the State's share fixed at 90.8 percent for fiscal years 2025-26 and 2026-27.</p>\n<p>For a seller the date that counts is closing day. The registry needs the declaration, the signed deed and payment all at once. Our <a href='/maine-recording-deeds/'>Maine deed recording guide</a> covers the fees and formatting that go with it.</p>"
+  },
+  {
+   "h2": "Before closing, a seller's checklist",
+   "html": "<ol><li>Estimate the tax using the state's tax chart or estimate calculator, linked from the Maine Revenue Services transfer tax page.</li><li>Ask who pays the seller's half and get the answer into the contract.</li><li>Check whether your deed qualifies for an exemption and tell the closing agent so it goes on the declaration.</li><li>If the buyer uses a Maine State Housing Authority first-time buyer loan, have the closer confirm the exemption for both sides.</li><li>If the property sits inside an entity, ask a lawyer whether a controlling-interest transfer is involved.</li></ol>\n<p>This page is general information, not tax or legal advice. Maine Revenue Services answers calculation questions at prop.tax@maine.gov, and the county registry can confirm what it will accept on closing day.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Maine transfer tax rate?",
+   "a": "$2.20 for each $500 or fraction of $500 of value. For transfers on or after November 1, 2025, value above $1 million adds $3.80 per $500, so that slice is taxed at $6.00 per $500."
+  },
+  {
+   "q": "Does the seller pay the transfer tax?",
+   "a": "The seller pays half and the buyer pays half. Both shares are collected when the deed is recorded, so the seller's half normally comes out of proceeds at closing unless the contract says otherwise."
+  },
+  {
+   "q": "Is there transfer tax on an inherited house?",
+   "a": "A deed of distribution from an estate under Title 18-B or 18-C is exempt. If the heirs then sell, that sale is taxed in the usual way and shared by seller and buyer."
+  },
+  {
+   "q": "Is a deed in lieu of foreclosure taxed?",
+   "a": "The owner giving the deed is exempt. The lender pays half of the tax, based on the property's value."
+  },
+  {
+   "q": "Do first-time buyers pay the Maine transfer tax?",
+   "a": "Buyers using a Maine State Housing Authority first-time homebuyer mortgage program are exempt, and so is the seller on that deed. The exemption has to be claimed on the declaration."
+  }
+ ],
+ "sources": [
+  {
+   "title": "36 M.R.S. section 4641-A Transfer tax imposed",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-A.html"
+  },
+  {
+   "title": "36 M.R.S. section 4641-B Collection",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-B.html"
+  },
+  {
+   "title": "36 M.R.S. section 4641-C Exemptions",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-C.html"
+  },
+  {
+   "title": "36 M.R.S. section 4641-D Declaration of value",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec4641-D.html"
+  },
+  {
+   "title": "Maine Revenue Services Real Estate Transfer Tax",
+   "url": "https://www.maine.gov/revenue/taxes/property-tax/transfer-tax"
+  },
+  {
+   "title": "Maine Revenue Services Property Tax Bulletin 31",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/bull31.pdf"
+  },
+  {
+   "title": "Maine Revenue Services RETT tax chart",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/inline-files/RETT_tax_chart_0.pdf"
+  },
+  {
+   "title": "Maine Revenue Services RETT database FAQ",
+   "url": "https://www.maine.gov/REVENUE/faq/retto_faq.html"
+  },
+  {
+   "title": "Maine Registers of Deeds fee schedule and transfer tax note",
+   "url": "https://maineregistryofdeeds.com/fees"
+  },
+  {
+   "title": "Bernstein Shur: Maine transfer tax increase takes effect November 1, 2025",
+   "url": "https://www.bernsteinshur.com/insights-events/significant-maine-real-estate-transfer-tax-increase-takes-effect-november-1-2025/"
+  }
+ ]
+}

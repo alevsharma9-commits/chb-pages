@@ -1,0 +1,97 @@
+{
+ "slug": "maryland-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Maryland tax on a house sale",
+   "html": "<p>Maryland has no separate capital gains rate for most sellers. Gain from a house is added to your income and taxed at the regular state rates, with a local income tax on top. Beginning with tax year 2025, an extra 2% applies to net capital gains for people whose federal adjusted gross income is above $350,000.</p>\n<p>That 2% sits on top of the regular tax, so a seller over the threshold pays both. Corporations are exempt from it. A pass-through entity does not pay it, though an owner who receives gain from one can, and a trust or estate with federal taxable income over $350,000 owes it on undistributed gains.</p>\n<p>Most homeowners who sell a primary residence never meet the surtax, because that gain is excluded when the sale price stays under a set limit. The next section explains it.</p>"
+  },
+  {
+   "h2": "Sales excluded from the extra 2%",
+   "html": "<p>A primary residence that sells for less than $1.5 million is excluded from the 2% surtax. Covered property types are a single-family home, townhome, row home, or a residential condo or co-op unit, including the land and any accessory dwelling unit.</p>\n<p>Other exclusions matter less to a house seller:</p>\n<ul><li>Gain held in retirement accounts such as a 401(k) or IRA.</li><li>Land under a conservation, agricultural or forest preservation easement.</li><li>Gain deferred in a like-kind exchange under IRC section 1031, since it is outside federal AGI.</li><li>Affordable housing owned by a nonprofit.</li></ul>\n<p>A rental house, a second home or an inherited house you never lived in is not a primary residence. For a seller above the $350,000 line, gain on any of those can be hit by the extra 2%.</p>"
+  },
+  {
+   "h2": "State and local income tax rates",
+   "html": "<p>For tax years beginning after December 31, 2024, Maryland's top brackets are 5.75%, 6.25% and 6.5%, depending on income. The lowest bracket starts at 2% on the first $1,000. Counties and Baltimore City add their own local income tax.</p>\n<table><thead><tr><th>State rate</th><th>Single filers</th><th>Joint filers and heads of household</th></tr></thead><tbody><tr><td>5.75%</td><td>$250,001 to $500,000</td><td>$300,001 to $600,000</td></tr><tr><td>6.25%</td><td>$500,001 to $1,000,000</td><td>$600,001 to $1,200,000</td></tr><tr><td>6.50%</td><td>Over $1,000,000</td><td>Over $1,200,000</td></tr></tbody></table>\n<p>Counties may charge up to 3.30% for tax years beginning after December 31, 2025. Harford County charges 3.06% and Howard County 3.20% for calendar 2026.</p>\n<p>A large house gain counts as income, so it can push the year's total into a higher bracket. A tax professional can run the numbers on your own return.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>You can exclude up to $250,000 of gain from the sale of your main home, or $500,000 on a joint return. To qualify, you must have owned the home at least 24 months and lived in it as your main home at least 24 months during the 5 years ending on the sale date.</p>\n<p>The ownership and use tests can be met in different 2-year periods. You generally cannot take the exclusion if you excluded gain from another home sale in the 2 years before this one.</p>\n<p>A reduced exclusion may be available when the sale is driven by a work change, a health problem or an unforeseeable event such as a death, a divorce or a home destroyed by disaster. The formula divides your qualifying time by 730 days and multiplies by $250,000. Report the sale if you receive Form 1099-S or if you cannot exclude all the gain, using Schedule D and Form 8949.</p>"
+  },
+  {
+   "h2": "Federal rates on gain above the exclusion",
+   "html": "<p>Gain on a home owned more than one year is taxed federally at 0%, 15% or 20%, depending on income. For tax years beginning in 2025 the breakpoints are:</p>\n<ul><li>0% up to $48,350 for single filers, $96,700 for joint filers and $64,750 for heads of household.</li><li>15% above that, up to $533,400 for single filers, $600,050 for joint filers and $566,700 for heads of household.</li><li>20% above the 15% range.</li></ul>\n<p>Gain on a home held one year or less is short-term and taxed as ordinary income. Unrecaptured section 1250 gain, which comes from depreciation on real property, is taxed at up to 25%.</p>\n<p>The 3.8% net investment income tax can also apply, starting at $200,000 for single filers and heads of household and $250,000 for joint filers. Excluded gain on a principal residence generally escapes it, while gain above the exclusion can count.</p>"
+  },
+  {
+   "h2": "How to work out your gain",
+   "html": "<p>Gain is the amount realized minus your adjusted basis. Amount realized is the selling price less selling expenses. Basis starts with what you paid, including purchase costs, and rises with improvements that add value.</p>\n<p>Because selling expenses lower the amount realized, the closing costs you pay at settlement count in your favor. Keep the final settlement statement, the closing disclosure from your purchase and receipts for improvements. Those papers prove your basis if the IRS or the Comptroller asks.</p>\n<p>An inherited house follows a special rule. Basis is generally the fair market value on the date of death, or the alternate valuation date the estate chose. If an estate tax return was filed or required, the value on that return is your basis.</p>\n<p>Rental or business use calls for care. Depreciation claimed after May 6, 1997 cannot be excluded and is recognized as unrecaptured section 1250 gain. Periods after 2008 when the property was not your principal residence are generally nonqualified use, and gain allocated to them cannot be excluded.</p>"
+  },
+  {
+   "h2": "Nonresident sellers and withholding at closing",
+   "html": "<p>A nonresident selling Maryland real property has tax withheld at settlement: 8.75% of the total payment for individuals and 8.25% for entities, on sales after June 30, 2025. The deed cannot be recorded unless the withholding payment comes with it.</p>\n<p>Form MW506NRS reports the withholding. A seller who owes less, or nothing, can apply for an early refund when the price is below $1.5 million. At $1.5 million or more, no tentative refund is available and the seller files a full annual return, with Form 502CG where it applies. Form MW506AE is the application for a certificate of full or partial exemption.</p>\n<p>The withholding leaves out the extra 2% surtax. A seller who expects to owe it should make additional estimated payments with Form 502D.</p>"
+  },
+  {
+   "h2": "Does a cash buyer change the tax?",
+   "html": "<p>No. Maryland and federal tax on your gain turn on your basis, holding period and income. They do not depend on who buys the house or how the buyer pays. With a cash buyer, the price you realize is simply the price in the contract.</p>\n<p>What a fast cash sale changes is timing. If you hope to use the home sale exclusion, check the 24-month tests before you sign, because the date of sale is the date that counts.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Maryland capital gains tax on selling a home?",
+   "a": "Maryland taxes the gain as income, with local tax on top, and adds a 2% surtax on net capital gains when federal adjusted gross income is above $350,000. A primary residence that sells for less than $1.5 million is excluded from that surtax."
+  },
+  {
+   "q": "How much home sale gain can I exclude on my federal return?",
+   "a": "Up to $250,000 as a single filer or $500,000 on a joint return. You must have owned the home and used it as your main home for at least 24 months in the 5 years before the sale."
+  },
+  {
+   "q": "Do Maryland counties add tax to my capital gain?",
+   "a": "Yes, through the local income tax, which is capped at 3.30% for tax years beginning after December 31, 2025. Harford County charges 3.06% and Howard County 3.20%."
+  },
+  {
+   "q": "What if I live out of state and sell a Maryland house?",
+   "a": "Tax is withheld at settlement: 8.75% for a nonresident individual and 8.25% for an entity. If the price is below $1.5 million you can apply for a refund of any excess, and above that you file a full annual return."
+  },
+  {
+   "q": "What is my tax basis in an inherited Maryland house?",
+   "a": "Generally the fair market value on the date of death, or the alternate valuation date the estate chose. When an estate tax return was required or filed, the value on it is your basis."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maryland Comptroller: Technical Bulletin 58 (Dec 29, 2025)",
+   "url": "https://www.marylandcomptroller.gov/legal-library/tb-58-dec-29-2025.html"
+  },
+  {
+   "title": "Maryland Comptroller: Tax Alert 13 (April 2026) on nonresident property sales",
+   "url": "https://www.marylandcomptroller.gov/legal-library/ta-13-apr-2026.html"
+  },
+  {
+   "title": "Maryland Comptroller: 2025 legislative session income tax changes",
+   "url": "https://www.marylandcomptroller.gov/content/dam/mdcomp/tax/legal-publications/alerts/tax-alert-changes-to-standard-and-itemized-deductions-and-to-state-and-local-income-tax-rates-from-the-2025-legislative-session.pdf"
+  },
+  {
+   "title": "IRS Topic 701: Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409: Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 559: Net investment income tax",
+   "url": "https://www.irs.gov/taxtopics/tc559"
+  },
+  {
+   "title": "IRS Topic 703: Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "IRS Publication 523: Selling Your Home",
+   "url": "https://www.irs.gov/publications/p523"
+  },
+  {
+   "title": "Maryland DLS: 2026 County Local Tax Rates",
+   "url": "https://dls.maryland.gov/pubs/prod/NoPblTabPDF/2026CountyLocalTaxRates.pdf"
+  }
+ ]
+}

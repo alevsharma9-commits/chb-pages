@@ -15,7 +15,7 @@
   },
   {
    "h2": "Witnesses on a Florida deed",
-   "html": "<p>Two witnesses are required. Under section 689.01, a written conveyance of a freehold, or of a term longer than one year, must be signed in front of two subscribing witnesses. A seal is optional, and audio-video witnessing is allowed.</p><p>The rule applies to quitclaim and lady bird deeds too. If a witness is missing, a title insurer may refuse the deed down the road.</p>"
+   "html": "<p>Florida wants two people watching the signature. A written conveyance of a freehold, or of a term longer than one year, needs two subscribing witnesses (s. 689.01). Nobody needs a seal, and the witnessing can be done by audio-video link.</p><p>Quitclaim and lady bird deeds fall under the same rule. Leave a witness out and a title insurer may balk later.</p>"
   },
   {
    "h2": "Clerk recording fees",
@@ -23,7 +23,7 @@
   },
   {
    "h2": "Stamp tax on a deed",
-   "html": "<p>The deed rate in s. 201.02(1)(a) is 70 cents for every $100 of consideration. Cash counts. So does a released obligation, and so does any mortgage or encumbrance on the land, even one the buyer does not assume.</p><p>Miami-Dade is the exception. It charges 60 cents per $100 and adds a 45 cents per $100 surtax, which drops away if the paper moves only a single-family home. All other counties charge 70 cents per $100 or portion thereof.</p><ul><li>All parties to the paper owe the tax, whatever the contract says about who pays.</li><li>If taxable paper is never recorded, the tax goes to the state revenue agency instead of the clerk.</li><li>Deed types on the taxable list: warranty, special warranty, quit claim, trustee's, life estate, contract for deed, deed in lieu and certificate of title.</li><li>Mortgages and notes carry 35 cents per $100 secured, and the note tax caps at $2,450.</li></ul>"
+   "html": "<p>Documentary stamp tax on a deed runs 70 cents per $100 of consideration (s. 201.02(1)(a)). Consideration is broad: cash, a released obligation, and any mortgage or encumbrance on the land, assumed or not.</p><p>Miami-Dade works differently, at 60 cents per $100 with a 45 cents per $100 surtax that falls away for paper moving only a single-family home. Everywhere else the 70 cents applies per $100 or portion thereof.</p><ul><li>Each party to the paper is liable, even when the contract assigns payment to one side.</li><li>Taxable paper that never gets recorded is reported to the state revenue agency.</li><li>Taxable deed types: warranty, special warranty, quit claim, trustee's, life estate, contract for deed, deed in lieu, certificate of title.</li><li>A mortgage or note pays 35 cents per $100 secured, capped at $2,450 for the note tax.</li></ul>"
   },
   {
    "h2": "Transfers taxed differently",
@@ -49,15 +49,15 @@
  "faqs": [
   {
    "q": "Which office takes deeds for recording in Florida?",
-   "a": "The clerk of the county where the land sits. The same counter collects the stamp tax, so bring a deed that follows the form rules."
+   "a": "Go to the clerk serving the land's county. Stamp tax is paid at that same counter, which is why the deed has to meet the form rules first."
   },
   {
    "q": "What changes the recording bill?",
-   "a": "Mostly page count and extra names. Section 28.24(13) lists $5.00 for the first page, $4.00 for each after it and $1.00 for every name past four, plus trust fund and technology charges. Call the clerk for the total."
+   "a": "Page count and the number of names. The first page costs more than later ones, names beyond the fourth add a charge, and trust fund and technology fees ride on top (s. 28.24(13)). The clerk will quote a total."
   },
   {
    "q": "Is the stamp rate identical in all 67 counties?",
-   "a": "Almost. Miami-Dade charges 60 cents per $100 and adds a 45 cents surtax that single-family transfers avoid. Every other county charges 70 cents per $100."
+   "a": "Almost. Miami-Dade works from a separate formula, 60 cents per $100 plus a surtax of 45 cents that single-family transfers escape. Elsewhere it is 70 cents per $100."
   },
   {
    "q": "Is an unfiled deed worthless?",

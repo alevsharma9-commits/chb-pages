@@ -1,0 +1,89 @@
+{
+ "slug": "maine-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Maine tax capital gains on a house sale?",
+   "html": "<p>Maine has no separate capital gains rate for home sales. Under <a href=\"https://legislature.maine.gov/statutes/36/title36sec5121.html\">36 M.R.S. §5121</a>, a resident's Maine taxable income starts with federal adjusted gross income, so a taxable gain on your house flows into the Maine return and is taxed on the regular graduated schedule.</p><p>Two questions decide what you owe. How much of the gain does the federal home sale exclusion remove? And where does the remainder land on the Maine rate schedule for your filing status?</p><p>The answers depend on facts the sale price alone cannot show: how long you lived in the house, what you paid for it, what you spent on improvements, and whether you live in Maine now. Work through each piece below to estimate the bill before you sign anything.</p>"
+  },
+  {
+   "h2": "The federal home sale exclusion",
+   "html": "<p>Most owners who lived in the house can exclude up to $250,000 of gain, or up to $500,000 on a joint return (see <a href=\"https://www.irs.gov/taxtopics/tc701\">IRS Topic 701</a>). Excluded gain never reaches federal adjusted gross income, so it never reaches the Maine return either.</p><ul><li>Ownership test: you or your spouse owned the home at least 24 months of the 5 years before the sale.</li><li>Use test: you and your spouse each used it as a main residence at least 24 months of those 5 years.</li><li>Frequency: generally not available if you excluded gain on another home sale within the 2 years before this sale.</li><li>Reporting: a Form 1099-S must be reported even if all the gain is excludable. Use Form 8949 and Schedule D if some gain is not excludable.</li></ul><p>The two-year ownership and use periods can fall in different stretches, as long as both are met inside the five-year window that ends on the sale date. Partial exclusions and depreciation are handled in IRS Publication 523.</p>"
+  },
+  {
+   "h2": "Maine income tax rates on gain you cannot exclude",
+   "html": "<p>For 2026 Maine uses three brackets: 5.8 percent, 6.75 percent and 7.15 percent. The thresholds are in the <a href=\"https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2026-05/ind_tax_rate_sched_2026_rev.pdf\">2026 Maine Revenue Services rate schedule</a>.</p><table><thead><tr><th>Filing status</th><th>5.8% applies below</th><th>6.75% bracket</th><th>7.15% applies at or above</th></tr></thead><tbody><tr><td>Single or married filing separately</td><td>$27,400</td><td>$27,400 to $64,850</td><td>$64,850</td></tr><tr><td>Head of household</td><td>$41,100</td><td>$41,100 to $97,300</td><td>$97,300</td></tr><tr><td>Married filing jointly</td><td>$54,850</td><td>$54,850 to $129,750</td><td>$129,750</td></tr></tbody></table><p>Starting with tax years beginning in 2026, a 2 percent surcharge applies to Maine taxable income above $1,000,000 for a single filer, $750,000 for married filing separately, and $1,500,000 for married filing jointly or head of household. A large gain from a high-value house or a multi-parcel sale can reach that level.</p><p>The 2026 standard deduction is $15,700 for a single filer and $31,400 for a joint return, plus a $5,300 personal exemption per taxpayer.</p>"
+  },
+  {
+   "h2": "The federal rate on a taxable gain",
+   "html": "<p>A house you owned for more than one year produces a long-term gain, taxed federally at 0, 15 or 20 percent depending on income (<a href=\"https://www.irs.gov/taxtopics/tc409\">IRS Topic 409</a> covers the holding period).</p><ul><li>For taxable years beginning in 2025, the 0 percent rate applies at or below $48,350 (single), $96,700 (married filing jointly) or $64,750 (head of household).</li><li>The 15 percent rate runs up to $533,400 (single), $600,050 (married filing jointly) or $566,700 (head of household).</li><li>Above those amounts the rate is 20 percent.</li><li>Gain on a house held one year or less is short-term and taxed as ordinary income.</li><li>The part of a gain that is unrecaptured section 1250 gain is taxed at a maximum 25 percent.</li></ul><p>Maine tax is added on top of the federal bill, and it follows the Maine brackets above whichever federal rate applies.</p>"
+  },
+  {
+   "h2": "Selling a Maine house from out of state",
+   "html": "<p>When the seller is a nonresident and the price is $100,000 or more, the buyer or closing agent must withhold 2.5 percent of the sale price. The rule reaches nonresident individuals, estates and businesses (see Maine Revenue Services' <a href=\"https://www.maine.gov/revenue/faq/real-estate-withholding\">real estate withholding FAQ</a>).</p><ul><li>The withholding is an estimated payment toward Maine tax on the gain. It is not the final tax.</li><li>With several owners, the buyer withholds 2.5 percent of each nonresident seller's share.</li><li>The buyer or escrow person files Form REW-1 and pays within 30 days of closing.</li><li>A Maine resident who does not hand over a signed residency affidavit (Form REW-2 or REW-3) is treated as a nonresident for this purpose.</li><li>A partnership counts as a Maine resident if at least 75 percent of its ownership is held by Maine residents on the transfer date.</li></ul><p>Out-of-state heirs of a Maine house are often surprised by this. An estate selling Maine property falls under the same rule, so the closing agent will ask for a residency affidavit or an exemption certificate.</p>"
+  },
+  {
+   "h2": "Reducing or avoiding the 2.5 percent withholding",
+   "html": "<p>File Form REW-5 with Maine Revenue Services before closing. An exemption or reduction cannot be obtained after closing, and the office asks for at least 5 business days to respond.</p><ul><li>A full exemption may be available if there is no gain, or if a federal exclusion of gain on a principal residence applies. Request it through REW-5.</li><li>A reduction is possible when your maximum Maine tax on the gain is below 2.5 percent of the sale price. It is computed as 7.15 percent of the gain, plus 2 percent of the gain above $1,000,000 (single), $1,500,000 (head of household or married filing jointly) or $750,000 (married filing separately) for tax year 2026.</li><li>Estates and trusts use 7.15 percent plus 2 percent of gain above $1,000,000. Corporations use 8.93 percent.</li><li>A like-kind exchange under IRC §1031 still triggers withholding, but you can request an exemption with REW-5 and a copy of the exchange contract.</li><li>Installment sales may qualify for a reduction based on first-year gain.</li></ul><p>A price under $100,000 avoids withholding, but federally taxable gains are still taxable in Maine regardless of the amount. A nonresident seller should expect to file a Maine income tax return for the year of the sale to claim any refund of excess withholding. Refund claims are generally due within three years of the return due date or three years from payment, whichever is later.</p>"
+  },
+  {
+   "h2": "How an inherited house changes the numbers",
+   "html": "<p>An heir's starting point is usually the house's value on the date of death, not what the owner paid. <a href=\"https://www.irs.gov/publications/p551\">IRS Publication 551</a> lists fair market value at death, the alternate valuation date if the estate elects it, and special-use valuation for qualifying farm or business property.</p><p>If the estate had to file a federal Form 706, beneficiaries usually receive a Schedule A (Form 8971), and certain beneficiaries must use the reported value as their basis. One exception: if you or your spouse gave the property to the decedent within one year before death, your basis is the decedent's adjusted basis rather than the date-of-death value.</p><p>For a Maine family, a house inherited and sold within a year or two often shows little or no gain. Estate-side issues, including Maine's own estate tax lien, are covered in our Maine estate tax guide. Basis is generally what you paid, plus improvements that add value, minus allowable depreciation (<a href=\"https://www.irs.gov/taxtopics/tc703\">IRS Topic 703</a>).</p>"
+  },
+  {
+   "h2": "A cash sale and Maine tax planning",
+   "html": "<p>A cash sale does not change the tax rules, but it makes the closing date predictable. You know when the gain is realized, when any withholding is due, and which tax year it belongs to. A nonresident can also raise the REW-5 request early, since nothing can be requested after closing.</p><p>Maine sellers often come to us because of an inherited house, a rental with tenants or deferred repairs. Each has its own tax angle: basis for heirs, depreciation for landlords, withholding for owners who moved away. Talk to a tax professional about your own numbers. We can give you a straightforward offer and leave the filings to your closing agent and accountant.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does Maine tax the profit when I sell my house?",
+   "a": "Yes, if the gain is taxable. A resident's Maine income starts from federal adjusted gross income, so any gain not excluded under the federal home sale rules is taxed at Maine's graduated rates. For 2026 those rates are 5.8, 6.75 and 7.15 percent."
+  },
+  {
+   "q": "How much of my gain can I exclude when selling my Maine home?",
+   "a": "Up to $250,000, or $500,000 on a joint return, if you owned and lived in the house as your main home for at least 24 months of the last 5 years. You generally cannot use it if you excluded gain on another home within the prior 2 years."
+  },
+  {
+   "q": "What is Maine real estate withholding?",
+   "a": "It is a 2.5 percent withholding on the sale price when a nonresident sells Maine property for $100,000 or more. The buyer or closing agent files Form REW-1 and pays within 30 days of closing. It is only an estimate of the seller's Maine tax."
+  },
+  {
+   "q": "Can I get the withholding waived?",
+   "a": "Possibly. File Form REW-5 with Maine Revenue Services before closing. Exemptions or reductions are available in cases such as no gain, a federal principal residence exclusion, or when your maximum Maine tax is below 2.5 percent of the price. It cannot be requested after closing."
+  },
+  {
+   "q": "Do heirs owe Maine tax on an inherited house they sell?",
+   "a": "Only on gain above their basis. Inherited property generally takes its fair market value at the date of death as basis, so a sale soon after inheritance often shows little gain. A nonresident heir may still face withholding at closing."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maine Revenue Services: 2026 individual income tax rate schedules",
+   "url": "https://www.maine.gov/revenue/sites/maine.gov.revenue/files/2026-05/ind_tax_rate_sched_2026_rev.pdf"
+  },
+  {
+   "title": "Maine Revenue Services: Real Estate Withholding FAQ",
+   "url": "https://www.maine.gov/revenue/faq/real-estate-withholding"
+  },
+  {
+   "title": "36 M.R.S. §5121, Maine Legislature",
+   "url": "https://legislature.maine.gov/statutes/36/title36sec5121.html"
+  },
+  {
+   "title": "IRS Topic 701: Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409: Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703: Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "IRS Publication 551: Basis of assets",
+   "url": "https://www.irs.gov/publications/p551"
+  }
+ ]
+}

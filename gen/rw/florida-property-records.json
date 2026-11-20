@@ -2,66 +2,70 @@
  "slug": "florida-property-records",
  "sections": [
   {
-   "h2": "Where do Florida deeds and mortgages get filed for public view?",
-   "html": "<p>Each of the 67 counties keeps its own Official Records, run by the county clerk. A deed, mortgage or lien filed there becomes searchable by anyone, and the clerk takes the stamp tax due on a deed at the counter.</p><p>No single statewide index exists. To look up a parcel, search the Official Records of the county where it lies, then check the appraiser's website for owner name, parcel number and assessed value.</p>"
+   "h2": "Where deeds and mortgages are filed",
+   "html": "<p>Florida's 67 counties each keep separate Official Records under the county clerk. Whatever is filed there, whether a deed, a mortgage or a lien, can be searched by the public. The clerk also takes the deed stamp tax at the counter.</p><p>No statewide index exists. Search the Official Records of the county where the parcel sits, then turn to the property appraiser's website for the owner name, parcel number and assessed value.</p>"
   },
   {
-   "h2": "Why does filing a deed matter to the buyer?",
-   "html": "<p>An unfiled deed leaves the buyer exposed. Section 695.01 says a conveyance, transfer or mortgage of real property, or a lease running a year or more, is ineffective against creditors and later good-faith purchasers who lack notice unless it is filed as the law requires.</p><p>The same section deems a quitclaim grantee a purchaser without notice under the recording acts. It also says a lien from a government or quasi-government body for an improvement, service, fine or penalty binds later purchasers only when recorded, with tax, special assessment and utility liens carved out.</p><p>The rule also reaches agents. A deed or mortgage signed under a power of attorney is not effective against creditors or later purchasers unless the power of attorney was itself recorded before their rights arose. Anyone selling a house for an owner who cannot sign should record the power of attorney first.</p>"
+   "h2": "Why filing a deed matters to a buyer",
+   "html": "<p>An unfiled deed leaves the buyer exposed. Under section 695.01, a conveyance, transfer or mortgage of real property, or a lease running a year or more, has no effect against creditors and later good-faith purchasers without notice unless it is filed as the law requires.</p><p>The same section treats a quitclaim grantee as a purchaser without notice under the recording acts. A lien from a government or quasi-government body for an improvement, service, fine or penalty binds later purchasers only when recorded. Tax, special assessment and utility liens are carved out.</p><p>Agents are covered too. A deed or mortgage signed under a power of attorney is not effective against creditors or later purchasers unless the power of attorney was recorded before their rights arose. If you are selling for an owner who cannot sign, record the power of attorney first.</p>"
   },
   {
-   "h2": "What formatting does a Florida clerk check before accepting a document?",
-   "html": "<p>Section 695.26 lists layout rules, and a deed that breaks them can be bounced at the counter, which delays a closing.</p><ul><li>Every signer's name typed or printed under the signature, with a mailing address.</li><li>Who prepared the paper, with a mailing address.</li><li>Printed names and addresses for each witness.</li><li>A printed name under any notary's signature.</li><li>Blank margin boxes at the top right: 3 by 3 inches on page one, 1 by 3 inches on later pages.</li><li>Each grantee's name and mailing address, except on a mortgage.</li></ul><p>Wills, plats, court orders, papers signed by public officers, instruments from before July 1, 1991 and those signed outside the state are exempt from these rules. If the clerk takes a nonconforming page anyway, the recording still stands.</p>"
+   "h2": "Formatting rules the clerk checks",
+   "html": "<p>Layout rules in section 695.26 are strict enough that a nonconforming deed may be refused at the recording desk. That can push back a closing by days.</p><ul><li>Every signer's name typed or printed under the signature, with a mailing address.</li><li>Who prepared the paper, with a mailing address.</li><li>Printed names and addresses for each witness.</li><li>A printed name under any notary's signature.</li><li>Blank margin boxes at the top right: 3 by 3 inches on page one, 1 by 3 inches on later pages.</li><li>Each grantee's name and mailing address, except on a mortgage.</li></ul><p>Exempt from these rules: wills, plats, court orders, papers signed by public officers, instruments dated before July 1, 1991 and instruments signed outside Florida. A page the clerk accepts despite a defect stays recorded.</p>"
   },
   {
-   "h2": "Does a Florida deed need witnesses?",
-   "html": "<p>Yes, two. Section 689.01 requires a written conveyance of a freehold or of a term over one year to be signed with two subscribing witnesses present. A seal is not required, and the witnessing can take place by audio-video technology.</p><p>That requirement covers quitclaim and lady bird deeds as well. A missing witness can lead a title insurer to refuse the document later.</p>"
+   "h2": "Witnesses on a Florida deed",
+   "html": "<p>Florida wants two people watching the signature. A written conveyance of a freehold, or of a term longer than one year, needs two subscribing witnesses (s. 689.01). Nobody needs a seal, and the witnessing can be done by audio-video link.</p><p>Quitclaim and lady bird deeds fall under the same rule. Leave a witness out and a title insurer may balk later.</p>"
   },
   {
-   "h2": "What are the clerk's per-page fees?",
-   "html": "<p>Two kinds of charge show up on a closing statement: the clerk's page fees and stamp tax. The first group comes from s. 28.24.</p><table><caption>Clerk charges printed in s. 28.24 for instruments up to 14 by 8.5 inches</caption><thead><tr><th>Charge</th><th>Printed amount</th></tr></thead><tbody><tr><td>Page one</td><td>$5.00</td></tr><tr><td>Every added page</td><td>$4.00</td></tr><tr><td>Each name past the fourth</td><td>$1.00</td></tr><tr><td>Records modernization trust fund</td><td>$1.00 page one, $0.50 per added page</td></tr><tr><td>Technology add-on</td><td>$4 per page</td></tr><tr><td>Tax deed application handling</td><td>$60.00</td></tr></tbody></table><p>Page count and the number of names drive the total, so ask the clerk's recording desk for a figure on your actual document.</p>"
+   "h2": "Clerk recording fees",
+   "html": "<p>A closing statement shows two kinds of charge: the clerk's page fees and stamp tax. The page fees come from s. 28.24.</p><table><caption>Clerk charges in s. 28.24 for instruments up to 14 by 8.5 inches</caption><thead><tr><th>Charge</th><th>Amount</th></tr></thead><tbody><tr><td>Page one</td><td>$5.00</td></tr><tr><td>Every added page</td><td>$4.00</td></tr><tr><td>Each name past the fourth</td><td>$1.00</td></tr><tr><td>Records modernization trust fund</td><td>$1.00 page one, $0.50 per added page</td></tr><tr><td>Technology add-on</td><td>$4 per page</td></tr><tr><td>Tax deed application handling</td><td>$60.00</td></tr></tbody></table><p>Page count and the number of names drive the total. Call the clerk's recording desk for a figure on your actual document.</p>"
   },
   {
-   "h2": "How is stamp tax figured on a Florida deed?",
-   "html": "<p>Section 201.02(1)(a) puts the deed rate at 70 cents on each $100 of consideration. Consideration covers cash, a released obligation and any mortgage or encumbrance on the land, whether the buyer assumes it or not.</p><p>Miami-Dade follows a different formula on the Revenue page: 60 cents per $100 plus a 45 cents per $100 surtax, and the surtax is not due when the paper moves only a single-family home. Every other county uses 70 cents per $100 or portion thereof.</p><ul><li>Every party to the paper is liable, whoever agrees to pay.</li><li>Unrecorded taxable paper goes to the state revenue agency rather than the clerk.</li><li>Taxable deeds named by Revenue include warranty, special warranty, quit claim, trustee's, life estate, contract for deed, deed in lieu and certificate of title.</li><li>Mortgages and notes bear 35 cents per $100 secured; the note tax stops at $2,450.</li></ul>"
+   "h2": "Stamp tax on a deed",
+   "html": "<p>Documentary stamp tax on a deed runs 70 cents per $100 of consideration (s. 201.02(1)(a)). Consideration is broad: cash, a released obligation, and any mortgage or encumbrance on the land, assumed or not.</p><p>Miami-Dade works differently, at 60 cents per $100 with a 45 cents per $100 surtax that falls away for paper moving only a single-family home. Everywhere else the 70 cents applies per $100 or portion thereof.</p><ul><li>Each party to the paper is liable, even when the contract assigns payment to one side.</li><li>Taxable paper that never gets recorded is reported to the state revenue agency.</li><li>Taxable deed types: warranty, special warranty, quit claim, trustee's, life estate, contract for deed, deed in lieu, certificate of title.</li><li>A mortgage or note pays 35 cents per $100 secured, capped at $2,450 for the note tax.</li></ul>"
   },
   {
-   "h2": "Which transfers are treated differently?",
-   "html": "<p>Revenue lists a deed from an estate's fiduciary under a probated will as not taxable. A homestead deed between spouses where the only consideration is a mortgage, and a divorce deed for the marital home, are exempt under s. 201.02(7).</p><p>Revenue also says no specific exemption exists for estate-planning transfers. Advisement TAA 20B4-004 (October 2020) found a lady bird deed on its particular facts passed no present beneficial interest, so it escaped the tax, though other facts could change the answer.</p><p>Any transfer of title also counts as a change of ownership for Save Our Homes unless an exception fits, which resets the next January 1 assessment to just value. Check with the property appraiser before deeding a long-held homestead.</p>"
+   "h2": "Transfers taxed differently",
+   "html": "<p>Some paper escapes the tax. Under a probated will, the fiduciary's deed is not taxable. Section 201.02(7) exempts a spousal homestead deed whose only consideration is a mortgage, along with a divorce deed for the marital home.</p><p>Estate planning earns no exemption by that label alone. In advisement TAA 20B4-004 (October 2020), a lady bird deed on its particular facts moved no present beneficial interest and so owed nothing, but different facts could produce a different answer.</p><p>Separately, nearly any title transfer is a change of ownership for Save Our Homes, and the next January 1 assessment goes back to just value. Before deeding a long-held homestead, talk to the property appraiser.</p>"
   },
   {
-   "h2": "Which county offices hold which pieces of the property file?",
-   "html": "<p>A parcel's paper trail is split between three elected offices. The clerk holds recorded instruments and takes deed stamp tax, the property appraiser sets just value each January 1 and rules on exemptions, and the tax collector bills and collects.</p><ul><li>Clerk: deeds, mortgages, liens, tax deed and foreclosure sale paperwork.</li><li>Property appraiser: ownership on the roll, TRIM notice and exemption decisions.</li><li>Tax collector: November bills, delinquency, tax certificates.</li></ul><p>Plat filings carry their own clerk charge in s. 28.24: $30.00 for the first page and $15.00 for each additional page. A surveyor or developer subdividing land should budget for that separately from deed recording.</p>"
+   "h2": "Which county office holds what",
+   "html": "<p>A parcel's paper trail is split among three elected offices. The clerk holds recorded instruments and takes deed stamp tax, the property appraiser sets just value each January 1 and rules on exemptions, and the tax collector bills and collects.</p><ul><li>Clerk: deeds, mortgages, liens, tax deed and foreclosure sale paperwork.</li><li>Property appraiser: ownership on the roll, TRIM notice and exemption decisions.</li><li>Tax collector: November bills, delinquency, tax certificates.</li></ul><p>Plat filings carry their own clerk charge in s. 28.24: $30.00 for the first page and $15.00 for each additional page. A surveyor or developer subdividing land should budget for that separately from deed recording.</p>"
   },
   {
-   "h2": "What shows up after a foreclosure or tax deed sale?",
-   "html": "<p>Mortgages and liens appear in a title search and need payoff or release before a clean deed can pass. A foreclosure sale ends in a certificate of title, on which tax is figured from the highest and best bid under s. 201.02(9).</p><p>A tax deed buyer owes stamp tax and recording fees within 24 hours of the auction, excluding weekends and holidays. A recorded contract-for-deed vendee is among the parties the tax collector lists for notice before that sale, which shows how recording protects an installment buyer.</p>"
+   "h2": "Preparing a deed so it records the first time",
+   "html": "<p>Most rejections are about small things. Print each signer's name beneath the signature, add the preparer's name and mailing address, and give every witness a printed name and address. Leave the top right margin blank. Name each grantee with a mailing address, unless the paper is a mortgage.</p><p>Check the number of pages and names before you go to the recording desk, since both change the fee. If the sale is by an agent for an owner, make sure the recorded power of attorney is already in the file. A deed that records cleanly the first time saves a trip and keeps the closing date where it is.</p>"
   },
   {
-   "h2": "How should a seller review the records before listing?",
-   "html": "<p>Pull the vesting deed, each recorded mortgage and any lien. That tells you what must be paid off at closing and whether the name on title matches the person signing.</p><p>If title came through an estate, a gift or an unusual deed, ask the recording desk what it will accept before you schedule a closing date.</p><p>Also note any government lien for a fine or penalty. Under s. 695.01(3), such a lien is valid against later buyers only if the notice of lien was recorded and shows the owner of record, a description or address and the parcel number, so a recorded notice on your parcel is worth reading line by line before you sign a listing agreement.</p>"
+   "h2": "Foreclosure and tax deed sales on the record",
+   "html": "<p>Mortgages and liens appear in a title search and need a payoff or release before a clean deed can pass. A foreclosure sale ends in a certificate of title, on which tax is figured from the highest and best bid under s. 201.02(9).</p><p>A tax deed buyer owes stamp tax and recording fees within 24 hours of the auction, excluding weekends and holidays. A recorded contract-for-deed vendee is among the parties the tax collector notifies before that sale, which shows how recording protects an installment buyer.</p>"
+  },
+  {
+   "h2": "Reviewing the records before you list",
+   "html": "<p>Order copies of the vesting deed, every recorded mortgage and any lien. They show what has to be paid at closing and whether the name on title is the name of the person who will sign.</p><p>When you got the house through an estate, a gift or an unusual deed, check with the recording desk about what it will take before picking a closing date.</p><p>Watch for government liens imposed for a fine or penalty. Section 695.01(3) makes them valid against later buyers only when a notice of lien was recorded naming the owner of record, a description or address, and the parcel number. If one sits on your parcel, study it carefully before signing a listing agreement.</p><p>Even with cash buyers there is no lender timeline to wait on, yet the title search still runs the same way. The records you pull now are what set the closing date.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Which office takes deeds for recording in Florida?",
-   "a": "The clerk in the county where the land lies. That office also collects stamp tax on the deed when it is filed, so bring a document that meets the form rules."
+   "a": "Go to the clerk serving the land's county. Stamp tax is paid at that same counter, which is why the deed has to meet the form rules first."
   },
   {
    "q": "What changes the recording bill?",
-   "a": "Page count and extra names. Section 28.24(13) prints $5.00 for page one, $4.00 for later pages and $1.00 per name beyond four, plus trust fund and technology charges. The clerk can quote the sum."
+   "a": "Page count and the number of names. The first page costs more than later ones, names beyond the fourth add a charge, and trust fund and technology fees ride on top (s. 28.24(13)). The clerk will quote a total."
   },
   {
    "q": "Is the stamp rate identical in all 67 counties?",
-   "a": "Nearly. Miami-Dade is listed at 60 cents per $100 plus a 45 cents surtax that skips single-family transfers, while the rest use 70 cents per $100."
+   "a": "Almost. Miami-Dade works from a separate formula, 60 cents per $100 plus a surtax of 45 cents that single-family transfers escape. Elsewhere it is 70 cents per $100."
   },
   {
    "q": "Is an unfiled deed worthless?",
-   "a": "Not between the signers, but s. 695.01 withholds effect against creditors and later buyers for value without notice. Stamp tax is also owed on deeds recorded or not."
+   "a": "Not between the signers. Section 695.01, though, strips its effect against creditors and later buyers for value who lack notice. Stamp tax applies to a deed whether or not it gets recorded."
   },
   {
    "q": "Do the layout rules reach every instrument?",
-   "a": "No. Wills, plats, court orders, papers signed by public officers and instruments signed outside Florida are exempt, and a clerk may accept a page whose name placement is odd if the signer link is plain."
+   "a": "No. Wills, plats, court orders, papers signed by public officers and instruments signed outside Florida are exempt. A clerk may also take a page with odd name placement when it is clear who signed."
   }
  ],
  "sources": [

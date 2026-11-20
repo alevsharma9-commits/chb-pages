@@ -11,11 +11,11 @@
   },
   {
    "h2": "Due dates",
-   "html": "<p>Due dates depend on how your municipality bills. In quarterly towns, installments are generally due August 1, November 1, February 1 and May 1. In towns that bill twice a year, a bill is generally due 30 days after it is mailed.</p><table><thead><tr><th>Billing style</th><th>General due dates</th></tr></thead><tbody><tr><td>Quarterly</td><td>August 1, November 1, February 1, May 1</td></tr><tr><td>Twice a year</td><td>Thirty days from the mailing of the bill</td></tr></tbody></table><p>The face of your actual tax bill states the due date for payment and for abatement requests. If a bank or mortgage company pays your tax, it is still your responsibility to make sure the payment arrives on time.</p>"
+   "html": "<p>How often you pay depends on your town. Quarterly towns usually collect on four dates a year. Towns that bill twice a year give you about 30 days from the mailing date.</p><table><thead><tr><th>Billing style</th><th>General due dates</th></tr></thead><tbody><tr><td>Quarterly</td><td>August 1, November 1, February 1, May 1</td></tr><tr><td>Twice a year</td><td>Thirty days from the mailing of the bill</td></tr></tbody></table><p>Your actual bill spells out the payment deadline and the abatement deadline. Even when a mortgage company pays through escrow, getting the payment in on time remains your job.</p>"
   },
   {
    "h2": "How to apply for an abatement",
-   "html": "<p>File an abatement application with your local board of assessors on the approved form, on or before the due date of the first installment of the actual tax bill. In quarterly municipalities that date is generally February 1, and in twice-a-year municipalities it is generally 30 days after the bill is mailed.</p><ul><li>Forms are available from the local assessors' office.</li><li>An abatement is a reduction in tax, usually granted when you can show fair cash value is lower than the assessed value. It can also be granted for an exemption or an improper classification.</li><li>Fair cash value is the price a willing seller and a willing buyer would agree on in an arm's-length sale, with neither under compulsion.</li><li>The postmark date counts as the filing date for mail sent through the U.S. Postal Service or an approved delivery service.</li></ul><p>The assessors then get three months to respond. They may deny the request, grant all or part of it, or let it sit, and written notice is due within ten days of any action. If they do nothing, the application is deemed denied after three calendar months, not 90 days.</p>"
+   "html": "<p>File an abatement application with your local board of assessors on the approved form, on or before the due date of the first installment of the actual tax bill. In quarterly municipalities that date is generally February 1, and in twice-a-year municipalities it is generally 30 days after the bill is mailed.</p><ul><li>Pick up the form at the local assessors' office.</li><li>An abatement is a reduction in tax, usually granted when you can show fair cash value is lower than the assessed value. It can also be granted for an exemption or an improper classification.</li><li>Fair cash value means what an informed buyer and seller would agree to in an open sale where neither is pressured.</li><li>A mailed application is treated as filed on its postmark date, whether it went by the Postal Service or an approved carrier.</li></ul><p>The assessors then get three months to respond. They may deny the request, grant all or part of it, or let it sit, and written notice is due within ten days of any action. If they do nothing, the application is deemed denied after three calendar months, not 90 days.</p>"
   },
   {
    "h2": "Appealing to the Appellate Tax Board",
@@ -27,21 +27,21 @@
   },
   {
    "h2": "When property tax goes unpaid",
-   "html": "<p>Skipped property tax, or unpaid water and sewer charges, turns into a lien, and the municipality can end up taking the house. Once a bill is 30 days late it can send a demand. Ignore that demand for 14 days and it can record a tax taking at the Registry of Deeds.</p><ul><li>Six or twelve months later, the holder of the tax title can file a foreclosure complaint in the Land Court.</li><li>A private party can become the tax title owner, for example by buying bundled tax bills or winning an auction.</li><li>You can file an answer and ask for a hearing, where you may offer to redeem by paying everything owed or ask for a payment plan.</li><li>If you do not pay by the date the court sets, the court may enter a judgment of foreclosure, which ends your right to get the property back.</li></ul><p>A foreclosed owner may try to recover money if the house was worth more than the debt. Better to deal with a tax taking early, before it reaches the Land Court.</p>"
+   "html": "<p>Skipped property tax, or unpaid water and sewer charges, turns into a lien, and the municipality can end up taking the house. Once a bill is 30 days late it can send a demand. Ignore that demand for 14 days and it can record a tax taking at the Registry of Deeds.</p><ul><li>After a waiting period of six or twelve months, whoever holds the tax title may start a foreclosure case in the Land Court.</li><li>A private party can become the tax title owner, for example by buying bundled tax bills or winning an auction.</li><li>You may answer the complaint and request a hearing. There you can offer to pay off the full balance or propose installments.</li><li>Miss the payoff date the judge sets and a foreclosure judgment can follow, which cuts off any chance of getting the property back.</li></ul><p>If the house was worth more than the debt, a foreclosed owner may be able to claim the difference. It is far easier to settle a tax taking early, before the Land Court gets involved.</p>"
   },
   {
    "h2": "Selling with taxes owed",
-   "html": "<p>A recorded tax taking is a title problem that must be cleared before a clean sale. Paying everything owed ends the city or town's claim before a final foreclosure judgment, and your closing attorney can explain how any unpaid tax will be handled at the table.</p><p>Before listing, ask the collector's office for a payoff figure, check your assessors' record for errors, and note any abatement deadline you could miss by selling. How a pending abatement transfers at a sale is a question for the assessors' office and your closing attorney. A buyer paying cash can often close with a payoff built into the settlement, but the lien still has to be cleared on the day.</p>"
+   "html": "<p>Once a tax taking is recorded, it clouds the title and has to be cleared before the sale can close cleanly. Paying everything owed ends the town's claim if you do it before a final foreclosure judgment. Your closing attorney can explain how unpaid tax gets handled at closing.</p><p>Ask the collector's office for a payoff figure before you list. Look over the assessors' record for mistakes, and note any abatement deadline that could fall after you sell. What happens to a pending abatement once the house changes hands is something to ask the assessors and your attorney. A cash buyer can often close with the payoff built into the settlement, though the lien still has to be cleared that day.</p>"
   }
  ],
  "faqs": [
   {
    "q": "What is the deadline to file a Massachusetts property tax abatement?",
-   "a": "It is the due date of the first installment of the actual tax bill. That is generally February 1 in quarterly-billing towns and about 30 days after mailing in twice-a-year towns. Check the face of your bill."
+   "a": "The cutoff is the first installment due date printed on your real tax bill. Quarterly towns usually land on February 1, and twice-a-year towns run about 30 days from mailing. Your bill states the exact date."
   },
   {
    "q": "How long do assessors have to decide an abatement?",
-   "a": "Three months. If they do not act, the application is deemed denied after three calendar months, and you then have three months to appeal to the Appellate Tax Board."
+   "a": "Three months. Silence for three calendar months counts as a denial, and that starts a three-month window to appeal to the Appellate Tax Board."
   },
   {
    "q": "Do I have to pay the tax while I appeal?",
@@ -53,7 +53,7 @@
   },
   {
    "q": "Can the city take my house for unpaid property tax?",
-   "a": "Yes. After a demand and 14 days, the city or town can record a tax taking, and a Land Court foreclosure can follow. You can redeem by paying all taxes, interest and fees before a final judgment."
+   "a": "Yes, in the end. A demand, then 14 days, then a recorded tax taking, and a Land Court foreclosure can follow. Paying all taxes, interest and fees before final judgment lets you redeem."
   }
  ],
  "sources": [
