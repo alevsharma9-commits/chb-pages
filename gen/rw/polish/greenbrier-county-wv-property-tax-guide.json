@@ -11,7 +11,7 @@
   },
   {
    "h2": "How the assessor values a house",
-   "html": "<p>Every parcel is appraised as of July 1, and the assessor must see each piece of real estate in person at least once every three years, even though values are supposed to follow the market annually. The land and personal property books are due to be finished by January 30 and handed to the Board of Equalization and Review by February 1.</p><p>By March 3 the assessor certifies the assessed values to the city and town recorders, the school board, the State Board of Education and the county commission. Those bodies lay their rates from the values, and the sheriff prints tickets from the certified rates. In the office's own words, assessors determine values while the levies set by the bodies determine revenue.</p><p>The legal yardstick is 60 percent of true and actual value, meaning the price the property would bring if voluntarily offered for sale. A forced-sale price cannot be used.</p>"
+   "html": "<p>July 1 is the appraisal date for every parcel. The assessor has to inspect each piece of real estate at least once in three years, though values are meant to move with the market every year. The land and personal property books are due to be finished by January 30 and handed to the Board of Equalization and Review by February 1.</p><p>By March 3 the assessor certifies the assessed values to the city and town recorders, the school board, the State Board of Education and the county commission. Those bodies lay their rates from the values, and the sheriff prints tickets from the certified rates. In the office's own words, assessors determine values while the levies set by the bodies determine revenue.</p><p>State law sets assessed value at 60 percent of true and actual value, defined as the price a property would bring if voluntarily offered for sale. A forced-sale price is off the table.</p>"
   },
   {
    "h2": "Where the tax dollars go",
@@ -19,11 +19,11 @@
   },
   {
    "h2": "How to pay",
-   "html": "<p>Pay the Greenbrier County Sheriff's Tax Office at 912 Court Street North, Suite 3, in Lewisburg, or mail to PO Box 347, Lewisburg, WV 24901. The phone number is (304) 647-6609.</p><ul><li>Online: the sheriff's site takes cards, and a 2.95 percent processor fee (minimum $2.00) is added to the tax.</li><li>Trouble with a card payment: the Chief Tax Deputy is at 304-647-6610.</li><li>Delinquent real estate taxes: pay with a cashier's check, money order, certified check or cash. Cards are not accepted for these.</li><li>Tax map and online filing: both are linked from the assessor's page.</li></ul><p>State dates still apply. The first half turns delinquent October 1 and the second half April 1, and 9 percent annual interest follows.</p>"
+   "html": "<p>Payments go to the Greenbrier County Sheriff's Tax Office at 912 Court Street North, Suite 3, in Lewisburg, or mail to PO Box 347, Lewisburg, WV 24901. The phone number is (304) 647-6609.</p><ul><li>Online: the sheriff's site takes cards, and a 2.95 percent processor fee (minimum $2.00) is added to the tax.</li><li>Trouble with a card payment: the Chief Tax Deputy is at 304-647-6610.</li><li>Delinquent real estate taxes: pay with a cashier's check, money order, certified check or cash. Cards are not accepted for these.</li><li>Tax map and online filing: both are linked from the assessor's page.</li></ul><p>The statewide schedule also applies: first half delinquent October 1, second half April 1, with 9 percent interest each year after.</p>"
   },
   {
    "h2": "What happens to a delinquent parcel?",
-   "html": "<p>The sheriff publishes a list, and a parcel can end up at a tax lien auction run through the State Auditor. A second list of land still delinquent on September 1 is prepared by September 10, and liens nobody has redeemed are certified to the Auditor on October 31.</p><p>Each listed item picks up $25 for publication and $10 per certified-mail notice. Paying the sheriff before certification takes you off the list. Afterward the owner or a lienholder can still redeem through the Auditor before the sale. A notice that never arrives does not undo a conveyance, so an outdated mailing address is a genuine risk.</p>"
+   "html": "<p>The sheriff publishes a delinquent list, and a parcel on it can wind up at a lien auction held through the State Auditor. A second list of land still delinquent on September 1 is prepared by September 10, and liens nobody has redeemed are certified to the Auditor on October 31.</p><p>Each listed item picks up $25 for publication and $10 per certified-mail notice. Paying the sheriff before certification takes you off the list. Afterward the owner or a lienholder can still redeem through the Auditor before the sale. A notice that never arrives does not undo a conveyance, so an outdated mailing address is a genuine risk.</p>"
   },
   {
    "h2": "Costs of selling",
@@ -32,6 +32,10 @@
   {
    "h2": "Inherited and flood-affected homes",
    "html": "<p>These sales can take longer because an estate or a flood history adds steps. The county lists an Estate Services office and estate forms among its agencies, which is where to start when an owner has died and a deed must eventually be signed.</p><p>A deadly flood in 2016 along the Meadow River devastated Rupert and Rainelle, and Howard Creek ran through White Sulphur Springs and the Greenbrier grounds. A seller near those waterways should expect questions about repairs. An as-is cash sale skips the repair negotiation.</p>"
+  },
+  {
+   "h2": "Selling with a tax balance, step by step",
+   "html": "<p>A seller who owes tax has a short list of jobs. First, ask the Sheriff's Tax Office on (304) 647-6609 what is open for each year, because delinquent real estate has to be paid by cashier's check, money order, certified check or cash. Second, tell the title agent which half is paid so the year's tax can be divided correctly at closing. Third, make sure the sheriff has a mailing address that works, since a missed notice carries real consequences.</p><p>If the house also needs work or has heirs who disagree, a cash buyer can often close without repairs, and the payoff is settled at the table. That route is worth weighing when a parcel is nearing the September 10 list.</p>"
   },
   {
    "h2": "Exemptions and filings",
@@ -49,7 +53,7 @@
   },
   {
    "q": "Can I appeal my Greenbrier County assessment?",
-   "a": "Yes. Appeals on value must be completed by January 31, and the Board of Equalization and Review hears them in February by appointment. A further appeal goes to the Office of Tax Appeals."
+   "a": "Yes. Value appeals to the assessor wrap up by January 31, then the Board of Equalization and Review hears cases in February by appointment. Beyond that, the Office of Tax Appeals takes over."
   },
   {
    "q": "Does a Greenbrier County seller owe the tax for the whole year?",
@@ -57,7 +61,7 @@
   },
   {
    "q": "How do I get a Greenbrier County homestead exemption?",
-   "a": "File an application with the assessor by December 1. You must be 65 or older, or certified permanently and totally disabled, with two consecutive years of West Virginia residence."
+   "a": "Submit an application to the assessor on or before December 1. Applicants need to be 65 or older, or certified permanently and totally disabled, and to have lived in West Virginia two years running."
   }
  ],
  "sources": [
