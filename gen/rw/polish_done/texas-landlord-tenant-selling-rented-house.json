@@ -1,0 +1,85 @@
+{
+ "slug": "texas-landlord-tenant-selling-rented-house",
+ "sections": [
+  {
+   "h2": "Does a tenant stop you from selling?",
+   "html": "<p>No. Selling the owner's interest does not remove the tenant, and the lease keeps running while the house changes hands. What changes is who the landlord is, and so who answers for the deposit and the lease.</p><p>Chapter 92 of the Property Code covers residential landlords and tenants (Sec. 92.002). It gives a seller no shortcut for clearing a tenant out before closing. Any effort to end the tenancy has to follow the lease and the eviction process in Chapter 24. Owners often close with the tenant staying put, or agree on a move date with the tenant.</p>"
+  },
+  {
+   "h2": "Security deposit after the sale",
+   "html": "<p>The new owner becomes liable. Under Sec. 92.105, when the owner's interest ends by sale or otherwise, the new owner answers for deposits from the date title passes.</p><ul><li>The new owner must give the tenant a signed statement acknowledging the purchase and the exact dollar amount of the deposit.</li><li>The former owner stays liable for a deposit received during ownership until the new owner has received it or assumed the liability, unless the parties agree otherwise in writing.</li><li>A lender that takes title by foreclosure is excluded from the rule.</li></ul><p>In practice, move the deposit at closing, list it on the settlement statement, and get the buyer's signed acknowledgment in writing so the tenant's notice is ready on the day title passes. A tenant's claim to the deposit ranks ahead of the landlord's creditors, including a bankruptcy trustee (Sec. 92.103(c)).</p>"
+  },
+  {
+   "h2": "The lease and the rent",
+   "html": "<p>The lease controls. A landlord cannot raise rent before the lease term ends without the tenant's agreement, and once the term is over, Texas sets no limit on an increase.</p><p>Rent also cannot be raised in retaliation for repair requests, good faith complaints to a government agency, or tenant organizing (Sec. 92.331). A buyer planning to raise the rent has to wait out the lease and should read it before signing the purchase contract. If the lease runs month to month, the buyer's options are different, so ask a Texas real estate attorney.</p><p>Paperwork matters at the handoff too. The landlord owes the tenant one full copy of the signed lease within three business days (Sec. 92.024), so the buyer should receive the lease with every amendment attached.</p>"
+  },
+  {
+   "h2": "What the tenant gets back when the tenancy ends",
+   "html": "<p>The refund is due by day 30 counted from the day the tenant surrenders the premises (Sec. 92.103(a)). A rule that the tenant must give advance notice of surrender conditions the refund only if the lease underlines it or prints it in conspicuous bold.</p><p>Deductions are limited to damages and charges the tenant is legally liable for under the lease or because of a breach, and normal wear and tear cannot be kept (Sec. 92.104). If any part is withheld, the landlord sends the balance with a written description and itemized list. A buyer inherits this account, so a missing deposit record at closing can become a dispute months later.</p><p>The tenant has duties too. Sec. 92.108 bars a tenant from withholding the last month's rent on the theory that the deposit covers it. A tenant who does so in bad faith owes three times the rent withheld plus reasonable attorney's fees.</p>"
+  },
+  {
+   "h2": "Showing the house to buyers",
+   "html": "<p>Only as far as the lease allows. Texas has no statute on landlord entry, so the lease controls. It may require advance notice, and it may name prospective buyers as people who can come in.</p><p>If the lease is silent, the landlord may have no right to enter without permission, apart from emergencies and repairs. Entering more often than necessary, at unreasonable times, or against the lease can breach the tenant's implied right to quiet enjoyment. Ask the tenant for a showing schedule in writing and keep a record of the agreement.</p>"
+  },
+  {
+   "h2": "What a landlord cannot do to remove a tenant",
+   "html": "<p>Self-help is tightly limited. Sec. 92.008 bars a landlord from cutting off utilities the tenant pays directly, or those the landlord furnishes as part of the tenancy, except for bona fide repairs, construction or an emergency. Sec. 92.0081 bars removing doors, windows, locks or the landlord's furnished appliances other than for bona fide repair, and bars keeping a tenant out except by judicial process or in narrow cases.</p><p>One narrow case is changing the lock on a tenant who is behind on rent. The landlord must then post a written notice on the tenant's front door saying where to get the new key 24 hours a day, and that the landlord must provide it at any hour even if no rent is paid.</p><p>If you want possession because the buyer plans to move in, you need a lawful reason, such as nonrenewal when the lease runs out, or an agreement with the tenant.</p>"
+  },
+  {
+   "h2": "Notice to vacate and eviction",
+   "html": "<p>When a tenant stays past a proper notice, the court process begins. Under Property Code Sec. 24.005, the landlord must give at least three days of written notice to vacate unless the lease sets a longer or shorter one. Delivery can be in person, inside the premises in an obvious place, by mail, or by email if the lease allows it.</p><table><caption>Eviction timing after a notice to vacate</caption><thead><tr><th>Stage</th><th>Timing</th></tr></thead><tbody><tr><td>Notice to vacate</td><td>At least 3 days if the lease is silent on the period</td></tr><tr><td>Suit filed in justice court</td><td>Hearing set between day 10 and day 21 after filing</td></tr><tr><td>Service on the tenant</td><td>At least 4 days before trial</td></tr><tr><td>Appeal to county court</td><td>Five days from judgment</td></tr><tr><td>Writ of possession</td><td>Available 6 days after final judgment, with 24 hours' notice before removal</td></tr></tbody></table><p>A federal 30 day notice may apply to some covered properties.</p>"
+  },
+  {
+   "h2": "Getting a tenant-occupied rental ready for market",
+   "html": "<p>Gather the records first, then decide whether you will sell with the tenant staying or empty.</p><ul><li>Collect the lease, amendments, deposit records (Sec. 92.106 requires a landlord to keep accurate deposit records) and the rent ledger.</li><li>Write down the deposit amount and prepare the buyer's signed acknowledgment.</li><li>Decide how showings will work and ask for access in writing.</li><li>Pay or prorate property tax. Texas taxes attach as a lien each January 1.</li><li>Call the appraisal district to learn whether an exemption on the property changes once the sale records.</li></ul>"
+  },
+  {
+   "h2": "Choosing between an occupied sale and a vacant one",
+   "html": "<p>Selling with the tenant in place keeps rent coming in until closing and avoids the court calendar. It narrows your buyer pool to investors and owners willing to wait. Selling vacant widens the pool, but you must get possession lawfully first, and that depends on the lease end date or a signed move-out agreement.</p><p>Many owners offer a modest agreement to the tenant, such as a firm move-out date in writing, and then list. A buyer who pays cash can often close without a loan appraisal, so the closing date matters less than the tenant's plan.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does the tenant have to leave when I sell the house?",
+   "a": "No. The sale does not end the lease. The tenant stays under the lease terms, and the buyer steps in as landlord."
+  },
+  {
+   "q": "Who gets the security deposit when a rented house is sold?",
+   "a": "The new owner is liable for it from the date title passes and must give the tenant a signed statement with the exact amount. The seller stays liable until the buyer receives the deposit or assumes liability."
+  },
+  {
+   "q": "Can I enter the house to show it to a buyer?",
+   "a": "Only as the lease allows. Texas has no statute on landlord entry, so check the lease for a notice requirement and any mention of prospective buyers. If it is silent, get the tenant's permission."
+  },
+  {
+   "q": "Can I raise the rent before the buyer closes?",
+   "a": "Not during the lease term without the tenant's agreement. After the term ends there is no state cap, but a raise cannot be retaliation for repair requests or complaints."
+  },
+  {
+   "q": "How long does an eviction take in Texas?",
+   "a": "Notice to vacate is at least three days, and the justice court hearing falls 10 to 21 days after filing. A writ of possession is available six days after final judgment, and an appeal has a five day window."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas Property Code Chapter 92, Residential Tenancies",
+   "url": "https://tcss.legis.texas.gov/resources/PR/htm/PR.92.htm"
+  },
+  {
+   "title": "Texas State Law Library: Can my landlord enter my rental property without permission?",
+   "url": "https://www.sll.texas.gov/faqs/landlord-entry/"
+  },
+  {
+   "title": "Texas State Law Library: Can my landlord raise my rent?",
+   "url": "https://www.sll.texas.gov/faqs/rent-increase/"
+  },
+  {
+   "title": "Texas State Law Library: Landlord/Tenant eviction process",
+   "url": "https://guides.sll.texas.gov/landlord-tenant-law/eviction-process"
+  },
+  {
+   "title": "Texas Comptroller: Property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  }
+ ]
+}

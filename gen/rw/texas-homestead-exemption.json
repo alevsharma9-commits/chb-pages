@@ -2,62 +2,62 @@
  "slug": "texas-homestead-exemption",
  "sections": [
   {
-   "h2": "What does the Texas homestead exemption do for a homeowner?",
-   "html": "<p>It removes part of your home's appraised value from the base that local taxing units tax, so the bill shrinks even though the market value does not change. Appraisal districts set value as of January 1, so your status on that date drives the year's bill. The Texas Comptroller lays out three layers: a mandatory school district exemption, optional local exemptions, and extra relief for older or disabled owners.</p><p>Texas has no state property tax. Each taxing unit applies the exemption to its own levy, so two neighbors served by different units can see different savings.</p>"
+   "h2": "What the homestead exemption does",
+   "html": "<p>The exemption takes part of your home's appraised value out of the amount that local taxing units can tax, so your bill drops even though market value stays put. Appraisal districts value property as of January 1, so your status on that date drives the year's bill. There are three layers: a mandatory school district exemption, optional local exemptions, and extra relief for older or disabled owners.</p><p>Texas has no state property tax. Each taxing unit applies the exemption to its own levy, which means two neighbors served by different units can save different amounts.</p>"
   },
   {
-   "h2": "How much is the general residence homestead exemption?",
-   "html": "<p>Tax Code Sec. 11.13(b) sets a $140,000 school district exemption on a residence homestead. Under Sec. 11.13(n) any other unit may choose a percentage exemption, capped at 20 percent of value, with a $5,000 minimum.</p><ul><li>School districts: $140,000, mandatory.</li><li>Cities, counties and others: optional, at the unit's discretion.</li><li>Counties with farm-to-market or flood control levies: $3,000 (Sec. 11.13(a)).</li></ul><p>Ask your appraisal district which units serving your address have adopted a local option, because the Comptroller describes it as a choice each unit makes.</p>"
+   "h2": "General residence homestead exemption",
+   "html": "<p>Tax Code Sec. 11.13(b) gives every residence homestead a $140,000 school district exemption. Under Sec. 11.13(n), any other taxing unit may choose a percentage exemption of up to 20 percent of value, with a $5,000 minimum.</p><ul><li>School districts: $140,000, mandatory.</li><li>Cities, counties and others: optional, at the unit's discretion.</li><li>Counties with farm-to-market or flood control levies: $3,000 (Sec. 11.13(a)).</li></ul><p>Each unit decides whether to offer a local option, so ask your appraisal district which of the units serving your address have done so.</p>"
   },
   {
-   "h2": "Who qualifies as the owner of a homestead?",
-   "html": "<p>Two tests apply: you own an interest in the house, and it is where you mainly live. A second claimed homestead, in Texas or elsewhere, disqualifies you.</p><p>A mid-year purchase still earns the exemption for the remaining months if the seller was not already getting it. Heirs absent from the recorded deed show the appraisal district an ownership affidavit, the prior owner's death certificate, a utility bill and any court record citation.</p>"
+   "h2": "Who qualifies as a homestead owner?",
+   "html": "<p>Two tests apply. You must own an interest in the house, and it must be where you mainly live. Claiming a second homestead, in Texas or anywhere else, disqualifies you.</p><p>If you buy mid-year, you can still get the exemption for the remaining months as long as the seller was not already receiving it. An heir who is not named on the recorded deed shows the appraisal district an ownership affidavit, the prior owner's death certificate, a utility bill and any court record citation.</p>"
   },
   {
-   "h2": "What extra relief exists at age 65 or with a disability?",
-   "html": "<p>Age 65 or disability adds $60,000 at the school district level (Sec. 11.13(c)). Local units may match with their own under Sec. 11.13(d), starting at $3,000.</p><p>Disability is judged by the Social Security benefit definition. In some cases a widow or widower aged 55 or more keeps the late spouse's over-65 benefit.</p><p>These owners also receive a freeze on school tax. Sec. 11.26 bars the district from raising their total yearly bill on the homestead, using the tax of the first year they qualified as the base. The freeze can follow the owner to a new Texas homestead, in proportion, and can continue for a surviving spouse aged 55 or older. Added improvements beyond ordinary repairs can lift it. Sec. 11.261 allows counties, cities and junior college districts to adopt their own.</p>"
+   "h2": "Extra relief at age 65 or with a disability",
+   "html": "<p>An owner who is 65 or older, or disabled, gets another $60,000 at the school district level (Sec. 11.13(c)). Local units may add their own under Sec. 11.13(d), starting at $3,000.</p><p>Disability is judged by the Social Security benefit definition. In some cases a widow or widower aged 55 or more keeps the late spouse's over-65 benefit.</p><p>These owners also get a freeze on school tax. Under Sec. 11.26 the district cannot raise their total yearly bill on the homestead, with the first qualifying year's tax as the base. The freeze can follow the owner to a new Texas homestead, in proportion, and can continue for a surviving spouse aged 55 or older. Added improvements beyond ordinary repairs can lift it. Sec. 11.261 lets counties, cities and junior college districts adopt their own.</p>"
   },
   {
-   "h2": "How does the 10 percent appraisal cap work?",
-   "html": "<p>Once you qualify, appraised value on the homestead may climb at most 10 percent a year, new improvements aside. Sec. 23.23 takes the lesser of market value or last year's appraised value plus 10 percent plus improvements.</p><p>It starts the January 1 after your first qualifying year. A higher rate from a taxing unit can still raise the bill, since the cap governs value only.</p>"
+   "h2": "The 10 percent appraisal cap",
+   "html": "<p>After you qualify, the appraised value of your homestead can rise no more than 10 percent a year, apart from new improvements. Sec. 23.23 uses the lesser of market value or last year's appraised value plus 10 percent plus improvements.</p><p>The cap begins on the January 1 after your first qualifying year. It limits value only, so a higher rate from a taxing unit can still raise the bill.</p>"
   },
   {
-   "h2": "What do disabled veterans receive?",
-   "html": "<p>Disabled veterans get an exemption on any one property they own, scaled to their VA disability rating. The Comptroller prints these amounts under Sec. 11.22.</p><table><caption>Sec. 11.22 disabled veteran exemption, as printed by the Texas Comptroller</caption><thead><tr><th>VA disability rating</th><th>Exemption up to</th></tr></thead><tbody><tr><td>10% to 29%</td><td>$5,000</td></tr><tr><td>30% to 49%</td><td>$7,500</td></tr><tr><td>50% to 69%</td><td>$10,000</td></tr><tr><td>70% to 100%</td><td>$12,000</td></tr></tbody></table><p>A veteran aged 65 or older with a rating of at least 10 percent, a veteran who is totally blind in one or both eyes, or one who lost use of a limb may receive $12,000. An unmarried surviving spouse and children under 18 may qualify too.</p><p>At a 100 percent rating, or 100 percent unemployability, the whole residence homestead is exempt under Sec. 11.131, and an unmarried surviving spouse may keep it on stated conditions. A charity-donated homestead falls under Sec. 11.132, where the exempt share follows the rating. Sec. 11.133 fully exempts the home of a surviving spouse of a service member killed in the line of duty.</p>"
+   "h2": "Exemptions for disabled veteran owners",
+   "html": "<p>A disabled veteran gets an exemption on one property, scaled to the VA disability rating. Sec. 11.22 sets these amounts.</p><table><caption>Sec. 11.22 exemption by VA disability rating</caption><thead><tr><th>VA disability rating</th><th>Exemption up to</th></tr></thead><tbody><tr><td>10% to 29%</td><td>$5,000</td></tr><tr><td>30% to 49%</td><td>$7,500</td></tr><tr><td>50% to 69%</td><td>$10,000</td></tr><tr><td>70% to 100%</td><td>$12,000</td></tr></tbody></table><p>An owner aged 65 or older with a rating of at least 10 percent, one who is totally blind in one or both eyes, or one who lost use of a limb may receive $12,000. An unmarried surviving spouse and children under 18 may qualify too.</p><p>At a 100 percent rating, or 100 percent unemployability, the whole residence homestead is exempt under Sec. 11.131, and an unmarried surviving spouse may keep it on stated conditions. A homestead donated by a charity falls under Sec. 11.132, where the exempt share follows the rating. Sec. 11.133 fully exempts the home of the surviving spouse of a service member killed in the line of duty.</p>"
   },
   {
-   "h2": "How do the layers combine for different owners?",
-   "html": "<p>Think of the exemption as a stack that grows with your circumstances. Each layer applies only to the taxing units that grant it.</p><ul><li>Any residence homestead owner: the mandatory $140,000 school district exemption.</li><li>Owner aged 65 or older, or disabled: that same $140,000 plus $60,000, along with the school tax freeze.</li><li>Disabled veteran: a separate exemption on one property, scaled from $5,000 to $12,000 by rating, or total at a 100 percent rating on the residence homestead.</li><li>Any owner in a unit with a local option: a percentage exemption of up to 20 percent of value on top.</li></ul><p>The Comptroller's pages describe each as a distinct provision, so an owner who fits two groups should ask the appraisal district how the two apply together on the actual bill.</p>"
+   "h2": "How the layers combine",
+   "html": "<p>Picture a stack that grows with your circumstances. Each layer applies only to the units that grant it.</p><ul><li>Any residence homestead owner: the mandatory $140,000 school district exemption.</li><li>Owner aged 65 or older, or disabled: the same $140,000 plus $60,000, along with the school tax freeze.</li><li>Disabled veteran: a separate exemption on one property, from $5,000 to $12,000 by rating, or total at a 100 percent rating on the residence homestead.</li><li>Any owner in a unit with a local option: a percentage exemption of up to 20 percent of value on top.</li></ul><p>These are separate provisions. If you fit two groups, ask the appraisal district how they work together on your actual bill.</p>"
   },
   {
-   "h2": "What should an applicant bring to the appraisal district?",
-   "html": "<p>Bring proof of ownership and proof that the house is your main home, such as a utility bill. Each district decides what it accepts, so call the office before you go, and file before the spring cutoff so the exemption reaches the bill mailed that fall.</p><ul><li>The deed, or for an heir the ownership affidavit and death certificate.</li><li>A current utility bill showing the property address.</li><li>For age, disability or a VA rating, whatever proof the district accepts; ask which documents it wants before you file.</li><li>The form that matches your exemption: 50-114 for homestead, 50-135 for the disabled veteran exemption.</li></ul><p>Applying for a veteran exemption does not require waiting for the next spring cycle in every case, because Sec. 11.22 allows late applications for up to five years after the delinquency date.</p>"
+   "h2": "What to bring to the appraisal district",
+   "html": "<p>Bring proof you own the house and proof it is your main home, such as a utility bill. Each district decides what it accepts, so call before you go. File before the spring cutoff so the exemption reaches the bill mailed that fall.</p><ul><li>The deed, or for an heir the ownership affidavit and death certificate.</li><li>A current utility bill showing the property address.</li><li>For age, disability or a VA rating, whatever proof the district accepts. Ask which documents it wants before you file.</li><li>The form that matches your exemption: 50-114 for homestead, 50-135 for the disabled veteran exemption.</li></ul><p>A disabled veteran exemption does not always have to wait for the next spring cycle, because Sec. 11.22 allows late applications for up to five years after the delinquency date.</p>"
   },
   {
-   "h2": "When and where do you apply?",
-   "html": "<p>The county appraisal district takes the application; the school district and Comptroller do not. For the general homestead exemption the filing must come before May 1, and April 30 also closes some other exemption and special-appraisal applications.</p><ul><li>Homestead exemptions use Form 50-114.</li><li>The disabled veteran exemption under Sec. 11.22 uses Form 50-135.</li><li>Veterans under Sec. 11.22 get up to five years past the delinquency date to apply, and the surviving spouse of a veteran with a donated homestead gets two.</li></ul><p>Value notices for single-family homesteads start around April 1. Disputing the number is a separate step from the exemption and has its own cutoff, usually May 15 unless 30 days after delivery falls later.</p>"
+   "h2": "When and where to apply",
+   "html": "<p>Applications go to the county appraisal district, not the school district or the state. For the general homestead exemption, filing must come before May 1, and April 30 is also the cutoff for some other exemption and special-appraisal applications.</p><ul><li>Homestead exemptions use Form 50-114.</li><li>The disabled veteran exemption under Sec. 11.22 uses Form 50-135.</li><li>Under Sec. 11.22 an applicant has up to five years past the delinquency date, and the surviving spouse of a veteran with a donated homestead gets two.</li></ul><p>Value notices for single-family homesteads start around April 1. Disputing the number is a separate step from claiming the exemption and has its own cutoff, usually May 15 unless 30 days after delivery falls later.</p>"
   },
   {
-   "h2": "How does the exemption matter when you sell?",
-   "html": "<p>Your exemption leaves with your ownership, but that year's lien stays on the land. It attaches January 1 for taxes, penalties and interest, so unpaid amounts normally get cleared at closing.</p><p>Whoever owned on January 1 is liable for the year's bill and can be sued after selling. Delinquency starts February 1 for bills mailed in October, with penalty and interest added.</p><p>For a sale involving back taxes, unrecorded heirs or a house you have moved out of, get a payoff from the tax office and your exemption status from the district first.</p>"
+   "h2": "Homestead exemption when you sell",
+   "html": "<p>The exemption leaves with your ownership, but that year's tax lien stays on the land. It attaches January 1 for taxes, penalties and interest, so unpaid amounts are normally cleared at closing.</p><p>Whoever owned the property on January 1 is liable for the year's bill and can be sued after selling. Delinquency starts February 1 for bills mailed in October, with penalty and interest added.</p><p>If the sale involves back taxes, unrecorded heirs or a house you have moved out of, get a payoff from the tax office and confirm your exemption status with the district before you list. A cash buyer can close without waiting on a lender, but the tax payoff still gets settled at closing.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Is the Texas homestead exemption automatic?",
-   "a": "No, you must apply with Form 50-114 at the appraisal district, in general before May 1."
+   "a": "No. You apply with Form 50-114 at the appraisal district, in general before May 1."
   },
   {
    "q": "Can I get both the $140,000 and the $60,000 school exemptions?",
-   "a": "Yes, for owners aged 65 or older or disabled, the two stack: $140,000 under Sec. 11.13(b) plus $60,000 under Sec. 11.13(c)."
+   "a": "Yes, if you are 65 or older or disabled. The two stack: $140,000 under Sec. 11.13(b) plus $60,000 under Sec. 11.13(c)."
   },
   {
    "q": "Does the 10 percent cap lower my tax rate?",
-   "a": "No. It slows growth in appraised value only. Each unit sets its rate separately, and new improvements come on top of the capped value."
+   "a": "No. It slows growth in appraised value only. Each unit sets its own rate, and new improvements are added on top of the capped value."
   },
   {
    "q": "Can a surviving spouse keep the over-65 exemption?",
-   "a": "In some cases, if the spouse is 55 or older; the school tax ceiling may continue too. The appraisal district can confirm your situation."
+   "a": "In some cases, if the spouse is 55 or older, and the school tax ceiling may continue as well. The appraisal district can confirm your situation."
   },
   {
    "q": "What if I inherited a house and am not on the deed?",

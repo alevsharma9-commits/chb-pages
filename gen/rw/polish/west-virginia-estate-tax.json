@@ -1,0 +1,105 @@
+{
+ "slug": "west-virginia-estate-tax",
+ "sections": [
+  {
+   "h2": "West Virginia estate tax and inherited houses",
+   "html": "<p>A family selling an inherited West Virginia house will rarely owe state estate tax. The state levy is triggered only by a federal estate tax bill. Section 11-11-3 of the <a href=\"https://code.wvlegislature.gov/11-11-3/\">West Virginia Code</a> measures it by the share of the old federal state-death-tax credit that belongs to property in this state, and begins with the words \"whenever a federal estate tax is payable to the United States.\"</p><p>Everything turns on that first clause. The <a href=\"https://www.irs.gov/pub/irs-pdf/i706.pdf\">IRS instructions for Form 706</a> say that for 2026 deaths, a federal return is needed only above $15,000,000, counting the gross estate, adjusted taxable gifts and the specific exemption. Estates well under that line owe no federal tax, which leaves the state statute with nothing to apply to.</p><p>Section 11-11-2 defines that credit and keeps it from falling below what older federal law provided. Current IRS instructions mention the \"repeal of section 2011,\" the old credit section, and offer a state death tax deduction on the return in its place. A very large estate should ask a probate attorney or the Tax Commissioner how the two fit.</p>"
+  },
+  {
+   "h2": "State return and deadline",
+   "html": "<p>If the estate owes the tax, the personal representative sends a return to the Tax Commissioner nine months after the death at the latest. Section 11-11-8 names the Charleston office and requires an executed copy of the federal return to go with it.</p><p>An estate outside the tax files nothing. Beneficiaries can still be contacted: after a notice from the Tax Commissioner, anyone holding a legal or beneficial interest must answer questions about it.</p><table><thead><tr><th>Filing point</th><th>Rule</th><th>Authority</th></tr></thead><tbody><tr><td>When the state tax applies</td><td>A federal estate tax is payable</td><td>W. Va. Code 11-11-3</td></tr><tr><td>State return deadline</td><td>Nine months after death</td><td>W. Va. Code 11-11-8(d)</td></tr><tr><td>Where to file</td><td>Tax Commissioner, Charleston</td><td>W. Va. Code 11-11-8(e)</td></tr><tr><td>Federal filing level, deaths in 2026</td><td>More than $15,000,000 (gross estate plus adjusted taxable gifts and specific exemption)</td><td>IRS Form 706 instructions</td></tr><tr><td>Federal return timing</td><td>Generally nine months after death, with a six-month extension if requested before the due date</td><td>IRS filing guidance</td></tr></tbody></table><p>The IRS describes the federal timing on its <a href=\"https://www.irs.gov/businesses/small-businesses-self-employed/filing-estate-and-gift-tax-returns\">estate and gift tax returns page</a>.</p>"
+  },
+  {
+   "h2": "The nonprobate inventory",
+   "html": "<p>Within 90 days of qualifying, the personal representative files a sworn list of assets that skip the will. Section 11-11-7 wants each tangible and intangible nonprobate personal asset the decedent owned or shared, valued as of the death.</p><p>Think of jointly titled accounts and similar items that neither the will nor intestacy controls. The filing goes to the county commission clerk or the fiduciary supervisor, together with the chapter 44 appraisement form.</p><p>A house is real property, so it doesn't appear on this inventory. The same personal representative who files it is usually the person signing the sale papers.</p><ul><li>Use date-of-death values.</li><li>The clock starts when the personal representative qualifies.</li></ul>"
+  },
+  {
+   "h2": "Income tax when heirs sell",
+   "html": "<p>Federal income tax hits only the profit over basis, and an inherited house usually starts with a basis equal to its market value at death. The IRS <a href=\"https://www.irs.gov/faqs/interest-dividends-other-types-of-income/gifts-inheritances/gifts-inheritances\">gifts and inheritances page</a> allows the alternate valuation date instead when the executor files Form 706 and elects it.</p><p>Sell for more and the difference is taxable. Order a date-of-death appraisal early, return or no return, since it fixes where you begin.</p><p>The IRS adds two warnings. Under a 2015 law, some recipients must match the basis to the value finally reported on an estate tax return, and one handed a Schedule A to Form 8971 by an executor may have to report it. Claiming a basis above the final estate tax value can trigger an accuracy-related penalty.</p>"
+  },
+  {
+   "h2": "Transfer tax at the deed",
+   "html": "<p>The state charges $1.10 on each $500 of value, collected as the deed goes in for recording. Section 11-22-2 applies it to whoever delivers, accepts or presents the document.</p><p>A single document bears one state tax and one county tax, taken in the county of first recording. The seller-side grantor pays, unless the grantee takes the document with the tax unpaid. Trustee transfers and clerk transfers of tax-sale land put the cost on the grantee.</p><p>There is also an added county excise tax. It started in 1968 at 55 cents per $500, and counties may increase it to equal the state rate or up to $1.65 per $500 after July 1, 2017. The first tax is itself a county excise tax that stays with the collecting county. Rates vary, so phone the clerk in the recording county.</p><ul><li>Subsection (a): $1.10 per $500 of value, counting any fraction of $500.</li><li>Subsection (b) county add-on: 55 cents per $500, which a county can raise.</li><li>Due at delivery, acceptance or recording.</li></ul>"
+  },
+  {
+   "h2": "Property tax and homestead status",
+   "html": "<p>The estate keeps owing property tax, billed by the county sheriff. At the <a href=\"https://tax.wv.gov/Business/PropertyTax/Pages/PropertyTax.aspx\">West Virginia Tax Division</a>, status on July 1 fixes ownership, use and value for the following calendar tax year, and tickets go out on or after July 15. Assessed value is 60 percent of market value under the Constitution.</p><p>Section 11A-1-3 splits payment in two. Installment one is payable September 1 and goes delinquent October 1; installment two is payable March 1 and goes delinquent April 1. A two and one-half percent discount rewards paying by the payable date, while late balances accrue nine percent annual interest from delinquency.</p><p>Inheriting can raise the bill. A decedent aged 65 or older may have had the $20,000 homestead exemption, and section 11-6B-3 strips it at the next July 1 assessment after any transfer, whether by deed, will or otherwise, unless the new owner qualifies. An heir living in the house who is 65 or older, or certified permanently and totally disabled, may. Our <a href=\"/west-virginia-homestead-exemption/\">homestead exemption guide</a> covers that filing.</p>"
+  },
+  {
+   "h2": "Cash sale for heirs",
+   "html": "<p>Heirs who sell for cash hand over the house in its current condition, skipping repairs, showings and a buyer's mortgage approval. The personal representative signs the contract and deed. A title company reviews liens and the estate's authority, and the transfer tax is paid when the deed is recorded.</p><ul><li>Confirm who the qualified personal representative is before signing anything.</li><li>Obtain a written value as of death, because it sets the heirs' basis.</li><li>Bring property tax installments up to date before closing.</li><li>Ask the county clerk to quote the transfer tax.</li></ul><p>You can say no to any offer at no cost, and we promise no particular price or timeline.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does West Virginia have an inheritance tax?",
+   "a": "The code shows an estate tax but no separate levy on beneficiaries. Section 11-11-3 applies only if a federal estate tax is payable. A large or unusual estate should check with a probate attorney or the Tax Commissioner."
+  },
+  {
+   "q": "What is the federal estate tax filing level for 2026?",
+   "a": "A Form 706 is due for 2026 deaths when the gross estate plus adjusted taxable gifts and the specific exemption tops $15,000,000. Smaller estates owe no federal return on that ground."
+  },
+  {
+   "q": "When is a West Virginia estate tax return due?",
+   "a": "Nine months after death, for an estate that owes the tax. Send it to the Tax Commissioner in Charleston with a copy of the federal return. An estate outside the tax files nothing."
+  },
+  {
+   "q": "Do heirs pay capital gains tax on an inherited house?",
+   "a": "Only on profit over basis. Basis normally equals the value at death, so a prompt sale near that price usually shows little or no gain. Save your appraisal with your tax records."
+  },
+  {
+   "q": "What happens to the homestead exemption when an heir takes over?",
+   "a": "It drops off at the next July 1 assessment unless the new owner qualifies. Section 11-6B-3 covers owners 65 or older, or certified permanently and totally disabled, who live there. Claims go to the county assessor by December 1."
+  }
+ ],
+ "sources": [
+  {
+   "title": "W. Va. Code 11-11-3 Imposition of tax",
+   "url": "https://code.wvlegislature.gov/11-11-3/"
+  },
+  {
+   "title": "W. Va. Code 11-11-2 Definitions",
+   "url": "https://code.wvlegislature.gov/11-11-2/"
+  },
+  {
+   "title": "W. Va. Code 11-11-7 Nonprobate inventory of estates",
+   "url": "https://code.wvlegislature.gov/11-11-7/"
+  },
+  {
+   "title": "W. Va. Code 11-11-8 Estate tax returns",
+   "url": "https://code.wvlegislature.gov/11-11-8/"
+  },
+  {
+   "title": "W. Va. Code 11-22-2 Rate of tax on transferring real property",
+   "url": "https://code.wvlegislature.gov/11-22-2/"
+  },
+  {
+   "title": "W. Va. Code 11A-1-3 Time for payment of property taxes",
+   "url": "https://code.wvlegislature.gov/11A-1-3/"
+  },
+  {
+   "title": "W. Va. Code 11-6B-3 Homestead exemption",
+   "url": "https://code.wvlegislature.gov/11-6B-3/"
+  },
+  {
+   "title": "IRS Instructions for Form 706 (July 2026)",
+   "url": "https://www.irs.gov/pub/irs-pdf/i706.pdf"
+  },
+  {
+   "title": "IRS Filing estate and gift tax returns",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/filing-estate-and-gift-tax-returns"
+  },
+  {
+   "title": "IRS Gifts and inheritances FAQ",
+   "url": "https://www.irs.gov/faqs/interest-dividends-other-types-of-income/gifts-inheritances/gifts-inheritances"
+  },
+  {
+   "title": "West Virginia Tax Division Property Tax",
+   "url": "https://tax.wv.gov/Business/PropertyTax/Pages/PropertyTax.aspx"
+  },
+  {
+   "title": "West Virginia State Tax summary (TSD-413)",
+   "url": "https://tax.wv.gov/Documents/TSD/tsd413.pdf"
+  }
+ ]
+}

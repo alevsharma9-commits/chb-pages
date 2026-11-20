@@ -1,0 +1,81 @@
+{
+ "slug": "texas-intestate-succession",
+ "sections": [
+  {
+   "h2": "Who inherits a Texas house with no will?",
+   "html": "<p>Chapter 201 of the Estates Code lists the heirs in a fixed order, so the house goes to relatives by formula and not by what the family expects. The result turns on three things: whether the owner left a spouse, whether there are children, and whether the house was community property or separate property.</p><p>An heir becomes an owner the moment the owner dies, yet the county records still show the dead person as owner. Until heirs are proven by a court order or a recorded affidavit, a title company will usually refuse to insure a sale. That gap between owning and being able to sell is where many Texas families lose time.</p>"
+  },
+  {
+   "h2": "A surviving spouse and children",
+   "html": "<p>The answer depends on the kind of property. The code treats the community estate separately from everything else.</p><p>For community property, the whole community estate goes to the surviving spouse when the deceased spouse had no descendants, or when every surviving child or grandchild is also a descendant of the surviving spouse (Sec. 201.003). If the owner had a child who is not also the surviving spouse's child, the owner's undivided half of the community estate goes to the owner's descendants instead, still charged with community debts.</p><p>For separate property, a surviving spouse with children in the picture takes one third of the personal property and a life estate in one third of the land. The children share the other two thirds of the personal property and hold the remainder interest in the land (Sec. 201.002(b)). When a life estate exists, ask a probate attorney who must sign before a buyer can get clean title.</p>"
+  },
+  {
+   "h2": "How the shares divide",
+   "html": "<p>The table follows the statute for common family patterns. It does not cover every case, and \"land\" and \"personal estate\" are the code's own terms.</p><table><caption>Texas intestate shares by family pattern (Estates Code 201.001 to 201.003)</caption><thead><tr><th>Family situation</th><th>Who takes</th></tr></thead><tbody><tr><td>Spouse survives, community property, all children are also the spouse's</td><td>Surviving spouse takes the community estate</td></tr><tr><td>Spouse survives, community property, a child from another relationship exists</td><td>That child and other descendants take the deceased spouse's undivided half</td></tr><tr><td>Spouse and children survive, separate property</td><td>Spouse: one third of personal property and a life estate in one third of the land. Children: the rest</td></tr><tr><td>Spouse survives, no children, separate property, parent or sibling also survives</td><td>Spouse: all personal property and one half of the land. The other half of the land follows the kindred rules</td></tr><tr><td>Spouse survives, no children, no parent, no sibling or their descendants</td><td>Spouse takes the entire estate</td></tr><tr><td>No spouse, children survive</td><td>Children and their descendants</td></tr><tr><td>No spouse, no descendants, both parents survive</td><td>Equal shares to father and mother</td></tr></tbody></table>"
+  },
+  {
+   "h2": "When there is no surviving spouse",
+   "html": "<p>With no spouse, the estate moves down a list of kindred set by Sec. 201.001. Children and their descendants come first and take everything.</p><ul><li>No descendants, both parents alive: the parents split the estate equally.</li><li>No descendants, one parent alive: half to that parent and half to the siblings and their descendants, or all to the parent if there are no siblings or sibling descendants.</li><li>No descendants, no parents: siblings and their descendants.</li><li>None of those: the estate divides into two halves, one for paternal kindred and one for maternal kindred, working through grandparents and then their descendants.</li></ul><p>When a child died before the owner, that child's own descendants step into the child's place. The code calls this per capita with representation (Sec. 201.101).</p>"
+  },
+  {
+   "h2": "Adopted children, half siblings and late-born children",
+   "html": "<p>An adopted child inherits from and through the adoptive parents as if born to them, and that includes children a court treats as equitably adopted (Sec. 201.054). Birth parents and their kindred cannot inherit from or through an adopted child.</p><p>A child counts as a father's child for inheritance in specific cases: birth within a marriage as described in Family Code Sec. 160.201, a court decree, adoption, or a signed acknowledgment of paternity (Sec. 201.052). Someone claiming to be a biological child can petition the probate court, which must find it by clear and convincing evidence. The person must also have been born before the death or be in gestation then, and survive at least 120 hours (Sec. 201.056).</p><p>Half siblings take half as much as whole siblings when both inherit together, and a group made up only of half siblings each takes a whole share (Sec. 201.057). These rules can change who has to sign a deed, so an overlooked child is the biggest risk in a quick family sale.</p>"
+  },
+  {
+   "h2": "Proving who the heirs are so the house can be sold",
+   "html": "<p>Texas offers several routes, and the right one depends on the estate. Each ends with a document the county clerk can record.</p><ul><li>Affidavit of heirship: a sworn statement filed with the county clerk. No court reviews it, and no law forces a title company or buyer to accept it.</li><li>Determination of heirship: a probate court hearing that ends in an order naming the heirs.</li><li>Small estate affidavit: available only when the estate is within the dollar limit in Estates Code ch. 205, assets are enough to pay debts, and the court approves. A house other than the homestead is a problem here, because the chapter excludes real property except a homestead passing to a spouse or minor children.</li><li>Administration: the court appoints an administrator, who can later sign a deed.</li></ul><p>A buyer who pays value and relies in good faith on a recorded affidavit of heirship that omits a child can still get good title (Sec. 201.053), though the heirs remain liable to the omitted child for the sale proceeds. That rule protects the buyer, not the siblings who signed.</p>"
+  },
+  {
+   "h2": "Selling an inherited house when there is no will",
+   "html": "<p>A typical sale follows a short chain of steps, and the order matters because each one supports the next.</p><ol><li>Get a certified death certificate and list every relative who could be an heir.</li><li>Pick a route to establish title: affidavit, heirship hearing, small estate affidavit where it fits, or administration.</li><li>Record the proof with the county clerk in the county where the house sits.</li><li>Have every heir, or the court-appointed representative, sign the deed or contract.</li><li>Settle the property tax bill. Texas property taxes attach as a lien each January 1, so an unpaid balance travels with the house.</li></ol><p>An heir who wants the homestead exemption on the inherited home may be asked by the appraisal district for an affidavit of ownership interest, the owner's death certificate, a recent utility bill and any court record citation, if the heir is not on a recorded deed.</p>"
+  },
+  {
+   "h2": "Keeping the family on the same page",
+   "html": "<p>Intestate sales go smoothly when every heir knows the plan before a buyer appears. Hold one meeting, share the list of heirs and the route you picked, and agree in writing who will talk to the title company and who signs.</p><p>If one relative cannot be found or will not cooperate, tell the title company early. A court order may be the only route a buyer will accept in that case. A cash buyer can close quickly once title is cleared, but the proof of heirship still has to be recorded first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "If my parent died without a will, do I own the house right away?",
+   "a": "As an heir under Chapter 201, your interest passes at death, but the record title does not change by itself. You need a recorded affidavit, a court order or an administrator's deed before a buyer or title company treats the sale as clean."
+  },
+  {
+   "q": "Does a surviving spouse always get the house?",
+   "a": "No. A spouse takes the whole community estate only when every child is also the spouse's child or there are no descendants. With separate property and children, the spouse gets a life estate in one third of the land and the children hold the remainder."
+  },
+  {
+   "q": "Can an affidavit of heirship be used to sell an inherited house?",
+   "a": "Sometimes. It is a sworn statement filed with the county clerk, and no law makes a third party accept it. Many title companies ask for a court order instead when the family tree is unclear."
+  },
+  {
+   "q": "What if there is a child nobody listed?",
+   "a": "The child can still claim a share. A buyer who relied in good faith on a recorded affidavit keeps good title under Sec. 201.053, but the heirs who sold must answer to that child for the proceeds."
+  },
+  {
+   "q": "Do siblings inherit if the owner had no spouse or children?",
+   "a": "Yes, in the order the statute sets. If both parents are alive they take equal shares. If neither parent is alive, the siblings and their descendants take the whole estate."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Texas Estates Code Chapter 201, Descent and Distribution",
+   "url": "https://tcss.legis.texas.gov/resources/ES/htm/ES.201.htm"
+  },
+  {
+   "title": "Texas State Law Library: Probate informal methods",
+   "url": "https://guides.sll.texas.gov/probate/informal-methods"
+  },
+  {
+   "title": "Texas State Law Library: Probate property deeds",
+   "url": "https://guides.sll.texas.gov/probate/property-deeds"
+  },
+  {
+   "title": "Texas Comptroller: Property tax exemptions",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/exemptions/"
+  },
+  {
+   "title": "Texas Comptroller: Property tax deadlines",
+   "url": "https://comptroller.texas.gov/taxes/property-tax/calendars/deadlines.php"
+  }
+ ]
+}

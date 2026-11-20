@@ -1,0 +1,77 @@
+{
+ "slug": "utah-eviction-notice",
+ "sections": [
+  {
+   "h2": "Which eviction notice a Utah landlord uses",
+   "html": "<p>The notice depends on the problem: three days for unpaid rent or most lease violations, five days for a tenant with no lease, and at least 15 days to end a month-to-month rental.</p><p>The court publishes a separate form for each situation, and a landlord is expected to match the form to the reason.</p><table><caption>Utah eviction notices by situation</caption><thead><tr><th>Situation</th><th>Court form</th><th>Notice period</th></tr></thead><tbody><tr><td>Unpaid rent</td><td>1001EV</td><td>3 days</td></tr><tr><td>Lease violation the tenant can fix</td><td>1005EV</td><td>3 days</td></tr><tr><td>Lease violation the tenant cannot fix</td><td>1035EV</td><td>3 days</td></tr><tr><td>Subletting without permission</td><td>1020EV</td><td>3 days</td></tr><tr><td>Nuisance (fixable or not)</td><td>1015.5EV or 1015EV</td><td>3 days</td></tr><tr><td>Criminal act on the property</td><td>1040EV</td><td>3 days</td></tr><tr><td>Illegal business</td><td>1030EV</td><td>3 days</td></tr><tr><td>Property damage or waste</td><td>1025EV</td><td>3 days</td></tr><tr><td>Lease ending, not renewed</td><td>1045EV</td><td>At least 15 days before rent is due</td></tr><tr><td>Tenant at will, no lease</td><td>1050EV</td><td>5 days</td></tr></tbody></table><p>A landlord names every lease signer, tenant, subtenant and other occupant who needs to be removed, and can use John or Jane Doe for unknown occupants.</p>"
+  },
+  {
+   "h2": "Counting the notice days",
+   "html": "<p>The day of service is day zero, and the count starts the next day.</p><p>Business days skip weekends and court holidays, while calendar days count everything. The difference matters most for unpaid rent, where the tenant has three business days to pay or move, and for rule violations, where the tenant has three calendar days. A tenant should check that the notice was delivered properly and that the deadline was counted correctly, so both sides have a reason to get the arithmetic right.</p><p>For a month-to-month tenant, the 15 day notice must be served at least 15 days before the rental period ends. Served late, it does not end the tenancy until the next period closes.</p>"
+  },
+  {
+   "h2": "How a landlord delivers the notice",
+   "html": "<p>Utah Code 78B-6-805 allows four ways to serve a notice, and a landlord has to use one of them.</p><ul><li>Hand it to the tenant directly.</li><li>Mail it certified or registered, with a signature required, to the tenant's home.</li><li>If the tenant is away, leave it with another responsible adult at the home and mail a copy there too.</li><li>If no one is home, post it on the front door or another visible spot on the property.</li></ul><p>Only a court order permits a legal eviction. Changing the locks, shutting off utilities, taking belongings or blocking the tenant from the home is prohibited.</p>"
+  },
+  {
+   "h2": "What happens after the notice runs out",
+   "html": "<p>If the tenant has not fixed the problem or left, the landlord files a complaint and summons, and the tenant has three business days after service to file an Answer.</p><p>The landlord cannot hand over the papers personally. Service goes through an adult 18 or older who is not part of the case, a sheriff or constable, or a process server, and must be completed within 120 days of filing. The notice and the lease are attached to the complaint as exhibits.</p><p>From there the case splits:</p><ul><li><strong>Tenant does not answer:</strong> the landlord can ask for a default judgment after checking military status. A servicemember may get a delay of up to 90 days.</li><li><strong>Tenant answers, even late:</strong> no default is possible, and the landlord requests an occupancy hearing, which the court schedules within 10 days of the request.</li><li><strong>Issues remain after the hearing:</strong> a trial is set within 60 days.</li></ul><p>At the occupancy hearing, the judge decides who stays while the case continues and may sign an Order of Restitution against the tenant.</p>"
+  },
+  {
+   "h2": "Time to leave after the order",
+   "html": "<p>The Order of Restitution usually gives the tenant three calendar days after service to move out, and a sheriff or constable can remove the tenant after that.</p><p>Only a sheriff or deputy, police officer, constable, state investigator or private investigator can serve the order, and a landlord cannot serve it personally. Only after proper service and the tenant's departure, or a sheriff's removal, can the landlord retake the property under Utah Code 78B-6-812.</p><ul><li>Answer to the complaint: 3 business days after service.</li><li>Occupancy hearing: within 10 days of the request.</li><li>Trial if needed: within 60 days.</li><li>Move out after the order: usually 3 calendar days.</li><li>Access to essential items: 5 business days.</li><li>Other belongings treated as abandoned: 15 calendar days.</li></ul><p>Essential items include clothing, ID, financial and immigration papers, and medical items, and no storage fee can be charged for them. A tenant who cannot leave in time can ask the court to set aside the judgment or to delay enforcement, and delay requires a bond.</p>"
+  },
+  {
+   "h2": "What a landlord can recover in money",
+   "html": "<p>A landlord can ask for unpaid rent, repair costs and daily rental value after the notice expired, and several of those amounts can be tripled.</p><p>The recoverable items are unpaid rent, property damage, the daily rental value after the notice expired (up to three times), forcible entry costs, repairs and nuisance removal costs (each up to three times). The landlord has to prove the amounts and try to re-rent the home promptly.</p><p>A tenant has seven days to object to the affidavit of damages. A money judgment is separate from the eviction, so moving out does not erase it.</p>"
+  },
+  {
+   "h2": "Special rules that can change the process",
+   "html": "<p>Several situations call for extra checks before a landlord starts, and any of them can add time.</p><ul><li>Government rent help, such as Section 8 or a voucher.</li><li>A tenant who owns a mobile home but rents the land, covered by the Utah Mobile Home Park Residency Act.</li><li>A property loan owned by Fannie Mae or Freddie Mac, or a home foreclosed with a federally backed loan.</li><li>A business owner, since a business without a DBA needs a representative in court.</li></ul><p>Tenants can also post a possession bond. In an unpaid rent case, a tenant who pays everything owed within three calendar days can stay and the case ends.</p>"
+  },
+  {
+   "h2": "Eviction and selling a Utah house",
+   "html": "<p>A Utah owner with a tenant in place has to finish the court process or reach a voluntary move-out before the house can be handed over empty.</p><p>The stages above add up, and a contested case that goes to trial takes longer. The case also leaves a mark, since an eviction case stays on a tenant's record permanently, which gives some tenants a reason to negotiate a move-out instead.</p><p>Owners in this spot often choose between waiting out the court calendar, negotiating a move-out date, or selling the house with the tenant in it. We buy Utah houses in any of those conditions, and we can talk through the sequence with you before you pay for a notice or a filing.</p>"
+  },
+  {
+   "h2": "Paperwork to keep",
+   "html": "<p>Whatever route you take, build one folder before the first notice goes out. Include the lease, the rent ledger, each notice with its date and method of service, and any messages with the tenant about the problem.</p><p>If the house goes on the market later, that folder tells a buyer and a title company exactly where the tenancy stands, which shortens the questions at closing. Add the court dates as they get set.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days notice does a Utah landlord give for unpaid rent?",
+   "a": "Three business days. The tenant can pay what is owed or move out in that time, and day zero is the day the notice is delivered."
+  },
+  {
+   "q": "How long does a Utah landlord have to give a month-to-month tenant?",
+   "a": "At least 15 days, served before the end of the rental period. If it is served too late, the tenant can stay until the next period ends."
+  },
+  {
+   "q": "How long does a tenant have to respond to a Utah eviction complaint?",
+   "a": "Three business days after being served with the summons and complaint. Missing that deadline can mean losing the case automatically."
+  },
+  {
+   "q": "Can a Utah landlord change the locks to evict a tenant?",
+   "a": "No. Only a court order allows a legal eviction, and changing locks, cutting utilities or removing belongings is prohibited."
+  },
+  {
+   "q": "How long does a tenant have to leave after an Order of Restitution?",
+   "a": "Usually three calendar days after service of the order, though it can be less. A sheriff or constable can remove the tenant after that."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Utah Courts, Eviction Information for Landlords",
+   "url": "https://www.utcourts.gov/en/self-help/case-categories/housing/landlord/eviction-landlord.html"
+  },
+  {
+   "title": "Utah Courts, Eviction Information for Tenants",
+   "url": "https://www.utcourts.gov/en/self-help/case-categories/housing/landlord/eviction-tenant.html"
+  },
+  {
+   "title": "Utah Courts, I received an order of restitution",
+   "url": "https://www.utcourts.gov/en/self-help/case-categories/housing/landlord/eviction-tenant/restitution.html"
+  }
+ ]
+}
