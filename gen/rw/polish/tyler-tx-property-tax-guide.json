@@ -2,70 +2,70 @@
  "slug": "tyler-tx-property-tax-guide",
  "sections": [
   {
-   "h2": "Who bills a Tyler property",
-   "html": "<p>Smith County sends Tyler's tax bills and collects for every taxing unit in the county. The office sits at 1517 W. Front St., Tyler, TX 75702, with a mailing box at P.O. Box 2011 and a phone line at (903) 590-2920. Hours are 8 a.m. to 4:30 p.m., open through lunch.</p>\n<p>One Tyler bill can carry several lines: the city, Smith County, Tyler Junior College and a school district. The school district depends on the address, since some Tyler properties sit in Whitehouse ISD or Chapel Hill ISD instead of Tyler ISD. Your statement shows which one applies to you.</p>"
+   "h2": "Who sends the Tyler tax statement",
+   "html": "<p>Billing and collection for every local taxing unit in Smith County, Tyler included, runs through one office: the Smith County tax office, 1517 W. Front St., Tyler, TX 75702. Mail goes to P.O. Box 2011 and the phone is (903) 590-2920. The doors are open from 8 a.m. until half past four, and the lunch hour is included.</p>\n<p>One Tyler bill can carry several lines: the city, Smith County, Tyler Junior College and a school district. The school district depends on your address, because some Tyler properties sit in Whitehouse ISD or Chapel Hill ISD instead of Tyler ISD.</p>"
   },
   {
-   "h2": "Tyler property tax rates, tax year 2026",
-   "html": "<p>These are the 2026 figures, each stated per $100 of value: $0.242063 for the city, $0.374088 for Smith County, $0.210312 for Tyler Junior College and $0.835000 for Tyler ISD.</p>\n<table><caption>Tyler-area tax rates, tax year 2026</caption><thead><tr><th>Taxing unit</th><th>Adopted rate</th><th>Maintenance and operations</th><th>Debt</th></tr></thead><tbody><tr><td>City of Tyler</td><td>0.242063</td><td>0.242063</td><td>0.000000</td></tr><tr><td>Smith County</td><td>0.374088</td><td>0.317617</td><td>0.056471</td></tr><tr><td>Tyler Junior College</td><td>0.210312</td><td>0.162017</td><td>0.048295</td></tr><tr><td>Tyler ISD</td><td>0.835000</td><td>0.640300</td><td>0.194700</td></tr></tbody></table>\n<p>Addresses served by Whitehouse ISD (0.964900) or Chapel Hill ISD (1.072900) use those school rates instead. Call the tax office to confirm the rate on your exact parcel.</p>"
+   "h2": "Tyler tax rates for 2026",
+   "html": "<p>For 2026-2027 the city rate is $0.242063, the Smith County rate is $0.374088, Tyler Junior College is $0.210312 and Tyler ISD is $0.835000. Smith County's rate table shows the same figures as adopted rates for tax year 2026.</p>\n<table><caption>Tyler-area tax rates per $100, tax year 2026</caption><thead><tr><th>Taxing unit</th><th>Adopted rate</th><th>Maintenance and operations</th><th>Debt</th></tr></thead><tbody><tr><td>City of Tyler</td><td>0.242063</td><td>0.242063</td><td>0.000000</td></tr><tr><td>Smith County</td><td>0.374088</td><td>0.317617</td><td>0.056471</td></tr><tr><td>Tyler Junior College</td><td>0.210312</td><td>0.162017</td><td>0.048295</td></tr><tr><td>Tyler ISD</td><td>0.835000</td><td>0.640300</td><td>0.194700</td></tr></tbody></table>\n<p>Tyler addresses served by other districts pay different school rates: Whitehouse ISD is 0.964900 and Chapel Hill ISD is 1.072900 for 2026. For the precise rate on your own parcel, ask the county office.</p>"
   },
   {
    "h2": "City rate history",
-   "html": "<p>The city rate is down more than 50 percent from the mid 1990s, when it stood at $0.5336 in 1994-95. It reached a low of $0.1990 in 2007-08, climbed to $0.2699 in 2021-22 and then slid each year to $0.236452 in 2025-26.</p>\n<p>This year's 2026-27 rate of $0.242063 is higher than last year's and above the city's no-new-revenue rate of 0.232965. The city also commits two cents of its rate to the street fund, equal to $2.4 million.</p>\n<ul><li>1994-95: $0.5336</li><li>2007-08: $0.1990</li><li>2021-22: $0.2699</li><li>2025-26: $0.236452</li><li>2026-27: $0.242063</li></ul>"
+   "html": "<p>Since the mid 1990s the city has trimmed its rate by over half. It was $0.5336 in 1994-95 and reached a low of $0.1990 in 2007-08. The rate then rose to $0.2699 in 2021-22 before dropping each year to $0.236452 in 2025-26.</p>\n<p>The 2026-27 rate of $0.242063 is higher than last year's and above the city's no-new-revenue rate of 0.232965. The city also continues to commit two cents of its rate to the street fund, equal to $2.4 million.</p>\n<ul><li>1994-95: $0.5336</li><li>2007-08: $0.1990</li><li>2021-22: $0.2699</li><li>2025-26: $0.236452</li><li>2026-27: $0.242063</li></ul>"
   },
   {
-   "h2": "Other rates since 2022",
-   "html": "<p>Between 2022 and 2026 most Tyler-area rates dropped, and the county's went up.</p>\n<ul><li>Smith County: 0.330000 in 2022, 0.347264 in 2023, 0.364231 in 2024 and 2025, then 0.374088 in 2026.</li><li>Tyler ISD: 1.179300 in 2022, 0.960000 in 2023, 0.910000 in 2024, 0.845000 in 2025 and 0.835000 in 2026.</li><li>Tyler Junior College: 0.188001 in 2022, then 0.185068 in 2025 and 0.210312 in 2026.</li><li>City of Tyler: 0.261850 in 2022 and 0.242063 in 2026.</li></ul>\n<p>The statement you receive shows your exact numbers.</p>"
+   "h2": "Other Tyler-area rates since 2022",
+   "html": "<p>Most Tyler-area lines fell from 2022 to 2026, while the county's rose.</p>\n<ul><li>Smith County: 0.330000 in 2022, 0.347264 in 2023, 0.364231 in 2024 and 2025, then 0.374088 in 2026.</li><li>Tyler ISD: 1.179300 in 2022, 0.960000 in 2023, 0.910000 in 2024, 0.845000 in 2025 and 0.835000 in 2026.</li><li>Tyler Junior College: 0.188001 in 2022, then 0.185068 in 2025 and 0.210312 in 2026.</li><li>City of Tyler: 0.261850 in 2022 and 0.242063 in 2026.</li></ul>\n<p>The statement you receive is the final word on your exact figure.</p>"
   },
   {
-   "h2": "Sales and lodging taxes",
-   "html": "<p>Tyler's sales tax rate is 8.25 percent. That splits into 6.25 percent for the State of Texas, 1 percent for the city's general fund, 0.5 percent for Tyler's One Half Cent Sales Tax Corporation and 0.5 percent for Smith County.</p>\n<p>Nightly rentals owe hotel occupancy tax and short-term rental tax, paid through the city's portal at tylertx.hdlgov.com. A house that was ever rented that way is worth a call to the city finance department before listing, to rule out unpaid occupancy tax.</p>"
+   "h2": "Sales and lodging tax",
+   "html": "<p>Sales tax in Tyler is 8.25 percent. The state takes 6.25 percent, the city's general fund 1 percent, Tyler's One Half Cent Sales Tax Corporation 0.5 percent and Smith County 0.5 percent.</p>\n<p>If the house ever hosted overnight guests, occupancy taxes were due through the city's portal at tylertx.hdlgov.com. The finance department can say whether any balance remains, so ask before you list.</p>"
   },
   {
-   "h2": "Tyler housing market",
-   "html": "<p>Tyler holds about 113,723 residents, 7.4 percent more than in 2020. Owners occupy 55.4 percent of homes, and the median value of those homes is $235,300. Rent runs a median $1,252 monthly. Owning costs $1,743 a month with a mortgage and $664 without. Moderate prices mean the school exemption takes a meaningful bite out of a typical bill.</p>"
+   "h2": "Tyler housing at a glance",
+   "html": "<p>Tyler's population reached 113,723 in mid 2025, a 7.4 percent gain on 2020. Owner-occupied homes have a midpoint value of $235,300, and 55.4 percent of homes are owner-occupied. Rent has a median of $1,252 a month, while owning costs $1,743 with a loan and $664 without.</p>"
   },
   {
-   "h2": "Payment calendar",
-   "html": "<p>Statements land in mailboxes near October 1. Paying any time before the end of January costs nothing extra, but a bill still open on February 1 is delinquent.</p>\n<p>The first day of delinquency adds 6 percent in penalty and 1 percent in interest. Another point of penalty arrives monthly, reaching 12 percent on July 1, and interest runs one percent per month. If a unit hires a collection attorney, up to 20 percent more can land on the account. A split is possible for some owners: half by November 30, the balance by June 30 the next year. The Smith County office can say whether you qualify.</p>"
+   "h2": "Due dates and penalties",
+   "html": "<p>Bills go out near October 1. You may pay as soon as one arrives, and no penalty applies until after January 31. Anything still open on February 1 counts as delinquent.</p>\n<p>Lateness costs a 6 percent penalty plus 1 percent interest at the start. Each following month adds a point of penalty until it stops at 12 percent on July 1, and interest runs at a point a month with no stop. Collection attorneys hired by a unit may charge up to 20 percent more. A two-payment plan exists for some homeowners, with half due November 30 and the rest June 30 of the next year. Ask the Smith County office if you qualify.</p>"
   },
   {
-   "h2": "Exemptions for Tyler homeowners",
-   "html": "<p>On the school side, a homestead loses $140,000 of value. Add $60,000 for owners who are 65 or older, or disabled. Send most exemption forms to the appraisal district before May 1.</p>\n<p>State law adds these protections for Tyler homes:</p>\n<ul><li>Appraised value on a residence homestead may climb at most 10 percent a year, counting from the year after it first qualifies.</li><li>A school-tax ceiling for seniors and disabled owners, which can follow them to a new Texas homestead.</li><li>A disabled veteran's exemption of $5,000, $7,500, $10,000 or $12,000 depending on rating, with the whole homestead exempt at 100 percent.</li></ul>\n<p>The city, county and college can each add a local exemption of their own. The Smith County Appraisal District keeps the current percentages.</p>"
+   "h2": "Homestead exemption and other relief",
+   "html": "<p>Each school district must exempt $140,000 of a homestead's value. Owners who are 65 or older, or disabled, receive $60,000 beyond that on the school district value. Most exemption filings are due at the appraisal district before May 1.</p>\n<p>Other state-level protections apply to Tyler homes too:</p>\n<ul><li>A residence homestead's appraised value cannot climb faster than 10 percent a year once you have qualified for a year.</li><li>A school-tax ceiling protects seniors and disabled owners and moves with them to another Texas homestead.</li><li>A disabled veteran receives $5,000, $7,500, $10,000 or $12,000 depending on rating, and one rated 100 percent disabled is fully exempt on the homestead.</li></ul>\n<p>Cities, counties and colleges may adopt local exemptions. Ask the Smith County Appraisal District for the current local percentages.</p>"
   },
   {
-   "h2": "Appealing the appraisal",
-   "html": "<p>If the appraisal looks high, the review board wants your protest by May 15, or a month after the notice reaches you, whichever is later. Notices for single-family homesteads are mailed about April 1, and hearings open in mid May.</p>\n<p>Unhappy with the ruling? Options include district court, binding arbitration, or a SOAH hearing if the board value tops $1,000,000. Keep paying: an appeal never pauses the bill, and you owe at least the undisputed tax by the delinquency date.</p>"
+   "h2": "How to protest your appraisal",
+   "html": "<p>File a protest with the appraisal review board by May 15, or within 30 days after you get your notice if that comes later. Homestead notices land near April 1, and hearings start around mid May.</p>\n<p>After a ruling you dislike, three paths remain: district court, binding arbitration, or a SOAH hearing when the board value tops $1,000,000. An appeal never pauses the bill, so pay at least the undisputed amount before it goes delinquent.</p>"
   },
   {
-   "h2": "Who pays what when Tyler closes",
-   "html": "<p>Tax for a given year secures itself against the house on January 1, and the person holding title that day is responsible. Dividing the bill between buyer and seller is a contract term.</p>\n<p>If you sell mid-year, obtain a written balance from the Smith County Tax Office ahead of closing. The title company deducts it from your proceeds. Cash deals run the same way, since back tax must be cleared before title passes.</p>\n<p>Nothing carries your exemption over to the buyer. If you had none, a buyer who closes after January 1 may still apply for the remainder of that year. Heirs without a recorded deed bring an ownership affidavit and a death certificate.</p>"
+   "h2": "Taxes when you sell a Tyler house",
+   "html": "<p>Each year's tax lien forms on January 1, and whoever owns the house on that day answers for the year's tax. Your sale contract assigns the shares at closing.</p>\n<p>If you sell during the year, request the balance due from the Smith County Tax Office in writing before closing. Your homestead exemption stays behind when you leave. If you never filed, the buyer can apply for the rest of that year after a closing past January 1, and heirs lacking a recorded deed submit an ownership affidavit with the death certificate.</p>\n<p>Back taxes will not stop you from selling. At closing the title company settles them out of your proceeds, and a cash buyer need not wait on a bank's appraisal. Collect your newest statement, request a payoff, and confirm which school district your parcel falls in so you can walk a buyer through the bill.</p>"
   },
   {
-   "h2": "Paperwork to gather",
-   "html": "<p>Title work moves faster when you have things ready. First, your latest Smith County statement, which breaks out each unit's charge and names your school district. Add proof of your homestead exemption, any protest paperwork, and the deed or ownership affidavit if the house came through an estate.</p>\n<p>Next, ask the tax office what this year's bill stands at. For a former nightly rental, clear any occupancy tax with the city. A cash buyer skips lender approval, though it will still want clear title, so the same payoffs apply. With these in hand you can compare a listing, a private sale and a cash offer on equal terms.</p>"
+   "h2": "A short checklist for Tyler sellers",
+   "html": "<p>Tyler bills stack four or five separate lines, so a buyer will want to see them broken out. Before you talk to anyone about price, work down this list.</p>\n<ol><li>Find the tax statement and circle the school district line.</li><li>Phone the county office on W. Front St. and ask for a payoff good through your expected closing date.</li><li>Check that a homestead exemption is on file, and ask the appraisal district what local exemptions apply.</li><li>Note whether you protested last spring and whether the appeal is still open.</li><li>Tell the title company about any short-term rental use, since occupancy tax belongs to the city rather than the county.</li></ol>\n<p>Having these answers in one folder helps whether you list the house or sell it for cash.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What does the city of Tyler charge?",
-   "a": "$0.242063 per $100 for 2026-2027, though county, junior college and school district rates are added to your full bill."
+   "q": "What is the City of Tyler property tax rate?",
+   "a": "The city rate is $0.242063 for 2026-2027, the same as the adopted 2026 figure in Smith County's table. Your full bill also includes county, junior college and school district rates."
   },
   {
-   "q": "Where do I pay?",
-   "a": "Go to the Smith County Tax Office, 1517 W. Front St., Tyler, phone (903) 590-2920. One office takes payment for the city and the rest of the county's jurisdictions."
+   "q": "Where do Tyler homeowners pay their tax?",
+   "a": "Pay the Smith County Tax Office at 1517 W. Front St., Tyler, or call (903) 590-2920. The county office collects for all taxing jurisdictions in Smith County, including the City of Tyler."
   },
   {
-   "q": "What day does a bill go delinquent?",
-   "a": "The morning of February 1, when the unpaid balance gains a 6 percent penalty and 1 percent interest."
+   "q": "When do Tyler property taxes become delinquent?",
+   "a": "February 1 for most bills. Payment is due by January 31, and unpaid tax on February 1 picks up a 6 percent penalty plus 1 percent interest."
   },
   {
    "q": "Is every Tyler address in Tyler ISD?",
-   "a": "No. A few properties within Tyler belong to Whitehouse ISD or Chapel Hill ISD. Your statement names your district."
+   "a": "No. Some properties inside Tyler are in Whitehouse ISD or Chapel Hill ISD. Check your tax statement to see which school district rate applies."
   },
   {
-   "q": "What exemption comes with a Tyler homestead?",
-   "a": "$140,000 comes off the value for school taxes, and seniors or disabled owners get a further $60,000. The appraisal district can quote the city and county exemptions."
+   "q": "How much is the homestead exemption in Tyler?",
+   "a": "School districts must give $140,000 off a residence homestead's value, plus $60,000 more for seniors or disabled owners. Ask the Smith County Appraisal District about local exemption amounts for the city and county."
   }
  ],
  "sources": [

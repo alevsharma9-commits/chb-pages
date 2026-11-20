@@ -2,50 +2,46 @@
  "slug": "arlington-county-va-property-tax-guide",
  "sections": [
   {
-   "h2": "Arlington County at a glance",
-   "html": "<p>Arlington is a compact, fully urban county facing Washington, D.C. over the Potomac. It covers about 26 square miles and counted 238,643 residents in 2020. Fairfax County, the City of Falls Church and the City of Alexandria border it, and no separate towns sit inside it.</p><p>Four Metro lines (Orange, Blue, Silver and Yellow) plus Interstates 395 and 66 serve the county. Shoppers think in neighborhoods: Rosslyn, Clarendon, Ballston, Pentagon City and Court House come up most. Every parcel is valued as of January 1, which makes the number on your January notice the place to begin with any tax question.</p>"
+   "h2": "Arlington at a glance",
+   "html": "<p>Arlington is a small, fully urban county directly across the Potomac River from Washington, D.C. It covers about 26 square miles and borders Fairfax County, the City of Falls Church and the City of Alexandria. The 2020 census counted 238,643 residents.</p><p>Rosslyn, Clarendon, Ballston, Pentagon City and Court House are the neighborhoods people name most often. Four Metro lines (Orange, Blue, Silver and Yellow) serve the county, and Interstates 395 and 66 cross it. Arlington assesses every parcel as of January 1 each year, so the number on your notice is the starting point for any question about your tax, wherever the house sits.</p>"
   },
   {
    "h2": "Due dates and penalties",
-   "html": "<p>Real estate tax is billed in two equal halves. The first half is due June 15 and the second October 5. A payment made the next business day escapes the late penalty if the date falls on a weekend or holiday. State code puts the burden of knowing the dates on you, and a missing bill is no defense.</p><ul><li>Escrow accounts mean your lender pays and no bill comes, unless the Treasurer's Office never receives the lender's payment.</li><li>If you sold and the buyer now owns the house, mail the bill back to the Treasurer's Office with whatever you know about the new owner.</li><li>Billing address changes go in writing to the Department of Real Estate Assessments.</li></ul><p>State law sets the outer limits on late charges: a penalty up to 10 percent of the overdue tax (or $10, whichever is higher) and interest up to 10 percent a year.</p>"
+   "html": "<p>Arlington bills real estate tax in two equal installments. When a due date lands on a weekend or holiday, paying on the next business day keeps you clear of the penalty.</p><table><thead><tr><th>Installment</th><th>Due date</th><th>If paid late</th></tr></thead><tbody><tr><td>First half</td><td>June 15</td><td>State cap: 10 percent penalty, 10 percent yearly interest</td></tr><tr><td>Second half</td><td>October 5</td><td>State cap: 10 percent penalty, 10 percent yearly interest</td></tr></tbody></table><p>Virginia law puts the burden on you to know the dates. A missing bill is no defense for paying late. A few cases come up often:</p><ul><li>Escrow accounts: your lender pays, and you hear from the Treasurer's Office only if that payment never arrives.</li><li>Already sold: if a bill for the old address reaches you after the buyer took over, return it to the Treasurer's Office along with whatever you know about the new owner.</li><li>Moving: send your new billing address to the Department of Real Estate Assessments in writing.</li></ul>"
   },
   {
-   "h2": "The Arlington real estate tax rate",
-   "html": "<p>The rate for calendar year 2025 was $1.033 per $100 of assessed value. Commercial property, including office buildings and hotels, carries an extra $0.125 per $100. The County Board sets the rate each April, so a later year can differ. Use the figure on your current bill rather than a number you find elsewhere.</p>"
+   "h2": "The real estate tax rate",
+   "html": "<p>For calendar year 2025 the rate was $1.033 per $100 of assessed value. Commercial property, such as office buildings and hotels, pays an extra $0.125 per $100. The County Board sets the rate each April, and a later year's rate may differ, so use the figure printed on your current bill.</p><p>A buyer's lender will look at your assessed value and this rate to size the yearly tax. Check both before you set an asking price, and ask the Department of Real Estate Assessments if anything on the notice is unclear.</p>"
   },
   {
-   "h2": "How Arlington values your house",
-   "html": "<p>New assessments take effect as of January 1 and are mailed and posted online each January. Fair market value, in the county's words, is the price a property would bring in a normal sale.</p><p>The county looks at a 12-month stretch of sales that begins 16 months before the effective date. For 2026 that stretch ran from September 1, 2024 through August 31, 2025. Since every sale in a neighborhood goes into the study, one odd sale moves your value only a little. A recent sale of your own house still counts, but as one data point among many.</p><p>Before listing, go through the notice carefully. Floor area, room counts and lot size should match the house. A wrong detail in the record is the simplest thing to correct with the neighborhood appraiser, and a corrected record means a fairer bill for whoever owns the house next.</p>"
+   "h2": "How Arlington assesses your house",
+   "html": "<p>Assessments take effect as of January 1 each year and are mailed and posted online each January. The county defines fair market value as what the property would bring in a normal sale.</p><p>The county uses a 12-month sales period that starts 16 months before the effective date. It studies all the sales in a neighborhood, so a single sale has only a diluted effect on your value. If your neighbor's house sold for far more or less than yours is assessed, that one sale alone will not move your number much.</p><p>When you are getting ready to sell, set the assessed value next to what local agents think a buyer will pay. A large gap either way is a reason to phone the assessment office.</p>"
   },
   {
    "h2": "How to appeal your assessment",
-   "html": "<p>Arlington offers four levels of appeal, and some can be skipped. Deadlines differ at each.</p><table><thead><tr><th>Appeal step</th><th>Where to go</th><th>Timing</th></tr></thead><tbody><tr><td>Informal talk</td><td>Neighborhood appraiser, 703-228-3920 or assessments@arlingtonva.us</td><td>Before you file anything</td></tr><tr><td>Department Review Request</td><td>Department of Real Estate Assessments</td><td>Early March: use the date printed on your notice</td></tr><tr><td>Board of Equalization</td><td>Seven county residents, appointed annually</td><td>April 15</td></tr><tr><td>Circuit Court</td><td>1425 North Courthouse Road, 703-228-7010</td><td>Final option</td></tr></tbody></table><p>If April 1 arrives with no determination letter, file the Board of Equalization appeal anyway to protect your place. Going directly to the board is allowed, and it operates independently of the assessment office.</p>"
+   "html": "<p>There are four steps, and you can skip some of them. Each has its own deadline.</p><ul><li>Start by speaking with a neighborhood appraiser at 703-228-3920 or assessments@arlingtonva.us.</li><li>File a Department Review Request. The county gives March 1 in one place and March 2 in another, so use the date printed on your notice.</li><li>The Board of Equalization takes filings through April 15. Its seven members are county residents appointed each year, and it operates apart from the assessment office.</li><li>Sue in Circuit Court at 1425 North Courthouse Road, phone 703-228-7010, which is the final option.</li></ul><p>No determination letter by April 1? File with the board anyway so you do not lose the option. Going straight to the board, with no department review first, is also allowed. A review can lower the value, confirm it or raise it.</p><p>A department review begins when an appraiser calls to set up an inspection, normally of the interior and exterior with a second appraiser along. The appraiser writes a recommendation, a supervisor reviews it, and the Director of Real Estate Assessments makes the final call, with written notice by mail or email. Declining the inspection, or withdrawing, is allowed, but the review then relies on the records the county already holds. A person filing on your behalf needs your signed letter of authorization.</p>"
   },
   {
-   "h2": "What a department review looks like",
-   "html": "<p>An appraiser calls to set up an inspection, usually of the inside and outside with a second appraiser along. The appraiser writes a recommendation, a supervisor reviews it, and the Director of Real Estate Assessments decides. You are told the outcome by mail or email. A review can lower the value, leave it alone or raise it, so back your case with comparable sales.</p><p>You can withdraw, or turn down the inspection, but then the review proceeds on the information the county already holds. When another person files on your behalf, the county wants a signed letter of authorization from the owner.</p>"
+   "h2": "Tax relief for seniors and disabled owners",
+   "html": "<p>Through its Real Estate Tax Relief Program, the county offers an exemption or a deferral to owners aged 65 and up, and to owners who are totally and permanently disabled. The filing deadline is November 15.</p><p>The county listed 2025 limits of annual income up to $105,937 and assets, not counting the home, up to $499,709 for an exemption or $674,606 for a deferral. A separate exemption covers a veteran rated 100 percent disabled by a permanent, total, service-connected condition, and a surviving spouse may qualify. The limits get revised, so check with the county before you file.</p>"
   },
   {
-   "h2": "Tax relief for older and disabled owners",
-   "html": "<p>The Real Estate Tax Relief Program gives an exemption or a deferral to homeowners 65 and older and to owners who are totally and permanently disabled. Applications are due November 15, and a call to the county will confirm the date for the current cycle.</p><p>The county posted 2025 limits of annual income up to $105,937 and assets, leaving out the home, up to $499,709 for an exemption or $674,606 for a deferral. One more exemption is aimed at owners rated 100 percent service-connected, permanent and total, and a surviving spouse may also qualify. These limits are reset over time, so verify them before filing.</p>"
+   "h2": "What happens to the tax bill when you sell?",
+   "html": "<p>Decide who owes what at the closing table. The Treasurer's Office expects the tax responsibility to be sorted out at settlement, and your settlement attorney can walk you through it.</p><p>Unpaid tax attaches to the property itself under Virginia Code section 58.1-3340 and stands first in line among liens. Your sale contract decides how the current year's bill is split. The state ceiling on a late penalty is 10 percent of the overdue tax or $10, whichever is larger, and the interest ceiling is 10 percent a year.</p><p>Deed costs are separate. The grantor tax in section 58.1-802 runs 50 cents per $500 and usually falls to the seller. The state recordation tax in section 58.1-801 is 25 cents per $100.</p><p>In order: find out from the Treasurer's Office what is paid and what is open, hand your settlement attorney the installment dates, and get the final split on paper before closing.</p>"
   },
   {
-   "h2": "Selling with taxes owed",
-   "html": "<p>Work out who pays what before you reach the closing table. The Treasurer's Office tells owners to settle responsibility for the tax in the sale settlement, and the settlement attorney can explain how your contract handles it.</p><p>Virginia Code section 58.1-3340 makes the tax a lien on the real estate, ahead of other liens until paid, and the seller's share of the year is prorated by contract. For the deed itself, section 58.1-802 puts a grantor tax of fifty cents for every $500 of value on the seller in most deals, while section 58.1-801 sets the state recordation tax at 25 cents per $100.</p><p>Ask the Treasurer for a payoff figure ahead of closing, and hand the paid receipt to the title company. If the buyer is taking over the bill, make sure the paperwork says so.</p>"
+   "h2": "Before you list: a short checklist",
+   "html": "<p>Collect your January assessment notice, your most recent bill and your mortgage servicer's name. If the value looks wrong, phone the Department of Real Estate Assessments at 703-228-3920, and remember April 15 if you plan to contest it at the board. Confirm with the Treasurer's Office which installments are paid so the year can be prorated correctly.</p><p>If you are 65 or older, or totally and permanently disabled, ask whether the relief program applies to you. An exemption or deferral affects what the next owner takes on.</p>"
   },
   {
-   "h2": "Steps for an Arlington seller",
-   "html": "<ol><li>Read the January 1 value on your notice and compare it with the house.</li><li>Call the neighborhood appraiser at 703-228-3920 if anything in the record looks wrong.</li><li>Check which installments you have paid, since the June 15 and October 5 dates can fall on either side of a listing.</li><li>Ask the settlement attorney how the year's tax will be split.</li><li>Get a payoff figure from the Treasurer before you sign closing papers.</li></ol>"
-  },
-  {
-   "h2": "When does a cash sale make sense in Arlington?",
-   "html": "<p>Cash can be the simpler route when a house needs repairs you would rather not fund, when taxes or a mortgage have slipped behind, or when you are moving away on a tight schedule. Two bills a year means a missed June or October installment can build quickly on a vacant house.</p><p>Measure any offer, ours included, against the county's January 1 value on your notice. We purchase houses in their current condition and put the offer in writing. Reach us by phone or text with the street address, and we will tell you what we can pay and how fast we can close.</p>"
+   "h2": "Selling for cash",
+   "html": "<p>Some Arlington owners skip the listing process. The usual reasons: repairs they would rather not fund, tax or a loan running behind, or a move on a short clock. With two installments a year, a missed June or October payment can pile up fast on a vacant house.</p><p>Cash Home Buyers makes written cash offers on houses in their current condition, so nothing needs fixing first and there are no open houses. Send the address by call or text. Hold any offer, ours included, up against the January 1 value on your notice before you decide.</p>"
   }
  ],
  "faqs": [
   {
    "q": "When are Arlington County real estate taxes due?",
-   "a": "June 15 and October 5. Paying on the next business day avoids the penalty when a date falls on a weekend or holiday."
+   "a": "June 15 and October 5. If a date falls on a weekend or holiday, paying the next business day avoids the penalty."
   },
   {
    "q": "What was Arlington's real estate tax rate for 2025?",
@@ -57,11 +53,11 @@
   },
   {
    "q": "Who do I call about my Arlington assessment?",
-   "a": "The Department of Real Estate Assessments at 703-228-3920, at 2100 Clarendon Blvd, Suite 502. Hours are Monday through Friday, 8 a.m. to 5 p.m., and meetings are by appointment."
+   "a": "The Department of Real Estate Assessments at 703-228-3920, at 2100 Clarendon Blvd, Suite 502, open Monday through Friday from 8 a.m. to 5 p.m. Meetings are by appointment."
   },
   {
    "q": "Can I get tax relief in Arlington if I am over 65?",
-   "a": "Possibly. The Real Estate Tax Relief Program covers owners 65 and older and owners who are totally and permanently disabled, within income and asset limits. The filing deadline is November 15."
+   "a": "Possibly. The Real Estate Tax Relief Program covers owners 65 and older and those totally and permanently disabled, subject to income and asset limits. The filing deadline is November 15."
   }
  ],
  "sources": [

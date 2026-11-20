@@ -3,65 +3,53 @@
  "sections": [
   {
    "h2": "Wasatch County at a glance",
-   "html": "<p>North central Utah holds Wasatch County, built around Heber Valley, a mountain-ringed basin on the Wasatch Back. Of its 1,206 square miles, 30 are water. Heber City is both seat and biggest city, and Midway and a piece of Park City also fall inside the line.</p>\n<p>The county counted 34,788 people in 2020 and about 38,514 today, against 8,523 in 1980, and the 2020 figure ran 47.8% above 2010. Of 11,040 households in 2020, 76.3% were owner-occupied. Heber City sits at 5,601 feet and had 16,856 residents in 2020, and Midway had 6,003. About 27% of Heber City residents commute to Park City or Salt Lake City.</p>\n<p>Some Midway subdivisions require a share of Swiss-style features on new houses. If you inherit or list a home there, ask about any subdivision design rules.</p>"
+   "html": "<p>Heber Valley, a basin ringed by mountains on the Wasatch Back, is the heart of Wasatch County in north central Utah. Heber City serves as seat and biggest city. Midway is here too, along with a piece of Park City. Neighbors are Salt Lake, Summit, Duchesne and Utah counties, and over half the land lies above 7,500 feet.</p>\n<p>The population was 8,523 in 1980, 34,788 in 2020 and about 38,514 in the 2025 estimate, and the 2020 count was 47.8% above the 2010 count. About 76.3% of households own their home. Heber City, 43 miles southeast of Salt Lake City at 5,601 feet, had 16,856 residents in 2020, and about 27% of them commute to Park City or Salt Lake City. Midway had 6,003 residents. Some Midway subdivisions require a share of Swiss-style features on new houses, so ask about design rules if you inherit or list a home there.</p>"
+  },
+  {
+   "h2": "Winters and your house",
+   "html": "<p>Long, snowy winters mean buyers look first at the roof, the furnace and exposed pipes. Heber City gets about 75 inches of snow a year over roughly 29 snowy days, with January and December the heaviest months at 21.5 and 17.8 inches. The average January high is 36.5 degrees and the average January low is 12.5, the record low is minus 38, and the average July high is near 89.5.</p>\n<p>Snow is not a flaw. Still, an inspector can easily spot postponed roof, gutter or heating work on an older Heber Valley house. If the house needs that work and you would rather not pay for it first, an as-is cash purchase is a common answer.</p>"
+  },
+  {
+   "h2": "Who runs property tax in Wasatch County",
+   "html": "<p>Three offices split the work. The assessor sets values, the clerk/auditor calculates rates and handles value appeals, and the treasurer collects payment. The county council doubles as the Board of Equalization that rules on those appeals.</p>\n<p>Utah taxes property at 100% of fair market value as of January 1. If you occupy the home for 183 or more consecutive days in the year, a 45% primary residence exemption applies. Farmland that qualifies can be valued by what it produces, with greenbelt applications due May 1. Before a taxing entity can raise the revenue it collects, it has to hold a public hearing, and individual rates shift when county-wide values shift. The county's <a href=\"https://wasatchcounty.gov/UtahPropertyTaxSystem\">property tax system page</a> explains the system in full.</p>"
   },
   {
    "h2": "Property tax calendar",
-   "html": "<table><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Valuation date</td></tr><tr><td>January 31</td><td>Urban farming renewals due</td></tr><tr><td>May 1</td><td>Greenbelt applications due</td></tr><tr><td>May 22</td><td>Real property assessment roll closes</td></tr><tr><td>July 22</td><td>Valuation notices mailed by the clerk/auditor</td></tr><tr><td>August 1 to September 15</td><td>Board of Equalization accepts value appeals</td></tr><tr><td>October 30</td><td>Tax notices mailed by the treasurer</td></tr><tr><td>November 30</td><td>Payment due</td></tr><tr><td>December 1 to 31</td><td>Hearings on tax increases for calendar-budget entities</td></tr></tbody></table>"
-  },
-  {
-   "h2": "Who handles property tax",
-   "html": "<p>Responsibility is divided among three offices: the assessor puts a value on each parcel, the clerk/auditor sets rates and receives valuation appeals, and the treasurer collects payment. Value appeals are heard by the county council in its role as the Board of Equalization.</p>\n<p>Property is assessed at 100% of fair market value as of January 1. Live in a home 183 or more consecutive days of the year and 45% of its value is exempt as a primary residence. Farmland that qualifies can be assessed on what it produces, with greenbelt applications due May 1.</p>\n<p>Since the Truth in Taxation law of 1985, the system has been tied to revenue. A taxing entity that wants to collect more has to hold a public hearing first, and individual rates shift when county-wide values shift. The county's <a href=\"https://wasatchcounty.gov/UtahPropertyTaxSystem\">property tax system page</a> has the official detail.</p>"
+   "html": "<p>Valuation happens January 1 and the cycle ends with tax hearings in December.</p>\n<table><thead><tr><th>Date</th><th>Event</th></tr></thead><tbody><tr><td>January 1</td><td>Valuation date</td></tr><tr><td>January 31</td><td>Urban farming renewals due</td></tr><tr><td>May 1</td><td>Greenbelt applications due</td></tr><tr><td>May 22</td><td>Real property assessment roll closes</td></tr><tr><td>July 22</td><td>Valuation notices mailed by the clerk/auditor</td></tr><tr><td>August 1 to September 15</td><td>Board of Equalization takes value appeals</td></tr><tr><td>October 30</td><td>Tax notices mailed by the treasurer</td></tr><tr><td>November 30</td><td>Payment due</td></tr><tr><td>December 1 to 31</td><td>Hearings on tax increases for calendar-budget entities</td></tr></tbody></table>\n<p>Read the July valuation notice closely each year, since it is your first look at the new value. If the number looks wrong, the appeal window runs from August 1 to September 15, so do not let the notice sit in a pile of mail. A seller who appeals before listing may also give buyers a lower, better supported tax figure.</p>"
   },
   {
    "h2": "Paying, and what late costs",
-   "html": "<p>Mail a payment with a postmark of November 30 or earlier and there is no penalty. Online payments go through Instant Payments, and credit cards are not accepted.</p>\n<ul>\n<li>Payments received December 1 through January 31 carry a 1% penalty.</li>\n<li>Payments postmarked after January 31 carry a 2.5% penalty plus interest back to January 1.</li>\n<li>Checks go to Wasatch County Treasurer, 25 N. Main, Heber City, UT 84032, with the parcel number written on them.</li>\n</ul>\n<p>The office is open 8:00 a.m. to 5:00 p.m., Monday through Friday, at (435) 657-3218. Ask your mortgage company whether it is paying the tax, a detail that is easy to lose track of after a refinance or a loan sale.</p>\n<p>A delinquent multiyear listing is posted by the treasurer and refreshed weekly. Since interest keeps running, payoff numbers move every day, so call (435) 657-3217 for the exact figure.</p>"
+   "html": "<p>Mail a payment postmarked on or before November 30 and there is no penalty. The treasurer accepts online payment through Instant Payments but no credit cards.</p>\n<ul>\n<li>A payment received between December 1 and January 31 draws a 1% penalty.</li>\n<li>A payment postmarked after January 31 draws a 2.5% penalty plus interest back to January 1.</li>\n<li>Make checks out to Wasatch County Treasurer, mail them to 25 N. Main, Heber City, UT 84032, and write the parcel number on the check.</li>\n</ul>\n<p>Walk-in hours are 8:00 a.m. to 5:00 p.m. on weekdays, and the main line is (435) 657-3218. Ask your mortgage company whether it pays the tax for you. People often lose track of that after a refinance or a sale of the loan.</p>\n<p>An updated list of multiyear delinquent accounts goes up on the county site every week. Interest accrues all the time, so a payoff figure changes daily. For the exact number, call (435) 657-3217.</p>"
   },
   {
-   "h2": "How to appeal a valuation",
-   "html": "<p>Applications reach the clerk/auditor by 5 p.m. on September 15, either through the website or at 25 North Main Street in Heber City. The statutory deadline is whichever comes later, September 15 or 45 days after notice, and the board then has 60 days to rule.</p>\n<p>The county denies applications that arrive without evidence of your value estimate. Parcels with the same owner in the same general area can share one appeal, but each needs its own proof. Call the clerk/auditor at (435) 657-3190 with questions.</p>\n<p>Not satisfied with the board's decision? A second appeal goes to the Utah State Tax Commission on Form TC-194, filed through the county auditor within 30 days. The statute is <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/C59-2-S1004_2026010120250507.html\">Utah Code 59-2-1004</a>.</p>"
+   "h2": "How to appeal your valuation",
+   "html": "<p>Get your appeal to the clerk/auditor by 5 p.m. on September 15. You can file online or at 25 North Main Street in Heber City. The state rule is the later of September 15 or 45 days after notice from the county, and the county board then has 60 days to decide.</p>\n<p>Attach proof. The county denies any application that lacks evidence of your own value estimate. Parcels can be combined in one appeal when the owner is the same and they lie in the same general area, though every parcel needs its own supporting evidence. You can reach the clerk/auditor at (435) 657-3190.</p>\n<p>When the board's decision goes against you, the Utah State Tax Commission hears a further appeal. File Form TC-194 with the county auditor within 30 days of the county's decision. The governing statute is <a href=\"https://le.utah.gov/xcode/Title59/Chapter2/C59-2-S1004_2026010120250507.html\">Utah Code 59-2-1004</a>.</p>"
   },
   {
-   "h2": "Snow and the house",
-   "html": "<p>Long, snowy winters send a buyer's eyes straight to the roof, furnace and exposed pipes. About 75 inches of snow fall on Heber City in a year, spread over roughly 29 snowy days, with January at 21.5 inches and December at 17.8.</p>\n<p>The average January high is 36.5 degrees and the low 12.5, and the record low is minus 38. July highs average near 89.5 degrees, and annual precipitation is about 15 inches.</p>\n<p>Snow is no defect, but overdue roof, gutter or heating work on an older Heber Valley house is easy for an inspector to find. Owners who do not want to pay for it first often choose an as-is cash sale.</p>"
-  },
-  {
-   "h2": "Taxes when you sell",
-   "html": "<p>Before you sign a contract, get a payoff from the treasurer and compare it to the closing statement. The weekly delinquent listing shows quickly whether your parcel appears.</p>\n<ul>\n<li>Find your latest tax notice and the July valuation notice.</li>\n<li>Check with the mortgage servicer on whether escrow already covered this year's bill.</li>\n<li>Phone (435) 657-3217 for a payoff figure on closing day.</li>\n<li>Give the treasurer a current mailing address if the house is vacant or seasonal.</li>\n</ul>\n<p>If back taxes, deferred repairs or the cost of carrying a second home are why you want out, we buy houses in Wasatch County as-is and can work around those problems.</p>"
-  },
-  {
-   "h2": "How a closing handles the tax",
-   "html": "<p>At closing the title company takes the payoff out of your proceeds and sends it to the treasurer. Where you have already paid the year's bill, the settlement statement credits you for the months after closing. Where you have not, your share comes out of the sale. Bring the tax notice so the parcel number matches on every paper.</p>\n<p>For a seasonal home, remember that notices go to the mailing address on file. A stale mailing address is how a small balance turns into a delinquent one.</p>"
-  },
-  {
-   "h2": "What to gather before you list",
-   "html": "<p>Start with three papers: the deed, the newest tax notice and the July valuation notice. Add anything that shows past repairs to the roof, furnace or plumbing. Write down your parcel number and keep it on the first page of the folder, since every county office will ask for it. If a mortgage company has been paying the tax, request its latest payment record so there are no surprises on the settlement statement.</p>"
-  },
-  {
-   "h2": "Questions to ask before choosing a sale route",
-   "html": "<p>Decide how soon you must close, what repairs a buyer would expect and whether the house could pass a lender's appraisal. Listing suits a well-kept house when time is on your side. Cash suits a house that needs work, a tax balance that is behind, or an owner too far away to manage showings through long snowy winters.</p>"
+   "h2": "Taxes when you sell a Wasatch County house",
+   "html": "<p>Request the payoff from the treasurer before you sign anything, and compare it with the closing statement. The weekly delinquent listing is the fastest way to see whether your parcel is on it.</p>\n<ul>\n<li>Pull your latest tax notice and the July valuation notice.</li>\n<li>Ask the mortgage servicer if an escrow account already covered this year.</li>\n<li>Call (435) 657-3217 on the day you plan to close and get the current payoff.</li>\n<li>For an empty house or seasonal home, update the mailing address so notices find you.</li>\n</ul>\n<p>Back taxes, deferred repairs or the cost of carrying a second home are common reasons people want out. We buy houses in Wasatch County as-is and can work around all of them. Any tax balance comes out of your proceeds at closing, so you need no cash up front, and you can read the payoff figure before agreeing to a sale.</p>\n<p>A cash sale also removes the usual list of listing chores: no showings, no staging, and no waiting on a buyer's lender. You pick the closing date, and the title company handles the tax split and the deed.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the Wasatch County property tax due date?",
-   "a": "November 30. A payment postmarked by then has no penalty, and tax notices are mailed October 30. What you owe depends on your assessed value and the combined rate of the taxing entities serving your address."
+   "q": "How much is Wasatch County property tax due and when?",
+   "a": "The due date is November 30, and anything postmarked by then is penalty-free. Tax notices are mailed on October 30. The amount depends on your assessed value and the combined rate of every taxing entity that covers your address."
   },
   {
    "q": "Does Wasatch County give a break for a primary residence?",
-   "a": "Yes, a 45% exemption applies to a home where you live 183 or more consecutive days in a year. The county wants exemption forms at the Assessor's Office before June."
+   "a": "Yes. Utah applies a 45% exemption to a home you occupy for 183 or more consecutive days in a year. Send residential exemption forms to the Assessor's Office before June."
   },
   {
-   "q": "When can I appeal my Wasatch County property value?",
-   "a": "From August 1 through September 15, with a 5 p.m. cutoff on the last day. Include your own value estimate and supporting evidence, and file online or at 25 North Main Street in Heber City."
+   "q": "When is the deadline to appeal my Wasatch County property value?",
+   "a": "The county board accepts appeals from August 1 through September 15 at 5 p.m. Evidence of your own value estimate has to arrive with the form. File online or at the clerk/auditor's office at 25 North Main Street in Heber City."
   },
   {
    "q": "Can I pay Wasatch County property tax by credit card?",
-   "a": "No. Pay online through Instant Payments, mail a check to 25 N. Main in Heber City, or visit the office on a weekday from 8:00 a.m. to 5:00 p.m."
+   "a": "No. You can pay online through Instant Payments, mail a check to 25 N. Main, Heber City, or visit the office on a weekday between 8:00 a.m. and 5:00 p.m."
   },
   {
    "q": "Can I sell a Wasatch County house if the taxes are unpaid?",
-   "a": "Usually. The treasurer gives you a payoff amount at (435) 657-3217, and the title company pays it from your proceeds. A tax balance will not keep us from making an offer on a house here."
+   "a": "In most cases, yes. Get the payoff amount from the treasurer at (435) 657-3217, and pay it from the proceeds at closing. We buy houses in Wasatch County as-is, so a tax balance does not stop us from making an offer."
   }
  ],
  "sources": [
