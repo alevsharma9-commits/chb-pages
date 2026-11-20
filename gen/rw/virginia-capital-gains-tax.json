@@ -2,62 +2,62 @@
  "slug": "virginia-capital-gains-tax",
  "sections": [
   {
-   "h2": "Does Virginia tax capital gains on a house sale?",
-   "html": "<p>Virginia has no separate capital gains tax. Gain from a sale is reported on the state income tax return alongside everything else, and it is taxed at the ordinary state income tax rates.</p><p>Those rates are set in Code of Virginia 58.1-320. For taxable years beginning in 1990 and later, the statute taxes Virginia taxable income at 2% up to $3,000, 3% from $3,000 to $5,000, 5% from $5,000 to $17,000, and 5.75% above $17,000. The Tax Commissioner ruling quoted earlier on this page explains that Virginia starts from federal adjusted gross income and follows the federal exclusion for a principal residence.</p><p>In practice that means the first question for a Virginia seller is the federal one. If the federal return excludes the gain, that same excluded amount is the starting point for the Virginia return.</p><table><thead><tr><th>Item</th><th>What the source says</th><th>Source</th></tr></thead><tbody><tr><td>Virginia rate, first $3,000</td><td>2%</td><td>Code 58.1-320</td></tr><tr><td>Virginia rate, $3,000 to $5,000</td><td>3%</td><td>Code 58.1-320</td></tr><tr><td>Virginia rate, $5,000 to $17,000</td><td>5%</td><td>Code 58.1-320</td></tr><tr><td>Virginia rate above $17,000</td><td>5.75%</td><td>Code 58.1-320</td></tr><tr><td>Federal home sale exclusion</td><td>Up to $250,000, or $500,000 on a joint return</td><td>IRS Topic 701</td></tr></tbody></table>"
+   "h2": "Virginia tax on a home sale profit",
+   "html": "<p>Capital gains get no special treatment in Virginia. Whatever you clear on the house is added to your Virginia return and run through the normal brackets.</p><p>Code of Virginia 58.1-320 sets those rates: 2% up to $3,000, 3% from $3,000 to $5,000, 5% from $5,000 to $17,000, and 5.75% above $17,000. Virginia's return opens with federal adjusted gross income, which means the federal main-home break flows through.</p><p>That makes the federal answer the one to get first. Whatever your federal return excludes carries over as the starting point on the Virginia return.</p><table><thead><tr><th>Tax or exclusion</th><th>Rate or limit</th></tr></thead><tbody><tr><td>Virginia rate, first $3,000</td><td>2%</td></tr><tr><td>Virginia rate, $3,000 to $5,000</td><td>3%</td></tr><tr><td>Virginia rate, $5,000 to $17,000</td><td>5%</td></tr><tr><td>Virginia rate above $17,000</td><td>5.75%</td></tr><tr><td>Federal home sale exclusion</td><td>$250,000 for one filer, $500,000 for a joint return</td></tr></tbody></table>"
   },
   {
-   "h2": "Who qualifies for the $250,000 or $500,000 federal exclusion?",
-   "html": "<p>You qualify when you owned the home and lived in it as your main residence for at least 24 months of the five years before the sale. The IRS calls these the ownership test and the use test, and the two years do not have to be the same two years or consecutive.</p><p>On a joint return, either spouse can meet the ownership test, but both spouses must meet the use test on their own. The IRS also says you generally cannot take the exclusion if you excluded gain from another home sale in the two years before this one.</p><ul><li>Own the home for at least 24 months out of the last 5 years.</li><li>Live in it as your main home for at least 24 months of the last 5 years.</li><li>Have not used the exclusion on a different home sale in the previous two years.</li><li>Military, Foreign Service, and intelligence community members on qualified extended duty may suspend the five-year period for up to 10 years.</li></ul><p>IRS Publication 523, Selling Your Home, holds the full worksheets and the exceptions to the two-year rule.</p>"
+   "h2": "Federal exclusion eligibility",
+   "html": "<p>Qualifying takes 24 months of ownership and 24 months of living there as your primary home, both measured inside the five years that end on the closing date. Those months can come from different periods and don't need to be consecutive.</p><p>On a joint return one spouse can supply the ownership months, but each spouse must separately have the living months. Using the exclusion on a different house during the previous two years usually shuts it off.</p><ul><li>Ownership months: 24 within the last 5 years.</li><li>Primary-residence months: 24 within the last 5 years.</li><li>No exclusion claimed on another sale in the past two years.</li><li>Extended-duty members of the military, Foreign Service or intelligence community can suspend the five-year count for up to 10 years.</li></ul><p>For worksheets and exceptions, see IRS Publication 523, Selling Your Home.</p>"
   },
   {
-   "h2": "What if I owned the house as a rental or an investment?",
-   "html": "<p>Then the home sale exclusion usually does not apply, and the gain is taxed as capital gain. A house you held for more than one year gives a long-term gain, and one you held for a year or less gives a short-term gain that is taxed as ordinary income.</p><p>For 2025, the IRS says the rate on most net capital gain is no higher than 15% for most individuals. The 0% rate applies up to $48,350 of taxable income for single filers and $96,700 for joint filers. The 15% rate runs up to $533,400 for single filers and $600,050 for joint filers, and 20% applies above those levels.</p><p>Two other federal points matter to landlords. The part of a gain that is unrecaptured section 1250 gain is taxed at a maximum rate of 25%. Higher earners may also owe the net investment income tax, which the IRS covers in Topic 559.</p><p>These federal rates stack on top of the Virginia rates above, because Virginia taxes the gain as income.</p>"
+   "h2": "Rental and investment houses",
+   "html": "<p>Rentals and investment houses usually can't use the home sale exclusion, which leaves a taxable capital gain. If you held the property over a year the gain is long-term; at a year or less it is short-term and taxed at ordinary income rates.</p><p>For 2025 the long-term federal rate has three steps. It is 0% on taxable income up to $48,350 for single filers and $96,700 for joint filers, 15% from there to $533,400 single or $600,050 joint, and 20% beyond.</p><p>Landlords should know two more federal items. The slice of gain that comes from depreciation, called unrecaptured section 1250 gain, tops out at a 25% rate. Higher-income sellers may also face the net investment income tax (IRS Topic 559).</p><p>These federal rates stack on top of the Virginia rates above, because Virginia taxes the gain as income.</p>"
   },
   {
-   "h2": "How do I figure my gain?",
-   "html": "<p>Gain equals the amount you realized from the sale minus your adjusted basis. Basis is generally what you paid, including purchase costs, plus improvements that add to the property's value and minus items like depreciation and insurance reimbursements for casualty losses.</p><p>Keep records of roofs, additions, kitchens, and anything else that adds to value, because they raise basis and shrink the gain. A loss on the sale of your personal home is not deductible, according to the IRS.</p><ul><li>Start with the contract price and the settlement statement.</li><li>Add documented capital improvements to your original cost.</li><li>Subtract depreciation if any part of the house was a rental.</li><li>Compare the result with the $250,000 or $500,000 limit.</li></ul><p>If you received the house as a gift or inheritance, your basis is not figured the usual way. The IRS points to Publication 551, Basis of Assets, for those cases, so read it before you assume a number.</p>"
+   "h2": "Working out your gain",
+   "html": "<p>The formula is simple: amount realized minus adjusted basis. Your basis begins at the purchase price plus buying costs, rises for value-adding improvements, and falls for depreciation and casualty insurance payouts.</p><p>Hang on to receipts for roofs, additions and remodels, since each raises basis and cuts the taxable gain. If you sell your own home at a loss, there is no deduction.</p><ul><li>Start from the contract price and settlement statement.</li><li>Raise your cost by documented capital improvements.</li><li>Lower it by depreciation if any part was rented out.</li><li>Compare what remains with the $250,000 or $500,000 cap.</li></ul><p>Gifts and inheritances follow their own basis rules, spelled out in IRS Publication 551, Basis of Assets. Look there before you pick a number.</p>"
   },
   {
-   "h2": "Is there a form or a report when the sale closes?",
-   "html": "<p>Yes. If you get Form 1099-S, Proceeds From Real Estate Transactions, you must report the sale even when the gain is excludable, and you must also report it if you cannot exclude all of the gain. The IRS tells filers to use Form 8949 and Schedule D when required.</p><p>If you sell under an installment contract, where part of the price is paid in a later year, the installment method applies unless you elect out. The home sale exclusion remains available even when you defer some gain that way.</p><p>A large gain can also mean estimated tax payments, which the IRS discusses in Publication 505.</p>"
+   "h2": "Order of work for a Virginia seller",
+   "html": "<p>If you are about to sell and want to know what tax to expect, work through it in this order.</p><ol><li>Label the property as your main home, a rental or an inheritance, because that label drives everything after it.</li><li>If it is your main home, tally the months you owned and lived in it. Hitting 24 within the last 5 years generally settles the federal exclusion.</li><li>Collect your purchase paperwork and the receipts for roofs, additions and remodels to build your basis.</li><li>Confirm you haven't used the exclusion on another sale recently.</li><li>Get the settlement statement from the closing agent, and expect a Form 1099-S later.</li><li>Apply Virginia's brackets to any gain left over and set cash aside in case estimated payments are needed.</li></ol><p>A tax professional can check each step. This list only shows what to ask.</p>"
   },
   {
-   "h2": "What other Virginia costs hit a seller at closing?",
-   "html": "<p>Two charges come up most often: the state grantor tax on the deed and any unpaid real estate tax. Neither is an income tax, but both come out of what you walk away with.</p><p>Code 58.1-802 imposes a grantor tax of 50 cents for each $500 of consideration. The seller pays it, though buyer and seller may agree to split it differently, and the clerk of court certifies it before the deed can be recorded. Half the tax goes to the state and half to the locality.</p><p>Code 58.1-3340 gives the real estate tax lien priority over any other lien. The purchaser at a sale must see that proceeds go to taxes and levies on the property, and the seller's share of tax is prorated by contract.</p><p>Cities bill on their own schedules. In Virginia Beach, for example, installments are due December 5 and June 5, and the city is an independent city with its own Treasurer.</p>"
+   "h2": "Paperwork after closing",
+   "html": "<p>Receiving a Form 1099-S, Proceeds From Real Estate Transactions, puts the sale on your return even when the entire gain is excludable. A partly taxable gain gets reported too, using Form 8949 and Schedule D where they apply.</p><p>When the buyer pays part of the price in a later year, the installment method applies unless you elect out. Spreading gain over time this way leaves the home sale exclusion intact.</p><p>IRS Publication 505 explains the estimated payments a large gain can trigger.</p>"
   },
   {
-   "h2": "When do inherited and rental houses change the picture?",
-   "html": "<p>The federal basis rule for inherited property differs from the usual cost rule. The IRS directs people who receive property by inheritance to Publication 551 for their basis, and holding-period rules for property acquired from a decedent are covered in Publication 544.</p><p>For a rental, the depreciation you claimed lowers your basis and can create the unrecaptured section 1250 gain mentioned above. A landlord who sells a house with a tenant in place may also face questions about the lease, which the Virginia eviction notice guide on this site covers.</p><ul><li>Inherited house: confirm basis with Publication 551 or a tax professional before you set a price.</li><li>Rental house: add up depreciation taken in every year of ownership.</li><li>Primary home: confirm the 24-month tests before you list or accept an offer.</li></ul>"
+   "h2": "Other Virginia costs at closing",
+   "html": "<p>Two non-income-tax items shrink a Virginia seller's proceeds: the state grantor tax on the deed and any real estate tax still owed.</p><p>Code 58.1-802 sets the grantor tax at 50 cents on every $500 of consideration. The seller owes it unless the parties agree to another split. A clerk of court certifies it before the deed is recorded, and the state and locality each keep half.</p><p>Under Code 58.1-3340 the lien for real estate tax outranks all other liens. Sale proceeds go first to taxes and levies on the property, and your contract prorates your portion of the year's tax.</p><p>Billing calendars vary by locality. Virginia Beach collects on December 5 and June 5.</p>"
   },
   {
-   "h2": "When does a quick as-is sale make tax sense?",
-   "html": "<p>It makes sense when carrying costs, repairs, or a looming tax bill would eat up more than a discounted price loses. A faster sale can limit months of mortgage, insurance, and real estate tax payments, and it gives you a firm closing date for tax planning.</p><p>The tax result itself does not depend on who the buyer is, since gain is figured from your price and basis. What a quick sale changes is timing, the number of installments you carry, and the repairs you skip.</p><p>Ask a CPA or enrolled agent to run your numbers before you accept any offer. We buy houses as-is and can share a closing timeline, but we do not give tax advice.</p>"
+   "h2": "Inherited houses and depreciation",
+   "html": "<p>Inherited property isn't valued at what the decedent paid. Publication 551 explains how basis works for it, and Publication 544 handles holding periods for property from a decedent.</p><p>On a rental, claimed depreciation lowers basis and can create the section 1250 gain mentioned above. A tenant in the house raises lease questions too, and the Virginia eviction notice guide on this site covers them.</p><ul><li>Inherited: confirm basis before you price the house.</li><li>Rental: add up depreciation across all your years of ownership.</li><li>Primary home: test the 24-month rules before an offer arrives.</li></ul>"
+  },
+  {
+   "h2": "Tax angle on a fast as-is sale",
+   "html": "<p>It can pay off when carrying costs, repairs or an approaching tax bill would cost you more than the discount. An early closing stops the monthly mortgage, insurance and property tax drain and gives you a set date for planning.</p><p>The buyer's identity doesn't alter your tax, because gain comes from price and basis. Speed changes your timing, your carrying payments and the repairs you skip.</p><p>Get a CPA or enrolled agent to run your figures before accepting anything. We buy houses as-is and can share a closing timeline, but tax advice isn't something we give.</p>"
   }
  ],
  "faqs": [
   {
    "q": "Does Virginia have a capital gains tax?",
-   "a": "No separate one. Virginia taxes the gain as part of income at its ordinary rates, which top out at 5.75% on income above $17,000 under Code 58.1-320."
+   "a": "There's no separate tax. Gain is treated as income at Virginia's ordinary rates, topping out at 5.75% above $17,000 under Code 58.1-320."
   },
   {
    "q": "How much gain can I exclude when I sell my Virginia home?",
-   "a": "Up to $250,000, or up to $500,000 on a joint return, if you meet the ownership and use tests of 24 months out of the last 5 years. Virginia follows the federal exclusion, according to the ruling summarized above."
+   "a": "As much as $250,000, or $500,000 on a joint return, if you've owned and lived in the house 24 months of the past 5 years. Virginia goes along with the federal rule."
   },
   {
    "q": "Do I report the sale if the whole gain is excluded?",
-   "a": "You must report it if you receive Form 1099-S, even when the gain is fully excludable. You must also report it if you cannot exclude all the gain."
+   "a": "If a Form 1099-S came, yes, even with a fully excludable gain. You also report it when only part of the gain is excludable."
   },
   {
    "q": "How long must I own a rental house for long-term capital gain treatment?",
-   "a": "You must hold it for more than one year. A gain on property held one year or less is short-term and taxed as ordinary income."
-  },
-  {
-   "q": "Can I deduct a loss on my Virginia home sale?",
-   "a": "Not for a personal home. The IRS says losses on the sale of personal-use property such as your home are not deductible."
+   "a": "Over a year. Selling at one year or sooner produces a short-term gain, taxed as ordinary income."
   },
   {
    "q": "Who pays the Virginia grantor tax?",
-   "a": "The seller pays it by default, at 50 cents per $500 of consideration, but the buyer and seller may agree that the buyer pays part or all."
+   "a": "Normally the seller, at 50 cents per $500 of consideration. A contract can shift part or all of it to the buyer."
   }
  ],
  "sources": [
