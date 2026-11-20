@@ -18,16 +18,24 @@
    "html": "<p>This board listens to assessment complaints and may raise, lower or keep an assessment. You can reach it in three ways:</p>\n<ul>\n<li>Call (540) 863-6640 on a weekday between 8 am and 5 pm, holidays excluded, and book a 15 minute slot.</li>\n<li>Mail a written complaint to 9212 Winterberry Avenue, Suite E, Covington, VA 24426.</li>\n<li>Show up at a hearing and speak or hand in written material.</li>\n</ul>\n<p>The law assumes the assessment is correct, so the burden is yours. You win by showing it is not uniform with similar properties, backed by substantial evidence, or that it exceeds fair market value. Hearing dates differ from year to year, so ask the county which schedule goes with your notice.</p>"
   },
   {
-   "h2": "If the board turns you down",
-   "html": "<p>The circuit court is the next stop. Under Virginia Code section 58.1-3984, an aggrieved owner may apply to the circuit court of the locality, within the later of three years after the end of the tax year or one year after the assessment date, with other cases covered in the statute.</p>\n<p>For real property, the assessor's value or the board's value is presumed correct, and you must rebut it by a preponderance of the evidence. Owners about to sell rarely go to court, because the price a buyer agrees to pay sets the number anyway.</p>"
+   "h2": "When the board says no",
+   "html": "<p>Your last avenue is the circuit court. Section 58.1-3984 of the Virginia Code allows an aggrieved owner to apply there. The deadline is whichever comes later: three years after the tax year ends, or one year after the assessment date, and the statute lists a few other situations.</p>\n<p>Courts start from the assessor's figure, or the board's figure if it changed the value, and you carry the burden of proving otherwise by a preponderance of the evidence. A lawsuit rarely makes sense when you are about to sell, since the contract price is what establishes the value.</p>"
   },
   {
-   "h2": "Unpaid tax when you sell",
-   "html": "<p>The tax stays with the house. Under Virginia Code section 58.1-3340, real estate carries a tax lien that ranks ahead of other liens until the taxing authority is paid. When the house sells, proceeds go to the taxes first. The contract decides who covers the current year's share, so put it in the purchase agreement. Expect the title company or settlement attorney to request a payoff from the treasurer before closing.</p>\n<ul>\n<li>Get the balance through your expected closing date from the treasurer.</li>\n<li>If more than one bill is open, pay the oldest first.</li>\n<li>Hang on to the receipt, since the title company may want to see it.</li>\n</ul>"
+   "h2": "Back taxes and the closing table",
+   "html": "<p>A tax lien stays on the parcel until the taxing authority is paid, and under section 58.1-3340 it outranks other liens on real estate. So if you sell with a bill outstanding, the buyer's money pays it before you see anything. The purchase agreement should say who covers the current year's share. Your title company or settlement attorney will normally call the treasurer for a payoff figure ahead of closing.</p>\n<ul>\n<li>Request the balance through the date you expect to close.</li>\n<li>If two or more years are open, start with the oldest bill.</li>\n<li>Keep the receipt in case the title company asks for it.</li>\n</ul>"
+  },
+  {
+   "h2": "Check which office bills you",
+   "html": "<p>Three jurisdictions can touch an address here: the county, the independent city of Covington, and the town of Clifton Forge. A house inside Covington is handled by the city, not the county. Look at the name and return address on your last bill. If you are unsure, call the county treasurer before you list, so the payoff comes from the right place.</p>\n<p>The same check helps your buyer. A lender and a title company will ask which locality issued the bill, and a quick, correct answer keeps closing on schedule. It also tells you which board of equalization to contact if you want to contest a value before you sell, and whether the county's Winterberry Avenue complex or another office is the right door.</p>"
   },
   {
    "h2": "Penalties and transfer taxes",
-   "html": "<p>State law caps what a locality can charge, and each locality sets its own terms by ordinance, so the Alleghany County figure may be lower than the cap. Ask the circuit court clerk for the full recording cost, including any local charges.</p>\n<table><thead><tr><th>Charge</th><th>Virginia rule</th></tr></thead><tbody>\n<tr><td>Late payment penalty (section 58.1-3916)</td><td>No more than 10 percent of the tax past due or $10, whichever is greater</td></tr>\n<tr><td>Interest on unpaid tax (section 58.1-3916)</td><td>No more than 10 percent a year</td></tr>\n<tr><td>Grantor tax (section 58.1-802)</td><td>50 cents per $500 of consideration, paid by the seller unless the parties agree otherwise</td></tr>\n<tr><td>State recordation tax (section 58.1-801)</td><td>25 cents per $100</td></tr>\n</tbody></table>"
+   "html": "<p>The General Assembly sets a ceiling and each locality adopts its own terms by ordinance, so the local figure can sit below it. For the full recording cost, including local charges, ask the circuit court clerk.</p>\n<table><thead><tr><th>Charge</th><th>Virginia rule</th></tr></thead><tbody>\n<tr><td>Late penalty (section 58.1-3916)</td><td>Up to 10 percent of the overdue tax, or $10 if that is more</td></tr>\n<tr><td>Interest (section 58.1-3916)</td><td>Up to 10 percent a year</td></tr>\n<tr><td>Grantor tax (section 58.1-802)</td><td>50 cents per $500 of consideration, paid by the seller unless the parties agree otherwise</td></tr>\n<tr><td>State recordation tax (section 58.1-801)</td><td>25 cents per $100</td></tr>\n</tbody></table>"
+  },
+  {
+   "h2": "A short checklist before you list",
+   "html": "<ul>\n<li>Find the last tax bill and note the name of the office that mailed it.</li>\n<li>Phone (540) 863-6640 if the assessment looks high compared with similar houses nearby, and ask how to reach the board.</li>\n<li>Ask the treasurer for a balance through the day you hope to close.</li>\n<li>Write down your road access, since I-64 and U.S. 220 are what commuters ask about.</li>\n<li>Decide whether you want to repair first, list as-is, or take a cash offer.</li>\n</ul>\n<p>Having these five items settled before the first buyer call makes the first calls with a buyer or title company much simpler.</p>"
   },
   {
    "h2": "What Alleghany County sellers often face",
@@ -37,7 +45,7 @@
  "faqs": [
   {
    "q": "Is Covington part of Alleghany County?",
-   "a": "No. Covington is the county seat but an independent city, so a house inside the city limits is handled by the city. Check your bill to see which office sends it."
+   "a": "No. It is the county seat, yet it is an independent city, and houses inside its limits are handled by the city. Your bill shows which office sent it."
   },
   {
    "q": "What is the largest town in Alleghany County?",
@@ -45,15 +53,15 @@
   },
   {
    "q": "How do I appeal my Alleghany County assessment?",
-   "a": "Contact the county Board of Equalization. Call (540) 863-6640 for an appointment, or send a written complaint to 9212 Winterberry Avenue, Suite E, Covington. You must show the assessment is above market value or not uniform with similar properties."
+   "a": "Go to the county Board of Equalization. Phone (540) 863-6640 to book a time, or mail a written complaint to 9212 Winterberry Avenue, Suite E, Covington. Your case has to show the value exceeds market or is out of line with similar properties."
   },
   {
    "q": "Can a buyer take over a house with unpaid property tax?",
-   "a": "Yes, but the tax must be dealt with at closing. Virginia gives the tax lien priority over other liens, so the unpaid amount is normally paid from the sale proceeds."
+   "a": "Yes, as long as the tax is settled at closing. The lien outranks other liens, so the balance usually comes out of the sale proceeds."
   },
   {
    "q": "What is the most a Virginia locality can charge for a late real estate tax payment?",
-   "a": "State law caps the penalty at 10 percent of the tax past due or $10, whichever is greater, and interest at 10 percent a year. The local ordinance sets the actual terms."
+   "a": "The penalty ceiling is 10 percent of the overdue tax or $10, whichever is more, and interest tops out at 10 percent a year. Each local ordinance sets the real terms."
   }
  ],
  "sources": [
