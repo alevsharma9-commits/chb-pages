@@ -1,0 +1,81 @@
+{
+ "slug": "colorado-eviction-process",
+ "sections": [
+  {
+   "h2": "How a Colorado eviction starts",
+   "html": "<p>An eviction begins with a written notice from the landlord. A court case can be filed only after the notice period runs out, so the clock matters well before anyone sees a judge. There are three pre-filing notices, and the landlord picks one based on why the tenant is being asked to leave.</p><table><thead><tr><th>Notice</th><th>Court form</th><th>Typical use</th><th>Time given</th></tr></thead><tbody><tr><td>Demand for Compliance</td><td>JDF 99 A</td><td>Fix a lease violation or pay past-due rent</td><td>3 to 30 days, set by the rental agreement</td></tr><tr><td>Notice to Terminate Tenancy</td><td>JDF 99 B</td><td>Repeated or substantial violations, criminal behavior, some non-renewals</td><td>1 to 91 days, set by the agreement</td></tr><tr><td>Notice of No-Fault Eviction</td><td>JDF 99 C</td><td>Demolition, repairs, owner use, sale, declined new lease, late payment history</td><td>At least 90 days</td></tr></tbody></table><p>Every notice has to be in the tenant's primary language. A notice in the wrong language is an easy way to lose time.</p>"
+  },
+  {
+   "h2": "Standard notice length under state law",
+   "html": "<p>For most residential tenants the statute sets a ten day period. C.R.S. 13-40-104 applies it when a tenant holds over after unpaid rent, after breaking a material lease condition, or after conduct that disturbs others or damages the property.</p><p>One case gets a shorter period. An exempt residential agreement, meaning a single-family lease from a landlord who owns five or fewer such homes and says so in the agreement, can use five days. Nonresidential and employer-provided housing agreements get three days.</p><p>The same section lists other situations that count as unlawful detention. A few matter to anyone selling a house:</p><ul><li>A tenant who stays after a foreclosure sale under a power of sale, once title is perfected and the buyer demands possession.</li><li>A person who will not leave after the buyer under a court judgment makes a demand and the redemption period is over.</li><li>An heir or devisee who refuses to leave property that a personal representative has sold, after a demand.</li><li>A contract buyer who fails to perform and keeps possession after a demand.</li></ul><p>The heir and devisee item is the one that comes up with inherited houses. A relative who will not move out after the personal representative sells the property can face an eviction case.</p>"
+  },
+  {
+   "h2": "Filing the case",
+   "html": "<p>When the notice period is over, the landlord files in the county where the property sits. The filing package is the Complaint (JDF 101), the Summons (JDF 102) and a copy of the notice that was posted or delivered.</p><p>The person filing must be the person in interest, which means the owner or the landlord named as lessor in the lease. A property manager may need to show proof of authority.</p><p>Mediation is required in most residential cases. Under C.R.S. 13-40-110, a complaint is started on the standard form, and skipping the mediation step where it applies is an affirmative defense that can lead to dismissal without prejudice. The statute carves out certain tenants and landlords, so confirm the current rule before relying on it.</p><p>A dismissal without prejudice lets the landlord start over, and starting over adds weeks to any plan to sell.</p>"
+  },
+  {
+   "h2": "Serving the tenant and how fast the case moves",
+   "html": "<p>Service has to be finished at least seven days before the hearing date printed on the summons. There are two routes.</p><ul><li><strong>Personal service.</strong> The sheriff in the county where the tenant lives or works, a private process server, or an adult who is not part of the case hands over the papers. An Affidavit of Service (JDF 98) is needed for each defendant.</li><li><strong>Posting and mailing.</strong> If personal service fails, the papers can be posted on the main door of the dwelling, and the summons, complaint and answer form must be mailed by the day after filing. The Certificate of Mailing on JDF 102 goes back to the court.</li></ul><p>The choice has money attached. A landlord who wants a money judgment for back rent must use personal service, while posting and mailing supports possession only.</p><p>A tenant who wants to fight the case files a written answer on JDF 103. If the tenant neither answers nor shows up, the court can enter a default judgment.</p>"
+  },
+  {
+   "h2": "Defenses a tenant can raise",
+   "html": "<p>The best known defense is unlivable conditions under C.R.S. 38-12-503. It applies to a nonpayment case when the home was unfit to live in and the tenant gave written notice on JDF 104. The landlord then has five days to repair unless the tenant caused the problem.</p><p>The defense has a cost. The tenant must pay the rent due into the court registry, less allowed expenses, and a tenant who does not pay the full amount at filing is in default.</p><p>On attorney fees, the losing side pays only if the lease says so. If the lease is silent, each side covers its own.</p><p>For a seller, the takeaway is that an unrepaired house can turn a routine nonpayment case into a contested one. Dated repair requests and records of what was fixed become important evidence.</p>"
+  },
+  {
+   "h2": "If the tenant stays after judgment",
+   "html": "<p>Once a court orders the tenant out, the tenant usually has 48 hours to leave. If the tenant is still there, the plaintiff fills out a Writ of Restitution (JDF 109) and returns it to the court for the judge's signature.</p><p>After it is signed, the plaintiff contacts the sheriff to schedule the removal, and the sheriff charges a fee for serving the writ.</p><p>If you are weighing a sale, add up the likely timeline before choosing a path:</p><ul><li>Notice period: 3 to 30 days for a demand, up to 91 for a termination, 90 or more for no-fault.</li><li>Time to file and serve, with at least seven days before the hearing.</li><li>Hearing, judgment and the 48 hour window.</li><li>Writ, sheriff scheduling and removal.</li></ul><p>Each stage can stretch, so tell your buyer or title company which stage you are in and update them as it changes.</p>"
+  },
+  {
+   "h2": "Can I evict a tenant because I want to sell?",
+   "html": "<p>Yes, but only through the no-fault route with a long notice. JDF 99 C lists the reason as \"The Landlord intends to stop renting and sell the home,\" under C.R.S. 38-12-1303(3)(d).</p><p>The move-out date has to fall after the lease term ends and be at least 90 days after the notice is served. If the landlord or the landlord's spouse is on active U.S. military duty, the minimum drops to 45 days. Service is by leaving a copy with the tenant or posting it in a conspicuous place at the home.</p><p>The form excludes certain tenants:</p><ul><li>Tenants who have lived in the home less than a year, or whom the landlord does not know to be a tenant.</li><li>Tenants of a resident landlord who lives in or next to a single-family home, duplex or triplex.</li><li>Employer-provided housing, mobile home spaces and short-term rentals.</li></ul><p>A buyer who plans to take the house with tenants in it should ask for the lease and any notices before closing.</p>"
+  },
+  {
+   "h2": "Selling while an eviction is pending",
+   "html": "<p>An eviction does not have to finish before a house can be sold. An occupied house can be sold as is, and the sale contract decides who deals with the occupants. The eviction process controls how a tenant can be removed, not whether the owner can sell.</p><p>Owners who sell to a cash buyer often pick a closing date that fits the notice or court timeline. The buyer then takes the house after the occupant has gone, or takes it with the tenant in place. The right choice depends on the lease, the notice already served and the stage of any court case.</p><p>The deed that transfers the house is recorded with the county clerk and recorder, who collects the documentary fee. Under C.R.S. 39-13-102 that fee is one cent for each $100 of consideration, and nothing is due when the consideration is $500 or less.</p><p>None of this replaces advice from a Colorado attorney if a case is already filed. If you want to talk through a sale while a tenant is still in the house, we can look at the lease and the dates with you.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days does a Colorado landlord have to give for a standard eviction notice?",
+   "a": "The standard residential period under C.R.S. 13-40-104 is ten days. Five days applies to exempt single-family leases from landlords who own five or fewer such homes, and three days applies to nonresidential and employer-provided housing."
+  },
+  {
+   "q": "How long does a tenant have to move out after the judge rules?",
+   "a": "Usually 48 hours. If the tenant stays, the landlord files a Writ of Restitution (JDF 109) and the sheriff schedules the removal."
+  },
+  {
+   "q": "Can I sell my house while the tenant is still living in it?",
+   "a": "Yes. A sale does not require the home to be empty, and the contract decides whether the buyer takes the house with the tenant or after the tenant has left."
+  },
+  {
+   "q": "How much notice does a landlord need to give if the house is being sold?",
+   "a": "At least 90 days after service, and the move-out date must fall after the lease term ends. It can be as short as 45 days if the landlord or spouse is on active military duty."
+  },
+  {
+   "q": "Do I need to serve the tenant personally to get back rent?",
+   "a": "Yes. Personal service is required to seek a money judgment, while posting and mailing supports possession only."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Residential Evictions, Colorado Judicial Branch",
+   "url": "https://api-ac.coloradojudicial.gov/self-help/residential-evictions"
+  },
+  {
+   "title": "C.R.S. 13-40-104 Unlawful detention defined, Justia",
+   "url": "https://law.justia.com/codes/colorado/title-13/forcible-entry-and-detainer/article-40/section-13-40-104"
+  },
+  {
+   "title": "C.R.S. 13-40-110 Commencement of action, Justia",
+   "url": "https://law.justia.com/codes/colorado/title-13/forcible-entry-and-detainer/article-40/section-13-40-110"
+  },
+  {
+   "title": "JDF 99 C Notice of No-Fault Eviction, Colorado Judicial Branch",
+   "url": "https://www.coloradojudicial.gov/sites/default/files/2024-05/JDF99C.pdf"
+  },
+  {
+   "title": "C.R.S. 39-13-102 Documentary fee imposed",
+   "url": "https://colorado.public.law/statutes/crs_39-13-102"
+  }
+ ]
+}
