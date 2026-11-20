@@ -1,0 +1,89 @@
+{
+ "slug": "missouri-eviction-process",
+ "sections": [
+  {
+   "h2": "Steps of a Missouri eviction case",
+   "html": "<p>A rent and possession case moves through five stages: a verified filing, a summons, a hearing, a judgment with a ten day window, and an officer's writ. Chapter 535 of the Missouri statutes lays out each stage, and the whole path runs through the associate circuit court of the county where the rented house sits.</p><p>A landlord who is not claiming unpaid rent follows a different path under chapter 534, the unlawful detainer statutes. That covers tenants who hold over after a lease ends, occupants after a foreclosure, and employees who stay after a job that came with housing ends (RSMo 534.030). The sections below follow the rent case, since that is the filing a rental owner sees most.</p>"
+  },
+  {
+   "h2": "How a landlord starts the case",
+   "html": "<p>By filing a statement under oath. RSMo 535.020 calls for an affidavit filed with an associate circuit judge that gives the rental terms, the rent actually due, the fact that payment was demanded and not made, and a description of the property. Local court rules may send these filings to one central location in the county, so the clerk can say where the paperwork goes.</p><p>Once the statement is in, the clerk issues a summons naming the tenant and every person occupying the home, ordering them to appear and show cause why possession should not go back to the landlord. The case then runs under the Missouri rules of civil procedure except where chapter 535 says otherwise.</p>"
+  },
+  {
+   "h2": "Service and the hearing date",
+   "html": "<p>Service has to happen at least four days before the court date, and the court date in the summons cannot be more than twenty-one business days after the summons issues unless the landlord agrees in writing to a later date (RSMo 535.030).</p><p>If the tenant cannot be found, the landlord may ask for service by posting a copy of the summons and complaint on the dwelling and mailing a copy by ordinary mail, both at least ten days before the court date. A tenant served this way who does not show up can still lose possession, but the statute bars a money judgment against that tenant unless the tenant has entered an appearance.</p><p>When the tenant does appear, RSMo 535.040 has the judge set the case on the first available date. If the rent was demanded, is still unpaid, and the tenant does not tender the rent and costs in court, the judge enters judgment for possession plus the rent due and court costs.</p>"
+  },
+  {
+   "h2": "After the judgment",
+   "html": "<p>The tenant has ten days from judgment to ask the court to set it aside or to apply for a trial de novo (RSMo 535.030). Without one of those filings the judgment for possession becomes final and the tenant can be removed with no further notice. When the tenant was in default, the clerk mails a notice of that ten day window to the last known address.</p><ul><li><strong>Execution.</strong> The judge issues an execution that commands an officer to put the landlord in possession, and the officer must deliver possession within five days of receiving it (RSMo 535.040).</li><li><strong>Seven day fallback.</strong> If the officer has not delivered possession seven days after the writ reached the officer, the landlord has sixty days from the judgment to act with a municipal or county officer present, without breaching the peace (RSMo 441.060).</li><li><strong>Paperwork.</strong> The landlord must show the officer a true copy of the judgment and execution, get the officer's written acknowledgment, and file that acknowledgment in court within five days after taking possession.</li></ul>"
+  },
+  {
+   "h2": "Time limits at each step",
+   "html": "<table><caption>Time limits in a Missouri rent and possession case</caption><thead><tr><th>Step</th><th>Time limit</th><th>Statute</th></tr></thead><tbody><tr><td>Serve summons</td><td>At least 4 days before the court date</td><td>535.030</td></tr><tr><td>Court date after summons issues</td><td>No more than 21 business days, unless the landlord consents to later</td><td>535.030</td></tr><tr><td>Posting and mailing service</td><td>At least 10 days before the court date</td><td>535.030</td></tr><tr><td>Motion to set aside or trial de novo</td><td>10 days from judgment</td><td>535.030</td></tr><tr><td>Officer delivers possession</td><td>Within 5 days of receiving the execution</td><td>535.040</td></tr><tr><td>Landlord's fallback with law enforcement</td><td>After 7 days from delivery of the writ, within 60 days of judgment</td><td>441.060</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Cases that are not rent cases",
+   "html": "<p>Chapter 534 covers a holdover after a lease ends, an occupant who stays after a foreclosure, an employee who stays after housing tied to the job ends, and a person who took possession wrongfully and refuses a written demand to leave (RSMo 534.030). The remedy is an unlawful detainer action.</p><p>Occupancy is a separate topic. RSMo 441.060 presumes that a limit of two persons per bedroom is reasonable, and the limit does not apply to a child born to the tenants during the lease.</p>"
+  },
+  {
+   "h2": "Belongings and the deposit",
+   "html": "<p>Under RSMo 535.040 a landlord is not liable for goods left in the home after a court-ordered execution unless the landlord acted willfully, wantonly or maliciously. One exception applies: when an item carries a conspicuous permanent label showing it belongs to a third party, the landlord must send certified mail, return receipt requested, and give that party five business days after receipt to pick it up.</p><p>Deposits follow RSMo 535.300. A landlord may not take more than two months' rent as a deposit, has to hold it in an insured bank or credit union, and has thirty days after the tenancy ends to return it or mail an itemized list of damages along with the balance. A landlord who wrongfully withholds any part owes the tenant twice the amount withheld.</p>"
+  },
+  {
+   "h2": "What an owner who wants to sell should do during an eviction",
+   "html": "<p>Keep the case file in order and tell any buyer where the case stands. A buyer paying cash for a house with a pending eviction needs the filing date, the court date, and a copy of any judgment.</p><ul><li>Do not change locks, remove doors or shut off utilities. Section 441.233 treats that as forcible entry and detainer.</li><li>Keep the demand, the affidavit, proof of service and the judgment together in one folder.</li><li>Ask the circuit clerk for the case number and the next court date, and share them with the title company.</li><li>Close on a date that follows the ten day window, since a judgment is not final before then.</li></ul><p>If the sale closes before the case ends, the contract should say plainly who handles the case and the tenant afterward.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does a Missouri eviction take?",
+   "a": "The statutes set a hearing within twenty-one business days of the summons unless the landlord agrees to later, plus a ten day window after judgment and up to five days for the officer to deliver possession (RSMo 535.030 and 535.040). Local court calendars and appeals add to the total."
+  },
+  {
+   "q": "Can a tenant stop an eviction by paying the rent in court?",
+   "a": "Yes, if the rent and costs are tendered before the judge at the hearing. RSMo 535.040 directs the judge to enter a possession judgment only when that payment has not been made."
+  },
+  {
+   "q": "What if the tenant never shows up in court?",
+   "a": "The judge can still hear the case. When the tenant was served by posting and mailing, the landlord can win possession, but the court may not grant a money judgment against a tenant in default (RSMo 535.030)."
+  },
+  {
+   "q": "Can the landlord keep the tenant's security deposit to cover unpaid rent?",
+   "a": "Yes, to the extent reasonably necessary. RSMo 535.300 lets the landlord withhold for unpaid rent, damage beyond normal wear, and losses from short notice, and requires an itemized list within thirty days of the end of the tenancy."
+  },
+  {
+   "q": "Can a landlord do a lockout instead of going to court?",
+   "a": "No. RSMo 441.233 treats removing a tenant or the tenant's property without a court order, taking off doors or locks, or willfully cutting essential services as forcible entry and detainer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "RSMo 534.030",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=534.030"
+  },
+  {
+   "title": "RSMo 535.020",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=535.020"
+  },
+  {
+   "title": "RSMo 535.030",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=535.030"
+  },
+  {
+   "title": "RSMo 535.040",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=535.040"
+  },
+  {
+   "title": "RSMo 441.060",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=441.060"
+  },
+  {
+   "title": "RSMo 441.233",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=441.233"
+  },
+  {
+   "title": "RSMo 535.300",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=535.300"
+  }
+ ]
+}

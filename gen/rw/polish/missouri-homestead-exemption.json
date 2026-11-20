@@ -1,0 +1,85 @@
+{
+ "slug": "missouri-homestead-exemption",
+ "sections": [
+  {
+   "h2": "Three things called homestead",
+   "html": "<p>Missouri homeowners run into three separate programs that often get lumped together under the homestead name: a state income-based property tax credit, a county option credit for owners 62 and older, and a creditor protection under RSMo 513.475 that shields part of a home's value from judgment collection.</p><p>Which one matters depends on whether your question is about a tax bill, a lender or judgment creditor, or a sale. Each has its own agency, its own form and its own eligibility test, so sort them out before filing anything.</p>"
+  },
+  {
+   "h2": "Missouri Property Tax Credit Claim",
+   "html": "<p>This is the state's \"circuit breaker,\" run by the Department of Revenue. The credit goes to certain senior citizens and to individuals who are 100 percent disabled, and it covers part of the real estate tax or rent paid for the year. The maximum is $750 for renters and $1,100 for owners who owned and occupied their home.</p><p>Household income caps vary with ownership and filing status. Owners who occupied the home all year must be at $30,000 or less if single, or $34,000 or less if married filing combined. Renters and part-year owners face lower caps of $27,200 single and $29,200 married filing combined. Household income is broad: it adds Social Security, pensions, public assistance, child support and similar receipts to Missouri adjusted income.</p>"
+  },
+  {
+   "h2": "How to claim the credit",
+   "html": "<p>The route depends on whether a Missouri income tax return is required. Filers use Form MO-1040 with the Property Tax Schedule (MO-PTS) attached, and anyone not required to file uses the stand-alone Form MO-PTC. A claim for a past year can still be filed for three years after its original due date. Call the Department of Revenue for the current year's filing deadline.</p><ul><li>Bring the paid real estate tax receipt from the county collector.</li><li>Add every W-2 and 1099, and benefit letters where they apply.</li><li>Include Form 948 from the assessor if the property has more than five acres, since the credit counts the tax on five acres and the home.</li><li>Claim a tax bill in the year you paid it, on the claim for the year it covers.</li></ul><p>The credit applies only to a home the claimant occupies, and only where property tax is actually paid on it. Sewer lateral charges, penalties and interest do not count.</p>"
+  },
+  {
+   "h2": "County homestead credit for owners 62 and older",
+   "html": "<p>This one is a county option. RSMo 137.1050 lets a county that can levy a property tax grant a credit to residents who are at least 62, are owners of record or hold a legal or equitable interest shown in a written instrument, and are liable for the tax on a home they occupy as their primary residence. A county turns the credit on by ordinance or by a vote after a petition signed by at least five percent of the registered voters who voted in the last governor's race.</p><p>The credit equals the amount by which the owner's real property tax has risen since the owner's initial credit year. If new construction is added to the home, or the home is annexed into a new taxing district, the starting amount is raised to match. The county collector shows the credit on the tax statement, and the county tells each political subdivision the total by November 30 each year. To find out whether your county has adopted it, ask the county collector or assessor.</p>"
+  },
+  {
+   "h2": "How Missouri assesses a home",
+   "html": "<p>Residential real property is assessed at nineteen percent of true value in money (RSMo 137.115). Agricultural land is assessed at twelve percent, and commercial property at thirty-two percent. New values are set as of January 1 of each odd-numbered year and carry into the even-numbered year that follows, except for new construction.</p><p>The same statute requires a physical inspection before an assessor raises a residential parcel's value by more than fifteen percent from the last assessment, not counting new construction. The owner gets written notice and can ask, within thirty days, for an interior inspection. A drive-by does not count. An owner whose use of the property changes can ask the assessor to reclassify it.</p>"
+  },
+  {
+   "h2": "Homestead creditor protection",
+   "html": "<p>RSMo 513.475 exempts a person's dwelling and the land used with it from attachment and execution, up to an aggregate value. The version of the section that takes effect on January 1, 2027 sets that value at $40,000, after a 2026 amendment. Where several owners of one homestead claim the exemption, together they cannot exceed the single total.</p><p>The section also bars either spouse from selling, mortgaging or otherwise transferring the homestead alone. A sale or mortgage is valid when husband and wife convey jointly. A sale by one spouse alone is null and void, so both spouses sign the deed when the house is their homestead.</p>"
+  },
+  {
+   "h2": "Help with the paperwork",
+   "html": "<p>The Department of Revenue runs a claim assistance page and answers questions at PropertyTaxCredit@dor.mo.gov. Proof of Social Security or Supplemental Security Income benefits can come from a my Social Security account online or by calling the Social Security Administration, while the SSA-1099 form still arrives by mail. The county collector holds the paid-tax receipt, and the assessor supplies Form 948 for parcels of more than five acres.</p>"
+  },
+  {
+   "h2": "Missouri home tax breaks compared",
+   "html": "<table><caption>Missouri homestead-related programs</caption><thead><tr><th>Program</th><th>Who qualifies</th><th>What it does</th></tr></thead><tbody><tr><td>Property Tax Credit Claim</td><td>Certain seniors and 100 percent disabled individuals under the income caps</td><td>Up to $1,100 for owners and $750 for renters</td></tr><tr><td>County homestead credit (137.1050)</td><td>Owner-occupants 62 or older in a county that adopted it</td><td>Credit for the increase in tax since the initial credit year</td></tr><tr><td>Creditor homestead (513.475)</td><td>Any owner who uses the home as a homestead</td><td>Exempts up to $40,000 in value from execution, effective January 1, 2027</td></tr><tr><td>Residential assessment (137.115)</td><td>All owners of residential real property</td><td>Assessed at 19 percent of true value</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Selling and these tax breaks",
+   "html": "<p>A sale in the middle of a year can lower what you may claim. Anyone who owned the home for only part of the year uses the lower part-year income caps, and the credit is limited to a home the claimant occupies. Keep the settlement statement and the paid tax receipt for the year of sale, since the claim asks for the real estate tax you paid.</p><p>Ask the county collector how the tax for the year of sale will be split on the closing statement, and whether the county has adopted the credit for owners 62 and older. Because the creditor protection requires both spouses to sign, confirm before listing who is on title and who must sign the deed. A cash buyer will ask the same question.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Missouri property tax credit worth?",
+   "a": "Up to $1,100 for an owner who owned and occupied the home, and up to $750 for a renter. The actual figure depends on tax or rent paid and total household income."
+  },
+  {
+   "q": "What is the income limit for the Missouri property tax credit?",
+   "a": "For owners who lived in their home all year, $30,000 if single and $34,000 if married filing combined. Renters and part-year owners are limited to $27,200 single and $29,200 married filing combined."
+  },
+  {
+   "q": "At what age can I get the county homestead credit?",
+   "a": "Sixty-two. RSMo 137.1050 sets that minimum, and it applies only in a county that has adopted the credit by ordinance or vote. Ask your county collector whether yours has."
+  },
+  {
+   "q": "Does the homestead protection stop me from selling my house?",
+   "a": "No. RSMo 513.475 protects the home from execution up to a value cap and says spouses must convey jointly. A joint deed by husband and wife is allowed."
+  },
+  {
+   "q": "Can I still file for the credit after I sell the house?",
+   "a": "A claim for a past year can be filed up to three years after its original due date. A claim covers real estate tax paid on a home you occupied, and a part-year owner uses the lower income caps."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Missouri Department of Revenue, Property Tax Credit",
+   "url": "https://dor.mo.gov/taxation/individual/tax-types/property-tax-credit/"
+  },
+  {
+   "title": "Missouri Department of Revenue, Property Tax Credit FAQs",
+   "url": "https://dor.mo.gov/faq/taxation/individual/property-tax-credit-claim.html"
+  },
+  {
+   "title": "RSMo 137.1050",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=137.1050"
+  },
+  {
+   "title": "RSMo 137.115",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=137.115"
+  },
+  {
+   "title": "RSMo 513.475",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=513.475"
+  }
+ ]
+}

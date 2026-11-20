@@ -1,23 +1,77 @@
-{"slug":"new-york-transfer-tax","sections":[
-{"h2":"How much is the New York transfer tax when you sell a house?","html":"<p>The state charges $2 for every $500 of consideration, or fractional part of $500, on a conveyance of real property worth more than $500. That works out to 0.4% of the price, and the seller pays it unless the contract says otherwise.</p><p>The rate comes from <a href=\"https://www.nysenate.gov/legislation/laws/TAX/1402\">Tax Law section 1402</a>. To see how the \"fractional part\" language plays out, take a $400,000 house: that is 800 blocks of $500, so the tax is $1,600. A $400,100 price adds one more block and the tax becomes $1,602. Sellers of one- to three-family houses and individual condominium units, and anyone selling for under $500,000, subtract the value of any lien that stays on the property after the sale, so a loan the buyer assumes does not raise the taxable amount.</p>"},
-{"h2":"What extra transfer taxes apply to expensive homes?","html":"<p>Two add-ons exist. The \"mansion tax\" is 1% of the sale price on a residence where consideration is $1 million or more, and in New York City a further state charge applies to the top of the market.</p><ul><li><strong>Mansion tax:</strong> 1% on a one-, two- or three-family house, condominium unit or co-op unit selling for $1,000,000 or more. The buyer pays it.</li><li><strong>City additional base tax:</strong> $1.25 per $500 within New York City when residential consideration is $3 million or more, or $2 million or more for other property. The seller pays it.</li><li><strong>City supplemental tax:</strong> an incremental rate between 0.25% and 2.9% on residential sales of $2 million or more in the city, published in the instructions to Form TP-584-NYC. The buyer pays it.</li></ul><p>These city charges apply to conveyances from July 1, 2019 forward, other than deals made under a binding written contract signed on or before April 1, 2019, according to the Tax Department.</p>"},
-{"h2":"Who pays the transfer tax, the seller or the buyer?","html":"<p>The seller pays the base tax, and the buyer pays the mansion tax and the city supplemental tax. The Tax Department adds that each side picks up the other's share if the responsible party does not pay or is exempt.</p><table><caption>Who owes each state-level transfer tax, from the NYS Department of Taxation and Finance (page reviewed June 1, 2026)</caption><thead><tr><th>Tax</th><th>Rate</th><th>Paid by</th></tr></thead><tbody><tr><td>Base tax</td><td>$2 per $500 of consideration</td><td>Seller (grantor)</td></tr><tr><td>Additional base tax, NYC only</td><td>$1.25 per $500 at the $3 million or $2 million thresholds</td><td>Seller</td></tr><tr><td>Mansion tax</td><td>1% at $1 million or more, residential</td><td>Buyer (grantee)</td></tr><tr><td>Supplemental tax, NYC only</td><td>0.25% to 2.9% at $2 million or more, residential</td><td>Buyer</td></tr></tbody></table><p>A buyer can agree in the contract to pay the base tax, but the state says it cannot be passed to the buyer in any other way. Where the buyer covers a residential base tax by contract, that payment is left out when computing the taxable amount. If one side steps in for the other, the tax becomes a joint and several liability, though the buyer who paid the seller's share has a claim against the seller for recovery.</p>"},
-{"h2":"How and when is the transfer tax filed and paid?","html":"<p>Outside New York City you file Form TP-584 with the county clerk where the property is located, with the tax, no later than the 15th day after the deed is delivered.</p><p>If the deed will not be recorded, the form and payment go straight to the Tax Department by the same 15th-day deadline. Conveyances inside New York City use Form TP-584-NYC. Nonresident sellers must also work out the gain on the sale and pay any estimated personal income tax due, unless they qualify for one of the exemptions printed on Schedule D of the form.</p><p>Read the instructions on the form itself and confirm the current address for mailed filings, since the Tax Department directs filers to the address on the form.</p>"},
-{"h2":"Is there a transfer tax in New York City?","html":"<p>Yes. New York City adds its own Real Property Transfer Tax on sales, grants, assignments and surrenders of real property, and on transfers of at least 50% of an entity that owns or leases property. The city's Department of Finance says it is usually paid as part of closing costs.</p><p>City returns are built online through ACRIS, the Automated City Register Information System. Both grantor and grantee must sign the return, and a party who does not sign may owe non-filer penalties. A late return adds 5% of the tax for each month, up to 25%, and late payment adds 0.5% per month, up to 25%, with a combined cap of 5% in any one month. The Department of Finance allows written extension requests of up to 30 days, received before the due date.</p><p>For the city rates themselves, use the Department of Finance page linked in the sources, since the rate schedule changes with the type of property and the price.</p>"},
-{"h2":"Do any local governments outside New York City add a transfer tax?","html":"<p>Some do. One documented example is the Town of Southampton on Long Island, where the Peconic Bay Region Community Preservation Fund tax is a 2.5% transfer tax that includes a 0.5% Peconic Bay Community Housing Fund component, according to the town's own FAQ.</p><p>Southampton exempts the first $100,000 of a vacant, unimproved residential parcel and the first $400,000 of an improved residential parcel where consideration is $2,000,000 or less, and there is a first-time home buyer exemption. The title closer generally collects the tax at closing and files it with the deed at the Suffolk County Clerk's Office. If you sell in a town on the east end of Long Island, ask your closing attorney whether the town you are in has the same fund and which exemptions apply to you. Anywhere else in the state, ask your town or village clerk whether a local transfer tax exists.</p>"},
-{"h2":"Which transfers are not taxed?","html":"<p>The Tax Department lists many conveyances that carry no transfer tax, and several matter to families selling inherited or distressed homes.</p><ul><li>Gifts and other conveyances without consideration that are not part of a sale.</li><li>Conveyances that secure a debt, and conveyances given in connection with a tax sale.</li><li>Deeds of partition and conveyances under the federal Bankruptcy Act.</li><li>A mere change of identity or form of ownership with no change in who benefits.</li></ul><p>A transfer by devise, bequest or inheritance is not a taxable conveyance, but the definition does include mortgage foreclosure and a transfer in lieu of foreclosure. Governmental bodies including New York State, the United States and the United Nations are exempt, though a buyer from them owes the tax.</p>"},
-{"h2":"What if an LLC is buying or selling the house?","html":"<p>The county clerk cannot accept Form TP-584 for a building of up to four dwelling units when an LLC is the seller or buyer unless the filing includes documentation of every member, manager and other authorized person. If a member is itself an entity, the names go down the ownership chain until real people are reached.</p><p>Investors who buy houses through LLCs should expect this paperwork at every closing. New York City has a similar rule for city returns, requiring an enhanced member list on Form NYC-RPT for deed transfers of one- to four-family buildings.</p>"}
-],
-"faqs":[
-{"q":"Does the seller pay the New York transfer tax?","a":"Yes, the seller pays the base tax of $2 per $500 of consideration. The buyer pays the mansion tax and the city supplemental tax, and a buyer can agree by contract to cover the base tax."},
-{"q":"What is the transfer tax on a $500,000 house in New York?","a":"It is $2,000. A $500,000 price is 1,000 blocks of $500 at $2 each. A sale at or over $1 million also triggers the 1% mansion tax, which the buyer pays."},
-{"q":"Where do I file Form TP-584?","a":"File it with the county clerk where the property sits, together with the tax, no later than the 15th day after the deed is delivered. If the deed will not be recorded, send it to the Tax Department by that date."},
-{"q":"Do I owe transfer tax on a house I inherited?","a":"No tax applies to the transfer of the house to you by devise, bequest or inheritance, because those are not conveyances under the state definition. When you later sell it, the sale is a conveyance and the base tax applies as usual."},
-{"q":"Is a foreclosure a taxable transfer?","a":"The state's definition of conveyance includes mortgage foreclosure and a transfer in lieu of foreclosure. Conveyances given in connection with a tax sale are listed among the nontaxable ones."}
-],
-"sources":[
-{"title":"NYS Tax Department: Real estate transfer tax","url":"https://www.tax.ny.gov/bus/transfer/rptidx.htm"},
-{"title":"NY Tax Law section 1402","url":"https://www.nysenate.gov/legislation/laws/TAX/1402"},
-{"title":"NYC Department of Finance: Real Property Transfer Tax","url":"https://www.nyc.gov/site/finance/property/property-real-property-transfer-tax-rptt.page"},
-{"title":"Town of Southampton: Community Preservation Fund FAQ","url":"https://southamptontownny.gov/m/faq?cat=28"}
-]}
+{
+ "slug": "new-york-transfer-tax",
+ "sections": [
+  {
+   "h2": "How much is the transfer tax on a house sale?",
+   "html": "<p>The state charges $2 for every $500 of consideration, or fractional part of $500, on a conveyance of real property worth more than $500. That works out to 0.4% of the price, and the seller pays it unless the contract says otherwise.</p><p>The rate comes from <a href=\"https://www.nysenate.gov/legislation/laws/TAX/1402\">Tax Law section 1402</a>. The \"fractional part\" language means the tax rounds up: a price a few dollars past a multiple of $500 adds one more $2 block. Sellers of one- to three-family houses and individual condominium units, and anyone selling for under $500,000, subtract the value of any lien that stays on the property after the sale, so a loan the buyer assumes does not raise the taxable amount.</p>"
+  },
+  {
+   "h2": "Extra taxes on expensive homes",
+   "html": "<p>Two add-ons exist. The \"mansion tax\" is 1% of the sale price on a residence where consideration is $1 million or more, and in New York City a further state charge applies to the top of the market.</p><ul><li><strong>Mansion tax:</strong> 1% on a one-, two- or three-family house, condominium unit or co-op unit selling for $1,000,000 or more. The buyer pays it.</li><li><strong>City additional base tax:</strong> $1.25 per $500 within New York City when residential consideration is $3 million or more, or $2 million or more for other property. The seller pays it.</li><li><strong>City supplemental tax:</strong> an incremental rate between 0.25% and 2.9% on residential sales of $2 million or more in the city, set out in the instructions to Form TP-584-NYC. The buyer pays it.</li></ul><p>These city charges apply to conveyances from July 1, 2019 forward, other than deals made under a binding written contract signed on or before April 1, 2019.</p>"
+  },
+  {
+   "h2": "Who pays, the seller or the buyer?",
+   "html": "<p>The seller pays the base tax, and the buyer pays the mansion tax and the city supplemental tax. Each side picks up the other's share if the responsible party does not pay or is exempt.</p><table><caption>Who owes each state-level transfer tax</caption><thead><tr><th>Tax</th><th>Rate</th><th>Paid by</th></tr></thead><tbody><tr><td>Base tax</td><td>$2 per $500 of consideration</td><td>Seller (grantor)</td></tr><tr><td>Additional base tax, NYC only</td><td>$1.25 per $500 at the $3 million or $2 million thresholds</td><td>Seller</td></tr><tr><td>Mansion tax</td><td>1% at $1 million or more, residential</td><td>Buyer (grantee)</td></tr><tr><td>Supplemental tax, NYC only</td><td>0.25% to 2.9% at $2 million or more, residential</td><td>Buyer</td></tr></tbody></table><p>A buyer can agree in the contract to pay the base tax, but it cannot be passed to the buyer in any other way. Where the buyer covers a residential base tax by contract, that payment is left out when computing the taxable amount. If one side steps in for the other, the tax becomes a joint and several liability, though the buyer who paid the seller's share has a claim against the seller for recovery.</p>"
+  },
+  {
+   "h2": "How and when the tax is filed and paid",
+   "html": "<p>Outside New York City you file Form TP-584 with the county clerk where the property is located, with the tax, no later than the 15th day after the deed is delivered.</p><p>If the deed will not be recorded, the form and payment go straight to the Tax Department by the same 15th-day deadline. Conveyances inside New York City use Form TP-584-NYC. Nonresident sellers must also work out the gain on the sale and pay any estimated personal income tax due, unless they qualify for one of the exemptions printed on Schedule D of the form.</p><p>Read the instructions on the form itself and use the mailing address printed there for any paper filing. Your closing attorney or title closer usually prepares the form, so ask for a copy of the filed return for your records.</p>"
+  },
+  {
+   "h2": "Is there a transfer tax in New York City?",
+   "html": "<p>Yes. New York City adds its own Real Property Transfer Tax on sales, grants, assignments and surrenders of real property, and on transfers of at least 50% of an entity that owns or leases property. It is usually paid as part of closing costs.</p><p>City returns are built online through ACRIS, the Automated City Register Information System. Both grantor and grantee must sign the return, and a party who does not sign may owe non-filer penalties. A late return adds 5% of the tax for each month, up to 25%, and late payment adds 0.5% per month, up to 25%, with a combined cap of 5% in any one month. The Department of Finance allows written extension requests of up to 30 days, received before the due date.</p><p>For the city rates themselves, check the Department of Finance transfer tax page, because the schedule shifts with property type and price.</p>"
+  },
+  {
+   "h2": "Local transfer taxes outside the city",
+   "html": "<p>Some towns add their own. One example is the Town of Southampton on Long Island, where the Peconic Bay Region Community Preservation Fund tax is a 2.5% transfer tax that includes a 0.5% Peconic Bay Community Housing Fund component.</p><p>Southampton exempts the first $100,000 of a vacant, unimproved residential parcel and the first $400,000 of an improved residential parcel where consideration is $2,000,000 or less, and there is a first-time home buyer exemption. The title closer generally collects the tax at closing and files it with the deed at the Suffolk County Clerk's Office. If you sell in a town on the east end of Long Island, ask your closing attorney whether your town has the same fund and which exemptions apply to you. Anywhere else in the state, ask your town or village clerk whether a local transfer tax exists.</p>"
+  },
+  {
+   "h2": "Transfers that are not taxed",
+   "html": "<p>A long list of conveyances escapes the tax, and a few apply to families dealing with inherited or distressed homes.</p><ul><li>Gifts and other conveyances without consideration that are not part of a sale.</li><li>Conveyances that secure a debt, and conveyances given in connection with a tax sale.</li><li>Deeds of partition and conveyances under the federal Bankruptcy Act.</li><li>A mere change of identity or form of ownership with no change in who benefits.</li></ul><p>A transfer by devise, bequest or inheritance is not a taxable conveyance, but the definition does include mortgage foreclosure and a transfer in lieu of foreclosure. Governmental bodies including New York State, the United States and the United Nations are exempt, though a buyer from them owes the tax.</p>"
+  },
+  {
+   "h2": "What if an LLC is buying or selling?",
+   "html": "<p>The county clerk cannot accept Form TP-584 for a building of up to four dwelling units when an LLC is the seller or buyer unless the filing includes documentation of every member, manager and other authorized person. If a member is itself an entity, the names go down the ownership chain until real people are reached.</p><p>Investors who buy houses through LLCs should expect this paperwork at every closing. New York City has a similar rule for city returns, requiring an enhanced member list on Form NYC-RPT for deed transfers of one- to four-family buildings. Gather the member information before closing day so the filing does not hold up the deed.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does the seller pay the New York transfer tax?",
+   "a": "Yes, the seller pays the base tax of $2 per $500 of consideration. The buyer pays the mansion tax and the city supplemental tax, and a buyer can agree by contract to cover the base tax."
+  },
+  {
+   "q": "How is the transfer tax figured on a $500,000 house?",
+   "a": "Divide the price by $500 and multiply by $2, which is 0.4% of the price. A sale at or over $1 million also triggers the 1% mansion tax, which the buyer pays."
+  },
+  {
+   "q": "Where do I file Form TP-584?",
+   "a": "File it with the county clerk where the property sits, together with the tax, no later than the 15th day after the deed is delivered. If the deed will not be recorded, send it to the Tax Department by that date."
+  },
+  {
+   "q": "Do I owe transfer tax on a house I inherited?",
+   "a": "No tax applies to the transfer of the house to you by devise, bequest or inheritance, because those are not conveyances under the state definition. When you later sell it, the sale is a conveyance and the base tax applies as usual."
+  },
+  {
+   "q": "Is a foreclosure a taxable transfer?",
+   "a": "The state's definition of conveyance includes mortgage foreclosure and a transfer in lieu of foreclosure. Conveyances given in connection with a tax sale are listed among the nontaxable ones."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NYS Tax Department: Real estate transfer tax",
+   "url": "https://www.tax.ny.gov/bus/transfer/rptidx.htm"
+  },
+  {
+   "title": "NY Tax Law section 1402",
+   "url": "https://www.nysenate.gov/legislation/laws/TAX/1402"
+  },
+  {
+   "title": "NYC Department of Finance: Real Property Transfer Tax",
+   "url": "https://www.nyc.gov/site/finance/property/property-real-property-transfer-tax-rptt.page"
+  },
+  {
+   "title": "Town of Southampton: Community Preservation Fund FAQ",
+   "url": "https://southamptontownny.gov/m/faq?cat=28"
+  }
+ ]
+}
