@@ -7,15 +7,15 @@
   },
   {
    "h2": "Who pays the conveyance fee",
-   "html": "<p>The grantor, which means the seller. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">Section 319.202</a> puts the fee under 319.54(G)(3), plus any Chapter 322 transfer tax, on the grantor at the moment the deed is delivered. The deed makes two stops, the auditor first and the recorder second.</p>\n<p>The fee is figured on \"value,\" defined as the full consideration paid or to be paid, including the amount of any mortgage or vendor's lien. For a gift, value means the open-market price between a willing buyer and a willing seller. Willfully falsifying the stated value is prohibited.</p>"
+   "html": "<p>The grantor, which means the seller. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">Section 319.202</a> puts the fee under 319.54(G)(3), plus any Chapter 322 transfer tax, on the grantor at the moment the deed is delivered. The deed makes two stops, the auditor first and the recorder second.</p>\n<p>The fee is figured on \"value.\" That means everything paid or promised for the property, with any mortgage or vendor's lien counted in. For a gift, value is the open-market price a willing buyer and willing seller would agree on. Willfully falsifying the stated value is prohibited.</p>"
   },
   {
    "h2": "Do Ohio counties charge different conveyance rates?",
-   "html": "<p>Yes. State law sets the floor, and county commissioners may add a tax of up to thirty cents per hundred dollars under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-322.02\">section 322.02</a>. To adopt it, the board must hold two public hearings and publish notice, and the resolution is generally open to a referendum.</p>\n<p>Two counties show how the printed figure looks. Morrow County lists $4.00 per thousand for both real estate and manufactured homes. Muskingum County also prints $4.00 per thousand, worked out by multiplying the sale price by 0.004 and rounding to the nearest ten cents, plus a $0.50 per parcel transfer fee. Rates vary elsewhere, so check your own county auditor's real estate transfer page or phone the office before you estimate proceeds.</p>"
+   "html": "<p>Yes. The state sets the floor. Commissioners in each county may add up to thirty cents per hundred dollars under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-322.02\">section 322.02</a>. To adopt it, the board must hold two public hearings and publish notice, and the resolution is generally open to a referendum.</p>\n<p>Two counties show how the printed figure looks. Morrow County shows $4.00 per thousand for real estate and for manufactured homes alike. Muskingum County prints the same $4.00 per thousand. Its method is the sale price times 0.004, rounded to the nearest ten cents, with a $0.50 per parcel transfer fee added. Rates vary elsewhere, so check your own county auditor's real estate transfer page or phone the office before you estimate proceeds.</p>"
   },
   {
    "h2": "Transfers that skip the conveyance fee",
-   "html": "<p>The exemptions in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">section 319.54(G)(3)</a> matter most to families and estates. They include:</p>\n<ul>\n<li>A deed whose only purpose is to confirm or correct one already recorded.</li>\n<li>A gift between spouses, or between a parent and a child or that child's spouse.</li>\n<li>A transfer among heirs at law or devisees of a common decedent when no money is paid.</li>\n<li>A deed to the trustee of a trust whose maker kept an unlimited power to revoke.</li>\n<li>A transfer where no money or other valuable consideration is paid and the deal is not a gift.</li>\n<li>A transfer by court order, unless it results from a sale made under that order.</li>\n<li>An interest worth $100 or less.</li>\n</ul>\n<p>For an exempt transfer, the statement of value only has to give the reason for the exemption.</p>"
+   "html": "<p>The exemptions in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.54\">section 319.54(G)(3)</a> matter most to families and estates. They include:</p>\n<ul>\n<li>A deed whose only purpose is to confirm or correct one already recorded.</li>\n<li>A gift from one spouse to the other, or from a parent to a child or the child's spouse.</li>\n<li>A transfer among heirs at law or devisees of a common decedent when no money is paid.</li>\n<li>A deed to the trustee of a trust whose maker kept an unlimited power to revoke.</li>\n<li>A transfer that involves no money or other valuable consideration and is not a gift.</li>\n<li>A transfer by court order, unless it results from a sale made under that order.</li>\n<li>An interest worth $100 or less.</li>\n</ul>\n<p>For an exempt transfer, the statement of value only has to give the reason for the exemption.</p>"
   },
   {
    "h2": "Recording fees",
@@ -31,7 +31,7 @@
   },
   {
    "h2": "Seller disclosures",
-   "html": "<p>Anyone selling a home with up to four dwelling units must complete the state's property disclosure form and hand the buyer a signed copy, under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5302.30\">section 5302.30</a>. The form covers water supply, sewer, structure, hazardous materials and known defects.</p>\n<p>A buyer who gets the form after signing the contract can rescind within three business days, and no later than the earlier of thirty days after acceptance or closing. Exceptions cover court-ordered transfers, estate fiduciary transfers, and a seller who inherited the home and has not lived there in the past year. When the buyer is borrowing, federal rules require the lender to provide a Closing Disclosure three business days before closing, and its seller-side lines show credits and prorations.</p>"
+   "html": "<p>Sellers of homes with as many as four dwelling units fill out the state's property disclosure form and give the buyer a signed copy, as <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5302.30\">section 5302.30</a> requires. The form covers water supply, sewer, structure, hazardous materials and known defects.</p>\n<p>If the form reaches the buyer only after the contract is signed, the buyer has three business days to back out. That right ends at the earlier of thirty days after acceptance or closing. Exceptions cover court-ordered transfers, estate fiduciary transfers, and a seller who inherited the home and has not lived there in the past year. When the buyer is borrowing, federal rules require the lender to provide a Closing Disclosure three business days before closing, and its seller-side lines show credits and prorations.</p>"
   },
   {
    "h2": "What a seller gets back at closing",
@@ -41,7 +41,7 @@
  "faqs": [
   {
    "q": "What is the Ohio conveyance fee?",
-   "a": "It is $1 or ten cents per hundred dollars of value, whichever is greater, under Revised Code 319.54(G)(3). A county may add up to thirty cents per hundred more, and the seller pays both."
+   "a": "Revised Code 319.54(G)(3) sets it at the greater of $1 or ten cents per hundred dollars of value. A county can layer up to thirty cents per hundred on top, and both land on the seller."
   },
   {
    "q": "Does Ohio have a state transfer tax?",
@@ -52,7 +52,7 @@
    "a": "The statute sets the amount and leaves the assignment to the contract. Check the settlement statement or ask the title agent which side carries the deed's recording fee."
   },
   {
-   "q": "How soon must a lender record a mortgage release in Ohio?",
+   "q": "How fast must an Ohio lender record the mortgage release?",
    "a": "Within ninety days after the mortgage is satisfied. If it is late, the owner can give written notice, and the lender then has fifteen days to record before daily damages start."
   },
   {
