@@ -2,32 +2,36 @@
   "slug": "wayne-county-pa-recorder-of-deeds",
   "sections": [
     {
-      "h2": "Where do you record a deed in Wayne County, PA?",
-      "html": "<p>At the Recorder of Deeds office in the Wayne County Courthouse Annex, 925 Court Street, Honesdale, PA 18431. The phone is 570-253-5970, extension 4040. The office is open Monday through Friday, 8:30 a.m. to 4:30 p.m., and nothing is accepted for recording after 4:00 p.m.</p><p>Wayne County calls the office the custodian of the records and indexes for land transfers. It keeps deeds, mortgages, subdivision plans, rights-of-way and easements, and it also records the commissions and oaths of county officials, district justices and notaries, plus military discharges. A house sale in Wayne County ends here: after closing, the signed deed is recorded in Honesdale, and the new owner appears in the public record from that point.</p><p>The county asks one thing of readers up front. Staff cannot give legal advice or attorney referrals, so questions about how to word a deed belong with a lawyer, and the Wayne County Bar Association keeps a member list.</p>"
+      "h2": "Where to record a deed in Wayne County",
+      "html": "<p>Deeds go to the Recorder of Deeds in the Wayne County Courthouse Annex, 925 Court Street, Honesdale, PA 18431. Call 570-253-5970, extension 4040. The doors are open Monday through Friday, 8:30 a.m. to 4:30 p.m., and nothing is taken for recording after 4:00 p.m.</p><p>This office is the custodian of land transfer records and indexes. It holds deeds, mortgages, subdivision plans, rights-of-way and easements, and it also files the commissions and oaths of county officials, district justices and notaries, plus military discharges. For a house sale, the last step happens in Honesdale: after closing, the signed deed is filed and the buyer appears as owner of record.</p><p>Legal advice and attorney referrals are not something the staff provide. For help wording a deed, hire a lawyer. The Wayne County Bar Association keeps a member list.</p>"
     },
     {
-      "h2": "What new Uniform Parcel Identifier rule started in Wayne County in November 2026?",
-      "html": "<p>UPI certification began on November 2, 2026, at $20.00 per UPI number. The county posted the start date and the fee at the top of its recorder page, and its tax sale page notes that the Wayne County UPI Ordinance was adopted, with a $20.00 fee for each Uniform Parcel Identifier beginning that date.</p><p>For a seller, the practical effect is simple. A deed for a parcel now involves a certification step, and a sale that covers more than one parcel pays the $20.00 once per UPI number. Ask the recorder's office for the UPI notice, and have your closing agent or attorney confirm when the certification has to be completed.</p><p>The same date changed another number. The county's tax sale page says the deed recording fee became $94.75 as of November 2, 2026. That figure appears in the context of a tax sale deed, so ask the office to confirm the charge for an ordinary private sale deed.</p>"
+      "h2": "Uniform Parcel Identifier certification",
+      "html": "<p>UPI certification started on November 2, 2026, at $20.00 per UPI number. A deed for a parcel now includes this certification step, and a sale covering more than one parcel pays the $20.00 once for each UPI number.</p><p>The recorder's page links a UPI notice. Ask for it, and have your closing agent or attorney confirm when the certification must be finished so it does not hold up the filing.</p><p>The same date changed another number: the deed recording fee for a tax sale deed became $94.75. That figure applies to tax sale deeds, so ask the office what an ordinary private sale deed costs.</p>"
     },
     {
-      "h2": "What charges does Wayne County name on its recorder and tax sale pages?",
-      "html": "<p>Wayne County posts a fee schedule as a spreadsheet and a PDF, and the figures below are the ones stated on the county's web pages themselves.</p><table><caption>Wayne County fees stated on county web pages</caption><thead><tr><th>Item</th><th>Amount</th><th>Applies to</th></tr></thead><tbody><tr><td>UPI certification</td><td>$20.00 per UPI number</td><td>Documents recorded from November 2, 2026</td></tr><tr><td>E-recording helper pages</td><td>$0.50 per page</td><td>Pages attached to the REV-183 Statement of Value, from January 1, 2026</td></tr><tr><td>Deed recording fee, tax sale deed</td><td>$94.75</td><td>From November 2, 2026</td></tr><tr><td>Deed preparation fee, tax sale</td><td>$25</td><td>Added to a repository sale purchase</td></tr><tr><td>Bidder pre-registration</td><td>$25, non-refundable</td><td>Tax sale bidders</td></tr></tbody></table><p>For a plain deed, the county's page does not print one total, so call 570-253-5970, extension 4040, or open the fee schedule on the county's Recorder of Deeds page. The schedule is dated November 2026, and it lists fees by document type.</p>"
+      "h2": "Fees you may see",
+      "html": "<p>Wayne County posts a fee schedule as a spreadsheet and a PDF, listed by document type. These are the amounts that appear on its recorder and tax sale pages.</p><table><caption>Wayne County recorder and tax sale charges</caption><thead><tr><th>Charge</th><th>Amount</th><th>When it applies</th></tr></thead><tbody><tr><td>UPI certification</td><td>$20.00 per UPI number</td><td>Documents recorded from November 2, 2026</td></tr><tr><td>E-recording helper pages</td><td>$0.50 per page</td><td>Pages attached to the REV-183 Statement of Value, from January 1, 2026</td></tr><tr><td>Deed recording fee, tax sale deed</td><td>$94.75</td><td>From November 2, 2026</td></tr><tr><td>Deed preparation fee</td><td>$25</td><td>Added to a repository sale purchase</td></tr><tr><td>Bidder pre-registration</td><td>$25, non-refundable</td><td>Tax sale bidders</td></tr></tbody></table><p>For the total on an ordinary deed, call 570-253-5970, extension 4040, or open the fee schedule on the Recorder of Deeds page.</p>"
     },
     {
-      "h2": "How can a Wayne County deed be e-recorded?",
-      "html": "<p>Through one of two vendors: CSC at 866-652-0111 or Simplifile at 800-460-5657. Most land-related documents can be sent that way without a trip to Honesdale.</p><p>Two kinds of document cannot be e-recorded and must be delivered on paper: subdivision plans, and deeds that are taxable in more than one jurisdiction. The second exception comes up when a parcel lies in more than one municipality: the deed then has to state the percentage in each so the local transfer tax divides correctly.</p><ul><li>E-recorded transactions with a REV-183 Statement of Value attach helper pages, and those pages cost $0.50 each.</li><li>Paper filings go to the courthouse annex before the 4:00 p.m. cutoff.</li><li>Faxed or emailed copies are not accepted for recording.</li></ul>"
+      "h2": "E-recording a deed",
+      "html": "<p>Two vendors handle electronic filing: CSC at 866-652-0111 and Simplifile at 800-460-5657. Most land documents can go this way, which saves a trip to Honesdale.</p><p>Two kinds of document must be delivered on paper: subdivision plans, and deeds that are taxable in more than one jurisdiction. The second exception applies when a parcel lies in more than one municipality. The deed then has to state the percentage in each so the local transfer tax divides correctly.</p><ul><li>E-recorded transactions with a REV-183 Statement of Value attach helper pages at $0.50 each.</li><li>Paper filings must reach the courthouse annex before 4:00 p.m.</li><li>Faxed or emailed copies are not accepted for recording.</li></ul>"
     },
     {
-      "h2": "What does the Wayne County recorder require on a deed?",
-      "html": "<p>The county publishes a checklist, and it is stricter than many sellers expect. An acknowledgment must show the county, state, date, the people or corporate officers appearing, and the notary's signature, stamp and expiration date. If any of those is missing, the acknowledgment is treated as defective.</p><ul><li>The written amount of consideration has to match the number on the deed.</li><li>Every deed, mortgage and assignment needs a signed certification of the grantee's address with zip code.</li><li>Transfer taxes or a completed Statement of Value must accompany every deed.</li><li>Black ink and white or manila paper only, since the office scans everything.</li><li>Documents may not exceed 8 1/2 by 14 inches, and maps may not exceed 24 by 36 inches.</li><li>Recorded papers come back by mail only if you enclose a stamped, self-addressed envelope.</li></ul>"
+      "h2": "What the recorder requires on a deed",
+      "html": "<p>The recorder's checklist is stricter than many sellers expect. An acknowledgment must show the county, state, date, the people or corporate officers appearing, and the notary's signature, stamp and expiration date. Miss any of those and the acknowledgment is treated as defective.</p><ul><li>The written amount of consideration has to match the number on the deed.</li><li>Every deed, mortgage and assignment needs a signed certification of the grantee's address with zip code.</li><li>Transfer taxes or a completed Statement of Value must accompany every deed.</li><li>Use black ink on white or manila paper, since the office scans everything.</li><li>Documents may not exceed 8 1/2 by 14 inches, and maps may not exceed 24 by 36 inches.</li><li>Recorded papers come back by mail only if you enclose a stamped, self-addressed envelope.</li></ul>"
     },
     {
-      "h2": "What is Wayne County like for a house sale?",
-      "html": "<p>It is a rural, lake-and-hill county in the Poconos with a small population. The Census Bureau's 2025 estimate is 51,703 people on about 726 square miles of land, which works out to roughly 70 people per square mile. The county was formed in 1798 from part of Northampton County, and Honesdale is both the seat and the largest borough.</p><p>QuickFacts for 2020 to 2024 shows 80.5 percent owner-occupancy, a median owner-occupied home value of $242,100, median gross rent of $1,038 and median household income of $62,381. Residents aged 65 or older make up 27.2 percent of the population, which is high, and 32,637 housing units serve only 20,877 households.</p><p>The county's boroughs are Bethany, Hawley, Honesdale, Prompton, Starrucca and Waymart. Terrain varies from rugged ground along the New York border to a wide central plain, and the Delaware River separates the county from New York. Winters are cold, with Honesdale averaging about 22.8 degrees in January, so heating systems and roofs draw attention at inspection. Six school districts serve the county: Forest City Regional, North Pocono, Susquehanna Community, Wallenpaupack Area, Wayne Highlands and Western Wayne.</p>"
+      "h2": "Wayne County housing at a glance",
+      "html": "<p>Wayne is a rural Poconos county with about 51,703 residents. Owners occupy 80.5 percent of homes, the median owner-occupied value is $242,100, and median gross rent is $1,038. The county counts 32,637 housing units but only 20,877 households, so a large share of homes are not lived in year-round. That affects who your likely buyers are, and a house that heats well in winter will draw more attention at inspection.</p>"
     },
     {
-      "h2": "What should a Wayne County seller know about assessments and unpaid taxes?",
-      "html": "<p>The Assessment Office maintains property records and prepares the tax rolls, and it does not set millage rates or collect taxes. It sits at 925 Court Street in Honesdale, phone 570-253-5970, extension 4010, open 8:30 a.m. to 4:30 p.m. The county has 28 municipalities and 6 school districts, all of which draw on those rolls.</p><p>Back taxes go to the Tax Claim Bureau, extension 4000, at the same address. It runs sales under the Real Estate Tax Sale Law, and unsold properties go on a repository list. Repository sales are held quarterly in February, May, August and November, and the owner can pay up to the day of the sale. Buyers at a repository sale pay costs, a $25 deed preparation fee and 2 percent transfer tax, and Act 33 requires every bidder to pre-register.</p><p>If a back-tax balance sits on the house you want to sell, ask the Tax Claim Bureau for a payoff figure before closing.</p>"
+      "h2": "Assessments and unpaid taxes",
+      "html": "<p>The Assessment Office keeps property records and prepares the tax rolls. It does not set millage rates or collect taxes. You will find it at 925 Court Street in Honesdale, phone 570-253-5970, extension 4010, open 8:30 a.m. to 4:30 p.m.</p><p>Back taxes go to the Tax Claim Bureau, extension 4000, at the same address. It runs sales under the Real Estate Tax Sale Law, and unsold properties move to a repository list. Repository sales happen quarterly, in February, May, August and November, and the owner can pay up to the day of the sale. Buyers at a repository sale pay costs, a $25 deed preparation fee and 2 percent transfer tax, and Act 33 requires every bidder to pre-register.</p><p>If a back-tax balance sits on the house you want to sell, ask the Tax Claim Bureau for a payoff figure before closing so it can be paid from your proceeds.</p>"
+    },
+    {
+      "h2": "From closing table to public record",
+      "html": "<p>Once you sign, the title company or attorney assembles the package: the deed, the Statement of Value or the transfer tax payment, the grantee address certification, and the fees. Check the package against the checklist above before it leaves their office, because a missing notary stamp or a mismatched dollar amount gets the filing returned.</p><p>If the deed goes in electronically, CSC or Simplifile carries it to the recorder. If it goes on paper, someone must reach the annex before 4:00 p.m. and include a stamped, self-addressed envelope if you want the original back. A cash sale skips the lender's paperwork, but the recording steps and the transfer tax stay the same.</p><p>Before the day arrives, ask your closing agent three things: whether the parcel needs UPI certification and for how many numbers, whether the deed touches more than one municipality, and whether the file will go on paper or electronically. Those answers decide the fees and the route. Keep the recorded deed when it comes back, since it proves the transfer is on the public record. If the office rejects a filing, ask exactly which item failed, fix it and resubmit the same day if you can.</p>"
     }
   ],
   "faqs": [
@@ -37,7 +41,7 @@
     },
     {
       "q": "Is there a new fee for parcel identifiers in Wayne County?",
-      "a": "Yes. Uniform Parcel Identifier certification began on November 2, 2026, and costs $20.00 per UPI number. The county's recorder page links a UPI notice that explains the process."
+      "a": "Yes. Uniform Parcel Identifier certification began on November 2, 2026, and costs $20.00 per UPI number. The recorder's page links a UPI notice that explains the process."
     },
     {
       "q": "Can I e-record a Wayne County deed?",
@@ -45,7 +49,7 @@
     },
     {
       "q": "Does Wayne County mail back a recorded deed?",
-      "a": "Only if you enclose a stamped, self-addressed envelope when you submit it. Without one, the Recorder's Office does not mail recorded documents."
+      "a": "Only if you enclose a stamped, self-addressed envelope when you submit it."
     },
     {
       "q": "Where do I see who owns a Wayne County parcel?",
@@ -53,12 +57,33 @@
     }
   ],
   "sources": [
-    {"title": "Recorder of Deeds, Wayne County, PA", "url": "https://waynecountypa.gov/481/Recorder-of-Deeds"},
-    {"title": "Recording Documents, Wayne County, PA", "url": "https://waynecountypa.gov/490/Recording-Documents"},
-    {"title": "Repository Tax Sales, Wayne County, PA", "url": "https://waynecountypa.gov/177/Repository-Tax-Sales"},
-    {"title": "Tax Claim, Wayne County, PA", "url": "https://waynecountypa.gov/168/Tax-Claim"},
-    {"title": "Tax Assessment, Wayne County, PA", "url": "https://waynecountypa.gov/161/Tax-Assessment"},
-    {"title": "QuickFacts: Wayne County, Pennsylvania, U.S. Census Bureau", "url": "https://www.census.gov/quickfacts/fact/table/waynecountypennsylvania/PST045224"},
-    {"title": "Wayne County, Pennsylvania, Wikipedia", "url": "https://en.wikipedia.org/wiki/Wayne_County,_Pennsylvania"}
+    {
+      "title": "Recorder of Deeds, Wayne County, PA",
+      "url": "https://waynecountypa.gov/481/Recorder-of-Deeds"
+    },
+    {
+      "title": "Recording Documents, Wayne County, PA",
+      "url": "https://waynecountypa.gov/490/Recording-Documents"
+    },
+    {
+      "title": "Repository Tax Sales, Wayne County, PA",
+      "url": "https://waynecountypa.gov/177/Repository-Tax-Sales"
+    },
+    {
+      "title": "Tax Claim, Wayne County, PA",
+      "url": "https://waynecountypa.gov/168/Tax-Claim"
+    },
+    {
+      "title": "Tax Assessment, Wayne County, PA",
+      "url": "https://waynecountypa.gov/161/Tax-Assessment"
+    },
+    {
+      "title": "QuickFacts: Wayne County, Pennsylvania, U.S. Census Bureau",
+      "url": "https://www.census.gov/quickfacts/fact/table/waynecountypennsylvania/PST045224"
+    },
+    {
+      "title": "Wayne County, Pennsylvania, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wayne_County,_Pennsylvania"
+    }
   ]
 }
