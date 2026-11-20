@@ -2,58 +2,62 @@
  "slug": "perry-county-oh-recorder-of-deeds",
  "sections": [
   {
-   "h2": "Where do you find the Perry County recorder?",
-   "html": "<p>Look for the recorder at 212 S. Main Street, New Lexington, where the doors are open weekdays from 8:00 am to 4:00 pm and the number is (740) 342-2494. The Perry County Auditor shares that address and those hours.</p><p>The county's page frames the office as the place that keeps land records in an organized, accessible form: who owns what, how title moved, and which mortgages exist. Staff will not run a title search for you or advise you on legal questions. They will let you sit down and search the public records yourself.</p><p>Payment is by cash or check. Cards are not taken, so settle that before you send paperwork.</p><p>The recorder's fax line is (740) 342-5539, and the auditor can be reached at (740) 342-2074. If you are sorting out several documents for one sale, calling both offices on the same day saves a second trip.</p>"
+   "h2": "Perry County recorder: location, hours and payment",
+   "html": "<p>The recorder is at 212 S. Main Street in New Lexington, open weekdays from 8:00 am to 4:00 pm. The phone number is (740) 342-2494, and the Perry County Auditor shares the address and the hours.</p>\n<p>The office keeps land records organized and open to the public: who owns what, how title moved, and which mortgages exist. Staff will not run a title search for you or advise you on legal questions. They will let you sit down and search the public records yourself.</p>\n<p>Payment is by cash or check. Cards are not taken, so settle that before you send paperwork.</p>\n<p>The recorder's fax line is (740) 342-5539, and the auditor can be reached at (740) 342-2074. If you are sorting out several documents for one sale, calling both offices on the same day saves a second trip.</p>"
   },
   {
-   "h2": "What are the Perry County recording charges?",
-   "html": "<p>The recorder's FAQ spells out the price: $34.00 buys the first two pages and each page beyond costs $8.00. If the document ignores the margin rules, $20.00 is added, and a document that needs a cross-reference picks up $4.00.</p><table><caption>Charges as posted on the Perry County Recorder page</caption><thead><tr><th>Situation</th><th>Charge</th></tr></thead><tbody><tr><td>Pages one and two</td><td>$34.00</td></tr><tr><td>Every further page</td><td>$8.00</td></tr><tr><td>Top margin under 3 inches on page one, or sides and bottom under 1 inch</td><td>$20.00 added</td></tr><tr><td>Cross-reference to an earlier record</td><td>$4.00 added</td></tr><tr><td>Accepted payment</td><td>Cash or check</td></tr></tbody></table><p>State law in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">Revised Code 317.32</a> allows counties to add a preservation surcharge up to $5. The Perry page lists none, so ask the office whether one applies to your filing.</p>"
+   "h2": "Recording charges",
+   "html": "<p>The first two pages cost $34.00 and each page beyond that costs $8.00. If the document ignores the margin rules, $20.00 is added, and a document that needs a cross-reference picks up $4.00.</p>\n<table>\n<caption>Perry County recording charges</caption>\n<thead><tr><th>Situation</th><th>Charge</th></tr></thead>\n<tbody>\n<tr><td>Pages one and two</td><td>$34.00</td></tr>\n<tr><td>Every further page</td><td>$8.00</td></tr>\n<tr><td>Top margin under 3 inches on page one, or sides and bottom under 1 inch</td><td>$20.00 added</td></tr>\n<tr><td>Cross-reference to an earlier record</td><td>$4.00 added</td></tr>\n<tr><td>Accepted payment</td><td>Cash or check</td></tr>\n</tbody>\n</table>\n<p>State law in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.32\">Revised Code 317.32</a> allows counties to add a preservation surcharge up to $5. Ask the office whether one applies to your filing.</p>"
   },
   {
-   "h2": "What does the Perry County auditor collect on a sale?",
-   "html": "<p>Ahead of recording, the auditor moves the parcel into the buyer's name on the tax list. The buyer or the buyer's representative files a statement of value, and the seller owes the conveyance fee.</p><p>Statute 319.54(G)(3) sets the state portion at one dollar, or ten cents per hundred dollars of value (rounded up for any fraction), whichever is greater. Section 322.02 lets a county commissioners' board levy a transfer tax of up to thirty cents per hundred dollars on top, so what you owe at the table depends on Perry County's own resolutions.</p><p>The auditor's site hosts a Conveyance Fee Calculator that builds in the per-parcel transfer fee: key in the number of parcels and the price. State conveyance forms sit on the Forms page of the same site.</p>"
+   "h2": "Auditor fees on a sale",
+   "html": "<p>Ahead of recording, the auditor moves the parcel into the buyer's name on the tax list. The buyer or the buyer's representative files a statement of value, and the seller owes the conveyance fee.</p>\n<p>Statute 319.54(G)(3) sets the state portion at one dollar, or ten cents per hundred dollars of value (rounded up for any fraction), whichever is greater. Section 322.02 lets a county commissioners' board levy a transfer tax of up to thirty cents per hundred dollars on top, so what you owe at the table depends on Perry County's own resolutions.</p>\n<p>The auditor's site hosts a Conveyance Fee Calculator that builds in the per-parcel transfer fee: key in the number of parcels and the price. State conveyance forms sit on the Forms page of the same site.</p>"
   },
   {
-   "h2": "How can you search Perry County land records?",
-   "html": "<p>An online index named Adaptable Visual Access returns the volume and page for each recorded item. Images of the documents are not posted there, so call or write to the office to order a copy and learn the fee and payment options.</p><p>The office also sets owners up with a free fraud alert through its software vendor. A subscriber is told within 24 business hours when anything is recorded under their name. Because the office has to record any paper that meets the filing rules, the alert warns you but cannot block a filing.</p><p>Veterans can have a DD214 recorded by bringing the original or a certified copy and photo ID, and the office hands out veteran ID cards too.</p>"
+   "h2": "Searching Perry County land records",
+   "html": "<p>An online index named Adaptable Visual Access returns the volume and page for each recorded item. Images of the documents are not posted there, so call or write to the office to order a copy and learn the fee and payment options.</p>\n<p>The office also sets owners up with a free fraud alert through its software vendor. A subscriber is told within 24 business hours when anything is recorded under their name. The office has to record any paper that meets the filing rules, so the alert warns you but cannot block a filing.</p>\n<p>A DD214 can be recorded by bringing the original or a certified copy and photo ID. The office hands out military ID cards too.</p>"
   },
   {
-   "h2": "What else does the Perry County recorder file?",
-   "html": "<p>Revised Code <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.08\">317.08</a> sends a long list of instruments into the official records. The following matter most to someone selling a house:</p><ul><li>Mortgages and their modifications.</li><li>Land installment contracts that run beyond a year, plus leases.</li><li>Powers of attorney, used when an agent signs for the seller.</li><li>Mechanic's liens, federal tax liens and similar recorded claims.</li><li>Purchase options, accepted only when they give an expiration day and year.</li></ul><p>Paper goes on record in the sequence it arrives. An owner's transfer on death affidavit is filed like a deed, at the deed price, and counts only if recorded before death.</p>"
+   "h2": "Documents the recorder files",
+   "html": "<p>Revised Code <a href=\"https://codes.ohio.gov/ohio-revised-code/section-317.08\">317.08</a> sends a long list of instruments into the official records. These matter most to someone selling a house:</p>\n<ul>\n<li>Mortgages and their modifications.</li>\n<li>Land installment contracts that run beyond a year, plus leases.</li>\n<li>Powers of attorney, used when an agent signs for the seller.</li>\n<li>Mechanic's liens, federal tax liens and similar recorded claims.</li>\n<li>Purchase options, accepted only when they give an expiration day and year.</li>\n</ul>\n<p>Paper goes on record in the sequence it arrives. An owner's transfer on death affidavit is filed like a deed, at the deed price, and counts only if recorded before death.</p>"
   },
   {
-   "h2": "What should a Perry County seller fix before recording?",
-   "html": "<p>Most trouble traces to small slips. Run through this list before signing:</p><ul><li>An officer listed in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5301.01\">section 5301.01</a>, such as a notary, witnesses your signature and certifies the acknowledgment.</li><li>The new owner's mailing address and a cite to the preceding recorded deed appear on the face of the deed, as section 319.20 expects.</li><li>Margins follow the layout rules, which avoids the $20.00 add-on.</li><li>You hold the lender's payoff figure. Once paid, the lender sends a release for recording, and the recorder can hand you a copy.</li><li>You can pay by check or cash.</li></ul><p>When a spouse has died and a name has to come off the deed, remember the recorder records but does not draft. An attorney writes the instrument.</p>"
+   "h2": "Fixes to make before recording",
+   "html": "<p>Most trouble traces to small slips. Run through this list before signing:</p>\n<ul>\n<li>An officer listed in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5301.01\">section 5301.01</a>, such as a notary, witnesses your signature and certifies the acknowledgment.</li>\n<li>The new owner's mailing address and a cite to the preceding recorded deed appear on the face of the deed, as section 319.20 expects.</li>\n<li>Margins follow the layout rules, which avoids the $20.00 add-on.</li>\n<li>You hold the lender's payoff figure. Once paid, the lender sends a release for recording, and the recorder can hand you a copy.</li>\n<li>You can pay by check or cash.</li>\n</ul>\n<p>When a spouse has died and a name has to come off the deed, remember the recorder records but does not draft. An attorney writes the instrument.</p>"
   },
   {
-   "h2": "How does Perry County housing look in the Census data?",
-   "html": "<p>An estimated 35,918 people lived in Perry County in July 2025, 1.4% above the April 2020 estimates base, on about 408 square miles of land. The Census Bureau reports 15,173 housing units and 13,452 households.</p><ul><li>Homes occupied by owners: 76.4%.</li><li>Typical owner-occupied home value: $191,100.</li><li>Gross rent at the midpoint: $777 monthly.</li><li>Average trip to work: 33.2 minutes.</li><li>Building permits issued in 2025: 39.</li><li>Residents below the poverty line: 13.7%.</li></ul><p>That 33.2 minute average is the longest of the three counties in the Census table, and Wikipedia lists Perry County in the Columbus metropolitan area.</p><p>On the income side, the same table shows household income at the midpoint of $67,460 and per capita income of $32,288 for 2020 to 2024. Employers numbered 455 in 2023, and employment of 4,478 grew 5.0% over 2022. Retail sales in 2022 came to $6,963 per resident, and 16.2% of adults hold a bachelor's degree or higher.</p>"
+   "h2": "What happens between closing and recording",
+   "html": "<p>A few steps follow the signing table, and knowing the order helps you spot where a delay comes from.</p>\n<ol>\n<li>The buyer or the buyer's representative files the statement of value with the auditor.</li>\n<li>The seller pays the conveyance fee, which you can estimate on the auditor's calculator.</li>\n<li>The auditor moves the parcel into the buyer's name on the tax list.</li>\n<li>The recorder files the deed in the order it arrives and charges by the page.</li>\n<li>When a mortgage is paid, the lender sends a release to be recorded, and the recorder can hand you a copy.</li>\n</ol>\n<p>If you send paperwork by mail, include a check, since cards are not taken. Call (740) 342-2494 if you are unsure of the total for a particular document, and call the auditor at (740) 342-2074 about the transfer side.</p>"
   },
   {
-   "h2": "How does the Perry County auditor value property?",
-   "html": "<p>According to the auditor, Ohio demands a full reappraisal of the county every six years, with a state percentage adjustment in the third year of each cycle. Roughly 31,000 parcels were on the books for 2024, sorted into residential, agricultural, commercial and industrial classes.</p><p>The auditor's home page also reports that House Bill 479 gives a one-time fixed reduction to current Standard and Enhanced Homestead Exemption recipients, for tax year 2026 or tax year 2027 on manufactured and mobile homes. If you are selling in the middle of a tax year, ask how that reduction carries over.</p><p>When storm or flood damage lowers what a house is worth, phone the auditor at (740) 342-2074 and ask how a damaged-property adjustment works.</p>"
+   "h2": "Perry County housing at a glance",
+   "html": "<p>About 35,918 people lived in Perry County in July 2025, on roughly 408 square miles. There are 15,173 housing units and 13,452 households. Owners occupy 76.4% of homes, the typical owner-occupied home is worth $191,100, and gross rent at the midpoint is $777 a month. New construction is modest, with 39 building permits in 2025.</p>"
   },
   {
-   "h2": "What communities are in Perry County?",
-   "html": "<p>The state formed Perry County on March 1, 1818 out of parts of Fairfield, Washington and Muskingum counties. New Lexington serves as county seat and is the largest city. Villages include Corning, Crooksville, Glenford, Hemlock, Junction City, New Straitsville, Rendville, Roseville (partly here), Shawnee, Somerset and Thornville.</p><p>A section of Wayne National Forest falls within the county. Licking, Muskingum, Morgan, Athens, Hocking and Fairfield counties ring it.</p>"
+   "h2": "How the auditor values property",
+   "html": "<p>Ohio requires a full reappraisal of the county every six years, with a state percentage adjustment in the third year of each cycle. Roughly 31,000 parcels were on the books for 2024, sorted into residential, agricultural, commercial and industrial classes.</p>\n<p>House Bill 479 gives a one-time fixed reduction to current Standard and Enhanced Homestead Exemption recipients, for tax year 2026, or tax year 2027 on manufactured and mobile homes. If you are selling in the middle of a tax year, ask the auditor how that reduction carries over.</p>\n<p>When storm or flood damage lowers what a house is worth, phone the auditor at (740) 342-2074 and ask how a damaged-property adjustment works.</p>"
+  },
+  {
+   "h2": "When paperwork is the hard part",
+   "html": "<p>Between the margin rules, the payoff letter and the fee calculator, a sale has a lot of small steps. A cash sale skips the lender and the appraisal, which removes the biggest waiting periods, though the deed still goes through the auditor and recorder. Cash Home Buyers CA can tell you which papers to gather so the transfer is not delayed.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Are credit cards accepted at the Perry County recorder?",
-   "a": "No. The office takes cash and checks only, according to its own page."
+   "q": "Does the Perry County recorder take credit cards?",
+   "a": "No. The office takes cash and checks only."
   },
   {
-   "q": "Are Perry County deeds viewable online?",
+   "q": "Can I view Perry County deeds online?",
    "a": "Only the index is online, giving volume and page numbers. The document images are not posted, so contact the recorder to order a copy."
   },
   {
-   "q": "How much does it cost to record a deed in Perry County?",
-   "a": "The recorder quotes $34.00 for the first two pages plus $8.00 for each added page. Documents with bad margins pick up $20.00, and ones needing a reference pick up $4.00."
+   "q": "How much does it cost to record a deed?",
+   "a": "The first two pages cost $34.00 and each added page costs $8.00. Documents with bad margins pick up $20.00, and ones needing a reference pick up $4.00."
   },
   {
-   "q": "Where is the Perry County conveyance fee figured out?",
-   "a": "On the Conveyance Fee Calculator at the auditor's website, which folds in the parcel transfer fee. The auditor's office at 212 S. Main Street can confirm the result."
+   "q": "Where do I figure out the conveyance fee?",
+   "a": "Use the Conveyance Fee Calculator on the auditor's website, which folds in the parcel transfer fee. The auditor's office at 212 S. Main Street can confirm the result."
   },
   {
    "q": "Will the recorder confirm that my title is free of liens?",
