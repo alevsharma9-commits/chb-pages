@@ -1,0 +1,117 @@
+{
+ "slug": "florida-property-tax-guide",
+ "sections": [
+  {
+   "h2": "The Florida property tax year",
+   "html": "<p>Everything hangs on January 1, when each county's property appraiser fixes just value for every parcel. Exemption filings follow by March 1, the TRIM notice lands in August, and the tax collector sends the actual bill in November.</p><table><caption>The Florida tax year in order</caption><thead><tr><th>When</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Parcels valued at just value</td></tr><tr><td>March 1</td><td>Last day to file for exemptions or special classifications</td></tr><tr><td>April 1</td><td>Business owners file the DR-405 for tangible personal property</td></tr><tr><td>August</td><td>TRIM notice (DR-474) goes out</td></tr><tr><td>Sept. to Nov.</td><td>Tentative and final budget and millage hearings</td></tr><tr><td>November</td><td>Bills (DR-528) mailed</td></tr></tbody></table><p>A challenge to value is filed within 25 days of the TRIM notice, and a denied exemption gets 30 days from the denial letter.</p>"
+  },
+  {
+   "h2": "Early payment discounts",
+   "html": "<p>The discount drops one point each month: 4 percent for November, then 3, 2 and 1 for the next three months through February. A bill paid after that window gets no discount.</p><p>If nothing is paid by April 1, the account is delinquent, and the collector sells certificates on the leftover balance by June 1.</p>"
+  },
+  {
+   "h2": "Homestead exemption",
+   "html": "<p>The exemption takes up to $50,000 off the assessment, in two layers. The first $25,000 reduces value for every levy, school levies included. The second layer of up to $25,000 reaches only assessed value above $50,000 and skips school levies. Its dollar amount grows each January 1 with CPI when CPI is positive and holds flat when negative.</p><ul><li>You must live there as a permanent resident on January 1.</li><li>File Form DR-501 with the appraiser's office by March 1.</li><li>Renting out the home, moving out or leaving Florida ends the exemption.</li><li>Servicemembers may rent a homestead without losing it.</li></ul>"
+  },
+  {
+   "h2": "How the Save Our Homes cap works",
+   "html": "<p>A homestead is assessed at just value in its first year. After that, assessed value can climb each year by only the smaller of 3 percent or the CPI change, and it can never exceed just value. The Department of Revenue keeps a cap chart, revised January 2026, so check it for the latest year.</p><p>Parcels without homestead have a looser brake of 10 percent a year. Both limits end when ownership changes, which includes sales, foreclosures and any other shift of legal or beneficial title.</p>"
+  },
+  {
+   "h2": "Taking the cap to a new Florida home",
+   "html": "<p>Portability lets you carry the difference between just and assessed value to a new homestead, as long as you establish it within three years counted from January 1 of the year you gave up the old one. The new assessment drops by the lesser of $500,000 or that difference.</p><p>File DR-501T alongside DR-501 by March 1. Recent amendments first apply to the 2027 roll, so call the appraiser about current limits.</p>"
+  },
+  {
+   "h2": "Reading your TRIM notice and November bill",
+   "html": "<p>The August TRIM notice is a proposal, not a bill. It shows last year's and this year's values and the millage each taxing body proposes, along with the dates of its hearings. The November bill shows what was actually levied after those hearings.</p><ul><li>Compare just value, assessed value and taxable value. A homestead's assessed value can sit below just value.</li><li>Confirm your exemption appears. If it is missing, ask the appraiser before the 30-day window after a denial notice runs out.</li><li>Check each taxing body's line, such as county, school board and city, against the prior year.</li><li>Remember the 25-day petition limit if you think value is wrong.</li></ul><p>Call the tax collector for your parcel's payoff figure before any sale or refinance, since discounts change month by month.</p>"
+  },
+  {
+   "h2": "Benefits for older owners and servicemembers",
+   "html": "<p>Most of these benefits depend on local ordinance, so your county and city decide what you get.</p><ul><li>Age 65 and up: a local government may add up to $50,000 for owners within an income limit.</li><li>Older owners with a permanent service-connected disability: a discount that tracks the VA rating.</li><li>Honorably discharged ex-servicemembers with a rating of 10 percent or more: $5,000 off assessed value.</li><li>Deployed servicemembers: a proportional exemption through Form DR-501M.</li></ul><p>Homestead deferral is a separate program. Ask the tax collector about Form DR-570 before the March 31 filing date, and ask which income thresholds the office applies to your household.</p>"
+  },
+  {
+   "h2": "Who sets the rate?",
+   "html": "<p>Each taxing body on your bill adopts millage at hearings in the fall. Tentative budget hearings come in September and October, and final ones in October and November. State law ties growth in a taxing body's property tax revenue to growth in Florida per capita personal income plus new construction, unless a super-majority, unanimous vote or referendum goes beyond that.</p><p>The August TRIM notice shows proposed millage, so that is the best moment to attend a hearing.</p>"
+  },
+  {
+   "h2": "Installments and deferral",
+   "html": "<p>Installment prepayment needs an application to the tax collector by May 1 of the assessment year. Part payments before delinquency are up to the collector.</p><p>Ask which version your county runs. Installments and homestead deferral are different programs with different filing dates.</p>"
+  },
+  {
+   "h2": "What a delinquent account can lead to",
+   "html": "<p>After April 1 the collector offers a certificate to the bidder who accepts the lowest interest rate, bid in quarter-point steps. The holder must wait 2 years from April 1 of the issuance year before asking the owner for payment, and a tax deed application can follow.</p><p>The clerk then runs a public auction. Homestead parcels carry a higher opening bid than other property, because half the latest assessed value is added to the amounts due. Pay before a certificate exists if you can, since every step after that adds cost.</p>"
+  },
+  {
+   "h2": "Questions a buyer or heir should ask",
+   "html": "<p>Do not assume the seller's bill predicts yours. A long-held homestead may sit well under just value because of the cap, and that gap disappears at transfer.</p><ul><li>What is the parcel's just value compared with its assessed value?</li><li>Is the current exemption tied to the seller's residence, and will it end at closing?</li><li>Are any tax certificates outstanding on the parcel?</li><li>Which taxing bodies levy on this address, and did any propose higher millage?</li></ul><p>The appraiser and tax collector answer these by phone or at the counter, and the answers help a buyer or heir set a budget before making an offer or taking over a house.</p>"
+  },
+  {
+   "h2": "Selling: what happens to the tax bill",
+   "html": "<p>Ask the title company how the year's tax is divided at the closing table, and get the balance from the collector, including any certificate. The property appraiser can tell you what becomes of your exemption.</p><p>Expect the buyer's first bill to run well above yours, because a sale resets the parcel to just value on the following January 1. A buyer paying cash for the house as it stands still faces that reset, so it will not change the price a serious buyer offers.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When does Florida mail property tax bills?",
+   "a": "In November, from the county tax collector. The early discount runs 4 percent in November down to 1 percent in February."
+  },
+  {
+   "q": "Which date makes Florida taxes delinquent?",
+   "a": "April 1. Certificates on unpaid accounts are sold by June 1."
+  },
+  {
+   "q": "Which form claims a homestead exemption?",
+   "a": "Form DR-501, filed with the county property appraiser by March 1. You must have made the home your permanent residence by January 1."
+  },
+  {
+   "q": "What is the annual growth limit on homestead value?",
+   "a": "The smaller of 3 percent or the CPI change. The Department of Revenue chart shows 2.7 percent for 2026."
+  },
+  {
+   "q": "How does deferral work for homestead owners?",
+   "a": "File DR-570 with the tax collector by March 31 after the assessment year. It covers taxes above 5 percent of household income, or above 3 percent for a permanent resident 65 or older."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Florida Department of Revenue property taxpayer page",
+   "url": "https://floridarevenue.com/property/Pages/Taxpayers.aspx"
+  },
+  {
+   "title": "Florida Department of Revenue homestead exemption guide",
+   "url": "https://floridarevenue.com/property/Documents/pt113.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue Save Our Homes guide",
+   "url": "https://floridarevenue.com/property/Documents/pt112.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue Save Our Homes cap chart",
+   "url": "https://floridarevenue.com/property/Documents/SaveOurHomes.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue senior and veteran exemptions",
+   "url": "https://floridarevenue.com/property/Documents/pt110.pdf"
+  },
+  {
+   "title": "Florida Department of Revenue veteran exemptions",
+   "url": "https://floridarevenue.com/property/Documents/pt109.pdf"
+  },
+  {
+   "title": "Florida Statutes s. 193.155 Homestead assessments",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0193/Sections/0193.155.html"
+  },
+  {
+   "title": "Florida Statutes s. 197.432 Sale of tax certificates",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.432.html"
+  },
+  {
+   "title": "Florida Statutes s. 197.502 Tax deed application",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.502.html"
+  },
+  {
+   "title": "Florida Statutes s. 197.542 Sale at public auction",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0197/Sections/0197.542.html"
+  }
+ ]
+}
