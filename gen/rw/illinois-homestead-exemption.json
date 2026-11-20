@@ -1,24 +1,93 @@
-{"slug": "illinois-homestead-exemption", "sections": [
-{"h2": "What homestead exemptions can an Illinois homeowner claim?", "html": "<p>Illinois lets owners who live in their house claim several exemptions that shrink the value the tax rate is applied to: the general homestead exemption, the senior exemption, the low-income senior assessment freeze, the exemption for persons with disabilities, the veterans exemptions and a home improvement exemption. All of them are written into Article 15 of the Property Tax Code, 35 ILCS 200.</p><p>Each one cuts the equalized assessed value (EAV), which is the taxed value after the state equalizer is applied. It does not subtract dollars from the bill directly. The saving depends on your EAV reduction multiplied by the local tax rate, and each tax bill carries its own rate.</p><ul><li>General homestead exemption (Section 15-175), for owner-occupied homes.</li><li>Senior citizens homestead exemption (15-170), for owners 65 and older.</li><li>Low-income senior citizens assessment freeze (15-172).</li><li>Persons with disabilities (15-168) and veterans (15-169).</li><li>Home improvement exemption (15-180), for added value from improvements.</li></ul>"},
-{"h2": "How much does each Illinois exemption take off a home's value?", "html": "<p>The general exemption removes the growth in your EAV above the 1977 level, up to a cap that depends on the county. Since taxable year 2023 the cap is $10,000 in a county of 3,000,000 or more people (Cook), $8,000 in counties touching such a county, and $6,000 in every other county.</p><p>The senior exemption is a flat cap on top of that. For taxable years 2023 and later it is $8,000 in Cook and the counties contiguous to it, and $5,000 elsewhere. The table lists the main exemptions with the figures as the statute prints them.</p><table><caption>Illinois homestead exemptions and their statutory limits. Source: 35 ILCS 200/15-168, 15-169, 15-170, 15-172, 15-175 on ilga.gov.</caption><thead><tr><th>Exemption</th><th>Who qualifies</th><th>Statutory limit</th></tr></thead><tbody><tr><td>General homestead</td><td>Owner who lives in the home</td><td>$10,000 Cook; $8,000 contiguous counties; $6,000 all others</td></tr><tr><td>Senior citizens</td><td>Owner 65 or older who lives there</td><td>$8,000 Cook and contiguous counties; $5,000 elsewhere</td></tr><tr><td>Senior assessment freeze</td><td>Senior who meets the household income cap</td><td>EAV held at a base amount</td></tr><tr><td>Persons with disabilities</td><td>Owner unable to engage in substantial gainful activity</td><td>$2,000 reduction in value</td></tr><tr><td>Veterans with disabilities</td><td>Service-connected rating certified by the VA</td><td>$2,500 (30% to under 50%), $5,000 (50% to under 70%), first $250,000 of EAV at 70% or more</td></tr></tbody></table>"},
-{"h2": "Who qualifies for the senior exemption and the senior freeze?", "html": "<p>The senior exemption applies to a home occupied as a residence by a person who is 65 or older, is liable for the real estate taxes and holds title or a recorded legal or equitable interest. A person who turns 65 during the assessment year can apply that same year.</p><p>The freeze adds an income test. The household income cap in 35 ILCS 200/15-172 is $65,000 for taxable years 2018 through 2025, $75,000 for 2026, $77,000 for 2027 and $79,000 for 2028 and after. Household income means the combined income of the applicant, a spouse and everyone using the home as a principal residence during the calendar year before the taxable year. The freeze holds the EAV at a base amount, so later assessment growth stops raising the taxed value.</p><ul><li>An owner enrolled in SNAP, LIHEAP, the Benefit Access program, the Senior Citizens Real Estate Tax Deferral Program or AABD may be presumed to meet the income cap.</li><li>If a qualifying owner dies and the surviving spouse is under 65, the spouse can still receive the freeze for the year before and the year of death.</li><li>Married people who keep separate residences can claim the freeze for only one of them.</li><li>An owner who moves to a licensed care facility keeps the exemption while the spouse remains at home or while the house stays unoccupied and owned.</li></ul>"},
-{"h2": "How do veterans and homeowners with disabilities qualify?", "html": "<p>The disability exemption is $2,000 off the value. The owner must live in the home, owe the taxes and hold title or a recorded interest. Proof of disability can be Social Security disability eligibility or an Illinois Person with a Disability Identification Card with a Class 2 disability. Anyone else is examined by a physician or other designated provider at their own cost.</p><p>Veterans with a service-connected disability get a tiered benefit under Section 15-169, based on the rating the U.S. Department of Veterans Affairs certifies as of the application date. A veteran with a rating of 70% or more has the first $250,000 of EAV exempt. From taxable year 2024, a World War II veteran is exempt regardless of the disability level. A surviving spouse who does not remarry keeps the exemption while living in the home, and it can move to a new primary residence if the spouse sells.</p><p>A taxpayer cannot combine the disability exemption with the veterans exemption.</p>"},
-{"h2": "Do Illinois homestead exemptions renew on their own?", "html": "<p>It depends on the exemption and the county. Outside the large county, the general exemption is applied automatically where the current EAV is higher than the 1977 figure. In Cook County the Assessor's Office renews the Homeowner, Senior, Persons with Disabilities and World War II exemptions each year without a new application, but the Senior Freeze, Returning Veterans and Veterans with Disabilities exemptions must be filed every year.</p><p>State law backs part of this: for veterans with disabilities, reapplying is required every year unless the veteran served in World War II or has a permanent and total 100% rating. For persons with disabilities, a county of more than 3,000,000 residents may renew without an annual application for taxable years 2022 through 2027.</p><ul><li>Review the exemption history on your parcel record each tax year.</li><li>Late filings are handled as certificates of error in Cook County.</li></ul>"},
-{"h2": "What happens to my exemptions when I sell or move out?", "html": "<p>An exemption follows occupancy, not the owner. In a county with 3,000,000 or more residents, if the house is not your principal residence on January 1 of the tax year, you must tell the chief county assessment officer in writing by March 1 of the collection year, or the exemption is treated as erroneous. Notice given on time stops interest and penalties on the wrongly granted exemption for that year.</p><p>For a senior who first occupies a home after January 1, the senior exemption is prorated by the days of occupancy divided by 365 (35 ILCS 200/15-170(e)). Sellers should expect the title company to prorate the tax bill at closing and should not count on exemptions staying on the bill after the sale. Ask the county assessor or treasurer for the exemption status of the parcel before you set a price.</p><p>A senior who holds a tax deferral under 320 ILCS 30 faces another step. The statute says no sale or transfer can be closed and recorded until the deferred taxes plus accrued interest are paid, unless the collector certifies a payment arrangement in writing.</p>"},
-{"h2": "How can I recover an exemption that was missing from past bills?", "html": "<p>In Cook County, a homeowner who should have had an exemption can file a certificate of error. The Assessor's exemptions page lists the years open for recovery as 2025, 2024, 2023, 2022 and 2021, and says the normal filing period has ended for the current cycle, so late applications go through the certificate of error process.</p><p>Outside Cook, contact the supervisor of assessments or the county assessor. Ask whether the county uses an application period, which documents it needs, and whether past years can be corrected. Homeowners who inherited a house can claim the senior exemption for the year a parent died if the parent lived there on January 1 and used it as a principal residence, with a death certificate and letters of office or similar paperwork.</p>"}
-], "faqs": [
-{"q": "Is the Illinois general homestead exemption automatic?", "a": "In counties with fewer than 3,000,000 residents, yes. The owner receives it automatically when the current EAV exceeds the 1977 EAV, up to the statutory cap (35 ILCS 200/15-175(c)). In Cook County, the Assessor's Office renews the Homeowner Exemption each year once it is applied."},
-{"q": "At what age can I claim the Illinois senior exemption?", "a": "You can claim it from age 65. A person who will be 65 during the assessment year may apply during that year, using the application period set for the county of residence (35 ILCS 200/15-170(d))."},
-{"q": "What is the senior freeze income limit?", "a": "The statute sets $65,000 for taxable years 2018 through 2025, $75,000 for 2026, $77,000 for 2027 and $79,000 for 2028 and after. Household income is measured for the calendar year before the taxable year, and the Cook County Assessor lists $65,000 for 2024 income."},
-{"q": "Can I get both the disability exemption and the veterans exemption?", "a": "No. A taxpayer who claims the veterans exemption under Section 15-169 cannot claim the disability exemption under Section 15-168 for the same property, so the owner chooses one."},
-{"q": "Does a homestead exemption affect a cash sale of my house?", "a": "It changes the tax bill that is prorated at closing, but it does not block a sale. If you have a senior tax deferral, the deferred taxes and interest must be paid or a payment arrangement certified before closing and recording."}
-], "sources": [
-{"title": "35 ILCS 200/15-175 General homestead exemption", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-175"},
-{"title": "35 ILCS 200/15-170 Senior citizens homestead exemption", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"},
-{"title": "35 ILCS 200/15-172 Low-Income Senior Citizens Assessment Freeze", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-172"},
-{"title": "35 ILCS 200/15-168 Persons with disabilities", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-168"},
-{"title": "35 ILCS 200/15-169 Veterans with disabilities", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-169"},
-{"title": "320 ILCS 30/3 Senior Citizens Real Estate Tax Deferral", "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=032000300K3"},
-{"title": "Cook County Assessor property tax exemptions", "url": "https://cookcountyassessoril.gov/exemptions"},
-{"title": "Cook County Assessor senior exemption", "url": "https://cookcountyassessoril.gov/senior-citizen-exemption"}
-]}
+{
+ "slug": "illinois-homestead-exemption",
+ "sections": [
+  {
+   "h2": "Which exemptions an Illinois homeowner can claim",
+   "html": "<p>If you live in the house, Illinois offers several ways to lower the value your tax rate is applied to. The main ones are the general homestead exemption, the senior exemption, the low-income senior assessment freeze, the exemption for persons with disabilities, the exemptions for military service, and a home improvement exemption. All sit in Article 15 of the Property Tax Code, 35 ILCS 200.</p><p>Each one reduces the equalized assessed value (EAV), the taxed value left after the state equalizer is applied. None of them takes dollars straight off the bill. Your saving is the EAV reduction times the local tax rate, and every tax bill carries its own rate.</p><ul><li>General homestead exemption (Section 15-175), for owner-occupied homes.</li><li>Senior citizens homestead exemption (15-170), for owners 65 and older.</li><li>Low-income senior citizens assessment freeze (15-172).</li><li>Persons with disabilities (15-168) and disabled military service members (15-169).</li><li>Home improvement exemption (15-180), for value added by improvements.</li></ul>"
+  },
+  {
+   "h2": "How much each exemption takes off",
+   "html": "<p>The general exemption removes the growth in your EAV above the 1977 level, up to a cap that varies by county. Since taxable year 2023 the cap is $10,000 in a county of 3,000,000 or more people (Cook), $8,000 in counties touching such a county, and $6,000 everywhere else.</p><p>The senior exemption is a flat amount on top of that. For taxable years 2023 and later it is $8,000 in Cook and the counties next to it, and $5,000 elsewhere.</p><table><caption>Illinois homestead exemptions and their statutory limits.</caption><thead><tr><th>Exemption</th><th>Who qualifies</th><th>Statutory limit</th></tr></thead><tbody><tr><td>General homestead</td><td>Owner who lives in the home</td><td>$10,000 Cook; $8,000 contiguous counties; $6,000 all others</td></tr><tr><td>Senior citizens</td><td>Owner 65 or older who lives there</td><td>$8,000 Cook and contiguous counties; $5,000 elsewhere</td></tr><tr><td>Senior assessment freeze</td><td>Senior who meets the household income cap</td><td>EAV held at a base amount</td></tr><tr><td>Persons with disabilities</td><td>Owner unable to engage in substantial gainful activity</td><td>$2,000 reduction in value</td></tr><tr><td>Disabled military service</td><td>Service-connected rating certified by the VA</td><td>$2,500 (30% to under 50%), $5,000 (50% to under 70%), first $250,000 of EAV at 70% or more</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Senior exemption and senior freeze",
+   "html": "<p>A home qualifies for the senior exemption when a person 65 or older lives in it, owes the real estate taxes and holds title or a recorded legal or equitable interest. Turn 65 during the assessment year and you can apply that same year.</p><p>The freeze adds an income test. The household income cap in 35 ILCS 200/15-172 is $65,000 for taxable years 2018 through 2025, $75,000 for 2026, $77,000 for 2027 and $79,000 for 2028 and after. Household income is the combined income of the applicant, a spouse and everyone using the home as a principal residence during the calendar year before the taxable year. Once granted, the freeze holds the EAV at a base amount, so later assessment growth stops raising the taxed value.</p><ul><li>An owner enrolled in SNAP, LIHEAP, the Benefit Access program, the Senior Citizens Real Estate Tax Deferral Program or AABD may be presumed to meet the income cap.</li><li>If a qualifying owner dies and the surviving spouse is under 65, the spouse can still receive the freeze for the year before and the year of death.</li><li>Married people who keep separate residences can claim the freeze on only one of them.</li><li>An owner who moves to a care facility keeps the exemption while the spouse remains at home or while the house stays unoccupied and owned.</li></ul>"
+  },
+  {
+   "h2": "Disability and military service exemptions",
+   "html": "<p>The disability exemption is $2,000 off the value. The owner must live in the home, owe the taxes and hold title or a recorded interest. Proof can be Social Security disability eligibility or an Illinois Person with a Disability Identification Card showing a Class 2 disability. Anyone else is examined by a physician or other designated provider, and the owner pays for that exam.</p><p>Disabled military service members get a tiered benefit under Section 15-169, based on the rating the VA certifies as of the application date. At a rating of 70% or more, the first $250,000 of EAV is exempt. From taxable year 2024, a World War II service member is exempt whatever the disability level. A surviving spouse who does not remarry keeps the exemption while living in the home, and it can move to a new primary residence if the spouse sells.</p><p>You can't stack the disability exemption with the military one. Pick the larger benefit.</p>"
+  },
+  {
+   "h2": "Do exemptions renew on their own?",
+   "html": "<p>That depends on the exemption and the county. Outside the large county, the general exemption is applied automatically where the current EAV is higher than the 1977 figure. In Cook County the Assessor's Office renews the Homeowner, Senior, Persons with Disabilities and World War II exemptions each year without a new application. The Senior Freeze and the two military-service exemptions for returning and disabled service members must be filed every year.</p><p>State law backs part of this. A disabled service member must reapply every year unless the service was in World War II or the rating is permanent and total at 100%. For persons with disabilities, a county of more than 3,000,000 residents may renew without an annual application for taxable years 2022 through 2027.</p><ul><li>Check the exemption history on your parcel record each tax year.</li><li>In Cook County, late filings are handled as certificates of error.</li></ul>"
+  },
+  {
+   "h2": "What happens to exemptions when you sell or move out",
+   "html": "<p>An exemption follows occupancy, not the owner. In a county with 3,000,000 or more residents, if the house is not your principal residence on January 1 of the tax year, you must tell the chief county assessment officer in writing by March 1 of the collection year. Otherwise the exemption is treated as erroneous. Notice given on time stops interest and penalties on the wrongly granted exemption for that year.</p><p>A senior who first occupies a home after January 1 gets the senior exemption prorated by days of occupancy divided by 365 (35 ILCS 200/15-170(e)). At closing, the title company prorates the tax bill, so don't count on exemptions staying on the bill after the sale. Before you set a price, call the county assessor or treasurer and ask for the exemption status of your parcel.</p><p>A senior with a tax deferral under 320 ILCS 30 has one more step. No sale or transfer can be closed and recorded until the deferred taxes plus accrued interest are paid, unless the collector certifies a payment arrangement in writing.</p>"
+  },
+  {
+   "h2": "Recovering an exemption missing from past bills",
+   "html": "<p>In Cook County, a homeowner who should have had an exemption can file a certificate of error. The Assessor's exemptions page lists 2025, 2024, 2023, 2022 and 2021 as years open for recovery, and late applications go through that certificate process.</p><p>Outside Cook, contact the supervisor of assessments or the county assessor. Ask whether the county uses an application period, which documents it needs, and whether past years can be corrected. Heirs can claim the senior exemption for the year a parent died if the parent lived there on January 1 and used the house as a principal residence. Bring a death certificate and letters of office or similar paperwork.</p>"
+  },
+  {
+   "h2": "Steps to claim an exemption before a sale",
+   "html": "<p>If you plan to sell, a quick review of your exemptions can clean up the tax bill that gets prorated at closing. Pull your latest tax bill and look for the exemption lines. Then call the assessor's office and ask what is on file for your parcel.</p><ul><li>Confirm who holds title and who lives in the home as of January 1.</li><li>Collect proof of age, disability or military rating, depending on the exemption.</li><li>Ask whether your county needs a fresh application or renews automatically.</li><li>Tell the assessor in writing if the house stops being your principal residence.</li></ul><p>A cash sale skips the lender's underwriting, so a pending exemption fix rarely holds up closing. The title company will still want the tax figures, and an unpaid deferral has to be settled first.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is the Illinois general homestead exemption automatic?",
+   "a": "In counties with fewer than 3,000,000 residents, yes. The owner gets it automatically when the current EAV exceeds the 1977 EAV, up to the statutory cap (35 ILCS 200/15-175(c)). In Cook County, the Assessor's Office renews the Homeowner Exemption each year once it is applied."
+  },
+  {
+   "q": "At what age can I claim the Illinois senior exemption?",
+   "a": "You can claim it from age 65. If you turn 65 during the assessment year, you may apply that year, using the application period set for your county (35 ILCS 200/15-170(d))."
+  },
+  {
+   "q": "What is the senior freeze income limit?",
+   "a": "It is $65,000 for taxable years 2018 through 2025, $75,000 for 2026, $77,000 for 2027 and $79,000 for 2028 and after. Household income is measured for the calendar year before the taxable year."
+  },
+  {
+   "q": "Can I get both the disability exemption and the military exemption?",
+   "a": "No. An owner who claims the exemption under Section 15-169 can't also claim the disability exemption under Section 15-168 on the same property, so you choose one."
+  },
+  {
+   "q": "Does a homestead exemption affect a cash sale of my house?",
+   "a": "It changes the tax bill that gets prorated at closing, but it doesn't block a sale. If you have a senior tax deferral, the deferred taxes and interest must be paid, or a payment arrangement certified, before closing and recording."
+  }
+ ],
+ "sources": [
+  {
+   "title": "35 ILCS 200/15-175 General homestead exemption",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-175"
+  },
+  {
+   "title": "35 ILCS 200/15-170 Senior citizens homestead exemption",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-170"
+  },
+  {
+   "title": "35 ILCS 200/15-172 Low-Income Senior Citizens Assessment Freeze",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-172"
+  },
+  {
+   "title": "35 ILCS 200/15-168 Persons with disabilities",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-168"
+  },
+  {
+   "title": "35 ILCS 200/15-169 Veterans with disabilities",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=003502000K15-169"
+  },
+  {
+   "title": "320 ILCS 30/3 Senior Citizens Real Estate Tax Deferral",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=032000300K3"
+  },
+  {
+   "title": "Cook County Assessor property tax exemptions",
+   "url": "https://cookcountyassessoril.gov/exemptions"
+  },
+  {
+   "title": "Cook County Assessor senior exemption",
+   "url": "https://cookcountyassessoril.gov/senior-citizen-exemption"
+  }
+ ]
+}

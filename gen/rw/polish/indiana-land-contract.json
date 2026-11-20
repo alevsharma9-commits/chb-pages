@@ -1,0 +1,97 @@
+{
+ "slug": "indiana-land-contract",
+ "sections": [
+  {
+   "h2": "Land contracts in Indiana",
+   "html": "<p>A land contract is seller financing. The buyer pays in installments until the balance is repaid, and in most cases the seller holds the deed until the final payment. The buyer lives in the house and covers repairs, maintenance and property taxes without holding legal title.</p><p>Indiana uses them more than its size suggests. Recorded land contracts from 2005 to 2024 totaled 31,431, the sixth-most of any state, even though Indiana ranked 17th in population in 2024. About 90 percent financed residential property. Recordings peaked at 3,521 in 2010, sank to 612 in 2017 and reached 1,098 in 2024.</p><table><thead><tr><th>Measure</th><th>Land contract</th><th>Mortgage or all sales</th></tr></thead><tbody><tr><td>Share of homes sold under $150,000</td><td>4.2%</td><td>Mortgages financed 24.4%</td></tr><tr><td>Share of homes sold over $150,000</td><td>1.5%</td><td>Mortgages financed 65.6%</td></tr><tr><td>Median price</td><td>$122,313</td><td>$207,512 for all Indiana sales</td></tr><tr><td>Median interest rate</td><td>7%</td><td>6.1% for mortgages</td></tr><tr><td>Average down payment</td><td>4.8%</td><td>7.4% for mortgages</td></tr></tbody></table><p>Land contracts are most common in Jennings County at 5.3 percent of home sales, then Howard at 4.9, Elkhart at 4.3 and Washington at 4.1. Companies make up 30 percent of sellers, and in Marion County nearly half of land contracts involve a company.</p>"
+  },
+  {
+   "h2": "Which laws apply?",
+   "html": "<p>Indiana has no single land contract statute. The rules are spread across the First Lien Mortgage Lending Act, the Home Loan Practices Act and a 1973 Indiana Supreme Court case, Skendzel v. Marshall.</p><p>Together they do a few things for a land installment contract:</p><ul><li>A creditor that regularly extends first lien credit, including through land installment contracts, needs a state license.</li><li>Covered creditors may not use unfair or deceptive practices, must give a timely payoff on request and may not charge a prepayment penalty.</li><li>Creditors that regularly make land installment contracts are bound by the Home Loan Practices Act ban on deceptive and misleading acts, IC 24-9-3-7.</li></ul><p>Indiana sets no limits on interest rates, fees or contract terms for these deals, and a contract does not have to be publicly recorded. That is why two contracts on similar houses can read very differently.</p>"
+  },
+  {
+   "h2": "What a land contract seller must disclose",
+   "html": "<p>A seller under a land contract must tell the buyer about any encumbrance on the property that affects title. The notice goes in writing by certified mail with return receipt requested. IC 24-9-3-7(d) names tax liens, foreclosure actions and judgments as examples.</p><p>Timing depends on when the encumbrance appears. If it exists at or before signing, the notice is due no later than signing. If it arises afterward, the notice is due within ten business days after it is created. A seller who misses the deadline commits a prohibited act under the same statute.</p><p>The residential disclosure form adds a second layer. Indiana Code 32-21-5-1 extends the seller-disclosure chapter to installment sales contracts, as well as sales, exchanges and lease-purchase deals, for residential real estate with no more than four dwelling units. The owner completes and signs the form and gives it to the buyer before accepting an offer. An owner is not liable for an error outside the owner's actual knowledge, unless the owner was negligent in obtaining or passing on the information.</p><p>Transfers by a fiduciary of an estate, trust or guardianship, and transfers by a lender after foreclosure, sit outside that chapter. A seller in one of those roles should not assume the form applies.</p>"
+  },
+  {
+   "h2": "Can a seller keep the payments after a default?",
+   "html": "<p>Not automatically. Indiana courts treat many land contracts like mortgages, so a seller who wants out after a default is often steered toward foreclosure instead of forfeiture. The leading case is Skendzel v. Marshall, decided in 1973.</p><p>The parties there signed a $36,000 contract in December 1958. The buyers had paid $21,000 and still owed $15,000 when they stopped paying after January 1965. The sellers tried to enforce a clause letting them keep every payment and retake the house. The Supreme Court reversed and sent the case back with instructions to foreclose the vendor's lien under the mortgage foreclosure statute.</p><p>Its reasoning is still influential:</p><ul><li>The title a seller retains works like a lien securing the unpaid balance.</li><li>Forfeiture is not banned outright, but it should be used 'with great caution and only where fairness and justice demand it.'</li><li>Judicial foreclosure, which includes a six-month redemption period, protects the seller's security while preserving the buyer's substantial rights.</li></ul><p>Morris v. Weigle (1978) applied the idea. A buyer had paid about 29.7 percent of the price and had not abandoned the farm, so the court rejected the seller's claim to keep $24,722.97 and ordered foreclosure. Forfeiture fits better when the buyer has abandoned the property, or has paid very little, holds little equity and stays in possession while the seller covers taxes, insurance and upkeep.</p>"
+  },
+  {
+   "h2": "How contract terms change those protections",
+   "html": "<p>Written terms can narrow a buyer's cushion even when the case law is favorable. In Marion County, many contracts limit foreclosure to buyers who have paid at least 15 percent to 60 percent of the balance.</p><p>A review of about 40 Marion County contracts found default terms that let sellers file for eviction without notice. A mortgage lender would have to go through foreclosure, which gives the homeowner a chance to pay the debt and keep the house. Some people were reportedly removed without any eviction or foreclosure filing.</p><p>Lawmakers have considered requiring land contracts to be filed with the county clerk, but that bill never reached the governor. With no filing duty, the contract and payment history in your own drawer may be the best proof of what happened.</p>"
+  },
+  {
+   "h2": "Before you sell a house tied to a land contract",
+   "html": "<p>Start by identifying who holds title today and what the contract still requires. Because the seller keeps the deed in most land contracts, ownership and the right to live in the house sit with different people until the last payment.</p><ul><li><strong>The payment record.</strong> Total paid and balance owed show how much equity the buyer holds, which matters under Skendzel.</li><li><strong>Default language.</strong> Look for any percentage threshold that limits foreclosure, and for clauses that allow eviction without notice.</li><li><strong>Liens and judgments.</strong> A seller owes the buyer certified mail notice of any encumbrance that affects title.</li><li><strong>Property taxes.</strong> Confirm who has been paying them. A buyer under a recorded contract who pays the taxes may be the one claiming the homestead deduction.</li><li><strong>Recording.</strong> A recorded instrument must be acknowledged by a notarial officer and must state the grantee's mailing address, which must be a street or rural route address under IC 32-21-2-3.</li></ul><p>Equity, an unpaid balance and a buyer still living there all shape what a purchaser can do. Gather the contract, the payment history, any default notices and a title report, and take them to an Indiana attorney before signing anything new. This page is general information, so the contract's effect on a sale is a question for your own lawyer.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is a land contract legal in Indiana?",
+   "a": "Yes, though no single statute governs it. The rules come from the First Lien Mortgage Lending Act, the Home Loan Practices Act and case law such as Skendzel v. Marshall."
+  },
+  {
+   "q": "Do land contracts have to be recorded in Indiana?",
+   "a": "No, which is why the total number in the state is unknown. Lawmakers have considered a filing requirement, but that bill did not reach the governor."
+  },
+  {
+   "q": "Can a seller evict a land contract buyer?",
+   "a": "Sometimes, but the route depends on the buyer's equity and the contract terms. Under Skendzel, courts often require foreclosure instead of forfeiture when a buyer has paid a substantial share of the price."
+  },
+  {
+   "q": "What does a land contract seller have to tell the buyer?",
+   "a": "Written notice by certified mail, return receipt requested, of any encumbrance that affects title. It is due by signing if the encumbrance already exists, or within ten business days if it appears later."
+  },
+  {
+   "q": "Does the seller disclosure form apply to land contracts?",
+   "a": "Yes, for residential property with no more than four dwelling units. IC 32-21-5-1 covers installment sales contracts, so the owner completes and signs the form before accepting an offer."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Pew: Indiana residents often use land contracts to purchase low-cost homes (2026)",
+   "url": "https://www.pew.org/ar/research-and-analysis/fact-sheets/2026/05/indiana-residents-often-use-land-contracts-to-purchase-low-cost-homes"
+  },
+  {
+   "title": "Pew: Summary of state land contract statutes (NCLC, 2021)",
+   "url": "https://www.pew.org/-/media/assets/2022/02/summary-of-state-land-contract-statutes.pdf"
+  },
+  {
+   "title": "IC 24-9-3-7 Prohibited acts and land contract notice, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-24/article-9/chapter-3/section-24-9-3-7"
+  },
+  {
+   "title": "IC 32-21-5-1 Applicability, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-21/chapter-5/section-32-21-5-1/"
+  },
+  {
+   "title": "IC 32-21-5-10 Disclosure form, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-21/chapter-5/section-32-21-5-10/"
+  },
+  {
+   "title": "IC 32-21-5-11 Owner liability, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-21/chapter-5/section-32-21-5-11/"
+  },
+  {
+   "title": "Skendzel v. Marshall (Ind. 1973), case summary",
+   "url": "https://www.studicata.com/summaries/supreme-court-of-indiana/skendzel-v-marshall-1973-7c70t1"
+  },
+  {
+   "title": "Morris v. Weigle (Ind. 1978), Justia",
+   "url": "https://law.justia.com/cases/indiana/supreme-court/1978/1278s300-2.html"
+  },
+  {
+   "title": "WFYI: What are land contracts and what risks do they pose (Feb. 2026)",
+   "url": "https://www.wfyi.org/wfyi-news/2026-02-01/what-are-land-contracts-and-what-risks-do-they-pose-for-potential-homeowners"
+  },
+  {
+   "title": "IC 32-21-2-3 Recording requirements, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-21/chapter-2/section-32-21-2-3/"
+  },
+  {
+   "title": "IC 6-1.1-12-37 Homestead standard deduction, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-12/section-6-1-1-12-37/"
+  }
+ ]
+}
