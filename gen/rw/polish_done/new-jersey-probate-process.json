@@ -1,0 +1,77 @@
+{
+ "slug": "new-jersey-probate-process",
+ "sections": [
+  {
+   "h2": "Who handles probate in New Jersey?",
+   "html": "<p>Each of New Jersey's 21 counties has a Surrogate's Court, and the surrogate of the county where the person lived handles the estate paperwork. The state judiciary publishes a directory with the street address and phone number of every office, from Atlantic and Bergen through Union and Warren.</p>\n<p>The person who runs the estate is the executor named in a will or, when there is no will, an administrator. That representative files the inheritance tax return and asks for the waivers that release bank accounts and real estate. If you inherit a house in New Jersey, call the surrogate's office first. Staff can tell you which papers a will needs, which an intestate estate needs, and what the fees are.</p>"
+  },
+  {
+   "h2": "Can a small estate skip formal administration?",
+   "html": "<p>Sometimes, but the dollar limits are low and they include real estate. Under N.J.S.A. 3B:10-3, as amended by P.L. 2015, c. 232, a surviving spouse, civil union partner or domestic partner can take an intestate estate without administration when total real and personal assets do not exceed $50,000. The survivor signs an affidavit before the county surrogate, and the first $10,000 of the estate is free from the decedent's debts.</p>\n<p>With no surviving spouse or partner, N.J.S.A. 3B:10-4 lets one heir collect the assets of an intestate estate worth no more than $20,000, after getting the written consent of the other heirs and signing an affidavit with the surrogate. Both rules count real property. A house in most New Jersey towns is worth far more than these limits, so a home sale almost always goes through a full appointment as executor or administrator.</p>"
+  },
+  {
+   "h2": "Inheritance tax and an inherited house",
+   "html": "<p>New Jersey charges a transfer inheritance tax that depends on who receives the property, and it can hold up a sale. New Jersey financial and real estate assets in the decedent's name stay frozen until any inheritance tax is assessed and paid. The return and payment are due within eight months of the date of death.</p>\n<p>Beneficiaries fall into four classes, and the class sets the rate:</p>\n<table><caption>New Jersey inheritance tax classes</caption><thead><tr><th>Class</th><th>Who is included</th><th>Tax</th></tr></thead><tbody><tr><td>A</td><td>Spouse, civil union or domestic partner, children, grandchildren, parents, grandparents, stepchildren</td><td>Exempt</td></tr><tr><td>C</td><td>Siblings, sons-in-law and daughters-in-law</td><td>11% to 16% after a $25,000 exemption per beneficiary</td></tr><tr><td>D</td><td>Nieces, nephews, cousins, friends, ex-spouses, uncertified partners</td><td>15% on the first $700,000, then 16%</td></tr><tr><td>E</td><td>Charitable institutions</td><td>Exempt</td></tr></tbody></table>\n<p>A full return is required whenever anything passes to a Class C, D or E beneficiary, a mutually acknowledged child or a trust. Unpaid tax draws 10 percent annual interest, and asking for more time to file does not move the payment date.</p>"
+  },
+  {
+   "h2": "Getting permission to transfer or sell the property",
+   "html": "<p>Real estate cannot move out of the decedent's name without a tax waiver from the state. Form 0-1 is issued only by the Division of Taxation, it is not available for download, and real estate transfers always require it. When every beneficiary is exempt and no tax is owed, the executor files a Form L-9 affidavit with the Inheritance and Estate Tax Branch to receive the 0-1 for real estate.</p>\n<p>A few related points:</p>\n<ul><li>Form L-8, a self-executing waiver, works for bank accounts only when no inheritance or estate tax is due and nothing is filed with the state</li><li>banks may release up to 50 percent of the funds on hand to the executor, administrator or a joint owner before a waiver arrives</li><li>property that a spouse or civil union partner holds as tenants by the entirety, and passes to the survivor, needs no waiver and is not reported</li><li>assets should be reported at their fair market value on the date of death, not on the filing date</li></ul>\n<p>Allow time. Plan for several months of processing after a return is filed, and about 40 to 50 percent of returns are audited, which adds more months. The Inheritance and Estate Tax Hotline is 609-292-5033, open weekdays from 8:30 a.m. to 4:30 p.m.</p>"
+  },
+  {
+   "h2": "Does New Jersey still have an estate tax?",
+   "html": "<p>Not for recent deaths. Whether an estate tax return was needed depended on the year of death: the exemption was $675,000 for 2016 and earlier, $2 million for 2017, and for deaths in 2018 or after every estate is exempt and no return is needed. The inheritance tax is a separate tax and still applies to Class C and D beneficiaries.</p>\n<p>An estate never pays more than the higher of the two state taxes, so executors check both. Federal estate tax is a different matter and is not handled by the state branch.</p>"
+  },
+  {
+   "h2": "Is the sale of an inherited house exempt from the realty transfer fee?",
+   "html": "<p>It depends on who the buyer is. A transfer by an executor to the devisees or heirs named in the will or the intestacy law is exempt. A sale by the executor to anyone else is not. A will that directs the house to be sold and the money divided among children does not change this, because bequests of sale money are treated as gifts of money rather than devises of land.</p>\n<p>The senior, blind or disabled partial exemption is personal and cannot be given to a decedent or an estate. A sale to an outside buyer therefore carries the fee. Ask the county clerk or the title agent for the fee figure before you set a net price.</p>"
+  },
+  {
+   "h2": "Steps that help an heir sell during probate",
+   "html": "<p>The order of tasks matters more than the speed of any one task. A New Jersey heir can keep the sale moving by doing these things early:</p>\n<ul><li>obtain the death certificate and the original will, and ask the county surrogate how to qualify as executor or administrator</li><li>list every beneficiary and work out its tax class to learn whether a full return is required</li><li>file the L-9 or the IT-R, depending on the class, and request the Form 0-1 for the house</li><li>keep property taxes, insurance and utilities current while the waiver is pending</li><li>choose a buyer who can close once the waiver issues and the representative holds court-issued authority</li></ul>\n<p>A buyer who pays cash and accepts the house as is can shorten the repair and financing steps, but the waiver and the surrogate's appointment still control the closing date.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need probate to sell a house I inherited in New Jersey?",
+   "a": "In most cases yes. A house usually exceeds the $50,000 and $20,000 small-estate limits, and real estate transfers always need a Form 0-1 waiver from the Division of Taxation. A surviving spouse who holds the home as tenants by the entirety is the main exception."
+  },
+  {
+   "q": "How long do I have to file the inheritance tax return?",
+   "a": "Eight months from the date of death. When that date does not exist in the later month, the due date is the first day of the following month. Unpaid tax carries 10 percent annual interest."
+  },
+  {
+   "q": "Do children pay inheritance tax on a parent's house?",
+   "a": "No. Children, grandchildren, parents and spouses are Class A beneficiaries and are exempt. Siblings are Class C and pay 11 percent to 16 percent after a $25,000 exemption, while nieces, nephews and friends are Class D at 15 percent to 16 percent."
+  },
+  {
+   "q": "Can a bank release money before the waiver arrives?",
+   "a": "Partly. Banks may release up to 50 percent of the funds on hand to the executor, administrator or a joint account owner before a waiver is received. They must also pay checks written to New Jersey Inheritance and Estate Tax from the account."
+  },
+  {
+   "q": "Is there a New Jersey estate tax on a recent death?",
+   "a": "No. For deaths in 2018 or after, all estates are exempt and no estate tax return is required. Inheritance tax may still apply to Class C and D beneficiaries."
+  }
+ ],
+ "sources": [
+  {
+   "title": "New Jersey Courts: County Surrogates directory",
+   "url": "https://www.njcourts.gov/public/directories/court-services/county-surrogates"
+  },
+  {
+   "title": "NJ Division of Taxation: IT-R Instructions",
+   "url": "https://www.nj.gov/treasury/taxation/pdf/other_forms/inheritance/it-rinst.pdf"
+  },
+  {
+   "title": "NJ Division of Taxation: A Guide to Being an Executor",
+   "url": "https://nj.gov/treasury/taxation/documents/pdf/guides/General-%20Guide-to-Being-an-Executor.pdf"
+  },
+  {
+   "title": "P.L. 2015, c. 232 (N.J.S. 3B:10-3 and 3B:10-4)",
+   "url": "https://pub.njleg.state.nj.us/Bills/2014/PL15/232_.PDF"
+  },
+  {
+   "title": "NJ Division of Taxation: Realty Transfer Fee FAQs",
+   "url": "https://nj.gov/treasury/taxation/lpt/rtffaqs.shtml"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "new-hampshire-eviction-notice",
+ "sections": [
+  {
+   "h2": "The written notice a landlord must give",
+   "html": "<p>Before going to court, a New Hampshire landlord must serve the tenant a written eviction notice. For a residential rental the notice period is 30 days, or 7 days when the reason is nonpayment, substantial damage or behavior that harms the health or safety of others. The rule is in <a href=\"https://www.gencourt.state.nh.us/rsa/html/LV/540/540-3.htm\">RSA 540:3</a>.</p>\n<p>The notice is only the opening move. The tenant does not have to leave on the date written in it, and a landlord who wants the house back must still file a court case once the notice runs out. If you own a rented house you hope to sell, the notice you serve sets the earliest date the court process can start.</p>\n<p>This page covers the notice itself. The court steps that follow are on our separate New Hampshire eviction process page.</p>"
+  },
+  {
+   "h2": "Notice periods by reason",
+   "html": "<p>The reason written in the notice drives the period. RSA 540:2 lists the reasons.</p>\n<table>\n<thead><tr><th>Reason for the notice</th><th>Notice period</th></tr></thead>\n<tbody>\n<tr><td>Nonpayment of rent after demand</td><td>7 days</td></tr>\n<tr><td>Substantial damage to the premises</td><td>7 days</td></tr>\n<tr><td>Behavior that harms the health or safety of others</td><td>7 days</td></tr>\n<tr><td>Failure to follow a material lease term</td><td>30 days</td></tr>\n<tr><td>Other good cause</td><td>30 days</td></tr>\n<tr><td>End of a lease of 12 months or longer</td><td>Written notice at least 60 days before the term ends</td></tr>\n</tbody>\n</table>\n<p>Rent that is merely a few days late does not shortcut anything. The nonpayment ground covers rent that is due and overdue, and the landlord must make a demand for it. A demand can be served any time after the rent is due, before or together with the eviction notice (<a href=\"https://law.justia.com/codes/new-hampshire/title-lv/chapter-540/section-540-5/\">RSA 540:5</a>).</p>"
+  },
+  {
+   "h2": "Does the landlord need a reason?",
+   "html": "<p>It depends on the property. RSA 540:2 sorts rentals into nonrestricted and restricted property, and only restricted property calls for a listed reason.</p>\n<p><a href=\"https://law.justia.com/codes/new-hampshire/title-lv/chapter-540/section-540-1-a/\">RSA 540:1-a</a> defines restricted property as real property rented for residential purposes, with a few exceptions. The nonrestricted categories are:</p>\n<ul>\n<li>Property rented for nonresidential purposes.</li>\n<li>A single-family house, if the owner does not own more than three single-family houses at one time.</li>\n<li>A rental unit in an owner-occupied building with four or fewer dwelling units.</li>\n<li>A single-family house a bank or other mortgagee acquired through foreclosure.</li>\n</ul>\n<p>On nonrestricted property the owner may end the tenancy by written notice with no reason given (RSA 540:2, I). Whether your house fits the single-family exception turns on how many single-family houses you own, so count them before you pick a notice. Even then, a tenant renting a single-family home from a landlord who lives elsewhere does not have to move until a judge says so. The court step applies even where the reason does not.</p>"
+  },
+  {
+   "h2": "What the notice must say and how to serve it",
+   "html": "<p>State the reason with specificity. If the reason is nonpayment, the notice must also tell the tenant about any right to avoid eviction by paying the arrears and liquidated damages (RSA 540:3, III and IV). A vague line such as \"violation of lease\" invites a defense. A line naming the lease term, the date and what happened gives the court something to read.</p>\n<p>Delivery has fewer rules than most landlords expect. Under RSA 540:5, any person may serve a residential notice, by handing it to the tenant or leaving it at the tenant's last and usual place of abode. Proof of service is a true, attested copy of the notice plus an affidavit of service, which does not need to be sworn.</p>\n<ul>\n<li>District court clerks' offices and the Judicial Branch website carry demand-for-rent and eviction-notice forms.</li>\n<li>You do not have to use the court forms, but a valid notice needs the same information they ask for.</li>\n<li>A spoken order to leave does not count. The notice has to be in writing.</li>\n</ul>"
+  },
+  {
+   "h2": "Ending a lease of 12 months or longer",
+   "html": "<p>A landlord can end a lease of 12 months or longer at expiration only by giving written notice at least 60 days before the term ends and filing the court case within 6 months after expiration (RSA 540:2, II(i)). Shorter leases renewed to a total of 12 months or more are treated the same way.</p>\n<p>This ground suits an owner who wants to sell a vacant house, but the dates are strict. Miss the 60 days and the notice is short. Wait past six months and the case window closes. The tenant can still raise retaliation and discrimination defenses against a clean lease-end notice.</p>\n<p>A termination on this ground cannot count as an eviction on a rental application or tenant screening report, and the court must note in its record that the end of the tenancy was not the tenant's fault.</p>"
+  },
+  {
+   "h2": "Other good cause and rent increases",
+   "html": "<p>\"Other good cause\" is a catch-all, and the statute fills it in. Under RSA 540:2, V, it includes, though it is not limited to, a legitimate business or economic reason, and it need not involve anything the tenant did.</p>\n<p>Two limits apply. When the cause is the tenant's conduct, the landlord must first have given written notice that more conduct of that kind would be grounds for eviction (RSA 540:2, III). A tenant's refusal to accept a rent increase counts as good cause only if the landlord gave written notice of the amount and the effective date at least 30 days beforehand (RSA 540:2, IV).</p>\n<p>A sale could be a business reason in principle, but the statute names no such ground, so write the reason plainly and expect a judge to test it. A New Hampshire attorney can check your wording before you serve.</p>"
+  },
+  {
+   "h2": "What can stop or defeat an eviction notice?",
+   "html": "<p>Several statutory protections can end a case even when the notice was served correctly.</p>\n<ul>\n<li>Cure of nonpayment: the tenant can stop a nonpayment case by paying all rent due, other lawful lease charges, $15 in liquidated damages and the landlord's filing and service fees before the hearing. The cure works up to 3 times in a 12-month period (RSA 540:9).</li>\n<li>Retaliation: it is a defense if the action followed the tenant reporting a violation, using RSA 540-A or meeting with other tenants, except where the tenant owes a week's rent or more (RSA 540:13-a).</li>\n<li>Habitability: a tenant can defend a nonpayment case where substantial code violations materially affect habitability, written notice was given and the landlord did not fix the problem within 14 days. The court may pause the case for up to a month for repairs (RSA 540:13-d).</li>\n<li>Utility payments: a tenancy cannot be ended for nonpayment if the tenant paid the landlord's utility bill to prevent a shutoff, the arrears do not exceed that payment and the tenant has proof (RSA 540:2, VI).</li>\n<li>Domestic violence, sexual assault or stalking: a tenant who is a victim and provides qualifying verification cannot be evicted solely for that reason (RSA 540:2, VII).</li>\n</ul>"
+  },
+  {
+   "h2": "Selling a rented house with a notice pending",
+   "html": "<p>A pending notice does not stop you from selling, but you cannot hand a buyer a vacant house until the court process finishes or the tenant leaves. Plan the sale around that timing and around what you may do in the meantime.</p>\n<p>RSA 540-A:3 bars a landlord from willfully cutting off utilities, locking a tenant out or seizing the premises or the tenant's property without proper judicial process. It also limits entry without consent, which matters when you want to show the house. Locks stay as they are until a sheriff has served and carried out the writ of possession. When a tenant leaves, the landlord must take reasonable care of belongings for 7 days (RSA 540-A:3, VII).</p>\n<p>A cash sale gives you two practical paths. One is to sell with the tenant in place, as is, to a buyer who wants a rental. The other is to finish the notice and court steps first, then sell vacant. Before you serve anything, gather the lease, the rent ledger, any demand for rent and a list of repairs the tenant has raised. A buyer or attorney will ask for them.</p>\n<p>We buy New Hampshire houses in either condition, and a call can help you compare timelines. We do not promise a price or a closing date on a page, and any offer comes after we see the house.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days of notice does a landlord have to give in New Hampshire?",
+   "a": "For residential tenancies, 30 days is enough in all cases, and 7 days is enough when the reason is nonpayment of rent, substantial damage or behavior that harms the health or safety of others (RSA 540:3, II)."
+  },
+  {
+   "q": "Does a New Hampshire eviction notice have to be on a court form?",
+   "a": "No. Landlords are not required to use the court forms, but a valid notice must contain the same information the forms request, including the reason stated with specificity."
+  },
+  {
+   "q": "Can a tenant stop an eviction by paying the rent?",
+   "a": "Yes, in a nonpayment case. The tenant can pay all rent due, other lawful lease charges, $15 in liquidated damages and the landlord's filing and service fees before the hearing. This cure is limited to 3 times in 12 months (RSA 540:9)."
+  },
+  {
+   "q": "Can a landlord evict at the end of a lease just to sell the house?",
+   "a": "Only under the lease-expiration ground, which applies to leases of 12 months or longer. The landlord must give written notice at least 60 days before the term ends and file the court case within 6 months after expiration. The tenant can still raise retaliation or discrimination defenses."
+  },
+  {
+   "q": "Can I change the locks after the eviction notice runs out?",
+   "a": "No. An expired notice does not end the tenancy by itself. Locks may be changed only after a sheriff has served and carried out a writ of possession, and RSA 540-A:3 bars lockouts without judicial process."
+  }
+ ],
+ "sources": [
+  {
+   "title": "RSA 540:2, Residential tenancies (grounds), NH General Court",
+   "url": "https://gc.nh.gov/rsa/html/LV/540/540-2.htm"
+  },
+  {
+   "title": "RSA 540:3, Eviction Notice, NH General Court",
+   "url": "https://www.gencourt.state.nh.us/rsa/html/LV/540/540-3.htm"
+  },
+  {
+   "title": "RSA 540:1-a, Restricted property, Justia",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lv/chapter-540/section-540-1-a/"
+  },
+  {
+   "title": "RSA 540:5, Service of notice, Justia",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lv/chapter-540/section-540-5/"
+  },
+  {
+   "title": "RSA 540:9, Right to cure, NH General Court",
+   "url": "https://www.gencourt.state.nh.us/rsa/html/LV/540/540-9.htm"
+  },
+  {
+   "title": "RSA 540:13-d, Habitability defense, NH General Court",
+   "url": "https://www.gencourt.state.nh.us/rsa/html/LV/540/540-13-d.htm"
+  },
+  {
+   "title": "RSA 540-A:3, Prohibited landlord actions, Justia",
+   "url": "https://law.justia.com/codes/new-hampshire/title-lv/chapter-540-a/section-540-a-3/"
+  },
+  {
+   "title": "A Walk Through the Eviction Process, 603 Legal Aid",
+   "url": "https://www.603legalaid.org/self-help-articles/housing/eviction/walk-through/"
+  }
+ ]
+}

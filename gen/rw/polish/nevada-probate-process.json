@@ -1,0 +1,89 @@
+{
+ "slug": "nevada-probate-process",
+ "sections": [
+  {
+   "h2": "Estate size and the probate route",
+   "html": "<p>Nevada has four routes, and the estate's value and whether it includes real property decide which one fits. A house is real property, so most inherited homes cannot use the simple affidavit route.</p><table><thead><tr><th>Route</th><th>Limit</th><th>Main condition</th></tr></thead><tbody><tr><td>Affidavit for transfer (NRS 146.080)</td><td>$150,000 for a surviving spouse, $25,000 for any other claimant</td><td>Decedent left no real property in Nevada; 40 days after death</td></tr><tr><td>Set aside without administration (NRS 146.070)</td><td>Estate of $150,000 or less</td><td>Court petition; may not begin until 30 days after death</td></tr><tr><td>Summary administration (NRS 145.040)</td><td>Gross value after encumbrances of $500,000 or less</td><td>Court may order it if advisable</td></tr><tr><td>Regular administration (NRS Title 12)</td><td>Above those limits</td><td>Full court supervision</td></tr></tbody></table><p>The $500,000 summary limit reflects the 2025 amendment to chapter 145. Check the date on any statute copy you rely on, since older copies carry a lower figure.</p><p>In the set-aside route, value is fair market value minus enforceable liens and encumbrances, measured at the date of death. A mortgage on the house lowers the number that counts.</p>"
+  },
+  {
+   "h2": "Can heirs sell before probate ends?",
+   "html": "<p>Usually the person who can sell is the personal representative, whose authority comes from the court. The affidavit route in NRS 146.080 is closed whenever the decedent left real property, an interest in it, or a mortgage or lien on it in Nevada. So a house generally goes through a court process or passes by a recorded deed.</p><p>A deed recorded before the owner's death that takes effect on death is the exception, and NRS 111.109 covers it. For a house with no such deed, the first step is usually a petition for letters. The petition must list the property, the heirs and devisees, and whether the proposed representative has been convicted of a felony, as NRS 145.020 describes for summary cases.</p><p>Co-heirs should agree early on who will serve and on whether to sell or keep the house. Disagreement can slow the petition, and a creditor or other interested person can object to a sale at the confirmation hearing.</p>"
+  },
+  {
+   "h2": "Court confirmation of a sale",
+   "html": "<p>In a supervised estate, a sale of real property generally must be reported to the court and confirmed before title passes. NRS 148.060 requires the report and petition for confirmation within 30 days after the sale, and the clerk sets a hearing with notice under NRS 155.010. Summary administration follows the chapter 148 notice rules for real property sales under NRS 145.070.</p><p>The main safeguards:</p><ul><li><strong>Appraisal.</strong> A private sale cannot be confirmed unless the court is satisfied the price is fair market value and the property was appraised within 1 year before the sale. The court can waive the appraisal, for example when the sole heir is the representative or when all devisees or heirs consent in writing. Assessed value can then support confirmation (NRS 148.260).</li><li><strong>Notice of sale.</strong> Notice runs in a county newspaper for 2 weeks, three publications a week apart, and the court may shorten that for good cause to not less than 8 days. Publication can be waived when the right people consent in writing, or when the property was publicly listed for at least 30 days (NRS 148.220).</li><li><strong>Objections and higher bids.</strong> An interested person may file written objections, and other bidders may offer more when an offer is presented, in which case the court may confirm the highest bid (NRS 148.070, 148.120).</li><li><strong>Commission.</strong> The court must allow a broker's commission, and it cannot exceed 7 percent for improved real property or 10 percent for unimproved (NRS 148.110).</li></ul><p>A private sale notice must say where offers are received and name a day on or after which the sale will be made, at least 2 weeks after first publication unless the court shortens it. The sale must happen within 1 year (NRS 148.240).</p>"
+  },
+  {
+   "h2": "Independent administration",
+   "html": "<p>A personal representative with full authority under the Independent Administration of Estates Act can sell estate property without the usual confirmation steps. NRS 143.380 lets the representative sell at public auction or private sale, with or without notice, for cash or on credit, on terms the representative decides, and the confirmation requirements do not apply.</p><p>One safeguard turns on price. If the representative decides the real property will sell for less than 90 percent of its appraised value, all interested persons must consent in writing before the sale goes ahead, and the court must confirm the sale. Confirmation looks at notice, the court's approval of commissions, the necessity of the sale and the effort to get the highest and best price reasonably attainable.</p><p>Full authority comes only if the will or the court allows it, and the will can restrict those powers.</p>"
+  },
+  {
+   "h2": "Creditors and family rights",
+   "html": "<p>Creditors get a window to file claims, and the surviving family can have a right to the home. In a summary administration, the representative publishes and mails notice to creditors. Creditors must file within 60 days after mailing or first publication, and the representative then has 15 days to allow or reject each claim under NRS 145.060. A claim filed late is barred, except where the claimant never got proper notice.</p><p>The family has separate protections. Under NRS 146.010, a surviving spouse or minor child may remain in possession of the homestead and is entitled to reasonable support. NRS 146.020 lets the court set apart the homestead, and property set apart is not subject to administration. A homestead selected and recorded by spouses during the marriage vests in the survivor under NRS 146.050.</p><p>A representative must close an estate within 18 months after appointment, with exceptions for pending claims, will contests and unresolved tax amounts under NRS 143.037.</p>"
+  },
+  {
+   "h2": "Disclosure and taxes on an estate sale",
+   "html": "<p>The 10 day seller disclosure form requirement does not apply to a fiduciary who takes temporary possession or title solely to facilitate a sale for a person who is deceased or incapacitated. NRS 113.130 lists personal representatives, guardians, trustees and agents under a power of attorney in that exception.</p><p>Transfer tax and property tax still apply. The county recorder collects the real property transfer tax when the deed is recorded, at $1.95 per $500 of value in most counties. A deed that becomes effective on the grantor's death is exempt under NRS 111.109. A Declaration of Value accompanies each deed.</p><p>Property tax keeps running while the estate is open. Installments fall due the third Monday of August and the first Mondays of October, January and March. In Clark County, any recorded ownership document removes the owner-occupied 3 percent abatement until a new postcard is returned, so an heir who plans to live in the house should send it back.</p>"
+  },
+  {
+   "h2": "Selling to a cash buyer during probate",
+   "html": "<p>A cash buyer can purchase from the personal representative like any other buyer, and the court rules above still decide what approval is needed. In a supervised estate, a broker contract creates no liability for the estate unless the court confirms a sale (NRS 148.110).</p><p>Settle these questions before accepting any offer:</p><ul><li>Has the court issued letters, and does the representative have independent or supervised authority?</li><li>Is an appraisal on file within the last year, or will the heirs consent in writing to waive it?</li><li>Do the liens, taxes and creditor claims leave enough for the heirs after payoff?</li><li>Will the family keep any right to occupy the homestead until the closing?</li></ul><p>We buy houses in Nevada as-is, and an estate sale is a situation we see. Terms depend on the property and the court process, and nothing here promises a price. A Nevada probate attorney should review the steps for your case.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need probate to sell an inherited house in Nevada?",
+   "a": "Often yes. The affidavit route in NRS 146.080 is closed when the decedent left real property in Nevada. A house usually passes by a recorded deed that takes effect on death, or through a court-supervised estate with a personal representative."
+  },
+  {
+   "q": "What is the small estate limit in Nevada?",
+   "a": "An estate of $150,000 or less can be set aside without administration by court order under NRS 146.070. The affidavit route allows $150,000 for a surviving spouse and $25,000 for any other claimant, but only when there is no real property."
+  },
+  {
+   "q": "How large an estate can use summary administration?",
+   "a": "NRS 145.040 allows it when the gross value after deducting encumbrances is $500,000 or less, at the court's discretion. If the value later proves higher, the representative must petition to revoke it."
+  },
+  {
+   "q": "Does the court have to approve the sale of estate real property?",
+   "a": "In a supervised estate, generally yes. NRS 148.060 requires a report and petition for confirmation within 30 days after the sale. With full authority under independent administration, confirmation is not required unless the price falls below 90 percent of appraised value."
+  },
+  {
+   "q": "How long do creditors have to file claims?",
+   "a": "In a summary administration, 60 days after notice is mailed or first published. The representative then has 15 days to allow or reject each claim under NRS 145.060."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NRS Chapter 146, Support of Family; Small Estates",
+   "url": "https://www.leg.state.nv.us/nrs/NRS-146.html"
+  },
+  {
+   "title": "NRS Chapter 145, Summary Administration of Estates",
+   "url": "https://www.leg.state.nv.us/nrs/NRS-145.html"
+  },
+  {
+   "title": "NRS Chapter 148, Sales, Conveyances and Exchanges",
+   "url": "https://www.leg.state.nv.us/nrs/NRS-148.html"
+  },
+  {
+   "title": "NRS Chapter 143, Powers and Duties of Personal Representatives",
+   "url": "https://www.leg.state.nv.us/nrs/NRS-143.html"
+  },
+  {
+   "title": "NRS Chapter 113, Sales of Real Property",
+   "url": "https://www.leg.state.nv.us/nrs/NRS-113.html"
+  },
+  {
+   "title": "Real Property Transfer Tax, Nevada Department of Taxation",
+   "url": "https://tax.nv.gov/tax-types/real-property-transfer-tax/"
+  },
+  {
+   "title": "Locally Assessed Property Tax FAQs, Nevada Department of Taxation",
+   "url": "https://tax.nv.gov/faqs/locally-assessed-property-tax-faqs/"
+  },
+  {
+   "title": "Tax Abatement, Clark County Assessor",
+   "url": "https://www.clarkcountynv.gov/government/assessor/general_information/tax-abatement"
+  }
+ ]
+}

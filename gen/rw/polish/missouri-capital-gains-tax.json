@@ -1,0 +1,89 @@
+{
+ "slug": "missouri-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Missouri tax the profit from a home sale?",
+   "html": "<p>For individuals, effectively no. Missouri lets you subtract 100 percent of your federally reported capital gains from federal adjusted gross income on the state return, so profit on a house sale is not taxed by the state. The rule is Section 143.121 RSMo, added by House Bill 594.</p><p>It covers short-term and long-term gains from assets such as stocks, real estate and cryptocurrency, starting with the 2025 tax year. Federal tax is separate and still applies to the gain.</p>"
+  },
+  {
+   "h2": "How to claim the Missouri subtraction",
+   "html": "<p>Claim it on Form MO-A, filed with your Form MO-1040 individual income tax return. The amount comes from the capital gain portion of your federal return. For the 2025 tax year, that is the figure on line 7a of federal Form 1040.</p><p>Some of the department's answers point to the 2025 return and others to the 2026 return filed in 2027, so if you sold a house in 2025, call the Department of Revenue to confirm which return carries the subtraction before you file.</p><p>Married couples need care when only one spouse has a gain. If one spouse has a loss and the other a gain, the combined figure from line 7a goes on the MO-A line for the spouse who had the gain, and nothing goes on the other spouse's line.</p>"
+  },
+  {
+   "h2": "Who cannot use the subtraction",
+   "html": "<p>The subtraction is written for individuals subject to tax under section 143.011. The rules draw several lines:</p><ul><li>Trusts cannot claim it, because a fiduciary is not an individual subject to that section.</li><li>A pass-through entity that pays pass-through entity tax cannot claim it.</li><li>Corporations are excluded for now. They may subtract 100 percent of capital gains in the tax year after Missouri's top individual rate falls to 4.5 percent or lower, and the top rate for 2025 is 4.7 percent.</li><li>Capital losses do not qualify. The subtraction reaches only federally reported capital gains, and allowed losses already reduce federal adjusted gross income.</li></ul><p>If your house sits in a trust or an LLC taxed as a pass-through, talk to a tax preparer before you list.</p>"
+  },
+  {
+   "h2": "Federal tax on a Missouri home sale",
+   "html": "<p>On the sale of your main home, the IRS lets you leave out $250,000 of gain, or $500,000 on a joint return. Two tests apply. You need 24 months of ownership and 24 months of living there as a residence, both inside the 5 years ending on the sale date, and the two stretches do not have to line up. If you already excluded gain on another home within the previous two years, you generally cannot use the exclusion again.</p><p>If a Form 1099-S arrives, the sale goes on your return even when the whole gain is excludable. Any taxable portion is reported on Form 8949 and Schedule D. For most individuals in 2025, the rate on most net long-term gain is no higher than 15 percent, with 0 percent at lower incomes and 20 percent at the highest. Property held a year or less produces short-term gain, taxed like wages. Depreciation recapture on a rental, called unrecaptured section 1250 gain, tops out at 25 percent.</p>"
+  },
+  {
+   "h2": "Missouri and federal rules side by side",
+   "html": "<table><caption>Missouri and federal tax pieces for a home sale</caption><thead><tr><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td>Missouri tax on capital gain for individuals</td><td>Subtract 100% of federally reported gain</td></tr><tr><td>Form for the Missouri subtraction</td><td>MO-A with MO-1040</td></tr><tr><td>Missouri top individual rate, 2025</td><td>4.7%</td></tr><tr><td>Federal home sale exclusion</td><td>$250,000, or $500,000 on a joint return</td></tr><tr><td>Federal ownership and use tests</td><td>24 months each within the last 5 years</td></tr><tr><td>Federal long-term rates in 2025</td><td>0%, 15% and 20% by income</td></tr><tr><td>Forms to report the sale</td><td>Form 8949 and Schedule D</td></tr></tbody></table><p>Missouri starts from your federal figures, so an accurate federal return comes first.</p>"
+  },
+  {
+   "h2": "Estimated payments and surtaxes",
+   "html": "<p>A taxable gain on a house can trigger quarterly estimated tax on the federal side, since a taxpayer with a taxable capital gain may be required to make estimated payments. IRS Publication 505 explains how to decide whether you must. People with significant investment income can also owe the net investment income tax, described in Topic 559.</p><p>Losses work differently. A loss on a home you lived in is not deductible. For other capital assets, a net capital loss can reduce income by up to $3,000 a year ($1,500 if married filing separately), with the rest carried forward. A seller who lived in the house and sells at a loss has nothing to claim for the house, and the Missouri subtraction cannot turn that loss into a deduction either.</p><p>If you rented the house out for part of your ownership, ask a preparer how those years affect the exclusion and any depreciation recapture before you list.</p>"
+  },
+  {
+   "h2": "Gain on an inherited house",
+   "html": "<p>Gain equals the amount realized minus adjusted basis. For an inherited house, basis is generally what the house was worth when the owner died, or its worth on the alternate valuation date if the estate chose one (IRS Publication 551). If a federal estate tax return was required, the executor gives each beneficiary a Schedule A from Form 8971 stating the value to use. Keep the appraisal with your records.</p><p>Basis can also move with improvements you add and depreciation you claimed. For holding period questions on property acquired from a decedent, Topic 409 points to Publication 544.</p>"
+  },
+  {
+   "h2": "How a sale unfolds on your tax return",
+   "html": "<p>Walk through it in order. The title company issues a closing disclosure, and sometimes a Form 1099-S. You work out basis, then test the federal exclusion. Whatever gain remains goes on Form 8949 and Schedule D. Only after that do you carry the capital gain figure to Form MO-A, and Missouri drops it from your state income.</p><p>The order matters because the state number is never calculated on its own. If the federal return changes, the Missouri subtraction changes with it. A cash sale or a traditional sale makes no difference here: the tax treatment follows the sale price, your basis and how long you lived there, not the type of buyer.</p>"
+  },
+  {
+   "h2": "Steps to take before you file",
+   "html": "<ol><li>Collect the closing disclosure and any Form 1099-S from the title company.</li><li>Add up your purchase price, closing costs at purchase and capital improvements to build the adjusted basis.</li><li>Test the federal exclusion with the 24 month ownership and use rules.</li><li>Report the sale on the federal return if the gain exceeds the exclusion or if you received a 1099-S.</li><li>Carry the federal capital gain amount to Form MO-A and claim the subtraction on MO-1040.</li><li>Review your withholding with a preparer, since the new subtraction may let you lower it.</li></ol><p>Keep these records for as long as you may need to defend the return. If you are weighing a cash sale, the same checklist applies, and a quick closing does not change the paperwork.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Missouri capital gains tax on real estate?",
+   "a": "Effectively none for individuals who qualify for the subtraction. Eligible individuals subtract 100 percent of federally reported capital gains, including real estate gains, from federal adjusted gross income. You still report the sale on your federal return."
+  },
+  {
+   "q": "Which Missouri form do I use to claim the capital gains subtraction?",
+   "a": "Form MO-A, filed with Form MO-1040. The capital gain amount comes from your federal return, which for 2025 is line 7a of Form 1040."
+  },
+  {
+   "q": "Can a trust or LLC claim the Missouri subtraction?",
+   "a": "Generally no. A trust is not an individual subject to tax under section 143.011, and a pass-through entity subject to pass-through entity tax cannot claim it either."
+  },
+  {
+   "q": "How much of my home sale gain can I exclude on my federal return?",
+   "a": "A single filer can leave out $250,000 and a joint return $500,000, provided you owned the home and lived in it for 24 months within the last 5 years."
+  },
+  {
+   "q": "Does the Missouri subtraction cover a capital loss on my house?",
+   "a": "No. Capital losses do not qualify for the subtraction, and a loss on a personal residence is nondeductible for federal purposes."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Missouri DOR Capital Gains Subtraction FAQs",
+   "url": "https://dor.mo.gov/faq/taxation/individual/capital-gains-subtraction.html"
+  },
+  {
+   "title": "Missouri DOR news release, August 26, 2025",
+   "url": "https://dor.mo.gov/news/newsitem/uuid/15044650-59dd-48f4-975a-01988d485255"
+  },
+  {
+   "title": "IRS Topic 701 Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS Topic 409 Capital gains and losses",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "IRS Topic 703 Basis of assets",
+   "url": "https://www.irs.gov/taxtopics/tc703"
+  },
+  {
+   "title": "IRS Publication 551 Basis of assets",
+   "url": "https://www.irs.gov/publications/p551"
+  }
+ ]
+}

@@ -1,0 +1,97 @@
+{
+ "slug": "north-carolina-closing-costs",
+ "sections": [
+  {
+   "h2": "What a North Carolina seller pays at closing",
+   "html": "<p>A seller pays the deed excise tax, the payoff of any existing loan, a closing attorney, and the recording charge for any paper the seller must file. The exact total depends on the contract, so the settlement statement from the closing attorney is the document to check line by line.</p><p>Some charges are set by statute and others are bargained over in the sales contract. We stick here to the ones the General Statutes spell out, since they stay the same from one closing to the next.</p><ul><li>The deed excise tax, which falls on the seller by law.</li><li>The payoff of the mortgage or deed of trust, plus the work needed to get that lien cleared from the record.</li><li>The closing attorney's fee for the deed and title review.</li><li>Recording fees at the register of deeds for any document the seller has to file.</li><li>The county property tax bill for the year, which has its own due date and interest schedule.</li></ul><p>Agent commission, repair credits and the like come from your contract rather than the statutes. Get each of them in writing from the listing agent or the attorney before you sign.</p>"
+  },
+  {
+   "h2": "Why a home sale needs an attorney",
+   "html": "<p>Under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_84/GS_84-2.1.html\">G.S. 84-2.1</a>, drafting a deed or passing upon a title is legal work, so a lawyer has to do it. The definition names deeds, mortgages and title abstracting.</p><p>Brokers may fill in a preprinted form under that statute, and anyone may complete a preprinted residential lease, but nobody without a law license may prepare a contract or deed conveying North Carolina real property for someone else. So closings here happen at law offices.</p><p>Pick the closing lawyer early, or at least sign off on the choice. This lawyer checks the title history, collects the payoff number, writes the deed, and makes sure the deed tax and filing charge get to the county. When a cash buyer names the lawyer, you can still request the draft settlement statement ahead of the closing date.</p>"
+  },
+  {
+   "h2": "The excise tax as a seller cost",
+   "html": "<p>The seller owes it. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html\">G.S. 105-228.30</a> prices a conveyance at one dollar per $500 block of price or value, partial blocks included, and puts the payment on the transferor ahead of filing.</p><p>Because it tracks the price, this is frequently the largest line item the statutes assign to a seller. Your lawyer usually takes it out of your proceeds and sends it in along with the deed. A parcel spread over two counties is taxed in whichever one holds more of its value.</p><p>Our <a href=\"/north-carolina-excise-tax/\">excise tax page</a> covers the exempt transfers and where the money is routed.</p>"
+  },
+  {
+   "h2": "Register of deeds recording fees",
+   "html": "<p>One schedule in <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html\">G.S. 161-10</a> applies in every county. The register of deeds collects up front, and the statute says no other fees may be added.</p><table><caption>Recording fees under G.S. 161-10</caption><thead><tr><th>Document or service</th><th>Fee</th></tr></thead><tbody><tr><td>Ordinary instrument, pages 1 through 15</td><td>$26.00, then $4.00 per extra page</td></tr><tr><td>Mortgage or deed of trust, pages 1 through 35</td><td>$64.00, then $4.00 per extra page</td></tr><tr><td>Satisfaction or cancellation of a loan lien</td><td>No fee</td></tr><tr><td>Plat</td><td>$21.00 per sheet</td></tr><tr><td>Certified copy</td><td>$5.00 first page, $2.00 each added page</td></tr><tr><td>Nonstandard document</td><td>$25.00 added charge</td></tr><tr><td>Extra instruments inside one document</td><td>$10.00 each</td></tr></tbody></table><p>Your deed sits in the first row. The mortgage row is the buyer's lender's business and seldom appears on a seller's statement.</p>"
+  },
+  {
+   "h2": "Mortgage payoff and the recorded lien",
+   "html": "<p>After your loan is paid in full, the lender has 30 days to submit a release of the lien. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-36.9.html\">G.S. 45-36.9</a> sets that clock, and the filing carries no fee.</p><p>A lender that misses the deadline owes you actual damages. You can also mail a written demand using a method that proves delivery. If another 30 days pass after the lender gets it, the statute adds $1,000 plus reasonable lawyer fees and court costs. Only the landowner who sent the demand holds that right, and it cannot be assigned.</p><p>A credit line or future-advance loan needs one more step: the creditor must also receive a request to close the line. Ask the attorney to send that request along with the payoff letter, so the old lien does not stay on the record.</p>"
+  },
+  {
+   "h2": "When a deed takes effect against others",
+   "html": "<p>A buyer whose deed is not yet registered in the county where the land sits has no protection against lien creditors or other purchasers. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html\">G.S. 47-18</a> applies the same rule to contracts to convey, options, leases over three years, and rights of first refusal or first offer.</p><p>Priority goes by the time of registration, which is why attorneys file the same day the money moves, tax paid first. Do not consider the sale done until you hold the recording confirmation.</p><ul><li>Ask when the deed will be recorded and by whom.</li><li>Ask for the book and page or document number once it posts.</li><li>Keep the recorded satisfaction of your old loan with your closing papers.</li></ul>"
+  },
+  {
+   "h2": "Property taxes at closing",
+   "html": "<p>A county bill falls due September 1 of its fiscal year and costs face value if paid before January 6. After that, <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-360.html\">G.S. 105-360</a> adds two percent interest, then three-fourths of one percent for every month from February 1.</p><p>The lien arrives before the bill does. <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html\">G.S. 105-355</a> attaches it to the parcel on the listing date under G.S. 105-285, penalties and interest included, so a title search checks tax status early.</p><p>Your contract sets how the year's bill is split between you and the buyer. Get the bill and its payment status from the county tax office, and let the attorney walk you through the split before you rely on any net-proceeds number.</p>"
+  },
+  {
+   "h2": "Questions for your closing attorney",
+   "html": "<p>Ask for every deduction from your proceeds in writing, each with the reason for it. A single phone call before closing day heads off most surprises.</p><ul><li>What price is the deed tax figured on, and which county takes it?</li><li>What is the payoff figure, and who tracks the lender's release?</li><li>Which filing charges are mine and which are the buyer's?</li><li>How does the contract divide the property tax bill?</li><li>When will the deed be filed, and will you send the confirmation?</li></ul><p>Use the same checklist when you compare offers. Statutory items do not move with the buyer, so any gap between two offers traces back to contract terms.</p>"
+  },
+  {
+   "h2": "Selling while the house is in foreclosure",
+   "html": "<p>Costs change, because a power-of-sale foreclosure puts the timing in the hands of the clerk of superior court and the upset bid process. Under <a href=\"https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-21.27.html\">G.S. 45-21.27</a>, a higher bid must top the reported price or last bid by at least 5 percent, with a minimum increase of $750, and it carries a deposit of at least 5 percent of that bid, never under $750. Each new bid restarts a ten-day window.</p><p>Selling before the foreclosure sale ends removes that uncertainty, though the payoff may carry costs the lender tacked on. Get an itemized payoff in writing and hand it to the closing attorney right away.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who bears the deed tax on a North Carolina sale?",
+   "a": "The seller. G.S. 105-228.30 puts the payment on the transferor, normally deducted from proceeds by the closing lawyer."
+  },
+  {
+   "q": "Can I close without a lawyer in North Carolina?",
+   "a": "Not realistically. Drafting a deed or reviewing title counts as practicing law under G.S. 84-2.1, with narrow room for a broker's preprinted form or a lease form."
+  },
+  {
+   "q": "What does filing my loan release cost?",
+   "a": "Nothing. G.S. 161-10 lists no charge for a satisfaction, and the lender has 30 days after payoff to submit it under G.S. 45-36.9."
+  },
+  {
+   "q": "What does the county charge to file a standard deed?",
+   "a": "$26.00 covers pages 1 through 15 and each extra page adds $4.00 under G.S. 161-10. Ask the office about a nonstandard-document add-on."
+  },
+  {
+   "q": "Where is the deed tax paid for land in two counties?",
+   "a": "In the county holding the larger share of the land's value, per G.S. 105-228.30. Have the attorney confirm which office takes the deed."
+  }
+ ],
+ "sources": [
+  {
+   "title": "G.S. 84-2.1, Practice law defined",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_84/GS_84-2.1.html"
+  },
+  {
+   "title": "G.S. 105-228.30, Excise tax on conveyances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"
+  },
+  {
+   "title": "G.S. 161-10, Fees of the register of deeds",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"
+  },
+  {
+   "title": "G.S. 45-36.9, Satisfaction or release for recording",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-36.9.html"
+  },
+  {
+   "title": "G.S. 45-21.27, Upset bids",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_45/GS_45-21.27.html"
+  },
+  {
+   "title": "G.S. 47-18, Conveyances and contracts to convey",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"
+  },
+  {
+   "title": "G.S. 105-360, Due date and interest",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-360.html"
+  },
+  {
+   "title": "G.S. 105-355, Tax lien",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-355.html"
+  }
+ ]
+}
