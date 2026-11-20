@@ -1,0 +1,73 @@
+{
+ "slug": "michigan-tax-tribunal",
+ "sections": [
+  {
+   "h2": "What the Michigan Tax Tribunal does",
+   "html": "<p>The Michigan Tax Tribunal is the independent body that hears disputes over property valuation, exemptions and special assessments once the local review has run its course. It sits apart from the Department of Treasury, the State Tax Commission, local governments and boards of review, and it hears each case fresh. Under MCL 205.735a(2), a proceeding there is original and independent and is treated as de novo, so the Tribunal does not simply rubber-stamp the board's number.</p>\n<p>A Michigan homeowner usually meets the Tribunal after losing at the March board of review, or after receiving a notice that a principal residence exemption was denied. For a seller, the appeal matters because the assessed number feeds the tax bill the next owner inherits. The Tribunal takes a range of disputes:</p>\n<ul>\n<li>Valuation appeals over true cash value, assessed value or taxable value.</li>\n<li>Appeals of exemptions for low-income owners and for disabled former service members.</li>\n<li>Other exemption appeals, special assessment appeals and classification appeals.</li>\n<li>Non-property tax appeals, which have their own forms.</li>\n</ul>"
+  },
+  {
+   "h2": "What comes before a Tribunal petition",
+   "html": "<p>For residential property, the assessment must first be protested at the local board of review. Under MCL 205.735a(3) the board stage comes before the Tribunal acquires jurisdiction, and a claim over a principal residence exemption goes to the July or December board of review first.</p>\n<p>MCL 211.30 governs the board. Its first session falls on the second Monday of March, and a city or township can move the start to the following Tuesday or Wednesday by ordinance or resolution. That opening session starts between 9 a.m. and 3 p.m. and lasts at least six hours. During the full week the board owes taxpayers 12 hours of hearings, including three hours held after 6 p.m.</p>\n<p>Anyone who files a protest is owed a written answer by the first Monday in June. It reports the board's action, the resulting state equalized and tentative taxable values, and the right to go on to the Tribunal, together with the Tribunal's address and the final filing date. A local unit may also allow residents to protest by letter.</p>"
+  },
+  {
+   "h2": "Filing deadlines by property type",
+   "html": "<p>The classification of the parcel sets the clock, and the Tribunal cannot stretch a filing deadline. For a homeowner, the date to remember is July 31 of whichever tax year is under dispute.</p>\n<table><caption>Petition deadlines under MCL 205.735a(6)</caption><thead><tr><th>Matter</th><th>Last day to file</th></tr></thead><tbody>\n<tr><td>Residential real property</td><td>July 31 of the tax year</td></tr>\n<tr><td>Agricultural real property, timber-cutover real property, agricultural personal property</td><td>July 31 of the tax year</td></tr>\n<tr><td>Commercial, industrial and developmental real property; commercial, industrial and utility personal property</td><td>May 31 of the tax year</td></tr>\n<tr><td>Other matters</td><td>35 days after the final decision, ruling or determination</td></tr>\n<tr><td>Contested tax bill (arithmetic errors only)</td><td>60 days after the treasurer mails the bill</td></tr>\n</tbody></table>\n<p>Timeliness is judged by the postmark, by hand delivery, or by the date a designated delivery service takes the package. If the final day lands when the Tribunal's offices are shut, the following business day counts. The statute also calls for certified-mail service on the respondent, with copies to the local school board secretary and, where the county is affected, its clerk.</p>"
+  },
+  {
+   "h2": "How a residential appeal runs in Small Claims",
+   "html": "<p>Every residential property tax appeal can be filed in the Small Claims Division, which uses an informal process. Hearings are usually telephone calls of about 30 minutes before an administrative law judge or Tribunal member, and most owners speak for themselves. Property other than residential can join Small Claims when the tax in dispute is $100,000 or less.</p>\n<p>The sequence after filing is short:</p>\n<ul>\n<li>The Tribunal assigns a docket number and the local unit files an answer.</li>\n<li>There is no discovery unless the Tribunal grants leave.</li>\n<li>A notice of hearing arrives at least 45 days before the hearing.</li>\n<li>Evidence must reach the Tribunal and the other side at least 21 days before the hearing, with a proof of service.</li>\n<li>If a judge rather than a member hears the case, either side has 20 days to file exceptions to the proposed opinion, and the other side has 14 days to answer.</li>\n</ul>\n<p>Expect roughly 12 to 18 months from filing to final decision, depending on docket load. If a hearing is not set until after the next April 1, the following tax year is added to the case automatically, which means evidence for both years may be due.</p>"
+  },
+  {
+   "h2": "Uncapping and a home sale",
+   "html": "<p>A sale resets taxable value for the buyer, so the old owner's capped figure does not follow the house. Under MCL 211.27a, taxable value is whichever is lower: last year's figure grown by the smaller of 5 percent or inflation, or the current state equalized valuation. Once ownership transfers, the next calendar year's taxable value jumps to the state equalized valuation.</p>\n<p>Some transfers do not uncap the property. Examples include a move between spouses, a foreclosure up to the lender's resale, and residential property going to a parent, sibling, son, daughter or grandchild who keeps it out of commercial use. The new owner reports the transfer to the assessing office on the State Tax Commission form within 45 days, and recorders send assessors a monthly list of recorded transfers.</p>\n<p>If you own a house with an appeal still open, ask the Tribunal or your assessor how the pending year is handled once title changes hands. A cash buyer will want to know about an open appeal before closing, since a refund or a lower value could belong to either side depending on the purchase terms.</p>"
+  },
+  {
+   "h2": "How to file and reach the Tribunal",
+   "html": "<p>E-filing is the preferred route and needs an account registered to a working email address. Paper petitions go to P.O. Box 30232, Lansing, Michigan 48909, to 2407 N Grand River Ave, Lansing 48906 for other carriers, or by hand to 611 W. Ottawa St, Lansing 48933. Email and fax filings are refused.</p>\n<p>A Small Claims petition has to include the notice behind the dispute: the board of review decision, an uncapping notice, or a principal residence exemption denial, for instance. Phone 517-335-9760 on weekdays between 8:00 a.m. and 4:30 p.m., except that nobody answers from noon until 1 p.m. The staff cannot give legal advice or an opinion on whether to appeal.</p>\n<p>Filed papers show up publicly in the docket lookup. Black out Social Security numbers, account numbers and other personal identifiers first. Owners may speak for themselves or send an attorney or other representative.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When must a residential assessment appeal reach the Tribunal?",
+   "a": "By July 31 of the tax year, under MCL 205.735a(6). Commercial and industrial real property follow an earlier May 31 date."
+  },
+  {
+   "q": "Is the March board of review mandatory for a home?",
+   "a": "Yes for residential valuation or exemption disputes. The board stage, or the July or December board for principal residence exemption claims, must come first. Commercial and industrial owners may go straight to the Tribunal."
+  },
+  {
+   "q": "May an owner appear without a lawyer?",
+   "a": "Yes. MCL 205.735a(10) allows a person to appear alone or with an attorney or another representative, and Small Claims hearings are informal enough that most owners speak for themselves."
+  },
+  {
+   "q": "What happens to an appeal if the house is sold?",
+   "a": "Ask the Tribunal docket staff at 517-335-9760. The sale uncaps taxable value for the buyer in the next calendar year under MCL 211.27a(3), and the buyer sends the transfer notice to the assessor within 45 days."
+  },
+  {
+   "q": "How long until a Small Claims ruling arrives?",
+   "a": "Plan on 12 to 18 months from filing to final decision, depending on docket load. Small Claims rulings typically issue within 90 days of the hearing."
+  }
+ ],
+ "sources": [
+  {
+   "title": "MCL 205.735a, Tax Tribunal Act",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-205-735a"
+  },
+  {
+   "title": "MCL 211.30, board of review",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-30"
+  },
+  {
+   "title": "MCL 211.27a, taxable value and transfer of ownership",
+   "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-211-27a"
+  },
+  {
+   "title": "Michigan Tax Tribunal, Small Claims",
+   "url": "https://michigan.gov/taxtrib/small-claims"
+  },
+  {
+   "title": "Michigan Tax Tribunal, Operations and Procedures FAQ",
+   "url": "https://michigan.gov/taxtrib/faq/tribunal-operations-and-procedures---faq"
+  }
+ ]
+}
