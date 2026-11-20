@@ -1,0 +1,77 @@
+{
+ "slug": "nebraska-homestead-exemption",
+ "sections": [
+  {
+   "h2": "What the Nebraska homestead exemption does",
+   "html": "<p>This is a property tax relief program in which the State of Nebraska pays all or part of a qualifying owner's tax bill on a home. The state reimburses counties and other local governments for the revenue they lose when an exemption is approved, and it pays the county treasurer directly. If only a partial exemption is granted, the owner pays the rest.</p><p>The program targets certain groups of homeowners, and for most of them it also depends on income. It is separate from an ordinary assessment appeal, and it is separate from the creditor protection that Nebraska also calls a homestead. Both meanings matter to someone thinking about selling, so this page covers each.</p><p>For the tax program, a homestead is a house or mobile home plus up to one acre around it, occupied by a natural person who is the owner of record from January 1 through August 15 of the application year. Property held only in the name of a corporation, partnership or LLC does not qualify.</p>"
+  },
+  {
+   "h2": "Who qualifies: the eight categories",
+   "html": "<p>Applicants fall into numbered categories, and each one has its own paperwork. The 2026 guide sets them out like this.</p><table><thead><tr><th>Category</th><th>Who it covers</th><th>Income limit applies?</th></tr></thead><tbody><tr><td>1</td><td>Owners 65 or older before January 1 of the application year</td><td>Yes</td></tr><tr><td>2</td><td>Disabled former service members totally disabled by a non-service-connected accident or illness</td><td>Yes</td></tr><tr><td>3</td><td>Owners with a qualifying physical disability</td><td>Yes</td></tr><tr><td>4V</td><td>Military service members with a 100% service-connected permanent disability, or a 100% individual unemployability rating</td><td>No</td></tr><tr><td>4S</td><td>Qualifying surviving spouses of those service members</td><td>No</td></tr><tr><td>5</td><td>Paraplegic or multiple-amputee service members whose home the VA helped fund, and their surviving spouses</td><td>No</td></tr><tr><td>6</td><td>Owners with a developmental disability</td><td>Yes</td></tr><tr><td>7</td><td>Service members with a 100% service-connected temporary disability, and their surviving spouses</td><td>No</td></tr></tbody></table><p>One warning is easy to miss: qualifying for Social Security disability does not automatically qualify someone for the Nebraska exemption. Categories 3 and 6 need a medical certification (Form 458B) in the first year. The service-connected categories need VA paperwork in the first year and again in years ending in 0 or 5.</p>"
+  },
+  {
+   "h2": "How income changes the relief",
+   "html": "<p>In categories 1, 2, 3 and 6, relief shrinks on a sliding scale as household income climbs, from 100% down to 0%. The 2026 table looks at 2025 income. Household income starts with federal adjusted gross income, adds items such as untaxed Social Security or railroad retirement income, and subtracts medical and dental costs above four percent of that income.</p><p>For an owner over 65, a single filer gets 100% relief with income up to $37,000, 50% up to $46,600, and 10% up to $54,300. At $54,301 and over, relief is 0%. A married or closely related household gets 100% up to $43,400, 50% up to $55,100, and 10% up to $64,500, with 0% at $64,501 and over.</p><p>Disabled applicants use their own, somewhat higher column. A single applicant in that group gets full relief up to $41,600, and a married or closely related household gets it up to $47,700.</p><p>\"Closely related\" means a brother, sister or parent who is also an owner-occupant, and that person's income is counted with the applicant's. Pensions, interest and IRA withdrawals count, and so does Social Security retirement income.</p>"
+  },
+  {
+   "h2": "If you sell or move",
+   "html": "<p>The exemption belongs to the owner who lives in the home between January 1 and August 15, so a sale or move inside that window can change the outcome. Several rules apply directly to sellers.</p><ul><li>An applicant who files on time and then buys a different home before August 15 can ask to move the exemption. The request is an Application for Transfer, Form 458T, filed by August 15 with the assessor in the county where the new home sits.</li><li>Someone who gets a Notice of Rejection (Form 458R) has 30 days from receipt to file the transfer form.</li><li>A single applicant who dies before August 16 loses the exemption for that year, because the occupancy window was not met. A surviving spouse and minor children keep the benefit for the year of death if they live in the home, and the spouse then applies again.</li><li>A stay away for health reasons, such as nursing or assisted living, does not break occupancy while the owner shows an intent to return. Furnishings left in place and a home that is not sold, leased or rented support that intent.</li></ul><p>Families who inherit or help sell a parent's house should note the last point. Once the home is rented or sold, the intent-to-return argument gets weaker. Ask the county assessor how your closing date relates to the August 15 cutoff before you sign.</p>"
+  },
+  {
+   "h2": "Yearly deadlines",
+   "html": "<p>Most categories file every year, and the Department of Revenue publishes a calendar from January to December. A late application is usually refused, with three narrow exceptions for filing after June 30.</p><ul><li>February: assessors mail forms to last year's applicants.</li><li>Before June 30: the annual filing period for Form 458 and, where required, Schedule I.</li><li>By July 20: a county board may extend the filing deadline on written request.</li><li>Mid-October: letters of partial approval or denial based on income go out.</li><li>December: county treasurers mail tax statements showing the exemption.</li></ul><p>The three late-filing routes are a written county-board extension to July 20, a spouse's death during the year with a death certificate attached, and a medical condition certified by a medical practitioner on Form 458L. The second and third routes allow filing up to June 30 of the following year.</p>"
+  },
+  {
+   "h2": "Home value too high, or application denied",
+   "html": "<p>Even with a qualifying income, the exemption is cut when the home's assessed value is above the county's maximum. The exempt amount drops by ten percent for each $2,500 of value over the maximum, and a home $20,000 or more over the maximum does not qualify. The department publishes certified average residential values for each county in September, and assessors send Form 458R in October and November when a reduction applies.</p><p>Rejections and denials follow separate tracks.</p><ul><li>A written rejection from the county assessor can be appealed to the county board of equalization within 30 days of receiving the notice.</li><li>A denial from the Tax Commissioner can be challenged with a Petition for Redetermination, Form 458P, filed with the department within 30 days.</li><li>A homestead appeal cannot be used to argue about the home's valuation. If a high valuation threatens your exemption, the valuation protest has to be filed by June 30.</li></ul>"
+  },
+  {
+   "h2": "The creditor-protection homestead",
+   "html": "<p>Chapter 40 of the Nebraska statutes gives every natural person living in the state a homestead exempt from judgment liens and forced sale, up to $120,000 in value. Section 40-101 describes it as the dwelling house where the claimant lives, its appurtenances and the land under it. Outside a city or village the cap is 160 acres. Inside an incorporated city or village, the owner may choose up to two contiguous lots instead.</p><p>This protection has limits that matter when a house is sold under financial pressure.</p><ul><li>Section 40-103 allows a forced sale to satisfy judgments on debts secured by mechanics', laborers' or vendors' liens, and on mortgages or trust deeds the claimant signed and acknowledged.</li><li>Under section 40-104, a married person's homestead can only be conveyed or encumbered by an instrument that both spouses sign and acknowledge. A conservator or an attorney in fact under a power of attorney may act for a spouse as the section describes.</li><li>Section 40-116 shields sale proceeds, up to the exemption amount, from legal process and voluntary disposition for six months after the sale. Selling one homestead does not stop the owner from selecting or buying another.</li></ul><p>When a creditor levies on a home, the owner can ask the district court in the county where the home sits to decide whether the land is exempt and what it is worth (section 40-105). Under section 40-107, the application must be served on the judgment creditor and the officer making the levy at least ten days before the hearing.</p>"
+  },
+  {
+   "h2": "How this fits a fast cash sale",
+   "html": "<p>The two homestead programs come up at different points in a sale, and neither blocks a sale on its own. The tax exemption affects what the property tax statement shows and whether a refund or correction is possible. The creditor homestead affects who must sign the deed and what happens to the proceeds.</p><p>A few checks before you accept any offer:</p><ul><li>Ask the county assessor whether an exemption was granted this year, and whether your sale date falls before or after August 15.</li><li>If the seller is married, make sure both spouses sign and acknowledge the deed and the purchase agreement. An instrument without both signatures is a problem under the statute.</li><li>Have the title company pull judgment liens, mechanics' liens and mortgages, since section 40-103 leaves those debts outside the exemption.</li></ul><p>Cash Home Buyers can make an as-is offer on a Nebraska house, and the closing company handles the deed and the lien payoffs. This page is general information, not legal advice.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who files the Nebraska homestead exemption application?",
+   "a": "The owner files Form 458 with the county assessor where the home is located. For categories 1, 2, 3 and 6, Schedule I (the income statement) goes with it."
+  },
+  {
+   "q": "Do I have to own the home in my own name?",
+   "a": "Owner of record is the usual rule. A surviving spouse, a buyer in possession under a land contract, a joint tenant or tenant in common, a life estate holder, and a trust beneficiary with an ownership interest also count. A home held only by an LLC, corporation or partnership does not qualify."
+  },
+  {
+   "q": "Can I move my exemption to a new home I buy?",
+   "a": "Yes, in some cases. If you filed on time for the old home and became owner of a new homestead before August 15, file Form 458T with the assessor in the new home's county by August 15."
+  },
+  {
+   "q": "What if the assessor rejects my application?",
+   "a": "Appeal to the county board of equalization within 30 days of the written notice. If the Tax Commissioner denies it instead, file Form 458P with the Department of Revenue within 30 days."
+  },
+  {
+   "q": "When is the homestead exemption application due?",
+   "a": "Before June 30 each year, using Form 458. A county board may extend the deadline to July 20 on written request."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Nebraska Homestead Exemption Information Guide (Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/pad/homestead/Homestead%20Exemption%20Information%20Guide.pdf"
+  },
+  {
+   "title": "2026 Household Income Table (Department of Revenue)",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/pad/homestead/2026%20Income%20Table.pdf"
+  },
+  {
+   "title": "Nebraska Homestead Exemption Application, Form 458 (2026)",
+   "url": "https://revenue.nebraska.gov/sites/default/files/doc/pad/homestead/Form%20458%202026.pdf"
+  },
+  {
+   "title": "Nebraska Revised Statutes Chapter 40, Homesteads (sections 40-101 to 40-116)",
+   "url": "https://nebraskalegislature.gov/laws/display-chapters.php?chapter=40"
+  }
+ ]
+}

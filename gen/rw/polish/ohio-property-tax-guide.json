@@ -1,0 +1,97 @@
+{
+ "slug": "ohio-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who sets the value on an Ohio tax bill?",
+   "html": "<p>Each county auditor appraises the parcels in that county, and your bill starts from the auditor's figure. The state tax department describes a full reappraisal every six years, with a lighter update every third year that relies on sales data rather than a site visit.</p>\n<p>A millage rate then turns value into dollars. Inside mills come from local governments without a ballot. Outside mills come from levies voters approved for schools, fire districts and similar services. That is why a bill can climb while a house keeps the same value: a new levy raises the rate. Only the value can be contested before the Board of Revision, never the rate.</p>\n<p>The <a href=\"https://tax.ohio.gov/individual/property-tax\">Department of Taxation property tax page</a> outlines two ways to question the figure. Some counties run an informal review, mostly in reappraisal years, and every county accepts the formal complaint. Call the auditor to learn which applies to your parcel.</p>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>Ohio lets you pay a bill in one payment or two. Under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.12\">R.C. 323.12</a>, a single payment is due by the last day of December. A half payment, plus any older delinquency, is due then, and the remainder is due June 20 of the next year. Real bills often show later dates, because <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.17\">R.C. 323.17</a> moves payment to January 31 and July 20 when the duplicate reaches the treasurer late. Go by the dates printed on your own bill.</p>\n<p>The treasurer must receive the payment by the last day, or it must carry a U.S. Postal Service postmark from that day or earlier. A stamp from a private postage meter does not count, and a treasurer may keep the books open briefly to process what came in.</p>\n<p>The penalty schedule in <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.121\">R.C. 323.121</a> works like this:</p>\n<ul>\n<li>Miss the first-half deadline and the unpaid half picks up a ten percent charge.</li>\n<li>Miss the second-half deadline and the remaining unpaid current taxes pick up another ten percent charge.</li>\n<li>Back taxes then accrue interest at the rate fixed under section 5703.47.</li>\n</ul>"
+  },
+  {
+   "h2": "How to contest your valuation with the Board of Revision",
+   "html": "<p>The paperwork starts at the auditor's counter, and the auditor passes it to the Board of Revision. Under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5715.19\">R.C. 5715.19</a> the window closes on whichever date comes second: the end of March after the tax year in question, or the day the treasurer finishes collecting first-half payments. For mail, the postmark decides whether you were on time.</p>\n<p>Besides the owner, the statute names the owner's spouse, a retained assessment professional, a retained accountant, appraiser or real estate broker, and in some commercial leases the tenant. Gather comparable sales, an independent appraisal if you have one, and photographs of the house as it stands today.</p>\n<p>A repeat complaint is blocked within one interim period unless something new happened after the lien date. The statute lists what counts:</p>\n<ul>\n<li>An arm's length sale of the property.</li>\n<li>A casualty loss of value.</li>\n<li>A substantial improvement.</li>\n<li>An occupancy change of fifteen percent or more that hits the property's economics hard.</li>\n</ul>\n<p>If the result disappoints you, appeal to the Board of Tax Appeals. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-5717.01\">R.C. 5717.01</a> gives thirty days from the mailing of the county board's notice.</p>"
+  },
+  {
+   "h2": "Payment and appeal rules at a glance",
+   "html": "<table>\n<caption>Ohio property tax payment and valuation rules</caption>\n<thead><tr><th>Topic</th><th>What the rule says</th></tr></thead>\n<tbody>\n<tr><td>Standard due dates</td><td>Pay all at once, or in two halves with the second due in June</td></tr>\n<tr><td>Extended due dates</td><td>January 31 and July 20 when the duplicate is delayed</td></tr>\n<tr><td>Late penalty</td><td>Ten percent on the unpaid half or balance</td></tr>\n<tr><td>Tax lien</td><td>Attaches January 1 each year and lasts until paid</td></tr>\n<tr><td>Valuation complaint</td><td>File with the auditor by the later of two dates</td></tr>\n<tr><td>Appeal of a board decision</td><td>Board of Tax Appeals, within thirty days of mailed notice</td></tr>\n</tbody>\n</table>"
+  },
+  {
+   "h2": "Homestead exemption",
+   "html": "<p>The exemption lowers the tax on a home the owner lives in. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.152\">R.C. 323.152</a> reaches people who are permanently and totally disabled, people at least sixty-five, some surviving spouses, disabled former service members, and surviving spouses of public service officers killed on duty. Under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.151\">R.C. 323.151</a>, the protected home takes in as much as one acre around the dwelling, and you meet the age test if you reached sixty-four before January 1 of the application year.</p>\n<p>The base reduction shields twenty-five thousand dollars of true value, indexed to inflation by the tax commissioner. Disabled former service members and the surviving spouses of officers killed on duty get fifty thousand dollars with no income test. Other applicants must stay under an income ceiling that the statute states as thirty thousand dollars of total income, also indexed each year. The auditor can give you the current number.</p>\n<p>A second layer applies to any homestead. The text lists percentages of the tax from qualifying levies: 5.70 percent for the first tax year the amendment applies, 8.92 percent, 12.15 percent, and then 15.38 percent for the third following year and later. Ask the auditor which step your year falls on.</p>\n<p>You file at the auditor's office. Form DTE 105A is for most people, DTE 105I is for disabled former service members and their surviving spouses, and DTE 105K is for officers' surviving spouses. After approval you stay enrolled unless your eligibility changes. A different benefit, the owner-occupancy credit, covers a primary residence you lived in on January 1 of the application year.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>The year's tax lien attaches to the real property on January 1 and stays until tax, penalties and interest are paid, as <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.11\">R.C. 323.11</a> puts it. Transferring the deed does not wipe it out, so the amount owed has to come out of the sale money or the buyer inherits it. Ask the county treasurer for a payoff amount before the closing date.</p>\n<p>The deed stage adds a form. Under <a href=\"https://codes.ohio.gov/ohio-revised-code/section-319.202\">R.C. 319.202</a>, the buyer files a statement of value with the auditor. It must address whether the seller's taxes were reduced by the homestead exemption and whether the land was valued for current agricultural use. A buyer who does not qualify for a reduction the seller had should expect the next bill to differ.</p>\n<p>If you are already behind, there is a way out of foreclosure. <a href=\"https://codes.ohio.gov/ohio-revised-code/section-323.31\">R.C. 323.31</a> guarantees an owner who lives in the home one written delinquent tax contract with the county treasurer. A home in that position gets up to five years of installments, and at least two if the owner asks. A missed installment or unpaid current tax voids the deal, and none is available while a tax certificate or foreclosure judgment stands.</p>\n<p>For a quick sale, line up the payoff figure from the treasurer first, then confirm with the title company that the lien will be paid out of proceeds at closing. A buyer paying cash can often close fast enough to settle a delinquency before a foreclosure judgment is entered.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is the Ohio Board of Revision complaint deadline?",
+   "a": "Whichever is later: the end of March after the tax year, or the day first-half collection ends. Hand the complaint to the auditor, whose office passes it along. If you mail it, the postmark date counts."
+  },
+  {
+   "q": "Can I pay Ohio property tax in installments?",
+   "a": "Yes. The statute allows two halves, one around year end and one in June, and a late duplicate pushes both into January and July. The dates printed on your bill control."
+  },
+  {
+   "q": "Can I get a homestead exemption if I am under sixty-five?",
+   "a": "Yes, if you are permanently and totally disabled on January 1 of the application year, or if you are a disabled former service member or a qualifying surviving spouse. A partial exemption also applies to any homestead. Apply through the county auditor."
+  },
+  {
+   "q": "Who sets the Ohio millage rate?",
+   "a": "Local governments set inside mills, and voters approve outside mills through levies. A valuation complaint cannot change the rate. Only the property's value can be challenged at the Board of Revision."
+  },
+  {
+   "q": "What if I cannot pay my Ohio property tax on a home I live in?",
+   "a": "Ask the county treasurer about a delinquent tax contract. An owner who lives in the home is entitled to one, payable over up to five years. Entering it before a foreclosure judgment keeps the county from filing suit while installments are paid."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Ohio Revised Code 5715.19",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-5715.19"
+  },
+  {
+   "title": "Ohio Revised Code 5717.01",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-5717.01"
+  },
+  {
+   "title": "Ohio Revised Code 323.12",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.12"
+  },
+  {
+   "title": "Ohio Revised Code 323.121",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.121"
+  },
+  {
+   "title": "Ohio Revised Code 323.17",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.17"
+  },
+  {
+   "title": "Ohio Revised Code 323.11",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.11"
+  },
+  {
+   "title": "Ohio Revised Code 323.151",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.151"
+  },
+  {
+   "title": "Ohio Revised Code 323.152",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.152"
+  },
+  {
+   "title": "Ohio Revised Code 323.31",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-323.31"
+  },
+  {
+   "title": "Ohio Revised Code 319.202",
+   "url": "https://codes.ohio.gov/ohio-revised-code/section-319.202"
+  },
+  {
+   "title": "Ohio Department of Taxation Property Tax Resource Hub",
+   "url": "https://tax.ohio.gov/individual/property-tax"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "slug": "new-mexico-transfer-on-death-deed",
+ "sections": [
+  {
+   "h2": "The law behind the deed",
+   "html": "<p>These deeds fall under 45-6-401 and the sections after it, New Mexico's version of the Uniform Real Property Transfer on Death Act. Section 45-6-405 NMSA 1978 boils the idea down: a person can name one or more beneficiaries to receive property when the person dies, and a transfer on death deed is how it's done.</p>\n<p>The act started on January 1, 2014. Section 45-6-403 reaches deeds signed before, on or after that date, so long as the owner's death comes on or after January 1, 2014.</p>\n<p>Under Section 45-6-404, other lawful ways to pass property stay open. You can still use a will, joint tenancy or a trust, and this deed simply adds another choice.</p>"
+  },
+  {
+   "h2": "What the deed must contain",
+   "html": "<p>Three things make the deed valid under Section 45-6-409: it must look like a normal recordable deed, say the transfer happens at death, and be recorded while the owner is still alive.</p>\n<ul>\n<li>Include everything a regular recordable deed between living people needs.</li>\n<li>Say that the beneficiary receives the property when the owner dies.</li>\n<li>Record it with the clerk of the county where the land lies before the owner's death.</li>\n</ul>\n<p>Recording is the step people skip, and a signed deed left in a drawer accomplishes nothing. The county charges the fee set by 14-8-15 NMSA 1978: $25 per recorded document, plus extra for large documents with many index entries.</p>\n<p>Section 45-6-410 drops several steps people assume are required. Nobody has to tell the beneficiary, hand over the deed, get the beneficiary's acceptance during the owner's life, or pay anything for it. An owner can sign and record without telling the person named.</p>"
+  },
+  {
+   "h2": "What the owner can still do",
+   "html": "<p>Nearly everything. Section 45-6-412 says the deed leaves the owner's rights untouched during life, including the right to sell or pledge the property. After recording, you can still sell, refinance or borrow against the house.</p>\n<p>Until the owner dies, the recorded deed has these limits on its reach:</p>\n<ul>\n<li>a buyer's rights stay intact, even if the buyer knows about the deed;</li>\n<li>creditors, secured or not and present or future, keep their rights;</li>\n<li>neither side's eligibility for public assistance changes;</li>\n<li>the beneficiary gets no legal or equitable stake;</li>\n<li>the beneficiary's own creditors can't reach the property.</li>\n</ul>\n<p>For a seller this is the important part. The beneficiary can't stop a sale and a buyer needs no signature from them. The deed matters only if the owner still holds the house at death.</p>"
+  },
+  {
+   "h2": "Changing or revoking the deed",
+   "html": "<p>You need a new recorded document. Section 45-6-411 requires the owner to acknowledge the revocation after the acknowledgment on the original deed and to record it before death, in the same county clerk's office. It also has to be one of three types: a later transfer on death deed that cancels the first (directly or by conflicting with it), a stand-alone document that says it revokes, or an ordinary deed that says it revokes.</p>\n<p>Shortcuts don't work. Ripping up a copy or scrawling across the deed does nothing once it's recorded. When several owners signed, one owner's revocation leaves the others' shares alone, and a deed by joint owners is revoked only if every living joint owner revokes.</p>\n<p>The beneficiary's consent or knowledge isn't needed to revoke or amend, as long as the recording condition above is met.</p>"
+  },
+  {
+   "h2": "What happens at the owner's death",
+   "html": "<p>When the beneficiary outlives the owner, the property goes to that person under the deed. Section 45-6-413 covers the details:</p>\n<ul>\n<li>A beneficiary who dies first gets nothing, and that share lapses.</li>\n<li>Multiple beneficiaries split the property into equal undivided shares, without survivorship rights between them.</li>\n<li>If one lapses, the remaining beneficiaries divide that share in proportion to what each holds.</li>\n<li>Where the signer co-owned the house and a co-owner lives on, survivorship gives the property to that co-owner. The deed takes effect only if the signer was the last joint owner standing.</li>\n<li>Whatever is recorded against the house at death, whether conveyances, mortgages or liens, binds the beneficiary.</li>\n<li>No covenant or warranty of title comes with the transfer, whatever the deed itself says.</li>\n</ul>\n<p>In practice, the beneficiary records a copy of the death certificate with the clerk in the house's county, and title then passes with no probate.</p>"
+  },
+  {
+   "h2": "Does the beneficiary owe the owner's debts?",
+   "html": "<p>In a limited way, maybe. Section 45-6-415 makes the beneficiary answerable for allowed claims against the owner's probate estate and for statutory allowances to a spouse and children, within the limits of 45-6-102 NMSA 1978.</p>\n<p>The deed spares the house a probate case but doesn't shield it from debt. A mortgage stays on, and a beneficiary who wants to keep the house must keep paying it. Recorded liens follow the property, as 45-6-413 provides.</p>\n<p>Property that passes automatically to a named beneficiary generally sits outside the probate estate, and land under a transfer on death deed is in that group.</p>"
+  },
+  {
+   "h2": "Transfer on death deed versus other routes",
+   "html": "<p>Which route fits depends on how much control the owner wants.</p>\n<table>\n<caption>Ways a house can pass at death</caption>\n<thead><tr><th>Route</th><th>How it works</th><th>Authority</th></tr></thead>\n<tbody>\n<tr><td>Transfer on death deed</td><td>Recorded while the owner lives; revoked only by a recorded document; beneficiary holds nothing until death</td><td>45-6-409, 45-6-411, 45-6-412</td></tr>\n<tr><td>Probate</td><td>Opened in the home county's probate court from 5 days to 3 years after death; $30 to file</td><td>Court self-help guide</td></tr>\n<tr><td>Small estate affidavit</td><td>Estates under $50,000 with no real property, usable after 30 days if no probate is open</td><td>Court self-help guide</td></tr>\n<tr><td>Personal representative's deed</td><td>Can be required to take real property out of the decedent's name</td><td>Court self-help guide</td></tr>\n</tbody>\n</table>\n<p>The court's guide at <a href=\"https://selfrepresentation.nmcourts.gov/probate/\">selfrepresentation.nmcourts.gov</a> walks through probate in plain language, and the <a href=\"https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-413/\">text of 45-6-413</a> is short enough to read in full.</p>"
+  },
+  {
+   "h2": "Selling a house that has a transfer on death deed",
+   "html": "<p>The answer turns on whether the owner is living. A living owner sells as usual, since the deed puts no limit on transfers, and the sale closes on the owner's signature alone. If the owner sold before death, the deed has nothing left to transfer.</p>\n<p>Once the owner has died, the beneficiary must first put ownership on record by filing the death certificate with the clerk. Only then can a sale proceed. The buyer's title search will turn up the deed, the certificate and any recorded liens. Because no warranty comes with the house, expect close scrutiny of title.</p>\n<p>Inherited houses often need repairs, carry back taxes or belong to relatives who live far off. A cash sale can speed things up without changing the rules above. Cash Home Buyers makes no price promises in advance, and the beneficiary should check title steps with an attorney or title company before signing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does a New Mexico transfer on death deed avoid probate?",
+   "a": "For the house itself, yes. The beneficiary records the death certificate with the county clerk and title moves with no probate. Allowed claims against the probate estate can still reach the beneficiary under 45-6-415."
+  },
+  {
+   "q": "Must the deed be recorded before the owner dies?",
+   "a": "Yes. Section 45-6-409 requires it to be recorded with the clerk of the property's county while the owner is alive."
+  },
+  {
+   "q": "Does the beneficiary have to be told about the deed?",
+   "a": "No. Under Section 45-6-410, the beneficiary needn't be notified or accept anything during the owner's life, and no payment is required."
+  },
+  {
+   "q": "Can the owner sell the house after signing a transfer on death deed?",
+   "a": "Yes. Section 45-6-412 leaves the owner free to sell or encumber the property, and the beneficiary has no legal or equitable stake until the owner dies."
+  },
+  {
+   "q": "What happens if the beneficiary dies before the owner?",
+   "a": "That beneficiary's share lapses under 45-6-413. With several beneficiaries, the survivors divide the lapsed share in proportion to their interests."
+  }
+ ],
+ "sources": [
+  {
+   "title": "NMSA 1978 Section 45-6-403, Applicability (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-403/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-404, Nonexclusivity (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-404/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-405, Transfer on death deed authorized (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-405/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-409, Requirements (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-409/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-410, Notice, delivery, acceptance or consideration not required (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-410/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-411, Revocation (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-411/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-412, Effect during transferor's life (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-412/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-413, Effect at transferor's death (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-413/"
+  },
+  {
+   "title": "NMSA 1978 Section 45-6-415, Liability for creditor claims (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-45/article-6/part-4/section-45-6-415/"
+  },
+  {
+   "title": "NMSA 1978 Section 14-8-15, Payment of fees (Justia)",
+   "url": "https://law.justia.com/codes/new-mexico/chapter-14/article-8/section-14-8-15/"
+  },
+  {
+   "title": "New Mexico Courts, Probate - Self-Representation",
+   "url": "https://selfrepresentation.nmcourts.gov/probate/"
+  },
+  {
+   "title": "New Mexico Supreme Court, Rule 1B-102 NMRA (Probate Court)",
+   "url": "https://supremecourt.nmcourts.gov/wp-content/uploads/sites/2/2024/02/Rule-1B-102-NMRA.pdf"
+  }
+ ]
+}

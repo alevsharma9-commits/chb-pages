@@ -1,0 +1,105 @@
+{
+ "slug": "missouri-estate-tax",
+ "sections": [
+  {
+   "h2": "Does Missouri charge an estate tax?",
+   "html": "<p>No. Missouri imposes no estate tax for any death since the start of 2005, and no state return has to be filed for those deaths. The old state tax was tied to a federal credit, and the IRS stopped allowing that credit for deaths after 2004.</p><p>The mechanism sits in RSMo 145.011. It taxed the transfer of an estate with Missouri tax situs at the maximum state death tax credit under Internal Revenue Code Section 2011. Federal law stepped that credit down to 75 percent for 2002 deaths, 50 percent for 2003, 25 percent for 2004 and nothing afterward, which leaves the Missouri figure at zero. If the IRS ever brought the credit back, a Missouri return would be due again under sections 145.011 to 145.955.</p>"
+  },
+  {
+   "h2": "Federal estate tax and a Missouri house",
+   "html": "<p>Federal estate tax reaches only estates above the basic exclusion amount, which is $15,000,000 for 2026 deaths under the law signed on July 4, 2025. Most family homes in Missouri fall far below that line. A married couple can also carry over an unused exclusion to the surviving spouse by electing portability on a timely filed return.</p><p>An estate over the threshold files Form 706. When the executor files one, beneficiaries generally get a Schedule A on Form 8971 reporting the estate tax value of what they received, and certain beneficiaries must use that figure as their starting basis.</p>"
+  },
+  {
+   "h2": "How heirs can get an inherited house sold",
+   "html": "<p>The path depends on the size of the estate and whether a personal representative has been appointed. Two routes in the Missouri statutes cover most house sales by heirs.</p><table><caption>Two Missouri routes to selling a decedent's real estate</caption><thead><tr><th>Route</th><th>What triggers it</th><th>Statute</th></tr></thead><tbody><tr><td>Small estate affidavit</td><td>Net estate of $40,000 or less after liens and debts, thirty days since the death, and no pending or granted application for letters</td><td>RSMo 473.097</td></tr><tr><td>Petition to sell</td><td>An executor or administrator asks the probate court for authority to sell real property of the estate</td><td>RSMo 473.493</td></tr></tbody></table><p>On the small estate route, the distributees show title by recording a copy of the affidavit and the clerk's certificate in every county that holds part of the land. The person signing the affidavit posts a bond unless the court waives it, and pays the filing fee. If the listed property tops $15,000, the clerk runs a creditor notice two weeks in a row.</p>"
+  },
+  {
+   "h2": "A court-ordered sale",
+   "html": "<p>Once letters have issued, RSMo 473.493 lets the executor or administrator file a petition stating why the sale is needed and describing the property. The court sets a hearing and sends notice, by regular mail or publication, to heirs and devisees named in the file and to others the court names.</p><ul><li>If the court orders publication, the notice runs weekly for four straight weeks.</li><li>The hearing then falls no earlier than the thirtieth day and no later than the forty-second day after the first insertion.</li><li>With satisfactory proof at the hearing, the court may approve a sale of the whole property or a piece of it.</li><li>When a mortgage secures a claim that is due, the court may order a sale subject to the mortgage with the lender's consent, and that consent releases the estate from any later deficiency.</li></ul><p>Your probate attorney can tell you whether a petition is needed or whether the will already gives the personal representative power to sell.</p>"
+  },
+  {
+   "h2": "IRS closing letters and basis statements",
+   "html": "<p>Only estates that must file Form 706 deal with these items. For those estates, Section 6035 requires the executor to send statements to the IRS and to beneficiaries who receive certain property, and Section 1014(f) requires the beneficiary's basis to stay consistent with the value finally determined for federal estate tax. Final regulations on this consistent basis reporting came out on September 16, 2024.</p><p>An estate that is not required to file a return should not send Form 8971, because doing so may cause unnecessary correspondence.</p><p>An executor who wants proof that the federal case is closed can request the Estate Tax Closing Letter, Letter 627. The IRS user fee for that letter is now $76. Heirs waiting on a sale of the family house should ask the executor whether a return was filed and, if so, request their Schedule A before closing so the basis figure is on paper.</p>"
+  },
+  {
+   "h2": "Tax after an heir sells the house",
+   "html": "<p>The federal gain is the sale price less basis, and basis for inherited property is generally the house's worth when the owner died (IRS Publication 551). What the original owner paid decades earlier does not matter. Topic 409 covers holding period details for inherited property.</p><p>On the state side, Missouri lets an individual subtract all federally reported capital gains when computing the state return. The subtraction is available to individuals and not to trusts, so who holds title when the sale closes matters. If the sale happens inside the estate, ask the preparer how the estate's income is reported.</p><p>Missouri also charges fiduciary income tax on income earned by an estate or trust. A resident estate that must file federal Form 1041 files a Missouri fiduciary return, and a nonresident estate must file when it has $600 or more of Missouri-source gross income.</p>"
+  },
+  {
+   "h2": "Paperwork to gather before listing",
+   "html": "<ul><li>A certified death certificate, since the date of death anchors the basis figure.</li><li>Letters testamentary or of administration, or the small estate affidavit with the clerk's certificate.</li><li>An appraisal or other documented fair market value as of the date of death.</li><li>The current deed, which carries the legal description the recorder will need.</li><li>Any Schedule A from Form 8971, if the estate filed a federal return.</li><li>Payoff figures for any mortgage, unpaid tax or lien.</li></ul><p>A deed goes on file with the recorder of the county that holds the land under RSMo 442.380. RSMo 442.400 adds that an unrecorded instrument is valid only between the parties and anyone with actual notice, so the buyer's deed should be filed promptly. A probate attorney near the decedent's home court can confirm the filing order for your estate.</p>"
+  },
+  {
+   "h2": "Selling an inherited house for cash",
+   "html": "<p>A cash buyer does not skip the probate steps. The buyer needs to see who has authority to sign, whether that is a personal representative with letters or distributees holding a recorded affidavit. Once that is clear, a cash sale can move quickly and the house can sell as it stands, which suits heirs who live far away or do not want to fund repairs.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there a Missouri estate tax for deaths in 2026?",
+   "a": "No. Missouri has had no estate tax for any death since 2005, and no return is required. A return would be required again only if the IRS reinstated the federal state death tax credit."
+  },
+  {
+   "q": "How large must an estate be before federal estate tax applies?",
+   "a": "For 2026 deaths the basic exclusion amount is $15,000,000. An estate below that amount owes no federal estate tax, although a surviving spouse may still file to elect portability of an unused amount."
+  },
+  {
+   "q": "Can heirs sell a Missouri house without opening probate?",
+   "a": "Sometimes. When the net estate is $40,000 or under, thirty days have gone by and no one has sought letters, distributees can use the small estate affidavit in RSMo 473.097 and file it with the recorder."
+  },
+  {
+   "q": "What is the tax basis of a house I inherited?",
+   "a": "Generally what it was worth at the owner's death, or on the alternate valuation date if the estate chose one. Beneficiaries of an estate that filed Form 706 usually receive a Schedule A with the value."
+  },
+  {
+   "q": "Does Missouri tax the gain when an heir sells an inherited house?",
+   "a": "Eligible individuals may subtract all federally reported capital gains on the state return, using Form MO-A with Form MO-1040. Trusts cannot claim that subtraction."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Missouri DOR Estate Tax page",
+   "url": "https://dor.mo.gov/taxation/individual/tax-types/estate.html"
+  },
+  {
+   "title": "RSMo 145.011",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=145.011"
+  },
+  {
+   "title": "RSMo 473.097",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=473.097"
+  },
+  {
+   "title": "RSMo 473.493",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=473.493"
+  },
+  {
+   "title": "RSMo 442.400",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=442.400"
+  },
+  {
+   "title": "RSMo 442.380",
+   "url": "https://revisor.mo.gov/main/OneSection.aspx?section=442.380"
+  },
+  {
+   "title": "IRS What's new Estate and gift tax",
+   "url": "https://www.irs.gov/businesses/small-businesses-self-employed/whats-new-estate-and-gift-tax"
+  },
+  {
+   "title": "IRS Publication 551",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "IRS Topic 409",
+   "url": "https://www.irs.gov/taxtopics/tc409"
+  },
+  {
+   "title": "Missouri DOR Fiduciary Tax",
+   "url": "https://dor.mo.gov/taxation/individual/tax-types/fiduciary/"
+  },
+  {
+   "title": "Missouri DOR capital gains subtraction FAQs",
+   "url": "https://dor.mo.gov/faq/taxation/individual/capital-gains-subtraction.html"
+  }
+ ]
+}

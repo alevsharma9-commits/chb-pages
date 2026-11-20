@@ -1,0 +1,97 @@
+{
+ "slug": "north-carolina-register-of-deeds",
+ "sections": [
+  {
+   "h2": "What the register of deeds does",
+   "html": "<p>Voters in every county elect a register of deeds to a two-year term (G.S. 161-1). The office keeps the public land records: deeds, deeds of trust and the papers that go with them. The tax assessor works from a different file, so a change at one counter does not carry over to the other.</p><p>Besides filing, the register collects two payments: the statewide recording charge, and the deed excise tax that must be paid before a conveyance goes on the record (G.S. 161-10). In an ordinary sale, the closing attorney carries the new deed and the buyer's loan paperwork to this counter.</p>"
+  },
+  {
+   "h2": "Recording fees",
+   "html": "<p>One state statute sets every charge, so the mountains and the coast pay alike. These are the amounts G.S. 161-10 prints.</p><table><caption>Statewide charges for common filings</caption><thead><tr><th>Filing</th><th>Charge</th></tr></thead><tbody><tr><td>Deed or other general instrument</td><td>Pages 1 to 15 together: $26.00. Pages beyond 15: $4.00 each</td></tr><tr><td>Deed of trust or mortgage</td><td>Pages 1 to 35 together: $64.00. Pages beyond 35: $4.00 each</td></tr><tr><td>Satisfaction or cancellation of a deed of trust or mortgage</td><td>No charge</td></tr><tr><td>Plat</td><td>$21.00 a sheet</td></tr><tr><td>Certified copy</td><td>Page one $5.00; each following page $2.00</td></tr><tr><td>Document that misses the format rules</td><td>$25.00 extra</td></tr><tr><td>Further instrument inside one document</td><td>$10.00 each</td></tr></tbody></table><p>Payment comes before filing. Excise tax is a separate bill.</p>"
+  },
+  {
+   "h2": "Deed excise tax at the counter",
+   "html": "<p>Before the deed is recorded, the seller (the transferor, in the statute's word) pays the tax to the register. G.S. 105-228.30 prices it at one dollar for each $500 of the price or value, rounded up for any fraction.</p><p>Land that crosses a county line is handled in the county with the larger share of value. The money divides evenly between county and state, with the state half remitted monthly after refunds and an allowance. Gifts, transfers by will or intestacy and deals where the buyer owes nothing fall outside the tax under G.S. 105-228.29.</p>"
+  },
+  {
+   "h2": "What to bring to the register of deeds",
+   "html": "<p>Bring a deed with a completed notary acknowledgment. G.S. 47-14 tells the register not to accept a paper that needs an acknowledgment unless the officer's signature, commission expiration date and any required seal appear on it.</p><ul><li>The signed instrument with the notary page attached.</li><li>Letter-size or legal-size paper, with a blank band of three inches across the top of page one.</li><li>Black print on white stock at 9 points or larger, one side only.</li><li>The kind of instrument written at the head of the first page.</li><li>Payment for the recording charge and any excise tax.</li></ul><p>Paper that fails these format points is still recorded, with the nonstandard add-on from G.S. 161-14. Where the only flaw is type smaller than 9 points, a register may waive the add-on if the text is readable.</p>"
+  },
+  {
+   "h2": "How fast documents are recorded",
+   "html": "<p>Papers are registered strictly in arrival order, and each is endorsed with the day and hour it was handed in. The register records on the day of presentation unless a temporary index is running, and permanent indexing must still be done within 30 days (G.S. 161-14).</p><p>The stamp carries legal weight. Under G.S. 47-18, a lease running past three years, an option, a right of first refusal or a conveyance is ineffective against lien creditors and purchasers for value until registered, and the order of registration by time sets priority. A buyer therefore wants the deed recorded quickly.</p>"
+  },
+  {
+   "h2": "Electronic recording and paper copies",
+   "html": "<p>Electronic recording is for approved submitters only. Subsection (a1) of G.S. 47-14 covers e-documents from a federal or state government body and from a trusted submitter, meaning one that signed an electronic recording agreement with that county's register. Ask the office whether your closing attorney is set up.</p><p>A paper fallback exists. The register must take a printout of an electronic document if the county has no e-recording, if its system rejects that document type, or if the system is down at the time. A sworn certificate must say the printout is accurate and unchanged. Telephone the office before you mail anything.</p><ul><li>Learn which payment forms the office accepts.</li><li>Put the property address and a return address on a mailed deed.</li><li>Hold on to the receipt that shows book, page and time.</li></ul>"
+  },
+  {
+   "h2": "Recording a paper again",
+   "html": "<p>An already recorded paper can be recorded again as a rerecording. Mark page one of the earlier instrument, or of a certified copy, in plain view as a rerecording (G.S. 47-14(a)). This helps after a recording mistake has been fixed.</p><p>The register can rely on the marking and the old recording data without rechecking the acknowledgment or searching for later edits. A corrected deed deserves a lawyer's review before resubmission.</p><p>Seals get their own presumption. A record the register accepts is presumed to have borne a clear notary seal image, and the office cannot refuse a record on the ground that the seal misses the notary statute's standard. If a court later finds a seal invalid, anyone who recorded an interest ahead of that finding keeps it.</p>"
+  },
+  {
+   "h2": "Which filings fall under the paper-format rules?",
+   "html": "<p>The format rules apply to filings that carry a fee under the fee statute. G.S. 161-14(d) names five groups.</p><ul><li>Instruments in general, which is where a deed falls.</li><li>Deeds of trust, mortgages, and cancellations of both.</li><li>Uniform Commercial Code filings.</li><li>Torrens registrations.</li><li>Master forms.</li></ul><p>Certified copies of court-filed documents and filings that follow the UCC filing-office rules are excused from the paper-size and margin rules.</p>"
+  },
+  {
+   "h2": "When the register is a party to the document",
+   "html": "<p>A document in which the county's own register is a party can be proved or acknowledged before any magistrate or notary public (G.S. 47-14(e)). Home sales rarely raise this, but it is the one case where the statute names magistrates as acknowledging officers.</p>"
+  },
+  {
+   "h2": "If the register turns your document away",
+   "html": "<p>A district court judge in the district can order registration. G.S. 47-14(b) gives this route to the person offering an instrument the register declined. The judge must find that the signer's execution was proved or acknowledged before an authorized officer, and that the officer's signature, commission expiration date and any required seal are present.</p><p>The register does not rule on legal sufficiency, so a recorded deed does not prove that it works. Ask an attorney to confirm title before you lean on the record. If you are selling, have the closing attorney or title company handle the filing so a rejected page does not delay the closing.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Which county office takes a deed for my house?",
+   "a": "The register of deeds where the house stands. For a parcel that crosses a county line, the office in the county with the greater value collects the excise tax and can say how to file."
+  },
+  {
+   "q": "What does a register of deeds charge for a standard deed?",
+   "a": "Up to 15 pages cost $26.00 together, and extra pages are $4.00 each. Excise tax may be due as well, paid at the same counter."
+  },
+  {
+   "q": "Is there a charge for filing proof that a mortgage was paid?",
+   "a": "No. The fee statute sets no charge for a satisfaction or cancellation of a deed of trust or mortgage."
+  },
+  {
+   "q": "Why would a register of deeds refuse a deed?",
+   "a": "Usually because a required acknowledgment does not appear to have been taken before an officer with authority. A district court judge can order registration if the proof or acknowledgment meets the statute."
+  },
+  {
+   "q": "How soon after I hand in a deed does it appear in the index?",
+   "a": "The register is meant to record it the same day. An office using a temporary index must still finish permanent indexing within 30 days after presentation."
+  }
+ ],
+ "sources": [
+  {
+   "title": "G.S. 161-1 Register of deeds election",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-1.html"
+  },
+  {
+   "title": "G.S. 161-10 Register of deeds fees",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-10.html"
+  },
+  {
+   "title": "G.S. 105-228.30 Excise tax on conveyances",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.30.html"
+  },
+  {
+   "title": "G.S. 105-228.29 Exempt transfers",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_105/GS_105-228.29.html"
+  },
+  {
+   "title": "G.S. 47-14 Verification before registration",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-14.html"
+  },
+  {
+   "title": "G.S. 161-14 Registration of instruments",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_161/GS_161-14.html"
+  },
+  {
+   "title": "G.S. 47-18 Effect of registration",
+   "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_47/GS_47-18.html"
+  }
+ ]
+}

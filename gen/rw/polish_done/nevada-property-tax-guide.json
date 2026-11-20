@@ -1,0 +1,93 @@
+{
+ "slug": "nevada-property-tax-guide",
+ "sections": [
+  {
+   "h2": "How Nevada values a house for tax",
+   "html": "<p>Nevada property tax starts with the county assessor, an elected official who finds, lists and values the real and personal property in the county. The state Department of Taxation oversees the system, and its <a href=\"https://tax.nv.gov/wp-content/uploads/2025/03/2025-Property-Tax-Elements-Applications.pdf\">guide to the property tax</a> explains the method. The number on your bill begins at the county level.</p><p>The state defines taxable value as land at full cash value plus improvements at replacement cost new, less depreciation. In plain terms, the lot is priced as if sold, while the structure is priced by rebuilding cost with a deduction for age and wear. A market sale price follows a different logic, which is why the assessor's number and a buyer's offer can differ.</p><p>Only part of taxable value is taxed. NRS 361.225 sets assessment at 35 percent of taxable value for all taxable property, and each owner receives a notice of assessed value as the tax roll is prepared.</p><ul><li>Land: full cash value, close to market value for the lot.</li><li>Improvements: replacement cost new, minus depreciation.</li><li>Assessed value: 35 percent of the sum of the two.</li><li>Tax bill: assessed value times the combined local rate, less any abatement.</li></ul>"
+  },
+  {
+   "h2": "Caps on how much the tax can rise",
+   "html": "<p>Two limits apply: a ceiling on the total tax rate, and an abatement that holds down year-over-year increases on homes.</p><p>NRS 361.453 caps the total ad valorem levy for all public purposes at $3.64 on each $100 of assessed valuation, with listed exceptions. The Legislature set that rate in 1979 and later added $0.02 for state debt, bringing the total to $3.66. The rate you pay varies with the parcel's location, so check your own bill.</p><p>The abatement is in NRS 361.4723. Lawmakers there declared an increase beyond 3 percent a hardship and ordered a partial abatement for an owner-occupied single-family residence. For those homes, one year's bill may climb no more than 3 percent above the previous levy. A general abatement of up to 8 percent covers other parcels.</p><table><thead><tr><th>Tax feature</th><th>Rule</th></tr></thead><tbody><tr><td>Assessment ratio</td><td>35 percent of taxable value (NRS 361.225)</td></tr><tr><td>Total levy ceiling</td><td>$3.64 per $100 of assessed value, with exceptions (NRS 361.453)</td></tr><tr><td>Primary residence abatement</td><td>Bill cannot rise more than 3 percent over the prior year (NRS 361.4723)</td></tr><tr><td>Other parcels</td><td>General abatement of up to 8 percent</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>NRS 361.483 lets an owner split a bill of more than $100 into four roughly equal installments. Payments fall on the third Monday of August, then the first Monday of October, January and March. Treasurers send bills by early August.</p><ul><li>One installment unpaid 10 days after its due date: 4 percent penalty.</li><li>Two installments unpaid: 5 percent on the two installments due.</li><li>Three installments unpaid: 6 percent on the three installments due.</li><li>Full amount unpaid 10 days after the first Monday of March: 7 percent of the full amount.</li></ul><p>Anyone penalized should be told about NRS 361.4835. It allows a county treasurer or assessor to forgive some or all of a late penalty and interest in the situations it lists. Ask the treasurer before you treat a penalty as final.</p>"
+  },
+  {
+   "h2": "What happens when taxes go unpaid?",
+   "html": "<p>Unpaid tax stays with the house. NRS 361.450 makes each property tax a perpetual lien until paid, ranking above every other lien, claim, encumbrance and title, even ones filed or perfected earlier. It attaches July 1 of the levy year.</p><p>When a bill remains open past the first Monday in June, the county holds the property for a two-year redemption period. The owner can redeem during those years by paying taxes, penalties, costs and 10 percent annual interest. With no payment, the property is deeded to the county treasurer as trustee and may go to public auction. Our <a href=\"/nevada-tax-sale/\">Nevada tax sale guide</a> covers that process in detail.</p><p>Two things follow in practice. Any buyer or title company will want unpaid tax cleared at closing. Waiting also costs money, since penalties and certificate interest keep growing each month.</p>"
+  },
+  {
+   "h2": "Tax checks before you list",
+   "html": "<p>Pull three documents first: your newest tax bill, your notice of assessed value, and the treasurer's account record for the parcel.</p><ol><li>Match each installment to a payment. Bills mailed to an old address or to a lender can leave a balance open for months.</li><li>Check whether the abatement applies. The residence must be the owner's designated primary residence and cannot be rented or made available for exclusive occupancy by anyone other than the owner and family (NRS 361.4723).</li><li>Check the assessor's numbers against the house you own. A county board appeal under NRS 361.357 cannot increase your taxable value. File by January 15, after first completing the assessor's form.</li><li>Ask whether special assessments are attached. NRS 361.450 treats assessments under chapter 271 as liens with the same priority as tax.</li></ol><p>For an inherited house, confirm whose name is on the roll. A bill still addressed to a deceased owner can go delinquent unnoticed.</p>"
+  },
+  {
+   "h2": "Transfer tax when a house sells",
+   "html": "<p>Each deed carries a real property transfer tax, and the rate turns on county population. Under NRS 375.020 it is $1.25 per $500 of value in counties of 700,000 or more people and 65 cents per $500 elsewhere, once the value conveyed tops $100.</p><p>NRS 375.060 requires a declaration of value form, and the tax is computed from the value on it. This statute covers just the base tax, so ask the county recorder about local add-ons.</p><p>Who pays is a contract term, so the purchase agreement should say. On a typical settlement statement you will see the transfer tax, prorated property tax and any open delinquency.</p>"
+  },
+  {
+   "h2": "Selling with property tax owing",
+   "html": "<p>A house with tax owing can sell, as long as the title company can clear the lien at closing, usually by paying the balance from the sale proceeds.</p><p>Cash buyers handle this often because they do not wait on a lender's underwriting. The steps are the same either way: get a payoff figure from the county treasurer, include penalties and interest to the closing date, and give the escrow officer time to confirm the amount. If a trustee certificate has already been issued, redemption costs more, since it adds interest at 10 percent a year plus costs.</p><p>Timing matters most when an auction is near. Nevada lets an owner, a lender and a person holding a contract to purchase redeem until 5 p.m. on the third business day before the sale (NRS 361.585). A buyer under contract can protect the deal that way, but only if the money moves in time. We make offers on Nevada houses as-is, and we can review a tax bill with you before you decide anything.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who sets my Nevada property tax rate?",
+   "a": "Several local bodies do, within the state ceiling. The total levy for all public purposes cannot exceed $3.64 per $100 of assessed value except as the statute allows (NRS 361.453). The county assessor sets the value and the county treasurer sends the bill."
+  },
+  {
+   "q": "What is the assessed value of a Nevada house?",
+   "a": "It is 35 percent of taxable value under NRS 361.225. Taxable value is the land's full cash value plus the replacement cost of improvements less depreciation."
+  },
+  {
+   "q": "Can I pay Nevada property tax in installments?",
+   "a": "Yes, if the bill is over $100. The four installments fall due the third Monday of August, then the first Mondays of October, January and March (NRS 361.483). Penalties start at 4 percent for one late installment."
+  },
+  {
+   "q": "Does a tax lien come ahead of other liens in Nevada?",
+   "a": "Yes. Under NRS 361.450 the property tax lien is superior to all other liens, claims and encumbrances, whether or not the other lien was filed first."
+  },
+  {
+   "q": "Is there a limit on how much my Nevada home tax can increase?",
+   "a": "For an owner-occupied single-family primary residence, the partial abatement in NRS 361.4723 holds the yearly increase to 3 percent. Other property has a general abatement of up to 8 percent."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Nevada Department of Taxation: Property Tax Elements and Applications (2025)",
+   "url": "https://tax.nv.gov/wp-content/uploads/2025/03/2025-Property-Tax-Elements-Applications.pdf"
+  },
+  {
+   "title": "NRS 361.483 Time for payment of taxes; penalties",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-483/"
+  },
+  {
+   "title": "NRS 361.450 Liens for taxes",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-450/"
+  },
+  {
+   "title": "NRS 361.453 Limitation on total ad valorem tax levy",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-453/"
+  },
+  {
+   "title": "NRS 361.4723 Partial abatement, single-family residences",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-4723/"
+  },
+  {
+   "title": "NRS 361.585 Deeds to county treasurer as trustee; reconveyance",
+   "url": "https://law.justia.com/codes/nevada/chapter-361/statute-361-585/"
+  },
+  {
+   "title": "NRS 375.020 Imposition and rate of transfer tax",
+   "url": "https://law.justia.com/codes/nevada/chapter-375/statute-375-020/"
+  },
+  {
+   "title": "Clark County Treasurer: Real Property Tax Information",
+   "url": "https://www.clarkcountynv.gov/government/elected_officials/county_treasurer/real-property-tax-information"
+  },
+  {
+   "title": "Nye County Treasurer",
+   "url": "https://www.nyecountynv.gov/253/Treasurer"
+  }
+ ]
+}
