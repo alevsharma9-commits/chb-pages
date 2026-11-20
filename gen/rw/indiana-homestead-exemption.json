@@ -1,69 +1,89 @@
 {
-  "slug": "indiana-homestead-exemption",
-  "sections": [
-    {
-      "h2": "How much is the Indiana homestead deduction, and is it shrinking?",
-      "html": "<p>The standard homestead deduction is dropping every year until it reaches zero, so the amount you get depends on the assessment year. Senate Enrolled Act 1 of 2025 replaced the old formula, which was the lesser of 60 percent of assessed value or $48,000, with a fixed schedule that applies retroactively to January 1, 2025.</p><table><thead><tr><th>Assessment date</th><th>Standard deduction</th></tr></thead><tbody><tr><td>Before Jan. 1, 2025</td><td>Lesser of 60% of assessed value or $48,000</td></tr><tr><td>2025</td><td>$48,000</td></tr><tr><td>2026</td><td>$40,000</td></tr><tr><td>2027</td><td>$30,000</td></tr><tr><td>2028</td><td>$20,000</td></tr><tr><td>2029</td><td>$10,000</td></tr><tr><td>2030 and later</td><td>$0</td></tr></tbody></table><p>A shrinking standard deduction does not mean the total relief disappears. The state added a supplemental deduction and a credit to carry more of the load, which the next section explains.</p>"
-    },
-    {
-      "h2": "What is the supplemental homestead deduction and the homestead credit?",
-      "html": "<p>The supplemental deduction takes a percentage of whatever value is left after the standard deduction, and that percentage rises each year. It applies to taxes first due and payable after December 31, 2025. It cannot exceed 75 percent of the property's gross assessed value.</p><table><thead><tr><th>Tax year</th><th>Percentage of value after standard deduction</th></tr></thead><tbody><tr><td>2026 taxes</td><td>40%</td></tr><tr><td>2027</td><td>46%</td></tr><tr><td>2028</td><td>52%</td></tr><tr><td>2029</td><td>57%</td></tr><tr><td>2030</td><td>62%</td></tr><tr><td>2031 and later</td><td>66.7%</td></tr></tbody></table><p>Here is the arithmetic for a house with a gross assessed value of $200,000 on 2026 taxes. The standard deduction is $48,000, which leaves $152,000. Forty percent of that is $60,800, so the two deductions together remove $108,800. This is an illustration of the formula, not a prediction for your bill.</p><p>There is also a supplemental homestead credit for anyone who receives the standard deduction. The credit is the lesser of 10 percent of the homestead's tax liability or $300, it needs no application, and taxes approved by voters in a referendum are left out of the calculation. For 2026 the state applies it after the property tax cap credit and before the over 65 circuit breaker credit.</p>"
-    },
-    {
-      "h2": "Who qualifies for the homestead deduction in Indiana?",
-      "html": "<p>The person claiming it must use the property as a principal place of residence in Indiana and must hold an interest in it on the assessment date. Under IC 6-1.1-12-37 the interest can take several forms:</p><ul><li>Ownership by the individual.</li><li>A recorded contract that makes the buyer responsible for the property taxes and obligates the owner to convey title when the contract is complete.</li><li>Occupancy as a tenant-stockholder of a cooperative housing corporation.</li><li>A home held in a trust, when the occupant is a person described in section 17.9, such as someone with a beneficial interest in the trust.</li></ul><p>The contract purchaser line matters to anyone who sold a house on a land contract. If the contract is recorded and the buyer pays the taxes, the buyer may claim the deduction on the house while the seller still holds title.</p><p>A new definition arrives with House Enrolled Act 1210, effective July 1, 2026. It places in the statute the phrase \"an individual's true, fixed, permanent home to which the individual has the intention of returning after an absence.\"</p><h3>What counts as the homestead</h3><p>The deduction covers one house and one garage, plus up to one acre immediately around the dwelling. It can also reach decks, patios, gazebos, pools, one additional yard structure and one additional residential building that is not used as an investment or rental property. Land and buildings beyond that are treated as ordinary residential property and capped at 2 percent instead of 1 percent.</p><p>In general a person cannot hold the deduction on two different properties in the same year.</p>"
-    },
-    {
-      "h2": "How and when do you apply for the homestead deduction?",
-      "html": "<p>You apply by filing a certified statement with the county auditor, and the first filing is the only one you normally make. The Department of Local Government Finance (DLGF) says reapplication is needed only if the property is sold or the title changes.</p><p>The deadline needs a careful check. The 2024 text of the statute says the statement must be dated in the preceding calendar year and filed on or before January 5 of the year the taxes are first due. DLGF's own deductions page gives an example with a completion date of January 15, 2026 for the 2025 tax year paid in 2026. Because the two sources differ, call your county auditor and ask which date they enforce before you rely on either one.</p><ul><li>DLGF offers a Homestead Deduction Form and a separate Change of Use form for people whose use of the property changes.</li><li>The statement lists the applicant and spouse by name, with the last five digits of each Social Security number or an allowed substitute.</li><li>The sales disclosure form filed when a house sells can also serve as an application for deductions such as the homestead deduction, so a buyer can use that form to apply.</li></ul>"
-    },
-    {
-      "h2": "What happens to the homestead deduction when you sell the house?",
-      "html": "<p>The deduction does not move to the buyer on its own. Since reapplication is needed when a property is sold or the title changes, the new owner has to file a fresh statement, and until then the property may be billed without the benefit.</p><p>The 1 percent circuit breaker cap makes this more than paperwork. DLGF's fact sheet says the 1 percent cap applies only to homestead property that receives the standard deduction. Take a home assessed at $100,000 with a calculated bill of $2,100. A 1 percent cap holds the bill to $1,000 and the county auditor applies a $1,100 credit. Without the deduction, the 1 percent cap does not apply.</p><h3>Duties for the seller who moved out</h3><p>A person who stops being eligible must tell the auditor within 60 days. Starting July 1, 2026, failing to do that while still claiming the deduction makes the person liable for the extra tax plus a civil penalty of 10 percent of the additional taxes. The word in the statute changed from \"may\" to \"shall.\"</p><p>The auditor also has a stronger duty. If a property was ineligible in any year within three years of the tax due date, the auditor shall issue a notice of taxes, interest and penalties, and the notice adds a 10 percent penalty on the total tax bill calculated as if the deduction had not been applied. A vacant inherited house that still carries a deceased owner's deduction is worth a call to the auditor before you list.</p>"
-    },
-    {
-      "h2": "Which other credits and deductions follow the owner?",
-      "html": "<p>Several senior, disability and veteran benefits changed under the 2025 and 2026 laws, and most are credits that need a separate application by January 15. They stack with each other and with the homestead deduction.</p><table><thead><tr><th>Benefit</th><th>Amount</th><th>Main condition</th></tr></thead><tbody><tr><td>Over 65 credit</td><td>Up to $150</td><td>Age 65 by Dec. 31 of the prior year; adjusted gross income of $60,000 (single) or $70,000 (joint)</td></tr><tr><td>Over 65 circuit breaker credit</td><td>Varies by bill</td><td>Same income limits, up from $30,000 and $40,000; $240,000 value limit removed</td></tr><tr><td>Blind or disabled credit</td><td>Up to $125</td><td>No income limit; principal residence</td></tr><tr><td>Veteran credit, age 62 and up</td><td>$250</td><td>Disability of 10% or more</td></tr><tr><td>Veteran credit, service-connected</td><td>$350</td><td>Disability of 10% or more; war-time service</td></tr><tr><td>Totally disabled veteran deduction</td><td>100% of assessed value</td><td>Principal residence; one year of Indiana residency</td></tr></tbody></table><p>From 2026 an over 65 claimant must live on the property, although a nursing home or hospital stay does not disqualify. A credit larger than the year's tax liability does not carry forward or refund.</p><p>Owners of rental houses get something too. Residential, long-term care and agricultural property in the 2 percent class receives a deduction applied automatically, set at 6 percent of assessed value for the 2025 assessment and rising to 33.4 percent from the 2030 assessment onward.</p>"
-    },
-    {
-      "h2": "Is there a separate homestead protection from creditors in Indiana?",
-      "html": "<p>Yes, but it is a different rule. Indiana Code 34-55-10-2(c)(1) exempts real estate or personal property used as the debtor's or a dependent's residence from creditors, up to a dollar limit set by the statute.</p><p>Joint debtors can each use that exemption for property held as tenants by the entirety. Under subsection (c)(5), any interest a debtor has in entireties property is exempt, though the exemption does not apply to a debt that the debtor and the debtor's spouse owe together. The dollar amounts are adjusted over time and the sources we read gave different current figures, so confirm the present amount with an Indiana attorney before relying on it in a sale that involves a judgment or bankruptcy.</p><p>This protection does not lower a property tax bill, and the tax deduction does not shield a house from a judgment.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "Does the homestead deduction go away when I sell my Indiana house?",
-      "a": "Yes, it ends for you as the owner. DLGF says reapplication is needed when a property is sold or the title changes, so the buyer must file their own statement with the county auditor if they will live there."
-    },
-    {
-      "q": "What is the Indiana homestead deduction in 2026?",
-      "a": "The standard deduction is $40,000 for the 2026 assessment date, down from $48,000 for 2025. A supplemental deduction of 40 percent of the remaining value applies to 2026 taxes, with a cap of 75 percent of gross assessed value."
-    },
-    {
-      "q": "When is the deadline to file for the homestead deduction?",
-      "a": "The statute text we read says January 5 of the year taxes are first due, while DLGF's page gives a January 15, 2026 example. Ask your county auditor which date applies, since the two sources differ."
-    },
-    {
-      "q": "Can I claim the homestead deduction on a house I am buying on a land contract?",
-      "a": "Possibly. Indiana Code allows a contract purchaser to qualify when the contract is recorded, makes the buyer responsible for the property taxes, and obligates the owner to convey title when the contract is complete. The house must also be the buyer's principal residence."
-    },
-    {
-      "q": "What happens if I keep the deduction after I move out?",
-      "a": "You must notify the county auditor within 60 days of becoming ineligible. From July 1, 2026, failing to do so makes you liable for additional taxes plus a 10 percent civil penalty on the extra tax, and the auditor must send a notice for any ineligible year within three years of the due date."
-    },
-    {
-      "q": "Do landlords get a homestead deduction on rentals?",
-      "a": "No. A rental is not a principal place of residence for the owner. Residential property in the 2 percent class gets a separate automatic deduction under the 2025 law and is capped at 2 percent instead of 1 percent."
-    }
-  ],
-  "sources": [
-    {"title": "DLGF: Deductions and Credits", "url": "https://www.in.gov/dlgf/deductions-and-credits/"},
-    {"title": "DLGF Memo 250612: Legislation Affecting Deductions, Exemptions, and Credits (2025)", "url": "https://www.in.gov/dlgf/files/2025-memos/250612-Cockerill-Memo-Legislation-Affecting-Deductions,-Exemptions,-and-Credits.pdf"},
-    {"title": "DLGF Memo 260527: Legislation Affecting Deductions, Credits and Exemptions (2026)", "url": "https://www.in.gov/dlgf/files/2026-memos/260527-Cockerill-Memo-Legislation-Affecting-Deductions-Credits-and-Exemptions.pdf"},
-    {"title": "DLGF Presentation: Deductions and Credits (May 2026)", "url": "https://www.in.gov/dlgf/files/2026-presentations/260519-Lucas-Culy-Presentation-Deductions-and-Credits.pdf"},
-    {"title": "DLGF Fact Sheet: Circuit Breaker Caps", "url": "https://www.in.gov/dlgf/files/user-guides/251113-Fact-Sheet-Circuit-Breaker-Caps.pdf"},
-    {"title": "DLGF Sales Disclosure Form Overview", "url": "https://www.in.gov/dlgf/files/201015-Wood-Crisler-Presentation-Sales-Disclosure-Form-Overview.pdf"},
-    {"title": "IC 6-1.1-12-37 Homestead standard deduction, Justia", "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-12/section-6-1-1-12-37/"},
-    {"title": "IC 34-55-10-2 Exemptions, FindLaw", "url": "https://codes.findlaw.com/in/title-34-civil-law-and-procedure/in-code-sect-34-55-10-2/"}
-  ]
+ "slug": "indiana-homestead-exemption",
+ "sections": [
+  {
+   "h2": "The standard homestead deduction and its phase-out",
+   "html": "<p>Indiana's standard homestead deduction is shrinking each year until it reaches zero, so what you receive depends on the assessment year. Senate Enrolled Act 1 of 2025 swapped the old formula, the lesser of 60 percent of assessed value or $48,000, for a fixed schedule that applies back to January 1, 2025.</p><table><thead><tr><th>Assessment date</th><th>Standard deduction</th></tr></thead><tbody><tr><td>Before Jan. 1, 2025</td><td>Lesser of 60% of assessed value or $48,000</td></tr><tr><td>2025</td><td>$48,000</td></tr><tr><td>2026</td><td>$40,000</td></tr><tr><td>2027</td><td>$30,000</td></tr><tr><td>2028</td><td>$20,000</td></tr><tr><td>2029</td><td>$10,000</td></tr><tr><td>2030 and later</td><td>$0</td></tr></tbody></table><p>A smaller standard deduction does not mean relief vanishes. The state added a supplemental deduction and a credit to carry more of the load.</p>"
+  },
+  {
+   "h2": "Supplemental deduction and homestead credit",
+   "html": "<p>The supplemental deduction takes a percentage of whatever value remains after the standard deduction, and that percentage climbs each year. It applies to taxes first due and payable after December 31, 2025, and it cannot exceed 75 percent of the property's gross assessed value.</p><ul><li>2026 taxes: 40 percent</li><li>2027: 46 percent</li><li>2028: 52 percent</li><li>2029: 57 percent</li><li>2030: 62 percent</li><li>2031 and later: 66.7 percent</li></ul><p>Anyone who receives the standard deduction also gets a supplemental homestead credit. It equals the lesser of 10 percent of the homestead's tax liability or $300, needs no application, and leaves out taxes voters approved in a referendum. For 2026 it is applied after the property tax cap credit and before the over 65 circuit breaker credit.</p>"
+  },
+  {
+   "h2": "Who qualifies for the deduction?",
+   "html": "<p>The person claiming it must live in the property as a principal residence in Indiana and hold an interest in it on the assessment date. IC 6-1.1-12-37 allows that interest to take several forms:</p><ul><li>Ownership by the individual.</li><li>A recorded contract that makes the buyer responsible for the property taxes and obligates the owner to convey title when the contract is complete.</li><li>Occupancy as a tenant-stockholder of a cooperative housing corporation.</li><li>A home held in a trust, when the occupant is a person described in section 17.9, such as someone with a beneficial interest in the trust.</li></ul><p>The contract purchaser line is worth a look for anyone who sold on a land contract. When the contract is recorded and the buyer pays the taxes, the buyer may claim the deduction while the seller still holds title.</p><p>House Enrolled Act 1210 now writes a definition into the statute: an individual's true, fixed, permanent home to which the individual intends to return after an absence.</p><h3>What counts as the homestead</h3><p>The deduction covers one house and one garage, plus up to one acre immediately around the dwelling. It can also reach decks, patios, gazebos, pools, one additional yard structure and one additional residential building that is not an investment or rental property. Land and buildings beyond that are ordinary residential property, capped at 2 percent instead of 1 percent. In general a person cannot hold the deduction on two properties in the same year.</p>"
+  },
+  {
+   "h2": "How to apply",
+   "html": "<p>You apply by filing a certified statement with the county auditor. The first filing is normally the only one, because reapplication is needed only if the property is sold or the title changes. Call the county auditor for the current filing deadline before you file.</p><ul><li>The Department of Local Government Finance (DLGF) offers a Homestead Deduction Form and a separate Change of Use form for owners whose use of the property changes.</li><li>The statement lists the applicant and spouse by name, with the last five digits of each Social Security number or an allowed substitute.</li><li>The sales disclosure form filed when a house sells can double as an application for deductions such as the homestead deduction, so a buyer can apply on that form.</li></ul><p>Credits that need their own application are due by January 15, so ask the auditor which forms apply to you.</p>"
+  },
+  {
+   "h2": "When you sell the house",
+   "html": "<p>The deduction does not move to the buyer on its own. Because reapplication is needed when a property is sold or the title changes, the new owner must file a fresh statement, and until then the property may be billed without the benefit.</p><p>That matters because the 1 percent circuit breaker cap applies only to homestead property that receives the standard deduction. A house with no deduction loses the 1 percent cap and falls under the higher limit.</p><h3>Duties for a seller who moved out</h3><p>A person who stops being eligible must tell the auditor within 60 days. An owner who keeps claiming the deduction anyway is liable for the extra tax plus a civil penalty of 10 percent of the additional taxes. The statute now says shall, where it once said may.</p><p>The auditor has a firm duty as well. If a property was ineligible in any year within three years of the tax due date, the auditor shall send a notice of taxes, interest and penalties. The notice adds a 10 percent penalty on the total bill calculated as if the deduction had never applied. A vacant inherited house that still carries a deceased owner's deduction deserves a call to the auditor before you list.</p>"
+  },
+  {
+   "h2": "Other credits and deductions that follow the owner",
+   "html": "<p>Several senior, disability and military-service benefits changed under the 2025 and 2026 laws. Most are credits with a separate application. They stack with each other and with the homestead deduction.</p><ul><li>Over 65 credit: up to $150. Age 65 by Dec. 31 of the prior year; adjusted gross income of $60,000 (single) or $70,000 (joint).</li><li>Over 65 circuit breaker credit: varies by bill. Same income limits, up from $30,000 and $40,000, and the $240,000 value limit is removed.</li><li>Blind or disabled credit: up to $125. No income limit; principal residence.</li><li>Disabled veteran credit, age 62 and up: $250, with a disability of 10% or more.</li><li>Service-connected veteran credit: $350, with a disability of 10% or more and war-time service.</li><li>Totally disabled veteran deduction: 100% of assessed value, for a principal residence with one year of Indiana residency.</li></ul><p>An over 65 claimant must now live on the property, though a nursing home or hospital stay does not disqualify. A credit larger than the year's tax liability is neither carried forward nor refunded.</p><p>Rental owners get relief too. Residential, long-term care and agricultural property in the 2 percent class receives a deduction applied automatically, set at 6 percent of assessed value for the 2025 assessment and rising to 33.4 percent from the 2030 assessment onward.</p>"
+  },
+  {
+   "h2": "Protection from creditors is a separate rule",
+   "html": "<p>Indiana Code 34-55-10-2(c)(1) exempts real estate or personal property used as the debtor's or a dependent's residence from creditors, up to a dollar limit set by the statute.</p><p>Joint debtors can each use the exemption for property held as tenants by the entirety. Under subsection (c)(5), any interest a debtor has in entireties property is exempt, except for a debt the debtor and the debtor's spouse owe together. The dollar amounts are adjusted over time, so confirm the present figure with an Indiana attorney before a sale that involves a judgment or bankruptcy.</p><p>This protection does nothing for a property tax bill, and the tax deduction does not shield a house from a judgment.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Does the homestead deduction go away when I sell my Indiana house?",
+   "a": "It ends for you as the owner. Reapplication is needed when a property is sold or the title changes, so the buyer files their own statement with the county auditor if they will live there."
+  },
+  {
+   "q": "What is the Indiana homestead deduction in 2026?",
+   "a": "The standard deduction is $40,000 for the 2026 assessment date, down from $48,000 for 2025. A supplemental deduction of 40 percent of the remaining value applies to 2026 taxes, capped at 75 percent of gross assessed value."
+  },
+  {
+   "q": "When is the deadline to file for the homestead deduction?",
+   "a": "Call your county auditor for the date they enforce. Credits that need their own application are due by January 15."
+  },
+  {
+   "q": "Can I claim the deduction on a house I am buying on a land contract?",
+   "a": "Possibly. A contract purchaser can qualify when the contract is recorded, makes the buyer responsible for the property taxes and obligates the owner to convey title when the contract is complete. The house must also be the buyer's principal residence."
+  },
+  {
+   "q": "What happens if I keep the deduction after I move out?",
+   "a": "You must notify the county auditor within 60 days of becoming ineligible. If you do not, you owe the additional taxes plus a 10 percent civil penalty on the extra tax, and the auditor must send a notice for any ineligible year within three years of the due date."
+  }
+ ],
+ "sources": [
+  {
+   "title": "DLGF: Deductions and Credits",
+   "url": "https://www.in.gov/dlgf/deductions-and-credits/"
+  },
+  {
+   "title": "DLGF Memo 250612: Legislation Affecting Deductions, Exemptions, and Credits (2025)",
+   "url": "https://www.in.gov/dlgf/files/2025-memos/250612-Cockerill-Memo-Legislation-Affecting-Deductions,-Exemptions,-and-Credits.pdf"
+  },
+  {
+   "title": "DLGF Memo 260527: Legislation Affecting Deductions, Credits and Exemptions (2026)",
+   "url": "https://www.in.gov/dlgf/files/2026-memos/260527-Cockerill-Memo-Legislation-Affecting-Deductions-Credits-and-Exemptions.pdf"
+  },
+  {
+   "title": "DLGF Presentation: Deductions and Credits (May 2026)",
+   "url": "https://www.in.gov/dlgf/files/2026-presentations/260519-Lucas-Culy-Presentation-Deductions-and-Credits.pdf"
+  },
+  {
+   "title": "DLGF Fact Sheet: Circuit Breaker Caps",
+   "url": "https://www.in.gov/dlgf/files/user-guides/251113-Fact-Sheet-Circuit-Breaker-Caps.pdf"
+  },
+  {
+   "title": "DLGF Sales Disclosure Form Overview",
+   "url": "https://www.in.gov/dlgf/files/201015-Wood-Crisler-Presentation-Sales-Disclosure-Form-Overview.pdf"
+  },
+  {
+   "title": "IC 6-1.1-12-37 Homestead standard deduction, Justia",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-12/section-6-1-1-12-37/"
+  },
+  {
+   "title": "IC 34-55-10-2 Exemptions, FindLaw",
+   "url": "https://codes.findlaw.com/in/title-34-civil-law-and-procedure/in-code-sect-34-55-10-2/"
+  }
+ ]
 }

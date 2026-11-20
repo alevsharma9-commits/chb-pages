@@ -1,30 +1,93 @@
 {
-"slug": "louisiana-homestead-exemption",
-"sections": [
-{"h2": "What does the Louisiana homestead exemption actually exempt?", "html": "<p>The homestead exemption takes the first $7,500 of assessed value off the property tax base of an owner-occupied home. That figure comes from <a href='https://www.legis.la.gov/legis/Law.aspx?d=206550'>Article VII, section 20 of the Louisiana Constitution</a>, which covers state, parish and special ad valorem taxes on a bona fide homestead.</p><p>The constitution lets the homestead be a residence plus a field, pasture or garden on other tracts, as long as the total does not run past 160 acres. A primary residence that is a mobile home qualifies even when the owner does not own the land, although the land itself gets no exemption in that case.</p><p>Because residential improvements and land are assessed at 10 percent of fair market value under <a href='https://www.legis.la.gov/legis/Law.aspx?d=206545'>Article VII, section 18</a>, a $7,500 cut in assessed value lines up with roughly $75,000 of market value. The tax savings depend on the millage in your parish, so two homeowners with identical houses can see different dollar results.</p>"},
-{"h2": "Who qualifies, and who does not?", "html": "<p>Section 20 limits the exemption to natural persons and to trusts that natural persons created for natural-person beneficiaries. A company cannot claim it, and neither can an owner who does not live in the house.</p><ul><li>Surviving or former spouses who occupy the homestead can keep the exemption if they hold title as owner, as usufructuary or through a testamentary trust.</li><li>Property held in indivision gets only the occupying owner's pro rata share of the exemption.</li><li>Property bought on a bond for deed gets no exemption under the current text, with a carve-out for exemptions granted before June 20, 2003.</li><li>No person may receive more than one homestead exemption in the state.</li></ul><p>The one-per-person rule matters if you own two houses. Selling the old one after you move does not create a second exemption, and the new home needs its own claim.</p>"},
-{"h2": "Does the exemption cover city and town taxes?", "html": "<p>Generally no. The constitution excludes municipal taxes from the exemption, with an exception for Orleans Parish (state, general city, school, levee and levee district taxes) and for municipal taxes levied for school purposes.</p><p>That is why a homeowner inside a municipality may find the exemption saves less than the $7,500 figure suggests. Check the tax bill line by line, or ask the parish assessor which levies the exemption reaches.</p>"},
-{"h2": "What happens to the exemption after a storm?", "html": "<p>A homeowner whose house was damaged or destroyed in a governor-declared disaster can keep the exemption while rebuilding. Under section 20(A)(10), an owner who cannot move back in by December 31 files an annual affidavit of intent to return, good for up to five years.</p><p>After that, the owner can keep the exemption for up to two more years if an insurance claim or a formal appeal is still pending, with official documentation. The assessor may then grant up to three more one-year extensions case by case.</p><p>This matters for sellers of storm-damaged houses. If you plan to sell rather than rebuild, the exemption stops mattering once title passes, and the new owner starts fresh.</p>"},
-{"h2": "How do the age 65 freeze and the veteran exemptions fit in?", "html": "<p>These are separate programs from the homestead exemption, and each one is filed with the parish assessor. The age-based assessment freeze sits in section 18(G) of Article VII, and the disabled veteran exemptions sit in section 21(K).</p><table><thead><tr><th>Program</th><th>What the constitution text says</th></tr></thead><tbody><tr><td>Special assessment level (age 65 or older, certain disabled veterans and others)</td><td>Assessment is held at the first qualifying year's total. Signed application to the assessor. Income cap listed as $100,000 until January 1, 2027, then $150,000. Ends December 31 of the year before the property is sold.</td></tr><tr><td>Veteran, 50% to under 70% service-connected disability</td><td>Next $2,500 of assessed value exempt after the $7,500 homestead amount</td></tr><tr><td>Veteran, 70% to under 100%</td><td>Next $4,500 of assessed value exempt</td></tr><tr><td>Veteran at 100% unemployability or total disability</td><td>Remaining assessed value of the homestead exempt</td></tr></tbody></table><p>Section 21 also describes an extra age-based exemption starting January 1, 2028, which needs voter approval in the parish or municipality. Do not count on it until your own parish confirms it was adopted.</p>"},
-{"h2": "Is a protection from creditors the same thing as a tax exemption?", "html": "<p>No. Louisiana has a second homestead concept in <a href='https://www.legis.la.gov/legis/Law.aspx?d=81983'>R.S. 20:1</a> that shields the home from seizure and sale by creditors, and it works differently from the tax break.</p><ul><li>It protects the first $35,000 in value of the homestead, and the full value when debts come from a catastrophic or terminal illness or injury that meets the statute's definition.</li><li>The protected land is up to 5 acres when the residence is in a municipality and up to 200 acres when it is not.</li><li>It covers the owner-occupant and the surviving spouse or minor children of a deceased owner.</li><li>It does not protect against debts for the purchase price, taxes or assessments, rent carrying a privilege, mortgage advances, or work done to build or improve the home.</li></ul><p>A waiver of this protection has to be in writing, be signed (by the spouse too, if the owner is married and not legally separated), and be recorded in the mortgage records of the parish.</p>"},
-{"h2": "How do you claim the homestead exemption?", "html": "<p>You file with the assessor in the parish where the house stands, and the local assessor's office is the authority on forms and timing. Louisiana has 64 parishes and each has one elected assessor, according to the Legislative Auditor's guide to assessors.</p><p>The Loyola law school pro bono desk manual notes that assessors generally grant retroactive exemptions for the last three years when an owner discovers a missed claim. It also says an assessor may decline if a will is involved, so heirs who inherit a house should bring the succession paperwork.</p><p>When you buy or inherit a house, remember <a href='https://law.justia.com/codes/louisiana/revised-statutes/title-9/rs-9-2721/'>R.S. 9:2721</a>. A conveyance of immovable property filed with the parish recorder must name the person responsible for property taxes and give a mailing address for tax notices, and that person must give the information to the assessor.</p>"},
-{"h2": "What does a sale do to the exemption and the tax bill?", "html": "<p>A sale ends the seller's claim, and the buyer applies for a new one if the buyer will live in the house. The age freeze is even more direct: the constitution says it generally expires December 31 of the year before the property is sold, and the house is then valued at fair market value.</p><p>Section 18(F) adds another wrinkle. When a reappraisal pushes the assessed value of homestead-exempt property up by more than 50 percent, the increase is phased in over four years, but that phase-in ends early when ownership transfers. A buyer can therefore face a full reassessment sooner than the seller did.</p><p>Unpaid taxes follow the land. The Loyola desk manual explains that ad valorem taxes are a charge on the immovable, tax sales are run under Article VII, section 25 and R.S. 47:2121 and following, and a debtor who redeems pays the taxes, costs, a 5 percent penalty and simple interest of 1 percent per month. The redemption period is three years from recording of the tax sale certificate, or 18 months for blighted property.</p>"},
-{"h2": "What should a Louisiana seller check before listing or taking a cash offer?", "html": "<ul><li>Confirm on your latest tax notice that the homestead exemption is applied. If it is missing, ask the assessor about back claims.</li><li>List any freeze, veteran or disability exemption you hold, because they end or change when title moves.</li><li>Check for unpaid taxes or a prior tax sale certificate recorded against the property.</li><li>Gather the succession judgment or affidavit if you inherited the house, since the assessor and any buyer will want to see how title reached you.</li><li>Ask the clerk of court or your closing notary which recording fees apply, since fees vary with the number of pages.</li></ul><p>A cash buyer works through the same recording and tax steps as any other buyer, so these items should be tidy either way. If a house has a tax problem or a messy succession, say so early, because it affects how fast a sale can close.</p>"}
-],
-"faqs": [
-{"q": "How much is the Louisiana homestead exemption?", "a": "It is $7,500 of assessed value on an owner-occupied home. Since homes are assessed at 10 percent of market value, that matches about $75,000 of market value, and the actual savings depend on your local millage."},
-{"q": "Can I claim a homestead exemption on a rental house?", "a": "No. The exemption is for a bona fide homestead that the owner occupies, and the constitution allows only one per person in Louisiana. A landlord can claim it only on the home where they actually live."},
-{"q": "Does the homestead exemption transfer to the buyer when I sell?", "a": "No. It belongs to the owner who occupies the home, so the buyer files a new claim with the assessor. The age 65 assessment freeze also ends when the house is sold."},
-{"q": "Does the exemption stop a creditor from forcing a sale?", "a": "Not by itself. The tax exemption and the creditor protection in R.S. 20:1 are separate rules, and the creditor protection has its own limit of $35,000 and a list of debts it does not cover, such as the purchase price and unpaid taxes."},
-{"q": "Do I keep the exemption if a hurricane makes my house unlivable?", "a": "Yes, in many cases. Under section 20(A)(10) you file an annual affidavit of intent to return, which can protect the exemption for up to five years, with further extensions in some situations."}
-],
-"sources": [
-{"title": "Louisiana Constitution Art. VII, sec. 20 (homestead exemption)", "url": "https://www.legis.la.gov/legis/Law.aspx?d=206550"},
-{"title": "Louisiana Constitution Art. VII, sec. 18 (assessment, reappraisal, special assessment level)", "url": "https://www.legis.la.gov/legis/Law.aspx?d=206545"},
-{"title": "Louisiana Constitution Art. VII, sec. 21 (other exemptions, disabled veterans)", "url": "https://www.legis.la.gov/legis/Law.aspx?d=206551"},
-{"title": "La. R.S. 20:1 (homestead exemption from seizure)", "url": "https://www.legis.la.gov/legis/Law.aspx?d=81983"},
-{"title": "La. R.S. 9:2721 (filing in the office of the parish recorder)", "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-9/rs-9-2721/"},
-{"title": "Loyola Pro Bono Desk Manual, Louisiana Real Estate Taxes", "url": "https://probonodeskmanual.loyno.edu/book/export/html/1288"},
-{"title": "Louisiana Legislative Auditor, Assessors", "url": "https://lla.la.gov/resources/local-government-reporting/louisiana-governmental-audit-guide/200-1030-assessors"}
-]
+ "slug": "louisiana-homestead-exemption",
+ "sections": [
+  {
+   "h2": "What the homestead exemption covers",
+   "html": "<p>The homestead exemption removes the first $7,500 of assessed value from the property tax base of an owner-occupied home. The amount is set by Article VII, section 20 of the Louisiana Constitution, which covers state, parish and special ad valorem taxes on a bona fide homestead.</p><p>A homestead can be a residence plus a field, pasture or garden on other tracts, as long as the total stays within 160 acres. A primary residence that is a mobile home qualifies even when the owner does not own the land, though the land itself gets no exemption in that case.</p><p>Residential improvements and land are assessed at 10 percent of fair market value under Article VII, section 18, so a $7,500 cut in assessed value lines up with roughly $75,000 of market value. What you actually save depends on the millage in your parish, which is why two owners of identical houses can see different dollar results.</p>"
+  },
+  {
+   "h2": "Who qualifies",
+   "html": "<p>Section 20 limits the exemption to natural persons and to trusts that natural persons created for natural-person beneficiaries. A company cannot claim it, and neither can an owner who does not live in the house.</p><ul><li>Surviving or former spouses who occupy the homestead keep the exemption if they hold title as owner, as usufructuary or through a testamentary trust.</li><li>Property held in indivision gets only the occupying owner's pro rata share.</li><li>Property bought on a bond for deed gets no exemption under the current text, with a carve-out for exemptions granted before June 20, 2003.</li><li>No person may receive more than one homestead exemption in the state.</li></ul><p>The one-per-person rule matters if you own two houses. Selling the old one after you move does not create a second exemption, and the new home needs its own claim.</p>"
+  },
+  {
+   "h2": "City and town taxes",
+   "html": "<p>Generally the exemption stops short of them. The constitution excludes municipal taxes, with an exception for Orleans Parish (state, general city, school, levee and levee district taxes) and for municipal taxes levied for school purposes.</p><p>So a homeowner inside a municipality may find the exemption saves less than the $7,500 figure suggests. Read the tax bill line by line, or ask the parish assessor which levies the exemption reaches.</p>"
+  },
+  {
+   "h2": "Keeping the exemption after a storm",
+   "html": "<p>A homeowner whose house was damaged or destroyed in a governor-declared disaster can keep the exemption during rebuilding. Under section 20(A)(10), an owner who cannot move back in by December 31 files an annual affidavit of intent to return, good for up to five years.</p><p>After that, the owner can keep the exemption for up to two more years if an insurance claim or a formal appeal is still pending, with official documentation. The assessor may then grant up to three more one-year extensions case by case.</p><p>If you plan to sell a storm-damaged house rather than rebuild, the exemption stops mattering once title passes, and the new owner starts fresh.</p>"
+  },
+  {
+   "h2": "Age 65 freeze and disabled-veteran exemptions",
+   "html": "<p>These are separate from the homestead exemption, and each is filed with the parish assessor. The age-based assessment freeze is in section 18(G) of Article VII, and the disabled veteran exemptions are in section 21(K).</p><table><caption>Related programs filed with the parish assessor</caption><thead><tr><th>Program</th><th>Benefit and conditions</th></tr></thead><tbody><tr><td>Special assessment level (age 65 or older, certain disabled veteran owners and others)</td><td>Assessment is held at the first qualifying year's total. Signed application to the assessor. Income cap of $100,000 until January 1, 2027, then $150,000. Ends December 31 of the year before the property is sold.</td></tr><tr><td>Veteran, 50% to under 70% service-connected disability</td><td>Next $2,500 of assessed value exempt after the $7,500 homestead amount</td></tr><tr><td>Veteran, 70% to under 100%</td><td>Next $4,500 of assessed value exempt</td></tr><tr><td>Veteran at 100% unemployability or total disability</td><td>Remaining assessed value of the homestead exempt</td></tr></tbody></table><p>Section 21 also describes an extra age-based exemption starting January 1, 2028, which needs voter approval in the parish or municipality. Count on it only if your parish confirms it was adopted.</p>"
+  },
+  {
+   "h2": "Creditor protection is a separate rule",
+   "html": "<p>Louisiana has a second homestead concept in R.S. 20:1 that shields the home from seizure and sale by creditors. It works differently from the tax break.</p><ul><li>It protects the first $35,000 in value of the homestead, and the full value when debts come from a catastrophic or terminal illness or injury that meets the statute's definition.</li><li>The protected land is up to 5 acres when the residence is in a municipality and up to 200 acres when it is not.</li><li>It covers the owner-occupant and the surviving spouse or minor children of a deceased owner.</li><li>It leaves out debts for the purchase price, taxes or assessments, rent carrying a privilege, mortgage advances, and work done to build or improve the home.</li></ul><p>A waiver of this protection must be in writing, signed (by the spouse too, if the owner is married and not legally separated), and recorded in the mortgage records of the parish.</p>"
+  },
+  {
+   "h2": "How to claim it",
+   "html": "<p>File with the assessor in the parish where the house stands. The assessor's office is the authority on forms and timing. Louisiana has 64 parishes, each with one elected assessor.</p><p>Assessors generally grant retroactive exemptions for the last three years when an owner discovers a missed claim. An assessor may decline if a will is involved, so heirs who inherit a house should bring the succession paperwork along.</p><p>When you buy or inherit a house, remember R.S. 9:2721. A conveyance of immovable property filed with the parish recorder must name the person responsible for property taxes and give a mailing address for tax notices, and that person must give the information to the assessor.</p><p>Bring photo identification, proof that you live in the house, and the deed or succession paperwork. Ask whether the assessor wants anything else, since requirements can differ from one parish office to the next.</p>"
+  },
+  {
+   "h2": "What a sale does to the exemption and the bill",
+   "html": "<p>A sale ends the seller's claim, and the buyer applies for a new one if the buyer will live in the house. The age freeze is even more direct: it generally expires December 31 of the year before the property is sold, and the house is then valued at fair market value.</p><p>Section 18(F) adds a wrinkle. When a reappraisal pushes the assessed value of homestead-exempt property up by more than 50 percent, the increase is phased in over four years, but the phase-in ends early when ownership transfers. A buyer can face a full reassessment sooner than the seller did.</p><p>Unpaid taxes follow the land. Ad valorem taxes are a charge on the immovable, tax sales are run under Article VII, section 25 and R.S. 47:2121 and following, and a debtor who redeems pays the taxes, costs, a 5 percent penalty and simple interest of 1 percent per month. The redemption period is three years from recording of the tax sale certificate, or 18 months for blighted property.</p>"
+  },
+  {
+   "h2": "Checklist before listing or taking a cash offer",
+   "html": "<ul><li>Confirm on your latest tax notice that the homestead exemption is applied. If it is missing, ask the assessor about back claims.</li><li>List any freeze, veteran or disability exemption you hold, because they end or change when title moves.</li><li>Check for unpaid taxes or a prior tax sale certificate recorded against the property.</li><li>Gather the succession judgment or affidavit if you inherited the house, since the assessor and any buyer will want to see how title reached you.</li><li>Ask the clerk of court or your closing notary which recording fees apply, since fees vary with the number of pages.</li></ul><p>A cash buyer works through the same recording and tax steps as any other buyer, so these items should be tidy either way. If a house has a tax problem or a messy succession, say so early, because it affects how fast a sale can close.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How much is the Louisiana homestead exemption?",
+   "a": "It is $7,500 of assessed value on an owner-occupied home. Homes are assessed at 10 percent of market value, so that matches about $75,000 of market value, and the actual savings depend on your local millage."
+  },
+  {
+   "q": "Can I claim a homestead exemption on a rental house?",
+   "a": "No. The exemption is for a bona fide homestead that the owner occupies, and only one is allowed per person in Louisiana. A landlord can claim it only on the home where they actually live."
+  },
+  {
+   "q": "Does the homestead exemption transfer to the buyer when I sell?",
+   "a": "No. It belongs to the owner who occupies the home, so the buyer files a new claim with the assessor. The age 65 assessment freeze also ends when the house is sold."
+  },
+  {
+   "q": "Does the exemption stop a creditor from forcing a sale?",
+   "a": "Not by itself. The tax exemption and the creditor protection in R.S. 20:1 are separate rules, and the creditor protection has its own limit of $35,000 and a list of debts it leaves out, such as the purchase price and unpaid taxes."
+  },
+  {
+   "q": "Do I keep the exemption if a hurricane makes my house unlivable?",
+   "a": "Yes, in many cases. Under section 20(A)(10) you file an annual affidavit of intent to return, which can protect the exemption for up to five years, with further extensions in some situations."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Louisiana Constitution Art. VII, sec. 20 (homestead exemption)",
+   "url": "https://www.legis.la.gov/legis/Law.aspx?d=206550"
+  },
+  {
+   "title": "Louisiana Constitution Art. VII, sec. 18 (assessment, reappraisal, special assessment level)",
+   "url": "https://www.legis.la.gov/legis/Law.aspx?d=206545"
+  },
+  {
+   "title": "Louisiana Constitution Art. VII, sec. 21 (other exemptions, disabled veterans)",
+   "url": "https://www.legis.la.gov/legis/Law.aspx?d=206551"
+  },
+  {
+   "title": "La. R.S. 20:1 (homestead exemption from seizure)",
+   "url": "https://www.legis.la.gov/legis/Law.aspx?d=81983"
+  },
+  {
+   "title": "La. R.S. 9:2721 (filing in the office of the parish recorder)",
+   "url": "https://law.justia.com/codes/louisiana/revised-statutes/title-9/rs-9-2721/"
+  },
+  {
+   "title": "Loyola Pro Bono Desk Manual, Louisiana Real Estate Taxes",
+   "url": "https://probonodeskmanual.loyno.edu/book/export/html/1288"
+  },
+  {
+   "title": "Louisiana Legislative Auditor, Assessors",
+   "url": "https://lla.la.gov/resources/local-government-reporting/louisiana-governmental-audit-guide/200-1030-assessors"
+  }
+ ]
 }

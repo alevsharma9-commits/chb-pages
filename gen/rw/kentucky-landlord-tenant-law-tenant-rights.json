@@ -1,74 +1,129 @@
 {
-  "slug": "kentucky-landlord-tenant-law-tenant-rights",
-  "sections": [
-    {
-      "h2": "Does one statewide landlord tenant act cover every Kentucky rental?",
-      "html": "<p>No single act reaches every address. The uniform act in KRS 383.505 to 383.715 operates only inside cities, counties and urban-county governments that voted to adopt it, and KRS 383.500 requires any adopter to take the text word for word with no local changes. Those governments may pass no separate ordinance on the same subjects.</p><p>A 2024 addition, KRS 383.198, also forbids any local landlord or tenant ordinance that conflicts with state law. Where the act is absent, older rules fill in. KRS 383.195 is one: a landlord can end a tenancy at will or by sufferance by giving the occupant one month's written notice to leave.</p><p>Before relying on the notice periods below, confirm with city hall or the clerk whether your community adopted the act.</p>"
-    },
-    {
-      "h2": "What rules govern a Kentucky tenant's deposit?",
-      "html": "<p>KRS 383.580 treats the deposit as money to be segregated. It must sit in an account used for that purpose alone, at a bank or lending institution regulated by Kentucky or the federal government, and a prospective tenant is told the location and account number.</p><ul><li>Before any deposit changes hands, the landlord presents a thorough list of existing damage with estimated repair costs, and both parties sign.</li><li>At move-out the landlord inspects again and prepares a final list backing every deduction, which the tenant may inspect, sign or contest in writing.</li><li>Missing the separate account or either list means the landlord keeps nothing from the deposit.</li><li>A tenant who disagrees with the final list sues in District Court, limited to items listed in the written dissent.</li><li>When no rent is owed and a refund is due, the landlord mails notice of the amount, and silence from the tenant for 60 days lets the landlord keep it.</li></ul><p>A tenant who departs without paying the final month and without demanding the deposit allows the landlord to apply it to the debt once 30 days pass.</p>"
-    },
-    {
-      "h2": "What notice periods apply to ending a Kentucky lease or tenancy?",
-      "html": "<p>The clock depends on the kind of tenancy and the reason for ending it. The table gathers the figures from Chapter 383.</p><table><caption>Notice and cure periods in Kentucky landlord tenant statutes (KRS Chapter 383).</caption><thead><tr><th>Situation</th><th>Period</th><th>Section</th></tr></thead><tbody><tr><td>Week-to-week tenancy</td><td>Written notice, 7 days before the end date</td><td>383.695(1)</td></tr><tr><td>Month-to-month tenancy</td><td>Written notice, 30 days ahead of the periodic rental date</td><td>383.695(2)</td></tr><tr><td>Tenancy that began when a written lease ended</td><td>Written notice, 10 days before the end date</td><td>383.695(3)</td></tr><tr><td>Rent unpaid</td><td>Tenant has 7 days after written notice</td><td>383.660(2)</td></tr><tr><td>Material lease breach by tenant</td><td>Termination date at least 14 days after receipt, cure window of 15 days</td><td>383.660(1)</td></tr><tr><td>Material breach by landlord</td><td>Termination at 30 days unless fixed within 14</td><td>383.625(1)</td></tr><tr><td>Landlord visit</td><td>2 days notice, reasonable hours</td><td>383.615(3)</td></tr></tbody></table><p>If the tenancy began when a written lease ended and the rent goes unpaid for 10 days past its due date, the landlord may end it with no notice at all. A repeat of substantially the same breach within six months permits termination on 14 days of written notice.</p>"
-    },
-    {
-      "h2": "Can an owner show a rented house to prospective buyers?",
-      "html": "<p>Yes, within limits set by KRS 383.615. A tenant may not unreasonably refuse entry that lets the landlord exhibit the unit to prospective or actual purchasers, mortgage lenders, workers or contractors. The landlord gives at least two days' notice and comes at reasonable hours, with exceptions for emergencies and for cases where notice cannot practicably be given. Using entry to harass is prohibited.</p><p>Outside those situations, entry needs a court order, falls under the abandonment provisions of KRS 383.665 and 383.670, or follows the tenant's surrender or abandonment of the premises. Anyone preparing to sell a tenant-occupied house should schedule showings in writing and save copies of each notice.</p>"
-    },
-    {
-      "h2": "Is a lockout or a utility shutoff ever lawful in Kentucky?",
-      "html": "<p>KRS 383.690 says a landlord may not retake the dwelling by action or otherwise, and that includes interrupting heat, electricity, running water, hot water, gas or any other essential service. The narrow exceptions are abandonment, surrender and the remedies the act itself allows.</p><p>Possession comes through a forcible detainer case in the District Court that covers the county in which the property sits. A warrant goes to the sheriff or a constable, and a judge hears the case unless one side demands a jury. When the finding favors the landlord, the tenant has until the seventh day after the finding to file an appeal. If none is filed, the court issues a warrant of restitution directing the sheriff to put the owner back in possession. A forcible detainer inquest cannot be taken more than two years after the act complained of.</p>"
-    },
-    {
-      "h2": "How do repairs, retaliation and overstays work under Kentucky law?",
-      "html": "<p>When a landlord materially breaks the lease or the landlord's maintenance obligations in KRS 383.595, the tenant may send written notice that the agreement ends in no fewer than 30 days if the problem is still there after 14. A timely fix saves the lease. The tenant can also seek damages and an injunction, and prepaid rent must come back if the agreement terminates.</p><p>KRS 383.705 shuts down retaliation. After a tenant complains to a housing code agency, complains to the landlord about a violation or joins a tenants' group, the landlord may not hike rent, cut services or file or threaten a possession suit. A complaint made within the prior year raises a presumption that a later move was retaliatory. Exceptions let the landlord proceed when the tenant is behind on rent, when the tenant's own carelessness caused the code violation, or when compliance would require work that takes the unit out of use.</p><p>A holdover tenant who remains after the lease ends can be sued for possession. If the stay is willful and in bad faith, the landlord may recover the greater of three months' rent or three times actual damages, plus reasonable attorney fees.</p>"
-    },
-    {
-      "h2": "How does a property sale affect a tenant in Kentucky?",
-      "html": "<p>Chapter 383 gives no single rule that a sale ends a lease, so the lease itself and the contract of sale control. A buyer who needs the house empty should plan around the notice that fits the tenancy.</p><ul><li>Month-to-month: 30 days of written notice before the rental date.</li><li>Week-to-week: 7 days of written notice.</li><li>Tenancy running after a written lease expired: 10 days of written notice.</li></ul><p>The act excludes occupancy under a contract to buy the unit, so a buyer who moves in before closing is no tenant under it. Condominium owners living in their own units are excluded as well.</p><p>Louisville Metro carries one more constraint. In a county with a consolidated local government, KRS 383.199 applies to new leases begun after June 27, 2025 on lots in a traditional single-family zone: the owner may not lease the home, a multifamily unit or an accessory dwelling unless the owner primarily lives on the lot. A lot with a single home and no accessory unit is outside the rule.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "What lead time does a monthly rental need before it can be terminated?",
-      "a": "Thirty days, in writing, counted back from the rental date the notice names. Landlord and tenant both use the same period."
-    },
-    {
-      "q": "What grace does a tenant get after a pay-or-leave notice?",
-      "a": "Seven days after the landlord gives written notice of the missed rent and of an intent to terminate. After that the landlord may terminate."
-    },
-    {
-      "q": "Can a landlord keep a deposit with no move-out damage list?",
-      "a": "No. KRS 383.580 bars keeping any of it when the money was not held in a separate account or the starting and ending damage lists were not delivered."
-    },
-    {
-      "q": "What advance warning does a landlord owe before coming in?",
-      "a": "At least two days, with entry at reasonable times. Emergencies, and cases where notice is impracticable, are the exceptions."
-    },
-    {
-      "q": "May a landlord change the locks to force a tenant out?",
-      "a": "No. KRS 383.690 prohibits taking possession by self-help, including cutting essential services. Possession is regained through a forcible detainer case in District Court."
-    }
-  ],
-  "sources": [
-    {"title": "KRS Chapter 383 index", "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39159"},
-    {"title": "KRS 383.500", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35717"},
-    {"title": "KRS 383.580 Security deposits", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35733"},
-    {"title": "KRS 383.615 Access", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35740"},
-    {"title": "KRS 383.625 Noncompliance by landlord", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35742"},
-    {"title": "KRS 383.660 Tenant's noncompliance", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35749"},
-    {"title": "KRS 383.690 Recovery of possession limited", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35755"},
-    {"title": "KRS 383.695 Periodic tenancy", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35756"},
-    {"title": "KRS 383.705 Retaliatory conduct", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35758"},
-    {"title": "KRS 383.195", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35698"},
-    {"title": "KRS 383.198", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54458"},
-    {"title": "KRS 383.199", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56174"},
-    {"title": "KRS 383.210 forcible detainer", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35701"},
-    {"title": "KRS 383.245", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35708"},
-    {"title": "KRS 383.285", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35716"},
-    {"title": "KRS 383.535 Exclusions", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35724"},
-    {"title": "KRS 383.565", "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35730"}
-  ]
+ "slug": "kentucky-landlord-tenant-law-tenant-rights",
+ "sections": [
+  {
+   "h2": "Which Kentucky rentals does the statewide act cover?",
+   "html": "<p>Not all of them. The uniform act in KRS 383.505 to 383.715 applies only inside cities, counties and urban-county governments that voted to adopt it. KRS 383.500 requires an adopter to use the text word for word, and those governments cannot pass a separate ordinance on the same subjects.</p><p>KRS 383.198, added in 2024, also bars any local landlord or tenant ordinance that conflicts with state law. Where the act is not in force, older rules fill the gap. One example is KRS 383.195: a landlord can end a tenancy at will or by sufferance with one month's written notice to leave.</p><p>Before you count any notice days below, call city hall or the county clerk and ask whether your community adopted the act. The answer changes which rules govern your tenant.</p>"
+  },
+  {
+   "h2": "Security deposits",
+   "html": "<p>Under KRS 383.580, a deposit has to be kept apart from the landlord's own money. It goes in an account used only for deposits, at a bank or lending institution regulated by Kentucky or the federal government, and a prospective tenant is told where the account is and its number.</p><ul><li>Before any deposit changes hands, the landlord gives the tenant a thorough list of existing damage with estimated repair costs, and both sign it.</li><li>At move-out the landlord inspects again and prepares a final list backing every deduction. The tenant may inspect it, sign it or contest it in writing.</li><li>If the separate account or either list is missing, the landlord keeps nothing from the deposit.</li><li>A tenant who disagrees with the final list sues in District Court, limited to the items named in the written dissent.</li><li>When no rent is owed and a refund is due, the landlord mails notice of the amount. If the tenant stays silent for 60 days, the landlord may keep it.</li></ul><p>A tenant who leaves without paying the last month and without asking for the deposit lets the landlord apply it to that debt once 30 days pass. If you are selling, find the account and both damage lists early, because a buyer will ask where the deposit is.</p>"
+  },
+  {
+   "h2": "Notice periods for ending a lease or tenancy",
+   "html": "<p>The clock depends on the kind of tenancy and the reason it is ending. These are the figures from Chapter 383.</p><table><caption>Notice and cure periods in Kentucky landlord and tenant law</caption><thead><tr><th>Situation</th><th>Required period</th></tr></thead><tbody><tr><td>Week-to-week tenancy (KRS 383.695)</td><td>Written notice, 7 days before the end date</td></tr><tr><td>Month-to-month tenancy</td><td>Written notice, 30 days ahead of the periodic rental date</td></tr><tr><td>Tenancy that began when a written lease ended</td><td>Written notice, 10 days before the end date</td></tr><tr><td>Rent unpaid (KRS 383.660)</td><td>Tenant has 7 days after written notice</td></tr><tr><td>Material lease breach by tenant</td><td>Termination at least 14 days after receipt, with a cure window of 15 days</td></tr><tr><td>Material breach by landlord (KRS 383.625)</td><td>Termination at 30 days unless fixed within 14</td></tr><tr><td>Landlord visit (KRS 383.615)</td><td>2 days notice, at reasonable hours</td></tr></tbody></table><p>If a tenancy began when a written lease ended and the rent goes unpaid for 10 days past its due date, the landlord may end it with no notice at all. A repeat of substantially the same breach within six months allows termination on 14 days of written notice.</p>"
+  },
+  {
+   "h2": "Showing a rented house to buyers",
+   "html": "<p>You can, within limits set by KRS 383.615. A tenant may not unreasonably refuse entry that lets the landlord show the unit to prospective or actual purchasers, mortgage lenders, workers or contractors. The landlord gives at least two days' notice and comes at reasonable hours. Emergencies, and cases where notice cannot practicably be given, are exceptions. Using entry to harass the tenant is prohibited.</p><p>Outside those situations, entry needs a court order, falls under the abandonment provisions of KRS 383.665 and 383.670, or follows the tenant's surrender of the premises.</p><p>If you are preparing to sell a tenant-occupied house, schedule each showing in writing and keep a copy of every notice. A simple log of dates and times protects you if the tenant later complains.</p>"
+  },
+  {
+   "h2": "Is a lockout or utility shutoff ever lawful?",
+   "html": "<p>KRS 383.690 bars a landlord from retaking the dwelling by action or otherwise, and that includes interrupting heat, electricity, running water, hot water, gas or any other essential service. The narrow exceptions are abandonment, surrender and the remedies the act itself allows.</p><p>Possession comes through a forcible detainer case in the District Court for the county where the property sits. A warrant goes to the sheriff or a constable, and a judge hears the case unless one side demands a jury. After a finding for the landlord, the tenant has until the seventh day to file an appeal. If none is filed, the court issues a warrant of restitution directing the sheriff to put the owner back in possession. A forcible detainer inquest cannot be taken more than two years after the act complained of.</p>"
+  },
+  {
+   "h2": "Repairs, retaliation and overstays",
+   "html": "<p>When a landlord materially breaks the lease or the maintenance duties in KRS 383.595, the tenant may send written notice that the agreement ends in no fewer than 30 days if the problem is still there after 14. A timely fix saves the lease. The tenant can also seek damages and an injunction, and prepaid rent must come back if the agreement ends.</p><p>KRS 383.705 shuts down retaliation. After a tenant complains to a housing code agency, complains to the landlord about a violation or joins a tenants' group, the landlord may not raise rent, cut services or file or threaten a possession suit. A complaint made within the prior year creates a presumption that a later move was retaliatory. The landlord can still proceed when the tenant is behind on rent, when the tenant's own carelessness caused the code violation, or when compliance would require work that takes the unit out of use.</p><p>A tenant who stays after the lease ends can be sued for possession. If the stay is willful and in bad faith, the landlord may recover the greater of three months' rent or three times actual damages, plus reasonable attorney fees.</p>"
+  },
+  {
+   "h2": "How a sale affects the tenant",
+   "html": "<p>Chapter 383 has no single rule that a sale ends a lease, so the lease and the sale contract control. A buyer who needs the house empty should plan around the notice that fits the tenancy.</p><ul><li>Month-to-month: 30 days of written notice before the rental date.</li><li>Week-to-week: 7 days of written notice.</li><li>Tenancy running after a written lease expired: 10 days of written notice.</li></ul><p>The act excludes occupancy under a contract to buy the unit, so a buyer who moves in before closing is not a tenant under it. Condominium owners living in their own units are excluded too.</p><p>Louisville Metro has one more constraint. In a county with a consolidated local government, KRS 383.199 applies to new leases begun after June 27, 2025 on lots in a traditional single-family zone. The owner may not lease the home, a multifamily unit or an accessory dwelling unit unless the owner primarily lives on the lot. A lot with a single home and no accessory unit is outside the rule.</p>"
+  },
+  {
+   "h2": "Steps before listing a tenant-occupied house",
+   "html": "<p>A short checklist saves weeks later. Pull the lease and any written changes, and find out which notice period fits the tenancy. Confirm where the deposit is held and gather both damage lists. Send showing notices in writing, at least two days ahead.</p><p>If you want the tenant gone before closing, count the notice days first and set the closing date after them, not before. If the tenant is staying, tell the buyer up front and let the sale contract say who takes over the lease and the deposit. A cash sale as-is can close around a tenancy, but the buyer will still want the lease and the deposit account shown to them.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How much notice does a monthly rental need before it can end?",
+   "a": "Thirty days in writing, counted back from the rental date the notice names. Landlord and tenant use the same period."
+  },
+  {
+   "q": "What grace does a tenant get after a pay-or-leave notice?",
+   "a": "Seven days after the landlord gives written notice of the missed rent and of the intent to terminate. After that the landlord may end the tenancy."
+  },
+  {
+   "q": "Can a landlord keep a deposit without a move-out damage list?",
+   "a": "No. KRS 383.580 bars keeping any of it when the money was not held in a separate account or the starting and ending damage lists were not delivered."
+  },
+  {
+   "q": "How much warning does a landlord owe before coming in?",
+   "a": "At least two days, with entry at reasonable times. Emergencies, and cases where notice is impracticable, are the exceptions."
+  },
+  {
+   "q": "May a landlord change the locks to force a tenant out?",
+   "a": "No. KRS 383.690 prohibits self-help possession, including cutting essential services. The landlord must win a forcible detainer case in District Court."
+  }
+ ],
+ "sources": [
+  {
+   "title": "KRS Chapter 383 index",
+   "url": "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=39159"
+  },
+  {
+   "title": "KRS 383.500",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35717"
+  },
+  {
+   "title": "KRS 383.580 Security deposits",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35733"
+  },
+  {
+   "title": "KRS 383.615 Access",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35740"
+  },
+  {
+   "title": "KRS 383.625 Noncompliance by landlord",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35742"
+  },
+  {
+   "title": "KRS 383.660 Tenant's noncompliance",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35749"
+  },
+  {
+   "title": "KRS 383.690 Recovery of possession limited",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35755"
+  },
+  {
+   "title": "KRS 383.695 Periodic tenancy",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35756"
+  },
+  {
+   "title": "KRS 383.705 Retaliatory conduct",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35758"
+  },
+  {
+   "title": "KRS 383.195",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35698"
+  },
+  {
+   "title": "KRS 383.198",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54458"
+  },
+  {
+   "title": "KRS 383.199",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56174"
+  },
+  {
+   "title": "KRS 383.210 forcible detainer",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35701"
+  },
+  {
+   "title": "KRS 383.245",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35708"
+  },
+  {
+   "title": "KRS 383.285",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35716"
+  },
+  {
+   "title": "KRS 383.535 Exclusions",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35724"
+  },
+  {
+   "title": "KRS 383.565",
+   "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=35730"
+  }
+ ]
 }

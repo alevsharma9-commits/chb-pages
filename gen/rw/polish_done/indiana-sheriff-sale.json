@@ -1,0 +1,121 @@
+{
+ "slug": "indiana-sheriff-sale",
+ "sections": [
+  {
+   "h2": "How a sheriff sale works",
+   "html": "<p>A sheriff sale is the public auction that follows a court judgment of foreclosure, and the county sheriff conducts it. Indiana foreclosures go through a judge, so the sale arrives late in a chain of notices, filings and waiting periods.</p>\n<p>The governing rules are in IC 32-29-7. The sheriff must sell in a way 'reasonably likely to bring the highest net proceeds' after expenses. A judge can order an auctioneer when that is economically feasible or when all creditors agree, and the sheriff then has 14 days from the order to engage one.</p>\n<p>Sales may run between 10 a.m. and 4 p.m. on any day except Sunday. The sheriff can hold one electronically, at the sheriff's office, or at another location likely to draw higher bids.</p>"
+  },
+  {
+   "h2": "Timeline from missed payments to the sale",
+   "html": "<p>The statutes set minimum gaps between steps. These are the ones that apply to a typical owner-occupied home.</p>\n<table>\n<thead><tr><th>Step</th><th>Timing</th></tr></thead>\n<tbody>\n<tr><td>Presuit notice by certified mail (IC 32-30-10.5-8)</td><td>At least 30 days before the lender files</td></tr>\n<tr><td>Request a settlement conference</td><td>Within 30 days after the complaint is served</td></tr>\n<tr><td>Process on a judgment may issue (IC 32-29-7-3)</td><td>Not until 3 months after the complaint is filed</td></tr>\n<tr><td>Lender files the praecipe</td><td>Generally within 180 days</td></tr>\n<tr><td>Sheriff schedules the sale</td><td>Within 120 days after certification (60 days for judgments on abandoned property)</td></tr>\n<tr><td>Newspaper notice</td><td>Once a week for 3 weeks; first notice at least 30 days before the sale</td></tr>\n</tbody>\n</table>\n<p>The lender pays an administrative fee of up to $300 when it files the praecipe. At the first publication the sheriff also serves written notice on each owner, for a fee of $10 for one owner and $3 for each additional one. Notices go up at the courthouse door as well. If the sale is canceled, the sheriff must tell each owner in writing.</p>"
+  },
+  {
+   "h2": "Options before the sale",
+   "html": "<p>A homeowner has several moves available before the auction, from a settlement conference to paying off the judgment.</p>\n<ul>\n<li><strong>Request a settlement conference.</strong> For an owner-occupied home, the court mails a notice of the right to one, and the owner must ask within 30 days after service of the complaint. If the owner asks, the judge cannot sign the foreclosure order until the conference has taken place, and the lender must send a representative.</li>\n<li><strong>Call the foreclosure hotline.</strong> The Indiana Foreclosure Prevention Network answers at 877-438-4673 (877-GET-HOPE) and can connect a homeowner with a pro bono attorney for the conference.</li>\n<li><strong>Redeem before the sale.</strong> Under IC 32-29-7-7, any owner or part owner can pay the judgment plus interest and costs before the sale. The money goes to the clerk if the decree has not yet been issued to the sheriff, and to the sheriff after that. Once the property is redeemed, the sale cannot proceed and the order of sale is vacated.</li>\n<li><strong>Stay put.</strong> IC 32-29-7-11 lets an owner who lives in the property keep possession rent free until the foreclosure sale, provided the court finds no waste or damage. An owner who stops paying taxes may keep only the part used as a dwelling, up to fifteen acres.</li>\n</ul>\n<p>A part owner who redeems gets a lien on the other owners' shares for their portion, bearing 8 percent annual interest plus costs. Heirs who share a house and disagree about paying should know this rule.</p>"
+  },
+  {
+   "h2": "What happens on sale day",
+   "html": "<p>Details vary by county. In Grant County, sales are held at 10:00 a.m. at the Sheriff's Department in Marion. Bidders must submit a handwritten bid form before that hour, and there is no minimum bid.</p>\n<p>The winning bidder must pay in full by 3:00 p.m. that day, or the sale is voided and the next highest bidder is notified. The dollar figure on the sale list is the judgment owed when the paperwork was filed, which may not match what the bank will bid. The bank is always represented, by fax or in person. The office has no keys, does not show properties and has no information about them. If a house is occupied, the sheriff will evict the occupants within 24 hours.</p>\n<p>Bidders face a legal check as well. IC 32-29-7-4.6, added by a 2022 law, requires each bidder to sign a sworn statement that they owe no delinquent property taxes, no unpaid judgments to a local government and no building code penalties, and that they are not bidding for someone barred from the sale. Giving false information is a Level 6 felony. IC 32-29-7-9 bars the sheriff from buying at the sale.</p>"
+  },
+  {
+   "h2": "Taxes and liens that must be paid first",
+   "html": "<p>The side that requested the sale pays delinquent real estate taxes first. Under IC 32-29-7-8.5, the party that filed the praecipe must pay delinquent property taxes, sewer liens, special assessments, penalties and interest due on the sale date, or the amount needed to redeem if a tax sale certificate is outstanding. If those payments are not made in full by the sale date, the sheriff must cancel the sale, and a new sale needs a fresh praecipe, costs and re-advertising.</p>"
+  },
+  {
+   "h2": "What the buyer receives and where leftover money goes",
+   "html": "<p>The sheriff prepares a deed and delivers it to the buyer right after the sale, then files it with the county recorder unless the foreclosed mortgage was HUD-insured. The deed must be sufficient to pass the full interest of every party to the suit and anyone claiming under them. The sheriff then files a return with the clerk.</p>\n<p>Sale money follows a set order under IC 32-30-10-14. Expenses of the offer and sale come first, then principal, interest and costs, then the remaining secured balance not yet due. Anything left goes to the clerk, and the court directs it to the mortgage debtor, the debtor's heirs, or others the debtor assigned to.</p>\n<p>Allen County has put numbers on this. A court program launched in 2021 found 45 former owners with a combined $282,000 in unclaimed surplus, with individual amounts ranging from under $200 to nearly $50,000. Claims are made by letter to the clerk with the original case number, a court order is needed to release the money, and unclaimed funds can move to the Indiana Attorney General's Unclaimed Property Division after five years.</p>"
+  },
+  {
+   "h2": "Sheriff sale versus tax sale",
+   "html": "<p>A sheriff sale enforces a mortgage lender's judgment, while a tax sale collects delinquent property taxes through the county treasurer. They can overlap on one house, since the party seeking a sheriff sale must clear delinquent taxes before the auction.</p>\n<ul>\n<li>The sheriff conducts a sheriff sale after a court judgment. The county treasurer conducts a tax sale of delinquent parcels.</li>\n<li>A mortgage foreclosure gives the owner redemption before the sale, and section 13 of the chapter excludes other means of redemption. A tax sale generally leaves a one year redemption period afterward.</li>\n<li>A sheriff sale produces a sheriff's deed. A tax sale produces a certificate first, and a tax deed only after the redemption period and a court process.</li>\n</ul>"
+  },
+  {
+   "h2": "Selling before the sheriff sale",
+   "html": "<p>An owner who sells before the auction still has to clear the lien, so the closing figure includes the lender's payoff. Redemption under IC 32-29-7-7 means paying the judgment, interest and costs, and the exact payoff has to come from the lender's side.</p>\n<p>Sellers in this spot often face a vacant or damaged house, back taxes and tenants or relatives who stopped paying. A cash purchase as is can fit that situation, but the closing has to finish before the sale date, so the court calendar sets the timeline. Ask the lender for a written payoff early, line up the title company and gather the deed, the foreclosure papers and the latest tax bill so nothing waits on paperwork.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long after foreclosure is filed does a sheriff sale happen?",
+   "a": "Process on the judgment cannot issue until three months after the complaint is filed. After that, the lender files a praecipe, and the sheriff must schedule the sale within 120 days of certification, with three weeks of newspaper notice. The total depends on the county and on any settlement conference."
+  },
+  {
+   "q": "Can I stop a sheriff sale?",
+   "a": "You can redeem before the sale by paying the judgment, interest and costs under IC 32-29-7-7. You can also request a settlement conference within 30 days of service, and a sale is canceled if the party who requested it has not paid the delinquent taxes."
+  },
+  {
+   "q": "Do I have to leave my house before the sheriff sale?",
+   "a": "No. IC 32-29-7-11 lets an owner keep possession of a home used as a dwelling until the sale, rent free, as long as the court finds no waste or damage. That right ends with the sale."
+  },
+  {
+   "q": "What happens to extra money from a sheriff sale?",
+   "a": "Any surplus after expenses, principal, interest and costs goes to the clerk of the court, who pays it to the mortgage debtor, heirs or assignees on court order. Allen County's program found surplus amounts from under $200 to nearly $50,000."
+  },
+  {
+   "q": "Who can bid at a sheriff sale?",
+   "a": "Any bidder who can sign the sworn statement under IC 32-29-7-4.6, which covers delinquent taxes, local government judgments and building code penalties. The sheriff cannot buy at the sale."
+  }
+ ],
+ "sources": [
+  {
+   "title": "IC 32-29-7 chapter index (Justia)",
+   "url": "https://law.justia.com/codes/indiana/2019/title-32/article-29/chapter-7/"
+  },
+  {
+   "title": "IC 32-29-7-3 Timing, praecipe and advertising (Justia)",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-29/chapter-7/section-32-29-7-3/"
+  },
+  {
+   "title": "IC 32-29-7-4 Sale manner and auctioneer (CounselStack)",
+   "url": "https://law.counselstack.com/statute/in/32-29-7-4"
+  },
+  {
+   "title": "IC 32-29-7-4.6 Bidder sworn statement (CounselStack)",
+   "url": "https://law.counselstack.com/statute/in/32-29-7-4.6"
+  },
+  {
+   "title": "IC 32-29-7-7 Redemption before sale (Justia, 2019)",
+   "url": "https://law.justia.com/codes/indiana/2019/title-32/article-29/chapter-7/section-32-29-7-7/"
+  },
+  {
+   "title": "IC 32-29-7-8.5 Taxes paid before sale (Justia, 2019)",
+   "url": "https://law.justia.com/codes/indiana/2019/title-32/article-29/chapter-7/section-32-29-7-8-5/"
+  },
+  {
+   "title": "IC 32-29-7-10 Sheriff's deed (Justia, 2019)",
+   "url": "https://law.justia.com/codes/indiana/2019/title-32/article-29/chapter-7/section-32-29-7-10/"
+  },
+  {
+   "title": "IC 32-29-7-11 Retention of possession (LegalFix)",
+   "url": "https://www.legalfix.com/statutes/state-codes/indiana/title-32/article-29/chapter-7/section-32-29-7-11"
+  },
+  {
+   "title": "IC 32-30-10-14 Proceeds of sale (Justia)",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-30/chapter-10/section-32-30-10-14/"
+  },
+  {
+   "title": "IC 32-30-10.5-8 Presuit notice and settlement conference (Justia)",
+   "url": "https://law.justia.com/codes/indiana/title-32/article-30/chapter-10-5/section-32-30-10-5-8/"
+  },
+  {
+   "title": "Indiana Attorney General: foreclosure homeowner rights",
+   "url": "https://www.in.gov/attorneygeneral/consumer-protection-division/homeowner-protection/foreclosure-prevention/homeowners-rights"
+  },
+  {
+   "title": "Grant County Sheriff: sheriff sale information",
+   "url": "https://secure.in.gov/counties/grant/sheriff/sheriff-sale"
+  },
+  {
+   "title": "Allen Superior Court: foreclosure surpluses",
+   "url": "https://allensuperiorcourt.us/foreclosuresurpluses"
+  },
+  {
+   "title": "Indiana Courts: Allen County foreclosure surplus program",
+   "url": "https://times.courts.in.gov/2021/11/05/allen-foreclosure-surplus-program"
+  },
+  {
+   "title": "IC 6-1.1-25-4 Tax sale redemption period (Justia)",
+   "url": "https://law.justia.com/codes/indiana/title-6/article-1-1/chapter-25/section-6-1-1-25-4/"
+  }
+ ]
+}

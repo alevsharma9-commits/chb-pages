@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Maryland tax on a house sale",
-   "html": "<p>Maryland has no separate capital gains rate for most sellers. Gain from a house is added to your income and taxed at the regular state rates, with a local income tax on top. Beginning with tax year 2025, an extra 2% applies to net capital gains for people whose federal adjusted gross income is above $350,000.</p>\n<p>That 2% sits on top of the regular tax, so a seller over the threshold pays both. Corporations are exempt from it. A pass-through entity does not pay it, though an owner who receives gain from one can, and a trust or estate with federal taxable income over $350,000 owes it on undistributed gains.</p>\n<p>Most homeowners who sell a primary residence never meet the surtax, because that gain is excluded when the sale price stays under a set limit. The next section explains it.</p>"
+   "html": "<p>Most Marylanders pay no special capital gains rate. Profit on a house lands in your income, gets the normal state brackets, and picks up local income tax. A new 2% add-on applies starting with tax year 2025 to net capital gains of anyone with federal adjusted gross income over $350,000.</p>\n<p>The add-on is stacked on the regular tax, so a seller over the line pays both. Corporations are exempt from it. A pass-through entity does not pay it, though an owner who receives gain from one can, and a trust or estate with federal taxable income over $350,000 owes it on undistributed gains.</p>\n<p>Most homeowners who sell a primary residence never meet the surtax, because that gain is excluded when the sale price stays under a set limit. The next section explains it.</p>"
   },
   {
    "h2": "Sales excluded from the extra 2%",
@@ -15,45 +15,45 @@
   },
   {
    "h2": "The federal home sale exclusion",
-   "html": "<p>You can exclude up to $250,000 of gain from the sale of your main home, or $500,000 on a joint return. To qualify, you must have owned the home at least 24 months and lived in it as your main home at least 24 months during the 5 years ending on the sale date.</p>\n<p>The ownership and use tests can be met in different 2-year periods. You generally cannot take the exclusion if you excluded gain from another home sale in the 2 years before this one.</p>\n<p>A reduced exclusion may be available when the sale is driven by a work change, a health problem or an unforeseeable event such as a death, a divorce or a home destroyed by disaster. The formula divides your qualifying time by 730 days and multiplies by $250,000. Report the sale if you receive Form 1099-S or if you cannot exclude all the gain, using Schedule D and Form 8949.</p>"
+   "html": "<p>Federal law lets a homeowner shield $250,000 of profit from the sale of a main home, or $500,000 for a married couple filing together. Two tests apply. Within the 5 years before closing, you must have owned the house for 24 months and also lived in it for 24 months.</p>\n<p>The two tests do not have to overlap. One 2-year stretch can satisfy ownership and another can satisfy use. A second exclusion within 2 years of an earlier one is generally off the table.</p>\n<p>A reduced exclusion may be available when the sale is driven by a work change, a health problem or an unforeseeable event such as a death, a divorce or a home destroyed by disaster. The formula divides your qualifying time by 730 days and multiplies by $250,000. You must report the sale on Schedule D and Form 8949 if a Form 1099-S arrives or if part of the gain is taxable.</p>"
   },
   {
    "h2": "Federal rates on gain above the exclusion",
-   "html": "<p>Gain on a home owned more than one year is taxed federally at 0%, 15% or 20%, depending on income. For tax years beginning in 2025 the breakpoints are:</p>\n<ul><li>0% up to $48,350 for single filers, $96,700 for joint filers and $64,750 for heads of household.</li><li>15% above that, up to $533,400 for single filers, $600,050 for joint filers and $566,700 for heads of household.</li><li>20% above the 15% range.</li></ul>\n<p>Gain on a home held one year or less is short-term and taxed as ordinary income. Unrecaptured section 1250 gain, which comes from depreciation on real property, is taxed at up to 25%.</p>\n<p>The 3.8% net investment income tax can also apply, starting at $200,000 for single filers and heads of household and $250,000 for joint filers. Excluded gain on a principal residence generally escapes it, while gain above the exclusion can count.</p>"
+   "html": "<p>If you owned the home longer than a year, profit beyond the exclusion is taxed at one of three federal rates (0%, 15% or 20%) set by your income. The 2025 breakpoints:</p>\n<ul><li>0% up to $48,350 for single filers, $96,700 for joint filers and $64,750 for heads of household.</li><li>15% above that, up to $533,400 for single filers, $600,050 for joint filers and $566,700 for heads of household.</li><li>20% above the 15% range.</li></ul>\n<p>A house held a year or less produces short-term gain, taxed like wages. Depreciation recapture on real property (unrecaptured section 1250 gain) can be taxed at up to 25%.</p>\n<p>A 3.8% net investment income tax may also apply once income passes $200,000 (single or head of household) or $250,000 (joint). Gain you exclude on a principal residence generally escapes it. Gain above the exclusion can count toward it.</p>"
   },
   {
    "h2": "How to work out your gain",
-   "html": "<p>Gain is the amount realized minus your adjusted basis. Amount realized is the selling price less selling expenses. Basis starts with what you paid, including purchase costs, and rises with improvements that add value.</p>\n<p>Because selling expenses lower the amount realized, the closing costs you pay at settlement count in your favor. Keep the final settlement statement, the closing disclosure from your purchase and receipts for improvements. Those papers prove your basis if the IRS or the Comptroller asks.</p>\n<p>An inherited house follows a special rule. Basis is generally the fair market value on the date of death, or the alternate valuation date the estate chose. If an estate tax return was filed or required, the value on that return is your basis.</p>\n<p>Rental or business use calls for care. Depreciation claimed after May 6, 1997 cannot be excluded and is recognized as unrecaptured section 1250 gain. Periods after 2008 when the property was not your principal residence are generally nonqualified use, and gain allocated to them cannot be excluded.</p>"
+   "html": "<p>Subtract your adjusted basis from the amount realized and you have the gain. The amount realized is the sale price minus what it cost to sell. Your basis is the purchase price plus buying costs, increased by improvements that add value.\n<p>Closing costs you pay as seller reduce the amount realized, so they work in your favor. File away the final settlement statement, the closing disclosure from your purchase and improvement receipts. If the IRS or the Comptroller questions your basis, those papers answer.</p>\n<p>Inherited houses use a different starting point: fair market value at the date of death, or on the alternate valuation date if the estate picked one. Where an estate tax return was filed or required, use the value reported there.</p>\n<p>Rental or business use calls for care. Depreciation taken after May 6, 1997 is taxable as unrecaptured section 1250 gain whatever the exclusion. Years after 2008 when the house was not your principal residence are generally nonqualified use, and the gain tied to those years is not excludable.</p>"
   },
   {
    "h2": "Nonresident sellers and withholding at closing",
-   "html": "<p>A nonresident selling Maryland real property has tax withheld at settlement: 8.75% of the total payment for individuals and 8.25% for entities, on sales after June 30, 2025. The deed cannot be recorded unless the withholding payment comes with it.</p>\n<p>Form MW506NRS reports the withholding. A seller who owes less, or nothing, can apply for an early refund when the price is below $1.5 million. At $1.5 million or more, no tentative refund is available and the seller files a full annual return, with Form 502CG where it applies. Form MW506AE is the application for a certificate of full or partial exemption.</p>\n<p>The withholding leaves out the extra 2% surtax. A seller who expects to owe it should make additional estimated payments with Form 502D.</p>"
+   "html": "<p>A nonresident selling Maryland real property has tax withheld at settlement: 8.75% of the total payment for individuals and 8.25% for entities, on sales after June 30, 2025. The deed cannot be recorded unless the withholding payment comes with it.</p>\n<p>Form MW506NRS reports the withholding. A seller who owes less than the amount withheld, or nothing, may request an early refund if the price is under $1.5 million. At $1.5 million or more, no tentative refund is available and the seller files a full annual return, with Form 502CG where it applies. Form MW506AE is the application for a certificate of full or partial exemption.</p>\n<p>The withholding leaves out the extra 2% surtax. A seller who expects to owe it should make additional estimated payments with Form 502D.</p>"
   },
   {
    "h2": "Does a cash buyer change the tax?",
-   "html": "<p>No. Maryland and federal tax on your gain turn on your basis, holding period and income. They do not depend on who buys the house or how the buyer pays. With a cash buyer, the price you realize is simply the price in the contract.</p>\n<p>What a fast cash sale changes is timing. If you hope to use the home sale exclusion, check the 24-month tests before you sign, because the date of sale is the date that counts.</p>"
+   "html": "<p>No. Maryland and federal tax on your gain turn on your basis, holding period and income. They do not depend on who buys the house or how the buyer pays. With a cash buyer, the price you realize is simply the price in the contract.</p>\n<p>What a fast cash sale changes is timing. Hoping to claim the home sale exclusion? Run the 24-month tests against your planned closing date before you sign.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "Is there a Maryland capital gains tax on selling a home?",
-   "a": "Maryland taxes the gain as income, with local tax on top, and adds a 2% surtax on net capital gains when federal adjusted gross income is above $350,000. A primary residence that sells for less than $1.5 million is excluded from that surtax."
+   "q": "Does Maryland tax profit on a home sale?",
+   "a": "Yes, as ordinary income plus local tax. An added 2% surtax hits net capital gains once federal adjusted gross income passes $350,000, and a primary residence sold under $1.5 million is left out of it."
   },
   {
-   "q": "How much home sale gain can I exclude on my federal return?",
-   "a": "Up to $250,000 as a single filer or $500,000 on a joint return. You must have owned the home and used it as your main home for at least 24 months in the 5 years before the sale."
+   "q": "How much profit can I exclude federally?",
+   "a": "$250,000 if single, $500,000 if filing jointly, provided you owned and lived in the house for 24 months during the last 5 years."
   },
   {
    "q": "Do Maryland counties add tax to my capital gain?",
    "a": "Yes, through the local income tax, which is capped at 3.30% for tax years beginning after December 31, 2025. Harford County charges 3.06% and Howard County 3.20%."
   },
   {
-   "q": "What if I live out of state and sell a Maryland house?",
-   "a": "Tax is withheld at settlement: 8.75% for a nonresident individual and 8.25% for an entity. If the price is below $1.5 million you can apply for a refund of any excess, and above that you file a full annual return."
+   "q": "What if I live elsewhere and sell here?",
+   "a": "Settlement withholds 8.75% for an individual and 8.25% for an entity. Under $1.5 million you can ask for a refund of any excess, and at or above it you file a full annual return."
   },
   {
-   "q": "What is my tax basis in an inherited Maryland house?",
-   "a": "Generally the fair market value on the date of death, or the alternate valuation date the estate chose. When an estate tax return was required or filed, the value on it is your basis."
+   "q": "What basis do I get on an inherited house?",
+   "a": "Usually its value on the date of death (or the estate's alternate valuation date). A required or filed estate tax return fixes that value."
   }
  ],
  "sources": [

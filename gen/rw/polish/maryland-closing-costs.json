@@ -1,0 +1,101 @@
+{
+ "slug": "maryland-closing-costs",
+ "sections": [
+  {
+   "h2": "Taxes on a Maryland seller's closing statement",
+   "html": "<p>Three government charges account for most of a Maryland settlement sheet: the State transfer tax, a county transfer tax and a recordation tax. The State transfer tax is 0.5% of the consideration. The county charges depend on where the house sits.</p>\n<p>All three attach to the deed, so they show up with or without a real estate agent. The Clerk of the Circuit Court adds a recording fee and a surcharge, and the property tax account has to be clear before the deed is accepted.</p>\n<ul><li>State transfer tax: 0.5% of consideration, collected by the Circuit Court clerk.</li><li>County transfer tax: set by each county, anywhere from 0% to 1.5%.</li><li>Recordation tax: set by each county per $500 of consideration.</li><li>Recording fee and surcharge: charged by the clerk on every instrument.</li><li>Property tax and other county charges: paid before the transfer is entered.</li></ul>"
+  },
+  {
+   "h2": "Who pays transfer and recordation taxes?",
+   "html": "<p>Real Property Article 14-104 presumes that recordation tax and the State and local transfer taxes are shared equally between buyer and seller, unless the contract or the law says something else. Most Maryland contracts address it directly, so read that clause before you sign.</p>\n<p>One big exception exists. If the buyer is a first-time Maryland buyer who will live in the house as a principal residence, the seller pays all of the State transfer tax. The seller also pays the recordation and local transfer taxes unless the parties agree otherwise in writing.</p>\n<p>Conditions attach. Each buyer on the deed signs a statement under oath, and when there are two or more buyers, every one must qualify. For these buyers the State transfer tax rate is 0.25% instead of 0.5%, which trims the seller's cost on that line.</p>\n<p>Recordation tax law also allows a local government to exempt an amount for owner-occupied homes when the buyer lives there at least 7 months of a 12 month period. Ask the clerk or your title company whether your county does.</p>"
+  },
+  {
+   "h2": "County rates compared",
+   "html": "<p>Rates vary widely, so the same price can produce very different bills depending on the county. These are the fiscal 2026 rates for five counties.</p>\n<table><thead><tr><th>County</th><th>Recordation tax (per $500)</th><th>County transfer tax</th></tr></thead><tbody><tr><td>Baltimore County</td><td>$2.50</td><td>1.5%</td></tr><tr><td>Howard</td><td>$2.50</td><td>1.25%</td></tr><tr><td>Harford</td><td>$3.30</td><td>1.0%</td></tr><tr><td>Carroll</td><td>$6.50</td><td>0.0%</td></tr><tr><td>Frederick</td><td>$7.00</td><td>0.0%</td></tr></tbody></table>\n<p>Montgomery County's rate varies with property value and adds a recordation surcharge on transactions over $500,000. Anne Arundel's transfer tax runs from 1.0% to 1.5%. Across the state, recordation tax ranges from $2.50 to $7.00 per $500, and transfer tax from 0% to 1.5%.</p>\n<p>If you split the taxes equally under the default rule, each side carries half. A first-time buyer who qualifies drops the State transfer tax to 0.25%, and the seller covers the full set unless the contract says otherwise. Ask your title company for a written estimate on your own address.</p>"
+  },
+  {
+   "h2": "Recording fees and surcharges",
+   "html": "<p>The Clerk of the Circuit Court charges $20 to record most deeds of nine pages or less, plus a $40 surcharge on nearly every recorded instrument. Harford and Howard Counties charge the same amounts.</p>\n<ul><li>Release of nine pages or less: $10.</li><li>Instrument of ten pages or more that is not a principal residence: $75.</li><li>Copies: $0.50 a page in Harford County, plus $5 for a certified copy.</li><li>Harford Land Records accepts e-records through Simplifile.</li></ul>\n<p>Recording fees cannot be refunded, and a State transfer tax refund needs a claim form returned to the clerk. When a tax exemption applies, the document has to cite the full exemption code. Leave it off and the clerk charges full tax.</p>"
+  },
+  {
+   "h2": "Property tax before the deed transfers",
+   "html": "<p>Real Property Article 3-104 requires property taxes, assessments and charges to be paid, with the collector's certificate endorsed on the deed, before the transfer is entered on the assessment books. In certain counties a certificate of paid charges can cost up to $55.</p>\n<p>Procedures are local. Harford County sells a Certificate of Tax Liens and Other Charges Due for $50, valid 90 days, and county staff stamp each deed before recording. In Howard County, deeds pass through the Department of Finance's Division of Recordation Tax before they reach Land Records.</p>\n<p>Unpaid tax is the item most likely to surprise a seller. Maryland sells liens at annual tax sales, and an owner can redeem by paying the lien, interest and fees at any time before a circuit judge signs a foreclosure order.</p>"
+  },
+  {
+   "h2": "Where the county steps happen",
+   "html": "<p>Each county has two stops: a tax office that collects and stamps, and the Circuit Court land records office that records the deed. Two sample counties show how hours and timing differ.</p>\n<ul><li>Harford Revenue Collections: 220 S. Main Street, Bel Air, open 8 a.m. to 5 p.m. on weekdays, with processing that usually takes 24 to 48 hours.</li><li>Harford Land Records: 20 West Courtland Street, 8:30 a.m. to 4:30 p.m., with a 4:00 p.m. courier and title company cutoff.</li><li>Howard Division of Recordation Tax: 3430 Courthouse Drive, Ellicott City, 8 a.m. to 4:30 p.m.</li><li>Howard Land Records: 9250 Judicial Way, Suite 1900, with recording hours of 8:30 a.m. to 3:30 p.m.</li></ul>\n<p>Harford limits walk-ins to five documents or sets at a time. Because the tax office stamps the deed before the clerk records it, build in at least two days between the two stops.</p>"
+  },
+  {
+   "h2": "Sellers who live out of state",
+   "html": "<p>A nonresident individual seller has 8.75% of the total sale payment withheld at settlement, and a nonresident entity has 8.25% withheld. Form MW506NRS reports it, and the deed cannot be recorded without the payment.</p>\n<p>The withholding is a prepayment of income tax and not a closing cost in the usual sense. If you owe less, you can apply for an early refund when the price is below $1.5 million. Our Maryland capital gains guide has the full rules.</p>"
+  },
+  {
+   "h2": "Closing costs in a direct cash sale",
+   "html": "<p>A cash sale carries the same taxes and fees as a financed one, because they are charges on the deed and the tax account. The contract decides who pays which line.</p>\n<p>Before signing, request a written net sheet that shows every tax line. Check three points: whether the buyer claims first-time buyer status, who pays the county transfer tax and recordation tax, and what the county shows as owed on the tax account. Your title company or attorney can confirm each one.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who pays the Maryland transfer tax?",
+   "a": "Unless the contract says otherwise, buyer and seller split the State and local transfer taxes and the recordation tax equally. If a first-time Maryland buyer will live in the house, the seller pays all of the State transfer tax and, by default, the local taxes too."
+  },
+  {
+   "q": "What is the Maryland State transfer tax rate?",
+   "a": "0.5% of the consideration. For a first-time Maryland buyer who will occupy the house as a principal residence, it is 0.25% and the seller pays all of it."
+  },
+  {
+   "q": "How much is the recordation tax in Maryland?",
+   "a": "Each county sets its own rate per $500 of consideration. It is $2.50 in Howard and Baltimore Counties, $3.30 in Harford and $7.00 in Frederick."
+  },
+  {
+   "q": "Do Maryland sellers pay a recording fee?",
+   "a": "The clerk charges $20 for most deeds of nine pages or less, plus a $40 surcharge. Whether buyer or seller covers it depends on the contract."
+  },
+  {
+   "q": "Must property tax be paid before closing in Maryland?",
+   "a": "Yes. Taxes, assessments and charges due must be paid, with the collector's certificate endorsed on the deed, before the transfer is entered on the assessment books."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Maryland Real Property Article 14-104",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/grp/14-104.pdf"
+  },
+  {
+   "title": "Maryland Tax-Property Article 12-103",
+   "url": "https://mgaleg.maryland.gov/2026RS/Statute_Web/gtp/12-103.pdf"
+  },
+  {
+   "title": "Maryland DLS: 2026 County Local Tax Rates",
+   "url": "https://dls.maryland.gov/pubs/prod/NoPblTabPDF/2026CountyLocalTaxRates.pdf"
+  },
+  {
+   "title": "Maryland Courts: Harford County Land Records",
+   "url": "https://www.mdcourts.gov/clerks/harford/landrecords"
+  },
+  {
+   "title": "Maryland Courts: Howard County Land Records",
+   "url": "https://www.mdcourts.gov/clerks/howard/landrecords"
+  },
+  {
+   "title": "Harford County: Transfer, Recordation Tax",
+   "url": "https://harfordcountymd.gov/3433/Transfer-Recordation-Tax"
+  },
+  {
+   "title": "Harford County: Certificate of Tax Lien Application",
+   "url": "https://harfordcountymd.gov/DocumentCenter/View/25587/Certificate-of-Tax-Lien-Application-PDF"
+  },
+  {
+   "title": "Howard County Finance: Recordation FAQ",
+   "url": "https://www.howardcountymd.gov/finance/resource/recordation-faq"
+  },
+  {
+   "title": "Maryland Comptroller: Tax Alert 13 (April 2026)",
+   "url": "https://www.marylandcomptroller.gov/legal-library/ta-13-apr-2026.html"
+  },
+  {
+   "title": "Maryland SDAT: 2025 Annual Tax Sale Report",
+   "url": "https://dat.maryland.gov/Documents/2025-Annual-Maryland-TaxSale-Report.pdf"
+  }
+ ]
+}

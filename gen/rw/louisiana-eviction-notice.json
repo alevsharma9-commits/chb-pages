@@ -1,25 +1,81 @@
-{"slug":"louisiana-eviction-notice","sections":[
-{"h2":"What written notice does a Louisiana landlord have to give before an eviction?","html":"<p>A Louisiana landlord must deliver a written notice to vacate that gives the tenant at least five days from the date of delivery. This applies when the right to occupy has ended because the lease term expired, the landlord acted to end it, rent was not paid, or for any other reason.</p><p>The rule is Code of Civil Procedure art. 4701, in the eviction title of the code. The notice can come from the landlord or an agent. The statute counts the five days from the date of delivery, which is why landlords keep a record of when and how the notice was handed over.</p><p>The notice comes first and the court filing second. Art. 4731(A) ties the court step to a tenant or occupant who fails to comply with the notice to vacate, or who waived it in the lease.</p>"},
-{"h2":"Which notice period applies to which kind of lease or occupant?","html":"<p>The period depends on how the lease is measured and who is in the house. Two different laws are in play: art. 4701 sets the notice to vacate, and Civil Code art. 2728 sets when a lease with no definite term must be terminated.</p><table><thead><tr><th>Situation</th><th>Notice or timing</th><th>Source</th></tr></thead><tbody><tr><td>Tenant, lease ended for any reason</td><td>Written notice, at least 5 days from delivery</td><td>C.C.P. art. 4701</td></tr><tr><td>Lease with a fixed term</td><td>Notice to vacate may go out no more than 30 days before the term ends</td><td>C.C.P. art. 4701</td></tr><tr><td>Occupant who is not a tenant</td><td>Written notice, 5 days from delivery, after the purpose of the occupancy has ended</td><td>C.C.P. art. 4702</td></tr><tr><td>Term longer than a month</td><td>Termination notice 30 calendar days before the period ends</td><td>C.C. art. 2728</td></tr><tr><td>Month-to-month lease</td><td>Termination notice 10 calendar days before the end of the month</td><td>C.C. art. 2728</td></tr><tr><td>Term of a week up to a month</td><td>5 calendar days before the period ends</td><td>C.C. art. 2728</td></tr><tr><td>Term shorter than a week</td><td>Any time before the period expires</td><td>C.C. art. 2728</td></tr></tbody></table>"},
-{"h2":"How do the notice to vacate and the notice of termination fit together?","html":"<p>For a lease with no fixed end date, one notice does both jobs. Article 4701 says that where the lease has no definite term, the notice the law requires to terminate it is treated as the notice to vacate.</p><p>So a landlord ending a month-to-month tenancy gives the ten calendar day notice before month's end that art. 2728 describes, and that notice also counts as the notice to vacate. Article 2728 adds that a notice given in time ends the lease at the end of the period named in the notice, and if no period is named, at the end of the first period for which the notice is timely.</p><p>A fixed-term lease works differently. The tenant's right ends on the stated date, and the notice to vacate may be delivered up to thirty days before then, but not earlier.</p>"},
-{"h2":"Who counts as an occupant, and do squatters and relatives get a notice?","html":"<p>The code's definitions are broader than most owners expect. Under art. 4704, an occupant includes a sharecropper, a half hand, a day laborer and a former owner. It also covers any person living in the immovable property by permission or accommodation of the owner, a former owner or another occupant, other than a mineral lessee, the owner of a mineral servitude or a lessee of the owner.</p><p>That includes a relative or friend who was allowed to stay. For them, art. 4702 requires the owner to deliver a written notice to vacate once the purpose of the occupancy has ended, allowing five days from delivery.</p><p>The same article defines \"lease\" to include oral leases and subleases, and \"lessor\" to include a sublessor, assignee or transferee. A person who buys a rented house can therefore qualify as the lessor for these rules, which matters when a landlord sells with a tenant still in place.</p>"},
-{"h2":"Can a tenant waive the notice to vacate in the lease?","html":"<p>Yes. Article 4701 lets a lessee waive the notice requirement by a written waiver contained in the lease. Where that waiver exists, the landlord may begin eviction proceedings immediately when the right to occupy ends for any reason.</p><p>Before relying on a waiver, a landlord or buyer should read the lease for:</p><ul><li>A written waiver clause that is part of the lease itself, since the statute requires it to be in the lease.</li><li>The lease term, and whether it renews month to month.</li><li>Any later written changes signed by both parties.</li></ul><p>A seller who inherited a rental often has no lease copy at all. Asking the tenant for their copy, and for proof of rent paid, usually comes first.</p>"},
-{"h2":"What if the tenant has already left or the house looks abandoned?","html":"<p>After the required notice has been given, a Louisiana lessor or owner may take possession without court on a reasonable belief that the tenant or occupant has abandoned the premises. Art. 4731(B) lists signs of abandonment: ending business activity or residential occupancy, returning the keys, and removing equipment, furnishings or other movables.</p><p>Getting that wrong carries a price. Under art. 4731(C)(2), a lessor who fails to comply gives a residential lessee the right to recover $500 or twice the monthly rent, whichever is greater, from the lessor, owner or the lessor's successor in interest. The tenant may also seek a restraining order or preliminary injunction, and the court may award costs and attorney fees to the prevailing party.</p><p>Two further limits apply. In parishes under a federal disaster declaration, empty housing is not evidence of abandonment for thirty days after the initial declaration, and a residential tenant seeking a restraining order does not need to post security during those thirty days. Nothing in that paragraph overrides the lessor's rights under Civil Code art. 2693.</p>"},
-{"h2":"What mistakes make an eviction notice fail?","html":"<p>Most problems come from timing, delivery or the wrong kind of notice. The statutes themselves point to these checks:</p><ul><li>Written, not spoken: arts. 4701 and 4702 both call for written notice.</li><li>Enough days: five days from delivery is the floor for a notice to vacate.</li><li>Too early on a fixed term: delivery more than thirty days before the term ends falls outside art. 4701.</li><li>Wrong period for a periodic lease: month-to-month needs the ten day timing in art. 2728, which is separate from the five day minimum.</li><li>Retaking the house without court when the tenant has not abandoned it: art. 4731(C)(2) puts a $500 or double-rent remedy in a residential tenant's hands when the lessor fails to comply.</li></ul><p>The sources we read do not prescribe a particular form or wording for the notice, so we do not publish a template; a landlord's attorney can supply one.</p>"},
-{"h2":"What happens after the notice period ends?","html":"<p>If the tenant stays, the owner files for eviction by a summary proceeding: art. 4731(A) allows the lessor or owner to cite the occupant by rule to show cause why possession should not be delivered, and the rule must state the grounds. The full court sequence, including hearing timing and appeals, is covered in our <a href=\"/louisiana-eviction-process/\">Louisiana eviction process guide</a>.</p><p>For a seller, the practical question is whether to finish the eviction before listing. A house with a tenant, a stack of notices and a pending hearing is harder to sell on the open market. An as-is cash buyer may take the property with the tenant in place, though that is a matter for the individual deal and the lease terms.</p>"}
-],
-"faqs":[
-{"q":"How many days notice does a Louisiana landlord have to give to evict?","a":"At least five days from delivery of a written notice to vacate, under Code of Civil Procedure art. 4701. A month-to-month lease also has the ten day termination timing in Civil Code art. 2728."},
-{"q":"Is a verbal eviction notice valid in Louisiana?","a":"No. Article 4701 requires written notice to vacate to be delivered to the lessee, and art. 4702 requires written notice to an occupant who is not a tenant."},
-{"q":"How much notice does a month-to-month tenant get in Louisiana?","a":"Ten calendar days before the end of the month, under Civil Code art. 2728. Because there is no fixed term, that termination notice also serves as the notice to vacate."},
-{"q":"Can a Louisiana lease say the tenant gives up the right to a notice?","a":"Yes. Art. 4701 allows a written waiver in the lease. The landlord can then file immediately once the tenant's right of occupancy ends."},
-{"q":"Can a landlord take back the house without court if the tenant left?","a":"Only after the required notice and only on a reasonable belief of abandonment. If the landlord gets it wrong, a residential tenant may recover $500 or twice the monthly rent, whichever is more."},
-{"q":"Does a family member living in my house need an eviction notice?","a":"Usually yes if they are an occupant by permission and the purpose of the occupancy has ended. Article 4702 requires written notice allowing five days from delivery."}
-],
-"sources":[
-{"title":"La. Code of Civil Procedure art. 4701 (Justia)","url":"https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4701/"},
-{"title":"La. Code of Civil Procedure art. 4702 (Justia)","url":"https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4702/"},
-{"title":"La. Code of Civil Procedure art. 4704 (Justia)","url":"https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4704/"},
-{"title":"La. Code of Civil Procedure art. 4731 (Justia)","url":"https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4731/"},
-{"title":"La. Civil Code art. 2728 (Justia)","url":"https://law.justia.com/codes/louisiana/civil-code/article-2728/"}
-]}
+{
+ "slug": "louisiana-eviction-notice",
+ "sections": [
+  {
+   "h2": "Written notice before an eviction",
+   "html": "<p>A Louisiana landlord must deliver a written notice to vacate that gives the tenant at least five days from the date of delivery. It applies once the right to occupy has ended, whether because the lease term expired, the landlord acted to end it, rent went unpaid or for any other reason.</p><p>The rule is Code of Civil Procedure art. 4701, in the eviction title of the code. The landlord or an agent can send the notice. Because the five days run from delivery, landlords keep a record of when and how the notice was handed over.</p><p>The notice comes first and the court filing second. Art. 4731(A) ties the court step to a tenant or occupant who fails to comply with the notice to vacate, or who waived it in the lease.</p>"
+  },
+  {
+   "h2": "Notice periods by type of lease or occupant",
+   "html": "<p>The period depends on how the lease is measured and who is living in the house. Two laws work together: art. 4701 sets the notice to vacate, and Civil Code art. 2728 sets when a lease with no definite term must be terminated.</p><table><caption>Notice timing by situation</caption><thead><tr><th>Situation</th><th>Notice or timing</th></tr></thead><tbody><tr><td>Tenant, lease ended for any reason (C.C.P. art. 4701)</td><td>Written notice, at least 5 days from delivery</td></tr><tr><td>Lease with a fixed term</td><td>Notice to vacate may go out no more than 30 days before the term ends</td></tr><tr><td>Occupant who is not a tenant (art. 4702)</td><td>Written notice, 5 days from delivery, after the purpose of the occupancy has ended</td></tr><tr><td>Term longer than a month (C.C. art. 2728)</td><td>Termination notice 30 calendar days before the period ends</td></tr><tr><td>Month-to-month lease</td><td>Termination notice 10 calendar days before the end of the month</td></tr><tr><td>Term of a week up to a month</td><td>5 calendar days before the period ends</td></tr><tr><td>Term shorter than a week</td><td>Any time before the period expires</td></tr></tbody></table>"
+  },
+  {
+   "h2": "How the two notices fit together",
+   "html": "<p>For a lease with no fixed end date, a single notice does both jobs. Article 4701 treats the notice the law requires to terminate such a lease as the notice to vacate.</p><p>A landlord ending a month-to-month tenancy therefore gives the ten calendar day notice before month's end that art. 2728 describes, and that same notice counts as the notice to vacate. Under art. 2728, a notice given in time ends the lease at the end of the period it names. If it names none, the lease ends at the close of the first period for which the notice was early enough.</p><p>A fixed-term lease works differently. The tenant's right ends on the stated date, and the notice to vacate may be delivered up to thirty days before then, but no sooner.</p>"
+  },
+  {
+   "h2": "Who counts as an occupant?",
+   "html": "<p>The code's definitions are wider than most owners expect. Under art. 4704, an occupant includes a sharecropper, a half hand, a day laborer and a former owner. It also covers anyone living in the property by permission or accommodation of the owner, a former owner or another occupant, other than a mineral lessee, the owner of a mineral servitude or a lessee of the owner.</p><p>That reaches a relative or friend who was allowed to stay. For them, art. 4702 requires the owner to deliver a written notice to vacate once the purpose of the occupancy has ended, with five days from delivery.</p><p>The same article defines 'lease' to include oral leases and subleases, and 'lessor' to include a sublessor, assignee or transferee. Someone who buys a rented house can therefore stand in as the lessor, which matters when a landlord sells with a tenant in place.</p>"
+  },
+  {
+   "h2": "Waiving the notice in the lease",
+   "html": "<p>A tenant can do it. Article 4701 lets a lessee waive the notice requirement in a written waiver contained in the lease. Where that waiver exists, the landlord may begin eviction proceedings immediately when the right to occupy ends for any reason.</p><p>Before relying on a waiver, a landlord or buyer should read the lease for:</p><ul><li>A written waiver clause that is part of the lease itself, since the statute requires it to be there.</li><li>The lease term, and whether it renews month to month.</li><li>Any later written changes signed by both parties.</li></ul><p>A seller who inherited a rental often has no copy of the lease. Asking the tenant for theirs, along with proof of rent paid, is usually the first step.</p>"
+  },
+  {
+   "h2": "If the tenant left or the house looks abandoned",
+   "html": "<p>After the required notice, a Louisiana lessor or owner may take possession without going to court on a reasonable belief that the tenant or occupant has abandoned the premises. Art. 4731(B) lists signs of abandonment: ending business activity or residential occupancy, returning the keys, and removing equipment, furnishings or other movables.</p><p>Getting it wrong is expensive. Under art. 4731(C)(2), a lessor who fails to comply gives a residential lessee the right to recover $500 or twice the monthly rent, whichever is greater, from the lessor, owner or the lessor's successor in interest. The tenant may also seek a restraining order or preliminary injunction, and the court may award costs and attorney fees to the prevailing party.</p><p>Two further limits apply. In parishes under a federal disaster declaration, empty housing is not evidence of abandonment for thirty days after the initial declaration, and a residential tenant seeking a restraining order does not have to post security during those thirty days. None of this overrides the lessor's rights under Civil Code art. 2693.</p>"
+  },
+  {
+   "h2": "Mistakes that make a notice fail",
+   "html": "<p>Most problems come from timing, delivery or using the wrong kind of notice. Check each of these:</p><ul><li>Written, not spoken: arts. 4701 and 4702 both call for written notice.</li><li>Enough days: five days from delivery is the floor for a notice to vacate.</li><li>Too early on a fixed term: delivery more than thirty days before the term ends is outside art. 4701.</li><li>Wrong period for a periodic lease: month-to-month needs the ten day timing in art. 2728, which is separate from the five day minimum.</li><li>Retaking the house without court when the tenant has not abandoned it: art. 4731(C)(2) gives a residential tenant a $500 or double-rent remedy.</li></ul><p>No standard wording is prescribed for the notice, so a landlord's attorney can draft one that states the grounds clearly.</p>"
+  },
+  {
+   "h2": "After the notice period ends",
+   "html": "<p>If the tenant stays, the owner files for eviction by summary proceeding. Art. 4731(A) lets the lessor or owner cite the occupant by rule to show cause why possession should not be delivered, and the rule must state the grounds. The court sequence, including hearing timing and appeals, is laid out in our <a href='/louisiana-eviction-process/'>Louisiana eviction process guide</a>.</p><p>For a seller, the practical question is whether to finish the eviction before listing. A house with a tenant, a stack of notices and a pending hearing is harder to sell on the open market. An as-is cash buyer may take the property with the tenant in place, though that depends on the deal and the lease terms.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How many days notice does a Louisiana landlord have to give to evict?",
+   "a": "At least five days from delivery of a written notice to vacate, under Code of Civil Procedure art. 4701. A month-to-month lease also has the ten day termination timing in Civil Code art. 2728."
+  },
+  {
+   "q": "Is a verbal eviction notice valid in Louisiana?",
+   "a": "No. Article 4701 requires written notice to vacate to be delivered to the lessee, and art. 4702 requires written notice to an occupant who is not a tenant."
+  },
+  {
+   "q": "How much notice does a month-to-month tenant get in Louisiana?",
+   "a": "Ten calendar days before the end of the month, under Civil Code art. 2728. With no fixed term, that termination notice also serves as the notice to vacate."
+  },
+  {
+   "q": "Can a Louisiana lease say the tenant gives up the right to a notice?",
+   "a": "Yes. Art. 4701 allows a written waiver in the lease. The landlord can then file immediately once the tenant's right of occupancy ends."
+  },
+  {
+   "q": "Can a landlord take back the house without court if the tenant left?",
+   "a": "Only after the required notice and only on a reasonable belief of abandonment. If the landlord gets it wrong, a residential tenant may recover $500 or twice the monthly rent, whichever is more."
+  }
+ ],
+ "sources": [
+  {
+   "title": "La. Code of Civil Procedure art. 4701 (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4701/"
+  },
+  {
+   "title": "La. Code of Civil Procedure art. 4702 (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4702/"
+  },
+  {
+   "title": "La. Code of Civil Procedure art. 4704 (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4704/"
+  },
+  {
+   "title": "La. Code of Civil Procedure art. 4731 (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/code-of-civil-procedure/article-4731/"
+  },
+  {
+   "title": "La. Civil Code art. 2728 (Justia)",
+   "url": "https://law.justia.com/codes/louisiana/civil-code/article-2728/"
+  }
+ ]
+}
