@@ -1,0 +1,113 @@
+{
+ "slug": "virginia-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Who sets and collects the tax",
+   "html": "<p>Virginia real estate tax is local. The state does not bill you for a house; your county, city, or town does, and rates, due dates, and many relief programs differ from one locality to the next. The state has 95 counties and 38 independent cities.</p><p>Two local offices matter most. The commissioner of the revenue, or an equivalent assessing officer, sets the value and handles corrections. The treasurer, or an equivalent officer, collects the bill and runs delinquent tax enforcement. Both are listed on your locality's website, and the treasurer can give you a payoff figure for a closing.</p>"
+  },
+  {
+   "h2": "How a house is valued for tax",
+   "html": "<p>All real estate is taxable unless the law exempts it, and general reassessments and annual assessments are made at 100 percent of fair market value (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3201/\">Va. Code 58.1-3201</a>). Your bill follows the locality's estimate of what the house would sell for, not what you paid.</p><p>How often that estimate changes depends on where you live. Counties must reassess every four years, or every three if the board of supervisors votes for it. A county of 50,000 people or fewer may pick five or six year intervals, and Augusta and Bedford counties have the same option (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3252/\">Va. Code 58.1-3252</a>). A county or city with a qualified full-time appraiser may instead adopt biennial or annual assessment by ordinance, with real estate assessed as of January 1 each year (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3253/\">Va. Code 58.1-3253</a>).</p><table><thead><tr><th>Assessment method</th><th>Frequency</th><th>Statute</th></tr></thead><tbody><tr><td>County general reassessment</td><td>Every four years, or three by board vote</td><td>58.1-3252</td></tr><tr><td>Small county (50,000 or fewer people)</td><td>May elect five or six years</td><td>58.1-3252</td></tr><tr><td>County or city with a qualified appraiser</td><td>Biennial or annual by ordinance</td><td>58.1-3253</td></tr></tbody></table>"
+  },
+  {
+   "h2": "Due dates and penalties",
+   "html": "<p>Every locality picks its own due dates. The governing body may require one payment or two equal installments, and it sets penalties and interest by ordinance (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3916/\">Va. Code 58.1-3916</a>). Look at the treasurer's calendar for your address, since two neighboring localities can bill on different schedules.</p><p>State law limits what a locality can add. Interest can begin the day after the due date at no more than 10 percent a year, with a higher ceiling for the second and later years of delinquency. A late penalty is capped at 10 percent of the tax past due, or $10 if that is greater, and never more than the tax itself. A locality may also recover collection or attorney fees it actually contracted for, up to 20 percent of the delinquent taxes.</p><p>The same statute offers some relief:</p><ul><li>A locality may grant a payment extension of up to 90 days for good cause.</li><li>Armed forces members deployed outside the United States get an automatic extension on real estate tax on a primary residence, ending 90 days after deployment.</li><li>No penalty applies when a late assessment was the fault of a local official and the bill is paid within two weeks of the notice.</li></ul>"
+  },
+  {
+   "h2": "How to appeal your assessment",
+   "html": "<p>Go to the assessor's office first, then the local board of equalization, then the circuit court. The board hears complaints, can raise as well as lower assessments, and begins from a presumption that the assessor's value is right. To win, the owner must show by a preponderance of the evidence that the property is valued above fair market value, or that the assessment is not uniform and was not done under accepted appraisal practice (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3379/\">Va. Code 58.1-3379</a>).</p><p>Market sales through December 31 before the assessment's effective date can be used if the owner submits them by the locality's application deadline. For a home with fewer than four residential units, the assessor must give written notice and, on written request, the assessment records within 15 days.</p><p>Two other routes exist:</p><ul><li>Apply to the commissioner of the revenue for a correction, within three years of the end of the tax year or one year from assessment, whichever is later. For real estate this reaches errors made by the commissioner or factual errors in a general reassessment (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3980/\">Va. Code 58.1-3980</a>).</li><li>Apply to the circuit court, within three years from the last day of the tax year, or one year from assessment or the final determination of an earlier step, whichever is later. For real estate the court starts from the same presumption that the assessor's value is correct (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3984/\">Va. Code 58.1-3984</a>).</li></ul><p>A bill is not treated as delinquent while an administrative appeal is pending, as long as the appeal was filed within 90 days of the assessment, and for 30 days after the final decision.</p>"
+  },
+  {
+   "h2": "Exemptions and deferrals for older owners",
+   "html": "<p>These exist only where your locality has adopted them. A county, city, or town may by ordinance exempt or defer real estate tax for owners who are at least 65, or permanently and totally disabled if the ordinance says so, and who live in the property as their sole dwelling (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3210/\">Va. Code 58.1-3210</a>).</p><p>The ordinance can limit relief to the increase in tax since the owner reached 65 or became disabled. A home held by a life estate, a revocable trust the owner controls, or certain irrevocable trusts can qualify, but a leasehold interest cannot. Ask your commissioner of the revenue about income and net worth limits, which are set locally and differ from place to place.</p>"
+  },
+  {
+   "h2": "Selling with taxes owed",
+   "html": "<p>The tax gets paid out of the sale. Real estate taxes are a lien ahead of every other lien until the taxing authority is paid, and the buyer, or the trustee at a foreclosure sale, must see that proceeds go to taxes and levies assessed on the property (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter33/section58.1-3340/\">Va. Code 58.1-3340</a>). Taxes and levies there include accrued penalty and interest, and the lien also reaches rents for the current year.</p><p>For a partial sale of a larger tract, the proration follows the purchase price in relation to the assessed value of the whole tract. The seller's liability is prorated in the contract.</p><p>Closing dates can add a wrinkle. When ownership changes after January 1 and the bill has already gone out, the treasurer may cancel the bill sent to the prior owner and reissue it to the new owner. No penalty applies if the new bill is paid within two weeks of notice.</p>"
+  },
+  {
+   "h2": "When taxes are years behind",
+   "html": "<p>The locality can sue to sell the property. Real estate with taxes delinquent on December 31 after the second anniversary of the due date can be sold. The clock is one year for property with a condemned structure, a nuisance, a derelict building, or a blighted designation. Property assessed at $100,000 or less can be sold on a court finding of delinquency after the first anniversary (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/\">Va. Code 58.1-3965</a>).</p><p>Before suing, the collecting officer must send notice at least 30 days ahead to the owner's address on file and to the property address, and publish the list in a local newspaper. The owner can redeem any time before the sale by paying everything owed. A partial payment does not stop the case. The treasurer may suspend the sale under an installment agreement of up to 72 months, which must also keep current taxes paid.</p><p>If the property sells, the former owner and heirs are entitled to the surplus after taxes, penalties, interest, fees, costs, and liens. They must claim it within two years of confirmation or it goes to the locality (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3967/\">Va. Code 58.1-3967</a>).</p>"
+  },
+  {
+   "h2": "Taxes and a quick sale",
+   "html": "<p>The payoff figure matters more than the headline price. Before you accept any offer, request a current tax statement from the treasurer and ask the title company to list every lien. Expect the state recordation tax of 25 cents per $100 and the seller's grantor tax of 50 cents per $500, unless the contract shifts it (<a href=\"https://law.lis.virginia.gov/vacode/title58.1/chapter8/section58.1-802/\">Va. Code 58.1-802</a>).</p><p>Owners with a pending assessment appeal, a deferral under a local ordinance, or an installment agreement should tell the buyer's title company early. Each of these can change what is owed at closing, and a cash buyer can plan around them if they are disclosed up front.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Who do I call about my property tax bill?",
+   "a": "The locality's treasurer collects the bill, and the commissioner of the revenue or an equivalent assessing office sets the value. Both are county, city, or town offices, not state offices."
+  },
+  {
+   "q": "How often is my house reassessed?",
+   "a": "A county must reassess at least every four years, or every three if the board of supervisors votes for it, with five or six year options for counties of 50,000 people or fewer. A county or city with a qualified appraiser may assess annually or every two years."
+  },
+  {
+   "q": "What is the highest late penalty a locality may charge?",
+   "a": "10 percent of the tax past due, or $10 if greater, and never more than the tax itself. Interest is capped at 10 percent a year, with a higher ceiling in the second and later years."
+  },
+  {
+   "q": "Can I sell while a tax appeal is open?",
+   "a": "Yes. The unpaid tax is still a lien, so the title company will pay it from proceeds. Tell them about the appeal so the payoff is figured correctly."
+  },
+  {
+   "q": "How long can taxes go unpaid before a tax sale?",
+   "a": "The usual trigger is delinquency on December 31 after the second anniversary of the due date. It is one year for condemned, nuisance, derelict, or blighted property, and for property assessed at $100,000 or less on a court finding."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Va. Code 58.1-3201 What real estate is taxed",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3201/"
+  },
+  {
+   "title": "Va. Code 58.1-3252 Reassessment in counties",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3252/"
+  },
+  {
+   "title": "Va. Code 58.1-3253 Biennial or annual assessment",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3253/"
+  },
+  {
+   "title": "Va. Code 58.1-3916 Due dates, penalties and interest",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3916/"
+  },
+  {
+   "title": "Va. Code 58.1-3379 Board of equalization",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3379/"
+  },
+  {
+   "title": "Va. Code 58.1-3980 Application to commissioner of the revenue",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3980/"
+  },
+  {
+   "title": "Va. Code 58.1-3984 Application to court",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3984/"
+  },
+  {
+   "title": "Va. Code 58.1-3210 Elderly and disabled relief",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter32/section58.1-3210/"
+  },
+  {
+   "title": "Va. Code 58.1-3340 Lien for taxes",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter33/section58.1-3340/"
+  },
+  {
+   "title": "Va. Code 58.1-3965 Sale for delinquent taxes",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3965/"
+  },
+  {
+   "title": "Va. Code 58.1-3967 Proceedings and surplus",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter39/section58.1-3967/"
+  },
+  {
+   "title": "Va. Code 58.1-802 Grantor tax",
+   "url": "https://law.lis.virginia.gov/vacode/title58.1/chapter8/section58.1-802/"
+  },
+  {
+   "title": "Virginia, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Virginia"
+  }
+ ]
+}
