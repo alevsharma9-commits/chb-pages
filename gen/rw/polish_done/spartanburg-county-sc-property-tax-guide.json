@@ -15,19 +15,23 @@
   },
   {
    "h2": "Reappraisal and the 15% cap",
-   "html": "<p>The latest reappraisal reset values to market conditions on December 31, 2022, and the 2023 bills used those numbers. More than 180,567 notices went into the mail by September 2023.</p><ul><li>A reappraisal can lift your value by at most 15%, except for new or improved structures, a sale or a transfer of interest.</li><li>The notice itself is not a bill.</li><li>State law calls for reappraisal every five years, and the Assessor can name the next date.</li></ul><p>A buyer shouldn't assume the seller's old bill carries over. If the property just sold, the cap may not protect the new owner, so a buyer should work from the new value.</p>"
+   "html": "<p>The latest reappraisal reset values to market conditions on December 31, 2022, and the 2023 bills used those numbers. More than 180,567 notices went into the mail by September 2023.</p><ul><li>A reappraisal can lift your value by at most 15%, except for new or improved structures, a sale or a transfer of interest.</li><li>A notice of value is never a tax bill.</li><li>State law calls for reappraisal every five years, and the Assessor can name the next date.</li></ul><p>Don't assume the seller's old bill carries over. A recent sale can strip the cap's protection from the new owner, which means a buyer should budget from the new value.</p>"
   },
   {
    "h2": "How to appeal your assessment",
-   "html": "<p>Your objection must be in writing and reach the Assessor within 90 days of the mailing date on the notice. From there the process has five stages.</p><ol><li>Ask in writing for a meeting. If the Assessor agrees with you, the value is changed and the matter ends.</li><li>Otherwise go to the conference. Skipping it forfeits any further appeal for that year.</li><li>Submit a written protest listing your facts, your legal reasons and the value you claim.</li><li>The Assessor replies in writing in about 30 days, and you then have 30 days to take it to the County Board of Assessment Appeals.</li><li>Within 30 days of the Board's decision, ask for a contested case at the Administrative Law Court.</li></ol><p>With no reappraisal notice in a given year, timing decides which year you affect: file before January 15 and it applies to that tax year, file on or after and it applies to the next. Appealing never postpones the payment deadline. Before December 31 you can ask in writing to be billed on at least 80% of the protested value while the case is pending. Evidence from comparable market sales helps; forced, distressed and foreclosure sales generally don't.</p>"
+   "html": "<p>Put your objection in writing and get it to the Assessor inside 90 days of the notice's mailing date. Five stages follow.</p><ol><li>Request a meeting in writing. If the Assessor sides with you, the value changes and that is the end of it.</li><li>If not, attend the conference, because skipping it forfeits any further appeal that year.</li><li>Send a written protest stating your facts, legal grounds and the value you believe is right.</li><li>A written reply comes from the Assessor in roughly 30 days, after which you have 30 days to go to the County Board of Assessment Appeals.</li><li>Thirty days after the Board rules, you may ask for a contested case at the Administrative Law Court.</li></ol><p>In a year with no reappraisal notice, the filing date picks the tax year: before January 15 and it covers the current year, on or after and it covers the next. An appeal never postpones payment. If you ask in writing before December 31, you can be billed on at least 80% of the protested value while the case is pending. Comparable market sales are good evidence; forced, distressed and foreclosure sales generally are not.</p>"
   },
   {
    "h2": "If the tax goes unpaid",
-   "html": "<p>Enforcement climbs in stages, from an execution notice to a notice of seizure and finally a public auction. Thirty days of silence after the execution notice brings the notice of seizure, sent certified with restricted delivery. After that the property is advertised once a week for three weeks and then sold.</p><p>For 12 months after the sale, the owner, the owner's grantee, or a mortgage or judgment creditor can buy the property back. Interest on the bid rises in steps: 3% in the first quarter of the year, 6% in the second, 9% in the third and 12% in the fourth. If no one redeems, the Tax Collector issues a tax deed. It has no warranty and passes only the county's interest. A top bidder who fails to pay owes $500 per property.</p><p>Under 12-51-120, the owner must get a certified mailing 45 to 20 days ahead of the redemption deadline.</p>"
+   "html": "<p>Enforcement climbs in stages, from an execution notice to a notice of seizure and finally a public auction. Thirty days of silence after the execution notice brings the notice of seizure, sent certified with restricted delivery. After that the property is advertised once a week for three weeks and then sold.</p><p>For 12 months after the sale, the owner, the owner's grantee, or a mortgage or judgment creditor can buy the property back. Interest on the bid rises with time after the sale: 3% if you redeem in months one to three, 6% in months four to six, 9% in months seven to nine and 12% in months ten to twelve. If no one redeems, the Tax Collector issues a tax deed. It has no warranty and passes only the county's interest. A top bidder who fails to pay owes $500 per property.</p><p>Under 12-51-120, the owner must get a certified mailing 45 to 20 days ahead of the redemption deadline.</p>"
   },
   {
    "h2": "Common slip-ups",
    "html": "<p>Three mistakes show up again and again. The first is assuming a mailed notice settles anything: a reappraisal notice is only an announcement, and the real bill arrives later. The second is missing the conference after you file an objection, which ends your appeal for that year. The third is waiting until March 17 to learn the payoff, by which point the stacked penalties have reached 15% and the account has gone to the Tax Collector.</p><p>A smaller one is trusting an old figure. Millage changes every year, and a buyer who budgets from the seller's last bill can be caught short. If you are on either side of a sale, ask the Assessor for the current value and the Treasurer for the current payoff on the day you talk.</p>"
+  },
+  {
+   "h2": "Notes for heirs and landlords",
+   "html": "<p>Heirs often inherit a tax problem along with the house. Check whether the bills were mailed to a relative who has died, because a notice that went to the wrong person doesn't stop the penalties, though state law does provide for waivers when a transfer left the owner uninformed. Landlords should remember that the 15% cap doesn't shield a property after it sells, so rent projections for a new owner need current numbers.</p><p>If the house is vacant, visit it regularly. Open mail piles up, and a seizure notice sent by certified mail can sit unclaimed. Giving the Treasurer a current address now is cheaper than learning about a tax sale after it is advertised.</p>"
   },
   {
    "h2": "What to bring and what to expect",
@@ -41,15 +45,15 @@
  "faqs": [
   {
    "q": "When are Spartanburg County property taxes due?",
-   "a": "The window runs September 30 to January 15. After that a 3% penalty starts January 16, 7% more is added on February 2, and 5% more on March 17, reaching 15%."
+   "a": "Payment opens September 30 and stays penalty-free to January 15. A 3% penalty begins January 16, with 7% more on February 2 and 5% more on March 17, reaching 15%."
   },
   {
    "q": "How long do I have to appeal my Spartanburg County assessment?",
-   "a": "Within 90 days after the Assessor mails the notice, in writing. Appealing doesn't move your tax due date."
+   "a": "You have 90 days after the Assessor mails the notice, and the objection must be written. The tax due date stays put."
   },
   {
    "q": "Can I get my Spartanburg County house back after a tax sale?",
-   "a": "Yes, within 12 months of the sale. Redeeming means paying taxes, penalties and costs plus interest of 3%, 6%, 9% or 12%, based on the month. A grantee or a mortgage or judgment creditor may also redeem."
+   "a": "Yes, for a year after the sale. You pay taxes, penalties and costs plus 3%, 6%, 9% or 12% interest, depending on the month you redeem. A grantee or a mortgage or judgment creditor can redeem too."
   },
   {
    "q": "Will the 15% reappraisal cap apply after I sell?",
@@ -57,7 +61,7 @@
   },
   {
    "q": "Can I sell a Spartanburg County house that has back taxes?",
-   "a": "Yes. The balance is typically cleared from your proceeds at closing. Ask the Treasurer for a payoff with penalties, and warn any buyer when a tax sale is close."
+   "a": "Yes. Your proceeds usually clear the balance at closing. Request a payoff that includes penalties from the Treasurer, and tell any buyer if a tax sale is near."
   }
  ],
  "sources": [

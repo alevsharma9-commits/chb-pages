@@ -82,3 +82,4 @@ Added this session (NC b0787-b0808, TX b0822-b0839 merges)
 - san-miguel-county-nm-property-tax-guide: keeps Nov 19, 2026 state auction (upcoming). Reword as a recurring rule after Nov 19.
 - medina-county-oh-property-tax-guide and montgomery-county-oh-property-tax-guide still cite past 2026 due dates ('in 2026 the dates were Feb 13 and July 24'). Reword as recurring rules in the stale-date sweep.
 - Oregon: some original sell-my-house-fast-*-or pages cited the Washington County transfer tax on non-Washington counties (found on Eugene, Grants Pass, Gresham, fixed by polish). Check remaining unpolished/other OR pages for the same error.
+- sumter-county-sc-property-tax-guide keeps Dec 8, 2026 tax sale and Dec 7 payment deadline (upcoming). Reword after those pass.
