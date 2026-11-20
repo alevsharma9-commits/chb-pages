@@ -15,7 +15,7 @@
   },
   {
    "h2": "Who can be the personal representative?",
-   "html": "<p>Any person aged 21 or older who isn't found unsuitable can serve, and Utah ranks who gets first claim on the job. The order in <a href=\"https://le.utah.gov/xcode/Title75/Chapter3/75-3-S203.html\">Utah Code 75-3-203</a> runs like this.</p><ol><li>The person named in a probated will.</li><li>A surviving spouse who is also a devisee.</li><li>Other devisees.</li><li>A surviving spouse who is not a devisee.</li><li>Other heirs.</li><li>Any creditor, once 45 days have passed since the death.</li></ol><p>People with equal or higher priority can sign a renunciation so another family member can take the role. Anyone with priority can also nominate a qualified person. Family disagreements tend to surface here, and one heir who won't sign can turn an informal case into a formal one with a hearing.</p>"
+   "html": "<p>Any person aged 21 or older who isn't found unsuitable can serve, and Utah ranks who gets first claim on the job. The order in <a href=\"https://le.utah.gov/xcode/Title75/Chapter3/75-3-S203.html\">Utah Code 75-3-203</a> runs like this.</p><ol><li>The person named in a probated will.</li><li>A surviving spouse who is also a devisee.</li><li>Other devisees.</li><li>A surviving spouse who is not a devisee.</li><li>Other heirs.</li><li>Any creditor, once 45 days after the death.</li></ol><p>People with equal or higher priority can sign a renunciation so another family member can take the role. Anyone with priority can also nominate a qualified person. Family disagreements tend to surface here, and one heir who won't sign can turn an informal case into a formal one with a hearing.</p>"
   },
   {
    "h2": "Informal probate step by step",
@@ -53,7 +53,7 @@
   },
   {
    "q": "How soon after a death can I file for informal probate in Utah?",
-   "a": "Five days. An informal case may not be filed until 120 hours have passed since the death, under Utah Code 75-3-307."
+   "a": "Five days. An informal case may not be filed until 120 hours after the death, under Utah Code 75-3-307."
   },
   {
    "q": "How long do I have to start probate in Utah?",
