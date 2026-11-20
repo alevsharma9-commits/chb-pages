@@ -1,0 +1,105 @@
+{
+ "slug": "illinois-foreclosure-process",
+ "sections": [
+  {
+   "h2": "How foreclosure works in Illinois",
+   "html": "<p>Illinois uses judicial foreclosure under Article XV of the Code of Civil Procedure, known as the Illinois Mortgage Foreclosure Law. A lender files a lawsuit, the homeowner is served, the court enters a judgment of foreclosure, a redemption period runs, and a court-supervised sale follows. The court must then confirm the sale before a deed passes. Every stage gives the owner a decision point, which is why the timeline matters to anyone thinking about selling.</p><p>Owners often miss the protections built into the law. A homeowner may reinstate the mortgage, redeem after judgment, object to the court's jurisdiction, or work out a deed in lieu or a consent foreclosure. Selling the house before the judicial sale is another route, because the sale proceeds can pay off the mortgage. The main stages are:</p><ul><li>Complaint filed and the owner served with summons.</li><li>Reinstatement window of 90 days from service.</li><li>Judgment of foreclosure.</li><li>Redemption period, usually the later of two measures described below.</li><li>Judicial sale, then court confirmation and a deed.</li></ul>"
+  },
+  {
+   "h2": "Reinstating the mortgage",
+   "html": "<p>An owner can reinstate, but only for a limited time. Section 15-1602 lets a mortgagor reinstate by curing all existing defaults, apart from the part of the principal that would not have been due without acceleration, and by paying the costs and expenses the mortgage requires for those defaults. The cure has to happen before 90 days have gone by from the date every mortgagor was served with summons or by publication, or otherwise submitted to the court's jurisdiction. For service by publication, the first date of publication starts the count.</p><p>On reinstatement the foreclosure is dismissed and the mortgage documents continue as if there had been no acceleration. One use does not exhaust the right, but where the court makes an express written finding that the owner reinstated, the same relief is unavailable under that mortgage for five years from the dismissal. The court may enter a judgment before the 90 days expire, subject to the owner's continuing right to reinstate.</p>"
+  },
+  {
+   "h2": "The redemption period after judgment",
+   "html": "<p>For a mortgage on residential real estate, section 15-1603 ends redemption on the later of two dates: 7 months from the date all mortgagors were served or submitted to the court, or 3 months from entry of the judgment of foreclosure. For other property the first measure is 6 months. Public Act 104-417, effective August 15, 2025, amended the statute.</p><table><caption>Redemption period rules in 735 ILCS 5/15-1603(b)</caption><thead><tr><th>Situation</th><th>Redemption period ends</th></tr></thead><tbody><tr><td>Residential real estate when the case began</td><td>Later of 7 months after service or 3 months after judgment</td></tr><tr><td>All other foreclosures</td><td>Later of 6 months after service or 3 months after judgment</td></tr><tr><td>Value under 90% of the redemption amount, and lender waives deficiency</td><td>Later of the end of any reinstatement period or 60 days after judgment</td></tr><tr><td>Court finds the property abandoned</td><td>30 days after judgment</td></tr></tbody></table><p>Once the period expires it is never revived. It runs on its own clock, and the filing of another case or a stay of the sale does not toll it. A court that does stay the period extends it by the days left or by 30 days after the stay ends, whichever is later.</p>"
+  },
+  {
+   "h2": "What it takes to redeem the property",
+   "html": "<p>Only an owner of redemption can redeem, and only during the period and if the right was not validly waived. The amount is the judgment figure, which covers principal and accrued interest due on the judgment date, costs the law allows, court-approved expenses and attorney fees where the mortgage provides for them, sums advanced under section 15-1505, and per diem interest from judgment to redemption at the mortgage rate as if no default had occurred. Expenses the lender reasonably incurs after judgment are added once certified.</p><p>The owner must give written notice of intent to redeem to the lender's attorney of record, naming the redemption date and a current address, and file a certification of that notice with the clerk. The attorney must receive it at least 15 days before the date, not counting Saturdays, Sundays or court holidays. The lender then has to file a certification of expenses and give notice at least 3 such days before the date. If the lender refuses payment or the owner objects to the extra expenses, the owner pays the certified amount to the clerk with a written statement of the objection, and the court holds a hearing on the disputed funds.</p><p>When redemption is paid, the lender must promptly provide a release of the mortgage or a satisfaction of the judgment. If nobody redeems, the property is sold.</p>"
+  },
+  {
+   "h2": "How the foreclosure sale is held and confirmed",
+   "html": "<p>After the reinstatement and redemption periods expire, section 15-1507 calls for a sale on the terms set in the judgment, conducted by a judge, sheriff or other designated person. The lender may ask that the sale take place in person, online, or both. Public notice runs in a newspaper for 3 consecutive calendar weeks, with the first notice no more than 45 days before the sale and the last at least 7 days before it. Parties who have appeared also receive notice within that same 45 to 7 day span.</p><p>The buyer gets a receipt, and once the bid is paid in full a recordable certificate of sale that stays subject to court confirmation. Under 15-1508, the court enters an order confirming the sale. In residential cases the owner receives a mailed notice with boldface language about the right to remain in possession for 30 days after an order of possession. If the sale price falls short of the debt, the order may include a personal judgment for a deficiency where it was requested and the borrower was personally served or appeared. After confirmation and payment, the court executes a deed under 15-1509.</p>"
+  },
+  {
+   "h2": "Who can stay in the house during foreclosure?",
+   "html": "<p>Before judgment, section 15-1701 gives the owner of residential real estate the right to possession unless the lender objects, shows good cause, is authorized by the mortgage, and persuades the court that it will probably win. From the judgment through the 30th day after the sale is confirmed, the owner may be required to pay monthly the lesser of the contract interest or the fair rental value to stay between the end of redemption and that 30th day.</p><p>After 30 days from the confirmation order, the purchaser is entitled to possession against the parties whose interests were terminated. Tenants get gentler treatment. A bona fide lease of a dwelling unit cannot be ended by the new owner except through Article IX, and leases are not terminated automatically when a lender takes possession. A supplemental eviction petition against an occupant not named in the case may be filed up to 90 days after the confirmation order, with a hearing no sooner than 21 days after service, and a tenant who is current on rent may keep possession for up to 120 days or the lease term, whichever is shorter.</p>"
+  },
+  {
+   "h2": "Options besides waiting for a sale",
+   "html": "<p>An owner has several, and some are faster than a full case.</p><ul><li><strong>Deed in lieu.</strong> Under 15-1401, a lender may accept a deed in lieu of foreclosure, which relieves everyone who owes the secured debt, including guarantors, of personal liability unless they agree otherwise in a contemporaneous document. Merely tendering or recording a deed does not count as acceptance.</li><li><strong>Consent foreclosure.</strong> Section 15-1402 lets the court vest title in the lender when it waives any deficiency and every mortgagor consents, and the judgment bars a deficiency claim.</li><li><strong>Jurisdiction objection.</strong> In residential cases a motion to dismiss or quash service on personal jurisdiction is due 60 days after the owner files an appearance or takes part in a hearing, unless the court extends the time (15-1505.6). Filing another pleading first waives the objection.</li><li><strong>Sell the house.</strong> A buyer who closes before the judicial sale can pay the lender from proceeds. Ask the lender for a written payoff figure and give the title company the case number.</li></ul>"
+  },
+  {
+   "h2": "Free help for Cook County homeowners in foreclosure",
+   "html": "<p>The Circuit Court of Cook County runs a Mortgage Foreclosure Mediation Program through its Chancery Division. Homeowners who have received a court summons can get housing counseling and legal assistance at no charge, and the first step is a free meeting with a housing counselor arranged through the program's toll-free helpline at (855) 452-2637. Homeowners who worry about their mortgage but have no summons can call Cook County Legal Aid for Housing and Debt at (855) 956-5763. Details are on the <a href='https://cookcountycourt.org/division/chancery-division/chancery-division-mediation'>Chancery Division mediation page</a>. Outside Cook County, ask the circuit clerk whether the local court offers a similar program.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "How long does an Illinois homeowner have to reinstate a mortgage?",
+   "a": "Until 90 days after every mortgagor was served with summons, or otherwise submitted to the court. For service by publication, the first publication date starts the count. The owner cures the defaults and pays the required costs and expenses, and the case is then dismissed."
+  },
+  {
+   "q": "Does an Illinois owner keep the right to redeem after the sale?",
+   "a": "No. The redemption period ends before the judicial sale, and once it expires the right is not revived. The owner has to pay the judgment amount and give written notice of intent to redeem at least 15 days ahead, not counting weekends and court holidays."
+  },
+  {
+   "q": "Can a lender collect a deficiency after a foreclosure sale in Illinois?",
+   "a": "In some cases. The order confirming the sale may include a personal judgment for the shortfall when the complaint asked for it and the borrower was personally served or appeared. A consent foreclosure bars it."
+  },
+  {
+   "q": "What happens to a tenant when an Illinois house is foreclosed?",
+   "a": "A bona fide lease of a dwelling unit survives the sale and can be ended only through Article IX, with at least 90 days of written notice. A tenant who is current on rent may keep possession for up to 120 days after notice of a supplemental eviction hearing, or for the lease term if shorter."
+  },
+  {
+   "q": "Can I sell my house while the foreclosure case is open?",
+   "a": "Yes. A sale that closes before the court-supervised sale can pay the lender from the proceeds. Ask the lender for a payoff statement, tell the title company about the case, and have an attorney confirm what must be filed to end the lawsuit."
+  }
+ ],
+ "sources": [
+  {
+   "title": "735 ILCS 5/15-1602 Reinstatement",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1602"
+  },
+  {
+   "title": "735 ILCS 5/15-1603 Redemption",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1603"
+  },
+  {
+   "title": "735 ILCS 5/15-1507 Judicial sale",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1507"
+  },
+  {
+   "title": "735 ILCS 5/15-1508 Report of sale and confirmation",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1508"
+  },
+  {
+   "title": "735 ILCS 5/15-1509 Transfer of title",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1509"
+  },
+  {
+   "title": "735 ILCS 5/15-1701 Right to possession",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1701"
+  },
+  {
+   "title": "735 ILCS 5/15-1401 Deed in lieu of foreclosure",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1401"
+  },
+  {
+   "title": "735 ILCS 5/15-1402 Consent foreclosure",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1402"
+  },
+  {
+   "title": "735 ILCS 5/15-1505.6 Objection to jurisdiction over the person",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K15-1505.6"
+  },
+  {
+   "title": "735 ILCS 5/9-207.5 Leases in residential real estate in foreclosure",
+   "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K9-207.5"
+  },
+  {
+   "title": "Circuit Court of Cook County, Chancery Division Mediation",
+   "url": "https://cookcountycourt.org/division/chancery-division/chancery-division-mediation"
+  }
+ ]
+}

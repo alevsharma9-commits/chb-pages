@@ -1,21 +1,77 @@
-{"slug": "illinois-estate-tax", "sections": [
-{"h2": "Does Illinois charge an estate tax or an inheritance tax?", "html": "<p>Illinois charges an estate tax, paid by the estate before assets reach the heirs. It does not tax what each heir receives. The Attorney General's estate tax page mentions an Illinois inheritance tax only in one context: a release may be needed when the decedent died before January 1, 1983. For deaths since then, the question is whether the estate itself crosses the Illinois threshold.</p>\n<p>The tax is governed by the Illinois Estate and Generation-Skipping Transfer Tax Act, 35 ILCS 405. The Attorney General administers it, takes the returns, and publishes a new set of forms and instructions for each year of death. The current listing on the Attorney General's site covers decedents who died from 2023 through 2026.</p>"},
-{"h2": "What is the Illinois estate tax threshold?", "html": "<p>The Illinois exclusion amount is $4,000,000. Section 2 of the Act sets that figure for persons dying on or after January 1, 2013, after lower amounts of $2,000,000 for deaths before 2012 and $3,500,000 for deaths in 2012. The Attorney General's instruction sheet stresses that the exclusion operates as a taxable threshold and not as a credit against tax.</p>\n<p>When the gross value of an estate, after adding adjusted taxable gifts, exceeds $4,000,000, an Illinois Form 700 must be filed. That requirement applies whether or not a federal return is due. For 2023 deaths the instruction sheet gives the federal exemption as $12,920,000, so an estate can owe Illinois tax while owing nothing federally.</p>\n<ul>\n<li>Form 700 is the Illinois Estate and Generation-Skipping Transfer Tax Return.</li>\n<li>It is filed with a federal Form 706 and its schedules, or with the same information in an alternate format if the estate is not federally taxable.</li>\n<li>Wills, trusts, appraisals and attachments go in with the return.</li>\n<li>For 2023 decedents the tax uses an interrelated calculation, and the Attorney General's online calculator takes the amounts from Lines 3 and 5 of Schedule A or B.</li>\n</ul>"},
-{"h2": "How does the Illinois estate tax behave near the threshold?", "html": "<p>Because the $4,000,000 line is a threshold and not a credit, the tax can rise quickly just above it. The Attorney General's 2023 sheet prints worked results for several estates. They are examples for 2023 decedents, and the sheet should be consulted for the year of death in question.</p>\n<table>\n<caption>Illinois estate tax examples printed by the Attorney General for 2023 decedents (source: Instruction Sheet 2023)</caption>\n<thead><tr><th>Estate described by the Attorney General</th><th>Illinois estate tax shown</th></tr></thead>\n<tbody>\n<tr><td>$4,000,000, all Illinois property</td><td>$0</td></tr>\n<tr><td>$3,000,100 plus $1,000,000 adjusted taxable gifts</td><td>$28</td></tr>\n<tr><td>$5,000,000, all Illinois property</td><td>$285,714</td></tr>\n<tr><td>$5,000,000 with 50% in Illinois and 50% in Florida</td><td>$142,857</td></tr>\n</tbody>\n</table>\n<p>The sheet notes that Florida imposes no state estate tax, so the Illinois share still applies in the last row. For a decedent who lived outside Illinois, a preliminary tax is figured as if all assets were in Illinois, then multiplied by the ratio of Illinois assets to total assets. A house in Illinois therefore sits in the Illinois share of an out-of-state owner's estate.</p>"},
-{"h2": "When is the Illinois estate tax due, and where is it filed?", "html": "<p>The tax is due nine months after the date of death. Extensions are available on application to the Attorney General, and the Attorney General also recognizes federal extensions. An application for an Attorney General extension goes in on Form 700-EXT, or as a written explanation of why on-time filing or payment is impossible or impractical, and it should be filed within nine months of death.</p>\n<ul>\n<li>Payment of tax, interest and penalties goes directly to the Illinois State Treasurer, using the Treasurer's estate tax payment form. It does not go to a county.</li>\n<li>Original returns for Cook, DuPage, Lake and McHenry counties, with a copy of the federal return, go to the Estate Tax Section at the Attorney General's Chicago office. All other counties file with the Springfield office at 500 South Second Street.</li>\n<li>Questions can go to the Estate Tax Section: (312) 814-2491 in Chicago or (217) 524-5095 in Springfield.</li>\n<li>If federal tax is paid in installments, the Illinois tax may be paid in installments too, using the worksheet on Form 4350a.</li>\n</ul>\n<p>Form 700 also has a box to request a Certificate of Discharge, which an executor or heir may want to ask about before relying on the estate being closed out.</p>"},
-{"h2": "What do marital deductions and civil unions mean for Illinois estate tax?", "html": "<p>For deaths on or after January 1, 2009, an estate can make an Illinois-only QTIP election on a timely filed Illinois return, separate from any federal election. The Attorney General's 2023 sheet gives an example in which a $12,920,000 estate with an Illinois QTIP election of $8,920,000 owes no Illinois tax. The election requires the surviving spouse's Social Security number and a list of the QTIP property.</p>\n<p>Illinois treats civil union partners the same as spouses for the Illinois marital deduction, under 86 Ill. Adm. Code 2000.200. The same sheet warns that the unused federal exemption of a deceased spouse does not carry over for the Illinois computation, so portability does not help here.</p>"},
-{"h2": "Does the small estate affidavit let heirs sell an Illinois house?", "html": "<p>No. The small estate affidavit in 755 ILCS 5/25-1 transfers personal property such as bank accounts, safe deposit contents and evidence of interest, not real estate. It may be used only when no letters of office are outstanding and no petition for letters is contemplated or pending anywhere, and the decedent's personal property is limited to $150,000, not counting motor vehicles registered with the Secretary of State.</p>\n<p>A house therefore normally needs another route, which depends on how title was held and whether the estate goes through probate. The circuit clerk in the county where the decedent lived can explain what forms exist, and an estate attorney can say whether Form 700 and a Certificate of Discharge belong in the file before a sale is scheduled.</p>"},
-{"h2": "What should heirs do about an inherited Illinois house?", "html": "<p>Start by adding up what the decedent owned, including the house, accounts and any adjusted taxable gifts made during life, and compare the total with $4,000,000. If the estate is under that line, no Illinois return is required, though the county where the house sits still bills property tax each year. If it is over, calendar nine months from the date of death and contact the Estate Tax Section early.</p>\n<ul>\n<li>Keep the death date and the appraisal handy, because Form 700 and the instruction sheet both turn on values.</li>\n<li>Ask the county treasurer for the open property tax balance on the inherited parcel, and ask the county assessor about any exemption the decedent held.</li>\n<li>Heirs who do not want to carry repairs, taxes and utilities on the house sometimes sell it as is to a cash buyer. The sale terms should deal with any open tax balance in writing.</li>\n</ul>"}
-], "faqs": [
-{"q": "Is there an Illinois inheritance tax?", "a": "No current inheritance tax appears on the Attorney General's estate tax page. The only inheritance tax reference there concerns releases that may be needed when the decedent died before January 1, 1983. Illinois does charge an estate tax on larger estates."},
-{"q": "How much must an estate be worth before Illinois estate tax applies?", "a": "The exclusion amount is $4,000,000. If the estate's gross value plus adjusted taxable gifts exceeds that figure, Form 700 must be filed. The exclusion is a taxable threshold, not a credit."},
-{"q": "When is Illinois estate tax due?", "a": "It is due nine months after the date of death. Extensions come from the Attorney General on Form 700-EXT or a written explanation filed within nine months, and federal extensions are recognized. Payment goes to the Illinois State Treasurer."},
-{"q": "Who do I contact with Illinois estate tax questions?", "a": "The Estate Tax Section of the Illinois Attorney General's office. The Chicago number is (312) 814-2491 and the Springfield number is (217) 524-5095. The office posts forms for each year of death on its website."},
-{"q": "Can I use a small estate affidavit to transfer a house in Illinois?", "a": "No. The affidavit under 755 ILCS 5/25-1 transfers personal property up to $150,000, excluding registered motor vehicles, and only when no letters of office are outstanding. Real estate needs a different process, so check with the circuit clerk or an estate attorney."}
-], "sources": [
-{"title": "Illinois Attorney General, Estate Taxes", "url": "https://illinoisattorneygeneral.gov/estate-taxes/"},
-{"title": "Illinois Attorney General, Estate Tax Instruction Sheet 2023", "url": "https://illinoisattorneygeneral.gov/Page-Attachments/InstructionSheet2023.pdf"},
-{"title": "Illinois Attorney General, Form 700", "url": "https://illinoisattorneygeneral.gov/Page-Attachments/form700.pdf"},
-{"title": "35 ILCS 405/2, Illinois Estate and Generation-Skipping Transfer Tax Act", "url": "https://www.ilga.gov/documents/legislation/ilcs/documents/003504050K2.htm"},
-{"title": "755 ILCS 5/25-1, Small estate affidavit", "url": "https://www.ilga.gov/documents/legislation/ilcs/documents/075500050K25-1.htm"}
-]}
+{
+ "slug": "illinois-estate-tax",
+ "sections": [
+  {
+   "h2": "Estate tax or inheritance tax in Illinois",
+   "html": "<p>Illinois charges an estate tax, paid by the estate before assets reach the heirs. It does not tax what each heir receives. The only place an Illinois inheritance tax still comes up is a release that may be needed when the decedent died before January 1, 1983. For deaths since then, the question is whether the estate itself crosses the Illinois threshold.</p>\n<p>The tax is governed by the Illinois Estate and Generation-Skipping Transfer Tax Act, 35 ILCS 405. The Attorney General administers it, takes the returns, and publishes a new set of forms and instructions for each year of death.</p>"
+  },
+  {
+   "h2": "The Illinois estate tax threshold",
+   "html": "<p>The Illinois exclusion amount is $4,000,000. Section 2 of the Act sets that figure for persons dying on or after January 1, 2013, after lower amounts of $2,000,000 for deaths before 2012 and $3,500,000 for deaths in 2012. The exclusion works as a taxable threshold and not as a credit against tax.</p>\n<p>When the gross value of an estate, after adding adjusted taxable gifts, exceeds $4,000,000, an Illinois Form 700 must be filed. That requirement applies whether or not a federal return is due. For 2023 deaths the federal exemption is $12,920,000, so an estate can owe Illinois tax while owing nothing federally.</p>\n<ul>\n<li>Form 700 is the Illinois Estate and Generation-Skipping Transfer Tax Return.</li>\n<li>It is filed with a federal Form 706 and its schedules, or with the same information in an alternate format if the estate is not federally taxable.</li>\n<li>Wills, trusts, appraisals and attachments go in with the return.</li>\n<li>For 2023 decedents the tax uses an interrelated calculation, and the Attorney General's online calculator takes the amounts from Lines 3 and 5 of Schedule A or B.</li>\n</ul>"
+  },
+  {
+   "h2": "How the tax behaves near the threshold",
+   "html": "<p>Because the $4,000,000 line is a threshold and not a credit, the tax can climb fast just above it. The examples below are for 2023 decedents. Check the instructions for the actual year of death.</p>\n<table>\n<caption>Illinois estate tax examples for 2023 decedents</caption>\n<thead><tr><th>Estate described</th><th>Illinois estate tax</th></tr></thead>\n<tbody>\n<tr><td>$4,000,000, all Illinois property</td><td>$0</td></tr>\n<tr><td>$3,000,100 plus $1,000,000 adjusted taxable gifts</td><td>$28</td></tr>\n<tr><td>$5,000,000, all Illinois property</td><td>$285,714</td></tr>\n<tr><td>$5,000,000 with 50% in Illinois and 50% in Florida</td><td>$142,857</td></tr>\n</tbody>\n</table>\n<p>Florida imposes no state estate tax, so the Illinois share still applies in the last row. For a decedent who lived outside Illinois, a preliminary tax is figured as if all assets were in Illinois, then multiplied by the ratio of Illinois assets to total assets. A house in Illinois therefore sits in the Illinois share of an out-of-state owner's estate.</p>"
+  },
+  {
+   "h2": "Due date and where to file",
+   "html": "<p>The tax is due nine months after the date of death. Extensions are available on application to the Attorney General, and federal extensions are recognized too. An Attorney General extension is requested on Form 700-EXT, or with a written explanation of why on-time filing or payment is impossible or impractical, and it should be filed within nine months of death.</p>\n<ul>\n<li>Payment of tax, interest and penalties goes directly to the Illinois State Treasurer, using the Treasurer's estate tax payment form. It does not go to a county.</li>\n<li>Original returns for Cook, DuPage, Lake and McHenry counties, with a copy of the federal return, go to the Estate Tax Section at the Attorney General's Chicago office. All other counties file with the Springfield office at 500 South Second Street.</li>\n<li>Questions can go to the Estate Tax Section: (312) 814-2491 in Chicago or (217) 524-5095 in Springfield.</li>\n<li>If federal tax is paid in installments, the Illinois tax may be paid in installments too, using the worksheet on Form 4350a.</li>\n</ul>\n<p>Form 700 also has a box to request a Certificate of Discharge. An executor or heir may want to ask about one before treating the estate as closed out.</p>"
+  },
+  {
+   "h2": "Marital deductions and civil unions",
+   "html": "<p>For deaths on or after January 1, 2009, an estate can make an Illinois-only QTIP election on a timely filed Illinois return, separate from any federal election. In the 2023 example, a $12,920,000 estate with an Illinois QTIP election of $8,920,000 owes no Illinois tax. The election requires the surviving spouse's Social Security number and a list of the QTIP property.</p>\n<p>Illinois treats civil union partners the same as spouses for the Illinois marital deduction, under 86 Ill. Adm. Code 2000.200. A deceased spouse's unused federal exemption does not carry over for the Illinois computation, so portability does not help here.</p>"
+  },
+  {
+   "h2": "Does the small estate affidavit let heirs sell an Illinois house?",
+   "html": "<p>No. The small estate affidavit in 755 ILCS 5/25-1 transfers personal property such as bank accounts, safe deposit contents and evidence of interest, not real estate. It may be used only when no letters of office are outstanding and no petition for letters is contemplated or pending anywhere, and the decedent's personal property is limited to $150,000, not counting motor vehicles registered with the Secretary of State.</p>\n<p>A house normally needs another route, which depends on how title was held and whether the estate goes through probate. The circuit clerk in the county where the decedent lived can explain what forms exist, and an estate attorney can say whether Form 700 and a Certificate of Discharge belong in the file before a sale is scheduled.</p>"
+  },
+  {
+   "h2": "What heirs should do about an inherited Illinois house",
+   "html": "<p>Start by adding up what the decedent owned, including the house, accounts and any adjusted taxable gifts made during life, and compare the total with $4,000,000. If the estate is under that line, no Illinois return is required, though the county where the house sits still bills property tax each year. If it is over, mark nine months from the date of death on the calendar and contact the Estate Tax Section early.</p>\n<ul>\n<li>Keep the death date and the appraisal handy, because Form 700 and its instructions both turn on values.</li>\n<li>Ask the county treasurer for the open property tax balance on the inherited parcel, and ask the county assessor about any exemption the decedent held.</li>\n<li>Heirs who do not want to carry repairs, taxes and utilities on the house sometimes sell it as is to a cash buyer. The sale terms should deal with any open tax balance in writing.</li>\n</ul>\n<p>When you call the Estate Tax Section or an attorney, have the death certificate, the deed, the latest property tax bill and any appraisal in front of you.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Is there an Illinois inheritance tax?",
+   "a": "No. Illinois charges an estate tax on larger estates instead. The only inheritance tax reference is a release that may be needed when the decedent died before January 1, 1983."
+  },
+  {
+   "q": "How much must an estate be worth before Illinois estate tax applies?",
+   "a": "The exclusion amount is $4,000,000. If the estate's gross value plus adjusted taxable gifts exceeds that figure, Form 700 must be filed. The exclusion is a taxable threshold, not a credit."
+  },
+  {
+   "q": "When is Illinois estate tax due?",
+   "a": "Nine months after the date of death. Extensions come from the Attorney General on Form 700-EXT or a written explanation filed within nine months, and federal extensions are recognized. Payment goes to the Illinois State Treasurer."
+  },
+  {
+   "q": "Who do I contact with Illinois estate tax questions?",
+   "a": "The Estate Tax Section of the Illinois Attorney General's office. The Chicago number is (312) 814-2491 and the Springfield number is (217) 524-5095."
+  },
+  {
+   "q": "Can I use a small estate affidavit to transfer a house in Illinois?",
+   "a": "No. The affidavit under 755 ILCS 5/25-1 transfers personal property up to $150,000, excluding registered motor vehicles, and only when no letters of office are outstanding. Real estate needs a different process, so check with the circuit clerk or an estate attorney."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Illinois Attorney General, Estate Taxes",
+   "url": "https://illinoisattorneygeneral.gov/estate-taxes/"
+  },
+  {
+   "title": "Illinois Attorney General, Estate Tax Instruction Sheet 2023",
+   "url": "https://illinoisattorneygeneral.gov/Page-Attachments/InstructionSheet2023.pdf"
+  },
+  {
+   "title": "Illinois Attorney General, Form 700",
+   "url": "https://illinoisattorneygeneral.gov/Page-Attachments/form700.pdf"
+  },
+  {
+   "title": "35 ILCS 405/2, Illinois Estate and Generation-Skipping Transfer Tax Act",
+   "url": "https://www.ilga.gov/documents/legislation/ilcs/documents/003504050K2.htm"
+  },
+  {
+   "title": "755 ILCS 5/25-1, Small estate affidavit",
+   "url": "https://www.ilga.gov/documents/legislation/ilcs/documents/075500050K25-1.htm"
+  }
+ ]
+}
