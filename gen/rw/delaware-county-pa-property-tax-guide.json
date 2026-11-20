@@ -1,64 +1,85 @@
 {
-  "slug": "delaware-county-pa-property-tax-guide",
-  "sections": [
-    {
-      "h2": "Who handles property tax in Delaware County, Pennsylvania?",
-      "html": "<p>Most of it happens in the Government Center at 201 West Front Street in Media. The Treasurer's self tax collection office on the ground floor takes current year county tax, the Tax Claim Bureau, also on the ground floor, collects back taxes, and the Board of Assessment Appeals hears challenges to assessed value. Treasurer hours are 8:30 a.m. to 4:30 p.m. on weekdays at 610-891-4278.</p><p>The county says it has about 200,000 billable properties, and 35% of county tax is paid through mortgage companies and banks. The other 65% is mailed in by owners.</p><p>Every parcel has an 11 digit number. The county's own example, 34-00-05432-01, begins with 34 for the township or borough, in that case Nether Providence. Keep that number handy for any call about a bill.</p>"
-    },
-    {
-      "h2": "When are Delaware County property taxes due?",
-      "html": "<p>County bills are mailed February 1 for the calendar year, and the payment window opens with a 2% discount. The discount ends April 1, face amount is due through June 1, and a 10% penalty applies from then until the end of the year.</p><table><caption>Delaware County current year tax calendar</caption><thead><tr><th>Period</th><th>What applies</th></tr></thead><tbody><tr><td>February 1</td><td>Bills mailed</td></tr><tr><td>Through April 1</td><td>2% discount</td></tr><tr><td>April 2 to June 1</td><td>Full amount</td></tr><tr><td>After June 1 to December 31</td><td>10% penalty</td></tr><tr><td>March 1 of the next year</td><td>Unpaid balance goes to the Tax Claim Bureau</td></tr></tbody></table><p>Source: the Delaware County Treasurer's current year taxes page. The amount due at face is the assessment multiplied by the county millage rate.</p><p>Duplicate bills cost $2.00 per parcel. A paid or unpaid certification for county tax, covering the current year and a three year look back, costs $25.00 and takes a stamped envelope and a check.</p>"
-    },
-    {
-      "h2": "How do I appeal a Delaware County assessment?",
-      "html": "<p>Annual appeals are due August 1 of the year before the year being appealed. The Board of Assessment Appeals must receive them by hand or have them postmarked by that day, and fax or email filings are not accepted. The Board is at the Government Center, 201 West Front Street, Media, PA 19063.</p><ul><li>An interim appeal, after a change in assessment, is due within 40 days of the date on the notice.</li><li>Exemption appeals share the August 1 date.</li><li>A county processing fee applies to annual appeals: $50 for residential and $100 for commercial or exemption appeals. Interim and reassessment appeals carry no fee.</li><li>Each parcel needs its own form with an original signature from the owner or a Pennsylvania attorney.</li></ul><p>The burden of proof is on the appellant, and the assessment is presumed correct. The Board suggests an appraisal from a licensed Pennsylvania appraiser or proof of a recent sale within a year of the valuation date. Broker price opinions and market analyses are not accepted.</p><p>Only the owner or a Pennsylvania attorney can present at the hearing, and an LLC needs an attorney. Skipping the hearing means the appeal is dismissed as abandoned. Notice arrives at least 20 days beforehand.</p>"
-    },
-    {
-      "h2": "What happens to unpaid Delaware County taxes?",
-      "html": "<p>On March 1 the Tax Claim Bureau starts collecting prior year taxes for the county, the school district and the municipality. Interest runs at 0.75% per month, and a $64 service fee is added, along with costs for notices and documentation before any sale.</p><p>Payment is by certified check or money order made out to Tax Claim Bureau. In person, the office also accepts cash and Visa, MasterCard or Discover, with a 3% convenience fee on cards. Payment plans may be offered to qualified owners, and the number for the Bureau is 610-891-4282. Have the 11 digit parcel number ready for any payoff request.</p><p>Properties are auctioned each year in the Upset Price Sale. Unsold ones go to a Judicial Sale, held free and clear of liens with court permission, and anything left over lands on a Repository List. The 2026 Upset Price Sale was set for December 10 at 10 a.m., with bidder registration on November 16 and 17, limited to the first 120 bidders. The coordinator can be reached at 610-891-8294.</p>"
-    },
-    {
-      "h2": "Is there help for older or low income homeowners in Delaware County?",
-      "html": "<p>The county adopted a Real Estate Tax Deferral Program in January 2026 under Act 301 of 1999, effective January 1, 2026. It lets an eligible owner postpone the part of the county bill that comes from millage increases.</p><ul><li>Household income cannot exceed $48,110, with half of Social Security, SSI and Railroad Retirement Tier 1 excluded from the count.</li><li>The home must be a house the owner has lived in as a primary residence for the past twelve months, held by a natural person.</li><li>No delinquent tax can be owed, and the prior year's bill must be paid before December 31.</li><li>Deferred tax plus other liens and mortgage principal cannot pass 85% of market value, and the mortgage alone cannot pass 70%.</li></ul><p>Applications are received from January 1 to October 31 by the Treasurer's office, with proof of income, fire insurance and loan balances. The phone is 610-891-4273.</p><p>Deferral is a lien, not forgiveness. The deferred amount comes due when the home is sold, when title passes by will or law, or at the owner's death. A surviving co-owner who stays in the home is not forced to pay.</p>"
-    },
-    {
-      "h2": "What should someone selling in Delaware County know?",
-      "html": "<p>Deferred tax has to be paid before the house is conveyed, so a seller in the deferral program should ask the Treasurer for the balance well before closing. Market value under that program is the assessed value divided by the State Tax Equalization Board's common level ratio for the county.</p><p>The Recorder of Deeds posted a ratio of 1.83 on June 22, 2026, to be used for documents dated July 1, 2026 or later. The same office handles recording in Room 108 of the Government Center, and its records go back to 1789, the year the county was founded.</p><p>Chester City stopped requiring its separate property registration form and $10 fee on September 1, 2023. All Chester City properties are subject to a 1.5% transfer tax.</p><p>Request a tax certification from the Treasurer or Tax Claim Bureau before listing. The $25 fee covers county, school and municipal delinquent tax.</p>"
-    },
-    {
-      "h2": "What does the Delaware County housing picture look like?",
-      "html": "<p>The Census Bureau counts 580,937 residents in the July 2025 estimate on just 183.82 square miles, or 3,138 people per square mile, which makes it the densest of the three counties on its comparison table. QuickFacts lists 230,160 housing units, with 69.6% owner occupied.</p><p>The median owner occupied home is worth $332,200, median gross rent is $1,372 and median household income is $89,546. The mean commute is 28.1 minutes, the longest of the three counties, and the county recorded 217 building permits in 2025.</p>"
-    }
-  ],
-  "faqs": [
-    {
-      "q": "When is the Delaware County assessment appeal deadline?",
-      "a": "August 1 of the year before the year being appealed. Appeals must be hand delivered or postmarked by that date, with an original signature and a $50 residential fee. Fax and email are not accepted."
-    },
-    {
-      "q": "Does Delaware County give a discount for paying early?",
-      "a": "Yes, 2% off if the county bill is paid by April 1, with bills mailed February 1. The face amount is due from April 2 through June 1, and a 10% penalty applies after that until December 31."
-    },
-    {
-      "q": "What interest does the Tax Claim Bureau charge?",
-      "a": "Interest is 0.75% per month on prior year taxes, plus a $64 service fee. Collection of prior year taxes begins March 1. Other costs for notices and documents can be added before any property sale."
-    },
-    {
-      "q": "Can I defer my Delaware County property tax?",
-      "a": "Possibly. The 2026 deferral program covers increases in county tax for owners with household income up to $48,110 who live in the home. The deferred amount is due when the home sells or changes title."
-    },
-    {
-      "q": "How do I prove my taxes were paid?",
-      "a": "Bring documentation to the taxing authority, usually copies of both sides of the cancelled checks or an official receipted bill. Only a municipality or school district can strike a lien through an exoneration letter to the Bureau."
-    }
-  ],
-  "sources": [
-    {"title": "Delaware County Treasurer, Current Year Taxes", "url": "http://delcopa.gov/treasurer/currenttaxyear"},
-    {"title": "Delaware County Tax Claim Bureau", "url": "http://delcopa.gov/treasurer/backyeartaxes"},
-    {"title": "Delaware County Upset Sales", "url": "http://delcopa.gov/treasurer/upsetsales"},
-    {"title": "Delaware County Board of Assessment Rules and Regulations", "url": "https://delcopa.gov/sites/default/files/2026-03/BoARulesAndRegs.pdf"},
-    {"title": "Delaware County 2026 Real Estate Tax Deferral Program Application", "url": "https://delcopa.gov/sites/default/files/2026-07/DelawareCountyRETDeferralProgram2026Application.pdf"},
-    {"title": "Delaware County Recorder of Deeds", "url": "http://www.delcopa.gov/recorder-deeds"},
-    {"title": "U.S. Census Bureau QuickFacts, Cumberland, Dauphin and Delaware Counties, PA", "url": "https://www.census.gov/quickfacts/fact/table/cumberlandcountypennsylvania,dauphincountypennsylvania,delawarecountypennsylvania/PST045224"}
-  ]
+ "slug": "delaware-county-pa-property-tax-guide",
+ "sections": [
+  {
+   "h2": "Offices that handle property tax",
+   "html": "<p>Most of the work happens at the Government Center, 201 West Front Street, Media. On the ground floor, the Treasurer's self tax collection office takes current year county tax and the Tax Claim Bureau collects back taxes. The Board of Assessment Appeals hears challenges to assessed value. Treasurer hours are 8:30 a.m. to 4:30 p.m. on weekdays, at 610-891-4278.</p>\n<p>The county has about 200,000 billable properties. Mortgage companies and banks pay 35% of county tax, and owners mail in the other 65%.</p>\n<p>Each parcel has an 11 digit number. In the county's own example, 34-00-05432-01, the first two digits identify the township or borough, here Nether Providence. Keep your number handy for any call about a bill.</p>"
+  },
+  {
+   "h2": "Due dates and discounts",
+   "html": "<p>County bills go out February 1 for the calendar year, with a 2% discount available at the start. The discount ends April 1, the face amount is due through June 1, and a 10% penalty applies from then to the end of the year.</p>\n<table><caption>Delaware County current year tax calendar</caption><thead><tr><th>Payment period</th><th>What applies</th></tr></thead><tbody><tr><td>February 1</td><td>Bills mailed</td></tr><tr><td>Through April 1</td><td>2% discount</td></tr><tr><td>April 2 to June 1</td><td>Full amount</td></tr><tr><td>After June 1 to December 31</td><td>10% penalty</td></tr><tr><td>March 1 of the next year</td><td>Unpaid balance goes to the Tax Claim Bureau</td></tr></tbody></table>\n<p>The face amount is the assessment multiplied by the county millage rate.</p>\n<p>A duplicate bill costs $2.00 per parcel. A paid or unpaid certification for county tax, covering the current year and a three year look back, is $25.00. Send a stamped envelope and a check.</p>"
+  },
+  {
+   "h2": "How to appeal your assessment",
+   "html": "<p>Annual appeals are due August 1 of the year before the year being appealed. The Board of Assessment Appeals must receive them by hand or see a postmark of that day. Fax and email filings are refused. The Board is at the Government Center, 201 West Front Street, Media, PA 19063.</p>\n<ul>\n<li>An interim appeal, after a change in assessment, is due within 40 days of the date on the notice.</li>\n<li>Exemption appeals share the August 1 date.</li>\n<li>Annual appeals carry a county processing fee: $50 for residential and $100 for commercial or exemption appeals. Interim and reassessment appeals have no fee.</li>\n<li>Each parcel needs its own form, signed in original by the owner or a Pennsylvania attorney.</li>\n</ul>\n<p>The appellant carries the burden of proof, and the assessment is presumed correct. The Board suggests an appraisal from a Pennsylvania appraiser or proof of a recent sale within a year of the valuation date. Broker price opinions and market analyses are rejected.</p>\n<p>Only the owner or a Pennsylvania attorney can present at the hearing, and an LLC needs an attorney. Skipping the hearing gets the appeal dismissed as abandoned. Notice arrives at least 20 days beforehand.</p>"
+  },
+  {
+   "h2": "Unpaid taxes and the Tax Claim Bureau",
+   "html": "<p>On March 1 the Tax Claim Bureau begins collecting prior year taxes for the county, the school district and the municipality. Interest accrues at 0.75% per month, and a $64 service fee is added, along with costs for notices and documentation before any sale.</p>\n<p>Pay by certified check or money order made out to Tax Claim Bureau. In person, the office also takes cash and Visa, MasterCard or Discover, with a 3% convenience fee on cards. Qualified owners may be offered a payment plan. The Bureau's number is 610-891-4282, and you will need the 11 digit parcel number for any payoff request.</p>\n<p>Properties go to auction each year in the Upset Price Sale. Unsold ones move to a Judicial Sale, held free and clear of liens with court permission, and what remains lands on a Repository List. The 2026 Upset Price Sale is set for December 10 at 10 a.m., limited to the first 120 bidders. The coordinator's number is 610-891-8294.</p>"
+  },
+  {
+   "h2": "Help for older or low income owners",
+   "html": "<p>The county's Real Estate Tax Deferral Program, under Act 301 of 1999, runs from January 1, 2026. It lets an eligible owner postpone the part of the county bill that comes from millage increases.</p>\n<ul>\n<li>Household income cannot exceed $48,110, with half of Social Security, SSI and Railroad Retirement Tier 1 excluded from the count.</li>\n<li>The home must be one the owner has lived in as a primary residence for the past twelve months, held by a natural person.</li>\n<li>No delinquent tax can be owed, and the prior year's bill must be paid before December 31.</li>\n<li>Deferred tax plus other liens and mortgage principal cannot pass 85% of market value, and the mortgage alone cannot pass 70%.</li>\n</ul>\n<p>The Treasurer's office takes applications from January 1 to October 31, with proof of income, fire insurance and loan balances. Call 610-891-4273.</p>\n<p>Deferral is a lien, not forgiveness. The deferred amount comes due when the home is sold, when title passes by will or law, or at the owner's death. A surviving co-owner who stays in the home is not forced to pay.</p>"
+  },
+  {
+   "h2": "Selling in Delaware County",
+   "html": "<p>Deferred tax has to be paid before the house is conveyed, so a seller in the deferral program should ask the Treasurer for the balance well before closing. Market value under that program is the assessed value divided by the State Tax Equalization Board's common level ratio for the county.</p>\n<p>The Recorder of Deeds posted a ratio of 1.83 for documents dated July 1, 2026 or later. The same office handles recording in Room 108 of the Government Center, and its records go back to 1789, the year the county was founded.</p>\n<p>All Chester City properties are subject to a 1.5% transfer tax.</p>\n<p>Request a tax certification from the Treasurer or Tax Claim Bureau before listing. The $25 fee covers county, school and municipal delinquent tax. If anything is owed, pay it at or before closing so the title company can deliver clear title. A cash buyer will still expect the same certification.</p>"
+  },
+  {
+   "h2": "Delaware County housing",
+   "html": "<p>The estimated population was 580,937 in July 2025, packed into 183.82 square miles. There are 230,160 housing units, and 69.6% are owner-occupied. The median owner-occupied home is worth $332,200, median gross rent is $1,372 and median household income is $89,546. The county recorded 217 building permits in 2025.</p>\n<p>With a county this built up, buyers often compare taxes closely from one municipality and school district to the next, so know your total bill and have a recent copy ready for showings.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "When is the Delaware County assessment appeal deadline?",
+   "a": "August 1 of the year before the year being appealed. Appeals must be hand delivered or postmarked by that date, with an original signature and a $50 residential fee. Fax and email are refused."
+  },
+  {
+   "q": "Does Delaware County give a discount for paying early?",
+   "a": "Yes, 2% off if the county bill is paid by April 1, with bills mailed February 1. The face amount is due from April 2 through June 1, and a 10% penalty applies after that until December 31."
+  },
+  {
+   "q": "What interest does the Tax Claim Bureau charge?",
+   "a": "Interest is 0.75% per month on prior year taxes, plus a $64 service fee. Collection begins March 1. Other costs for notices and documents can be added before any property sale."
+  },
+  {
+   "q": "Can I defer my Delaware County property tax?",
+   "a": "Possibly. The 2026 deferral program covers increases in county tax for owners with household income up to $48,110 who live in the home. The deferred amount is due when the home sells or changes title."
+  },
+  {
+   "q": "How do I prove my taxes were paid?",
+   "a": "Bring copies of both sides of the cancelled checks or an official receipted bill to the taxing authority. Only a municipality or school district can strike a lien through an exoneration letter to the Bureau."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Delaware County Treasurer, Current Year Taxes",
+   "url": "http://delcopa.gov/treasurer/currenttaxyear"
+  },
+  {
+   "title": "Delaware County Tax Claim Bureau",
+   "url": "http://delcopa.gov/treasurer/backyeartaxes"
+  },
+  {
+   "title": "Delaware County Upset Sales",
+   "url": "http://delcopa.gov/treasurer/upsetsales"
+  },
+  {
+   "title": "Delaware County Board of Assessment Rules and Regulations",
+   "url": "https://delcopa.gov/sites/default/files/2026-03/BoARulesAndRegs.pdf"
+  },
+  {
+   "title": "Delaware County 2026 Real Estate Tax Deferral Program Application",
+   "url": "https://delcopa.gov/sites/default/files/2026-07/DelawareCountyRETDeferralProgram2026Application.pdf"
+  },
+  {
+   "title": "Delaware County Recorder of Deeds",
+   "url": "http://www.delcopa.gov/recorder-deeds"
+  },
+  {
+   "title": "U.S. Census Bureau QuickFacts, Cumberland, Dauphin and Delaware Counties, PA",
+   "url": "https://www.census.gov/quickfacts/fact/table/cumberlandcountypennsylvania,dauphincountypennsylvania,delawarecountypennsylvania/PST045224"
+  }
+ ]
 }
