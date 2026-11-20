@@ -11,11 +11,11 @@
   },
   {
    "h2": "Payment schedule and penalties",
-   "html": "<p>Greenwood County lets owners pay real estate tax in advance installments in February, April, June, August and October. Whatever remains is due on or before January 15 of the next year.</p>\n<ul><li>Pay at the counter, by mail, in the lobby drop box, or online through the county's payment vendor.</li><li>Cash, certified checks, money orders and major credit cards are all taken. Cards may carry a convenience fee.</li><li>Delinquent real estate tax cannot be paid with an out-of-state check.</li></ul>\n<p>Late charges come from state law, <a href=\"https://law.justia.com/codes/south-carolina/title-12/chapter-45/section-12-45-180/\">S.C. Code 12-45-180</a>. That means 3 percent after January 15, a further 7 percent on February 2 and a further 5 percent on March 17. Ask the Tax Collector for the figure on your own bill.</p>"
+   "html": "<p>Real estate tax here can be spread out. Advance installments are due in February, April, June, August and October, with the balance owed by January 15 of the following year.</p>\n<ul><li>Options for paying: the counter, the mail, the lobby drop box, or the county's online vendor.</li><li>Cash, certified checks, money orders and the major credit cards are accepted, and card payments may include a convenience fee.</li><li>A check drawn on an out-of-state bank will be refused for delinquent real estate tax.</li></ul>\n<p>Penalties follow <a href=\"https://law.justia.com/codes/south-carolina/title-12/chapter-45/section-12-45-180/\">S.C. Code 12-45-180</a>: 3 percent once January 15 passes, 7 percent more on February 2, and 5 percent more on March 17. The Tax Collector can tell you the exact total on your own bill.</p>"
   },
   {
    "h2": "Homestead exemption and the school-tax credit",
-   "html": "<p>The homestead exemption is for an owner who is 65 or older, totally and permanently disabled, or legally blind. The applicant must hold fee simple title or a life estate in the primary residence and must have lived in South Carolina for a full calendar year as of December 31 of the prior tax year.</p>\n<p>Legal residents also get a 4 percent homeowners credit on school operating taxes, so they pay only the school bond portion. Second homes, land and business property do not receive the credit. A lake cottage that is not your legal residence is therefore billed differently, and the Assessor can tell you how your parcel is classified.</p>\n<p>If you sell or rent the home, or change who is on the deed, notify the Auditor. For a seller that means the exemption ends at the sale, and your buyer applies on their own.</p>"
+   "html": "<p>Three groups can apply for the homestead exemption: owners 65 or older, owners who are totally and permanently disabled, and owners who are legally blind. They need fee simple title or a life estate in their primary home, plus a full calendar year of South Carolina residency as of December 31 of the preceding tax year.</p>\n<p>Legal residents also receive a 4 percent homeowners credit against school operating taxes, leaving only the school bond portion to pay. That credit stops short of second homes, land and business property. A lake cottage you do not live in full time is billed on a different basis than your main house, and the Assessor can confirm how your parcel is classified.</p>\n<p>Report any sale, rental or deed change to the Auditor. At a sale the seller's exemption simply ends, and the buyer files a separate application.</p>"
   },
   {
    "h2": "How to appeal your assessment",
@@ -30,30 +30,34 @@
    "html": "<p>The Register of Deeds is in Room 114 of the courthouse, phone (864) 942-8612, open 8:30 a.m. to 5:00 p.m. Monday through Friday. Documents delivered before 4 p.m. are recorded that day, later ones wait until the next day, and originals come back by mail 3 to 5 business days afterward.</p>\n<p>The recording tax is $1.85 per $500 under <a href=\"https://www.scstatehouse.gov/code/t12c024.php\">Title 12, Chapter 24</a>. State tax liens no longer get filed with county offices. They show up on the Department of Revenue's registry instead.</p>\n<p>Redemptions after a tax sale go through Room 101 and are accepted as cash, certified check or money order only. Cards are not taken. Selling before the sale lets you skip that step altogether.</p>"
   },
   {
-   "h2": "Selling a Greenwood County house that has tax or title issues",
-   "html": "<p>These are the steps most sellers follow:</p>\n<ol><li>Ask the Tax Collector for the balance, including any advance installments already paid this year.</li><li>Check with the Auditor whether a homestead exemption or school-tax credit is on the account, and tell that office about the sale.</li><li>If the land has agricultural classification and you plan to split it, ask the Assessor what rollback tax could result.</li><li>Pull the recorded deed from the Register of Deeds and confirm the seller's name matches. For an inherited home, the estate paperwork has to be in order before closing.</li></ol>\n<p>All three tax offices and the Register of Deeds share one building, so it is possible to cover every stop in a single trip, keeping in mind that the tax offices close on Fridays. A cash buyer purchasing as-is does not ask for a lender appraisal, and the closing date is yours to set around your own schedule.</p>"
+   "h2": "Selling a Greenwood County house with tax or title issues",
+   "html": "<p>Most sellers work through the same short list.</p>\n<ol><li>Ask the Tax Collector what is still owed, remembering that advance installments already paid count toward the year.</li><li>Find out from the Auditor whether the account carries a homestead exemption or school-tax credit, and report the pending sale.</li><li>If the land is classified as agricultural and you are splitting it, ask the Assessor what rollback tax might result.</li><li>Get the recorded deed from the Register of Deeds and make sure the name on it is the seller's. Inherited property needs estate paperwork in order before closing.</li></ol>\n<p>The three tax offices and the Register of Deeds share one building, so one trip can cover every stop, as long as you avoid Friday for the tax offices. A cash buyer purchasing as-is has no lender appraisal to wait for, so you pick the closing date around your own plans.</p>"
+  },
+  {
+   "h2": "Timing a sale around the tax year",
+   "html": "<p>Selling in the first weeks of the year deserves care. Between January 15 and March 17 the penalties step up, and a payoff quoted early in that stretch will be higher by the time you close. Ask for a new figure once the closing date is set.</p>\n<p>If you already paid advance installments in February, April or June, your title agent should credit them against the balance. Bring those receipts to the closing table.</p>\n<p>For a house nobody lives in, the main risk is an unopened bill. A bill that goes unnoticed does not stop penalties, and a tax sale can follow. An heir who sorts out the account early has more choices, including selling before the Tax Collector's office handles redemptions.</p>\n<p>Whichever way the sale goes, keep your copies of the deed, the final tax receipt and any letter from the Auditor about the homestead exemption. Buyers and title companies often ask for them.</p>"
   }
  ],
  "faqs": [
   {
-   "q": "What is the final payment deadline for Greenwood County property tax?",
-   "a": "On or before January 15 of the year after the tax year. Advance installments are also available in February, April, June, August and October."
+   "q": "When must the last Greenwood County property tax payment be made?",
+   "a": "By January 15 of the year following the tax year. Advance installments are possible in February, April, June, August and October."
   },
   {
-   "q": "Is online payment available for Greenwood County taxes?",
-   "a": "Yes. Current and delinquent real, personal and mobile home taxes can be paid through the county's vendor, in person, by mail or in the lobby drop box. A card fee may apply."
+   "q": "Can I pay Greenwood County taxes over the internet?",
+   "a": "Yes. The county's payment vendor handles current and delinquent real, personal and mobile home taxes, and you can also pay at the counter, by mail or in the lobby drop box. Cards may carry a fee."
   },
   {
-   "q": "Who qualifies for the Greenwood County homestead exemption?",
-   "a": "Owners who are 65 or older, totally and permanently disabled, or legally blind and who meet the ownership and residency rules. Apply in person with the Auditor, and report any sale or rental."
+   "q": "Who is eligible for homestead in Greenwood County?",
+   "a": "Owners 65 or older, totally and permanently disabled, or legally blind, who also meet the ownership and residency tests. File in person with the Auditor and report a sale or rental."
   },
   {
-   "q": "How long can I contest a Greenwood County assessment?",
-   "a": "Ninety days from the mailing of a notice that raised value by $1,000 or more. Send the written objection to the Assessor."
+   "q": "How long is the window to object to my Greenwood County value?",
+   "a": "Ninety days after the mailing of a notice that raised value by $1,000 or more. Send the written objection to the Assessor's office."
   },
   {
-   "q": "When are the Greenwood County tax offices open?",
-   "a": "The Assessor, Auditor and Tax Collector keep 7:45 to 5:30 Monday through Thursday and close Friday. The Register of Deeds is open 8:30 a.m. to 5:00 p.m. Monday through Friday."
+   "q": "What hours do the Greenwood County offices keep?",
+   "a": "The Assessor, Auditor and Tax Collector run 7:45 to 5:30 Monday through Thursday and are closed Friday. The Register of Deeds is open 8:30 a.m. to 5:00 p.m. Monday through Friday."
   }
  ],
  "sources": [
