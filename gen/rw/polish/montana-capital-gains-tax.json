@@ -1,0 +1,89 @@
+{
+ "slug": "montana-capital-gains-tax",
+ "sections": [
+  {
+   "h2": "Does Montana tax capital gains when you sell a house?",
+   "html": "<p>Yes. Montana taxes net long-term capital gains as part of state income tax, and a house you owned for more than a year produces a long-term gain if you sold for more than your basis. The rates stay at 3.0% and 4.1% for tax years 2026 and 2027.</p><p>Montana has no separate real estate gains tax. The gain from your house goes on your Montana individual income tax return, Form 2, alongside your other income. A seller who qualifies for the federal home sale exclusion may owe little or nothing.</p><p>This page is general information. Confirm your own numbers with the Department of Revenue or a tax professional.</p>"
+  },
+  {
+   "h2": "Montana capital gains rates and brackets",
+   "html": "<p>There are two capital gains rates, 3.0% and 4.1%, and which one applies depends on how your gain compares with your Montana ordinary income. The 2025 tables apply the lower rate to the first slice of gain, reduced by ordinary income, and 4.1% above it.</p><table><caption>Where the 3.0% rate ends, tax year 2025</caption><thead><tr><th>Filing status</th><th>3.0% applies to first</th><th>4.1% applies to</th></tr></thead><tbody><tr><td>Single or married filing separately</td><td>$21,100 of gain, minus ordinary income</td><td>Gain above that</td></tr><tr><td>Married filing jointly or surviving spouse</td><td>$42,200 of gain, minus ordinary income</td><td>Gain above that</td></tr><tr><td>Head of household</td><td>$31,700 of gain, minus ordinary income</td><td>Gain above that</td></tr></tbody></table><p>If your ordinary income already exceeds the threshold, all of your net long-term gain is taxed at 4.1%. For 2026 and 2027, House Bill 337 keeps the 3.0% and 4.1% rates but adjusts the brackets to match its new ordinary income ranges.</p>"
+  },
+  {
+   "h2": "The 2026 and 2027 income tax changes",
+   "html": "<p>House Bill 337 widens the lower ordinary income bracket and trims the upper rate, and it leaves the capital gains rates alone. Taxable income for these brackets does not include long-term capital gains, so the gain is taxed on its own schedule.</p><p>For 2026, the 4.7% rate applies up to $47,500 for a single filer, $71,250 for head of household and $95,000 for a married couple filing jointly, with an upper rate of 5.65%. For 2027, the 4.7% rate applies up to $65,000, $97,500 and $130,000 for those same statuses, and the upper rate drops to 5.4%. In 2025 the upper ordinary income rate was 5.9%. The bill also raises the Montana earned income tax credit to 20% of the federal credit starting in 2026.</p><p>The year of sale decides which set of brackets you use, so a December closing and a January closing can fall under different tables.</p>"
+  },
+  {
+   "h2": "Federal tax on the gain from selling your Montana home",
+   "html": "<p>Often there is none. If you sell your main home, you may exclude up to $250,000 of gain, or up to $500,000 if you file jointly with your spouse. Federal rules require that you owned the home for at least 24 months and used it as a residence for at least 24 months within the five years before the sale.</p><ul><li>The two years of ownership and two years of use can fall in different periods, as long as both are met inside the five-year window.</li><li>You generally cannot claim the exclusion if you excluded gain on another home during the prior two years.</li><li>If you receive Form 1099-S, you must report the sale even when the gain is fully excluded.</li><li>Reporting uses Schedule D and Form 8949 when required.</li><li>Uniformed Services, Foreign Service and intelligence community members on qualified extended duty may suspend the five-year period for up to 10 years.</li></ul><p>The <a href=\"https://www.irs.gov/taxtopics/tc701\">IRS sale of your home topic</a> and Publication 523 give the full rules. Gain above the exclusion is the part that reaches your Montana return at the rates above.</p>"
+  },
+  {
+   "h2": "The Montana Realty Transfer Certificate",
+   "html": "<p>The certificate tells the state about your sale, and the state matches it to income tax returns. The form says plainly that you may owe income taxes, because any gain on the transfer is Montana-source income that should be reported to the department.</p><p>The form asks for the last four digits of each seller's Social Security number or federal ID number, which the department uses to cross-match certificates with income tax returns. It also asks whether the property was your principal residence, defined as a dwelling occupied for at least seven months.</p><p>It must be filed with the county clerk and recorder when the deed is presented for recording. A false or missing form can bring a $500 penalty, six months in jail, or both.</p><p>The form lists distressed sales separately, with boxes for a sheriff's deed, trustee's deed, deed in lieu of foreclosure and short sale. It also has a box for transfers that are part of a 1031 or 1033 exchange.</p>"
+  },
+  {
+   "h2": "Figuring your gain: basis, improvements and selling costs",
+   "html": "<p>Your gain is the sale price minus your adjusted basis and the costs of selling. Basis starts with what you paid and rises with capital improvements, such as a new roof or an addition. Routine repairs do not add to basis.</p><p>Keep records that show:</p><ul><li>The purchase price and closing statement from when you bought.</li><li>Receipts for improvements that added value or extended the life of the house.</li><li>The settlement statement from the sale, which lists commissions, title fees and any credits to the buyer.</li></ul><p>Selling as-is means you spend nothing on fix-up work, and it also means you add nothing to your basis before the sale. If your gain sits comfortably under the federal exclusion, that trade-off costs little in tax. If you are near the limit, talk to a tax adviser before choosing.</p>"
+  },
+  {
+   "h2": "Selling an inherited house after probate",
+   "html": "<p>Inherited property usually gets a basis equal to its fair market value on the date of death. IRS Publication 551 describes basis of inherited property as generally the fair market value at the decedent's date of death, which often removes most of the gain that built up during the owner's lifetime.</p><p>An heir who sells soon after inheriting therefore often reports a small gain or none. Gifted property works differently, so read Publication 551 for your case.</p><p>Hold on to an appraisal or other date-of-death valuation. If you did not receive a Schedule A showing the estate tax value, you can use the appraised value at the date of death for state inheritance or transmission tax purposes. Our <a href=\"/montana-estate-tax/\">Montana estate and inheritance tax guide</a> covers the estate side.</p>"
+  },
+  {
+   "h2": "Moving to Montana or selling from another state",
+   "html": "<p>Montana's return gives a credit for income tax paid to another state or country on gains that Montana also taxes. Schedule III includes a line for that credit on Montana net long-term capital gains, set at the lesser of the figures on its worksheet lines.</p><p>If you do not live in Montana but sell Montana real estate, the gain is still Montana-source income, as the certificate states. A nonresident seller should expect Montana to want it reported, and a title or escrow officer can tell you what paperwork applies to your closing.</p>"
+  },
+  {
+   "h2": "How a quick cash sale affects your taxes",
+   "html": "<p>A cash sale does not change the tax rules, only the timing and certainty. The same federal exclusion, Montana rates and reporting forms apply whether the buyer pays cash or uses a loan.</p><p>What you control is the paperwork. Selling costs reduce your gain, so ask for the settlement statement early and give it to your tax preparer.</p><p>Plan for the tax bill the following spring. Set aside part of your proceeds if you expect any gain above the exclusion, and keep the closing statement, the Realty Transfer Certificate copy and your basis records together.</p>"
+  }
+ ],
+ "faqs": [
+  {
+   "q": "What is the Montana capital gains tax rate?",
+   "a": "Montana taxes net long-term capital gains at 3.0% and 4.1%. Those rates stay in place for tax years 2026 and 2027, with brackets adjusted to match the new ordinary income ranges."
+  },
+  {
+   "q": "Does Montana have a separate tax on selling a house?",
+   "a": "No. The gain is reported on your Montana individual income tax return, Form 2, and you file a Realty Transfer Certificate with the county clerk and recorder at recording."
+  },
+  {
+   "q": "How much of my home sale gain is excluded?",
+   "a": "Federal law lets you exclude up to $250,000, or $500,000 on a joint return, if you owned and lived in the home at least two of the last five years. You owe Montana tax only on gain that is not excluded, though you still report the sale if you receive a Form 1099-S."
+  },
+  {
+   "q": "Is capital gains tax collected at closing in Montana?",
+   "a": "No. You report the gain on your income tax return for the year of sale, so plan to set money aside. Unpaid property tax, by contrast, is paid from proceeds at closing."
+  },
+  {
+   "q": "What is the basis of a house I inherited in Montana?",
+   "a": "Generally it is the fair market value on the date of death, as described in IRS Publication 551. Keep a date-of-death appraisal so you can support it. For tax questions, the Department of Revenue call center is (406) 444-6900."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Montana DOR: 2025 Montana Tax Tables and Deductions",
+   "url": "https://revenue.mt.gov/taxes/tax-tables-and-deductions/2025"
+  },
+  {
+   "title": "Montana DOR: HB337, 2026-2027 Montana Individual Income Tax Changes",
+   "url": "https://revenue.mt.gov/news/recent-news/HB-337"
+  },
+  {
+   "title": "IRS: Topic no. 701, Sale of your home",
+   "url": "https://www.irs.gov/taxtopics/tc701"
+  },
+  {
+   "title": "IRS: Publication 551, Basis of Assets",
+   "url": "https://www.irs.gov/publications/p551"
+  },
+  {
+   "title": "Montana DOR: Realty Transfer Certificate",
+   "url": "https://revenuefiles.mt.gov/files/Forms/Realty_Transfer_Certificate_Form_RTC.pdf"
+  },
+  {
+   "title": "Montana DOR: 2025 Montana Individual Income Tax Return Schedule III",
+   "url": "https://revenue.mt.gov/files/Forms/Montana-Individual-Income-Tax-Return-Form-2/Form_2_2025_Schedule_III.pdf"
+  }
+ ]
+}
