@@ -3,7 +3,7 @@
  "sections": [
   {
    "h2": "Selling in Brownsville at a glance",
-   "html": "<p>Brownsville sits on the Rio Grande, facing Matamoros, and serves as the seat of Cameron County. Most sales involve three local offices: the appraisal district, the clerk and the tax office. Population was estimated at 192,957 in mid-2025, 3.6% above the 2020 base. Owners live in about 61.7% of homes. The median home value is $139,900 and the median rent is $923.</p><p>Since 83.6% of residents age five and older speak another language at home, many families go through contracts and disclosures in two languages. Make sure everyone on the deed understands what they are signing.</p>"
+   "html": "<p>Brownsville sits on the Rio Grande, facing Matamoros, and serves as the seat of Cameron County. Most sales involve three local offices: the appraisal district, the clerk and the tax office. Population was estimated at 192,957 in mid-2025, 3.6% above the 2020 base. Owners live in about 61.7% of homes. The median home value is $139,900 and the median rent is $923.</p><p>Because 83.6% of residents over age five speak another language at home, contracts here are often read in two languages. Everyone on the deed should understand the paper before signing it.</p>"
   },
   {
    "h2": "How Cameron CAD sets your value",
@@ -11,15 +11,15 @@
   },
   {
    "h2": "Homestead exemptions",
-   "html": "<p>Applicants must prove Texas residency, for example with a driver's license, and married owners both apply and show identification. Four exemptions cover a residence: homestead, over-65, disabled person and 100% disabled veteran. A disabled veteran exemption may be placed on any single property the veteran owns instead.</p><ul><li>You can claim over-65 or disabled in a given year, not both.</li><li>Where only part of the ownership lives in the house, the account is divided and the exemption is scaled to the qualifying owner's percentage.</li><li>Adding a pool, garage or room raises the school tax ceiling. A Tax Ceiling Transfer form carries it to a new Texas homestead.</li></ul><p>A few exemption types need a new application by April 30 each year. Ask the district which ones apply to you.</p>"
+   "html": "<p>You prove Texas residency with something like a driver's license. Married owners each apply and show ID. Four exemptions cover a residence: homestead, over-65, disabled person and 100% disabled veteran. A disabled veteran exemption may be placed on any single property the veteran owns instead.</p><ul><li>You can claim over-65 or disabled in a given year, not both.</li><li>Where only part of the ownership lives in the house, the account is divided and the exemption is scaled to the qualifying owner's percentage.</li><li>Adding a pool, garage or room raises the school tax ceiling. A Tax Ceiling Transfer form carries it to a new Texas homestead.</li></ul><p>A few exemption types need a new application by April 30 each year. Ask the district which ones apply to you.</p>"
   },
   {
    "h2": "How to contest your appraisal",
-   "html": "<p>The protest goes in writing, due on the later of May 15 or 30 days after the notice reached you. Mail, hand delivery and email all work. A mailed one needs a postmark by the deadline.</p><p>Once the deadline is gone, nobody at the district or the review board can adjust the value. A hospital stay can be good cause for lateness, but a forgotten date can't. File on time and you receive at least 15 days' notice of a hearing that tends to last about 15 minutes. If the result still looks wrong, the options are district court, binding arbitration or, here in Cameron County, the State Office of Administrative Hearings.</p><ul><li>Name the owner and give the property address or account number.</li><li>State the issue, such as market value.</li><li>Attach comparable sales, photos or repair estimates as support.</li></ul>"
+   "html": "<p>The protest goes in writing, due on the later of May 15 or 30 days after the notice reached you. Mail, hand delivery and email all work. A mailed one needs a postmark by the deadline.</p><p>After the deadline, the district and the review board lose the power to change the value. Hospitalization can excuse a late filing. Forgetting cannot. File on time and you receive at least 15 days' notice of a hearing that tends to last about 15 minutes. If the result still looks wrong, the options are district court, binding arbitration or, here in Cameron County, the State Office of Administrative Hearings.</p><ul><li>Name the owner and give the property address or account number.</li><li>State the issue, such as market value.</li><li>Attach comparable sales, photos or repair estimates as support.</li></ul>"
   },
   {
    "h2": "Tax calendar and penalties",
-   "html": "<p>January 1 fixes both value and the tax lien. Cameron County Tax Office is on East Levee Street, at the same address as the clerk. Call it to learn which taxing units bill your address and what the payoff is.</p><table><caption>Key dates for a Brownsville property tax bill</caption><thead><tr><th>Date</th><th>What happens</th></tr></thead><tbody><tr><td>January 1</td><td>Value and the year's lien are set</td></tr><tr><td>April 30</td><td>Some exemption types need a new application</td></tr><tr><td>May 15 or 30 days after notice</td><td>Protest deadline, whichever is later</td></tr><tr><td>Around October 1</td><td>Bills arrive</td></tr><tr><td>February 1</td><td>Unpaid balances turn delinquent, with a six percent penalty plus one percent interest</td></tr><tr><td>After July 1</td><td>Penalty rises to 12 percent; a unit's attorney may add up to 20 percent</td></tr></tbody></table><p>Clear title is impossible with delinquent tax on the books, so pay any balance by closing.</p>"
+   "html": "<p>January 1 fixes both value and the tax lien. Cameron County Tax Office is on East Levee Street, at the same address as the clerk. Call it to learn which taxing units bill your address and what the payoff is.</p><table><caption>Key dates for a Brownsville property tax bill</caption><thead><tr><th>When</th><th>Event for the owner</th></tr></thead><tbody><tr><td>January 1</td><td>Value and the year's lien are set</td></tr><tr><td>April 30</td><td>Some exemption types need a new application</td></tr><tr><td>May 15, or day 30 after the notice</td><td>Last day to protest, whichever falls later</td></tr><tr><td>Around October 1</td><td>Bills arrive</td></tr><tr><td>February 1</td><td>Balances still owed become delinquent: six percent penalty, one percent interest</td></tr><tr><td>After July 1</td><td>Twelve percent penalty; the taxing unit's lawyer may tack on up to 20 percent</td></tr></tbody></table><p>Clear title is impossible with delinquent tax on the books, so pay any balance by closing.</p>"
   },
   {
    "h2": "What if the property is headed for a tax sale?",
@@ -27,11 +27,11 @@
   },
   {
    "h2": "Selling an inherited house",
-   "html": "<p>Valley family land often remains titled to a relative who died decades ago. An affidavit of heirship, sworn and filed with the county clerk, is the quick fix, but no judge reviews it and a title insurer may refuse to rely on it.</p><p>Sturdier options: open probate within four years; use a muniment of title when the estate's only debts are liens on the real estate; or rely on a transfer on death deed recorded during the owner's lifetime. Heirs who want an exemption but don't appear on a recorded deed give the appraisal district three items: an affidavit of ownership interest, a death certificate and a recent utility bill.</p>"
+   "html": "<p>Valley family land often remains titled to a relative who died decades ago. An affidavit of heirship, sworn and filed with the county clerk, is the quick fix, but no judge reviews it and a title insurer may refuse to rely on it.</p><p>Sturdier options: open probate within four years; use a muniment of title when the estate's only debts are liens on the real estate; or rely on a transfer on death deed recorded during the owner's lifetime. An heir missing from the recorded deed can still seek an exemption by bringing the appraisal district an affidavit of ownership interest, the death certificate and a recent utility bill.</p>"
   },
   {
    "h2": "Where a Brownsville deed is recorded",
-   "html": "<p>Deeds, liens, plats and maps are kept by the Cameron County Clerk at 835 E. Levee Street. After a deed is recorded, bring Cameron CAD the instrument, or its volume and page numbers, so the owner of record gets updated.</p><p>The state clerk manual sets recording at $5.00 for the first page and $4.00 for every page after it, and other fees apply. The clerk can quote the total for your deed.</p>"
+   "html": "<p>The Cameron County Clerk, 835 E. Levee Street, holds deeds, liens, plats and maps. After a deed is recorded, bring Cameron CAD the instrument, or its volume and page numbers, so the owner of record gets updated.</p><p>Expect $5.00 for the first page and $4.00 for each following page, plus other fees listed in the state clerk manual. Call the clerk for your deed's total.</p>"
   },
   {
    "h2": "Cash sale or listing?",
@@ -49,7 +49,7 @@
  "faqs": [
   {
    "q": "What does a typical Brownsville home cost?",
-   "a": "A typical owner-occupied house is valued at $139,900. What yours brings depends on its condition, lot and street."
+   "a": "Median value for an owner-occupied home is $139,900, but condition, lot and street move any single sale up or down."
   },
   {
    "q": "Will Cameron CAD always mail a value notice?",
@@ -61,7 +61,7 @@
   },
   {
    "q": "Where can I get a copy of my Brownsville deed?",
-   "a": "Ask the Cameron County Clerk on East Levee Street. Deeds, surveys and plats are not something the appraisal district hands out."
+   "a": "Go to the county clerk on East Levee Street. The appraisal district does not hand out deeds, surveys or plats."
   },
   {
    "q": "Does a Brownsville homeowner over 65 get a tax ceiling?",
